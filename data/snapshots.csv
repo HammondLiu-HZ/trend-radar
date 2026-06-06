@@ -155,3 +155,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-06T14:36:13.739777+00:00,48373954,48,"No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z Combinators",51,9
 2026-06-06T14:36:13.739777+00:00,48425034,49,I built a black-and-white e-ink display to stop checking my phone 60 times a day,4,0
 2026-06-06T14:36:13.739777+00:00,48409955,50,Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens,134,68
+2026-06-06T19:56:25.527181+00:00,48428025,1,Ntsc-rs – open-source video emulation of analog TV and VHS artifacts,20,6
+2026-06-06T19:56:25.527181+00:00,48425723,2,Zeroserve: A zero-config web server you can script with eBPF,107,26
+2026-06-06T19:56:25.527181+00:00,48424605,3,Nvidia is proposing a beast of a CPU system for Windows PCs,146,297
+2026-06-06T19:56:25.527181+00:00,48426202,4,You Can Run,43,12
+2026-06-06T19:56:25.527181+00:00,48425247,5,Benchmarks in Leipzig,98,40
+2026-06-06T19:56:25.527181+00:00,48427643,6,Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot,43,14
+2026-06-06T19:56:25.527181+00:00,48372138,7,Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk,59,8
+2026-06-06T19:56:25.527181+00:00,48395370,8,"WoofWare.PawPrint, a Deterministic .NET Runtime",23,5
+2026-06-06T19:56:25.527181+00:00,48389360,9,How LLMs work,747,204
+2026-06-06T19:56:25.527181+00:00,48423990,10,Google will pay SpaceX $920M per month for compute,316,472
+2026-06-06T19:56:25.527181+00:00,48423762,11,Pokemon Emerald Ported to WebAssembly (100k FPS),193,57
+2026-06-06T19:56:25.527181+00:00,48427523,12,"Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",156,85
+2026-06-06T19:56:25.527181+00:00,48425347,13,Running Python code in a sandbox with MicroPython and WASM,47,17
+2026-06-06T19:56:25.527181+00:00,48426022,14,Police in England and Wales told to halt AI use in court statements,108,37
+2026-06-06T19:56:25.527181+00:00,48425528,15,Moving beyond fork() + exec(),189,187
+2026-06-06T19:56:25.527181+00:00,48396783,16,Summer of '85: DOSBOS is rejected by ANALOG Computing,27,7
+2026-06-06T19:56:25.527181+00:00,48348876,17,Building Rust Procedural Macros from the Grounds Up,59,13
+2026-06-06T19:56:25.527181+00:00,48421442,18,"S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",1210,422
+2026-06-06T19:56:25.527181+00:00,48396417,20,"Lambda isn't leaking memory, your metrics are lying to you",6,0
+2026-06-06T19:56:25.527181+00:00,48424674,21,Trees to Flows and Back: Unifying Decision Trees and Diffusion Models,28,5
+2026-06-06T19:56:25.527181+00:00,48425982,22,Python JIT project was asked to pause development,95,33
+2026-06-06T19:56:25.527181+00:00,48418125,23,"Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",33,2
+2026-06-06T19:56:25.527181+00:00,48390269,24,Splash Is a Colour Format,28,20
+2026-06-06T19:56:25.527181+00:00,48420148,25,The intracies of modern camera lens repair (2024),226,83
+2026-06-06T19:56:25.527181+00:00,48413500,26,"New method turns ocean water into drinking water, without waste",473,199
+2026-06-06T19:56:25.527181+00:00,48420827,27,Ask HN: Why is the HN crowd so anti-AI?,280,476
+2026-06-06T19:56:25.527181+00:00,48406174,28,"Ask HN: What was your ""oh shit"" moment with GenAI?",489,869
+2026-06-06T19:56:25.527181+00:00,48362115,29,Show HN: Soft Body Jiggle Physics,42,16
+2026-06-06T19:56:25.527181+00:00,48369864,30,Social Cache Busting,117,43
+2026-06-06T19:56:25.527181+00:00,48421171,31,"Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",158,46
+2026-06-06T19:56:25.527181+00:00,48414367,32,pg_durable: Microsoft open sources in-database durable execution,456,104
+2026-06-06T19:56:25.527181+00:00,48426405,33,"First Commodore PET sold, June 5, 1977",7,0
+2026-06-06T19:56:25.527181+00:00,48419571,34,The perils of UUID primary keys in SQLite,142,88
+2026-06-06T19:56:25.527181+00:00,48413464,35,Astronauts told to return to ISS after sheltering over air leak repairs,416,257
+2026-06-06T19:56:25.527181+00:00,48414653,36,Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency,386,120
+2026-06-06T19:56:25.527181+00:00,48383667,37,Mouseless – keyboard-driven control of macOS/Linux/Windows,571,237
+2026-06-06T19:56:25.527181+00:00,48425031,38,US House lawmakers release draft bill to prohibit state AI rules,94,62
+2026-06-06T19:56:25.527181+00:00,48415217,39,Gov.uk has replaced Stripe with Dutch provider Adyen,543,212
+2026-06-06T19:56:25.527181+00:00,48398925,40,My Agent Skill for Test-Driven Development,213,100
+2026-06-06T19:56:25.527181+00:00,48421079,41,The back cover of C++: The Language raises questions not answered by front cover,133,48
+2026-06-06T19:56:25.527181+00:00,48422993,42,The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy,178,80
+2026-06-06T19:56:25.527181+00:00,48380932,43,Ten Years of Franz,60,34
+2026-06-06T19:56:25.527181+00:00,48414027,44,Conventional Commits encourages focus on the wrong things,347,250
+2026-06-06T19:56:25.527181+00:00,48426193,45,We have decided to make our service FREE. (Bloomberg Terminal for Everyone),6,1
+2026-06-06T19:56:25.527181+00:00,48411799,46,The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography,107,77
+2026-06-06T19:56:25.527181+00:00,48413254,47,India's surprise baby bust,210,945
+2026-06-06T19:56:25.527181+00:00,48416845,48,Three of our worst VC stories,253,131
+2026-06-06T19:56:25.527181+00:00,48423995,49,AI Can't Care,15,1
+2026-06-06T19:56:25.527181+00:00,48383760,50,"Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",75,18
