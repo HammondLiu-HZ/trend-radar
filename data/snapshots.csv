@@ -106,3 +106,52 @@ captured_at,story_id,rank,title,score,comments
 2026-05-28T13:45:22.328409+00:00,48275255,28,A New Typst Template for Pandoc (2025),94,19
 2026-05-28T13:45:22.328409+00:00,48307098,29,AI sticker shock hits corporate America,119,102
 2026-05-28T13:45:22.328409+00:00,48302822,30,Google employee charged with $1M Polymarket insider trading bet on search term,251,149
+2026-06-06T14:36:13.739777+00:00,48425247,1,Benchmarks in Leipzig,27,9
+2026-06-06T14:36:13.739777+00:00,48389360,2,How LLMs work,563,164
+2026-06-06T14:36:13.739777+00:00,48424125,3,The new bibliomaniacs,24,15
+2026-06-06T14:36:13.739777+00:00,48348876,4,Building Rust Procedural Macros from the Grounds Up,19,1
+2026-06-06T14:36:13.739777+00:00,48423762,5,Pokemon Emerald Ported to WebAssembly (100k FPS),55,19
+2026-06-06T14:36:13.739777+00:00,48421442,6,"S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",873,303
+2026-06-06T14:36:13.739777+00:00,48420148,7,The intracies of modern camera lens repair (2024),203,71
+2026-06-06T14:36:13.739777+00:00,48413500,9,"New method turns ocean water into drinking water, without waste",438,178
+2026-06-06T14:36:13.739777+00:00,48406174,10,"Ask HN: What was your ""oh shit"" moment with GenAI?",420,750
+2026-06-06T14:36:13.739777+00:00,48421171,11,"Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",116,39
+2026-06-06T14:36:13.739777+00:00,48422451,12,Azure Linux Desktop,42,21
+2026-06-06T14:36:13.739777+00:00,48413464,13,Astronauts told to return to ISS after sheltering over air leak repairs,408,253
+2026-06-06T14:36:13.739777+00:00,48369864,14,Social Cache Busting,74,19
+2026-06-06T14:36:13.739777+00:00,48414367,15,pg_durable: Microsoft open sources in-database durable execution,428,95
+2026-06-06T14:36:13.739777+00:00,48411635,16,Did Claude increase bugs in rsync?,464,473
+2026-06-06T14:36:13.739777+00:00,48414653,17,Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency,366,112
+2026-06-06T14:36:13.739777+00:00,48383667,18,Mouseless – keyboard-driven control of macOS/Linux/Windows,553,224
+2026-06-06T14:36:13.739777+00:00,48422993,19,The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy,115,28
+2026-06-06T14:36:13.739777+00:00,48391541,20,HISE – Toolkit for building VST plugins,14,2
+2026-06-06T14:36:13.739777+00:00,48424252,21,Meta Keeps Delaying the Release of Its New AI Model to Developers,20,5
+2026-06-06T14:36:13.739777+00:00,48421079,22,The back cover of C++: The Language raises questions not answered by front cover,120,41
+2026-06-06T14:36:13.739777+00:00,48398925,23,My Agent Skill for Test-Driven Development,207,88
+2026-06-06T14:36:13.739777+00:00,48415217,24,Gov.uk has replaced Stripe with Dutch provider Adyen,517,197
+2026-06-06T14:36:13.739777+00:00,48421145,25,Lockdown Mode,75,33
+2026-06-06T14:36:13.739777+00:00,48422769,26,Zig Zen Update,107,44
+2026-06-06T14:36:13.739777+00:00,48380932,27,Ten Years of Franz,49,27
+2026-06-06T14:36:13.739777+00:00,48423615,28,Introduction – Rust for Python Programmers,45,16
+2026-06-06T14:36:13.739777+00:00,48414027,29,Conventional Commits encourages focus on the wrong things,338,241
+2026-06-06T14:36:13.739777+00:00,48409664,30,Tracing a powerful GNSS interference source over Europe,405,211
+2026-06-06T14:36:13.739777+00:00,48416845,31,Three of our worst VC stories,244,117
+2026-06-06T14:36:13.739777+00:00,48383760,32,"Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",65,14
+2026-06-06T14:36:13.739777+00:00,48411799,33,The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography,99,75
+2026-06-06T14:36:13.739777+00:00,48420827,34,Ask HN: Why is the HN crowd so anti-AI?,217,394
+2026-06-06T14:36:13.739777+00:00,48413254,35,India's surprise baby bust,205,894
+2026-06-06T14:36:13.739777+00:00,48382219,36,Raytracing Geometries in 3D Rendering,14,2
+2026-06-06T14:36:13.739777+00:00,48408016,37,C++: The Documentary,407,302
+2026-06-06T14:36:13.739777+00:00,48416635,38,Transformers are inherently succinct,128,38
+2026-06-06T14:36:13.739777+00:00,48419571,39,The perils of UUID primary keys in SQLite,110,62
+2026-06-06T14:36:13.739777+00:00,48368003,40,Mathematician solves origami donut efficiency challenge with fewest folds,5,3
+2026-06-06T14:36:13.739777+00:00,48423990,41,Google will pay SpaceX $920M per month for compute,121,152
+2026-06-06T14:36:13.739777+00:00,48406198,42,South Korean forums will need to scan every images with AI censorship tools,253,145
+2026-06-06T14:36:13.739777+00:00,48380174,43,Cooldown Support for Ruby Bundler,160,43
+2026-06-06T14:36:13.739777+00:00,48413072,44,I tested every IP KVM in my Homelab,284,76
+2026-06-06T14:36:13.739777+00:00,48405264,45,"Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",79,17
+2026-06-06T14:36:13.739777+00:00,48414869,46,Launch HN: General Instinct (YC P26) – Frontier models on edge devices,54,15
+2026-06-06T14:36:13.739777+00:00,48382047,47,"Redis 8.8: New array data structure, rate limiter, performance improvements",214,99
+2026-06-06T14:36:13.739777+00:00,48373954,48,"No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z Combinators",51,9
+2026-06-06T14:36:13.739777+00:00,48425034,49,I built a black-and-white e-ink display to stop checking my phone 60 times a day,4,0
+2026-06-06T14:36:13.739777+00:00,48409955,50,Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens,134,68
