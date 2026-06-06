@@ -204,3 +204,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-06T19:56:25.527181+00:00,48416845,48,Three of our worst VC stories,253,131
 2026-06-06T19:56:25.527181+00:00,48423995,49,AI Can't Care,15,1
 2026-06-06T19:56:25.527181+00:00,48383760,50,"Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",75,18
+2026-06-06T23:44:57.871036+00:00,48428025,1,Ntsc-rs – open-source video emulation of analog TV and VHS artifacts,218,43
+2026-06-06T23:44:57.871036+00:00,48427643,2,Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot,334,124
+2026-06-06T23:44:57.871036+00:00,48425528,3,Moving beyond fork() + exec(),222,244
+2026-06-06T23:44:57.871036+00:00,48425723,4,Zeroserve: A zero-config web server you can script with eBPF,176,44
+2026-06-06T23:44:57.871036+00:00,48424605,5,Nvidia is proposing a beast of a CPU system for Windows PCs,218,400
+2026-06-06T23:44:57.871036+00:00,48428763,6,New U.S. college grads now have higher unemployment than the average worker,106,80
+2026-06-06T23:44:57.871036+00:00,48426202,7,You Can Run,90,41
+2026-06-06T23:44:57.871036+00:00,48428475,8,"Sem: New primitive for code understanding – not LSPs, but entities on top of Git",27,13
+2026-06-06T23:44:57.871036+00:00,48428647,9,Computex 2026: Are We Heading for the Agentic PC Era Yet?,18,19
+2026-06-06T23:44:57.871036+00:00,48358339,10,PyTorch Custom Operation,15,2
+2026-06-06T23:44:57.871036+00:00,48423762,11,Pokemon Emerald Ported to WebAssembly (100k FPS),255,71
+2026-06-06T23:44:57.871036+00:00,48428356,12,"Home alone: Remote work, isolation, and mental health",104,98
+2026-06-06T23:44:57.871036+00:00,48372138,13,Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk,108,18
+2026-06-06T23:44:57.871036+00:00,48417490,14,Google to pay SpaceX $920M a month for compute capacity at xAI data centers,113,686
+2026-06-06T23:44:57.871036+00:00,48427523,15,"Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",360,249
+2026-06-06T23:44:57.871036+00:00,48425247,16,Benchmarks in Leipzig,120,44
+2026-06-06T23:44:57.871036+00:00,48424125,17,The new bibliomaniacs,60,50
+2026-06-06T23:44:57.871036+00:00,48406174,18,"Ask HN: What was your ""oh shit"" moment with GenAI?",532,931
+2026-06-06T23:44:57.871036+00:00,48375776,19,Static Devirtualization of Themida,15,1
+2026-06-06T23:44:57.871036+00:00,48425347,20,Running Python code in a sandbox with MicroPython and WASM,70,21
+2026-06-06T23:44:57.871036+00:00,48425611,21,Motorola effectively bricked its entire line of WiFi routers without explanation,40,11
+2026-06-06T23:44:57.871036+00:00,48421442,22,"S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",1335,462
+2026-06-06T23:44:57.871036+00:00,48395370,23,"WoofWare.PawPrint, a Deterministic .NET Runtime",47,15
+2026-06-06T23:44:57.871036+00:00,48412708,24,How to make firecracker faster to start Chromium in < 20ms,4,3
+2026-06-06T23:44:57.871036+00:00,48348876,25,Building Rust Procedural Macros from the Grounds Up,81,15
+2026-06-06T23:44:57.871036+00:00,48396783,26,Summer of '85: DOSBOS is rejected by ANALOG Computing,48,11
+2026-06-06T23:44:57.871036+00:00,48420827,28,Ask HN: Why is the HN crowd so anti-AI?,360,604
+2026-06-06T23:44:57.871036+00:00,48424674,29,Trees to Flows and Back: Unifying Decision Trees and Diffusion Models,43,8
+2026-06-06T23:44:57.871036+00:00,48420148,30,The intracies of modern camera lens repair (2024),240,84
+2026-06-06T23:44:57.871036+00:00,48418125,31,"Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",41,4
+2026-06-06T23:44:57.871036+00:00,48389360,32,How LLMs work,836,231
+2026-06-06T23:44:57.871036+00:00,48421171,33,"Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",171,51
+2026-06-06T23:44:57.871036+00:00,48419571,34,The perils of UUID primary keys in SQLite,150,91
+2026-06-06T23:44:57.871036+00:00,48369864,35,Social Cache Busting,121,44
+2026-06-06T23:44:57.871036+00:00,48426916,36,Qualcomm Linux,18,0
+2026-06-06T23:44:57.871036+00:00,48425982,37,Python JIT project was asked to pause development,139,61
+2026-06-06T23:44:57.871036+00:00,48429488,38,Hong Kong Surpasses Switzerland as the Largest Cross-Border Wealth Hub,8,0
+2026-06-06T23:44:57.871036+00:00,48390269,39,Splash Is a Colour Format,32,30
+2026-06-06T23:44:57.871036+00:00,48427592,40,Law Professors Prefer AI over Peer Answers,10,1
+2026-06-06T23:44:57.871036+00:00,48429245,41,Gothic 1 Remake,9,0
+2026-06-06T23:44:57.871036+00:00,48427037,42,Which Buffett? Warren or Jimmy. Can you tell them apart?,15,4
+2026-06-06T23:44:57.871036+00:00,48427421,43,Vinyl succumbs to Loudness War: more than just collateral damage (2025),10,2
+2026-06-06T23:44:57.871036+00:00,48398375,44,What Columbus used instead of the North Star,16,2
+2026-06-06T23:44:57.871036+00:00,48426405,45,"First Commodore PET sold, June 5, 1977",13,1
+2026-06-06T23:44:57.871036+00:00,48428959,46,Discovery of Cold War-era rare Eastern Bloc computers in a German hangar,14,3
+2026-06-06T23:44:57.871036+00:00,48415217,47,Gov.uk has replaced Stripe with Dutch provider Adyen,550,214
+2026-06-06T23:44:57.871036+00:00,48398925,48,My Agent Skill for Test-Driven Development,219,104
+2026-06-06T23:44:57.871036+00:00,48362115,49,Show HN: Soft Body Jiggle Physics,49,19
+2026-06-06T23:44:57.871036+00:00,48421079,50,The back cover of C++: The Language raises questions not answered by front cover,142,48
