@@ -4,7 +4,7 @@ Realtime hot-topic radar for Hacker News — see what's hot **and what's rising 
 
 > Built with Python + Streamlit. Fetches live data, tracks momentum across snapshots, and deploys free on Streamlit Community Cloud.
 
-**[🔗 Live demo](https://your-app.streamlit.app)** · *(replace with your URL after deploying)*
+**[🔗 Live demo](https://trend-radar-dmjtjfcz9cc6cmuwhpzj3q.streamlit.app)**
 
 ![Trend Radar dashboard](docs/dashboard.png)
 
