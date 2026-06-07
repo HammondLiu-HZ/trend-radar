@@ -302,3 +302,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-07T10:15:47.357497+00:00,48389103,48,"PaceVer (an alternative to SemVer, for mobile apps)",10,6
 2026-06-07T10:15:47.357497+00:00,48430070,49,Context Sculpting,17,6
 2026-06-07T10:15:47.357497+00:00,48424674,50,Trees to Flows and Back: Unifying Decision Trees and Diffusion Models,46,11
+2026-06-07T15:56:02.422751+00:00,48434312,1,LLMs are eroding my software engineering career and I don't know what to do,423,354
+2026-06-07T15:56:02.422751+00:00,48435371,2,The OnlyFans Economy of American AI,83,76
+2026-06-07T15:56:02.422751+00:00,48435584,3,Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years,13,0
+2026-06-07T15:56:02.422751+00:00,48432199,4,The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners,289,68
+2026-06-07T15:56:02.422751+00:00,48434436,5,"Anthropic, please ship an official Claude Desktop for Linux",184,77
+2026-06-07T15:56:02.422751+00:00,48434963,6,Podman 6: machine usability improvements,14,1
+2026-06-07T15:56:02.422751+00:00,48433756,7,"Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",60,10
+2026-06-07T15:56:02.422751+00:00,48406530,8,Yon – a topos-oriented language with a content-addressed lattice heap,37,21
+2026-06-07T15:56:02.422751+00:00,48410844,9,Win16 Memory Management,97,50
+2026-06-07T15:56:02.422751+00:00,48432722,10,Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers,32,19
+2026-06-07T15:56:02.422751+00:00,48400151,11,Speculative KV coding: losslessly compressing KV cache by up to ~4×,113,17
+2026-06-07T15:56:02.422751+00:00,48403488,13,How Long Does It Take for a QQuickItem to Become Visible?,19,0
+2026-06-07T15:56:02.422751+00:00,48389368,14,My Software North Star,160,91
+2026-06-07T15:56:02.422751+00:00,48430539,15,Public Domain Image Archive,191,27
+2026-06-07T15:56:02.422751+00:00,48428025,16,Ntsc-rs – open-source video emulation of analog TV and VHS artifacts,379,116
+2026-06-07T15:56:02.422751+00:00,48431461,17,Valve P2P networking broken for more than 2 months,225,106
+2026-06-07T15:56:02.422751+00:00,48398703,18,The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview),30,4
+2026-06-07T15:56:02.422751+00:00,48408995,19,There's no escaping it: an exploration of ANSI codes,9,3
+2026-06-07T15:56:02.422751+00:00,48431286,20,Field of clones: How horse replicas came to dominate polo,132,60
+2026-06-07T15:56:02.422751+00:00,48415457,21,Symbolica 2.0: Programmable Symbols for Python and Rust,118,11
+2026-06-07T15:56:02.422751+00:00,48430923,22,Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering,139,60
+2026-06-07T15:56:02.422751+00:00,48433962,23,The best relationships are all-encompassing.,18,18
+2026-06-07T15:56:02.422751+00:00,48418839,24,Warren's Abstract Machine: A Tutorial Reconstruction,34,4
+2026-06-07T15:56:02.422751+00:00,48393252,25,Biohub releases a world model of protein biology,124,18
+2026-06-07T15:56:02.422751+00:00,48416264,26,Harness engineering: Leveraging Codex in an agent-first world,260,171
+2026-06-07T15:56:02.422751+00:00,48431085,27,How Liminalism Became the Defining Aesthetic of Our Time,122,68
+2026-06-07T15:56:02.422751+00:00,48433305,28,Efficient and Training-Free Single-Image Diffusion Models,27,0
+2026-06-07T15:56:02.422751+00:00,48410427,29,Arithmetic Without Numbers – How LLMs Do Math,73,23
+2026-06-07T15:56:02.422751+00:00,48425528,30,Moving beyond fork() + exec(),330,316
+2026-06-07T15:56:02.422751+00:00,48405815,31,Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved,110,31
+2026-06-07T15:56:02.422751+00:00,48417488,32,Partitions over Permutations,6,1
+2026-06-07T15:56:02.422751+00:00,48424605,33,Nvidia is proposing a beast of a CPU system for Windows PCs,316,506
+2026-06-07T15:56:02.422751+00:00,48425723,34,Zeroserve: A zero-config web server you can script with eBPF,258,58
+2026-06-07T15:56:02.422751+00:00,48406174,35,"Ask HN: What was your ""oh shit"" moment with GenAI?",660,1045
+2026-06-07T15:56:02.422751+00:00,48428475,36,"Sem: New primitive for code understanding – not LSPs, but entities on top of Git",155,53
+2026-06-07T15:56:02.422751+00:00,48427643,37,Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot,651,237
+2026-06-07T15:56:02.422751+00:00,48434204,38,Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.,28,3
+2026-06-07T15:56:02.422751+00:00,48425611,39,Motorola effectively bricked its entire line of WiFi routers without explanation,181,110
+2026-06-07T15:56:02.422751+00:00,48402157,40,Games Between Programs: The Ruliology of Competition,17,2
+2026-06-07T15:56:02.422751+00:00,48395648,41,Show HN: Free animated icon library for Vue,50,12
+2026-06-07T15:56:02.422751+00:00,48432439,42,Vim Classic 8.3 Released,18,1
+2026-06-07T15:56:02.422751+00:00,48423762,43,Pokemon Emerald Ported to WebAssembly (100k FPS),340,97
+2026-06-07T15:56:02.422751+00:00,48431981,44,I design with Claude more than Figma now,207,186
+2026-06-07T15:56:02.422751+00:00,48433410,45,Scientists ejected from diabetes conference for distributing journal reprints,255,181
+2026-06-07T15:56:02.422751+00:00,48435202,46,The ROI of AI coding looks different when you are a bootstrapped founder,5,0
+2026-06-07T15:56:02.422751+00:00,48372138,47,Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk,174,29
+2026-06-07T15:56:02.422751+00:00,48433351,48,Automated QA and Testing with AI,11,4
+2026-06-07T15:56:02.422751+00:00,48431079,49,Show HN: Oproxy – inspect and modify network traffic from the browser,56,8
+2026-06-07T15:56:02.422751+00:00,48424125,50,The new bibliomaniacs,79,75
