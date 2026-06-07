@@ -253,3 +253,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-06T23:44:57.871036+00:00,48398925,48,My Agent Skill for Test-Driven Development,219,104
 2026-06-06T23:44:57.871036+00:00,48362115,49,Show HN: Soft Body Jiggle Physics,49,19
 2026-06-06T23:44:57.871036+00:00,48421079,50,The back cover of C++: The Language raises questions not answered by front cover,142,48
+2026-06-07T10:15:47.357497+00:00,48432199,1,The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners,164,43
+2026-06-07T10:15:47.357497+00:00,48400151,2,Speculative KV coding: losslessly compressing KV cache by up to ~4×,38,5
+2026-06-07T10:15:47.357497+00:00,48431461,3,Valve P2P networking broken for more than 2 months,167,75
+2026-06-07T10:15:47.357497+00:00,48410844,4,Win16 Memory Management,23,2
+2026-06-07T10:15:47.357497+00:00,48431981,5,I design with Claude more than Figma now,161,123
+2026-06-07T10:15:47.357497+00:00,48431286,6,Field of clones: How horse replicas came to dominate polo,85,41
+2026-06-07T10:15:47.357497+00:00,48430923,7,Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering,107,35
+2026-06-07T10:15:47.357497+00:00,48389368,8,My Software North Star,75,34
+2026-06-07T10:15:47.357497+00:00,48415457,9,Symbolica 2.0: Programmable Symbols for Python and Rust,89,7
+2026-06-07T10:15:47.357497+00:00,48428025,10,Ntsc-rs – open-source video emulation of analog TV and VHS artifacts,348,93
+2026-06-07T10:15:47.357497+00:00,48430539,11,Public Domain Image Archive,125,18
+2026-06-07T10:15:47.357497+00:00,48416264,12,Harness engineering: Leveraging Codex in an agent-first world,198,126
+2026-06-07T10:15:47.357497+00:00,48431085,13,How Liminalism Became the Defining Aesthetic of Our Time,69,38
+2026-06-07T10:15:47.357497+00:00,48402157,14,Games Between Programs: The Ruliology of Competition,6,0
+2026-06-07T10:15:47.357497+00:00,48393252,15,Biohub releases a world model of protein biology,80,7
+2026-06-07T10:15:47.357497+00:00,48405815,16,Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved,84,21
+2026-06-07T10:15:47.357497+00:00,48425528,17,Moving beyond fork() + exec(),302,293
+2026-06-07T10:15:47.357497+00:00,48410427,18,Arithmetic Without Numbers – How LLMs Do Math,24,7
+2026-06-07T10:15:47.357497+00:00,48424605,19,Nvidia is proposing a beast of a CPU system for Windows PCs,286,476
+2026-06-07T10:15:47.357497+00:00,48431079,20,Show HN: Oproxy – inspect and modify network traffic from the browser,47,6
+2026-06-07T10:15:47.357497+00:00,48425723,21,Zeroserve: A zero-config web server you can script with eBPF,237,56
+2026-06-07T10:15:47.357497+00:00,48427643,22,Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot,599,211
+2026-06-07T10:15:47.357497+00:00,48417490,23,Google to pay SpaceX $920M a month for compute capacity at xAI data centers,246,828
+2026-06-07T10:15:47.357497+00:00,48430282,24,Human-Like Neural Nets by Catapulting,39,10
+2026-06-07T10:15:47.357497+00:00,48395648,25,Show HN: Free animated icon library for Vue,30,6
+2026-06-07T10:15:47.357497+00:00,48428475,26,"Sem: New primitive for code understanding – not LSPs, but entities on top of Git",119,47
+2026-06-07T10:15:47.357497+00:00,48425611,27,Motorola effectively bricked its entire line of WiFi routers without explanation,156,78
+2026-06-07T10:15:47.357497+00:00,48406174,28,"Ask HN: What was your ""oh shit"" moment with GenAI?",624,1014
+2026-06-07T10:15:47.357497+00:00,48423762,29,Pokemon Emerald Ported to WebAssembly (100k FPS),322,94
+2026-06-07T10:15:47.357497+00:00,48372138,30,Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk,166,29
+2026-06-07T10:15:47.357497+00:00,48426202,31,You Can Run,127,67
+2026-06-07T10:15:47.357497+00:00,48406729,32,Unicode Fonts and Tools for X11,38,8
+2026-06-07T10:15:47.357497+00:00,48424125,33,The new bibliomaniacs,76,73
+2026-06-07T10:15:47.357497+00:00,48425247,34,Benchmarks in Leipzig,132,47
+2026-06-07T10:15:47.357497+00:00,48430860,35,An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World,104,98
+2026-06-07T10:15:47.357497+00:00,48425347,36,Running Python code in a sandbox with MicroPython and WASM,95,29
+2026-06-07T10:15:47.357497+00:00,48431952,37,The circus freaks of open source,88,33
+2026-06-07T10:15:47.357497+00:00,48428356,38,"Home alone: Remote work, isolation, and mental health",172,166
+2026-06-07T10:15:47.357497+00:00,48419571,39,The perils of UUID primary keys in SQLite,165,96
+2026-06-07T10:15:47.357497+00:00,48389360,40,How LLMs work,886,243
+2026-06-07T10:15:47.357497+00:00,48430871,42,HateArena – A free and open source arena shooter,21,3
+2026-06-07T10:15:47.357497+00:00,48428727,43,I am giving up on VM Gaming,33,17
+2026-06-07T10:15:47.357497+00:00,48427523,44,"Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",523,399
+2026-06-07T10:15:47.357497+00:00,48429253,45,Programmers Aren't People,26,17
+2026-06-07T10:15:47.357497+00:00,48427629,46,Corrupting a ZFS File on Purpose,27,2
+2026-06-07T10:15:47.357497+00:00,48369864,47,Social Cache Busting,134,46
+2026-06-07T10:15:47.357497+00:00,48389103,48,"PaceVer (an alternative to SemVer, for mobile apps)",10,6
+2026-06-07T10:15:47.357497+00:00,48430070,49,Context Sculpting,17,6
+2026-06-07T10:15:47.357497+00:00,48424674,50,Trees to Flows and Back: Unifying Decision Trees and Diffusion Models,46,11
