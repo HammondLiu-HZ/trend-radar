@@ -449,3 +449,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-08T12:53:54.548315+00:00,48436863,48,Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas,137,54
 2026-06-08T12:53:54.548315+00:00,48370278,49,Backrest – a web UI and orchestrator for restic backup,98,7
 2026-06-08T12:53:54.548315+00:00,48440360,50,7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible,98,29
+2026-06-08T21:17:02.597161+00:00,48450142,1,Apple reveals new AI architecture built around Google Gemini models,192,160
+2026-06-08T21:17:02.597161+00:00,48449084,2,Siri AI,218,161
+2026-06-08T21:17:02.597161+00:00,48450646,3,Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf],73,7
+2026-06-08T21:17:02.597161+00:00,48446639,4,MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second,423,290
+2026-06-08T21:17:02.597161+00:00,48445554,5,Show HN: Performative-UI – A react component library of design tropes,645,130
+2026-06-08T21:17:02.597161+00:00,48450065,6,Why are cells small?,65,31
+2026-06-08T21:17:02.597161+00:00,48448493,7,Full Reverse Engineering of the TI-84 Plus Operating System,112,19
+2026-06-08T21:17:02.597161+00:00,48444228,8,"Anti-social: It's fads, not friends, which now dominate social media feeds",470,365
+2026-06-08T21:17:02.597161+00:00,48446428,9,xAI is looking more like a datacentre REIT than a frontier lab,283,212
+2026-06-08T21:17:02.597161+00:00,48447062,10,"EU-banned pesticides found in rice, tea and spices",129,48
+2026-06-08T21:17:02.597161+00:00,48447806,11,"Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",36,20
+2026-06-08T21:17:02.597161+00:00,48449665,12,Apple Core AI Framework,40,2
+2026-06-08T21:17:02.597161+00:00,48445171,13,Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code,92,44
+2026-06-08T21:17:02.597161+00:00,48425166,14,Fooling Go's X.509 Certificate Verification,10,4
+2026-06-08T21:17:02.597161+00:00,48448357,15,Thunderbird Littering My Home,65,37
+2026-06-08T21:17:02.597161+00:00,48419823,16,Show HN: Courtside – TUI for NBA Games,5,2
+2026-06-08T21:17:02.597161+00:00,48447935,17,Stop the Apple Music app from launching,510,197
+2026-06-08T21:17:02.597161+00:00,48450059,18,Switzerland wil have a referendum to cap population at 10M,139,275
+2026-06-08T21:17:02.597161+00:00,48450694,19,"I'm building a parallel internet, and it's called The Thinnernet",16,11
+2026-06-08T21:17:02.597161+00:00,48449187,20,Ask HN: What are tools you have made for yourself since the advent of AI?,45,64
+2026-06-08T21:17:02.597161+00:00,48402137,21,OCaml Onboarding: Introduction to the Dune build system,130,14
+2026-06-08T21:17:02.597161+00:00,48448313,22,Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?,54,43
+2026-06-08T21:17:02.597161+00:00,48446893,23,AI is slowing down,253,295
+2026-06-08T21:17:02.597161+00:00,48448106,24,Apple WWDC 2026,208,392
+2026-06-08T21:17:02.597161+00:00,48397986,25,Using XDG-Compliant Config Files (2024),19,1
+2026-06-08T21:17:02.597161+00:00,48448012,26,Massachusetts bans sale of precise location data in new privacy rights bill,166,28
+2026-06-08T21:17:02.597161+00:00,48442725,27,The Cypherpunk Library,334,93
+2026-06-08T21:17:02.597161+00:00,48424960,28,120k Lines of Rust: Inside the Nosdesk Backend,15,0
+2026-06-08T21:17:02.597161+00:00,48442075,29,How much of Thermo Fisher's antibody data has been manipulated?,365,80
+2026-06-08T21:17:02.597161+00:00,48440435,30,1worldflag: A blue dot on a transparent background,138,118
+2026-06-08T21:17:02.597161+00:00,48444442,31,Are you expected to run five Python type-checkers now?,117,126
+2026-06-08T21:17:02.597161+00:00,48449498,32,Show HN: HTTP/3 and raw QUIC client/server APIs for Node.js,6,0
+2026-06-08T21:17:02.597161+00:00,48424545,33,Life is too short for a slow terminal,90,67
+2026-06-08T21:17:02.597161+00:00,48444784,34,Spanish traders set the standard for GnuCash database design,108,71
+2026-06-08T21:17:02.597161+00:00,48446310,35,"Italy's Bending Spoons, owner of AOL and Vimeo, files for Nasdaq IPO",104,86
+2026-06-08T21:17:02.597161+00:00,48444871,36,Zig by Example,208,98
+2026-06-08T21:17:02.597161+00:00,48443258,37,"Replies to comments on my ""LLMs are eroding my career"" post",120,178
+2026-06-08T21:17:02.597161+00:00,48394799,38,Zig Structs of Arrays (2024),112,40
+2026-06-08T21:17:02.597161+00:00,48446909,39,Why are so many young people getting cancer?,147,153
+2026-06-08T21:17:02.597161+00:00,48451404,40,Donut Lab's 'solid-state' battery exposed as regular li-ion in investigation,10,0
+2026-06-08T21:17:02.597161+00:00,48451883,41,Built to benefit everyone: our plan,4,1
+2026-06-08T21:17:02.597161+00:00,48448811,42,The IRS Moved IT and HR Staff to Process Taxes. It's Not Going Well,35,5
+2026-06-08T21:17:02.597161+00:00,48442569,43,OneDrive data now has an expiry date,148,138
+2026-06-08T21:17:02.597161+00:00,48440792,44,Dopamine Fracking,738,376
+2026-06-08T21:17:02.597161+00:00,48446611,45,I replaced Spotify with a homemade FM radio station,121,52
+2026-06-08T21:17:02.597161+00:00,48438625,46,NEC PC Engine LT Recap and LCD Bias Fix (Necromancy),11,0
+2026-06-08T21:17:02.597161+00:00,48443135,47,Config Files That Run Code: Supply Chain Security Blindspot,66,21
+2026-06-08T21:17:02.597161+00:00,48399069,48,Good type against all odds,11,3
+2026-06-08T21:17:02.597161+00:00,48441242,49,Richard Scolyer Has Died,123,33
+2026-06-08T21:17:02.597161+00:00,48413366,50,Playing with Vision Embeddings,144,12
