@@ -400,3 +400,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-07T20:47:31.404870+00:00,48434632,48,"""Terrorists?"": The Suffragette Arson and Bombing Campaign – Egham Museum",19,5
 2026-06-07T20:47:31.404870+00:00,48436246,49,The gamers taking on the industry to stop it switching off games,77,84
 2026-06-07T20:47:31.404870+00:00,48428475,50,"Sem: New primitive for code understanding – not LSPs, but entities on top of Git",164,53
+2026-06-08T12:53:54.548315+00:00,48442725,1,The Cypherpunk Library,154,41
+2026-06-08T12:53:54.548315+00:00,48440792,2,Dopamine Fracking,473,218
+2026-06-08T12:53:54.548315+00:00,48442075,3,How much of Thermo Fisher's antibody data has been manipulated?,101,33
+2026-06-08T12:53:54.548315+00:00,48394799,4,Zig Structs of Arrays (2024),33,4
+2026-06-08T12:53:54.548315+00:00,48440952,5,"1k Data Breaches Later, the Disclosure Lag Is Worse",202,74
+2026-06-08T12:53:54.548315+00:00,48437406,6,"Building from zero after addiction, prison, and a felony",713,327
+2026-06-08T12:53:54.548315+00:00,48385457,7,Spherical Voronoi Diagram,43,9
+2026-06-08T12:53:54.548315+00:00,48413645,8,A Family Project (2022),45,3
+2026-06-08T12:53:54.548315+00:00,48440383,9,APC–2 – A professional record cutter for producing original playback discs,238,128
+2026-06-08T12:53:54.548315+00:00,48443135,10,Config Files That Run Code: Supply Chain Security Blindspot,20,0
+2026-06-08T12:53:54.548315+00:00,48440064,11,The Smallest Brain You Can Build: A Perceptron in Python,224,39
+2026-06-08T12:53:54.548315+00:00,48441242,12,Richard Scolyer Has Died,97,22
+2026-06-08T12:53:54.548315+00:00,48413366,13,Playing with Vision Embeddings,89,6
+2026-06-08T12:53:54.548315+00:00,48444528,14,Anthropic's Project Glasswing Update,10,0
+2026-06-08T12:53:54.548315+00:00,48444451,15,Nvidia partners with LG robotics to build humanoid robots in South Korea,10,0
+2026-06-08T12:53:54.548315+00:00,48440549,16,Algorithmic Monocultures in Hiring,121,55
+2026-06-08T12:53:54.548315+00:00,48406582,17,Amber Tree: A Middle Ground Between Rowan Red and Green Trees,5,0
+2026-06-08T12:53:54.548315+00:00,48440463,18,New drug 'functionally cures' many hepatitis B virus infections,206,37
+2026-06-08T12:53:54.548315+00:00,48437290,19,Making peace with your unlived dreams (2023),256,148
+2026-06-08T12:53:54.548315+00:00,48415828,20,Tiny hackable CUDA language model implementation,42,4
+2026-06-08T12:53:54.548315+00:00,48442371,21,"Age verification tech could put children at greater risk, says think tank",88,38
+2026-06-08T12:53:54.548315+00:00,48440448,22,DeepSeek V4 Pro beats GPT-5.5 Pro on precision,318,162
+2026-06-08T12:53:54.548315+00:00,48408854,23,Show HN: I Derived a Pancake,261,106
+2026-06-08T12:53:54.548315+00:00,48442569,24,OneDrive data now has an expiry date,110,88
+2026-06-08T12:53:54.548315+00:00,48440008,25,A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W,135,22
+2026-06-08T12:53:54.548315+00:00,48433756,26,"Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",339,61
+2026-06-08T12:53:54.548315+00:00,48409474,27,What is the purpose of the lost+found folder in Linux and Unix? (2014),209,73
+2026-06-08T12:53:54.548315+00:00,48432199,28,The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners,404,93
+2026-06-08T12:53:54.548315+00:00,48394587,29,A discovery about GCC's unidirectional rotation algorithm,34,12
+2026-06-08T12:53:54.548315+00:00,48437609,30,How's Linear so fast? A technical breakdown,436,202
+2026-06-08T12:53:54.548315+00:00,48425413,31,Giant Floating Victorian Drydock,34,18
+2026-06-08T12:53:54.548315+00:00,48434312,32,LLMs are eroding my software engineering career and I don't know what to do,1039,983
+2026-06-08T12:53:54.548315+00:00,48390269,33,Splash Is a Colour Format,70,86
+2026-06-08T12:53:54.548315+00:00,48430860,34,An Ohio Valley 100k-watt FM signal is severed in broad daylight,187,204
+2026-06-08T12:53:54.548315+00:00,48431889,35,Trusted Computing Frequently Asked Questions (2003),16,0
+2026-06-08T12:53:54.548315+00:00,48442503,36,The EU Open Source Strategy,114,92
+2026-06-08T12:53:54.548315+00:00,48440610,37,"Texas grid flags risks as data centers, crypto sites fail voltage tests",125,86
+2026-06-08T12:53:54.548315+00:00,48427480,38,Cloning a Sennheiser BA2015 battery pack,134,19
+2026-06-08T12:53:54.548315+00:00,48436819,39,Powering up a module from the IBM 604: an electronic calculator from 1948,88,28
+2026-06-08T12:53:54.548315+00:00,48440435,41,1worldflag: A blue dot on a transparent background,125,107
+2026-06-08T12:53:54.548315+00:00,48431981,42,I design with Claude more than Figma now,293,253
+2026-06-08T12:53:54.548315+00:00,48437305,43,My automated doubt development process,82,23
+2026-06-08T12:53:54.548315+00:00,48405890,44,Man-Computer Symbiosis J. C. R. Licklider (1960),43,4
+2026-06-08T12:53:54.548315+00:00,48434436,45,"Anthropic, please ship an official Claude Desktop for Linux",507,285
+2026-06-08T12:53:54.548315+00:00,48434963,46,Podman 6: machine usability improvements (2025),119,6
+2026-06-08T12:53:54.548315+00:00,48406174,47,"Ask HN: What was your ""oh shit"" moment with GenAI?",707,1088
+2026-06-08T12:53:54.548315+00:00,48436863,48,Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas,137,54
+2026-06-08T12:53:54.548315+00:00,48370278,49,Backrest – a web UI and orchestrator for restic backup,98,7
+2026-06-08T12:53:54.548315+00:00,48440360,50,7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible,98,29
