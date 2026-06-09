@@ -548,3 +548,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-09T10:46:28.050967+00:00,48413067,48,Doing something that’s never been done before (2025),36,30
 2026-06-09T10:46:28.050967+00:00,48394799,49,Zig Structs of Arrays (2024),123,46
 2026-06-09T10:46:28.050967+00:00,48424545,50,Life is too short for a slow terminal,102,76
+2026-06-09T18:34:52.978630+00:00,48463808,1,Claude Fable 5,767,495
+2026-06-09T18:34:52.978630+00:00,48463024,2,Apple decided not to roll out Siri in EU after denied request for exemption,191,312
+2026-06-09T18:34:52.978630+00:00,48463811,3,System Card: Claude Fable 5 and Claude Mythos 5 [pdf],176,56
+2026-06-09T18:34:52.978630+00:00,48459294,4,Making Graphics Like it's 1993,557,92
+2026-06-09T18:34:52.978630+00:00,48451966,5,A giant star may have destroyed itself in one of the rarest explosions,65,13
+2026-06-09T18:34:52.978630+00:00,48457830,6,Microsoft's open source tools were hacked to steal passwords of AI developers,460,162
+2026-06-09T18:34:52.978630+00:00,48464330,7,The LD_DEBUG environment variable (2012),12,0
+2026-06-09T18:34:52.978630+00:00,48463273,8,Launch HN: Transload (YC P26) – Measuring freight items with CCTV,19,5
+2026-06-09T18:34:52.978630+00:00,48463018,9,Biff.core: system composition for Clojure web apps,34,11
+2026-06-09T18:34:52.978630+00:00,48464333,10,Where is the AI jobs crisis?,60,58
+2026-06-09T18:34:52.978630+00:00,48460863,11,Is Grep All You Need? How Agent Harnesses Reshape Agentic Search,73,33
+2026-06-09T18:34:52.978630+00:00,48462308,12,FCC wants to kill burner phones by forcing telecoms to get all customers' IDs,204,130
+2026-06-09T18:34:52.978630+00:00,48421858,13,OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision,570,102
+2026-06-09T18:34:52.978630+00:00,48462062,14,Can LLMs Beat Classical Hyperparameter Optimization Algorithms?,66,10
+2026-06-09T18:34:52.978630+00:00,48453275,15,Let's Encrypt bans certificate usage in any US sanctioned territory [pdf],148,100
+2026-06-09T18:34:52.978630+00:00,48459001,16,The iPhone's Last Stand?,125,164
+2026-06-09T18:34:52.978630+00:00,48461311,17,Unified Controllable and Faithful Text-to-CAD Generation with LLMs,42,9
+2026-06-09T18:34:52.978630+00:00,48435943,18,Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs,52,79
+2026-06-09T18:34:52.978630+00:00,48459837,20,"Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",96,23
+2026-06-09T18:34:52.978630+00:00,48427883,21,Rayforce,9,0
+2026-06-09T18:34:52.978630+00:00,48458257,22,Forever Young: how one molecule can lock plants in a youthful state (2025),107,62
+2026-06-09T18:34:52.978630+00:00,48459913,23,"Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",14,7
+2026-06-09T18:34:52.978630+00:00,48462184,24,Using Optical Aberrations to Distinguish Real Astronomical Transients,20,2
+2026-06-09T18:34:52.978630+00:00,48402936,25,The Effective Sample Size,16,1
+2026-06-09T18:34:52.978630+00:00,48440611,26,Painting the Internet: A Different Kind of Warhol Worm [pdf],6,0
+2026-06-09T18:34:52.978630+00:00,48458586,27,Cleaning up after AI rockstar developers,374,273
+2026-06-09T18:34:52.978630+00:00,48437743,28,Thi.ng – open-source building blocks for computational design and art,163,22
+2026-06-09T18:34:52.978630+00:00,48462823,29,'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack,147,69
+2026-06-09T18:34:52.978630+00:00,48436672,30,An introduction to functional analysis for science and engineering,100,13
+2026-06-09T18:34:52.978630+00:00,48427629,31,Corrupting a ZFS File on Purpose,69,13
+2026-06-09T18:34:52.978630+00:00,48455928,32,Job: Head of Stonehenge,219,206
+2026-06-09T18:34:52.978630+00:00,48426956,33,Adopting the Parallel DWARF linker in dsymutil,23,6
+2026-06-09T18:34:52.978630+00:00,48463755,34,Amazon employees ask Seattle to put the brakes on new data centers,14,0
+2026-06-09T18:34:52.978630+00:00,48427526,35,The beauty and simplicity of the good old C-style void* in C++,57,120
+2026-06-09T18:34:52.978630+00:00,48456245,36,Porting the ThinkPad X61 to Coreboot,157,49
+2026-06-09T18:34:52.978630+00:00,48458636,37,Eagle Computer: The rise and fall of an early PC clone,51,9
+2026-06-09T18:34:52.978630+00:00,48447111,38,Old'aVista – The most powerful guide to the old Internet,145,38
+2026-06-09T18:34:52.978630+00:00,48433356,39,H2JVM – A Haskell Library for Writing JVM Bytecode,43,11
+2026-06-09T18:34:52.978630+00:00,48464305,40,AI profitability is mathematically impossible,8,6
+2026-06-09T18:34:52.978630+00:00,48462156,41,Solar Energy Saves Europeans $135M a Day,148,110
+2026-06-09T18:34:52.978630+00:00,48450142,42,Apple reveals new AI architecture built around Google Gemini models,698,539
+2026-06-09T18:34:52.978630+00:00,48462428,43,"Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case",37,4
+2026-06-09T18:34:52.978630+00:00,48448313,44,Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?,233,214
+2026-06-09T18:34:52.978630+00:00,48465029,45,Anthropic Kept Every Promise It Could Afford,5,0
+2026-06-09T18:34:52.978630+00:00,48446428,46,xAI is looking more like a datacentre REIT than a frontier lab,665,519
+2026-06-09T18:34:52.978630+00:00,48445554,47,Show HN: Performative-UI – A react component library of design tropes,1110,198
+2026-06-09T18:34:52.978630+00:00,48449084,48,Siri AI,655,662
+2026-06-09T18:34:52.978630+00:00,48462093,49,"Even light drinking raises risk of cancer, heart disease, and early death",17,27
+2026-06-09T18:34:52.978630+00:00,48447062,50,"EU-banned pesticides found in rice, tea and spices",497,275
