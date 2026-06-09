@@ -597,3 +597,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-09T18:34:52.978630+00:00,48449084,48,Siri AI,655,662
 2026-06-09T18:34:52.978630+00:00,48462093,49,"Even light drinking raises risk of cancer, heart disease, and early death",17,27
 2026-06-09T18:34:52.978630+00:00,48447062,50,"EU-banned pesticides found in rice, tea and spices",497,275
+2026-06-09T23:55:29.125212+00:00,48463808,1,Claude Fable 5,1652,1308
+2026-06-09T23:55:29.125212+00:00,48467705,2,Upcoming breaking changes for NPM v12,126,38
+2026-06-09T23:55:29.125212+00:00,48466277,3,Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks,138,15
+2026-06-09T23:55:29.125212+00:00,48467896,4,"If Claude Fable stops helping you, you'll never know",301,138
+2026-06-09T23:55:29.125212+00:00,48459294,5,Making Graphics Like it's 1993,746,126
+2026-06-09T23:55:29.125212+00:00,48466812,6,Grit: Rewriting Git in Rust with Agents,51,34
+2026-06-09T23:55:29.125212+00:00,48468766,7,RIP software hackathons. Long live the hardware hackathon,11,2
+2026-06-09T23:55:29.125212+00:00,48467759,8,Exif Smuggling,42,19
+2026-06-09T23:55:29.125212+00:00,48465675,9,CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs,353,142
+2026-06-09T23:55:29.125212+00:00,48451966,10,A giant star may have destroyed itself in one of the rarest explosions,152,21
+2026-06-09T23:55:29.125212+00:00,48459659,11,Test-case reducers are underappreciated debugging tools,74,9
+2026-06-09T23:55:29.125212+00:00,48421858,12,OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision,676,119
+2026-06-09T23:55:29.125212+00:00,48427423,13,"Show HN: Resonate – Low-latency, high-resolution spectral analysis",12,8
+2026-06-09T23:55:29.125212+00:00,48453275,14,Let's Encrypt bans certificate usage in any US sanctioned territory [pdf],298,237
+2026-06-09T23:55:29.125212+00:00,48445834,15,Lies We Tell Ourselves About Email Addresses,11,2
+2026-06-09T23:55:29.125212+00:00,48456048,16,Flat Datacenter Networks at Scale at Amazon,79,15
+2026-06-09T23:55:29.125212+00:00,48464330,17,The LD_DEBUG environment variable (2012),52,1
+2026-06-09T23:55:29.125212+00:00,48463024,18,Apple decided not to roll out Siri in EU after denied request for exemption,342,574
+2026-06-09T23:55:29.125212+00:00,48462308,19,FCC wants to kill burner phones by forcing telecoms to get all customers' IDs,415,262
+2026-06-09T23:55:29.125212+00:00,48467712,20,"Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs",74,22
+2026-06-09T23:55:29.125212+00:00,48463273,21,Launch HN: Transload (YC P26) – Measuring freight items with CCTV,31,10
+2026-06-09T23:55:29.125212+00:00,48463018,22,Biff.core: system composition for Clojure web apps,99,21
+2026-06-09T23:55:29.125212+00:00,48460863,23,Is Grep All You Need? How Agent Harnesses Reshape Agentic Search,112,52
+2026-06-09T23:55:29.125212+00:00,48459837,24,"Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",138,34
+2026-06-09T23:55:29.125212+00:00,48459001,25,The iPhone's Last Stand?,163,201
+2026-06-09T23:55:29.125212+00:00,48444758,26,"Blaise v0.10.0: Native Back End, Threads and Incremental Compilation",15,1
+2026-06-09T23:55:29.125212+00:00,48465702,28,Ask HN: Are you still using a Vision Pro?,116,142
+2026-06-09T23:55:29.125212+00:00,48468789,29,AI misidentification results in wrongful arrest; man seeks justice,25,6
+2026-06-09T23:55:29.125212+00:00,48435943,30,Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs,87,88
+2026-06-09T23:55:29.125212+00:00,48467570,31,Alpine Linux 3.24.0 Released,109,19
+2026-06-09T23:55:29.125212+00:00,48462062,32,Can LLMs Beat Classical Hyperparameter Optimization Algorithms?,95,15
+2026-06-09T23:55:29.125212+00:00,48464333,33,Where is the AI jobs crisis?,132,200
+2026-06-09T23:55:29.125212+00:00,48457830,34,Microsoft's open source tools were hacked to steal passwords of AI developers,523,177
+2026-06-09T23:55:29.125212+00:00,48464140,35,What it feels like to work with Mythos,145,144
+2026-06-09T23:55:29.125212+00:00,48458257,36,Forever Young: how one molecule can lock plants in a youthful state (2025),121,67
+2026-06-09T23:55:29.125212+00:00,48461311,37,Unified Controllable and Faithful Text-to-CAD Generation with LLMs,58,19
+2026-06-09T23:55:29.125212+00:00,48397148,38,Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call,46,24
+2026-06-09T23:55:29.125212+00:00,48437743,39,Thi.ng – open-source building blocks for computational design and art,179,35
+2026-06-09T23:55:29.125212+00:00,48469241,40,ServiceNow discloses security incident exposing customer data,6,0
+2026-06-09T23:55:29.125212+00:00,48458586,41,Cleaning up after AI rockstar developers,438,320
+2026-06-09T23:55:29.125212+00:00,48455928,42,Job: Head of Stonehenge,223,210
+2026-06-09T23:55:29.125212+00:00,48467192,43,Show HN: Maillune – Embeddable drag-and-drop email editor as a single component,5,0
+2026-06-09T23:55:29.125212+00:00,48462184,44,Using Optical Aberrations to Distinguish Real Astronomical Transients,36,2
+2026-06-09T23:55:29.125212+00:00,48436672,45,An introduction to functional analysis for science and engineering,113,14
+2026-06-09T23:55:29.125212+00:00,48459913,46,"Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",33,15
+2026-06-09T23:55:29.125212+00:00,48427629,47,Corrupting a ZFS File on Purpose,76,19
+2026-06-09T23:55:29.125212+00:00,48467865,48,"Claude Fable 5 will sabotage ""frontier LLM research"" tasks",16,4
+2026-06-09T23:55:29.125212+00:00,48465269,49,GPT-2: Too Dangerous To Release (2019),249,96
+2026-06-09T23:55:29.125212+00:00,48456245,50,Porting the ThinkPad X61 to Coreboot,163,50
