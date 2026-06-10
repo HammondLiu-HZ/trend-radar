@@ -695,3 +695,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-10T12:43:14.795842+00:00,48469347,48,It's death,179,62
 2026-06-10T12:43:14.795842+00:00,48453275,49,Let's Encrypt bans certificate usage in any US sanctioned territory [pdf],420,349
 2026-06-10T12:43:14.795842+00:00,48458257,50,Forever Young: how one molecule can lock plants in a youthful state (2025),135,76
+2026-06-10T21:31:09.512088+00:00,48480978,1,πFS,196,57
+2026-06-10T21:31:09.512088+00:00,48479705,2,How JPL keeps the 13-year-old Curiosity rover doing science,112,18
+2026-06-10T21:31:09.512088+00:00,48477135,3,"I'm Eric Ries, author of ""The Lean Startup"" and new book ""Incorruptible"" – AMA",427,359
+2026-06-10T21:31:09.512088+00:00,48476466,4,PgDog is funded and coming to a database near you,326,166
+2026-06-10T21:31:09.512088+00:00,48482293,5,What Is It Like to Be a Bat? [pdf] (1974),20,13
+2026-06-10T21:31:09.512088+00:00,48456808,6,L'Affaire Siloxane,86,15
+2026-06-10T21:31:09.512088+00:00,48481126,7,"Farmer donates land for a park, city sells it for $10M as data center land",156,22
+2026-06-10T21:31:09.512088+00:00,48479852,8,GeoLibre 1.0,67,5
+2026-06-10T21:31:09.512088+00:00,48478148,9,Show HN: HelixDB – A graph database built on object storage,68,28
+2026-06-10T21:31:09.512088+00:00,48477851,10,Authentication issues related to API requests,144,25
+2026-06-10T21:31:09.512088+00:00,48480852,11,"Anthropic's Model Naming, Extrapolated",205,52
+2026-06-10T21:31:09.512088+00:00,48472877,12,Mercedes‑Benz starts large‑scale production of electric axial flux motor,480,296
+2026-06-10T21:31:09.512088+00:00,48475483,13,Building an HTML-first site doubled our users overnight,910,412
+2026-06-10T21:31:09.512088+00:00,48479452,14,"Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",267,180
+2026-06-10T21:31:09.512088+00:00,48478469,15,Show HN: Extend UI – open-source UI kit for modern document apps,79,16
+2026-06-10T21:31:09.512088+00:00,48477400,16,Apache Burr: Build reliable AI agents and applications,142,81
+2026-06-10T21:31:09.512088+00:00,48471805,17,"Show HN: Artie – Real-time data replication to your warehouse, now self-serve",12,5
+2026-06-10T21:31:09.512088+00:00,48481857,18,"Raspberry Pi 5 – 16 GB, $350",74,84
+2026-06-10T21:31:09.512088+00:00,48475100,19,"All 9,300 Japanese train station, animated by the year it opened (1872–2026)",168,59
+2026-06-10T21:31:09.512088+00:00,48460286,20,Show HN: Atlasphere – Live Infrastructure Diagrams,9,2
+2026-06-10T21:31:09.512088+00:00,48464484,21,Who's the Smartest Corvid?,47,38
+2026-06-10T21:31:09.512088+00:00,48470578,22,Smudging the game disc to make speedrunning 'SpongeBob' faster,48,29
+2026-06-10T21:31:09.512088+00:00,48479947,23,Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely,157,141
+2026-06-10T21:31:09.512088+00:00,48476136,24,A €0.01 bank transfer could compromise a banking AI agent,145,120
+2026-06-10T21:31:09.512088+00:00,48478471,25,DiffusionGemma: 4x Faster Text Generation,233,51
+2026-06-10T21:31:09.512088+00:00,48481524,26,The Abundance Illusion,50,19
+2026-06-10T21:31:09.512088+00:00,48444136,27,Pick and Place: Carbon Nanotube Nanoassembly Process,10,2
+2026-06-10T21:31:09.512088+00:00,48442932,28,"Buy a train, bridge or tracks from the Swiss Railway",157,86
+2026-06-10T21:31:09.512088+00:00,48479537,29,Meta steals a tactic from Tesla and builds data centers in tents,73,78
+2026-06-10T21:31:09.512088+00:00,48447378,30,"'They take you out of life, out of time': a journey into Spain's cave paintings",55,25
+2026-06-10T21:31:09.512088+00:00,48445702,31,Who Runs Your Rust Future? Hands-On Intro to Async Rust,88,17
+2026-06-10T21:31:09.512088+00:00,48469658,32,macOS Container Machines,1168,412
+2026-06-10T21:31:09.512088+00:00,48443644,33,Reviving Papers with Code,181,45
+2026-06-10T21:31:09.512088+00:00,48463808,34,Claude Fable 5,2537,2061
+2026-06-10T21:31:09.512088+00:00,48477589,35,The iPad was on Tailscale: a WebRTC debugging story,55,26
+2026-06-10T21:31:09.512088+00:00,48479996,36,The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf],22,3
+2026-06-10T21:31:09.512088+00:00,48478285,37,"The Last Evolution, by John W Campbell Jr. (1932)",22,3
+2026-06-10T21:31:09.512088+00:00,48473166,38,AWS Bedrock to require sharing data with Anthropic for Mythos and future models,378,220
+2026-06-10T21:31:09.512088+00:00,48475871,39,Ask HN: Are most corporate SWE jobs performative?,183,212
+2026-06-10T21:31:09.512088+00:00,48468370,40,"Surprise, pay $1000",343,188
+2026-06-10T21:31:09.512088+00:00,48468766,41,RIP software hackathons. Long live the hardware hackathon,270,134
+2026-06-10T21:31:09.512088+00:00,48480040,42,Speed Is a Signal: When Faster Replies Increase Hiring Likelihood,9,0
+2026-06-10T21:31:09.512088+00:00,48470248,43,German ruling declares Google liable for false answers in AI Overviews,945,504
+2026-06-10T21:31:09.512088+00:00,48478766,44,Babel-USB: USB drive with every file,18,8
+2026-06-10T21:31:09.512088+00:00,48470581,45,Rich Sutton on AI creativity and discovery,194,109
+2026-06-10T21:31:09.512088+00:00,48482124,46,"American capitalism is run by millionaires, not billionaires",8,3
+2026-06-10T21:31:09.512088+00:00,48471970,47,Chrome is looking to permanently drop MV2 extension,374,375
+2026-06-10T21:31:09.512088+00:00,48433525,48,Magnetoelectric antennas could transform how underwater robots talk,70,27
+2026-06-10T21:31:09.512088+00:00,48421858,49,OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision,817,144
+2026-06-10T21:31:09.512088+00:00,48479177,50,The Case for Free Online Books (2014),82,76
