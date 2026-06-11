@@ -745,3 +745,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-10T21:31:09.512088+00:00,48433525,48,Magnetoelectric antennas could transform how underwater robots talk,70,27
 2026-06-10T21:31:09.512088+00:00,48421858,49,OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision,817,144
 2026-06-10T21:31:09.512088+00:00,48479177,50,The Case for Free Online Books (2014),82,76
+2026-06-11T12:33:55.110238+00:00,48487029,1,Pokémon Go Scans Trained the Navigation Tech for Military Drones,391,167
+2026-06-11T12:33:55.110238+00:00,48489402,2,Lines of Code Got a Better Publicist,4,0
+2026-06-11T12:33:55.110238+00:00,48484584,3,AI agent runs amok in Fedora and elsewhere,449,202
+2026-06-11T12:33:55.110238+00:00,48461635,4,Build a Basic AI Agent from Scratch: Long Task Planning,51,13
+2026-06-11T12:33:55.110238+00:00,48487897,5,Web Browsers on Video Game Consoles,59,36
+2026-06-11T12:33:55.110238+00:00,48478969,6,Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable,486,427
+2026-06-11T12:33:55.110238+00:00,48480978,7,πFS,818,189
+2026-06-11T12:33:55.110238+00:00,48464258,8,Anthropic requires 30 day data retention for Fable and Mythos,483,248
+2026-06-11T12:33:55.110238+00:00,48488553,9,"HTML is a native image format, hear me out",24,38
+2026-06-11T12:33:55.110238+00:00,48458895,10,Linux latency measurements and compositor tuning,68,9
+2026-06-11T12:33:55.110238+00:00,48489004,11,BYD is bringing its 5-min 'Flash' electric car charging to Canada,29,2
+2026-06-11T12:33:55.110238+00:00,48455145,12,Starfish by Peter Watts (1999),75,24
+2026-06-11T12:33:55.110238+00:00,48448386,13,The Life and Works of Raoul Bott,11,1
+2026-06-11T12:33:55.110238+00:00,48477135,14,"I'm Eric Ries, author of ""The Lean Startup"" and new book ""Incorruptible"" – AMA",701,501
+2026-06-11T12:33:55.110238+00:00,48433777,15,Reverse engineering the Creative Katana soundbar to control it from Linux,92,5
+2026-06-11T12:33:55.110238+00:00,48483387,16,Sequoyah’s syllabary created a written language for the Cherokee,166,97
+2026-06-11T12:33:55.110238+00:00,48444841,17,Making a Shading Language for My Offline Renderer,25,2
+2026-06-11T12:33:55.110238+00:00,48476466,18,PgDog is funded and coming to a database near you,491,231
+2026-06-11T12:33:55.110238+00:00,48479705,19,How JPL keeps the 13-year-old Curiosity rover doing science,246,72
+2026-06-11T12:33:55.110238+00:00,48488901,20,Human migration has surged since 2000 – these maps reveal where people are going,23,9
+2026-06-11T12:33:55.110238+00:00,48479852,21,GeoLibre 1.0,263,22
+2026-06-11T12:33:55.110238+00:00,48487435,22,"Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",127,46
+2026-06-11T12:33:55.110238+00:00,48456808,23,L'Affaire Siloxane,243,41
+2026-06-11T12:33:55.110238+00:00,48461442,24,Symbolicating a minified stack trace by hand: why source maps can't do it alone,4,0
+2026-06-11T12:33:55.110238+00:00,48470748,25,Vacuum-Form Signage,74,11
+2026-06-11T12:33:55.110238+00:00,48450024,26,Klondike Solitaire game for curses in 5k of C,83,15
+2026-06-11T12:33:55.110238+00:00,48478469,27,Show HN: Extend UI – open-source UI kit for modern document apps,221,58
+2026-06-11T12:33:55.110238+00:00,48464484,28,Who's the smartest corvid?,124,112
+2026-06-11T12:33:55.110238+00:00,48446532,29,World Capitals Voronoi,101,54
+2026-06-11T12:33:55.110238+00:00,48475483,30,Building an HTML-first site doubled our users overnight,1173,526
+2026-06-11T12:33:55.110238+00:00,48477400,31,Apache Burr: Build reliable AI agents and applications,230,110
+2026-06-11T12:33:55.110238+00:00,48459678,32,CSS: Unavoidable Bad Parts,97,54
+2026-06-11T12:33:55.110238+00:00,48482293,33,What is it like to be a bat? (1974) [pdf],100,107
+2026-06-11T12:33:55.110238+00:00,48481857,34,Raspberry Pi 5 – 16GB RAM,280,292
+2026-06-11T12:33:55.110238+00:00,48478148,35,Show HN: HelixDB – A graph database built on object storage,138,36
+2026-06-11T12:33:55.110238+00:00,48475100,36,"All 9,300 Japanese train station, animated by the year it opened (1872–2026)",246,79
+2026-06-11T12:33:55.110238+00:00,48463808,37,Claude Fable 5,2571,2111
+2026-06-11T12:33:55.110238+00:00,48469658,38,macOS Container Machines,1225,426
+2026-06-11T12:33:55.110238+00:00,48476136,39,A €0.01 bank transfer could compromise a banking AI agent,192,181
+2026-06-11T12:33:55.110238+00:00,48479452,40,"Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",407,287
+2026-06-11T12:33:55.110238+00:00,48462066,41,The Conductor Rewrite: What They Changed to Make It Fast,10,4
+2026-06-11T12:33:55.110238+00:00,48487540,42,"Why AI hasn't replaced software engineers, and won't",72,92
+2026-06-11T12:33:55.110238+00:00,48477851,43,Authentication issues related to API requests,161,32
+2026-06-11T12:33:55.110238+00:00,48485160,44,Are insecure code completions in PyCharm a vulnerability?,37,15
+2026-06-11T12:33:55.110238+00:00,48470578,45,Smudging the game disc to make speedrunning 'SpongeBob' faster,89,57
+2026-06-11T12:33:55.110238+00:00,48421858,46,OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision,834,147
+2026-06-11T12:33:55.110238+00:00,48484282,47,Deficient executive control in transformer attention,35,11
+2026-06-11T12:33:55.110238+00:00,48442932,48,"Buy a train, bridge or tracks from the Swiss Railway",176,104
+2026-06-11T12:33:55.110238+00:00,48476474,49,Notes on DeepSeek,184,125
+2026-06-11T12:33:55.110238+00:00,48472877,50,Mercedes‑Benz starts large‑scale production of electric axial flux motor,532,337
