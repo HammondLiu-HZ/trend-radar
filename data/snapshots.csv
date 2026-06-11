@@ -845,3 +845,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-11T21:32:26.598159+00:00,48495443,48,The three lines of CSS that saved me 40kb and might do the same for you,8,1
 2026-06-11T21:32:26.598159+00:00,48461635,49,Build a Basic AI Agent from Scratch: Long Task Planning,120,47
 2026-06-11T21:32:26.598159+00:00,48491821,50,OpenAI to acquire Ona to expand Codex,32,4
+2026-06-11T23:44:42.238947+00:00,48497609,1,"If You Are Asking for Human Attention, Demonstrate Human Effort",88,10
+2026-06-11T23:44:42.238947+00:00,48496539,2,"Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",157,63
+2026-06-11T23:44:42.238947+00:00,48490024,3,Show HN: Homebrew 6.0.0,897,211
+2026-06-11T23:44:42.238947+00:00,48490826,4,MiMo Code is now released and open-source,405,225
+2026-06-11T23:44:42.238947+00:00,48491830,5,Petition to Withdraw Canada's Bill C-22,317,110
+2026-06-11T23:44:42.238947+00:00,48489229,6,Anthropic apologizes for invisible Claude Fable guardrails,246,266
+2026-06-11T23:44:42.238947+00:00,48495575,7,Shall we play a game? – LLMs use tactical nukes in 95% of simulations,165,158
+2026-06-11T23:44:42.238947+00:00,48492215,8,The RCE that AMD wouldn't fix,206,90
+2026-06-11T23:44:42.238947+00:00,48474274,9,Emacs appearances in pop culture,226,52
+2026-06-11T23:44:42.238947+00:00,48496250,10,Show HN: Boo – screen-style terminal multiplexer built on libghostty,34,7
+2026-06-11T23:44:42.238947+00:00,48447598,11,Ear Training Practice,124,68
+2026-06-11T23:44:42.238947+00:00,48497260,12,OpenAI Prepping for On-Prem Product?,12,7
+2026-06-11T23:44:42.238947+00:00,48496396,13,Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass,170,87
+2026-06-11T23:44:42.238947+00:00,48462070,14,macOS 27 Beta breaks the ability to boot Asahi Linux,208,94
+2026-06-11T23:44:42.238947+00:00,48452001,15,Developer gets Half-Life running at 30 FPS on a Nokia N95,199,61
+2026-06-11T23:44:42.238947+00:00,48492304,16,Waymo Premier,138,364
+2026-06-11T23:44:42.238947+00:00,48491486,17,FPS.cob: A first person shooter in COBOL,94,56
+2026-06-11T23:44:42.238947+00:00,48492533,18,Software is made between commits,183,121
+2026-06-11T23:44:42.238947+00:00,48493564,19,Apple didn't revolutionize power supplies; new transistors did (2012),62,6
+2026-06-11T23:44:42.238947+00:00,48489402,20,Lines of code got a better publicist,342,240
+2026-06-11T23:44:42.238947+00:00,48497168,21,The unreasonable effectiveness of simple HTML (2021),52,10
+2026-06-11T23:44:42.238947+00:00,48456637,22,"Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon",13,1
+2026-06-11T23:44:42.238947+00:00,48489917,23,Open Reproduction of DeepSeek-R1,184,16
+2026-06-11T23:44:42.238947+00:00,48495751,24,"Travel locally, where you are",75,41
+2026-06-11T23:44:42.238947+00:00,48492210,25,Claude Fable 5: mid-tier results on coding tasks,185,81
+2026-06-11T23:44:42.238947+00:00,48428959,26,Discovery of Cold War-era rare Eastern Bloc computers in a German hangar,95,19
+2026-06-11T23:44:42.238947+00:00,48457601,27,"A worm in my Erlang cluster, and adventures in microfluidics",8,0
+2026-06-11T23:44:42.238947+00:00,48492306,28,Solar generates more energy in US than coal for first time,397,190
+2026-06-11T23:44:42.238947+00:00,48495818,29,I stopped tracking my time. Now I can't focus,48,51
+2026-06-11T23:44:42.238947+00:00,48495197,30,Who Runs the Ransomware Group 'The Gentlemen?',51,5
+2026-06-11T23:44:42.238947+00:00,48442880,31,Doing nothing at work,341,121
+2026-06-11T23:44:42.238947+00:00,48433351,32,A new era for software testing,110,42
+2026-06-11T23:44:42.238947+00:00,48468495,33,Programming a GBA Game on an iPhone,41,5
+2026-06-11T23:44:42.238947+00:00,48462928,34,"Show HN: Claw Patrol, a security firewall for agents",82,26
+2026-06-11T23:44:42.238947+00:00,48495383,35,"Ivanti Sentry pre-auth RCE (CVE-2026-10520) – CVSS 10.0, public PoC, CISA KEV",13,0
+2026-06-11T23:44:42.238947+00:00,48487029,36,Pokémon Go Scans Trained the Navigation Tech for Military Drones,677,304
+2026-06-11T23:44:42.238947+00:00,48476214,37,Fully autonomous drones have killed human soldiers for the first time,183,163
+2026-06-11T23:44:42.238947+00:00,48451013,38,SVG-Line: Better Status Bars for Emacs – Charlie Holland's Blog,77,5
+2026-06-11T23:44:42.238947+00:00,48477208,39,"Spoiling Linux Kernel with ""sanctioned"" code",95,33
+2026-06-11T23:44:42.238947+00:00,48456279,40,Queues Don't Fix Overload (2014),57,31
+2026-06-11T23:44:42.238947+00:00,48496332,41,OpenAI's June 2026 Report on Malicious Uses of AI [pdf],8,2
+2026-06-11T23:44:42.238947+00:00,48488901,42,Global population movements from 1990 to 2023,88,88
+2026-06-11T23:44:42.238947+00:00,48487897,43,Web Browsers on Video Game Consoles,153,74
+2026-06-11T23:44:42.238947+00:00,48490715,44,"Nextcloud Hub 26 Spring: Built together, designed for the future",115,85
+2026-06-11T23:44:42.238947+00:00,48495969,45,"Show HN: TunnelMind – reputation API for IPs, ASNs, and ad-tech supply chains",3,0
+2026-06-11T23:44:42.238947+00:00,48490532,46,MapComplete: Maps about various topics which you can contribute to,177,43
+2026-06-11T23:44:42.238947+00:00,48486486,47,OpenAI mulls slashing prices as it competes with Anthropic for users,109,118
+2026-06-11T23:44:42.238947+00:00,48452174,48,Pozzo: A Fast Lucky Number Checker,15,2
+2026-06-11T23:44:42.238947+00:00,48494428,49,Why your asthma inhaler is so expensive (in the US),18,5
+2026-06-11T23:44:42.238947+00:00,48466488,50,Ask HN: Favorite text heavy blogs that are a joy to read?,79,22
