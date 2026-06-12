@@ -1093,3 +1093,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-12T16:51:42.095752+00:00,48492304,48,Waymo Premier,199,489
 2026-06-12T16:51:42.095752+00:00,48506073,49,Appeals court upholds FTX co-founder Sam Bankman-Fried's fraud conviction,4,0
 2026-06-12T16:51:42.095752+00:00,48500404,50,Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails,199,200
+2026-06-12T19:14:46.772729+00:00,48505231,1,"CRISPR tech selectively shreds cancer cells, including ""undruggable"" cancers",360,91
+2026-06-12T19:14:46.772729+00:00,48507282,2,I Am Not a Reverse Centaur,81,36
+2026-06-12T19:14:46.772729+00:00,48507020,3,How to Setup a Local Coding Agent on macOS,53,17
+2026-06-12T19:14:46.772729+00:00,48506659,4,"Pirates, a naval warfare game inspired by Sid Meier's Pirates",54,23
+2026-06-12T19:14:46.772729+00:00,48506209,5,A PDF that changes based on how its read,69,30
+2026-06-12T19:14:46.772729+00:00,48504912,6,Slightly reducing the sloppiness of AI generated front end,119,77
+2026-06-12T19:14:46.772729+00:00,48495928,7,Malware developers added nuclear and biological weapons text to to their spyware,113,81
+2026-06-12T19:14:46.772729+00:00,48506372,8,Looking Forward to Postgres 19: It's About Time,58,17
+2026-06-12T19:14:46.772729+00:00,48504543,9,A dumpster arrived behind my university's library,115,90
+2026-06-12T19:14:46.772729+00:00,48506545,10,Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents,16,5
+2026-06-12T19:14:46.772729+00:00,48505452,11,Where Did Earth Get Its Oceans? Maybe It Made Them Itself,66,42
+2026-06-12T19:14:46.772729+00:00,48493512,12,There Is Life Before Main in Rust,31,8
+2026-06-12T19:14:46.772729+00:00,48506616,13,"Law Enforcement's ""Warrior"" Problem (2015)",27,17
+2026-06-12T19:14:46.772729+00:00,48500012,14,AI agent bankrupted their operator while trying to scan DN42,1306,475
+2026-06-12T19:14:46.772729+00:00,48507571,15,Cosmodial Sky Atlas,8,1
+2026-06-12T19:14:46.772729+00:00,48504929,16,Introduction to UEFI HTTP(s) Boot with QEMU/OVMF,35,8
+2026-06-12T19:14:46.772729+00:00,48507836,17,A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial,23,2
+2026-06-12T19:14:46.772729+00:00,48505561,19,Keygen.music,99,60
+2026-06-12T19:14:46.772729+00:00,48503014,20,Maxproof,110,8
+2026-06-12T19:14:46.772729+00:00,48504697,21,A Call to Action: Stop the FCC's KYC Regime,269,173
+2026-06-12T19:14:46.772729+00:00,48507783,22,I Won't Buy You a Coffee,30,26
+2026-06-12T19:14:46.772729+00:00,48504063,23,WASI 0.3,193,80
+2026-06-12T19:14:46.772729+00:00,48505364,24,Show HN: StackScope – I crawled over 40k indie launches to see what they ship,27,7
+2026-06-12T19:14:46.772729+00:00,48497609,25,"If you are asking for human attention, demonstrate human effort",1385,440
+2026-06-12T19:14:46.772729+00:00,48507278,26,"""Don't You Just Upload It to ChatGPT?""",83,81
+2026-06-12T19:14:46.772729+00:00,48468852,27,How we made hit video game Prince of Persia,247,96
+2026-06-12T19:14:46.772729+00:00,48506324,28,New privacy frontier: Europe eyes crackdown on smart glasses,45,27
+2026-06-12T19:14:46.772729+00:00,48503219,29,Encrypted Spaces An architecture for collaborative applications,45,5
+2026-06-12T19:14:46.772729+00:00,48505161,30,Show HN: Script to bulk delete Claude chats from the web UI,41,12
+2026-06-12T19:14:46.772729+00:00,48502347,31,Kimi K2.7-Code: open-source coding model with better token efficiency,345,188
+2026-06-12T19:14:46.772729+00:00,48497576,32,A jacket that harvests drinking water from the air,140,90
+2026-06-12T19:14:46.772729+00:00,48498385,33,Nobody ever gets credit for fixing problems that never happened (2001) [pdf],695,231
+2026-06-12T19:14:46.772729+00:00,48500447,34,AUR packages compromised with Infostealer and Rootkit,242,178
+2026-06-12T19:14:46.772729+00:00,48427421,35,Vinyl succumbs to Loudness War: more than just collateral damage (2025),135,212
+2026-06-12T19:14:46.772729+00:00,48505690,36,"Euro-Office, open standards, and native ODF",58,5
+2026-06-12T19:14:46.772729+00:00,48487829,37,Making a vintage LLM from scratch,89,23
+2026-06-12T19:14:46.772729+00:00,48506073,38,Appeals court upholds FTX co-founder Sam Bankman-Fried's fraud conviction,31,4
+2026-06-12T19:14:46.772729+00:00,48502601,39,Ryanair dark UX patterns summer 2026 refresher,223,174
+2026-06-12T19:14:46.772729+00:00,48498421,40,Removing 'um' from a recording is harder than it sounds,149,72
+2026-06-12T19:14:46.772729+00:00,48490024,41,Show HN: Homebrew 6.0.0,1388,328
+2026-06-12T19:14:46.772729+00:00,48505930,42,The World Has Moved On,40,1
+2026-06-12T19:14:46.772729+00:00,48506164,43,A real-ephemeris 3D universe explorer in the browser,4,0
+2026-06-12T19:14:46.772729+00:00,48505435,44,You can power on a Mac remotely,6,0
+2026-06-12T19:14:46.772729+00:00,48507024,45,FDA Approves New Sunscreen Ingredient (Bemotrizinol) Used in EU/Asia for Years,10,4
+2026-06-12T19:14:46.772729+00:00,48498573,46,Claude Fable is relentlessly proactive,704,599
+2026-06-12T19:14:46.772729+00:00,48446673,47,How Terry Tao became an evangelist for AI in math,160,149
+2026-06-12T19:14:46.772729+00:00,48507656,48,Over 900 Arch Linux Packages Infected with infostealers and rootkits,5,1
+2026-06-12T19:14:46.772729+00:00,48501012,49,Report on an Unidentified Space Station – J.G. Ballard (1982),103,70
+2026-06-12T19:14:46.772729+00:00,48507986,50,EV demand up 50% in France and Germany since Iran war,4,0
