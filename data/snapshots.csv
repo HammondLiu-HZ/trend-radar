@@ -895,3 +895,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-11T23:44:42.238947+00:00,48452174,48,Pozzo: A Fast Lucky Number Checker,15,2
 2026-06-11T23:44:42.238947+00:00,48494428,49,Why your asthma inhaler is so expensive (in the US),18,5
 2026-06-11T23:44:42.238947+00:00,48466488,50,Ask HN: Favorite text heavy blogs that are a joy to read?,79,22
+2026-06-12T04:52:22.274398+00:00,48498385,1,Nobody ever gets credit for fixing problems that never happened (2001) [pdf],237,81
+2026-06-12T04:52:22.274398+00:00,48497609,2,"If you are asking for human attention, demonstrate human effort",398,122
+2026-06-12T04:52:22.274398+00:00,48490024,3,Show HN: Homebrew 6.0.0,1081,249
+2026-06-12T04:52:22.274398+00:00,48498573,4,Claude Fable is relentlessly proactive,242,198
+2026-06-12T04:52:22.274398+00:00,48496539,5,"Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",318,175
+2026-06-12T04:52:22.274398+00:00,48468852,6,How we made hit video game Prince of Persia,20,1
+2026-06-12T04:52:22.274398+00:00,48490826,7,MiMo Code is now released and open-source,447,253
+2026-06-12T04:52:22.274398+00:00,48489229,8,Anthropic apologizes for invisible Claude Fable guardrails,361,356
+2026-06-12T04:52:22.274398+00:00,48491830,9,Petition to Withdraw Canada's Bill C-22,398,137
+2026-06-12T04:52:22.274398+00:00,48497576,10,A jacket that harvests drinking water from the air,66,46
+2026-06-12T04:52:22.274398+00:00,48493218,11,WikiLambda the Ultimate,15,3
+2026-06-12T04:52:22.274398+00:00,48447598,12,Ear Training Practice,191,92
+2026-06-12T04:52:22.274398+00:00,48492533,13,Software is made between commits,230,168
+2026-06-12T04:52:22.274398+00:00,48462070,14,macOS 27 Beta breaks the ability to boot Asahi Linux,268,114
+2026-06-12T04:52:22.274398+00:00,48474274,15,Emacs appearances in pop culture,286,81
+2026-06-12T04:52:22.274398+00:00,48492215,16,The RCE that AMD wouldn't fix,246,109
+2026-06-12T04:52:22.274398+00:00,48489402,17,Lines of code got a better publicist,375,257
+2026-06-12T04:52:22.274398+00:00,48492210,18,Claude Fable 5: mid-tier results on coding tasks,264,122
+2026-06-12T04:52:22.274398+00:00,48452001,19,Developer gets Half-Life running at 30 FPS on a Nokia N95,241,77
+2026-06-12T04:52:22.274398+00:00,48479314,20,"Reading for pleasure is sharply down among schoolkids, report shows",112,134
+2026-06-12T04:52:22.274398+00:00,48498421,21,Removing 'um' from a recording is harder than it sounds,35,12
+2026-06-12T04:52:22.274398+00:00,48496250,22,Show HN: Boo – Screen-style terminal multiplexer built on libghostty,63,20
+2026-06-12T04:52:22.274398+00:00,48492304,23,Waymo Premier,170,422
+2026-06-12T04:52:22.274398+00:00,48490939,24,How a new DSL may survive in the era of LLMs,28,9
+2026-06-12T04:52:22.274398+00:00,48491486,25,FPS.cob: A first person shooter in COBOL,113,64
+2026-06-12T04:52:22.274398+00:00,48492177,26,MTG Bench: Testing how well LLMs can play Magic,40,22
+2026-06-12T04:52:22.274398+00:00,48493564,27,Apple didn't revolutionize power supplies; new transistors did (2012),105,9
+2026-06-12T04:52:22.274398+00:00,48487829,28,Making a vintage LLM from scratch,35,5
+2026-06-12T04:52:22.274398+00:00,48489917,29,Open Reproduction of DeepSeek-R1,215,17
+2026-06-12T04:52:22.274398+00:00,48459999,30,Faking keyword arguments to functions in C++,19,15
+2026-06-12T04:52:22.274398+00:00,48487229,31,A greyscale iPhone setup that works in everyday life,83,49
+2026-06-12T04:52:22.274398+00:00,48442880,32,Doing nothing at work,367,130
+2026-06-12T04:52:22.274398+00:00,48428959,33,Discovery of Cold War-era rare Eastern Bloc computers in a German hangar,101,26
+2026-06-12T04:52:22.274398+00:00,48499349,34,StonkRider – Ride any stock chart,4,0
+2026-06-12T04:52:22.274398+00:00,48478766,35,Babel-USB: USB drive with every file,34,13
+2026-06-12T04:52:22.274398+00:00,48495197,36,Who Runs the Ransomware Group 'The Gentlemen?',65,6
+2026-06-12T04:52:22.274398+00:00,48492306,37,Solar generates more energy in US than coal for first time,428,204
+2026-06-12T04:52:22.274398+00:00,48497195,38,Codex for Open Source,27,0
+2026-06-12T04:52:22.274398+00:00,48495575,39,Shall we play a game? My AI nuclear simulation,186,176
+2026-06-12T04:52:22.274398+00:00,48495751,40,"Travel locally, where you are",92,53
+2026-06-12T04:52:22.274398+00:00,48433351,41,A new era for software testing,119,44
+2026-06-12T04:52:22.274398+00:00,48498283,42,"Don't let the LLM speak, just probe it",13,1
+2026-06-12T04:52:22.274398+00:00,48456637,43,"Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon",22,4
+2026-06-12T04:52:22.274398+00:00,48487029,44,Pokémon Go Scans Trained the Navigation Tech for Military Drones,686,308
+2026-06-12T04:52:22.274398+00:00,48496483,45,Tailwind and slop apps,64,48
+2026-06-12T04:52:22.274398+00:00,48462928,46,"Show HN: Claw Patrol, a security firewall for agents",90,26
+2026-06-12T04:52:22.274398+00:00,48494716,47,Finding Optimal Tokenizers,11,0
+2026-06-12T04:52:22.274398+00:00,48444664,48,Did Ahmes find the best expansions for 2/n?,10,0
+2026-06-12T04:52:22.274398+00:00,48496396,49,Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass,256,163
+2026-06-12T04:52:22.274398+00:00,48468495,50,Programming a GBA Game on an iPhone,45,6
