@@ -995,3 +995,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-12T09:06:59.789906+00:00,48495751,48,"Travel locally, where you are",103,61
 2026-06-12T09:06:59.789906+00:00,48495575,49,Shall we play a game? My AI nuclear simulation,192,180
 2026-06-12T09:06:59.789906+00:00,48497195,50,Codex for Open Source,31,0
+2026-06-12T13:34:19.749696+00:00,48500012,1,AI agent bankrupted their operator while trying to scan DN42,912,342
+2026-06-12T13:34:19.749696+00:00,48503014,2,Maxproof,42,0
+2026-06-12T13:34:19.749696+00:00,48497609,3,"If you are asking for human attention, demonstrate human effort",1023,341
+2026-06-12T13:34:19.749696+00:00,48498385,4,Nobody ever gets credit for fixing problems that never happened (2001) [pdf],563,183
+2026-06-12T13:34:19.749696+00:00,48500447,5,AUR Packages Compromised with Infostealer and Rootkit,112,47
+2026-06-12T13:34:19.749696+00:00,48490024,6,Show HN: Homebrew 6.0.0,1319,317
+2026-06-12T13:34:19.749696+00:00,48502347,8,Kimi K2.7-Code: open-source coding model with better token efficiency,136,61
+2026-06-12T13:34:19.749696+00:00,48502601,9,Ryanair dark UX patterns summer 2026 refresher,114,90
+2026-06-12T13:34:19.749696+00:00,48468852,10,How we made hit video game Prince of Persia,181,69
+2026-06-12T13:34:19.749696+00:00,48496539,11,"Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",441,239
+2026-06-12T13:34:19.749696+00:00,48502321,12,The Future of Email,89,82
+2026-06-12T13:34:19.749696+00:00,48427421,13,Vinyl succumbs to Loudness War: more than just collateral damage (2025),101,147
+2026-06-12T13:34:19.749696+00:00,48489229,14,Anthropic apologizes for invisible Claude Fable guardrails,456,404
+2026-06-12T13:34:19.749696+00:00,48498573,15,Claude Fable is relentlessly proactive,569,452
+2026-06-12T13:34:19.749696+00:00,48490826,16,MiMo Code is now released and open-source,521,287
+2026-06-12T13:34:19.749696+00:00,48502730,17,"David Hockney, Who Restored the Human Form to Art, Dies at 88",48,7
+2026-06-12T13:34:19.749696+00:00,48487829,18,Making a vintage LLM from scratch,49,13
+2026-06-12T13:34:19.749696+00:00,48491830,19,Petition to Withdraw Canada's Bill C-22,455,147
+2026-06-12T13:34:19.749696+00:00,48462070,20,macOS 27 Beta breaks the ability to boot Asahi Linux,345,140
+2026-06-12T13:34:19.749696+00:00,48501012,21,Report on an Unidentified Space Station,90,49
+2026-06-12T13:34:19.749696+00:00,48479314,22,"Reading for pleasure is sharply down among schoolkids, report shows",199,254
+2026-06-12T13:34:19.749696+00:00,48474274,23,Emacs appearances in pop culture,350,102
+2026-06-12T13:34:19.749696+00:00,48498421,24,Removing 'um' from a recording is harder than it sounds,120,58
+2026-06-12T13:34:19.749696+00:00,48447598,25,Ear Training Practice,271,108
+2026-06-12T13:34:19.749696+00:00,48492533,26,Software is made between commits,284,200
+2026-06-12T13:34:19.749696+00:00,48489402,27,Lines of code got a better publicist,405,286
+2026-06-12T13:34:19.749696+00:00,48452001,28,Developer gets Half-Life running at 30 FPS on a Nokia N95,312,106
+2026-06-12T13:34:19.749696+00:00,48492215,29,The RCE that AMD wouldn't fix,291,119
+2026-06-12T13:34:19.749696+00:00,48492210,30,Claude Fable 5: mid-tier results on coding tasks,354,196
+2026-06-12T13:34:19.749696+00:00,48446673,31,How Terry Tao became an evangelist for AI in math,146,138
+2026-06-12T13:34:19.749696+00:00,48497576,32,A jacket that harvests drinking water from the air,118,76
+2026-06-12T13:34:19.749696+00:00,48491486,33,FPS.cob: A first person shooter in COBOL,128,66
+2026-06-12T13:34:19.749696+00:00,48493218,34,WikiLambda the Ultimate,52,10
+2026-06-12T13:34:19.749696+00:00,48503572,35,Ford CEO's Right to Repair Comment Should Make Every Car Owner Uncomfortable,5,3
+2026-06-12T13:34:19.749696+00:00,48489917,36,Open Reproduction of DeepSeek-R1,235,18
+2026-06-12T13:34:19.749696+00:00,48492304,37,Waymo Premier,195,468
+2026-06-12T13:34:19.749696+00:00,48493564,38,Apple didn't revolutionize power supplies; new transistors did (2012),143,22
+2026-06-12T13:34:19.749696+00:00,48496278,39,Trying to fix complicated problems,28,0
+2026-06-12T13:34:19.749696+00:00,48442880,40,Doing nothing at work,401,137
+2026-06-12T13:34:19.749696+00:00,48500404,41,Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails,176,188
+2026-06-12T13:34:19.749696+00:00,48496250,42,Show HN: Boo – Screen-style terminal multiplexer built on libghostty,81,25
+2026-06-12T13:34:19.749696+00:00,48496483,43,Tailwind and slop apps,83,65
+2026-06-12T13:34:19.749696+00:00,48494716,44,Finding Optimal Tokenizers,25,1
+2026-06-12T13:34:19.749696+00:00,48428959,45,Discovery of Cold War-era rare Eastern Bloc computers in a German hangar,114,30
+2026-06-12T13:34:19.749696+00:00,48487229,46,A greyscale iPhone setup that works in everyday life,107,59
+2026-06-12T13:34:19.749696+00:00,48492177,47,MTG Bench: Testing how well LLMs can play Magic,60,31
+2026-06-12T13:34:19.749696+00:00,48490939,48,How a new DSL may survive in the era of LLMs,47,16
+2026-06-12T13:34:19.749696+00:00,48433351,49,A new era for software testing,133,49
+2026-06-12T13:34:19.749696+00:00,48499890,50,Device Clock Generation (2025),23,2
