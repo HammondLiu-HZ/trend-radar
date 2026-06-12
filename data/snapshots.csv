@@ -1191,3 +1191,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-12T21:57:21.573897+00:00,48498573,48,Claude Fable is relentlessly proactive,718,614
 2026-06-12T21:57:21.573897+00:00,48442880,49,Doing nothing at work,432,151
 2026-06-12T21:57:21.573897+00:00,48508484,50,Indiana Pi Bill,8,0
+2026-06-12T23:40:18.540558+00:00,48510010,1,Renault: Electric motors with no rare earths,69,15
+2026-06-12T23:40:18.540558+00:00,48505231,2,"CRISPR tech selectively shreds cancer cells, including ""undruggable"" cancers",652,168
+2026-06-12T23:40:18.540558+00:00,48508726,3,Swift at Apple: Migrating the TrueType hinting interpreter,102,44
+2026-06-12T23:40:18.540558+00:00,48507020,4,How to setup a local coding agent on macOS,224,68
+2026-06-12T23:40:18.540558+00:00,48510046,5,Twenty One Zero-Days in FFmpeg,36,13
+2026-06-12T23:40:18.540558+00:00,48495928,6,Malware developers added nuclear and biological weapons text to to their spyware,266,175
+2026-06-12T23:40:18.540558+00:00,48510341,7,Show HN: Putt.day a daily mini golf game,17,12
+2026-06-12T23:40:18.540558+00:00,48506659,8,"Pirates, a naval warfare game inspired by Sid Meier's Pirates",175,71
+2026-06-12T23:40:18.540558+00:00,48484496,9,H.R. 6028 would fundamentally change the U.S. Copyright Office,77,11
+2026-06-12T23:40:18.540558+00:00,48509182,10,Palantir loses legal challenge against Swiss investigative magazine,138,22
+2026-06-12T23:40:18.540558+00:00,48507278,11,"""Don't You Just Upload It to ChatGPT?""",273,226
+2026-06-12T23:40:18.540558+00:00,48504912,12,Slightly reducing the sloppiness of AI generated front end,156,107
+2026-06-12T23:40:18.540558+00:00,48506545,13,Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents,33,19
+2026-06-12T23:40:18.540558+00:00,48509133,14,"/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",17,8
+2026-06-12T23:40:18.540558+00:00,48505452,15,Where Did Earth Get Its Oceans? Maybe It Made Them Itself,98,57
+2026-06-12T23:40:18.540558+00:00,48504929,16,Introduction to UEFI HTTP(s) Boot with QEMU/OVMF,69,25
+2026-06-12T23:40:18.540558+00:00,48477001,17,Show HN: Turn your name into a tree in an infinite procedural shanshui landscape,10,2
+2026-06-12T23:40:18.540558+00:00,48506209,18,Adaptive PDFs,112,59
+2026-06-12T23:40:18.540558+00:00,48497609,19,"If you are asking for human attention, demonstrate human effort",1480,457
+2026-06-12T23:40:18.540558+00:00,48503014,20,Maxproof,125,12
+2026-06-12T23:40:18.540558+00:00,48507499,21,Most Beautiful Will Ever Made (1936),30,12
+2026-06-12T23:40:18.540558+00:00,48493512,22,There Is Life Before Main in Rust,64,17
+2026-06-12T23:40:18.540558+00:00,48489519,23,Enhance RAW image processing with Core Image [video],4,1
+2026-06-12T23:40:18.540558+00:00,48509844,24,SkillSpector,5,0
+2026-06-12T23:40:18.540558+00:00,48507282,25,I Am Not a Reverse Centaur,241,174
+2026-06-12T23:40:18.540558+00:00,48508949,27,Can I Buy Your KV Cache?,30,24
+2026-06-12T23:40:18.540558+00:00,48504543,28,A dumpster arrived behind my university's library,150,140
+2026-06-12T23:40:18.540558+00:00,48505364,29,Show HN: StackScope – I crawled over 40k indie launches to see what they ship,41,13
+2026-06-12T23:40:18.540558+00:00,48504063,30,WASI 0.3,224,87
+2026-06-12T23:40:18.540558+00:00,48509143,31,"Mmorpg World of ClaudeCraft, vibe coded with Fable 5",79,80
+2026-06-12T23:40:18.540558+00:00,48503219,32,Encrypted Spaces: An architecture for collaborative applications,62,9
+2026-06-12T23:40:18.540558+00:00,48498385,33,Nobody ever gets credit for fixing problems that never happened (2001) [pdf],720,243
+2026-06-12T23:40:18.540558+00:00,48427421,34,Vinyl succumbs to Loudness War: more than just collateral damage (2025),146,223
+2026-06-12T23:40:18.540558+00:00,48502347,35,Kimi K2.7-Code: open-source coding model with better token efficiency,394,213
+2026-06-12T23:40:18.540558+00:00,48506372,36,Looking Forward to Postgres 19: It's About Time,129,38
+2026-06-12T23:40:18.540558+00:00,48504697,37,A Call to Action: Stop the FCC's KYC Regime,306,208
+2026-06-12T23:40:18.540558+00:00,48507571,38,Cosmodial Sky Atlas,26,5
+2026-06-12T23:40:18.540558+00:00,48510357,39,AMD Stiffs Researcher $10k Bug Bounty,7,0
+2026-06-12T23:40:18.540558+00:00,48505435,40,You can power on a Mac remotely,40,27
+2026-06-12T23:40:18.540558+00:00,48500012,41,AI agent bankrupted their operator while trying to scan DN42,1377,497
+2026-06-12T23:40:18.540558+00:00,48510471,42,I Think They [Anthropic] Are Lying to You [video],5,1
+2026-06-12T23:40:18.540558+00:00,48505161,43,Show HN: Script to bulk delete Claude chats from the web UI,50,18
+2026-06-12T23:40:18.540558+00:00,48487829,44,Making a vintage LLM from scratch,92,27
+2026-06-12T23:40:18.540558+00:00,48490024,45,Show HN: Homebrew 6.0.0,1402,337
+2026-06-12T23:40:18.540558+00:00,48498421,46,Removing 'um' from a recording is harder than it sounds,157,77
+2026-06-12T23:40:18.540558+00:00,48507986,47,EV demand up 50% in France and Germany since Iran war,96,46
+2026-06-12T23:40:18.540558+00:00,48446673,48,How Terry Tao became an evangelist for AI in math,165,155
+2026-06-12T23:40:18.540558+00:00,48442880,49,Doing nothing at work,433,152
+2026-06-12T23:40:18.540558+00:00,48498573,50,Claude Fable is relentlessly proactive,723,624
