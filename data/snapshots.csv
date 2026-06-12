@@ -945,3 +945,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-12T04:52:22.274398+00:00,48444664,48,Did Ahmes find the best expansions for 2/n?,10,0
 2026-06-12T04:52:22.274398+00:00,48496396,49,Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass,256,163
 2026-06-12T04:52:22.274398+00:00,48468495,50,Programming a GBA Game on an iPhone,45,6
+2026-06-12T09:06:59.789906+00:00,48500012,1,AI agent bankrupted their operator while trying to scan DN42,476,170
+2026-06-12T09:06:59.789906+00:00,48498385,2,Nobody ever gets credit for fixing problems that never happened (2001) [pdf],442,147
+2026-06-12T09:06:59.789906+00:00,48497609,3,"If you are asking for human attention, demonstrate human effort",678,219
+2026-06-12T09:06:59.789906+00:00,48490024,4,Show HN: Homebrew 6.0.0,1205,277
+2026-06-12T09:06:59.789906+00:00,48468852,5,How we made hit video game Prince of Persia,107,29
+2026-06-12T09:06:59.789906+00:00,48427421,6,Vinyl succumbs to Loudness War: more than just collateral damage (2025),65,80
+2026-06-12T09:06:59.789906+00:00,48498573,7,Claude Fable is relentlessly proactive,418,322
+2026-06-12T09:06:59.789906+00:00,48496539,8,"Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",386,200
+2026-06-12T09:06:59.789906+00:00,48500404,9,Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails,93,83
+2026-06-12T09:06:59.789906+00:00,48489229,10,Anthropic apologizes for invisible Claude Fable guardrails,415,382
+2026-06-12T09:06:59.789906+00:00,48490826,11,MiMo Code is now released and open-source,488,270
+2026-06-12T09:06:59.789906+00:00,48491830,12,Petition to Withdraw Canada's Bill C-22,434,144
+2026-06-12T09:06:59.789906+00:00,48498421,13,Removing 'um' from a recording is harder than it sounds,72,27
+2026-06-12T09:06:59.789906+00:00,48462070,14,macOS 27 Beta breaks the ability to boot Asahi Linux,308,127
+2026-06-12T09:06:59.789906+00:00,48447598,15,Ear Training Practice,237,98
+2026-06-12T09:06:59.789906+00:00,48492210,16,Claude Fable 5: mid-tier results on coding tasks,314,149
+2026-06-12T09:06:59.789906+00:00,48492533,17,Software is made between commits,257,187
+2026-06-12T09:06:59.789906+00:00,48474274,18,Emacs appearances in pop culture,325,88
+2026-06-12T09:06:59.789906+00:00,48497576,19,A jacket that harvests drinking water from the air,106,64
+2026-06-12T09:06:59.789906+00:00,48489402,20,Lines of code got a better publicist,389,272
+2026-06-12T09:06:59.789906+00:00,48452001,21,Developer gets Half-Life running at 30 FPS on a Nokia N95,279,91
+2026-06-12T09:06:59.789906+00:00,48479314,22,"Reading for pleasure is sharply down among schoolkids, report shows",156,190
+2026-06-12T09:06:59.789906+00:00,48492215,23,The RCE that AMD wouldn't fix,268,116
+2026-06-12T09:06:59.789906+00:00,48494716,24,Finding Optimal Tokenizers,22,0
+2026-06-12T09:06:59.789906+00:00,48489151,25,"A Commons of Software Productive Infrastructure, by and for Capital",13,2
+2026-06-12T09:06:59.789906+00:00,48493218,26,WikiLambda the Ultimate,42,6
+2026-06-12T09:06:59.789906+00:00,48446673,27,How Terry Tao became an evangelist for AI in math,118,97
+2026-06-12T09:06:59.789906+00:00,48499890,28,Device Clock Generation (2025),16,2
+2026-06-12T09:06:59.789906+00:00,48493564,29,Apple didn't revolutionize power supplies; new transistors did (2012),129,18
+2026-06-12T09:06:59.789906+00:00,48492304,30,Waymo Premier,190,460
+2026-06-12T09:06:59.789906+00:00,48491486,31,FPS.cob: A first person shooter in COBOL,121,65
+2026-06-12T09:06:59.789906+00:00,48489917,32,Open Reproduction of DeepSeek-R1,230,18
+2026-06-12T09:06:59.789906+00:00,48496483,33,Tailwind and slop apps,74,58
+2026-06-12T09:06:59.789906+00:00,48487229,34,A greyscale iPhone setup that works in everyday life,99,56
+2026-06-12T09:06:59.789906+00:00,48492177,35,MTG Bench: Testing how well LLMs can play Magic,54,29
+2026-06-12T09:06:59.789906+00:00,48496250,36,Show HN: Boo – Screen-style terminal multiplexer built on libghostty,74,25
+2026-06-12T09:06:59.789906+00:00,48442880,37,Doing nothing at work,390,135
+2026-06-12T09:06:59.789906+00:00,48490939,38,How a new DSL may survive in the era of LLMs,42,15
+2026-06-12T09:06:59.789906+00:00,48499790,39,The Normalization of Deviance in AI,11,1
+2026-06-12T09:06:59.789906+00:00,48428959,40,Discovery of Cold War-era rare Eastern Bloc computers in a German hangar,110,29
+2026-06-12T09:06:59.789906+00:00,48459999,41,Faking keyword arguments to functions in C++,27,20
+2026-06-12T09:06:59.789906+00:00,48492306,42,Solar generates more energy in US than coal for first time,457,212
+2026-06-12T09:06:59.789906+00:00,48487829,43,Making a vintage LLM from scratch,36,6
+2026-06-12T09:06:59.789906+00:00,48433351,44,A new era for software testing,128,48
+2026-06-12T09:06:59.789906+00:00,48495197,45,Who Runs the Ransomware Group 'The Gentlemen?',69,7
+2026-06-12T09:06:59.789906+00:00,48487029,46,Pokémon Go Scans Trained the Navigation Tech for Military Drones,695,311
+2026-06-12T09:06:59.789906+00:00,48499349,47,StonkRider – Ride any stock chart,20,2
+2026-06-12T09:06:59.789906+00:00,48495751,48,"Travel locally, where you are",103,61
+2026-06-12T09:06:59.789906+00:00,48495575,49,Shall we play a game? My AI nuclear simulation,192,180
+2026-06-12T09:06:59.789906+00:00,48497195,50,Codex for Open Source,31,0
