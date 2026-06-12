@@ -1044,3 +1044,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-12T13:34:19.749696+00:00,48490939,48,How a new DSL may survive in the era of LLMs,47,16
 2026-06-12T13:34:19.749696+00:00,48433351,49,A new era for software testing,133,49
 2026-06-12T13:34:19.749696+00:00,48499890,50,Device Clock Generation (2025),23,2
+2026-06-12T16:51:42.095752+00:00,48505231,1,"CRISPR tech selectively shreds cancer cells, including ""undruggable"" cancers",82,17
+2026-06-12T16:51:42.095752+00:00,48504912,2,Slightly reducing the sloppiness of AI generated front end,51,27
+2026-06-12T16:51:42.095752+00:00,48504543,3,A dumpster arrived behind my university's library,46,25
+2026-06-12T16:51:42.095752+00:00,48504697,4,A Call to Action: Stop the FCC's KYC Regime,213,132
+2026-06-12T16:51:42.095752+00:00,48505561,5,Keygen.music,16,1
+2026-06-12T16:51:42.095752+00:00,48505452,6,Where Did Earth Get Its Oceans? Maybe It Made Them Itself,18,6
+2026-06-12T16:51:42.095752+00:00,48503014,7,Maxproof,94,8
+2026-06-12T16:51:42.095752+00:00,48498385,8,Nobody ever gets credit for fixing problems that never happened (2001) [pdf],663,216
+2026-06-12T16:51:42.095752+00:00,48504063,9,WASI 0.3.0 Released,159,61
+2026-06-12T16:51:42.095752+00:00,48500012,10,AI agent bankrupted their operator while trying to scan DN42,1238,450
+2026-06-12T16:51:42.095752+00:00,48500447,11,AUR packages compromised with Infostealer and Rootkit,203,122
+2026-06-12T16:51:42.095752+00:00,48504929,12,Introduction to UEFI HTTP(s) Boot with QEMU/OVMF,14,0
+2026-06-12T16:51:42.095752+00:00,48505161,14,Show HN: Script to bulk delete Claude chats from the web UI,24,6
+2026-06-12T16:51:42.095752+00:00,48497609,15,"If you are asking for human attention, demonstrate human effort",1299,418
+2026-06-12T16:51:42.095752+00:00,48505364,16,Show HN: StackScope – I crawled over 40k indie launches to see what they ship,9,2
+2026-06-12T16:51:42.095752+00:00,48503219,17,Encrypted Spaces An architecture for collaborative applications,26,3
+2026-06-12T16:51:42.095752+00:00,48468852,18,How we made hit video game Prince of Persia,225,86
+2026-06-12T16:51:42.095752+00:00,48495928,19,Malware developers added nuclear and biological weapons text to to their spyware,4,0
+2026-06-12T16:51:42.095752+00:00,48503940,20,European sunscreens are safer than American (2024),104,49
+2026-06-12T16:51:42.095752+00:00,48502347,21,Kimi K2.7-Code: open-source coding model with better token efficiency,280,143
+2026-06-12T16:51:42.095752+00:00,48504753,22,WhatsApp Business API pricing 2026: what's free and where markup hides,12,6
+2026-06-12T16:51:42.095752+00:00,48497576,23,A jacket that harvests drinking water from the air,124,83
+2026-06-12T16:51:42.095752+00:00,48427421,24,Vinyl succumbs to Loudness War: more than just collateral damage (2025),127,189
+2026-06-12T16:51:42.095752+00:00,48502601,25,Ryanair dark UX patterns summer 2026 refresher,197,157
+2026-06-12T16:51:42.095752+00:00,48505690,26,"Euro-Office, open standards, and native ODF",18,1
+2026-06-12T16:51:42.095752+00:00,48487829,27,Making a vintage LLM from scratch,79,22
+2026-06-12T16:51:42.095752+00:00,48504814,28,My Struggles Talking to an Old Piece of Junk (Fanuc 0M),6,1
+2026-06-12T16:51:42.095752+00:00,48498421,29,Removing 'um' from a recording is harder than it sounds,139,67
+2026-06-12T16:51:42.095752+00:00,48490024,30,Show HN: Homebrew 6.0.0,1375,325
+2026-06-12T16:51:42.095752+00:00,48504996,31,Arch Linux's AUR Sees More Than 400 Packages Compromised with Malware,12,1
+2026-06-12T16:51:42.095752+00:00,48498573,32,Claude Fable is relentlessly proactive,679,569
+2026-06-12T16:51:42.095752+00:00,48446673,33,How Terry Tao became an evangelist for AI in math,156,145
+2026-06-12T16:51:42.095752+00:00,48502730,34,"David Hockney, Who Restored the Human Form to Art, Dies at 88",91,30
+2026-06-12T16:51:42.095752+00:00,48504287,35,Understanding the rationale behind a rule when trying to circumvent it,4,0
+2026-06-12T16:51:42.095752+00:00,48505204,36,Enshittification of Policing,15,2
+2026-06-12T16:51:42.095752+00:00,48487229,37,A greyscale iPhone setup that works in everyday life,117,64
+2026-06-12T16:51:42.095752+00:00,48502321,38,The Future of Email,168,188
+2026-06-12T16:51:42.095752+00:00,48503016,39,Urban wrens are singing at 1am: Six months of birdsong data from BirdNET-go,7,0
+2026-06-12T16:51:42.095752+00:00,48501777,40,/e/OS 4.0 is here,15,0
+2026-06-12T16:51:42.095752+00:00,48491486,41,FPS.cob: A first person shooter in COBOL,132,66
+2026-06-12T16:51:42.095752+00:00,48503389,42,How Comics Are Made,8,1
+2026-06-12T16:51:42.095752+00:00,48442880,43,Doing nothing at work,417,145
+2026-06-12T16:51:42.095752+00:00,48496539,44,"Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",490,256
+2026-06-12T16:51:42.095752+00:00,48504731,45,Facebook and Messenger Hit by Global Outage,19,2
+2026-06-12T16:51:42.095752+00:00,48493564,46,Apple didn't revolutionize power supplies; new transistors did (2012),148,23
+2026-06-12T16:51:42.095752+00:00,48504220,47,"The tanks in Cushing, Oklahoma, are hitting bottom",23,4
+2026-06-12T16:51:42.095752+00:00,48492304,48,Waymo Premier,199,489
+2026-06-12T16:51:42.095752+00:00,48506073,49,Appeals court upholds FTX co-founder Sam Bankman-Fried's fraud conviction,4,0
+2026-06-12T16:51:42.095752+00:00,48500404,50,Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails,199,200
