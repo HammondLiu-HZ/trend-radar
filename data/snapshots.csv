@@ -1240,3 +1240,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-12T23:40:18.540558+00:00,48446673,48,How Terry Tao became an evangelist for AI in math,165,155
 2026-06-12T23:40:18.540558+00:00,48442880,49,Doing nothing at work,433,152
 2026-06-12T23:40:18.540558+00:00,48498573,50,Claude Fable is relentlessly proactive,723,624
+2026-06-13T04:40:24.222885+00:00,48511072,1,Statement on US government directive to suspend access to Fable 5 and Mythos 5,1438,976
+2026-06-13T04:40:24.222885+00:00,48511908,2,Open source AI must win,427,135
+2026-06-13T04:40:24.222885+00:00,48511121,3,We've suspended access to Claude Mythos 5 and Claude Fable 5,216,102
+2026-06-13T04:40:24.222885+00:00,48510010,4,Renault: Electric motors with no rare earths,304,75
+2026-06-13T04:40:24.222885+00:00,48505231,5,"CRISPR tech selectively shreds cancer cells, including ""undruggable"" cancers",747,185
+2026-06-13T04:40:24.222885+00:00,48510341,6,Show HN: Putt.day a daily mini golf game,110,61
+2026-06-13T04:40:24.222885+00:00,48510046,7,Twenty One Zero-Days in FFmpeg,142,77
+2026-06-13T04:40:24.222885+00:00,48508726,8,Swift at Apple: Migrating the TrueType hinting interpreter,172,68
+2026-06-13T04:40:24.222885+00:00,48507020,9,How to setup a local coding agent on macOS,308,77
+2026-06-13T04:40:24.222885+00:00,48495928,10,Malware developers added nuclear and biological weapons text to to their spyware,340,198
+2026-06-13T04:40:24.222885+00:00,48470152,11,Why a Computer Science Degree Still Opens Hidden Doors,24,20
+2026-06-13T04:40:24.222885+00:00,48484496,12,H.R. 6028 would fundamentally change the U.S. Copyright Office,170,55
+2026-06-13T04:40:24.222885+00:00,48465634,13,The Future of wasi-gfx and wasi:webgpu,5,0
+2026-06-13T04:40:24.222885+00:00,48506659,14,"Pirates, a naval warfare game inspired by Sid Meier's Pirates",219,74
+2026-06-13T04:40:24.222885+00:00,48467697,15,"Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",25,3
+2026-06-13T04:40:24.222885+00:00,48509133,16,"/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",81,31
+2026-06-13T04:40:24.222885+00:00,48504912,17,Slightly reducing the sloppiness of AI generated front end,174,112
+2026-06-13T04:40:24.222885+00:00,48509182,18,Palantir loses legal challenge against Swiss investigative magazine,242,52
+2026-06-13T04:40:24.222885+00:00,48479652,19,A key remapping daemon for Linux,24,11
+2026-06-13T04:40:24.222885+00:00,48511168,20,"As a result of a US Government directive, we are suspending access to Fable 5",77,18
+2026-06-13T04:40:24.222885+00:00,48509844,21,SkillSpector,25,4
+2026-06-13T04:40:24.222885+00:00,48497609,22,"If you are asking for human attention, demonstrate human effort",1533,466
+2026-06-13T04:40:24.222885+00:00,48504929,23,Introduction to UEFI HTTP(s) Boot with QEMU/OVMF,85,28
+2026-06-13T04:40:24.222885+00:00,48507499,24,Most Beautiful Will Ever Made (1936),58,13
+2026-06-13T04:40:24.222885+00:00,48507278,25,"""Don't You Just Upload It to ChatGPT?""",359,286
+2026-06-13T04:40:24.222885+00:00,48506545,26,Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents,38,20
+2026-06-13T04:40:24.222885+00:00,48506209,27,Adaptive PDFs,131,66
+2026-06-13T04:40:24.222885+00:00,48510357,28,AMD Stiffs Researcher $10k Bug Bounty,83,9
+2026-06-13T04:40:24.222885+00:00,48511773,29,TycoonLE: A Jax reinforcement learning environment for long-horizon planning,3,1
+2026-06-13T04:40:24.222885+00:00,48503014,30,Maxproof,131,13
+2026-06-13T04:40:24.222885+00:00,48505452,31,Where Did Earth Get Its Oceans? Maybe It Made Them Itself,119,61
+2026-06-13T04:40:24.222885+00:00,48477001,32,Show HN: Turn your name into a tree in an infinite procedural shanshui landscape,31,12
+2026-06-13T04:40:24.222885+00:00,48493512,33,There Is Life Before Main in Rust,76,21
+2026-06-13T04:40:24.222885+00:00,48498385,34,Nobody ever gets credit for fixing problems that never happened (2001) [pdf],732,249
+2026-06-13T04:40:24.222885+00:00,48503219,36,Encrypted Spaces: An architecture for collaborative applications,71,10
+2026-06-13T04:40:24.222885+00:00,48427421,37,Vinyl succumbs to Loudness War: more than just collateral damage (2025),149,230
+2026-06-13T04:40:24.222885+00:00,48505364,38,Show HN: StackScope – I crawled over 40k indie launches to see what they ship,50,14
+2026-06-13T04:40:24.222885+00:00,48511663,39,Reddit RSS feeds recent rate limiting and solution,16,4
+2026-06-13T04:40:24.222885+00:00,48504063,40,WASI 0.3,240,90
+2026-06-13T04:40:24.222885+00:00,48500012,41,AI agent bankrupted their operator while trying to scan DN42,1401,508
+2026-06-13T04:40:24.222885+00:00,48502347,42,Kimi K2.7-Code: open-source coding model with better token efficiency,411,218
+2026-06-13T04:40:24.222885+00:00,48490024,43,Show HN: Homebrew 6.0.0,1407,342
+2026-06-13T04:40:24.222885+00:00,48489519,44,Enhance RAW image processing with Core Image [video],13,1
+2026-06-13T04:40:24.222885+00:00,48486209,45,The forgotten Scots who gave Kafka his voice,11,0
+2026-06-13T04:40:24.222885+00:00,48446673,46,How Terry Tao became an evangelist for AI in math,169,157
+2026-06-13T04:40:24.222885+00:00,48498421,47,Removing 'um' from a recording is harder than it sounds,162,80
+2026-06-13T04:40:24.222885+00:00,48507282,48,I Am Not a Reverse Centaur,259,194
+2026-06-13T04:40:24.222885+00:00,48487829,49,Making a vintage LLM from scratch,97,28
+2026-06-13T04:40:24.222885+00:00,48442880,50,Doing nothing at work,440,154
