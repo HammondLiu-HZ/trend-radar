@@ -1289,3 +1289,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-13T04:40:24.222885+00:00,48507282,48,I Am Not a Reverse Centaur,259,194
 2026-06-13T04:40:24.222885+00:00,48487829,49,Making a vintage LLM from scratch,97,28
 2026-06-13T04:40:24.222885+00:00,48442880,50,Doing nothing at work,440,154
+2026-06-13T08:28:50.039400+00:00,48513806,1,Leaving Mozilla,80,13
+2026-06-13T08:28:50.039400+00:00,48513728,2,Shepherd's Dog: A Game by the Most Dangerous AI Model,55,43
+2026-06-13T08:28:50.039400+00:00,48511072,3,Statement on US government directive to suspend access to Fable 5 and Mythos 5,2098,1532
+2026-06-13T08:28:50.039400+00:00,48510010,4,Electric motors with no rare earths,414,109
+2026-06-13T08:28:50.039400+00:00,48513536,5,There is a shadow hanging over this Fable thing,196,173
+2026-06-13T08:28:50.039400+00:00,48505231,6,"CRISPR tech selectively shreds cancer cells, including ""undruggable"" cancers",802,190
+2026-06-13T08:28:50.039400+00:00,48511908,7,Open source AI must win,820,254
+2026-06-13T08:28:50.039400+00:00,48514560,8,Israeli firm BlackCore suspected of meddling in New York and Scotland votes,31,9
+2026-06-13T08:28:50.039400+00:00,48510046,9,Twenty One Zero-Days in FFmpeg,188,116
+2026-06-13T08:28:50.039400+00:00,48510341,10,Show HN: Putt.day a daily mini golf game,154,71
+2026-06-13T08:28:50.039400+00:00,48507020,11,How to setup a local coding agent on macOS,356,86
+2026-06-13T08:28:50.039400+00:00,48470152,12,The computer science degree isn’t dead,74,57
+2026-06-13T08:28:50.039400+00:00,48513222,13,On CPU Physics and CPU Cycles,33,5
+2026-06-13T08:28:50.039400+00:00,48508726,14,Swift at Apple: Migrating the TrueType hinting interpreter,192,86
+2026-06-13T08:28:50.039400+00:00,48506545,15,Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents,43,21
+2026-06-13T08:28:50.039400+00:00,48495928,16,Malware developers added nuclear and biological weapons text to to their spyware,377,217
+2026-06-13T08:28:50.039400+00:00,48484496,17,H.R. 6028 would fundamentally change the U.S. Copyright Office,208,63
+2026-06-13T08:28:50.039400+00:00,48476202,18,"Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",27,5
+2026-06-13T08:28:50.039400+00:00,48488463,19,Using the Epson Perfection V39 II Scanner on Ubuntu,5,0
+2026-06-13T08:28:50.039400+00:00,48506659,20,"Pirates, a naval warfare game inspired by Sid Meier's Pirates",250,78
+2026-06-13T08:28:50.039400+00:00,48467697,21,"Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",48,12
+2026-06-13T08:28:50.039400+00:00,48484555,22,The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025),6,0
+2026-06-13T08:28:50.039400+00:00,48465634,23,The Future of wasi-gfx and wasi:webgpu,21,5
+2026-06-13T08:28:50.039400+00:00,48514124,24,Show HN: Skill for your agent to visualize your gbrain and Obsidian,3,0
+2026-06-13T08:28:50.039400+00:00,48504912,25,Slightly reducing the sloppiness of AI generated front end,191,119
+2026-06-13T08:28:50.039400+00:00,48465890,26,Automating Myself Out of Development,12,7
+2026-06-13T08:28:50.039400+00:00,48509182,27,Palantir loses legal challenge against Swiss investigative magazine,318,63
+2026-06-13T08:28:50.039400+00:00,48511773,28,TycoonLE: A Jax reinforcement learning environment for long-horizon planning,12,1
+2026-06-13T08:28:50.039400+00:00,48479652,29,A key remapping daemon for Linux,46,21
+2026-06-13T08:28:50.039400+00:00,48497609,30,"If you are asking for human attention, demonstrate human effort",1581,471
+2026-06-13T08:28:50.039400+00:00,48512286,31,A generic dynamic array in C that stores no capacity and needs no struct,13,22
+2026-06-13T08:28:50.039400+00:00,48509844,32,SkillSpector,40,4
+2026-06-13T08:28:50.039400+00:00,48504929,33,Introduction to UEFI HTTP(s) Boot with QEMU/OVMF,95,31
+2026-06-13T08:28:50.039400+00:00,48506209,34,Adaptive PDFs,146,69
+2026-06-13T08:28:50.039400+00:00,48507278,35,"""Don't You Just Upload It to ChatGPT?""",405,331
+2026-06-13T08:28:50.039400+00:00,48503014,36,Maxproof,132,13
+2026-06-13T08:28:50.039400+00:00,48507499,38,Most Beautiful Will Ever Made (1936),64,13
+2026-06-13T08:28:50.039400+00:00,48498385,39,Nobody ever gets credit for fixing problems that never happened (2001) [pdf],737,253
+2026-06-13T08:28:50.039400+00:00,48505452,40,Where Did Earth Get Its Oceans? Maybe It Made Them Itself,125,62
+2026-06-13T08:28:50.039400+00:00,48427421,41,Vinyl succumbs to Loudness War: more than just collateral damage (2025),153,235
+2026-06-13T08:28:50.039400+00:00,48493512,42,There Is Life Before Main in Rust,78,21
+2026-06-13T08:28:50.039400+00:00,48503219,43,Encrypted Spaces: An architecture for collaborative applications,74,10
+2026-06-13T08:28:50.039400+00:00,48505364,44,Show HN: StackScope – I crawled over 40k indie launches to see what they ship,55,15
+2026-06-13T08:28:50.039400+00:00,48490024,45,Show HN: Homebrew 6.0.0,1411,343
+2026-06-13T08:28:50.039400+00:00,48477001,46,Show HN: Turn your name into a tree in an infinite procedural shanshui landscape,34,16
+2026-06-13T08:28:50.039400+00:00,48500012,47,AI agent bankrupted their operator while trying to scan DN42,1414,514
+2026-06-13T08:28:50.039400+00:00,48446673,48,How Terry Tao became an evangelist for AI in math,173,158
+2026-06-13T08:28:50.039400+00:00,48442880,49,Doing nothing at work,445,154
+2026-06-13T08:28:50.039400+00:00,48502347,50,Kimi K2.7-Code: open-source coding model with better token efficiency,425,225
