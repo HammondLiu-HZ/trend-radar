@@ -1935,3 +1935,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-14T17:37:55.473420+00:00,48527826,48,Starmer to announce social media curfew and chatbot ban for teenagers,12,1
 2026-06-14T17:37:55.473420+00:00,48523752,49,Making Claude a Chemist,78,73
 2026-06-14T17:37:55.473420+00:00,48494135,50,"Beagle: Git, URIs and all the dirty words",28,8
+2026-06-14T19:48:56.021930+00:00,48529990,1,Show HN: Kage – Shadow any website to a single binary for offline viewing,130,32
+2026-06-14T19:48:56.021930+00:00,48528371,2,"Rio de Janeiro's ""homegrown"" LLM appears to be a merge of an existing model",185,105
+2026-06-14T19:48:56.021930+00:00,48531449,3,Chaosnet,10,0
+2026-06-14T19:48:56.021930+00:00,48471638,4,Firewood Splitting Simulator,444,152
+2026-06-14T19:48:56.021930+00:00,48489636,5,"Not mine, but it's a website where you can use a segment display",30,3
+2026-06-14T19:48:56.021930+00:00,48528779,6,Ask HN: What are you working on? (June 2026),73,290
+2026-06-14T19:48:56.021930+00:00,48527820,7,Perlisisms,66,34
+2026-06-14T19:48:56.021930+00:00,48527145,8,Caddy compatibility for zeroserve: 3x throughput and 70% lower latency,108,34
+2026-06-14T19:48:56.021930+00:00,48526661,9,The Birth and Death of JavaScript (2014),180,108
+2026-06-14T19:48:56.021930+00:00,48526633,10,Formal Methods and the Future of Programming,108,29
+2026-06-14T19:48:56.021930+00:00,48492822,11,The only scalable delete in Postgres is DROP TABLE,82,39
+2026-06-14T19:48:56.021930+00:00,48527360,12,FarOutCompany,73,10
+2026-06-14T19:48:56.021930+00:00,48491048,13,Lisp's Influence on Ruby,181,28
+2026-06-14T19:48:56.021930+00:00,48527700,14,"No, everyone is not using AI for everything",324,340
+2026-06-14T19:48:56.021930+00:00,48528029,15,I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models,144,32
+2026-06-14T19:48:56.021930+00:00,48527623,16,Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU,46,7
+2026-06-14T19:48:56.021930+00:00,48489309,17,USB Power Delivery: Plugging into the Benefits,18,27
+2026-06-14T19:48:56.021930+00:00,48530841,18,Rome Fell and Nobody Noticed,50,6
+2026-06-14T19:48:56.021930+00:00,48528729,19,Linux 7.1,131,22
+2026-06-14T19:48:56.021930+00:00,48460762,20,Show HN: 3D print Z reinforcement via injected loops,35,10
+2026-06-14T19:48:56.021930+00:00,48519102,21,Global density and biomass of arbuscular mycorrhizal fungal networks,32,2
+2026-06-14T19:48:56.021930+00:00,48526360,22,How to earn a billion dollars,303,845
+2026-06-14T19:48:56.021930+00:00,48527634,23,Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks,120,31
+2026-06-14T19:48:56.021930+00:00,48474982,24,Quivers: A year of linear algebra by drawing arrows,22,3
+2026-06-14T19:48:56.021930+00:00,48523992,25,"Free SQL→ER diagram tool, runs in the browser, nothing uploaded",321,64
+2026-06-14T19:48:56.021930+00:00,48523080,26,Honda Civics and the Evil Valet,372,89
+2026-06-14T19:48:56.021930+00:00,48526793,27,How did Atari apply side art to Arcade Cabinets?,58,16
+2026-06-14T19:48:56.021930+00:00,48527658,28,A 'cold blob' in the Atlantic could be a sign of AMOC shutdown,146,193
+2026-06-14T19:48:56.021930+00:00,48529645,29,Dillo directory – Directory of useful sites that work reasonably well on Dillo,33,0
+2026-06-14T19:48:56.021930+00:00,48527297,30,KPMG pulls report on AI usage due to apparent hallucinations,98,17
+2026-06-14T19:48:56.021930+00:00,48529149,31,Swiss voters reject proposal to cap population at ten million,162,169
+2026-06-14T19:48:56.021930+00:00,48490927,32,"FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",133,58
+2026-06-14T19:48:56.021930+00:00,48530270,33,Oracle is changing free tier limits. Update by the 15th to avoid charges,20,3
+2026-06-14T19:48:56.021930+00:00,48527731,34,Dangerous hormone-disrupting chemicals found in US breast milk samples,64,25
+2026-06-14T19:48:56.021930+00:00,48524620,35,Don't trust large context windows,233,175
+2026-06-14T19:48:56.021930+00:00,48527533,36,Extinction-Level Capitalism,115,68
+2026-06-14T19:48:56.021930+00:00,48518684,37,GLM 5.2 Is Out,717,438
+2026-06-14T19:48:56.021930+00:00,48524135,38,"Pac-Man, but you're the ghost",174,74
+2026-06-14T19:48:56.021930+00:00,48462759,39,Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI,158,37
+2026-06-14T19:48:56.021930+00:00,48530682,40,Swiss voters reject proposal to cap Population at 10M,9,0
+2026-06-14T19:48:56.021930+00:00,48503009,41,Python 3.14 garbage collection rigamarole,85,55
+2026-06-14T19:48:56.021930+00:00,48524434,42,Tribblix: The retro Illumos distribution,76,27
+2026-06-14T19:48:56.021930+00:00,48526472,43,Can't Stop the Signal. Poison It,36,14
+2026-06-14T19:48:56.021930+00:00,48499348,44,Historic co-determination helps monasteries navigate digital change,65,46
+2026-06-14T19:48:56.021930+00:00,48516251,45,Every Frame Perfect,813,269
+2026-06-14T19:48:56.021930+00:00,48517377,46,Noise infusion banned from statistical products published by Census Bureau,869,557
+2026-06-14T19:48:56.021930+00:00,48519552,47,GameBoy Workboy,212,74
+2026-06-14T19:48:56.021930+00:00,48519092,48,Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models,768,572
+2026-06-14T19:48:56.021930+00:00,48527377,49,Conversations with a six-year-old on functional programming (2018),50,6
+2026-06-14T19:48:56.021930+00:00,48531211,50,Anthropic staff to meet White House officials next week,4,1
