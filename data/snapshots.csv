@@ -1985,3 +1985,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-14T19:48:56.021930+00:00,48519092,48,Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models,768,572
 2026-06-14T19:48:56.021930+00:00,48527377,49,Conversations with a six-year-old on functional programming (2018),50,6
 2026-06-14T19:48:56.021930+00:00,48531211,50,Anthropic staff to meet White House officials next week,4,1
+2026-06-14T21:22:36.969953+00:00,48529990,1,Show HN: Kage – Shadow any website to a single binary for offline viewing,241,56
+2026-06-14T21:22:36.969953+00:00,48531394,2,Yserver: A modern X11 server written in Rust,42,13
+2026-06-14T21:22:36.969953+00:00,48528371,3,"Rio de Janeiro's ""homegrown"" LLM appears to be a merge of an existing model",218,120
+2026-06-14T21:22:36.969953+00:00,48531449,4,Chaosnet (1981),36,4
+2026-06-14T21:22:36.969953+00:00,48532705,5,Zinnia: A modular 64-bit Unix-like kernel written in Rust,7,0
+2026-06-14T21:22:36.969953+00:00,48471638,6,Firewood Splitting Simulator,512,170
+2026-06-14T21:22:36.969953+00:00,48521236,7,Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call,41,9
+2026-06-14T21:22:36.969953+00:00,48489636,8,Segmented type appreciation corner (2018),43,9
+2026-06-14T21:22:36.969953+00:00,48528779,9,Ask HN: What are you working on? (June 2026),109,410
+2026-06-14T21:22:36.969953+00:00,48502053,10,The first game engine for robotics,10,2
+2026-06-14T21:22:36.969953+00:00,48527145,11,Caddy compatibility for zeroserve: 3x throughput and 70% lower latency,125,41
+2026-06-14T21:22:36.969953+00:00,48527820,12,Perlisisms (1982),78,36
+2026-06-14T21:22:36.969953+00:00,48485277,13,Inverse Rubric Optimization: A testbed for agent science,15,0
+2026-06-14T21:22:36.969953+00:00,48526633,14,Formal methods and the future of programming,136,46
+2026-06-14T21:22:36.969953+00:00,48492822,15,The only scalable delete in Postgres is DROP TABLE,96,41
+2026-06-14T21:22:36.969953+00:00,48527360,16,FarOutCompany,83,14
+2026-06-14T21:22:36.969953+00:00,48526661,17,The Birth and Death of JavaScript (2014),194,115
+2026-06-14T21:22:36.969953+00:00,48491048,18,Lisp's Influence on Ruby,195,37
+2026-06-14T21:22:36.969953+00:00,48528029,19,I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models,204,42
+2026-06-14T21:22:36.969953+00:00,48527700,20,Not everyone is using AI for everything,367,389
+2026-06-14T21:22:36.969953+00:00,48528729,21,Linux 7.1,174,49
+2026-06-14T21:22:36.969953+00:00,48526360,22,How to earn a billion dollars,349,1010
+2026-06-14T21:22:36.969953+00:00,48474982,23,Quivers: A year of linear algebra by drawing arrows,30,6
+2026-06-14T21:22:36.969953+00:00,48519102,24,Global density and biomass of arbuscular mycorrhizal fungal networks,35,4
+2026-06-14T21:22:36.969953+00:00,48526793,25,How did Atari apply side art to Arcade Cabinets?,71,20
+2026-06-14T21:22:36.969953+00:00,48460762,26,Show HN: 3D print Z reinforcement via injected loops,45,18
+2026-06-14T21:22:36.969953+00:00,48523992,27,"Free SQL→ER diagram tool, runs in the browser, nothing uploaded",333,65
+2026-06-14T21:22:36.969953+00:00,48523080,28,Honda Civics and the Evil Valet,375,91
+2026-06-14T21:22:36.969953+00:00,48530382,29,Show HN: Discover Wikipedia articles popular on Hacker News,11,2
+2026-06-14T21:22:36.969953+00:00,48527634,30,Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks,125,35
+2026-06-14T21:22:36.969953+00:00,48530841,31,Rome Fell and Nobody Noticed,97,23
+2026-06-14T21:22:36.969953+00:00,48532116,32,Vibe Coder vs. Software Engineer,18,0
+2026-06-14T21:22:36.969953+00:00,48527658,33,A 'cold blob' in the Atlantic could be a sign of AMOC shutdown,173,253
+2026-06-14T21:22:36.969953+00:00,48529645,34,Dillo directory – Directory of useful sites that work reasonably well on Dillo,47,1
+2026-06-14T21:22:36.969953+00:00,48527297,35,KPMG pulls report on AI usage due to apparent hallucinations,111,22
+2026-06-14T21:22:36.969953+00:00,48527946,36,Ponytail – make your AI agent think like the laziest senior dev in the room,16,1
+2026-06-14T21:22:36.969953+00:00,48490927,37,"FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",138,59
+2026-06-14T21:22:36.969953+00:00,48524620,38,Don't trust large context windows,235,178
+2026-06-14T21:22:36.969953+00:00,48530682,39,Swiss voters reject proposal to cap Population at 10M,19,5
+2026-06-14T21:22:36.969953+00:00,48518684,40,GLM 5.2 Is Out,722,442
+2026-06-14T21:22:36.969953+00:00,48524135,41,"Pac-Man, but you're the ghost",182,76
+2026-06-14T21:22:36.969953+00:00,48532431,42,The APLR(1) algorithm for compact LR(1) parsers is simpler and more capable than,4,0
+2026-06-14T21:22:36.969953+00:00,48462759,43,Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI,161,39
+2026-06-14T21:22:36.969953+00:00,48527533,44,Extinction-Level Capitalism,128,75
+2026-06-14T21:22:36.969953+00:00,48527731,45,Dangerous hormone-disrupting chemicals found in US breast milk samples,67,30
+2026-06-14T21:22:36.969953+00:00,48503009,46,Python 3.14 garbage collection rigamarole,86,57
+2026-06-14T21:22:36.969953+00:00,48516251,47,Every Frame Perfect,815,269
+2026-06-14T21:22:36.969953+00:00,48519552,48,GameBoy Workboy,215,74
+2026-06-14T21:22:36.969953+00:00,48519092,49,Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models,775,579
+2026-06-14T21:22:36.969953+00:00,48531568,50,KPMG report on AI found riddled with AI hallucinations,8,1
