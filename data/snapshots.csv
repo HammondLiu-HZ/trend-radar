@@ -1835,3 +1835,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-14T12:05:00.998864+00:00,48523664,48,Show HN: Bastion – isolated Linux VMs for background coding agents,14,0
 2026-06-14T12:05:00.998864+00:00,48465890,49,Automating myself out of development,110,71
 2026-06-14T12:05:00.998864+00:00,48513728,50,Shepherd's Dog: A Game by Fable,182,132
+2026-06-14T15:11:41.587062+00:00,48527766,1,UK set to announce social media ban for under-16s,38,18
+2026-06-14T15:11:41.587062+00:00,48526661,2,The Birth and Death of JavaScript (2014),101,54
+2026-06-14T15:11:41.587062+00:00,48471638,3,Firewood Splitting Simulator,183,65
+2026-06-14T15:11:41.587062+00:00,48527360,4,FarOutCompany,27,3
+2026-06-14T15:11:41.587062+00:00,48491048,5,Lisp's Influence on Ruby,99,4
+2026-06-14T15:11:41.587062+00:00,48527145,6,Caddy compatibility for zeroserve: 3x throughput and 70% lower latency,33,8
+2026-06-14T15:11:41.587062+00:00,48527634,7,Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks,24,6
+2026-06-14T15:11:41.587062+00:00,48526633,8,Formal Methods and the Future of Programming,27,3
+2026-06-14T15:11:41.587062+00:00,48527658,9,A 'cold blob' in the Atlantic could be a sign of AMOC shutdown – CNN,26,2
+2026-06-14T15:11:41.587062+00:00,48526360,10,How to Earn a Billion Dollars,146,365
+2026-06-14T15:11:41.587062+00:00,48492822,11,The only scalable delete in Postgres is DROP TABLE,9,0
+2026-06-14T15:11:41.587062+00:00,48523992,12,"Free SQL→ER diagram tool, runs in the browser, nothing uploaded",288,57
+2026-06-14T15:11:41.587062+00:00,48523080,13,Honda Civics and the Evil Valet,350,78
+2026-06-14T15:11:41.587062+00:00,48518684,14,GLM 5.2 Is Out,701,414
+2026-06-14T15:11:41.587062+00:00,48526793,15,How did Atari apply side art to Arcade Cabinets?,26,2
+2026-06-14T15:11:41.587062+00:00,48527297,16,KPMG pulls report on AI usage due to apparent hallucinations,24,2
+2026-06-14T15:11:41.587062+00:00,48499348,17,Historic co-determination helps monasteries navigate digital change,58,39
+2026-06-14T15:11:41.587062+00:00,48527533,18,Extinction-Level Capitalism,14,4
+2026-06-14T15:11:41.587062+00:00,48527731,19,Dangerous hormone-disrupting chemicals found in US breast milk samples,7,0
+2026-06-14T15:11:41.587062+00:00,48517199,20,New pancreatic cancer drug might open the door to much longer survival times,413,143
+2026-06-14T15:11:41.587062+00:00,48527377,21,Conversations with a six-year-old on functional programming (2018),11,2
+2026-06-14T15:11:41.587062+00:00,48524620,22,Don't trust large context windows,187,136
+2026-06-14T15:11:41.587062+00:00,48524135,23,"Pac-Man, but you're the ghost",157,68
+2026-06-14T15:11:41.587062+00:00,48490927,24,"FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",126,54
+2026-06-14T15:11:41.587062+00:00,48492366,25,"Windows 1.0 and the WinAPI, 40 Years Later",41,30
+2026-06-14T15:11:41.587062+00:00,48524434,26,Tribblix: The retro Illumos distribution,63,20
+2026-06-14T15:11:41.587062+00:00,48527040,27,Arch Linux AUR Hit by Another Wave of Now More Sophisticated Malware Attack,20,4
+2026-06-14T15:11:41.587062+00:00,48503009,28,Python 3.14 garbage collection rigamarole,77,50
+2026-06-14T15:11:41.587062+00:00,48497195,29,Codex for open source,259,111
+2026-06-14T15:11:41.587062+00:00,48462759,30,Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI,152,36
+2026-06-14T15:11:41.587062+00:00,48523752,31,Making Claude a Chemist,70,71
+2026-06-14T15:11:41.587062+00:00,48524293,32,Phoenix LiveView 1.2,173,44
+2026-06-14T15:11:41.587062+00:00,48494135,33,"Beagle: Git, URIs and all the dirty words",28,8
+2026-06-14T15:11:41.587062+00:00,48517377,34,Noise infusion banned from statistical products published by Census Bureau,861,541
+2026-06-14T15:11:41.587062+00:00,48523615,35,"Building a serial and VGA ""everything console""",51,5
+2026-06-14T15:11:41.587062+00:00,48519552,36,GameBoy Workboy,205,73
+2026-06-14T15:11:41.587062+00:00,48519092,37,Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models,751,559
+2026-06-14T15:11:41.587062+00:00,48516251,38,Every Frame Perfect,793,261
+2026-06-14T15:11:41.587062+00:00,48515454,39,RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8,270,94
+2026-06-14T15:11:41.587062+00:00,48483841,40,LaserWriter seeds,36,6
+2026-06-14T15:11:41.587062+00:00,48516710,41,The experience of rendering Arabic typography and its technical debt,263,70
+2026-06-14T15:11:41.587062+00:00,48520080,42,Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch,105,28
+2026-06-14T15:11:41.587062+00:00,48467437,43,Appreciating Exif,175,36
+2026-06-14T15:11:41.587062+00:00,48527574,44,EU Commission looking at practical consequences of Anthropic decision,7,0
+2026-06-14T15:11:41.587062+00:00,48519011,45,The adder at the heart of Intel's 8087 floating-point chip,125,28
+2026-06-14T15:11:41.587062+00:00,48522486,46,"ReactOS (FOSS ""Windows"") achieves 3D-accelerated Half-Life on real hardware",263,59
+2026-06-14T15:11:41.587062+00:00,48514560,47,Israeli firm BlackCore suspected of meddling in New York and Scotland votes,680,408
+2026-06-14T15:11:41.587062+00:00,48520807,48,Police officer investigated for using AI to 'create evidence' in multiple cases,354,179
+2026-06-14T15:11:41.587062+00:00,48517412,49,Orthodox C++ (2016),99,187
+2026-06-14T15:11:41.587062+00:00,48526472,50,Can't Stop the Signal. Poison It,19,11
