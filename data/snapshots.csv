@@ -2035,3 +2035,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-14T21:22:36.969953+00:00,48519552,48,GameBoy Workboy,215,74
 2026-06-14T21:22:36.969953+00:00,48519092,49,Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models,775,579
 2026-06-14T21:22:36.969953+00:00,48531568,50,KPMG report on AI found riddled with AI hallucinations,8,1
+2026-06-14T23:18:21.087395+00:00,48533976,1,US and Iran announce deal to end military operations,17,5
+2026-06-14T23:18:21.087395+00:00,48529990,2,Show HN: Kage – Shadow any website to a single binary for offline viewing,336,76
+2026-06-14T23:18:21.087395+00:00,48533504,3,Did Anthropic ask for this?,75,27
+2026-06-14T23:18:21.087395+00:00,48528371,4,"Rio de Janeiro's ""homegrown"" LLM appears to be a merge of an existing model",252,133
+2026-06-14T23:18:21.087395+00:00,48471638,5,Firewood Splitting Simulator,578,186
+2026-06-14T23:18:21.087395+00:00,48531449,6,Chaosnet (1981),53,5
+2026-06-14T23:18:21.087395+00:00,48532178,7,AI is code – and can't be prompted into being smarter,30,14
+2026-06-14T23:18:21.087395+00:00,48521236,8,Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call,69,21
+2026-06-14T23:18:21.087395+00:00,48528779,9,Ask HN: What are you working on? (June 2026),138,493
+2026-06-14T23:18:21.087395+00:00,48489636,10,Segmented type appreciation corner (2018),53,14
+2026-06-14T23:18:21.087395+00:00,48482951,11,"Chopped, Stored, Secured – The Story of the Hash Function",4,0
+2026-06-14T23:18:21.087395+00:00,48527145,12,Caddy compatibility for zeroserve: 3x throughput and 70% lower latency,147,43
+2026-06-14T23:18:21.087395+00:00,48526633,13,Formal methods and the future of programming,167,57
+2026-06-14T23:18:21.087395+00:00,48527820,14,Perlisisms (1982),87,39
+2026-06-14T23:18:21.087395+00:00,48476539,15,"TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",9,1
+2026-06-14T23:18:21.087395+00:00,48492822,16,The only scalable delete in Postgres is DROP TABLE,114,45
+2026-06-14T23:18:21.087395+00:00,48491048,17,Lisp's Influence on Ruby,206,49
+2026-06-14T23:18:21.087395+00:00,48527360,18,FarOutCompany,93,16
+2026-06-14T23:18:21.087395+00:00,48531394,19,Yserver: A modern X11 server written in Rust,86,73
+2026-06-14T23:18:21.087395+00:00,48528029,20,I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models,240,53
+2026-06-14T23:18:21.087395+00:00,48489309,21,USB Power Delivery: Plugging into the Benefits,28,49
+2026-06-14T23:18:21.087395+00:00,48532722,22,Abu Fanous,41,7
+2026-06-14T23:18:21.087395+00:00,48485277,23,Inverse Rubric Optimization: A testbed for agent science,21,0
+2026-06-14T23:18:21.087395+00:00,48530382,24,Show HN: Discover Wikipedia articles popular on Hacker News,34,4
+2026-06-14T23:18:21.087395+00:00,48526661,25,The Birth and Death of JavaScript (2014),200,120
+2026-06-14T23:18:21.087395+00:00,48527700,26,Not everyone is using AI for everything,397,433
+2026-06-14T23:18:21.087395+00:00,48526360,27,How to earn a billion dollars,404,1225
+2026-06-14T23:18:21.087395+00:00,48502053,28,The first game engine for robotics,24,14
+2026-06-14T23:18:21.087395+00:00,48528729,29,Linux 7.1,206,77
+2026-06-14T23:18:21.087395+00:00,48533308,30,Why Is Claude Turning into an a**Hole?,87,119
+2026-06-14T23:18:21.087395+00:00,48533101,31,Windows 11 users are tired of MS account requirements creeping into everything,29,4
+2026-06-14T23:18:21.087395+00:00,48460762,32,Show HN: 3D print Z reinforcement via injected loops,52,21
+2026-06-14T23:18:21.087395+00:00,48519102,33,Global density and biomass of arbuscular mycorrhizal fungal networks,41,4
+2026-06-14T23:18:21.087395+00:00,48474982,34,Quivers: A year of linear algebra by drawing arrows,38,6
+2026-06-14T23:18:21.087395+00:00,48533756,35,Stanford grads walk out on Google CEO Sundar Pichai speech,14,3
+2026-06-14T23:18:21.087395+00:00,48526793,36,How did Atari apply side art to Arcade Cabinets?,76,21
+2026-06-14T23:18:21.087395+00:00,48532116,37,Vibe Coder vs. Software Engineer,46,19
+2026-06-14T23:18:21.087395+00:00,48523080,38,Honda Civics and the Evil Valet,384,92
+2026-06-14T23:18:21.087395+00:00,48523992,39,"Free SQL→ER diagram tool, runs in the browser, nothing uploaded",336,65
+2026-06-14T23:18:21.087395+00:00,48484608,40,Lattice Triangles Are Rare,7,2
+2026-06-14T23:18:21.087395+00:00,48527634,41,Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks,130,36
+2026-06-14T23:18:21.087395+00:00,48527946,42,Ponytail – make your AI agent think like the laziest senior dev in the room,26,2
+2026-06-14T23:18:21.087395+00:00,48530841,43,Rome Fell and Nobody Noticed,110,37
+2026-06-14T23:18:21.087395+00:00,48527658,44,A 'cold blob' in the Atlantic could be a sign of AMOC shutdown,187,278
+2026-06-14T23:18:21.087395+00:00,48490927,45,"FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",145,59
+2026-06-14T23:18:21.087395+00:00,48532705,46,Zinnia: A modular 64-bit Unix-like kernel written in Rust,44,3
+2026-06-14T23:18:21.087395+00:00,48527297,47,KPMG pulls report on AI usage due to apparent hallucinations,118,27
+2026-06-14T23:18:21.087395+00:00,48533339,48,Bacteria can learn and form memories without a brain (Carnegie Mellon),7,0
+2026-06-14T23:18:21.087395+00:00,48529645,49,Dillo directory – Directory of useful sites that work reasonably well on Dillo,50,2
+2026-06-14T23:18:21.087395+00:00,48530657,50,Show HN: Philosophy for Kids,6,4
