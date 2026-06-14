@@ -1685,3 +1685,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-14T00:17:07.394554+00:00,48475642,48,Tessera – a consent-gated tunnel that's blind to your traffic,14,0
 2026-06-14T00:17:07.394554+00:00,48516510,49,Show HN: 2 Weeks of Hallucinate – The Photo Gallery,66,24
 2026-06-14T00:17:07.394554+00:00,48511072,50,Statement on US government directive to suspend access to Fable 5 and Mythos 5,3053,2212
+2026-06-14T05:59:10.031793+00:00,48523080,1,10th Gen Honda Civic Updates Are Signed with AOSP Test Keys,182,28
+2026-06-14T05:59:10.031793+00:00,48524084,2,Software Architecture Guide,34,12
+2026-06-14T05:59:10.031793+00:00,48524434,3,Tribblix: the retro illumos distribution,10,0
+2026-06-14T05:59:10.031793+00:00,48517377,4,Noise infusion banned from statistical products published by Census Bureau,788,492
+2026-06-14T05:59:10.031793+00:00,48518684,5,GLM 5.2 Is Out,471,259
+2026-06-14T05:59:10.031793+00:00,48524135,6,"Pac-Man, but You're the Ghost",23,15
+2026-06-14T05:59:10.031793+00:00,48516251,7,Every Frame Perfect,649,210
+2026-06-14T05:59:10.031793+00:00,48523615,8,"Building a serial and VGA ""everything console""",16,0
+2026-06-14T05:59:10.031793+00:00,48490927,9,"FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",59,21
+2026-06-14T05:59:10.031793+00:00,48517199,10,Treating pancreatic tumours may have revealed cancer's master switch,335,120
+2026-06-14T05:59:10.031793+00:00,48462759,11,Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI,106,26
+2026-06-14T05:59:10.031793+00:00,48503009,12,Python 3.14 garbage collection rigamarole,31,14
+2026-06-14T05:59:10.031793+00:00,48491376,13,(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf],10,1
+2026-06-14T05:59:10.031793+00:00,48523705,14,Weave: Merging based on language structure and not lines,17,6
+2026-06-14T05:59:10.031793+00:00,48523992,15,"Free SQL→ER diagram tool, runs in the browser, nothing uploaded",18,9
+2026-06-14T05:59:10.031793+00:00,48523752,16,Making Claude a Chemist,18,2
+2026-06-14T05:59:10.031793+00:00,48497195,17,Codex for open source,209,69
+2026-06-14T05:59:10.031793+00:00,48519092,18,Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models,626,453
+2026-06-14T05:59:10.031793+00:00,48519552,19,GameBoy Workboy,175,61
+2026-06-14T05:59:10.031793+00:00,48523550,20,Apt Encounters of the Third Kind,17,4
+2026-06-14T05:59:10.031793+00:00,48522486,21,"ReactOS (FOSS ""Windows"") achieves 3D-accelerated Half-Life on real hardware",155,25
+2026-06-14T05:59:10.031793+00:00,48520080,22,Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch,86,20
+2026-06-14T05:59:10.031793+00:00,48470746,23,The Neat Little Vehicles That Run a Cemetery,5,0
+2026-06-14T05:59:10.031793+00:00,48515336,24,A low-carbon computing platform from your retired phones,267,142
+2026-06-14T05:59:10.031793+00:00,48523773,25,The Redistribution of Housing Wealth Caused by Rent Control [pdf],61,89
+2026-06-14T05:59:10.031793+00:00,48521709,26,Human Routers of Machine Words,55,26
+2026-06-14T05:59:10.031793+00:00,48467437,27,Appreciating Exif,144,32
+2026-06-14T05:59:10.031793+00:00,48520807,28,Police officer investigated for using AI to 'create evidence' in multiple cases,281,133
+2026-06-14T05:59:10.031793+00:00,48522310,29,Ancient genome duplications laid the foundations of complex brains,29,1
+2026-06-14T05:59:10.031793+00:00,48515454,30,RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8,222,76
+2026-06-14T05:59:10.031793+00:00,48519011,31,The adder at the heart of Intel's 8087 floating-point chip,105,27
+2026-06-14T05:59:10.031793+00:00,48516710,32,The experience of rendering Arabic typography and its technical debt,217,56
+2026-06-14T05:59:10.031793+00:00,48523203,33,4 things to know about the new sunscreen ingredient the FDA approved,73,27
+2026-06-14T05:59:10.031793+00:00,48517412,34,Orthodox C++ (2016),93,160
+2026-06-14T05:59:10.031793+00:00,48518969,35,AI coding at home without going broke,270,231
+2026-06-14T05:59:10.031793+00:00,48523612,36,Quadratic funding democratizes allocation by rewarding projects w/ broad support,5,5
+2026-06-14T05:59:10.031793+00:00,48514560,37,Israeli firm BlackCore suspected of meddling in New York and Scotland votes,611,344
+2026-06-14T05:59:10.031793+00:00,48491968,38,"Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)",23,3
+2026-06-14T05:59:10.031793+00:00,48479008,39,The state of building user interfaces in Rust,182,122
+2026-06-14T05:59:10.031793+00:00,48516504,40,AI OSS tool repo goes archived over night after raising $7.3M Seed,252,162
+2026-06-14T05:59:10.031793+00:00,48481546,41,A whale necropolis has been found,47,24
+2026-06-14T05:59:10.031793+00:00,48481400,42,Show HN: I am building a map of people who lived in the Roman Empire,168,39
+2026-06-14T05:59:10.031793+00:00,48515385,43,Show HN: Paca – Lightweight Jira alternative for human-AI collaboration,146,54
+2026-06-14T05:59:10.031793+00:00,48523664,44,Show HN: Bastion – isolated Linux VMs for background coding agents,4,0
+2026-06-14T05:59:10.031793+00:00,48513728,45,Shepherd's Dog: A Game by Fable,179,130
+2026-06-14T05:59:10.031793+00:00,48481385,46,C47/R47 Calculators,27,11
+2026-06-14T05:59:10.031793+00:00,48465890,47,Automating myself out of development,102,62
+2026-06-14T05:59:10.031793+00:00,48522675,48,State Attorneys General Are Investigating OpenAI,52,3
+2026-06-14T05:59:10.031793+00:00,48523054,49,The Difference Between Rest and Idleness,7,0
+2026-06-14T05:59:10.031793+00:00,48505231,50,"CRISPR tech selectively shreds cancer cells, including ""undruggable"" cancers",965,210
