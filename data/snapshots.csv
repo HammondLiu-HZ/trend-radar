@@ -1735,3 +1735,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-14T05:59:10.031793+00:00,48522675,48,State Attorneys General Are Investigating OpenAI,52,3
 2026-06-14T05:59:10.031793+00:00,48523054,49,The Difference Between Rest and Idleness,7,0
 2026-06-14T05:59:10.031793+00:00,48505231,50,"CRISPR tech selectively shreds cancer cells, including ""undruggable"" cancers",965,210
+2026-06-14T09:53:42.720460+00:00,48524293,1,Phoenix LiveView 1.2 Released,111,27
+2026-06-14T09:53:42.720460+00:00,48523080,2,Honda Civics and the Evil Valet,266,43
+2026-06-14T09:53:42.720460+00:00,48523992,3,"Free SQL→ER diagram tool, runs in the browser, nothing uploaded",121,24
+2026-06-14T09:53:42.720460+00:00,48518684,4,GLM 5.2 Is Out,579,316
+2026-06-14T09:53:42.720460+00:00,48517377,5,Noise infusion banned from statistical products published by Census Bureau,824,510
+2026-06-14T09:53:42.720460+00:00,48524620,6,Don't trust large context windows,89,70
+2026-06-14T09:53:42.720460+00:00,48516251,7,Every Frame Perfect,711,230
+2026-06-14T09:53:42.720460+00:00,48499348,8,500-year-old monasteries outperform at digital transformation (U. of Zurich),14,4
+2026-06-14T09:53:42.720460+00:00,48524434,9,Tribblix: The retro Illumos distribution,36,13
+2026-06-14T09:53:42.720460+00:00,48496156,10,Cooling in Space,4,0
+2026-06-14T09:53:42.720460+00:00,48517199,11,Treating pancreatic tumours may have revealed cancer's master switch,361,130
+2026-06-14T09:53:42.720460+00:00,48523615,12,"Building a serial and VGA ""everything console""",32,2
+2026-06-14T09:53:42.720460+00:00,48524135,13,"Pac-Man, but you're the ghost",93,42
+2026-06-14T09:53:42.720460+00:00,48503009,14,Python 3.14 garbage collection rigamarole,55,38
+2026-06-14T09:53:42.720460+00:00,48494135,15,"Beagle: Git, URIs and all the dirty words",16,4
+2026-06-14T09:53:42.720460+00:00,48490927,16,"FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",89,34
+2026-06-14T09:53:42.720460+00:00,48462759,17,Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI,127,31
+2026-06-14T09:53:42.720460+00:00,48523752,18,Making Claude a Chemist,43,35
+2026-06-14T09:53:42.720460+00:00,48483841,19,LaserWriter seeds,18,0
+2026-06-14T09:53:42.720460+00:00,48523705,20,Weave: Merging based on language structure and not lines,42,22
+2026-06-14T09:53:42.720460+00:00,48497195,21,Codex for open source,230,93
+2026-06-14T09:53:42.720460+00:00,48519092,22,Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models,688,502
+2026-06-14T09:53:42.720460+00:00,48519552,23,GameBoy Workboy,188,67
+2026-06-14T09:53:42.720460+00:00,48515336,24,A low-carbon computing platform from your retired phones,290,155
+2026-06-14T09:53:42.720460+00:00,48520080,25,Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch,95,22
+2026-06-14T09:53:42.720460+00:00,48522486,26,"ReactOS (FOSS ""Windows"") achieves 3D-accelerated Half-Life on real hardware",222,32
+2026-06-14T09:53:42.720460+00:00,48515454,27,RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8,249,86
+2026-06-14T09:53:42.720460+00:00,48524084,28,Software Architecture Guide (2019),66,24
+2026-06-14T09:53:42.720460+00:00,48467437,29,Appreciating Exif,161,35
+2026-06-14T09:53:42.720460+00:00,48519011,30,The adder at the heart of Intel's 8087 floating-point chip,112,27
+2026-06-14T09:53:42.720460+00:00,48520807,31,Police officer investigated for using AI to 'create evidence' in multiple cases,321,158
+2026-06-14T09:53:42.720460+00:00,48516710,32,The experience of rendering Arabic typography and its technical debt,228,59
+2026-06-14T09:53:42.720460+00:00,48523550,33,Apt Encounters of the Third Kind,24,5
+2026-06-14T09:53:42.720460+00:00,48518969,34,AI coding at home without going broke,289,237
+2026-06-14T09:53:42.720460+00:00,48470746,35,The Neat Little Vehicles That Run a Cemetery,9,1
+2026-06-14T09:53:42.720460+00:00,48514560,36,Israeli firm BlackCore suspected of meddling in New York and Scotland votes,645,373
+2026-06-14T09:53:42.720460+00:00,48517412,37,Orthodox C++ (2016),96,179
+2026-06-14T09:53:42.720460+00:00,48522310,38,Ancient genome duplications laid the foundations of complex brains,33,3
+2026-06-14T09:53:42.720460+00:00,48491376,39,(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf],20,1
+2026-06-14T09:53:42.720460+00:00,48516504,40,AI OSS tool repo goes archived over night after raising $7.3M Seed,261,163
+2026-06-14T09:53:42.720460+00:00,48524688,41,Trial of 12mph bike lane speed limit grinds gears of Dutch cyclists,20,32
+2026-06-14T09:53:42.720460+00:00,48523664,42,Show HN: Bastion – isolated Linux VMs for background coding agents,12,0
+2026-06-14T09:53:42.720460+00:00,48521709,43,Human Routers of Machine Words,61,29
+2026-06-14T09:53:42.720460+00:00,48479008,44,The state of building user interfaces in Rust,186,127
+2026-06-14T09:53:42.720460+00:00,48481400,45,Show HN: I am building a map of people who lived in the Roman Empire,174,41
+2026-06-14T09:53:42.720460+00:00,48523054,46,The Difference Between Rest and Idleness,16,1
+2026-06-14T09:53:42.720460+00:00,48523773,47,The redistribution of housing wealth caused by rent control (2023) [pdf],71,103
+2026-06-14T09:53:42.720460+00:00,48515385,48,Show HN: Paca – Lightweight Jira alternative for human-AI collaboration,151,55
+2026-06-14T09:53:42.720460+00:00,48491968,49,"Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)",25,4
+2026-06-14T09:53:42.720460+00:00,48513728,50,Shepherd's Dog: A Game by Fable,181,132
