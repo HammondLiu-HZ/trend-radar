@@ -1785,3 +1785,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-14T09:53:42.720460+00:00,48515385,48,Show HN: Paca – Lightweight Jira alternative for human-AI collaboration,151,55
 2026-06-14T09:53:42.720460+00:00,48491968,49,"Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)",25,4
 2026-06-14T09:53:42.720460+00:00,48513728,50,Shepherd's Dog: A Game by Fable,181,132
+2026-06-14T12:05:00.998864+00:00,48523992,1,"Free SQL→ER diagram tool, runs in the browser, nothing uploaded",195,35
+2026-06-14T12:05:00.998864+00:00,48523080,2,Honda Civics and the Evil Valet,303,60
+2026-06-14T12:05:00.998864+00:00,48518684,3,GLM 5.2 Is Out,626,353
+2026-06-14T12:05:00.998864+00:00,48517377,4,Noise infusion banned from statistical products published by Census Bureau,838,525
+2026-06-14T12:05:00.998864+00:00,48499348,5,500-year-old monasteries outperform at digital transformation (U. of Zurich),32,23
+2026-06-14T12:05:00.998864+00:00,48516251,6,Every Frame Perfect,757,238
+2026-06-14T12:05:00.998864+00:00,48524620,7,Don't trust large context windows,132,95
+2026-06-14T12:05:00.998864+00:00,48492366,8,"Windows 1.0 and the WinAPI, 40 Years Later",7,1
+2026-06-14T12:05:00.998864+00:00,48517199,9,Treating pancreatic tumours may have revealed cancer's master switch,388,135
+2026-06-14T12:05:00.998864+00:00,48524434,10,Tribblix: The retro Illumos distribution,49,17
+2026-06-14T12:05:00.998864+00:00,48526360,11,How to Earn a Billion Dollars,7,1
+2026-06-14T12:05:00.998864+00:00,48490927,12,"FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",102,45
+2026-06-14T12:05:00.998864+00:00,48523615,13,"Building a serial and VGA ""everything console""",38,5
+2026-06-14T12:05:00.998864+00:00,48524135,14,"Pac-Man, but you're the ghost",118,56
+2026-06-14T12:05:00.998864+00:00,48462759,15,Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI,137,32
+2026-06-14T12:05:00.998864+00:00,48497195,16,Codex for open source,240,100
+2026-06-14T12:05:00.998864+00:00,48524293,17,Phoenix LiveView 1.2,135,37
+2026-06-14T12:05:00.998864+00:00,48494135,18,"Beagle: Git, URIs and all the dirty words",20,7
+2026-06-14T12:05:00.998864+00:00,48498705,19,Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos encoder,13,1
+2026-06-14T12:05:00.998864+00:00,48483841,20,LaserWriter seeds,25,2
+2026-06-14T12:05:00.998864+00:00,48515336,21,A low-carbon computing platform from your retired phones,302,159
+2026-06-14T12:05:00.998864+00:00,48519552,22,GameBoy Workboy,194,71
+2026-06-14T12:05:00.998864+00:00,48523705,23,Weave: Merging based on language structure and not lines,46,31
+2026-06-14T12:05:00.998864+00:00,48519092,24,Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models,713,523
+2026-06-14T12:05:00.998864+00:00,48515454,25,RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8,257,88
+2026-06-14T12:05:00.998864+00:00,48520080,26,Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch,99,24
+2026-06-14T12:05:00.998864+00:00,48516710,27,The experience of rendering Arabic typography and its technical debt,250,67
+2026-06-14T12:05:00.998864+00:00,48518969,28,AI coding at home without going broke,305,244
+2026-06-14T12:05:00.998864+00:00,48522486,29,"ReactOS (FOSS ""Windows"") achieves 3D-accelerated Half-Life on real hardware",244,43
+2026-06-14T12:05:00.998864+00:00,48467437,30,Appreciating Exif,167,35
+2026-06-14T12:05:00.998864+00:00,48519011,31,The adder at the heart of Intel's 8087 floating-point chip,114,28
+2026-06-14T12:05:00.998864+00:00,48520807,32,Police officer investigated for using AI to 'create evidence' in multiple cases,337,168
+2026-06-14T12:05:00.998864+00:00,48514560,33,Israeli firm BlackCore suspected of meddling in New York and Scotland votes,653,381
+2026-06-14T12:05:00.998864+00:00,48524084,34,Software Architecture Guide (2019),75,30
+2026-06-14T12:05:00.998864+00:00,48517412,35,Orthodox C++ (2016),98,181
+2026-06-14T12:05:00.998864+00:00,48503009,36,Python 3.14 garbage collection rigamarole,60,48
+2026-06-14T12:05:00.998864+00:00,48526181,37,The Defeat of Nuclear Deterrence,3,0
+2026-06-14T12:05:00.998864+00:00,48523550,38,Apt Encounters of the Third Kind,26,5
+2026-06-14T12:05:00.998864+00:00,48516504,39,AI OSS tool repo goes archived over night after raising $7.3M Seed,265,165
+2026-06-14T12:05:00.998864+00:00,48522310,40,Ancient genome duplications laid the foundations of complex brains,35,3
+2026-06-14T12:05:00.998864+00:00,48523768,41,Half-Life able to run on ReactOS,13,1
+2026-06-14T12:05:00.998864+00:00,48521709,42,Human Routers of Machine Words,62,33
+2026-06-14T12:05:00.998864+00:00,48481400,43,Show HN: I am building a map of people who lived in the Roman Empire,182,43
+2026-06-14T12:05:00.998864+00:00,48470746,44,The Neat Little Vehicles That Run a Cemetery,11,1
+2026-06-14T12:05:00.998864+00:00,48479008,45,The state of building user interfaces in Rust,190,131
+2026-06-14T12:05:00.998864+00:00,48523054,46,The Difference Between Rest and Idleness,20,1
+2026-06-14T12:05:00.998864+00:00,48515385,47,Show HN: Paca – Lightweight Jira alternative for human-AI collaboration,156,55
+2026-06-14T12:05:00.998864+00:00,48523664,48,Show HN: Bastion – isolated Linux VMs for background coding agents,14,0
+2026-06-14T12:05:00.998864+00:00,48465890,49,Automating myself out of development,110,71
+2026-06-14T12:05:00.998864+00:00,48513728,50,Shepherd's Dog: A Game by Fable,182,132
