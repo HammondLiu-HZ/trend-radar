@@ -1885,3 +1885,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-14T15:11:41.587062+00:00,48520807,48,Police officer investigated for using AI to 'create evidence' in multiple cases,354,179
 2026-06-14T15:11:41.587062+00:00,48517412,49,Orthodox C++ (2016),99,187
 2026-06-14T15:11:41.587062+00:00,48526472,50,Can't Stop the Signal. Poison It,19,11
+2026-06-14T17:37:55.473420+00:00,48528371,1,"Rio de Janeiro's ""homegrown"" LLM appears to be a merge of an existing model",82,50
+2026-06-14T17:37:55.473420+00:00,48471638,2,Firewood Splitting Simulator,330,111
+2026-06-14T17:37:55.473420+00:00,48526661,3,The Birth and Death of JavaScript (2014),154,85
+2026-06-14T17:37:55.473420+00:00,48529990,4,Show HN: Kage – Shadow any website to a single binary for offline viewing,8,1
+2026-06-14T17:37:55.473420+00:00,48528779,5,Ask HN: What are you working on? (June 2026),31,50
+2026-06-14T17:37:55.473420+00:00,48527145,6,Caddy compatibility for zeroserve: 3x throughput and 70% lower latency,76,22
+2026-06-14T17:37:55.473420+00:00,48527820,7,Perlisisms,43,14
+2026-06-14T17:37:55.473420+00:00,48491048,8,Lisp's Influence on Ruby,151,20
+2026-06-14T17:37:55.473420+00:00,48527700,9,"No, everyone is not using AI for everything",240,240
+2026-06-14T17:37:55.473420+00:00,48529149,10,Swiss voters reject proposal to cap population at ten million,85,30
+2026-06-14T17:37:55.473420+00:00,48527360,11,FarOutCompany,60,5
+2026-06-14T17:37:55.473420+00:00,48528029,12,I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models,87,12
+2026-06-14T17:37:55.473420+00:00,48492822,13,The only scalable delete in Postgres is DROP TABLE,64,30
+2026-06-14T17:37:55.473420+00:00,48519102,14,Global density and biomass of arbuscular mycorrhizal fungal networks,24,1
+2026-06-14T17:37:55.473420+00:00,48527634,15,Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks,104,27
+2026-06-14T17:37:55.473420+00:00,48526633,16,Formal Methods and the Future of Programming,65,19
+2026-06-14T17:37:55.473420+00:00,48527623,17,Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU,25,4
+2026-06-14T17:37:55.473420+00:00,48528729,18,Linux 7.1,55,3
+2026-06-14T17:37:55.473420+00:00,48526793,19,How did Atari apply side art to Arcade Cabinets?,49,8
+2026-06-14T17:37:55.473420+00:00,48474982,20,Quivers: A year of linear algebra by drawing arrows,13,1
+2026-06-14T17:37:55.473420+00:00,48460762,21,Show HN: 3D print Z reinforcement via injected loops,17,6
+2026-06-14T17:37:55.473420+00:00,48526360,22,How to Earn a Billion Dollars,246,676
+2026-06-14T17:37:55.473420+00:00,48527658,23,A 'cold blob' in the Atlantic could be a sign of AMOC shutdown,101,124
+2026-06-14T17:37:55.473420+00:00,48523992,24,"Free SQL→ER diagram tool, runs in the browser, nothing uploaded",312,60
+2026-06-14T17:37:55.473420+00:00,48523080,25,Honda Civics and the Evil Valet,364,86
+2026-06-14T17:37:55.473420+00:00,48527297,26,KPMG pulls report on AI usage due to apparent hallucinations,76,6
+2026-06-14T17:37:55.473420+00:00,48527533,27,Extinction-Level Capitalism,89,37
+2026-06-14T17:37:55.473420+00:00,48529190,28,FTX's former Anthropic stake would be worth about $75B at today's valuation,7,10
+2026-06-14T17:37:55.473420+00:00,48527731,29,Dangerous hormone-disrupting chemicals found in US breast milk samples,51,20
+2026-06-14T17:37:55.473420+00:00,48499348,30,Historic co-determination helps monasteries navigate digital change,64,42
+2026-06-14T17:37:55.473420+00:00,48524620,31,Don't trust large context windows,222,164
+2026-06-14T17:37:55.473420+00:00,48527377,32,Conversations with a six-year-old on functional programming (2018),44,6
+2026-06-14T17:37:55.473420+00:00,48490927,33,"FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",131,57
+2026-06-14T17:37:55.473420+00:00,48529112,34,AI is code and can't be prompted into being smarter,9,4
+2026-06-14T17:37:55.473420+00:00,48524434,35,Tribblix: The retro Illumos distribution,72,26
+2026-06-14T17:37:55.473420+00:00,48524135,36,"Pac-Man, but you're the ghost",166,73
+2026-06-14T17:37:55.473420+00:00,48518684,37,GLM 5.2 Is Out,707,429
+2026-06-14T17:37:55.473420+00:00,48462759,38,Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI,157,37
+2026-06-14T17:37:55.473420+00:00,48503009,39,Python 3.14 garbage collection rigamarole,84,55
+2026-06-14T17:37:55.473420+00:00,48517377,40,Noise infusion banned from statistical products published by Census Bureau,867,551
+2026-06-14T17:37:55.473420+00:00,48519552,41,GameBoy Workboy,212,74
+2026-06-14T17:37:55.473420+00:00,48516251,42,Every Frame Perfect,806,268
+2026-06-14T17:37:55.473420+00:00,48519092,43,Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models,762,561
+2026-06-14T17:37:55.473420+00:00,48529645,44,Dillo directory – Directory of useful sites that work reasonably well on Dillo,5,0
+2026-06-14T17:37:55.473420+00:00,48527766,45,UK set to announce social media ban for under-16s,130,210
+2026-06-14T17:37:55.473420+00:00,48524293,46,Phoenix LiveView 1.2,181,51
+2026-06-14T17:37:55.473420+00:00,48523615,47,"Building a serial and VGA ""everything console""",54,5
+2026-06-14T17:37:55.473420+00:00,48527826,48,Starmer to announce social media curfew and chatbot ban for teenagers,12,1
+2026-06-14T17:37:55.473420+00:00,48523752,49,Making Claude a Chemist,78,73
+2026-06-14T17:37:55.473420+00:00,48494135,50,"Beagle: Git, URIs and all the dirty words",28,8
