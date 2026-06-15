@@ -2184,3 +2184,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-15T12:36:04.076445+00:00,48474982,48,Quivers: A year of linear algebra by drawing arrows,49,6
 2026-06-15T12:36:04.076445+00:00,48527946,49,Ponytail – make your AI agent think like the laziest senior dev in the room,68,10
 2026-06-15T12:36:04.076445+00:00,48518684,50,GLM 5.2 Is Out,751,475
+2026-06-15T17:59:05.094009+00:00,48542480,1,Iroh 1.0,443,152
+2026-06-15T17:59:05.094009+00:00,48543475,2,TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed),153,35
+2026-06-15T17:59:05.094009+00:00,48542433,3,My Homelab AI Dev Platform,75,24
+2026-06-15T17:59:05.094009+00:00,48544451,4,How TimescaleDB compresses time-series data,16,0
+2026-06-15T17:59:05.094009+00:00,48543908,5,Launch HN: Drafted (YC P26) – Models for residential architecture,16,20
+2026-06-15T17:59:05.094009+00:00,48528587,6,Making glass-to-metal seals for home­made vacuum tubes,61,21
+2026-06-15T17:59:05.094009+00:00,48543392,7,Memory safety CVEs differ between Rust and C/C++,37,29
+2026-06-15T17:59:05.094009+00:00,48542132,8,Copper transport drug restores memory and clears toxic Alzheimer's proteins,124,43
+2026-06-15T17:59:05.094009+00:00,48540499,9,Fox to buy Roku,151,202
+2026-06-15T17:59:05.094009+00:00,48540844,10,Hetzner Price Adjustment,77,236
+2026-06-15T17:59:05.094009+00:00,48540854,11,CrankGPT,436,173
+2026-06-15T17:59:05.094009+00:00,48543269,12,Boot Naked Linux,17,4
+2026-06-15T17:59:05.094009+00:00,48542100,13,Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?,105,58
+2026-06-15T17:59:05.094009+00:00,48533848,14,Your ePub Is fine,833,278
+2026-06-15T17:59:05.094009+00:00,48536776,15,Apple Foundation Models,400,191
+2026-06-15T17:59:05.094009+00:00,48543245,16,Show HN: machine0 – Persistent NixOS VMs You Control from the CLI,22,5
+2026-06-15T17:59:05.094009+00:00,48542970,17,Show HN: Exploiting Slack's video embeds to achieve E2EE communication,18,2
+2026-06-15T17:59:05.094009+00:00,48485527,18,Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins,130,64
+2026-06-15T17:59:05.094009+00:00,48537641,19,Openrouter Fusion API,167,63
+2026-06-15T17:59:05.094009+00:00,48535886,20,Even more batteries included with Emacs,315,112
+2026-06-15T17:59:05.094009+00:00,48537512,21,Improvement in advanced Alzheimer’s disease following high-dose psilocybin,142,106
+2026-06-15T17:59:05.094009+00:00,48538229,22,What happened to nerds?,641,436
+2026-06-15T17:59:05.094009+00:00,48529990,23,Show HN: Kage – Shadow any website to a single binary for offline viewing,655,128
+2026-06-15T17:59:05.094009+00:00,48471638,24,Firewood Splitting Simulator,955,275
+2026-06-15T17:59:05.094009+00:00,48489163,25,Show HN: Fata – Spaced repetition to fight skill rot from AI coding,3,5
+2026-06-15T17:59:05.094009+00:00,48540126,27,Salesforce to Acquire Fin (formerly Intercom) for $3.6B,222,180
+2026-06-15T17:59:05.094009+00:00,48499993,28,Asciline – real-time ASCII video rendering engine,48,21
+2026-06-15T17:59:05.094009+00:00,48539078,29,Anthropic's Safety Superpower,182,161
+2026-06-15T17:59:05.094009+00:00,48540945,30,Google Flight Simulator,116,38
+2026-06-15T17:59:05.094009+00:00,48519198,31,How to build a virtual cell and biology scaling laws,9,1
+2026-06-15T17:59:05.094009+00:00,48537165,32,Curl will not accept vulnerability reports during July 2026,692,287
+2026-06-15T17:59:05.094009+00:00,48506980,33,"Ported my C game to WASM, here's everybug that I hit",83,63
+2026-06-15T17:59:05.094009+00:00,48496290,34,Bitsy,266,8
+2026-06-15T17:59:05.094009+00:00,48490649,35,There Is(Ǝ) – Such That (∋),91,28
+2026-06-15T17:59:05.094009+00:00,48534628,36,21 years and counting of 'eight fallacies of distributed computing' (2025),134,50
+2026-06-15T17:59:05.094009+00:00,48528371,37,"Rio de Janeiro's ""homegrown"" LLM appears to be a merge of an existing model",388,208
+2026-06-15T17:59:05.094009+00:00,48544568,38,Balkan Sworn Virgins,5,0
+2026-06-15T17:59:05.094009+00:00,48538833,39,Show HN: I wrote a C++ ray tracer from scratch without AI,131,55
+2026-06-15T17:59:05.094009+00:00,48543848,40,PRC-linked spies hid inside medical and military networks for more than a year,16,0
+2026-06-15T17:59:05.094009+00:00,48506286,41,Exploring building a tiny FUSE filesystem,71,12
+2026-06-15T17:59:05.094009+00:00,48542784,42,"Emacs, how it all started (for me)",5,0
+2026-06-15T17:59:05.094009+00:00,48544413,43,EU Air travellers to enjoy free cabin luggage and keep delay compensation,5,4
+2026-06-15T17:59:05.094009+00:00,48520596,44,Why does paper fold so well?,93,46
+2026-06-15T17:59:05.094009+00:00,48528779,45,Ask HN: What are you working on? (June 2026),295,1031
+2026-06-15T17:59:05.094009+00:00,48543722,46,"Did a medieval flying monk spot Halley's comet, twice? It's complicated",6,0
+2026-06-15T17:59:05.094009+00:00,48540936,47,Show HN: Nxui – Copy-paste animated UI components for Vue,8,0
+2026-06-15T17:59:05.094009+00:00,48526633,48,Formal methods and the future of programming,327,105
+2026-06-15T17:59:05.094009+00:00,48484711,49,"A short history of Cerro Torre, the most controversial mountain (2012)",68,43
+2026-06-15T17:59:05.094009+00:00,48521236,50,Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call,195,77
