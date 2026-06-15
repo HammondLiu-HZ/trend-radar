@@ -2135,3 +2135,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-15T05:18:16.485358+00:00,48516251,48,Every Frame Perfect,828,272
 2026-06-15T05:18:16.485358+00:00,48532116,49,Vibe Coder vs. Software Engineer,62,26
 2026-06-15T05:18:16.485358+00:00,48535430,50,US and Iran reach cease fire agreement,13,7
+2026-06-15T12:36:04.076445+00:00,48539078,1,Anthropic's Safety Superpower,94,62
+2026-06-15T12:36:04.076445+00:00,48533848,2,Your ePub Is fine,693,232
+2026-06-15T12:36:04.076445+00:00,48536776,3,Apple Foundation Models,233,94
+2026-06-15T12:36:04.076445+00:00,48499898,4,Foreign business owners are scrambling to raise capital to stay in Japan,66,32
+2026-06-15T12:36:04.076445+00:00,48538229,5,What the Fuck Happened to Nerds,340,228
+2026-06-15T12:36:04.076445+00:00,48506980,6,"Ported my C game to WASM, here's everybug that I hit",30,17
+2026-06-15T12:36:04.076445+00:00,48499993,7,Asciline – real-time ASCII video rendering engine,16,3
+2026-06-15T12:36:04.076445+00:00,48537641,8,Openrouter Fusion API,74,25
+2026-06-15T12:36:04.076445+00:00,48535886,9,Even more batteries included with Emacs,249,57
+2026-06-15T12:36:04.076445+00:00,48538833,10,Show HN: I wrote a C++ ray tracer from scratch without AI,28,9
+2026-06-15T12:36:04.076445+00:00,48529990,11,Show HN: Kage – Shadow any website to a single binary for offline viewing,596,119
+2026-06-15T12:36:04.076445+00:00,48537165,12,Curl will not accept vulnerability reports during July 2026,508,200
+2026-06-15T12:36:04.076445+00:00,48508021,13,Being an old school web-based sports sim dev in the era of vibe coded games,38,23
+2026-06-15T12:36:04.076445+00:00,48490649,14,There Is(Ǝ) – Such That (∋),58,20
+2026-06-15T12:36:04.076445+00:00,48471638,15,Firewood Splitting Simulator,863,251
+2026-06-15T12:36:04.076445+00:00,48496290,16,Bitsy,226,6
+2026-06-15T12:36:04.076445+00:00,48506286,18,Exploring building a tiny FUSE filesystem,32,6
+2026-06-15T12:36:04.076445+00:00,48534628,19,21 years and counting of 'eight fallacies of distributed computing' (2025),100,22
+2026-06-15T12:36:04.076445+00:00,48528371,20,"Rio de Janeiro's ""homegrown"" LLM appears to be a merge of an existing model",367,194
+2026-06-15T12:36:04.076445+00:00,48520596,21,Why does paper fold so well?,64,32
+2026-06-15T12:36:04.076445+00:00,48484711,22,"A short history of Cerro Torre, the most controversial mountain (2012)",51,27
+2026-06-15T12:36:04.076445+00:00,48528779,23,Ask HN: What are you working on? (June 2026),257,920
+2026-06-15T12:36:04.076445+00:00,48526633,24,Formal methods and the future of programming,287,96
+2026-06-15T12:36:04.076445+00:00,48533101,25,Windows 11 users are tired of MS account requirements creeping into everything,417,275
+2026-06-15T12:36:04.076445+00:00,48521236,26,Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call,179,65
+2026-06-15T12:36:04.076445+00:00,48537512,27,Successful Psilocybin Treatment of Alzheimer,8,1
+2026-06-15T12:36:04.076445+00:00,48531449,28,Chaosnet (1981),91,12
+2026-06-15T12:36:04.076445+00:00,48492822,29,The only scalable delete in Postgres is DROP TABLE,182,65
+2026-06-15T12:36:04.076445+00:00,48527820,30,Perlisisms (1982),125,59
+2026-06-15T12:36:04.076445+00:00,48527145,31,Caddy compatibility for zeroserve: 3x throughput and 70% lower latency,199,58
+2026-06-15T12:36:04.076445+00:00,48476539,32,"TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",51,6
+2026-06-15T12:36:04.076445+00:00,48489636,33,Segmented type appreciation corner (2018),77,16
+2026-06-15T12:36:04.076445+00:00,48530382,34,Show HN: Discover Wikipedia articles popular on Hacker News,125,27
+2026-06-15T12:36:04.076445+00:00,48526360,35,How to earn a billion dollars,656,1685
+2026-06-15T12:36:04.076445+00:00,48528029,36,I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models,380,96
+2026-06-15T12:36:04.076445+00:00,48507039,37,Write for One Person,245,74
+2026-06-15T12:36:04.076445+00:00,48527360,38,FarOutCompany,120,19
+2026-06-15T12:36:04.076445+00:00,48491048,39,Lisp's Influence on Ruby,245,77
+2026-06-15T12:36:04.076445+00:00,48489309,40,USB Power Delivery: Plugging into the Benefits,54,105
+2026-06-15T12:36:04.076445+00:00,48526661,41,The Birth and Death of JavaScript (2014),227,130
+2026-06-15T12:36:04.076445+00:00,48482951,42,"Chopped, Stored, Secured – The Story of the Hash Function",37,13
+2026-06-15T12:36:04.076445+00:00,48527700,43,Not everyone is using AI for everything,473,508
+2026-06-15T12:36:04.076445+00:00,48528729,44,Linux 7.1,297,113
+2026-06-15T12:36:04.076445+00:00,48460762,45,Show HN: 3D print Z reinforcement via injected loops,62,34
+2026-06-15T12:36:04.076445+00:00,48539454,46,Triple Shockwave from Sun Crossing Rocket,7,1
+2026-06-15T12:36:04.076445+00:00,48526793,47,How did Atari apply side art to Arcade Cabinets?,91,25
+2026-06-15T12:36:04.076445+00:00,48474982,48,Quivers: A year of linear algebra by drawing arrows,49,6
+2026-06-15T12:36:04.076445+00:00,48527946,49,Ponytail – make your AI agent think like the laziest senior dev in the room,68,10
+2026-06-15T12:36:04.076445+00:00,48518684,50,GLM 5.2 Is Out,751,475
