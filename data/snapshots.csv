@@ -2233,3 +2233,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-15T17:59:05.094009+00:00,48526633,48,Formal methods and the future of programming,327,105
 2026-06-15T17:59:05.094009+00:00,48484711,49,"A short history of Cerro Torre, the most controversial mountain (2012)",68,43
 2026-06-15T17:59:05.094009+00:00,48521236,50,Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call,195,77
+2026-06-15T21:16:53.998218+00:00,48546294,1,A backdoor in a LinkedIn job offer,196,40
+2026-06-15T21:16:53.998218+00:00,48542480,2,Iroh 1.0,779,255
+2026-06-15T21:16:53.998218+00:00,48546616,3,US battery manufacturing output continues to break records,40,8
+2026-06-15T21:16:53.998218+00:00,48543475,4,TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed),458,89
+2026-06-15T21:16:53.998218+00:00,48546441,5,I Love the Computer,40,4
+2026-06-15T21:16:53.998218+00:00,48542100,6,Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?,459,239
+2026-06-15T21:16:53.998218+00:00,48544781,7,Game Engine White Papers Commander Keen,101,29
+2026-06-15T21:16:53.998218+00:00,48542433,8,My Homelab AI Dev Platform,176,36
+2026-06-15T21:16:53.998218+00:00,48503509,9,"Factoring ""short-sleeve"" RSA keys with polynomials",47,1
+2026-06-15T21:16:53.998218+00:00,48544451,10,How TimescaleDB compresses time-series data,81,9
+2026-06-15T21:16:53.998218+00:00,48540844,11,Hetzner Price Adjustment,231,351
+2026-06-15T21:16:53.998218+00:00,48528587,12,Making glass-to-metal seals for home­made vacuum tubes,108,33
+2026-06-15T21:16:53.998218+00:00,48489163,13,Show HN: Fata – Spaced repetition to fight skill rot from AI coding,52,30
+2026-06-15T21:16:53.998218+00:00,48540499,14,Fox to buy Roku,219,307
+2026-06-15T21:16:53.998218+00:00,48521925,15,What every coder should know about Gamma Correction,11,7
+2026-06-15T21:16:53.998218+00:00,48543908,16,Launch HN: Drafted (YC P26) – Models for residential architecture,30,34
+2026-06-15T21:16:53.998218+00:00,48543392,17,How memory safety CVEs differ between Rust and C/C++,79,81
+2026-06-15T21:16:53.998218+00:00,48506023,18,A calculator that doesn't round,5,1
+2026-06-15T21:16:53.998218+00:00,48543269,19,Boot Naked Linux,64,31
+2026-06-15T21:16:53.998218+00:00,48542132,20,Copper transport drug restores memory and clears toxic Alzheimer's proteins,198,71
+2026-06-15T21:16:53.998218+00:00,48544396,21,Typst 0.15.0,212,49
+2026-06-15T21:16:53.998218+00:00,48546306,22,"US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",49,32
+2026-06-15T21:16:53.998218+00:00,48536776,23,Apple Foundation Models,451,207
+2026-06-15T21:16:53.998218+00:00,48540854,24,CrankGPT,514,208
+2026-06-15T21:16:53.998218+00:00,48543245,25,Show HN: machine0 – Persistent NixOS VMs You Control from the CLI,58,28
+2026-06-15T21:16:53.998218+00:00,48546358,26,US Government Reportedly Allowing Federal Data Center Rules to Expire,22,1
+2026-06-15T21:16:53.998218+00:00,48545293,27,The Alaska Server,16,3
+2026-06-15T21:16:53.998218+00:00,48485527,28,Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins,162,80
+2026-06-15T21:16:53.998218+00:00,48537641,29,Openrouter Fusion API,188,70
+2026-06-15T21:16:53.998218+00:00,48541014,30,Can Europe train a frontier AI model on the compute it owns?,101,148
+2026-06-15T21:16:53.998218+00:00,48535886,31,Even more batteries included with Emacs,338,120
+2026-06-15T21:16:53.998218+00:00,48537512,32,Improvement in advanced Alzheimer’s disease following high-dose psilocybin,186,133
+2026-06-15T21:16:53.998218+00:00,48506980,33,"Ported my C game to WASM, here's every bug that I hit",99,89
+2026-06-15T21:16:53.998218+00:00,48542970,35,Show HN: Exploiting Slack's video embeds to achieve E2EE communication,23,3
+2026-06-15T21:16:53.998218+00:00,48540126,36,Salesforce to Acquire Fin (formerly Intercom) for $3.6B,247,200
+2026-06-15T21:16:53.998218+00:00,48538229,37,What happened to nerds?,682,458
+2026-06-15T21:16:53.998218+00:00,48546697,38,B-52 bomber crashes shortly after takeoff at California's Edwards Air Force Base,7,0
+2026-06-15T21:16:53.998218+00:00,48499993,39,Asciline – real-time ASCII video rendering engine,58,22
+2026-06-15T21:16:53.998218+00:00,48533848,40,Your ePub Is fine,860,298
+2026-06-15T21:16:53.998218+00:00,48542784,41,"Emacs, how it all started (for me)",14,2
+2026-06-15T21:16:53.998218+00:00,48545260,42,Around 200 Stanford students walk out as Google CEO takes stage,101,18
+2026-06-15T21:16:53.998218+00:00,48534628,43,21 years and counting of 'eight fallacies of distributed computing' (2025),139,51
+2026-06-15T21:16:53.998218+00:00,48496290,44,Bitsy,272,8
+2026-06-15T21:16:53.998218+00:00,48501044,45,"Building a plugin system without runtime, storage, or shared JavaScript context",7,1
+2026-06-15T21:16:53.998218+00:00,48544637,46,Claude Corps,55,49
+2026-06-15T21:16:53.998218+00:00,48539078,47,Anthropic's Safety Superpower,196,180
+2026-06-15T21:16:53.998218+00:00,48519198,48,How to build a virtual cell and biology scaling laws,13,1
+2026-06-15T21:16:53.998218+00:00,48540945,49,Google Flight Simulator,134,44
+2026-06-15T21:16:53.998218+00:00,48490649,50,There Is(Ǝ) – Such That (∋),96,29
