@@ -2282,3 +2282,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-15T21:16:53.998218+00:00,48519198,48,How to build a virtual cell and biology scaling laws,13,1
 2026-06-15T21:16:53.998218+00:00,48540945,49,Google Flight Simulator,134,44
 2026-06-15T21:16:53.998218+00:00,48490649,50,There Is(Ǝ) – Such That (∋),96,29
+2026-06-15T23:53:40.807533+00:00,48546294,1,A backdoor in a LinkedIn job offer,534,106
+2026-06-15T23:53:40.807533+00:00,48547985,2,Banned Book Library in a Wi-Fi Smart Light Bulb,55,7
+2026-06-15T23:53:40.807533+00:00,48542480,3,Iroh 1.0,880,276
+2026-06-15T23:53:40.807533+00:00,48546441,4,I Love the Computer,109,66
+2026-06-15T23:53:40.807533+00:00,48543475,5,TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed),549,112
+2026-06-15T23:53:40.807533+00:00,48542100,6,Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?,596,304
+2026-06-15T23:53:40.807533+00:00,48547566,7,Why I email complete strangers,45,19
+2026-06-15T23:53:40.807533+00:00,48546616,8,US battery manufacturing output continues to break records,129,103
+2026-06-15T23:53:40.807533+00:00,48542433,9,My Homelab AI Dev Platform,214,42
+2026-06-15T23:53:40.807533+00:00,48546428,10,What job interviews taught me about Kubernetes,51,48
+2026-06-15T23:53:40.807533+00:00,48540844,11,Hetzner Price Adjustment,300,445
+2026-06-15T23:53:40.807533+00:00,48521925,12,What every coder should know about Gamma Correction,42,15
+2026-06-15T23:53:40.807533+00:00,48516964,13,An O(x)Caml book that runs,15,2
+2026-06-15T23:53:40.807533+00:00,48544451,14,How TimescaleDB compresses time-series data,109,14
+2026-06-15T23:53:40.807533+00:00,48544781,15,Game Engine White Papers Commander Keen,134,49
+2026-06-15T23:53:40.807533+00:00,48540499,16,Fox to buy Roku,255,355
+2026-06-15T23:53:40.807533+00:00,48543908,17,Launch HN: Drafted (YC P26) – Models for residential architecture,38,47
+2026-06-15T23:53:40.807533+00:00,48540126,18,Salesforce to Acquire Fin (formerly Intercom) for $3.6B,263,204
+2026-06-15T23:53:40.807533+00:00,48503509,19,"Factoring ""short-sleeve"" RSA keys with polynomials",66,1
+2026-06-15T23:53:40.807533+00:00,48489163,20,Show HN: Fata – Spaced repetition to fight skill rot from AI coding,73,43
+2026-06-15T23:53:40.807533+00:00,48542132,21,Copper transport drug restores memory and clears toxic Alzheimer's proteins,229,90
+2026-06-15T23:53:40.807533+00:00,48528587,22,Making glass-to-metal seals for home­made vacuum tubes,120,39
+2026-06-15T23:53:40.807533+00:00,48543392,23,How memory safety CVEs differ between Rust and C/C++,101,95
+2026-06-15T23:53:40.807533+00:00,48544823,24,"Show HN: Vet turned founder, AI lawn diagnosis",29,24
+2026-06-15T23:53:40.807533+00:00,48544637,25,Claude Corps,66,53
+2026-06-15T23:53:40.807533+00:00,48547608,26,San Francisco Weighs PG&E Takeover Amid Soaring Utility Costs,41,24
+2026-06-15T23:53:40.807533+00:00,48543269,27,Boot Naked Linux,81,47
+2026-06-15T23:53:40.807533+00:00,48547062,28,The Dead Economy Theory,54,51
+2026-06-15T23:53:40.807533+00:00,48520793,29,Reviving an abandoned open-source project: 6 years of Atomic Calendar Revive,10,1
+2026-06-15T23:53:40.807533+00:00,48544396,30,Typst 0.15.0,260,73
+2026-06-15T23:53:40.807533+00:00,48543245,31,Show HN: machine0 – Persistent NixOS VMs You Control from the CLI,71,32
+2026-06-15T23:53:40.807533+00:00,48485527,32,Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins,179,93
+2026-06-15T23:53:40.807533+00:00,48547271,33,Techno-libertarians are flocking to the Caribbean,42,41
+2026-06-15T23:53:40.807533+00:00,48537641,34,Openrouter Fusion API,196,76
+2026-06-15T23:53:40.807533+00:00,48540854,35,CrankGPT,546,213
+2026-06-15T23:53:40.807533+00:00,48546306,37,"US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",80,74
+2026-06-15T23:53:40.807533+00:00,48541014,38,Can Europe train a frontier AI model on the compute it owns?,111,211
+2026-06-15T23:53:40.807533+00:00,48545569,39,LLMs Will Replace 8-Track Duplication Engineers,19,0
+2026-06-15T23:53:40.807533+00:00,48547422,40,Node-Red 5 Released,5,1
+2026-06-15T23:53:40.807533+00:00,48545293,41,The Alaska Server,25,6
+2026-06-15T23:53:40.807533+00:00,48537512,42,Improvement in advanced Alzheimer’s disease following high-dose psilocybin,191,137
+2026-06-15T23:53:40.807533+00:00,48506980,43,"Ported my C game to WASM, here's every bug that I hit",104,91
+2026-06-15T23:53:40.807533+00:00,48538229,44,What happened to nerds?,696,467
+2026-06-15T23:53:40.807533+00:00,48546697,45,B-52 bomber crashes shortly after takeoff at California's Edwards Air Force Base,26,3
+2026-06-15T23:53:40.807533+00:00,48533848,46,Your ePub Is fine,869,296
+2026-06-15T23:53:40.807533+00:00,48546358,47,US Government Reportedly Allowing Federal Data Center Rules to Expire,30,3
+2026-06-15T23:53:40.807533+00:00,48542970,48,Show HN: Exploiting Slack's video embeds to achieve E2EE communication,27,3
+2026-06-15T23:53:40.807533+00:00,48536776,49,Apple Foundation Models,461,214
+2026-06-15T23:53:40.807533+00:00,48499993,50,Asciline – real-time ASCII video rendering engine,61,22
