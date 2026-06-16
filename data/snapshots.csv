@@ -2430,3 +2430,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-16T11:29:08.461195+00:00,48485527,48,Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins,186,98
 2026-06-16T11:29:08.461195+00:00,48537512,49,Improvement in advanced Alzheimer’s disease following high-dose psilocybin,206,142
 2026-06-16T11:29:08.461195+00:00,48552570,50,Commodore Callback,14,1
+2026-06-16T17:14:21.881290+00:00,48555993,1,Running local models is good now,384,193
+2026-06-16T17:14:21.881290+00:00,48553224,2,SpaceX to buy Cursor for $60B,382,699
+2026-06-16T17:14:21.881290+00:00,48553550,3,Mechanical Watch (2022),474,88
+2026-06-16T17:14:21.881290+00:00,48556163,4,SubQ 1.1 Small,59,25
+2026-06-16T17:14:21.881290+00:00,48557768,5,Making ast.walk 220x Faster,27,6
+2026-06-16T17:14:21.881290+00:00,48558018,6,TIL: You can make HTTP requests without curl using Bash /dev/TCP,11,1
+2026-06-16T17:14:21.881290+00:00,48555838,7,But yak shaving is fun,48,9
+2026-06-16T17:14:21.881290+00:00,48552844,8,Correlated randomness in Slay the Spire 2,202,64
+2026-06-16T17:14:21.881290+00:00,48550779,9,I admire Fabrice Bellard. He is almost certainly a better overall programmer,712,350
+2026-06-16T17:14:21.881290+00:00,48557530,10,Apple's weird anti-nausea dots cured my car sickness,73,19
+2026-06-16T17:14:21.881290+00:00,48557607,11,Never talk to the police,38,11
+2026-06-16T17:14:21.881290+00:00,48550693,12,The time the x86 emulator team found code so bad they fixed it during emulation,440,139
+2026-06-16T17:14:21.881290+00:00,48556644,13,After AI Takes Everything,14,2
+2026-06-16T17:14:21.881290+00:00,48519723,14,An interview with an Apple emoji designer,63,32
+2026-06-16T17:14:21.881290+00:00,48553450,15,Unicorn – The Ultimate CPU Emulator,59,17
+2026-06-16T17:14:21.881290+00:00,48522316,16,Getting Creative with Perlin Noise Fields,119,20
+2026-06-16T17:14:21.881290+00:00,48547985,17,Banned book library in a wi-fi smart light bulb,534,319
+2026-06-16T17:14:21.881290+00:00,48552687,18,"Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",445,275
+2026-06-16T17:14:21.881290+00:00,48479957,19,I hacked into the worst e-bike and fixed it [video],157,76
+2026-06-16T17:14:21.881290+00:00,48557535,20,GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz,16,4
+2026-06-16T17:14:21.881290+00:00,48552440,21,Making espresso with ultrasound,46,49
+2026-06-16T17:14:21.881290+00:00,48554814,22,Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence,20,1
+2026-06-16T17:14:21.881290+00:00,48546294,23,A backdoor in a LinkedIn job offer,1485,280
+2026-06-16T17:14:21.881290+00:00,48551876,24,Understanding the rationale behind a rule when trying to circumvent it,93,30
+2026-06-16T17:14:21.881290+00:00,48521414,25,The history of butterfly swimming,18,23
+2026-06-16T17:14:21.881290+00:00,48552723,26,"Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",90,11
+2026-06-16T17:14:21.881290+00:00,48555244,27,Google Chrome update will close the door on ad blockers,206,246
+2026-06-16T17:14:21.881290+00:00,48523126,28,Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat,127,43
+2026-06-16T17:14:21.881290+00:00,48546441,29,I Love the Computer,289,156
+2026-06-16T17:14:21.881290+00:00,48555835,30,I Fired Google,127,101
+2026-06-16T17:14:21.881290+00:00,48550569,31,Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art,125,19
+2026-06-16T17:14:21.881290+00:00,48547062,32,Peopleless economy? Not technically impossible,268,503
+2026-06-16T17:14:21.881290+00:00,48554433,33,"'Wow, it really worked ': 70s TV show causing worldwide panic today",73,44
+2026-06-16T17:14:21.881290+00:00,48542480,34,Iroh 1.0,1327,410
+2026-06-16T17:14:21.881290+00:00,48547566,35,Why I email complete strangers,203,92
+2026-06-16T17:14:21.881290+00:00,48556821,36,CJEU: Social networks are the 'publishers' of algorithmically-altered feeds,18,7
+2026-06-16T17:14:21.881290+00:00,48542100,37,Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?,1214,511
+2026-06-16T17:14:21.881290+00:00,48558338,38,'Ghost jobs' could soon be illegal in New York,6,1
+2026-06-16T17:14:21.881290+00:00,48546428,39,What job interviews taught me about Kubernetes,240,188
+2026-06-16T17:14:21.881290+00:00,48549628,40,Humanity isn't ready for the coming intelligence explosion,151,419
+2026-06-16T17:14:21.881290+00:00,48543475,41,TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed),957,169
+2026-06-16T17:14:21.881290+00:00,48557797,42,Earth's underground fungal network would span 10% of the Milky Way,5,0
+2026-06-16T17:14:21.881290+00:00,48489934,43,Cohere's First Model for Developers,131,32
+2026-06-16T17:14:21.881290+00:00,48553976,44,"SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",18,2
+2026-06-16T17:14:21.881290+00:00,48558045,45,Why is Meta destroying its engineering organization?,4,0
+2026-06-16T17:14:21.881290+00:00,48544451,46,How TimescaleDB compresses time-series data,166,24
+2026-06-16T17:14:21.881290+00:00,48544781,47,Game Engine White Papers: Commander Keen,226,78
+2026-06-16T17:14:21.881290+00:00,48558005,48,"British Colombia, Time Zones, and Postgres",3,0
+2026-06-16T17:14:21.881290+00:00,48521925,49,What every coder should know about gamma (2016),113,40
+2026-06-16T17:14:21.881290+00:00,48544637,50,Claude Corps,151,111
