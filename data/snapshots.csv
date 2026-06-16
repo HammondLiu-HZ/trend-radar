@@ -2530,3 +2530,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-16T21:14:13.090492+00:00,48556644,48,After AI Takes Everything,83,89
 2026-06-16T21:14:13.090492+00:00,48559827,49,Users cry foul after AMD stripped memory crypto from its consumer CPUs,29,4
 2026-06-16T21:14:13.090492+00:00,48558696,50,The octopus architecture for AI agents,17,2
+2026-06-16T23:41:27.859322+00:00,48561654,1,GrapheneOS has been ported to Android 17 and official releases are coming soon,252,101
+2026-06-16T23:41:27.859322+00:00,48555993,2,Running local models is good now,939,406
+2026-06-16T23:41:27.859322+00:00,48563569,3,NLnet announces funding for 67 more open-source projects,20,6
+2026-06-16T23:41:27.859322+00:00,48553224,4,SpaceX to buy Cursor for $60B,815,1245
+2026-06-16T23:41:27.859322+00:00,48563394,5,Humiliating IIS servers for fun and jail time,11,0
+2026-06-16T23:41:27.859322+00:00,48557079,6,Calvin and Hobbes and the price of integrity,233,105
+2026-06-16T23:41:27.859322+00:00,48558018,7,TIL: You can make HTTP requests without curl using Bash /dev/TCP,224,119
+2026-06-16T23:41:27.859322+00:00,48559188,8,GPT‑NL: a sovereign language model for the Netherlands,123,126
+2026-06-16T23:41:27.859322+00:00,48553550,9,Mechanical Watch (2022),609,113
+2026-06-16T23:41:27.859322+00:00,48558147,10,Stop Using JWTs,198,126
+2026-06-16T23:41:27.859322+00:00,48558489,11,Has AI already killed self-help nonfiction books?,116,123
+2026-06-16T23:41:27.859322+00:00,48555838,12,But yak shaving is fun (2019),194,50
+2026-06-16T23:41:27.859322+00:00,48536660,13,"A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",12,0
+2026-06-16T23:41:27.859322+00:00,48559083,14,10Gb/s Ethernet: switching to a Broadcom SFP+ module,81,64
+2026-06-16T23:41:27.859322+00:00,48562957,15,"The UK's Teen Social Media Ban Is Political Theater, Not Child Safety Policy",47,34
+2026-06-16T23:41:27.859322+00:00,48559935,16,Apple is about to make Hide My Email useless,347,213
+2026-06-16T23:41:27.859322+00:00,48522037,17,W.H. Auden and James Schuyler in life and literature,11,0
+2026-06-16T23:41:27.859322+00:00,48561402,18,"Frood, an Alpine Initramfs NAS (2024)",23,8
+2026-06-16T23:41:27.859322+00:00,48552844,19,Correlated randomness in Slay the Spire 2,271,85
+2026-06-16T23:41:27.859322+00:00,48557530,20,Apple's weird anti-nausea dots cured my car sickness,509,166
+2026-06-16T23:41:27.859322+00:00,48526256,21,A Nipkow Disk Mechanical TV Simulator,9,2
+2026-06-16T23:41:27.859322+00:00,48558045,22,Is Meta destroying its engineering organization?,349,324
+2026-06-16T23:41:27.859322+00:00,48557768,23,Making ast.walk 220x Faster,79,13
+2026-06-16T23:41:27.859322+00:00,48497067,24,Formal Methods and the Future of Programming,68,2
+2026-06-16T23:41:27.859322+00:00,48554814,25,Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence,112,16
+2026-06-16T23:41:27.859322+00:00,48561410,26,"Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",17,5
+2026-06-16T23:41:27.859322+00:00,48556163,27,SubQ 1.1 Small,102,45
+2026-06-16T23:41:27.859322+00:00,48519723,28,An interview with an Apple emoji designer,98,50
+2026-06-16T23:41:27.859322+00:00,48525340,29,Show HN: Sabela – A Reactive Notebook for Haskell,27,1
+2026-06-16T23:41:27.859322+00:00,48522316,30,Getting Creative with Perlin Noise Fields,169,23
+2026-06-16T23:41:27.859322+00:00,48560454,31,"Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",24,10
+2026-06-16T23:41:27.859322+00:00,48550569,32,Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art,145,25
+2026-06-16T23:41:27.859322+00:00,48558338,33,'Ghost jobs' could soon be illegal in New York,168,100
+2026-06-16T23:41:27.859322+00:00,48553450,34,Unicorn – The Ultimate CPU Emulator,88,26
+2026-06-16T23:41:27.859322+00:00,48550779,35,I admire Fabrice Bellard. He is almost certainly a better overall programmer,847,416
+2026-06-16T23:41:27.859322+00:00,48563364,36,"Among the large new rockets Amazon was counting on, only Europe has delivered",9,0
+2026-06-16T23:41:27.859322+00:00,48479957,37,I hacked into the worst e-bike and fixed it [video],171,87
+2026-06-16T23:41:27.859322+00:00,48498981,38,ASM Shader Toy,34,3
+2026-06-16T23:41:27.859322+00:00,48523126,39,The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat,167,59
+2026-06-16T23:41:27.859322+00:00,48546294,40,A backdoor in a LinkedIn job offer,1532,292
+2026-06-16T23:41:27.859322+00:00,48562677,41,"Please, Use a Link",16,1
+2026-06-16T23:41:27.859322+00:00,48552687,42,"Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",535,317
+2026-06-16T23:41:27.859322+00:00,48561816,43,Leak Exposes Members of Peter Thiel's Secretive 'Dialog' Society,41,3
+2026-06-16T23:41:27.859322+00:00,48561332,44,I've always wondered if anyone used sharing buttons on news sites and blogs,171,89
+2026-06-16T23:41:27.859322+00:00,48560847,45,U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears,374,231
+2026-06-16T23:41:27.859322+00:00,48559459,46,Keep the News in the Wayback Machine,17,1
+2026-06-16T23:41:27.859322+00:00,48552440,47,Making espresso with ultrasound,73,76
+2026-06-16T23:41:27.859322+00:00,48559108,48,Show HN: Pen and paper resource development game with an emergent world,17,1
+2026-06-16T23:41:27.859322+00:00,48550693,49,The time the x86 emulator team found code so bad they fixed it during emulation,476,158
+2026-06-16T23:41:27.859322+00:00,48555755,50,KDE Plasma 6.7 Released,26,1
