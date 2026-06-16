@@ -2380,3 +2380,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-16T05:22:04.043220+00:00,48545569,47,LLMs Will Replace 8-Track Duplication Engineers,33,1
 2026-06-16T05:22:04.043220+00:00,48506980,49,"Ported my C game to WASM, here's every bug that I hit",109,97
 2026-06-16T05:22:04.043220+00:00,48548612,50,Egyptian Fractions,9,0
+2026-06-16T11:29:08.461195+00:00,48550693,1,The time the x86 emulator team found code so bad they fixed it during emulation,297,91
+2026-06-16T11:29:08.461195+00:00,48546294,2,A backdoor in a LinkedIn job offer,1251,227
+2026-06-16T11:29:08.461195+00:00,48550779,3,John Carmack on Fabrice Bellard,338,196
+2026-06-16T11:29:08.461195+00:00,48522316,4,Getting Creative with Perlin Noise Fields,46,7
+2026-06-16T11:29:08.461195+00:00,48552723,5,"Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",27,2
+2026-06-16T11:29:08.461195+00:00,48542480,6,Iroh 1.0,1224,371
+2026-06-16T11:29:08.461195+00:00,48547985,7,Banned Book Library in a Wi-Fi Smart Light Bulb,413,217
+2026-06-16T11:29:08.461195+00:00,48551876,8,Understanding the rationale behind a rule when trying to circumvent it,41,6
+2026-06-16T11:29:08.461195+00:00,48542100,9,Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?,1051,457
+2026-06-16T11:29:08.461195+00:00,48543475,10,TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed),870,157
+2026-06-16T11:29:08.461195+00:00,48552687,11,"Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",52,19
+2026-06-16T11:29:08.461195+00:00,48550569,12,Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art,85,14
+2026-06-16T11:29:08.461195+00:00,48552614,13,Commodore Releases Flip Phone,61,21
+2026-06-16T11:29:08.461195+00:00,48546441,14,I Love the Computer,246,142
+2026-06-16T11:29:08.461195+00:00,48479957,15,I hacked into the worst e-bike and fixed it [video],105,48
+2026-06-16T11:29:08.461195+00:00,48540844,16,Hetzner Price Adjustment,465,632
+2026-06-16T11:29:08.461195+00:00,48547062,17,Peopleless economy? Not technically impossible,203,368
+2026-06-16T11:29:08.461195+00:00,48542433,18,My Homelab AI Dev Platform,320,54
+2026-06-16T11:29:08.461195+00:00,48522233,19,Hans Schulz – The father of the VEF Minox lens?,3,0
+2026-06-16T11:29:08.461195+00:00,48489934,20,Cohere's First Model for Developers,104,24
+2026-06-16T11:29:08.461195+00:00,48547566,21,Why I email complete strangers,160,69
+2026-06-16T11:29:08.461195+00:00,48549628,22,Humanity isn't ready for the coming intelligence explosion,106,305
+2026-06-16T11:29:08.461195+00:00,48540499,23,Fox to buy Roku,326,398
+2026-06-16T11:29:08.461195+00:00,48546428,24,What job interviews taught me about Kubernetes,196,147
+2026-06-16T11:29:08.461195+00:00,48553224,25,SpaceX to buy Cursor AI coding agent operator Anysphere for $60B,21,3
+2026-06-16T11:29:08.461195+00:00,48540126,26,Salesforce to Acquire Fin (formerly Intercom) for $3.6B,314,232
+2026-06-16T11:29:08.461195+00:00,48542132,27,Copper transport drug restores memory and clears toxic Alzheimer's proteins,315,112
+2026-06-16T11:29:08.461195+00:00,48521925,28,What every coder should know about gamma (2016),103,29
+2026-06-16T11:29:08.461195+00:00,48544781,29,Game Engine White Papers: Commander Keen,215,72
+2026-06-16T11:29:08.461195+00:00,48544451,30,How TimescaleDB compresses time-series data,159,22
+2026-06-16T11:29:08.461195+00:00,48544637,31,Claude Corps,139,95
+2026-06-16T11:29:08.461195+00:00,48543908,32,Launch HN: Drafted (YC P26) – Models for residential architecture,55,59
+2026-06-16T11:29:08.461195+00:00,48494959,33,Conquering Recursion (2019),3,1
+2026-06-16T11:29:08.461195+00:00,48505910,34,Show HN: SharkClean MCP,10,2
+2026-06-16T11:29:08.461195+00:00,48544823,35,"Show HN: Veterinarian turned founder, AI lawn diagnosis",65,55
+2026-06-16T11:29:08.461195+00:00,48489163,36,Show HN: Fata – Spaced repetition to fight skill rot from AI coding,101,50
+2026-06-16T11:29:08.461195+00:00,48490578,37,The 90-year-old idea behind JEPA models: Canonical Correlation Analysis,54,8
+2026-06-16T11:29:08.461195+00:00,48546616,38,US battery manufacturing output continues to break records,209,167
+2026-06-16T11:29:08.461195+00:00,48548883,39,"Reviews have become expensive, rewrites have become cheap",68,61
+2026-06-16T11:29:08.461195+00:00,48528587,40,Making glass-to-metal seals for home­made vacuum tubes,141,47
+2026-06-16T11:29:08.461195+00:00,48548975,41,Amazon Announces Multibillion-Dollar Data Center in Missouri,111,115
+2026-06-16T11:29:08.461195+00:00,48543392,42,How memory safety CVEs differ between Rust and C/C++,134,170
+2026-06-16T11:29:08.461195+00:00,48552668,43,Dutch children are unusually happy and healthy. Because of this walking ritual?,10,0
+2026-06-16T11:29:08.461195+00:00,48516964,44,An O(x)Caml book that runs,53,16
+2026-06-16T11:29:08.461195+00:00,48543269,45,Boot Naked Linux,115,52
+2026-06-16T11:29:08.461195+00:00,48503509,46,"Factoring ""short-sleeve"" RSA keys with polynomials",93,2
+2026-06-16T11:29:08.461195+00:00,48537641,47,Openrouter Fusion API,207,80
+2026-06-16T11:29:08.461195+00:00,48485527,48,Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins,186,98
+2026-06-16T11:29:08.461195+00:00,48537512,49,Improvement in advanced Alzheimer’s disease following high-dose psilocybin,206,142
+2026-06-16T11:29:08.461195+00:00,48552570,50,Commodore Callback,14,1
