@@ -2480,3 +2480,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-16T17:14:21.881290+00:00,48558005,48,"British Colombia, Time Zones, and Postgres",3,0
 2026-06-16T17:14:21.881290+00:00,48521925,49,What every coder should know about gamma (2016),113,40
 2026-06-16T17:14:21.881290+00:00,48544637,50,Claude Corps,151,111
+2026-06-16T21:14:13.090492+00:00,48561332,1,Nobody clicks share buttons,104,45
+2026-06-16T21:14:13.090492+00:00,48555993,2,Running local models is good now,783,352
+2026-06-16T21:14:13.090492+00:00,48559935,3,Apple is about to make Hide My Email useless,191,81
+2026-06-16T21:14:13.090492+00:00,48553224,4,SpaceX to buy Cursor for $60B,702,1122
+2026-06-16T21:14:13.090492+00:00,48558018,5,TIL: You can make HTTP requests without curl using Bash /dev/TCP,172,92
+2026-06-16T21:14:13.090492+00:00,48557079,6,Calvin and Hobbes and the price of integrity,136,49
+2026-06-16T21:14:13.090492+00:00,48553550,7,Mechanical Watch (2022),577,108
+2026-06-16T21:14:13.090492+00:00,48561402,8,"Frood, an Alpine Initramfs NAS",14,5
+2026-06-16T21:14:13.090492+00:00,48559188,9,GPT‑NL: a sovereign language model for the Netherlands,88,63
+2026-06-16T21:14:13.090492+00:00,48555838,10,But yak shaving is fun,157,46
+2026-06-16T21:14:13.090492+00:00,48498981,11,ASM SHADER TOY – It's shader toy but you code in asm,17,2
+2026-06-16T21:14:13.090492+00:00,48558766,12,Claude: Elevated errors across many models,174,149
+2026-06-16T21:14:13.090492+00:00,48550779,13,I admire Fabrice Bellard. He is almost certainly a better overall programmer,824,392
+2026-06-16T21:14:13.090492+00:00,48557530,14,Apple's weird anti-nausea dots cured my car sickness,401,122
+2026-06-16T21:14:13.090492+00:00,48559083,15,10Gb/s Ethernet: switching to a Broadcom SFP+ module,53,43
+2026-06-16T21:14:13.090492+00:00,48552844,16,Correlated randomness in Slay the Spire 2,246,80
+2026-06-16T21:14:13.090492+00:00,48558489,17,Has AI already killed self-help nonfiction books?,52,63
+2026-06-16T21:14:13.090492+00:00,48497067,18,Formal Methods and the Future of Programming,53,1
+2026-06-16T21:14:13.090492+00:00,48558147,19,Stop Using JWTs,122,78
+2026-06-16T21:14:13.090492+00:00,48557768,20,Making ast.walk 220x Faster,63,14
+2026-06-16T21:14:13.090492+00:00,48554814,21,Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence,88,14
+2026-06-16T21:14:13.090492+00:00,48556163,22,SubQ 1.1 Small,92,45
+2026-06-16T21:14:13.090492+00:00,48525340,23,Show HN: Sabela – A Reactive Notebook for Haskell,15,0
+2026-06-16T21:14:13.090492+00:00,48560886,24,Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture,20,6
+2026-06-16T21:14:13.090492+00:00,48558338,25,'Ghost jobs' could soon be illegal in New York,128,64
+2026-06-16T21:14:13.090492+00:00,48560454,26,"Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",9,1
+2026-06-16T21:14:13.090492+00:00,48560847,27,U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears,308,167
+2026-06-16T21:14:13.090492+00:00,48558337,28,Specs Augmented Reality Glasses,48,29
+2026-06-16T21:14:13.090492+00:00,48519723,29,An interview with an Apple emoji designer,86,44
+2026-06-16T21:14:13.090492+00:00,48522316,30,Getting Creative with Perlin Noise Fields,154,22
+2026-06-16T21:14:13.090492+00:00,48553450,31,Unicorn – The Ultimate CPU Emulator,83,26
+2026-06-16T21:14:13.090492+00:00,48550569,32,Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art,142,24
+2026-06-16T21:14:13.090492+00:00,48479957,33,I hacked into the worst e-bike and fixed it [video],166,86
+2026-06-16T21:14:13.090492+00:00,48523126,34,The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat,159,52
+2026-06-16T21:14:13.090492+00:00,48560026,35,Show HN: Azure DevOps TUI Management Style,6,0
+2026-06-16T21:14:13.090492+00:00,48510375,36,Cooling at the Speed of Light,22,2
+2026-06-16T21:14:13.090492+00:00,48546294,37,A backdoor in a LinkedIn job offer,1519,291
+2026-06-16T21:14:13.090492+00:00,48552687,38,"Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",520,309
+2026-06-16T21:14:13.090492+00:00,48559108,39,Show HN: Pen and paper resource development game with an emergent world,12,1
+2026-06-16T21:14:13.090492+00:00,48552440,40,Making espresso with ultrasound,67,72
+2026-06-16T21:14:13.090492+00:00,48560301,41,"Leviathan Waking – On Anthropic/USG, and a new era in AI governance",4,0
+2026-06-16T21:14:13.090492+00:00,48560913,42,AI is potentially a Dunning-Kruger effect amplifier,29,8
+2026-06-16T21:14:13.090492+00:00,48560230,43,The Web We Know Is Going to Disappear,23,18
+2026-06-16T21:14:13.090492+00:00,48558045,44,Why is Meta destroying its engineering organization?,270,221
+2026-06-16T21:14:13.090492+00:00,48550693,45,The time the x86 emulator team found code so bad they fixed it during emulation,468,153
+2026-06-16T21:14:13.090492+00:00,48551876,46,Understanding the rationale behind a rule when trying to circumvent it,111,34
+2026-06-16T21:14:13.090492+00:00,48555755,47,KDE Plasma 6.7 Released,20,1
+2026-06-16T21:14:13.090492+00:00,48556644,48,After AI Takes Everything,83,89
+2026-06-16T21:14:13.090492+00:00,48559827,49,Users cry foul after AMD stripped memory crypto from its consumer CPUs,29,4
+2026-06-16T21:14:13.090492+00:00,48558696,50,The octopus architecture for AI agents,17,2
