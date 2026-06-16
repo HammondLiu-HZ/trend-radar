@@ -2331,3 +2331,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-15T23:53:40.807533+00:00,48542970,48,Show HN: Exploiting Slack's video embeds to achieve E2EE communication,27,3
 2026-06-15T23:53:40.807533+00:00,48536776,49,Apple Foundation Models,461,214
 2026-06-15T23:53:40.807533+00:00,48499993,50,Asciline – real-time ASCII video rendering engine,61,22
+2026-06-16T05:22:04.043220+00:00,48550693,1,The time the x86 emulator team found code so bad they fixed it during emulation,59,1
+2026-06-16T05:22:04.043220+00:00,48546294,2,A backdoor in a LinkedIn job offer,906,175
+2026-06-16T05:22:04.043220+00:00,48547985,3,Banned Book Library in a Wi-Fi Smart Light Bulb,260,126
+2026-06-16T05:22:04.043220+00:00,48542480,4,Iroh 1.0,1051,308
+2026-06-16T05:22:04.043220+00:00,48543475,5,TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed),692,144
+2026-06-16T05:22:04.043220+00:00,48542100,6,Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?,812,381
+2026-06-16T05:22:04.043220+00:00,48479957,7,I hacked into the worst e-bike and fixed it [video],36,10
+2026-06-16T05:22:04.043220+00:00,48546441,8,I Love the Computer,183,111
+2026-06-16T05:22:04.043220+00:00,48550569,9,Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art,7,1
+2026-06-16T05:22:04.043220+00:00,48547566,10,Why I email complete strangers,112,53
+2026-06-16T05:22:04.043220+00:00,48490578,11,The 90-year-old idea behind JEPA models: Canonical Correlation Analysis,33,7
+2026-06-16T05:22:04.043220+00:00,48489934,12,Cohere's First Model for Developers,52,13
+2026-06-16T05:22:04.043220+00:00,48548975,13,Amazon Announces Multibillion-Dollar Data Center in Missouri,79,65
+2026-06-16T05:22:04.043220+00:00,48542433,14,My Homelab AI Dev Platform,276,52
+2026-06-16T05:22:04.043220+00:00,48549628,15,Humanity isn't ready for the coming intelligence explosion,22,56
+2026-06-16T05:22:04.043220+00:00,48547062,16,Peopleless economy? Not technically impossible,134,252
+2026-06-16T05:22:04.043220+00:00,48540844,17,Hetzner Price Adjustment,373,532
+2026-06-16T05:22:04.043220+00:00,48540499,18,Fox to buy Roku,303,384
+2026-06-16T05:22:04.043220+00:00,48508069,19,Honeypot Design,6,2
+2026-06-16T05:22:04.043220+00:00,48521925,20,What every coder should know about gamma (2016),83,25
+2026-06-16T05:22:04.043220+00:00,48540126,21,Salesforce to Acquire Fin (formerly Intercom) for $3.6B,296,218
+2026-06-16T05:22:04.043220+00:00,48543908,22,Launch HN: Drafted (YC P26) – Models for residential architecture,51,55
+2026-06-16T05:22:04.043220+00:00,48546428,23,What job interviews taught me about Kubernetes,132,98
+2026-06-16T05:22:04.043220+00:00,48542132,24,Copper transport drug restores memory and clears toxic Alzheimer's proteins,272,103
+2026-06-16T05:22:04.043220+00:00,48544781,25,Game Engine White Papers: Commander Keen,180,58
+2026-06-16T05:22:04.043220+00:00,48544451,26,How TimescaleDB compresses time-series data,133,15
+2026-06-16T05:22:04.043220+00:00,48546616,27,US battery manufacturing output continues to break records,187,158
+2026-06-16T05:22:04.043220+00:00,48548883,28,"Reviews have become expensive, rewrites have become cheap",40,37
+2026-06-16T05:22:04.043220+00:00,48544823,29,"Show HN: Veterinarian turned founder, AI lawn diagnosis",47,49
+2026-06-16T05:22:04.043220+00:00,48544637,30,Claude Corps,108,71
+2026-06-16T05:22:04.043220+00:00,48489163,31,Show HN: Fata – Spaced repetition to fight skill rot from AI coding,92,49
+2026-06-16T05:22:04.043220+00:00,48528587,32,Making glass-to-metal seals for home­made vacuum tubes,137,43
+2026-06-16T05:22:04.043220+00:00,48516964,33,An O(x)Caml book that runs,44,15
+2026-06-16T05:22:04.043220+00:00,48550465,34,"OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",27,12
+2026-06-16T05:22:04.043220+00:00,48543392,35,How memory safety CVEs differ between Rust and C/C++,127,130
+2026-06-16T05:22:04.043220+00:00,48503509,36,"Factoring ""short-sleeve"" RSA keys with polynomials",84,1
+2026-06-16T05:22:04.043220+00:00,48543269,37,Boot Naked Linux,104,48
+2026-06-16T05:22:04.043220+00:00,48525081,38,Laser Phase Plate Cryo-Electron Microscopy,7,0
+2026-06-16T05:22:04.043220+00:00,48485527,39,Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins,184,97
+2026-06-16T05:22:04.043220+00:00,48537641,40,Openrouter Fusion API,201,80
+2026-06-16T05:22:04.043220+00:00,48549883,41,Vance: Iran can have access to $300B reconstruction fund,25,15
+2026-06-16T05:22:04.043220+00:00,48544396,42,Typst 0.15.0,300,81
+2026-06-16T05:22:04.043220+00:00,48541014,43,Can Europe train a frontier AI model on the compute it owns?,124,226
+2026-06-16T05:22:04.043220+00:00,48543245,44,Show HN: machine0 – Persistent NixOS VMs You Control from the CLI,80,33
+2026-06-16T05:22:04.043220+00:00,48537512,45,Improvement in advanced Alzheimer’s disease following high-dose psilocybin,198,141
+2026-06-16T05:22:04.043220+00:00,48540854,46,CrankGPT,564,220
+2026-06-16T05:22:04.043220+00:00,48545569,47,LLMs Will Replace 8-Track Duplication Engineers,33,1
+2026-06-16T05:22:04.043220+00:00,48506980,49,"Ported my C game to WASM, here's every bug that I hit",109,97
+2026-06-16T05:22:04.043220+00:00,48548612,50,Egyptian Fractions,9,0
