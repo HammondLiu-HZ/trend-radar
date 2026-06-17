@@ -2580,3 +2580,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-16T23:41:27.859322+00:00,48559108,48,Show HN: Pen and paper resource development game with an emergent world,17,1
 2026-06-16T23:41:27.859322+00:00,48550693,49,The time the x86 emulator team found code so bad they fixed it during emulation,476,158
 2026-06-16T23:41:27.859322+00:00,48555755,50,KDE Plasma 6.7 Released,26,1
+2026-06-17T05:01:29.920392+00:00,48565130,1,Leaked OpenAI financials show $38.5B loss and compute burn,87,64
+2026-06-17T05:01:29.920392+00:00,48561654,2,GrapheneOS has been ported to Android 17,537,225
+2026-06-17T05:01:29.920392+00:00,48555993,3,Running local models is good now,1139,460
+2026-06-17T05:01:29.920392+00:00,48563394,4,Humiliating IIS servers for fun and jail time,155,30
+2026-06-17T05:01:29.920392+00:00,48563609,5,"Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",119,39
+2026-06-17T05:01:29.920392+00:00,48558018,6,TIL: You can make HTTP requests without curl using Bash /dev/TCP,326,160
+2026-06-17T05:01:29.920392+00:00,48557079,7,Calvin and Hobbes and the price of integrity,342,153
+2026-06-17T05:01:29.920392+00:00,48559188,8,GPT‑NL: a sovereign language model for the Netherlands,164,146
+2026-06-17T05:01:29.920392+00:00,48558489,9,Has AI already killed self-help nonfiction books?,216,228
+2026-06-17T05:01:29.920392+00:00,48558147,10,Stop Using JWTs,305,173
+2026-06-17T05:01:29.920392+00:00,48495090,11,Working in Glass,5,0
+2026-06-17T05:01:29.920392+00:00,48536660,12,"A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",54,12
+2026-06-17T05:01:29.920392+00:00,48527210,13,All about the IBM 1130 Computing System,22,9
+2026-06-17T05:01:29.920392+00:00,48555838,14,But yak shaving is fun (2019),232,70
+2026-06-17T05:01:29.920392+00:00,48553224,15,SpaceX to buy Cursor for $60B,953,1437
+2026-06-17T05:01:29.920392+00:00,48564696,16,Stop Killing Games fails to secure EU law despite 1.3M signatures,74,18
+2026-06-17T05:01:29.920392+00:00,48559083,17,10Gb/s Ethernet: switching to a Broadcom SFP+ module,120,109
+2026-06-17T05:01:29.920392+00:00,48526256,18,A Nipkow Disk Mechanical TV Simulator,34,5
+2026-06-17T05:01:29.920392+00:00,48527233,19,The Amphibious Villagers of Indonesia,10,1
+2026-06-17T05:01:29.920392+00:00,48561410,20,"Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",50,12
+2026-06-17T05:01:29.920392+00:00,48554814,21,Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence,144,22
+2026-06-17T05:01:29.920392+00:00,48557530,22,Apple's weird anti-nausea dots cured my car sickness,652,206
+2026-06-17T05:01:29.920392+00:00,48553550,23,Mechanical Watch (2022),652,115
+2026-06-17T05:01:29.920392+00:00,48497067,24,Formal Methods and the Future of Programming,93,2
+2026-06-17T05:01:29.920392+00:00,48558045,25,Is Meta destroying its engineering organization?,489,446
+2026-06-17T05:01:29.920392+00:00,48561402,26,"Frood, an Alpine Initramfs NAS (2024)",38,11
+2026-06-17T05:01:29.920392+00:00,48559935,27,Apple is about to make Hide My Email useless,437,273
+2026-06-17T05:01:29.920392+00:00,48550569,28,Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art,149,26
+2026-06-17T05:01:29.920392+00:00,48563569,29,NLnet announces funding for 67 more open-source projects,101,15
+2026-06-17T05:01:29.920392+00:00,48519723,30,An interview with an Apple emoji designer,107,64
+2026-06-17T05:01:29.920392+00:00,48557768,31,Making ast.walk 220x Faster,103,16
+2026-06-17T05:01:29.920392+00:00,48556163,32,SubQ 1.1 Small,116,48
+2026-06-17T05:01:29.920392+00:00,48479957,33,I hacked into the worst e-bike and fixed it [video],178,90
+2026-06-17T05:01:29.920392+00:00,48546294,34,A backdoor in a LinkedIn job offer,1545,294
+2026-06-17T05:01:29.920392+00:00,48550779,35,I admire Fabrice Bellard. He is almost certainly a better overall programmer,871,426
+2026-06-17T05:01:29.920392+00:00,48533098,36,The Magic Roundabout of Seattle Area,55,42
+2026-06-17T05:01:29.920392+00:00,48560454,37,"Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",40,17
+2026-06-17T05:01:29.920392+00:00,48523126,38,The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat,171,62
+2026-06-17T05:01:29.920392+00:00,48522037,39,W.H. Auden and James Schuyler in life and literature,12,0
+2026-06-17T05:01:29.920392+00:00,48553450,40,Unicorn – The Ultimate CPU Emulator,95,28
+2026-06-17T05:01:29.920392+00:00,48565685,41,NetNewsWire Status,3,0
+2026-06-17T05:01:29.920392+00:00,48536796,42,Demystifying Noise Contrastive Estimation,4,0
+2026-06-17T05:01:29.920392+00:00,48564271,43,2026-06-16 Robinhood Layoff Translation,25,2
+2026-06-17T05:01:29.920392+00:00,48555755,44,KDE Plasma 6.7 Released,44,5
+2026-06-17T05:01:29.920392+00:00,48552440,45,Making espresso with ultrasound,82,76
+2026-06-17T05:01:29.920392+00:00,48525340,46,Show HN: Sabela – A Reactive Notebook for Haskell,33,3
+2026-06-17T05:01:29.920392+00:00,48552687,47,"Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",559,330
+2026-06-17T05:01:29.920392+00:00,48552844,48,Correlated randomness in Slay the Spire 2,285,87
+2026-06-17T05:01:29.920392+00:00,48558338,49,'Ghost jobs' could soon be illegal in New York,184,112
+2026-06-17T05:01:29.920392+00:00,48550693,50,The time the x86 emulator team found code so bad they fixed it during emulation,481,159
