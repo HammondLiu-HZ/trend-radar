@@ -2680,3 +2680,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-17T11:11:36.047311+00:00,48557768,48,Making ast.walk 220x Faster,109,20
 2026-06-17T11:11:36.047311+00:00,48552440,49,Making espresso with ultrasound,90,80
 2026-06-17T11:11:36.047311+00:00,48542480,50,Iroh 1.0,1363,435
+2026-06-17T15:56:22.482357+00:00,48569954,1,Want your images back? Sure... That'll be $5!,399,153
+2026-06-17T15:56:22.482357+00:00,48571081,2,Epic Games announces Lore version control system,223,124
+2026-06-17T15:56:22.482357+00:00,48571526,3,Volkswagen started blocking GrapheneOS users,42,28
+2026-06-17T15:56:22.482357+00:00,48567759,4,GLM-5.2 is the new leading open weights model on Artificial Analysis,507,272
+2026-06-17T15:56:22.482357+00:00,48569278,5,Sixty percent of US consumers say 'AI' in brand messaging is a turnoff,595,309
+2026-06-17T15:56:22.482357+00:00,48571767,6,French physicist and media star loses doctorate after plagiarism investigation,16,4
+2026-06-17T15:56:22.482357+00:00,48568502,7,RFC 10008: The new HTTP Query Method,172,84
+2026-06-17T15:56:22.482357+00:00,48569205,8,"MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",82,27
+2026-06-17T15:56:22.482357+00:00,48571266,9,Why stdx is not on crates.io,29,18
+2026-06-17T15:56:22.482357+00:00,48567155,10,Hacker News but for Independent Blogs,330,104
+2026-06-17T15:56:22.482357+00:00,48523534,11,"Show HN: Inkwash, a watercolor sketching app and explanation",51,15
+2026-06-17T15:56:22.482357+00:00,48570948,12,AI demands more engineering discipline. Not less,85,26
+2026-06-17T15:56:22.482357+00:00,48561654,13,GrapheneOS has been ported to Android 17,932,495
+2026-06-17T15:56:22.482357+00:00,48555993,14,Running local models is good now,1468,559
+2026-06-17T15:56:22.482357+00:00,48567877,15,Show HN: High-Res Neural Cellular Automata,141,35
+2026-06-17T15:56:22.482357+00:00,48522927,16,Image Compression,59,8
+2026-06-17T15:56:22.482357+00:00,48531590,17,Abandoned and Little-Known Airfields,96,23
+2026-06-17T15:56:22.482357+00:00,48570763,18,ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker,81,34
+2026-06-17T15:56:22.482357+00:00,48530974,19,Open-source React UI and D-pad focus engine for Meta Ray-Ban Display,4,0
+2026-06-17T15:56:22.482357+00:00,48526174,20,Show HN: Capacitor Alarm Clock,105,31
+2026-06-17T15:56:22.482357+00:00,48567004,21,GLM 5.2 Performance Benchmarks,99,36
+2026-06-17T15:56:22.482357+00:00,48513920,22,Map Clustering Is Not My Favorite,89,34
+2026-06-17T15:56:22.482357+00:00,48463894,23,The Rise and (Potential) Fall of Letterboxd,16,5
+2026-06-17T15:56:22.482357+00:00,48571016,24,Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users),22,21
+2026-06-17T15:56:22.482357+00:00,48563394,25,Humiliating IIS servers for fun and jail time,330,80
+2026-06-17T15:56:22.482357+00:00,48569894,26,Why thinking out loud with someone beats thinking alone,7,0
+2026-06-17T15:56:22.482357+00:00,48496233,27,Subterranean fungi networks more than 100 quadrillion km in length,141,34
+2026-06-17T15:56:22.482357+00:00,48558018,28,TIL: You can make HTTP requests without curl using Bash /dev/TCP,504,216
+2026-06-17T15:56:22.482357+00:00,48568023,29,"Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",55,12
+2026-06-17T15:56:22.482357+00:00,48558489,30,Has AI already killed self-help nonfiction books?,380,431
+2026-06-17T15:56:22.482357+00:00,48557079,31,Calvin and Hobbes and the price of integrity,515,220
+2026-06-17T15:56:22.482357+00:00,48559188,32,GPT‑NL: a sovereign language model for the Netherlands,245,279
+2026-06-17T15:56:22.482357+00:00,48563609,33,Wolfram Language and Mathematica version 15,206,107
+2026-06-17T15:56:22.482357+00:00,48558147,34,Stop Using JWTs,459,267
+2026-06-17T15:56:22.482357+00:00,48553224,35,SpaceX to buy Cursor for $60B,1092,1596
+2026-06-17T15:56:22.482357+00:00,48565326,36,Semiclassical Gravity Efficiently Solves NP-Complete Problems,63,24
+2026-06-17T15:56:22.482357+00:00,48555838,37,But yak shaving is fun (2019),287,89
+2026-06-17T15:56:22.482357+00:00,48566727,38,From Chesterton's fence to Chesterton's gap,60,43
+2026-06-17T15:56:22.482357+00:00,48566832,39,The founder's playbook: Building an AI-native startup,141,128
+2026-06-17T15:56:22.482357+00:00,48533135,40,Making 'food out of thin air' (2024),42,12
+2026-06-17T15:56:22.482357+00:00,48536660,41,"A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",105,48
+2026-06-17T15:56:22.482357+00:00,48554814,42,Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence,202,38
+2026-06-17T15:56:22.482357+00:00,48559083,43,10Gb/s Ethernet: switching to a Broadcom SFP+ module,173,152
+2026-06-17T15:56:22.482357+00:00,48570880,44,"Mastodon 4.6 – Collections, profiles, and other improvements",15,0
+2026-06-17T15:56:22.482357+00:00,48564696,45,Stop Killing Games fails to secure EU law despite 1.3M signatures,321,247
+2026-06-17T15:56:22.482357+00:00,48561410,46,"Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",95,14
+2026-06-17T15:56:22.482357+00:00,48526256,47,A Nipkow Disk Mechanical TV Simulator,57,10
+2026-06-17T15:56:22.482357+00:00,48553550,48,Mechanical Watch (2022),716,122
+2026-06-17T15:56:22.482357+00:00,48557530,49,Apple's weird anti-nausea dots cured my car sickness,835,249
+2026-06-17T15:56:22.482357+00:00,48484608,50,Lattice Triangles Are Rare,26,4
