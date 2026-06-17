@@ -2779,3 +2779,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-17T18:28:08.635858+00:00,48568023,48,"Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",78,25
 2026-06-17T18:28:08.635858+00:00,48573491,49,ChatGPT Is Down,6,1
 2026-06-17T18:28:08.635858+00:00,48565326,50,Semiclassical Gravity Efficiently Solves NP-Complete Problems,67,27
+2026-06-17T21:19:02.085020+00:00,48571081,1,Lore – Open source version control system designed for scalability,801,442
+2026-06-17T21:19:02.085020+00:00,48565498,2,"US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",226,221
+2026-06-17T21:19:02.085020+00:00,48556561,3,How we run Firecracker VMs inside EC2 and start browsers in less than 1s,131,84
+2026-06-17T21:19:02.085020+00:00,48572553,4,Launch HN: Adam (YC W25) – Open-Source AI CAD,111,56
+2026-06-17T21:19:02.085020+00:00,48567759,5,GLM-5.2 is the new leading open weights model on Artificial Analysis,703,357
+2026-06-17T21:19:02.085020+00:00,48573012,6,Show HN: An 8-bit live gamecast for baseball,157,92
+2026-06-17T21:19:02.085020+00:00,48568058,7,U.S. science is in chaos,491,558
+2026-06-17T21:19:02.085020+00:00,48568502,8,RFC 10008: The new HTTP Query Method,280,130
+2026-06-17T21:19:02.085020+00:00,48551069,9,The Return of Rigorous Full-System Timing Simulation,8,0
+2026-06-17T21:19:02.085020+00:00,48571526,10,Volkswagen started blocking GrapheneOS users,375,265
+2026-06-17T21:19:02.085020+00:00,48573435,11,The Competitive Moat That AI Can't Replicate,69,50
+2026-06-17T21:19:02.085020+00:00,48576824,12,A Robot Is Sprinting Towards You: Do You Want It Running on Claude or Grok?,5,0
+2026-06-17T21:19:02.085020+00:00,48569894,13,Why thinking out loud with someone beats thinking alone,119,54
+2026-06-17T21:19:02.085020+00:00,48569954,14,Want your images back? That'll be $5,563,237
+2026-06-17T21:19:02.085020+00:00,48523534,16,"Show HN: Inkwash, a watercolor sketching app and explanation",129,18
+2026-06-17T21:19:02.085020+00:00,48569205,17,"MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",160,53
+2026-06-17T21:19:02.085020+00:00,48575878,18,Made a free macOS menu bar app that fixes typing in the wrong keyboard layout,11,5
+2026-06-17T21:19:02.085020+00:00,48573757,19,Using AI to improve a challenging reaction in medicinal chemistry,38,15
+2026-06-17T21:19:02.085020+00:00,48567155,20,Hacker News but for independent blogs,483,164
+2026-06-17T21:19:02.085020+00:00,48571851,21,TREX: An AI code reviewer that runs your code,39,9
+2026-06-17T21:19:02.085020+00:00,48533098,22,Kirkland Roundabouts,126,103
+2026-06-17T21:19:02.085020+00:00,48522927,23,Image Compression,121,17
+2026-06-17T21:19:02.085020+00:00,48570948,24,AI demands more engineering discipline. Not less,287,137
+2026-06-17T21:19:02.085020+00:00,48566791,25,Why do commercial spaces sit vacant? (2025),88,133
+2026-06-17T21:19:02.085020+00:00,48545818,26,Show HN: StarScope – Free astronomy dashboard for observers outside the US/UK,11,2
+2026-06-17T21:19:02.085020+00:00,48566832,27,The founder's playbook: Building an AI-native startup,187,143
+2026-06-17T21:19:02.085020+00:00,48529923,28,The Capitoline Wolf,10,1
+2026-06-17T21:19:02.085020+00:00,48531590,29,Abandoned and Little-Known Airfields,140,45
+2026-06-17T21:19:02.085020+00:00,48544250,30,Seventeen Camels and Where They Can Take You,22,7
+2026-06-17T21:19:02.085020+00:00,48567877,31,Show HN: High-Res Neural Cellular Automata,172,46
+2026-06-17T21:19:02.085020+00:00,48573813,32,Bringing down my ZSH load times from ~3.1s to ~230ms,14,7
+2026-06-17T21:19:02.085020+00:00,48576440,33,Solar in California surpassed natural gas in the first five months of 2026,52,7
+2026-06-17T21:19:02.085020+00:00,48571767,34,French physicist and media star loses doctorate after plagiarism investigation,124,123
+2026-06-17T21:19:02.085020+00:00,48575725,35,I scored 200 blockchain NPM packages for deprecation and hijack risk,3,0
+2026-06-17T21:19:02.085020+00:00,48575462,36,Windows 11 25H2 – I'm so happy to not be using this,35,8
+2026-06-17T21:19:02.085020+00:00,48567004,37,GLM 5.2 Performance Benchmarks,134,42
+2026-06-17T21:19:02.085020+00:00,48540396,38,Show HN: Deconvolution – a Rust image deconvolution and restoration crate,25,4
+2026-06-17T21:19:02.085020+00:00,48571811,39,Agentic coding deserves more than a chat box bolted onto VS Code,62,25
+2026-06-17T21:19:02.085020+00:00,48513920,40,Map Clustering Is Not My Favorite,110,39
+2026-06-17T21:19:02.085020+00:00,48571482,41,Language Courses in the Public Domain,15,0
+2026-06-17T21:19:02.085020+00:00,48526174,42,Show HN: Capacitor Alarm Clock,129,38
+2026-06-17T21:19:02.085020+00:00,48575451,43,The hacker sent by Anthropic to calm the government's nerves about AI safety,65,62
+2026-06-17T21:19:02.085020+00:00,48576838,44,Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct,4,0
+2026-06-17T21:19:02.085020+00:00,48496233,45,Subterranean fungi networks more than 100 quadrillion km in length,161,41
+2026-06-17T21:19:02.085020+00:00,48555993,46,Running local models is good now,1501,575
+2026-06-17T21:19:02.085020+00:00,48463894,47,The Rise and (Potential) Fall of Letterboxd,34,15
+2026-06-17T21:19:02.085020+00:00,48561654,48,GrapheneOS has been ported to Android 17,967,549
+2026-06-17T21:19:02.085020+00:00,48566727,49,From Chesterton's fence to Chesterton's gap,70,51
+2026-06-17T21:19:02.085020+00:00,48571016,50,Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users),67,52
