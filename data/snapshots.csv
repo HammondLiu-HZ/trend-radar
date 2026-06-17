@@ -2630,3 +2630,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-17T05:01:29.920392+00:00,48552844,48,Correlated randomness in Slay the Spire 2,285,87
 2026-06-17T05:01:29.920392+00:00,48558338,49,'Ghost jobs' could soon be illegal in New York,184,112
 2026-06-17T05:01:29.920392+00:00,48550693,50,The time the x86 emulator team found code so bad they fixed it during emulation,481,159
+2026-06-17T11:11:36.047311+00:00,48567759,1,GLM-5.2 is the new leading open weights model on Artificial Analysis,112,40
+2026-06-17T11:11:36.047311+00:00,48567877,2,Show HN: High-Res Neural Cellular Automata,44,2
+2026-06-17T11:11:36.047311+00:00,48561654,3,GrapheneOS has been ported to Android 17,806,403
+2026-06-17T11:11:36.047311+00:00,48555993,4,Running local models is good now,1368,518
+2026-06-17T11:11:36.047311+00:00,48567155,5,Hacker News but for Independent Blogs,121,41
+2026-06-17T11:11:36.047311+00:00,48563394,6,Humiliating IIS servers for fun and jail time,277,65
+2026-06-17T11:11:36.047311+00:00,48568058,7,U.S. Science Is in Chaos,63,27
+2026-06-17T11:11:36.047311+00:00,48496233,8,Subterranean fungi networks more than 100 quadrillion km in length,81,18
+2026-06-17T11:11:36.047311+00:00,48558018,9,TIL: You can make HTTP requests without curl using Bash /dev/TCP,428,201
+2026-06-17T11:11:36.047311+00:00,48566832,10,The founder's playbook: Building an AI-native startup,101,92
+2026-06-17T11:11:36.047311+00:00,48557079,11,Calvin and Hobbes and the price of integrity,439,186
+2026-06-17T11:11:36.047311+00:00,48558489,12,Has AI already killed self-help nonfiction books?,320,358
+2026-06-17T11:11:36.047311+00:00,48513920,13,Map Clustering Is Not My Favorite,17,7
+2026-06-17T11:11:36.047311+00:00,48563609,14,Wolfram Language and Mathematica version 15,173,89
+2026-06-17T11:11:36.047311+00:00,48559188,15,GPT‑NL: a sovereign language model for the Netherlands,222,220
+2026-06-17T11:11:36.047311+00:00,48526174,16,Show HN: Capacitor Alarm Clock,15,2
+2026-06-17T11:11:36.047311+00:00,48558147,17,Stop Using JWTs,407,233
+2026-06-17T11:11:36.047311+00:00,48566727,18,From Chesterton's fence to Chesterton's gap,12,8
+2026-06-17T11:11:36.047311+00:00,48565326,19,Semiclassical Gravity Efficiently Solves NP-Complete Problems,36,17
+2026-06-17T11:11:36.047311+00:00,48553224,20,SpaceX to buy Cursor for $60B,1040,1536
+2026-06-17T11:11:36.047311+00:00,48564696,21,Stop Killing Games fails to secure EU law despite 1.3M signatures,269,185
+2026-06-17T11:11:36.047311+00:00,48555838,22,But yak shaving is fun (2019),270,78
+2026-06-17T11:11:36.047311+00:00,48533135,23,Making 'food out of thin air' (2024),23,5
+2026-06-17T11:11:36.047311+00:00,48484608,24,Lattice Triangles Are Rare,20,3
+2026-06-17T11:11:36.047311+00:00,48559083,25,10Gb/s Ethernet: switching to a Broadcom SFP+ module,158,141
+2026-06-17T11:11:36.047311+00:00,48527233,26,The Amphibious Villagers of Indonesia,31,8
+2026-06-17T11:11:36.047311+00:00,48536660,27,"A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",84,34
+2026-06-17T11:11:36.047311+00:00,48554814,28,Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence,183,32
+2026-06-17T11:11:36.047311+00:00,48567004,29,GLM 5.2 Performance Benchmarks,11,0
+2026-06-17T11:11:36.047311+00:00,48526256,30,A Nipkow Disk Mechanical TV Simulator,51,8
+2026-06-17T11:11:36.047311+00:00,48561410,31,"Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",87,14
+2026-06-17T11:11:36.047311+00:00,48553550,32,Mechanical Watch (2022),702,118
+2026-06-17T11:11:36.047311+00:00,48557530,33,Apple's weird anti-nausea dots cured my car sickness,778,237
+2026-06-17T11:11:36.047311+00:00,48528111,34,Chameleon Ultra: a flashdrive sized NFC toolkit,14,7
+2026-06-17T11:11:36.047311+00:00,48558045,35,Is Meta destroying its engineering organization?,591,520
+2026-06-17T11:11:36.047311+00:00,48495090,36,Working in Glass,35,5
+2026-06-17T11:11:36.047311+00:00,48527210,37,All about the IBM 1130 Computing System,37,12
+2026-06-17T11:11:36.047311+00:00,48565685,38,NetNewsWire Status,79,18
+2026-06-17T11:11:36.047311+00:00,48561402,39,"Frood, an Alpine Initramfs NAS (2024)",60,13
+2026-06-17T11:11:36.047311+00:00,48546294,40,A backdoor in a LinkedIn job offer,1565,298
+2026-06-17T11:11:36.047311+00:00,48479957,41,I hacked into the worst e-bike and fixed it [video],187,94
+2026-06-17T11:11:36.047311+00:00,48550779,42,I admire Fabrice Bellard. He is almost certainly a better overall programmer,892,436
+2026-06-17T11:11:36.047311+00:00,48519723,43,An interview with an Apple emoji designer,114,66
+2026-06-17T11:11:36.047311+00:00,48559935,44,Apple is about to make Hide My Email useless,489,297
+2026-06-17T11:11:36.047311+00:00,48523126,45,The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat,180,63
+2026-06-17T11:11:36.047311+00:00,48556163,46,SubQ 1.1 Small,122,50
+2026-06-17T11:11:36.047311+00:00,48553450,47,Unicorn – The Ultimate CPU Emulator,104,29
+2026-06-17T11:11:36.047311+00:00,48557768,48,Making ast.walk 220x Faster,109,20
+2026-06-17T11:11:36.047311+00:00,48552440,49,Making espresso with ultrasound,90,80
+2026-06-17T11:11:36.047311+00:00,48542480,50,Iroh 1.0,1363,435
