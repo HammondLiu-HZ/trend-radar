@@ -2828,3 +2828,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-17T21:19:02.085020+00:00,48561654,48,GrapheneOS has been ported to Android 17,967,549
 2026-06-17T21:19:02.085020+00:00,48566727,49,From Chesterton's fence to Chesterton's gap,70,51
 2026-06-17T21:19:02.085020+00:00,48571016,50,Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users),67,52
+2026-06-17T23:44:50.095436+00:00,48571081,1,Lore – Open source version control system designed for scalability,904,498
+2026-06-17T23:44:50.095436+00:00,48577374,2,Storied Colors – a catalogue of named colors,54,8
+2026-06-17T23:44:50.095436+00:00,48565498,3,"US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",295,322
+2026-06-17T23:44:50.095436+00:00,48577208,4,Leaked financial docs show OpenAI is losing billions of dollars a year,169,101
+2026-06-17T23:44:50.095436+00:00,48567759,5,GLM-5.2 is the new leading open weights model on Artificial Analysis,754,374
+2026-06-17T23:44:50.095436+00:00,48556561,6,How we run Firecracker VMs inside EC2 and start browsers in less than 1s,178,114
+2026-06-17T23:44:50.095436+00:00,48576395,7,Loreline – Tools for writing interactive fiction,44,4
+2026-06-17T23:44:50.095436+00:00,48572553,8,Launch HN: Adam (YC W25) – Open-Source AI CAD,141,74
+2026-06-17T23:44:50.095436+00:00,48576824,9,A robot is sprinting towards you. Do you want it running on Claude or Grok?,140,116
+2026-06-17T23:44:50.095436+00:00,48568058,10,U.S. science is in chaos,605,688
+2026-06-17T23:44:50.095436+00:00,48576838,11,Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct,105,46
+2026-06-17T23:44:50.095436+00:00,48573012,12,Show HN: An 8-bit live gamecast for baseball,185,106
+2026-06-17T23:44:50.095436+00:00,48568502,13,RFC 10008: The new HTTP Query Method,308,140
+2026-06-17T23:44:50.095436+00:00,48551069,14,The Return of Rigorous Full-System Timing Simulation,25,0
+2026-06-17T23:44:50.095436+00:00,48571526,15,Volkswagen started blocking GrapheneOS users,452,310
+2026-06-17T23:44:50.095436+00:00,48573435,16,The Competitive Moat That AI Can't Replicate,105,89
+2026-06-17T23:44:50.095436+00:00,48575878,17,Made a free macOS menu bar app that fixes typing in the wrong keyboard layout,34,15
+2026-06-17T23:44:50.095436+00:00,48569894,18,Why thinking out loud with someone beats thinking alone,149,71
+2026-06-17T23:44:50.095436+00:00,48542200,20,Gliderboy Reinvents Humble Weather Balloon with Flight Home,8,0
+2026-06-17T23:44:50.095436+00:00,48578248,21,The (real) dead economy theory,19,0
+2026-06-17T23:44:50.095436+00:00,48567155,22,Hacker News but for independent blogs,524,173
+2026-06-17T23:44:50.095436+00:00,48523534,23,"Show HN: Inkwash, a watercolor sketching app and explanation",155,20
+2026-06-17T23:44:50.095436+00:00,48569954,24,Want your images back? That'll be $5,592,242
+2026-06-17T23:44:50.095436+00:00,48533098,25,Kirkland Roundabouts,148,118
+2026-06-17T23:44:50.095436+00:00,48569205,26,"MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",173,62
+2026-06-17T23:44:50.095436+00:00,48573757,27,Using AI to improve a challenging reaction in medicinal chemistry,46,17
+2026-06-17T23:44:50.095436+00:00,48522927,28,Image Compression,149,22
+2026-06-17T23:44:50.095436+00:00,48566832,29,The founder's playbook: Building an AI-native startup,203,152
+2026-06-17T23:44:50.095436+00:00,48566791,30,Why do commercial spaces sit vacant? (2025),110,151
+2026-06-17T23:44:50.095436+00:00,48570948,31,AI demands more engineering discipline. Not less,325,159
+2026-06-17T23:44:50.095436+00:00,48544250,32,Seventeen Camels and Where They Can Take You,27,12
+2026-06-17T23:44:50.095436+00:00,48531590,33,Abandoned and Little-Known Airfields,143,48
+2026-06-17T23:44:50.095436+00:00,48571851,34,TREX: An AI code reviewer that runs your code,47,10
+2026-06-17T23:44:50.095436+00:00,48578252,35,The Free and Open Web Is Under Attack at the IETF,9,0
+2026-06-17T23:44:50.095436+00:00,48545818,36,Show HN: StarScope – Free astronomy dashboard for observers outside the US/UK,15,2
+2026-06-17T23:44:50.095436+00:00,48573813,37,Bringing down my ZSH load times from ~3.1s to ~230ms,25,10
+2026-06-17T23:44:50.095436+00:00,48530685,38,A World of First Drafts,15,2
+2026-06-17T23:44:50.095436+00:00,48567877,39,Show HN: High-Res Neural Cellular Automata,181,49
+2026-06-17T23:44:50.095436+00:00,48571482,40,Language Courses in the Public Domain,26,0
+2026-06-17T23:44:50.095436+00:00,48567004,41,GLM 5.2 Performance Benchmarks,137,43
+2026-06-17T23:44:50.095436+00:00,48578231,42,"The No Fakes Act Could Silence Satire, Commentary, and News",6,0
+2026-06-17T23:44:50.095436+00:00,48571811,43,Agentic coding deserves more than a chat box bolted onto VS Code,67,27
+2026-06-17T23:44:50.095436+00:00,48513920,44,Map Clustering Is Not My Favorite,117,39
+2026-06-17T23:44:50.095436+00:00,48526174,45,Show HN: Capacitor Alarm Clock,133,40
+2026-06-17T23:44:50.095436+00:00,48555993,46,Running local models is good now,1505,582
+2026-06-17T23:44:50.095436+00:00,48529923,47,The Capitoline Wolf,13,2
+2026-06-17T23:44:50.095436+00:00,48496233,48,Subterranean fungi networks more than 100 quadrillion km in length,163,41
+2026-06-17T23:44:50.095436+00:00,48571767,49,French physicist and media star loses doctorate after plagiarism investigation,128,128
+2026-06-17T23:44:50.095436+00:00,48561654,50,GrapheneOS has been ported to Android 17,971,560
