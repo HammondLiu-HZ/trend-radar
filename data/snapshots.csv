@@ -2975,3 +2975,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-18T09:22:01.781512+00:00,48575878,48,Made a free macOS menu bar app that fixes typing in the wrong keyboard layout,68,33
 2026-06-18T09:22:01.781512+00:00,48570948,49,AI demands more engineering discipline. Not less,379,186
 2026-06-18T09:22:01.781512+00:00,48561654,50,GrapheneOS has been ported to Android 17,988,580
+2026-06-18T13:34:20.990098+00:00,48584135,1,Emacs 31 Is Around the Corner: The Changes I'm Daily Driving,86,9
+2026-06-18T13:34:20.990098+00:00,48584891,2,Wages in America Are Too Low for the 30% Rule to Work for Renters Anymore,34,18
+2026-06-18T13:34:20.990098+00:00,48584497,3,Has W Social switched to closed source?,39,11
+2026-06-18T13:34:20.990098+00:00,48583386,4,Hospitals and universities repurposing drugs at 90% lower cost,98,36
+2026-06-18T13:34:20.990098+00:00,48579650,5,Midjourney Medical,985,684
+2026-06-18T13:34:20.990098+00:00,48583928,6,I found 10k GitHub repositories distributing Trojan malware,38,2
+2026-06-18T13:34:20.990098+00:00,48581458,7,DeepSeek Introduces Vision,252,104
+2026-06-18T13:34:20.990098+00:00,48583703,8,We built a persistent agent memory layer on Elasticsearch with 0.89 recall,31,5
+2026-06-18T13:34:20.990098+00:00,48583606,9,Advanced Compilers: The Self-Guided Online Course,30,0
+2026-06-18T13:34:20.990098+00:00,48580209,10,"Local Qwen isn't a worse Opus, it's a different tool",314,161
+2026-06-18T13:34:20.990098+00:00,48584207,11,Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly,68,38
+2026-06-18T13:34:20.990098+00:00,48571081,12,Lore – Open source version control system designed for scalability,1182,627
+2026-06-18T13:34:20.990098+00:00,48534900,13,Vinyl Cache and Varnish Cache,29,6
+2026-06-18T13:34:20.990098+00:00,48582320,14,AMD silently removes memory encryption from consumer Ryzen CPUs,246,119
+2026-06-18T13:34:20.990098+00:00,48565498,15,"US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",486,531
+2026-06-18T13:34:20.990098+00:00,48582794,16,Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?,22,17
+2026-06-18T13:34:20.990098+00:00,48583356,17,.gitignore Isn't the Only Way to Ignore Files in Git,16,0
+2026-06-18T13:34:20.990098+00:00,48581070,18,I hate compilers,113,85
+2026-06-18T13:34:20.990098+00:00,48582464,19,"I need your clothes, your boots, and your motorcycle",84,74
+2026-06-18T13:34:20.990098+00:00,48537481,20,Sogen – High-performance Windows and Linux userspace emulator,49,14
+2026-06-18T13:34:20.990098+00:00,48539971,21,Unity vs. Floating Point,5,0
+2026-06-18T13:34:20.990098+00:00,48578326,22,Clojure Hosted on Go,171,21
+2026-06-18T13:34:20.990098+00:00,48556561,23,How we run Firecracker VMs inside EC2 and start browsers in less than 1s,296,206
+2026-06-18T13:34:20.990098+00:00,48575997,24,How Madrid built its metro cheaply (2024),178,122
+2026-06-18T13:34:20.990098+00:00,48553876,25,The 2-Year Apartment Rule,58,135
+2026-06-18T13:34:20.990098+00:00,48545293,26,The Alaska Server,33,10
+2026-06-18T13:34:20.990098+00:00,48583897,27,Modos Color Monitor Pushes E-Paper Displays Further,10,1
+2026-06-18T13:34:20.990098+00:00,48577374,28,Storied Colors – A catalogue of named colors,190,46
+2026-06-18T13:34:20.990098+00:00,48578388,29,Taxonomy of the Occlupanida (parasitoids on bread bag tags),164,40
+2026-06-18T13:34:20.990098+00:00,48535821,30,Smashed Toilet Phone Web Server,29,14
+2026-06-18T13:34:20.990098+00:00,48568502,31,RFC 10008: The new HTTP Query Method,391,162
+2026-06-18T13:34:20.990098+00:00,48572553,32,Launch HN: Adam (YC W25) – Open-Source AI CAD,195,89
+2026-06-18T13:34:20.990098+00:00,48553265,33,About ASCII art and Jgs font (2023),20,3
+2026-06-18T13:34:20.990098+00:00,48576395,34,Loreline – Tools for writing interactive fiction,193,40
+2026-06-18T13:34:20.990098+00:00,48580504,35,"Nim Conf 2026 (Online, Sat June 20)",64,12
+2026-06-18T13:34:20.990098+00:00,48569894,36,Why thinking out loud with someone beats thinking alone,295,131
+2026-06-18T13:34:20.990098+00:00,48581489,37,The Australian Government to Require SMS/MMS Sender ID Registraion,126,68
+2026-06-18T13:34:20.990098+00:00,48546549,38,Show HN: We built an 8-bit CPU as 2nd year EE students,91,27
+2026-06-18T13:34:20.990098+00:00,48571526,40,Volkswagen started blocking GrapheneOS users,735,436
+2026-06-18T13:34:20.990098+00:00,48583508,41,"A Modern Proxmox Docker Architecture with Disposable VMs, VirtIO-FS, and ZFS",4,0
+2026-06-18T13:34:20.990098+00:00,48579913,42,AI Compute Extensions (ACE) Specification,48,19
+2026-06-18T13:34:20.990098+00:00,48573012,43,Show HN: An 8-bit live gamecast for baseball,238,121
+2026-06-18T13:34:20.990098+00:00,48497873,44,Biological evolution and information acquisition,55,10
+2026-06-18T13:34:20.990098+00:00,48523534,45,"Show HN: Inkwash, a watercolor sketching app and explanation",235,28
+2026-06-18T13:34:20.990098+00:00,48569205,46,"MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",244,83
+2026-06-18T13:34:20.990098+00:00,48584769,47,81920 CPU Cores per Rack with AMD EPYC Venice at HPE Discover 2026,4,2
+2026-06-18T13:34:20.990098+00:00,48568058,48,U.S. science is in chaos,839,1004
+2026-06-18T13:34:20.990098+00:00,48567759,49,GLM-5.2 is the new leading open weights model on Artificial Analysis,858,419
+2026-06-18T13:34:20.990098+00:00,48583304,50,Byobu – text-based window manager and terminal multiplexer,4,0
