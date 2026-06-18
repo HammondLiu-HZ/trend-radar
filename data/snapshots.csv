@@ -3122,3 +3122,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-18T20:35:45.943516+00:00,48580209,47,"Local Qwen isn't a worse Opus, it's a different tool",434,233
 2026-06-18T20:35:45.943516+00:00,48571081,48,Lore – Open source version control system designed for scalability,1214,656
 2026-06-18T20:35:45.943516+00:00,48575997,50,How Madrid built its metro cheaply (2024),203,162
+2026-06-18T22:59:42.690476+00:00,48578913,1,Noam Shazeer Joins OpenAI,238,207
+2026-06-18T22:59:42.690476+00:00,48583928,2,I found 10k GitHub repositories distributing Trojan malware,609,138
+2026-06-18T22:59:42.690476+00:00,48547969,3,American Express: Cell-Based Architecture for Resilient Payment Systems,49,12
+2026-06-18T22:59:42.690476+00:00,48584484,4,The Korean telecom giant at the center of Anthropic's Mythos controversy,70,41
+2026-06-18T22:59:42.690476+00:00,48585866,5,"Ubiquiti: Enterprise NAS, Built on ZFS",229,208
+2026-06-18T22:59:42.690476+00:00,48585746,6,Swiss parliament lifts ban on new nuclear power plants,637,487
+2026-06-18T22:59:42.690476+00:00,48591562,7,Everything Is BOM: Bill of Materials Encyclopedia,34,12
+2026-06-18T22:59:42.690476+00:00,48592163,8,Zero-Touch OAuth for MCP,10,3
+2026-06-18T22:59:42.690476+00:00,48588755,9,The Token Compression Illusion: Why I'm Skeptical of RTK,65,72
+2026-06-18T22:59:42.690476+00:00,48591066,10,Zork name origin got an update on Wikipedia,22,1
+2026-06-18T22:59:42.690476+00:00,48583606,11,CS 6120: Advanced Compilers: The Self-Guided Online Course (2020),272,41
+2026-06-18T22:59:42.690476+00:00,48583386,12,Hospitals and universities repurposing drugs at lower cost,271,114
+2026-06-18T22:59:42.690476+00:00,48588413,13,Migrating from GNU Stow to Chezmoi,85,91
+2026-06-18T22:59:42.690476+00:00,48591348,14,Show HN: Are You in the Weights?,109,82
+2026-06-18T22:59:42.690476+00:00,48586299,15,Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps,90,40
+2026-06-18T22:59:42.690476+00:00,48584497,16,"W Social, public institutions and the theater of European digital sovereignty",165,114
+2026-06-18T22:59:42.690476+00:00,48573268,17,Agentic Resource Discovery Specification,40,10
+2026-06-18T22:59:42.690476+00:00,48583356,18,.gitignore Isn't the only way to ignore files in Git,262,82
+2026-06-18T22:59:42.690476+00:00,48583897,19,Modos Color Monitor Pushes E-Paper Displays Further,209,58
+2026-06-18T22:59:42.690476+00:00,48588216,20,The founder of Craigslist has given away half a billion dollars,280,198
+2026-06-18T22:59:42.690476+00:00,48582679,21,Ask HN: Is anyone using the A2A protocol?,58,29
+2026-06-18T22:59:42.690476+00:00,48543872,22,Dutch Railways offers unlimited off-peak train travel nationwide for €49/month,165,72
+2026-06-18T22:59:42.690476+00:00,48585739,23,Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts,116,56
+2026-06-18T22:59:42.690476+00:00,48589501,24,I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M,147,50
+2026-06-18T22:59:42.690476+00:00,48584709,25,How Alberta Eradicated Rats,119,89
+2026-06-18T22:59:42.690476+00:00,48584135,26,Emacs 31 is around the corner: The changes I'm daily driving,401,217
+2026-06-18T22:59:42.690476+00:00,48544429,27,"If your product is Great, it doesn't need to be Good (2010)",9,3
+2026-06-18T22:59:42.690476+00:00,48586631,28,A website that lists websites to submit your website to,376,85
+2026-06-18T22:59:42.690476+00:00,48584207,29,Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly,568,378
+2026-06-18T22:59:42.690476+00:00,48542784,30,"Emacs, how it all started for me",134,52
+2026-06-18T22:59:42.690476+00:00,48552767,31,Notes from tired Egyptian whose job is explaining that humans built the pyramids,161,119
+2026-06-18T22:59:42.690476+00:00,48579650,32,Midjourney Medical,1270,839
+2026-06-18T22:59:42.690476+00:00,48586648,33,TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants,98,87
+2026-06-18T22:59:42.690476+00:00,48582464,34,"I need your clothes, your boots, and your motorcycle",125,117
+2026-06-18T22:59:42.690476+00:00,48583703,35,We built a persistent agent memory layer on Elasticsearch with 0.89 recall,93,35
+2026-06-18T22:59:42.690476+00:00,48581070,36,I hate compilers,149,151
+2026-06-18T22:59:42.690476+00:00,48582794,37,Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?,77,46
+2026-06-18T22:59:42.690476+00:00,48586231,38,What was nice about the UI of Windows 2000,184,164
+2026-06-18T22:59:42.690476+00:00,48534900,39,Vinyl Cache and Varnish Cache,76,37
+2026-06-18T22:59:42.690476+00:00,48586005,40,Migrate from OpenClaw,110,90
+2026-06-18T22:59:42.690476+00:00,48588304,41,Wiki Spy,16,0
+2026-06-18T22:59:42.690476+00:00,48581458,42,DeepSeek Introduces Vision,445,180
+2026-06-18T22:59:42.690476+00:00,48539971,43,Unity vs. Floating Point,44,33
+2026-06-18T22:59:42.690476+00:00,48580209,44,"Local Qwen isn't a worse Opus, it's a different tool",445,239
+2026-06-18T22:59:42.690476+00:00,48571081,45,Lore – Open source version control system designed for scalability,1219,662
+2026-06-18T22:59:42.690476+00:00,48582320,46,AMD silently removes memory encryption from consumer Ryzen CPUs,410,194
+2026-06-18T22:59:42.690476+00:00,48534104,47,Image Toolbox (T8RIN),37,4
+2026-06-18T22:59:42.690476+00:00,48587527,48,The Harajuku Moment (2024),67,49
+2026-06-18T22:59:42.690476+00:00,48575997,49,How Madrid built its metro cheaply (2024),208,167
+2026-06-18T22:59:42.690476+00:00,48587808,50,Ask HN: What tools are you using for AI-assisted code review?,12,5
