@@ -3073,3 +3073,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-18T17:19:34.774542+00:00,48553265,48,About ASCII art and Jgs font (2023),25,3
 2026-06-18T17:19:34.774542+00:00,48571526,49,Volkswagen started blocking GrapheneOS users,751,443
 2026-06-18T17:19:34.774542+00:00,48545293,50,The Alaska Server,43,15
+2026-06-18T20:35:45.943516+00:00,48543872,1,Dutch Railways offers unlimited off-peak train travel nationwide for €49/month,43,10
+2026-06-18T20:35:45.943516+00:00,48583928,2,I found 10k GitHub repositories distributing Trojan malware,493,125
+2026-06-18T20:35:45.943516+00:00,48585746,3,Swiss parliament lifts ban on new nuclear power plants,539,356
+2026-06-18T20:35:45.943516+00:00,48585866,4,"Ubiquiti: Enterprise NAS, Built on ZFS",179,165
+2026-06-18T20:35:45.943516+00:00,48578913,5,Noam Shazeer Joins OpenAI,127,74
+2026-06-18T20:35:45.943516+00:00,48588413,6,Migrating from GNU Stow to Chezmoi,58,62
+2026-06-18T20:35:45.943516+00:00,48583386,7,Hospitals and universities repurposing drugs at lower cost,250,107
+2026-06-18T20:35:45.943516+00:00,48586299,8,Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps,76,34
+2026-06-18T20:35:45.943516+00:00,48583606,9,CS 6120: Advanced Compilers: The Self-Guided Online Course (2020),233,38
+2026-06-18T20:35:45.943516+00:00,48588216,10,The founder of Craigslist has given away half a billion dollars,216,134
+2026-06-18T20:35:45.943516+00:00,48584497,11,"W Social, public institutions and the theater of European digital sovereignty",142,92
+2026-06-18T20:35:45.943516+00:00,48584484,12,The Korean telecom giant at the center of Anthropic's Mythos controversy,19,7
+2026-06-18T20:35:45.943516+00:00,48573268,13,Agentic Resource Discovery Specification,20,6
+2026-06-18T20:35:45.943516+00:00,48588755,14,The Token Compression Illusion: Why I'm Skeptical of RTK,38,48
+2026-06-18T20:35:45.943516+00:00,48583897,15,Modos Color Monitor Pushes E-Paper Displays Further,178,46
+2026-06-18T20:35:45.943516+00:00,48585739,16,Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts,91,41
+2026-06-18T20:35:45.943516+00:00,48542784,17,"Emacs, how it all started for me",94,35
+2026-06-18T20:35:45.943516+00:00,48582679,18,Ask HN: Is anyone using the A2A protocol?,25,8
+2026-06-18T20:35:45.943516+00:00,48586631,19,A website that lists websites to submit your website to,344,79
+2026-06-18T20:35:45.943516+00:00,48581458,20,DeepSeek Introduces Vision,425,172
+2026-06-18T20:35:45.943516+00:00,48584135,21,Emacs 31 is around the corner: The changes I'm daily driving,352,200
+2026-06-18T20:35:45.943516+00:00,48583356,22,.gitignore Isn't the only way to ignore files in Git,200,64
+2026-06-18T20:35:45.943516+00:00,48590280,23,Integer Quantization: Deep Dive,8,1
+2026-06-18T20:35:45.943516+00:00,48584709,24,How Alberta Eradicated Rats,92,81
+2026-06-18T20:35:45.943516+00:00,48584207,25,Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly,476,335
+2026-06-18T20:35:45.943516+00:00,48542963,26,My LSM tree was slower than a B-tree. Then I profiled it,15,28
+2026-06-18T20:35:45.943516+00:00,48552767,27,Notes from tired Egyptian whose job is explaining that humans built the pyramids,100,76
+2026-06-18T20:35:45.943516+00:00,48586648,28,TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants,82,78
+2026-06-18T20:35:45.943516+00:00,48579650,29,Midjourney Medical,1248,837
+2026-06-18T20:35:45.943516+00:00,48587527,30,The Harajuku Moment (2024),65,45
+2026-06-18T20:35:45.943516+00:00,48583703,31,We built a persistent agent memory layer on Elasticsearch with 0.89 recall,89,35
+2026-06-18T20:35:45.943516+00:00,48582464,32,"I need your clothes, your boots, and your motorcycle",114,111
+2026-06-18T20:35:45.943516+00:00,48590849,33,McMansions 101: What Makes a McMansion Bad Architecture?,6,0
+2026-06-18T20:35:45.943516+00:00,48586005,34,Migrate from OpenClaw,106,81
+2026-06-18T20:35:45.943516+00:00,48586231,35,What was nice about the UI of Windows 2000,164,149
+2026-06-18T20:35:45.943516+00:00,48534900,36,Vinyl Cache and Varnish Cache,76,36
+2026-06-18T20:35:45.943516+00:00,48581070,37,I hate compilers,148,148
+2026-06-18T20:35:45.943516+00:00,48582794,38,Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?,73,45
+2026-06-18T20:35:45.943516+00:00,48539971,39,Unity vs. Floating Point,42,27
+2026-06-18T20:35:45.943516+00:00,48590533,40,Why Meta Suddenly Loves the Kids Online Safety Act,9,0
+2026-06-18T20:35:45.943516+00:00,48581792,41,Show HN: Run Agent Skills with mistral.rs v0.8.10: /v1/skills support and more,9,0
+2026-06-18T20:35:45.943516+00:00,48588722,42,The feedback loops behind Kubernetes,7,1
+2026-06-18T20:35:45.943516+00:00,48590891,43,Amazon investigating engineers who criticized AI data center expansion,6,0
+2026-06-18T20:35:45.943516+00:00,48534104,44,Image Toolbox (T8RIN),30,4
+2026-06-18T20:35:45.943516+00:00,48582320,45,AMD silently removes memory encryption from consumer Ryzen CPUs,399,189
+2026-06-18T20:35:45.943516+00:00,48590109,46,"AI Regulation Should Be Rational, Not Retaliatory",10,0
+2026-06-18T20:35:45.943516+00:00,48580209,47,"Local Qwen isn't a worse Opus, it's a different tool",434,233
+2026-06-18T20:35:45.943516+00:00,48571081,48,Lore – Open source version control system designed for scalability,1214,656
+2026-06-18T20:35:45.943516+00:00,48575997,50,How Madrid built its metro cheaply (2024),203,162
