@@ -3172,3 +3172,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-18T22:59:42.690476+00:00,48587527,48,The Harajuku Moment (2024),67,49
 2026-06-18T22:59:42.690476+00:00,48575997,49,How Madrid built its metro cheaply (2024),208,167
 2026-06-18T22:59:42.690476+00:00,48587808,50,Ask HN: What tools are you using for AI-assisted code review?,12,5
+2026-06-19T01:50:53.112766+00:00,48592163,1,Zero-Touch OAuth for MCP,89,34
+2026-06-19T01:50:53.112766+00:00,48570730,2,How Japan's railways stayed one while splitting apart,22,4
+2026-06-19T01:50:53.112766+00:00,48583928,3,I found 10k GitHub repositories distributing Trojan malware,663,150
+2026-06-19T01:50:53.112766+00:00,48547969,4,Cell-based architecture for resilient payment systems,86,30
+2026-06-19T01:50:53.112766+00:00,48585866,5,"Ubiquiti: Enterprise NAS, Built on ZFS",257,237
+2026-06-19T01:50:53.112766+00:00,48591066,6,Zork name origin got an update on Wikipedia,50,7
+2026-06-19T01:50:53.112766+00:00,48583606,7,CS 6120: Advanced Compilers: The Self-Guided Online Course (2020),302,44
+2026-06-19T01:50:53.112766+00:00,48583386,9,Hospitals and universities repurposing drugs at lower cost,282,119
+2026-06-19T01:50:53.112766+00:00,48589501,10,I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M,233,92
+2026-06-19T01:50:53.112766+00:00,48585746,11,Swiss parliament lifts ban on new nuclear power plants,690,564
+2026-06-19T01:50:53.112766+00:00,48593731,12,Datasette Apps: Host custom HTML applications inside Datasette,11,2
+2026-06-19T01:50:53.112766+00:00,48564763,13,NOLA 'Nacular: One man's crusade to preserve New Orleans's vernacular signage,6,1
+2026-06-19T01:50:53.112766+00:00,48586299,14,Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps,100,45
+2026-06-19T01:50:53.112766+00:00,48588755,15,The Token Compression Illusion: Why I'm Skeptical of RTK,77,88
+2026-06-19T01:50:53.112766+00:00,48591348,16,Show HN: Are You in the Weights?,181,117
+2026-06-19T01:50:53.112766+00:00,48593093,17,Update on Ocean Observatories Initiative,95,18
+2026-06-19T01:50:53.112766+00:00,48583356,18,.gitignore Isn't the only way to ignore files in Git,284,96
+2026-06-19T01:50:53.112766+00:00,48578913,19,Noam Shazeer Joins OpenAI,281,274
+2026-06-19T01:50:53.112766+00:00,48584497,20,"W Social, public institutions and the theater of European digital sovereignty",177,118
+2026-06-19T01:50:53.112766+00:00,48544429,21,"If your product is Great, it doesn't need to be Good (2010)",27,24
+2026-06-19T01:50:53.112766+00:00,48583897,22,Modos Color Monitor Pushes E-Paper Displays Further,227,66
+2026-06-19T01:50:53.112766+00:00,48573268,23,Agentic Resource Discovery Specification,50,14
+2026-06-19T01:50:53.112766+00:00,48588413,24,Migrating from GNU Stow to Chezmoi,100,102
+2026-06-19T01:50:53.112766+00:00,48585739,25,Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts,134,63
+2026-06-19T01:50:53.112766+00:00,48584709,26,How Alberta Eradicated Rats,132,99
+2026-06-19T01:50:53.112766+00:00,48584484,27,The Korean telecom giant at the center of Anthropic's Mythos controversy,100,81
+2026-06-19T01:50:53.112766+00:00,48592576,28,How Smashing The NIMBYs Created Modern Capitalism,8,0
+2026-06-19T01:50:53.112766+00:00,48588216,29,The founder of Craigslist has given away half a billion dollars,320,247
+2026-06-19T01:50:53.112766+00:00,48523800,30,Automating my job away,7,1
+2026-06-19T01:50:53.112766+00:00,48584135,31,Emacs 31 is around the corner: The changes I'm daily driving,413,231
+2026-06-19T01:50:53.112766+00:00,48584207,32,Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly,609,404
+2026-06-19T01:50:53.112766+00:00,48543872,33,Dutch Railways offers unlimited off-peak train travel nationwide for €49/month,201,85
+2026-06-19T01:50:53.112766+00:00,48586631,34,A website that lists websites to submit your website to,393,86
+2026-06-19T01:50:53.112766+00:00,48579650,35,Midjourney Medical,1278,844
+2026-06-19T01:50:53.112766+00:00,48582679,36,Ask HN: Is anyone using the A2A protocol?,67,34
+2026-06-19T01:50:53.112766+00:00,48582464,37,"I need your clothes, your boots, and your motorcycle",129,122
+2026-06-19T01:50:53.112766+00:00,48583703,38,We built a persistent agent memory layer on Elasticsearch with 0.89 recall,96,35
+2026-06-19T01:50:53.112766+00:00,48542784,39,"Emacs, how it all started for me",137,64
+2026-06-19T01:50:53.112766+00:00,48593416,40,The Job Market Is Thawing,12,1
+2026-06-19T01:50:53.112766+00:00,48552767,41,Notes from tired Egyptian whose job is explaining that humans built the pyramids,171,132
+2026-06-19T01:50:53.112766+00:00,48586648,42,TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants,100,88
+2026-06-19T01:50:53.112766+00:00,48545935,43,Flip TABLE: storing arbitrary data in iNaturalist,12,0
+2026-06-19T01:50:53.112766+00:00,48581070,44,I hate compilers,149,153
+2026-06-19T01:50:53.112766+00:00,48592832,45,The AirPods Effect,65,95
+2026-06-19T01:50:53.112766+00:00,48588304,46,Wiki Spy,28,3
+2026-06-19T01:50:53.112766+00:00,48592185,47,Setting Up a New Windows Laptop in 2026,6,2
+2026-06-19T01:50:53.112766+00:00,48582794,48,Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?,79,50
+2026-06-19T01:50:53.112766+00:00,48534900,49,Vinyl Cache and Varnish Cache,77,38
+2026-06-19T01:50:53.112766+00:00,48581458,50,DeepSeek Introduces Vision,449,181
