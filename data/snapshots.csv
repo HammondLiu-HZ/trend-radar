@@ -3221,3 +3221,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-19T01:50:53.112766+00:00,48582794,48,Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?,79,50
 2026-06-19T01:50:53.112766+00:00,48534900,49,Vinyl Cache and Varnish Cache,77,38
 2026-06-19T01:50:53.112766+00:00,48581458,50,DeepSeek Introduces Vision,449,181
+2026-06-19T07:20:55.909308+00:00,48594592,1,Ice water drowning survival of young patient (2025),111,63
+2026-06-19T07:20:55.909308+00:00,48553388,2,DuckDB Internals: Why Is DuckDB Fast? (Part 1),93,42
+2026-06-19T07:20:55.909308+00:00,48543311,3,"To study how chips work, MIT researchers built their own operating system",145,15
+2026-06-19T07:20:55.909308+00:00,48595331,4,So You Want to Define a Well-Known URI,18,0
+2026-06-19T07:20:55.909308+00:00,48541062,5,Gribouille 0.3.0: A Grammar of Graphics for Typst,49,11
+2026-06-19T07:20:55.909308+00:00,48549118,6,Zen and the Art of Machine Learning Research,23,2
+2026-06-19T07:20:55.909308+00:00,48583928,7,I found 10k GitHub repositories distributing Trojan malware,764,192
+2026-06-19T07:20:55.909308+00:00,48592163,8,Zero-Touch OAuth for MCP,178,65
+2026-06-19T07:20:55.909308+00:00,48594933,9,DARPA Heavy Life Challenge,12,7
+2026-06-19T07:20:55.909308+00:00,48595144,10,Generative AI Is Having Its Herbalife Moment,9,0
+2026-06-19T07:20:55.909308+00:00,48593731,11,Datasette Apps: Host custom HTML applications inside Datasette,68,22
+2026-06-19T07:20:55.909308+00:00,48586329,12,Building a robotics research setup that lives next to my desk,64,24
+2026-06-19T07:20:55.909308+00:00,48585866,13,"Ubiquiti: Enterprise NAS, Built on ZFS",319,272
+2026-06-19T07:20:55.909308+00:00,48594715,14,Many Let's Encrypt renewals had errors today,126,76
+2026-06-19T07:20:55.909308+00:00,48583606,15,CS 6120: Advanced Compilers: The Self-Guided Online Course (2020),354,51
+2026-06-19T07:20:55.909308+00:00,48595316,16,The ISA Doesn't Matter Where It Counts,3,1
+2026-06-19T07:20:55.909308+00:00,48547969,17,Cell-based architecture for resilient payment systems,117,46
+2026-06-19T07:20:55.909308+00:00,48570730,18,How Japan's railways stayed one while splitting apart,81,64
+2026-06-19T07:20:55.909308+00:00,48584761,20,Show HN: Talos – Open-source WASM interpreter for Lean,41,5
+2026-06-19T07:20:55.909308+00:00,48583356,21,.gitignore Isn't the only way to ignore files in Git,381,122
+2026-06-19T07:20:55.909308+00:00,48583386,22,Hospitals and universities repurposing drugs at lower cost,302,132
+2026-06-19T07:20:55.909308+00:00,48589501,23,I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M,337,177
+2026-06-19T07:20:55.909308+00:00,48536167,24,"Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",47,1
+2026-06-19T07:20:55.909308+00:00,48591348,25,Show HN: Are You in the Weights?,314,167
+2026-06-19T07:20:55.909308+00:00,48544429,26,"If your product is Great, it doesn't need to be Good (2010)",64,39
+2026-06-19T07:20:55.909308+00:00,48584497,27,"W Social, public institutions and the theater of European digital sovereignty",200,133
+2026-06-19T07:20:55.909308+00:00,48586299,28,Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps,116,49
+2026-06-19T07:20:55.909308+00:00,48591066,29,Zork name origin got an update on Wikipedia,78,12
+2026-06-19T07:20:55.909308+00:00,48583897,30,Modos Color Monitor Pushes E-Paper Displays Further,267,67
+2026-06-19T07:20:55.909308+00:00,48578913,31,Noam Shazeer Joins OpenAI,325,316
+2026-06-19T07:20:55.909308+00:00,48584709,32,How Alberta Eradicated Rats,167,117
+2026-06-19T07:20:55.909308+00:00,48585739,33,Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts,166,69
+2026-06-19T07:20:55.909308+00:00,48573268,34,Agentic Resource Discovery Specification,67,15
+2026-06-19T07:20:55.909308+00:00,48588755,35,The Token Compression Illusion: Why I'm Skeptical of RTK,97,101
+2026-06-19T07:20:55.909308+00:00,48585746,36,Swiss parliament lifts ban on new nuclear power plants,747,679
+2026-06-19T07:20:55.909308+00:00,48588413,37,Migrating from GNU Stow to Chezmoi,121,114
+2026-06-19T07:20:55.909308+00:00,48579650,38,Midjourney Medical,1298,848
+2026-06-19T07:20:55.909308+00:00,48584135,39,Emacs 31 is around the corner: The changes I'm daily driving,437,249
+2026-06-19T07:20:55.909308+00:00,48594733,40,Fable Converted Pylint to Rust,5,1
+2026-06-19T07:20:55.909308+00:00,48584207,41,Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly,653,435
+2026-06-19T07:20:55.909308+00:00,48588216,42,The founder of Craigslist has given away half a billion dollars,356,274
+2026-06-19T07:20:55.909308+00:00,48584484,43,The Korean telecom giant at the center of Anthropic's Mythos controversy,109,87
+2026-06-19T07:20:55.909308+00:00,48586631,44,A website that lists websites to submit your website to,409,90
+2026-06-19T07:20:55.909308+00:00,48582679,45,Ask HN: Is anyone using the A2A protocol?,75,39
+2026-06-19T07:20:55.909308+00:00,48582464,46,"I need your clothes, your boots, and your motorcycle",135,129
+2026-06-19T07:20:55.909308+00:00,48583703,47,We built a persistent agent memory layer on Elasticsearch with 0.89 recall,104,37
+2026-06-19T07:20:55.909308+00:00,48594893,48,Amazon employees say they're facing termination for backing data center limits,16,4
+2026-06-19T07:20:55.909308+00:00,48581070,49,I hate compilers,155,155
+2026-06-19T07:20:55.909308+00:00,48593093,50,Update on Ocean Observatories Initiative,125,23
