@@ -3319,3 +3319,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-19T12:15:13.396568+00:00,48594933,48,DARPA Heavy Life Challenge,25,27
 2026-06-19T12:15:13.396568+00:00,48582464,49,"I need your clothes, your boots, and your motorcycle",138,129
 2026-06-19T12:15:13.396568+00:00,48581070,50,I hate compilers,160,159
+2026-06-19T16:11:18.905666+00:00,48595511,1,"Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",383,223
+2026-06-19T16:11:18.905666+00:00,48548695,2,The Productivity J-Curve [pdf] (2018),20,5
+2026-06-19T16:11:18.905666+00:00,48553388,3,DuckDB Internals: Why Is DuckDB Fast? (Part 1),329,91
+2026-06-19T16:11:18.905666+00:00,48549118,4,Zen and the Art of Machine Learning Research,164,49
+2026-06-19T16:11:18.905666+00:00,48546890,5,Ten years of ClickHouse in open source,174,54
+2026-06-19T16:11:18.905666+00:00,48543311,6,"To study how chips work, MIT researchers built their own operating system",287,43
+2026-06-19T16:11:18.905666+00:00,48583928,7,I found 10k GitHub repositories distributing Trojan malware,888,234
+2026-06-19T16:11:18.905666+00:00,48541062,8,Gribouille 0.3.0: A Grammar of Graphics for Typst,156,55
+2026-06-19T16:11:18.905666+00:00,48592832,9,The AirPods Effect,255,455
+2026-06-19T16:11:18.905666+00:00,48543968,10,Show HN: Modeloop – From visual algorithms to microcontroller C code,17,21
+2026-06-19T16:11:18.905666+00:00,48592163,11,Zero-Touch OAuth for MCP,226,87
+2026-06-19T16:11:18.905666+00:00,48595331,12,So You Want to Define a Well-Known URI,124,71
+2026-06-19T16:11:18.905666+00:00,48540779,13,Akse3D – open-source 3D modelling anyone can master,85,22
+2026-06-19T16:11:18.905666+00:00,48563083,14,Reinventing the Renaissance,9,1
+2026-06-19T16:11:18.905666+00:00,48570730,15,How Japan's railways stayed one while splitting apart,138,114
+2026-06-19T16:11:18.905666+00:00,48585866,16,"Ubiquiti: Enterprise NAS, Built on ZFS",381,317
+2026-06-19T16:11:18.905666+00:00,48583606,17,CS 6120: Advanced Compilers: The Self-Guided Online Course (2020),405,57
+2026-06-19T16:11:18.905666+00:00,48583356,18,.gitignore Isn't the only way to ignore files in Git,484,150
+2026-06-19T16:11:18.905666+00:00,48547658,19,SMTP Relay with Web Dashboard,36,4
+2026-06-19T16:11:18.905666+00:00,48546093,20,"""No Feigning Surprise""",60,40
+2026-06-19T16:11:18.905666+00:00,48596910,21,Norway greenlights first full-scale ship tunnel,96,52
+2026-06-19T16:11:18.905666+00:00,48593731,22,Datasette Apps: Host custom HTML applications inside Datasette,118,44
+2026-06-19T16:11:18.905666+00:00,48583386,23,Hospitals and universities repurposing drugs at lower cost,322,151
+2026-06-19T16:11:18.905666+00:00,48544429,24,"If your product is Great, it doesn't need to be Good (2010)",124,89
+2026-06-19T16:11:18.905666+00:00,48584497,25,"W Social, public institutions and the theater of European digital sovereignty",243,150
+2026-06-19T16:11:18.905666+00:00,48583897,27,Modos Color Monitor Pushes E-Paper Displays Further,319,73
+2026-06-19T16:11:18.905666+00:00,48547969,28,Cell-based architecture for resilient payment systems,139,56
+2026-06-19T16:11:18.905666+00:00,48584761,29,Show HN: Talos – Open-source WASM interpreter for Lean,72,18
+2026-06-19T16:11:18.905666+00:00,48584484,30,The Korean telecom giant at the center of Anthropic's Mythos controversy,123,120
+2026-06-19T16:11:18.905666+00:00,48584709,31,How Alberta Eradicated Rats,182,127
+2026-06-19T16:11:18.905666+00:00,48585739,32,Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts,188,76
+2026-06-19T16:11:18.905666+00:00,48591348,33,Show HN: Are You in the Weights?,416,230
+2026-06-19T16:11:18.905666+00:00,48586299,34,Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps,123,62
+2026-06-19T16:11:18.905666+00:00,48586329,35,Building a robotics research setup that lives next to my desk,105,34
+2026-06-19T16:11:18.905666+00:00,48594592,36,Ice water drowning survival of young patient (2025),186,122
+2026-06-19T16:11:18.905666+00:00,48596911,37,The room the economy can't see,190,195
+2026-06-19T16:11:18.905666+00:00,48579650,38,Midjourney Medical,1323,856
+2026-06-19T16:11:18.905666+00:00,48578913,39,Noam Shazeer Joins OpenAI,344,340
+2026-06-19T16:11:18.905666+00:00,48591066,40,Zork name origin got an update on Wikipedia,85,16
+2026-06-19T16:11:18.905666+00:00,48597431,41,US court rules Ohio can restrict children's use of social media,20,13
+2026-06-19T16:11:18.905666+00:00,48588755,42,The Token Compression Illusion: Why I'm Skeptical of RTK,106,110
+2026-06-19T16:11:18.905666+00:00,48573268,43,Agentic Resource Discovery Specification,70,18
+2026-06-19T16:11:18.905666+00:00,48589501,44,I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M,433,276
+2026-06-19T16:11:18.905666+00:00,48584207,45,Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly,696,490
+2026-06-19T16:11:18.905666+00:00,48588413,46,Migrating from GNU Stow to Chezmoi,132,122
+2026-06-19T16:11:18.905666+00:00,48584135,47,Emacs 31 is around the corner: The changes I'm daily driving,452,264
+2026-06-19T16:11:18.905666+00:00,48596622,48,EU to soon classify AWS and Azure as gatekeepers under DSA,37,15
+2026-06-19T16:11:18.905666+00:00,48598086,49,"Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs",11,2
+2026-06-19T16:11:18.905666+00:00,48599196,50,"The Future of the Con Is Here, It's Just Not Evenly Distributed",5,0
