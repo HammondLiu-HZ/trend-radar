@@ -3417,3 +3417,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-19T19:01:44.900014+00:00,48579650,48,Midjourney Medical,1325,859
 2026-06-19T19:01:44.900014+00:00,48601162,49,John Jumper leaves Google to join Anthropic,10,5
 2026-06-19T19:01:44.900014+00:00,48586329,50,Building a robotics research setup that lives next to my desk,105,36
+2026-06-19T21:15:05.285720+00:00,48600312,1,Hyundai buys Boston Dynamics,460,229
+2026-06-19T21:15:05.285720+00:00,48599515,2,There are no instances in ATProto,236,146
+2026-06-19T21:15:05.285720+00:00,48514843,3,I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾,99,65
+2026-06-19T21:15:05.285720+00:00,48595511,4,"Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",509,301
+2026-06-19T21:15:05.285720+00:00,48598586,5,How many of the 170k English words do you know?,127,228
+2026-06-19T21:15:05.285720+00:00,48541777,6,A 1976 university experiment spun up the U.S. wind industry,46,3
+2026-06-19T21:15:05.285720+00:00,48600950,7,A new bill takes aim at government pressure to silence lawful online speech,162,89
+2026-06-19T21:15:05.285720+00:00,48600345,8,Google workspace threatening to block Firefox access,293,103
+2026-06-19T21:15:05.285720+00:00,48553388,9,DuckDB Internals Part 1,401,127
+2026-06-19T21:15:05.285720+00:00,48601162,10,John Jumper to join Anthropic,42,29
+2026-06-19T21:15:05.285720+00:00,48600107,11,Amateur may have cracked Linear A,343,135
+2026-06-19T21:15:05.285720+00:00,48553161,12,Telescope Ranchers,70,28
+2026-06-19T21:15:05.285720+00:00,48601420,13,Big Banana Car,86,47
+2026-06-19T21:15:05.285720+00:00,48602639,14,Amazon drops Sam Altman movie after announcing OpenAI partnership,94,26
+2026-06-19T21:15:05.285720+00:00,48600093,15,Norway imposes near ban on AI in elementary school,4,1
+2026-06-19T21:15:05.285720+00:00,48556082,16,Show HN: Metiq: a real time 3D globe for 100 public datasets,54,11
+2026-06-19T21:15:05.285720+00:00,48549118,17,Zen and the Art of Machine Learning Research,221,72
+2026-06-19T21:15:05.285720+00:00,48602571,18,Companies rein in AI usage as costs strain budgets,34,12
+2026-06-19T21:15:05.285720+00:00,48600946,19,Court Records Should Be Free,81,15
+2026-06-19T21:15:05.285720+00:00,48546890,20,Ten years of ClickHouse in open source,253,70
+2026-06-19T21:15:05.285720+00:00,48543311,21,"To study how chips work, MIT researchers built their own operating system",334,52
+2026-06-19T21:15:05.285720+00:00,48583928,22,I found 10k GitHub repositories distributing Trojan malware,924,240
+2026-06-19T21:15:05.285720+00:00,48541062,23,Gribouille 0.3.0: A Grammar of Graphics for Typst,197,73
+2026-06-19T21:15:05.285720+00:00,48592832,24,The AirPods Effect,351,624
+2026-06-19T21:15:05.285720+00:00,48543968,25,Show HN: Modeloop – From visual algorithms to microcontroller C code,36,22
+2026-06-19T21:15:05.285720+00:00,48543065,26,Show HN: Continuous Nvidia CUDA PC Sampling Profiler,7,3
+2026-06-19T21:15:05.285720+00:00,48548695,27,The Productivity J-Curve [pdf] (2018),45,13
+2026-06-19T21:15:05.285720+00:00,48590505,28,Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages,17,3
+2026-06-19T21:15:05.285720+00:00,48574082,29,Ask HN: How do you separate intentional test boilerplate from real duplication?,4,1
+2026-06-19T21:15:05.285720+00:00,48592163,30,Zero-Touch OAuth for MCP,257,99
+2026-06-19T21:15:05.285720+00:00,48570730,31,How Japan's railways stayed one while splitting apart,175,130
+2026-06-19T21:15:05.285720+00:00,48583356,32,.gitignore Isn't the only way to ignore files in Git,557,167
+2026-06-19T21:15:05.285720+00:00,48540779,33,Akse3D – open-source 3D modelling anyone can master,128,39
+2026-06-19T21:15:05.285720+00:00,48583606,34,CS 6120: Advanced Compilers: The Self-Guided Online Course (2020),426,59
+2026-06-19T21:15:05.285720+00:00,48585866,36,"Ubiquiti: Enterprise NAS, Built on ZFS",397,339
+2026-06-19T21:15:05.285720+00:00,48563083,37,Reinventing the Renaissance,33,8
+2026-06-19T21:15:05.285720+00:00,48583386,38,Hospitals and universities repurposing drugs at lower cost,335,163
+2026-06-19T21:15:05.285720+00:00,48602659,39,Stem cells banish autoimmune disease for 15 years,6,0
+2026-06-19T21:15:05.285720+00:00,48584497,40,"W Social, public institutions and the theater of European digital sovereignty",256,160
+2026-06-19T21:15:05.285720+00:00,48544429,41,"If your product is Great, it doesn't need to be Good (2010)",149,104
+2026-06-19T21:15:05.285720+00:00,48583897,42,Modos Color Monitor Pushes E-Paper Displays Further,332,79
+2026-06-19T21:15:05.285720+00:00,48593731,43,Datasette Apps: Host custom HTML applications inside Datasette,135,59
+2026-06-19T21:15:05.285720+00:00,48601286,44,Is AI ruining our skills? Early results are in – and they're not good,177,224
+2026-06-19T21:15:05.285720+00:00,48584761,45,Show HN: Talos – Open-source WASM interpreter for Lean,89,22
+2026-06-19T21:15:05.285720+00:00,48547969,46,Cell-based architecture for resilient payment systems,145,58
+2026-06-19T21:15:05.285720+00:00,48584484,47,The Korean telecom giant at the center of Anthropic's Mythos controversy,131,131
+2026-06-19T21:15:05.285720+00:00,48584709,48,How Alberta Eradicated Rats,188,132
+2026-06-19T21:15:05.285720+00:00,48602700,49,"One AI, two AI, red AI, blue AI",3,0
+2026-06-19T21:15:05.285720+00:00,48602691,50,Liberalism in the Age of Weaponized Interdependence,4,0
