@@ -3270,3 +3270,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-19T07:20:55.909308+00:00,48594893,48,Amazon employees say they're facing termination for backing data center limits,16,4
 2026-06-19T07:20:55.909308+00:00,48581070,49,I hate compilers,155,155
 2026-06-19T07:20:55.909308+00:00,48593093,50,Update on Ocean Observatories Initiative,125,23
+2026-06-19T12:15:13.396568+00:00,48595511,1,"Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",221,90
+2026-06-19T12:15:13.396568+00:00,48553388,2,DuckDB Internals: Why Is DuckDB Fast? (Part 1),219,72
+2026-06-19T12:15:13.396568+00:00,48543311,3,"To study how chips work, MIT researchers built their own operating system",212,31
+2026-06-19T12:15:13.396568+00:00,48549118,4,Zen and the Art of Machine Learning Research,95,28
+2026-06-19T12:15:13.396568+00:00,48595331,5,So You Want to Define a Well-Known URI,85,44
+2026-06-19T12:15:13.396568+00:00,48541062,6,Gribouille 0.3.0: A Grammar of Graphics for Typst,111,43
+2026-06-19T12:15:13.396568+00:00,48583928,7,I found 10k GitHub repositories distributing Trojan malware,826,214
+2026-06-19T12:15:13.396568+00:00,48541940,8,The Raku Foundation is born,54,37
+2026-06-19T12:15:13.396568+00:00,48546890,9,Ten years of ClickHouse in open source,80,15
+2026-06-19T12:15:13.396568+00:00,48592163,10,Zero-Touch OAuth for MCP,209,75
+2026-06-19T12:15:13.396568+00:00,48592832,11,The AirPods Effect,141,275
+2026-06-19T12:15:13.396568+00:00,48570730,12,How Japan's railways stayed one while splitting apart,117,90
+2026-06-19T12:15:13.396568+00:00,48585866,13,"Ubiquiti: Enterprise NAS, Built on ZFS",352,302
+2026-06-19T12:15:13.396568+00:00,48583606,14,CS 6120: Advanced Compilers: The Self-Guided Online Course (2020),382,53
+2026-06-19T12:15:13.396568+00:00,48593731,15,Datasette Apps: Host custom HTML applications inside Datasette,94,35
+2026-06-19T12:15:13.396568+00:00,48583356,16,.gitignore Isn't the only way to ignore files in Git,440,137
+2026-06-19T12:15:13.396568+00:00,48547658,17,SMTP Relay with Web Dashboard,14,2
+2026-06-19T12:15:13.396568+00:00,48596910,18,Norway greenlights first full-scale ship tunnel,27,9
+2026-06-19T12:15:13.396568+00:00,48583386,19,Hospitals and universities repurposing drugs at lower cost,317,143
+2026-06-19T12:15:13.396568+00:00,48584761,20,Show HN: Talos – Open-source WASM interpreter for Lean,60,9
+2026-06-19T12:15:13.396568+00:00,48586329,22,Building a robotics research setup that lives next to my desk,89,29
+2026-06-19T12:15:13.396568+00:00,48547969,23,Cell-based architecture for resilient payment systems,130,52
+2026-06-19T12:15:13.396568+00:00,48584497,24,"W Social, public institutions and the theater of European digital sovereignty",223,143
+2026-06-19T12:15:13.396568+00:00,48594592,25,Ice water drowning survival of young patient (2025),167,105
+2026-06-19T12:15:13.396568+00:00,48544429,26,"If your product is Great, it doesn't need to be Good (2010)",95,71
+2026-06-19T12:15:13.396568+00:00,48583897,27,Modos Color Monitor Pushes E-Paper Displays Further,293,70
+2026-06-19T12:15:13.396568+00:00,48540779,28,Akse3D – open-source 3D modelling anyone can master,31,3
+2026-06-19T12:15:13.396568+00:00,48591348,29,Show HN: Are You in the Weights?,367,215
+2026-06-19T12:15:13.396568+00:00,48586299,30,Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps,121,57
+2026-06-19T12:15:13.396568+00:00,48584484,31,The Korean telecom giant at the center of Anthropic's Mythos controversy,115,108
+2026-06-19T12:15:13.396568+00:00,48584709,32,How Alberta Eradicated Rats,173,123
+2026-06-19T12:15:13.396568+00:00,48543430,33,"UCCL-EP: DeepEP-style expert parallelism on any NIC, no GPU-initiated comms",5,0
+2026-06-19T12:15:13.396568+00:00,48589501,34,I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M,411,251
+2026-06-19T12:15:13.396568+00:00,48585739,35,Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts,179,71
+2026-06-19T12:15:13.396568+00:00,48591066,36,Zork name origin got an update on Wikipedia,81,13
+2026-06-19T12:15:13.396568+00:00,48578913,37,Noam Shazeer Joins OpenAI,335,329
+2026-06-19T12:15:13.396568+00:00,48579650,38,Midjourney Medical,1311,849
+2026-06-19T12:15:13.396568+00:00,48573268,39,Agentic Resource Discovery Specification,69,17
+2026-06-19T12:15:13.396568+00:00,48588755,40,The Token Compression Illusion: Why I'm Skeptical of RTK,102,109
+2026-06-19T12:15:13.396568+00:00,48594715,41,Many Let's Encrypt renewals had errors today,147,94
+2026-06-19T12:15:13.396568+00:00,48584135,42,Emacs 31 is around the corner: The changes I'm daily driving,444,256
+2026-06-19T12:15:13.396568+00:00,48588413,43,Migrating from GNU Stow to Chezmoi,127,118
+2026-06-19T12:15:13.396568+00:00,48584207,44,Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly,680,460
+2026-06-19T12:15:13.396568+00:00,48585746,45,Swiss parliament lifts ban on new nuclear power plants,768,743
+2026-06-19T12:15:13.396568+00:00,48536167,46,"Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",51,1
+2026-06-19T12:15:13.396568+00:00,48588216,47,The founder of Craigslist has given away half a billion dollars,372,279
+2026-06-19T12:15:13.396568+00:00,48594933,48,DARPA Heavy Life Challenge,25,27
+2026-06-19T12:15:13.396568+00:00,48582464,49,"I need your clothes, your boots, and your motorcycle",138,129
+2026-06-19T12:15:13.396568+00:00,48581070,50,I hate compilers,160,159
