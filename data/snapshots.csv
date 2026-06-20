@@ -3815,3 +3815,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-20T18:19:33.951561+00:00,48607303,48,"""Career coaches"" are fear-farming the Stanford AI hiring study [debunk]",13,1
 2026-06-20T18:19:33.951561+00:00,48610195,49,Lobsters Bug Allows Unauthorized Email Access,12,4
 2026-06-20T18:19:33.951561+00:00,48582180,50,A Perceptron in Age of Empires II,107,41
+2026-06-20T20:21:13.569163+00:00,48610827,1,SMPTE Makes Its Standards Freely Accessible,117,41
+2026-06-20T20:21:13.569163+00:00,48611411,2,The Wholesale Plagiarism of Obscure Sorrows,230,88
+2026-06-20T20:21:13.569163+00:00,48610853,3,UHF X11: X11 Built for VisionOS and Apple Vision Pro,77,9
+2026-06-20T20:21:13.569163+00:00,48609766,4,"DOS Game ""F-15 Strike Eagle II"" reversing project needs DOS test pilots",121,31
+2026-06-20T20:21:13.569163+00:00,48611942,5,PostgresBench: A Reproducible Benchmark for Postgres Services,15,2
+2026-06-20T20:21:13.569163+00:00,48608223,6,CSSQuake,387,85
+2026-06-20T20:21:13.569163+00:00,48610841,7,Bun has an open PR adding shared-memory threads to JavaScriptCore,64,77
+2026-06-20T20:21:13.569163+00:00,48610224,8,Show HN: StartupWiki – A Free Alternative to Crunchbase,81,26
+2026-06-20T20:21:13.569163+00:00,48609231,9,Show HN: We post-trained a model that pen tests instead of refusing,39,19
+2026-06-20T20:21:13.569163+00:00,48611513,10,Show HN: Make PDFs look scanned (CLI or in the browser via WASM),23,12
+2026-06-20T20:21:13.569163+00:00,48610816,11,"Ember, a native iOS Hacker News reader I built around accessibility",67,14
+2026-06-20T20:21:13.569163+00:00,48608515,12,The rise of South Korea’s weapons business,34,11
+2026-06-20T20:21:13.569163+00:00,48605310,13,Why has the pointe shoe been so resistant to change?,28,28
+2026-06-20T20:21:13.569163+00:00,48608394,14,Temporary Cloudflare accounts for AI agents,105,74
+2026-06-20T20:21:13.569163+00:00,48612029,15,Google display wrong flags for world cup 2026,10,4
+2026-06-20T20:21:13.569163+00:00,48576217,16,Now You Don't: When Espionage Meets Magic,11,1
+2026-06-20T20:21:13.569163+00:00,48570364,17,Show HN: Microcrad – Micrograd Reimplemented in C,43,13
+2026-06-20T20:21:13.569163+00:00,48611857,18,Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions,9,3
+2026-06-20T20:21:13.569163+00:00,48612095,19,Show HN: My Windows XP portfolio with working Game Boy and iPod,18,9
+2026-06-20T20:21:13.569163+00:00,48611083,20,"The ability to regrow body parts is dormant in mammals, not lost",72,33
+2026-06-20T20:21:13.569163+00:00,48609553,21,Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios,45,5
+2026-06-20T20:21:13.569163+00:00,48606140,22,Where to Find the Colors Your Screen Can't Show You,393,105
+2026-06-20T20:21:13.569163+00:00,48608255,23,Bootimus – A Self-Contained PXE and HTTP Boot Server,89,33
+2026-06-20T20:21:13.569163+00:00,48609422,24,Web Browsers on PDAS,35,12
+2026-06-20T20:21:13.569163+00:00,48609343,25,"Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",179,96
+2026-06-20T20:21:13.569163+00:00,48606619,26,I Stored a Website in a Favicon,276,95
+2026-06-20T20:21:13.569163+00:00,48612098,27,AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July,18,1
+2026-06-20T20:21:13.569163+00:00,48587584,28,Mencius (2016),20,1
+2026-06-20T20:21:13.569163+00:00,48582374,29,Can you see three trees?,290,135
+2026-06-20T20:21:13.569163+00:00,48600167,30,GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2,459,228
+2026-06-20T20:21:13.569163+00:00,48609194,31,From PGP to Mythos: a brief history of export controls that didn't stop anyone,123,61
+2026-06-20T20:21:13.569163+00:00,48609385,32,VPN ban update for UK households as government looks at 'age-gate',244,256
+2026-06-20T20:21:13.569163+00:00,48611988,33,Ask HN: Are people optimistic about the future?,12,11
+2026-06-20T20:21:13.569163+00:00,48609373,34,Ubisoft co-founder Claude Guillemot has died in a plane crash,135,72
+2026-06-20T20:21:13.569163+00:00,48609645,35,Cargo-Geiger,28,8
+2026-06-20T20:21:13.569163+00:00,48562662,36,Data Compression Explained (2012),180,30
+2026-06-20T20:21:13.569163+00:00,48570585,37,Computed goto for efficient dispatch tables (2012),37,15
+2026-06-20T20:21:13.569163+00:00,48569677,38,Human Judgment as a Specification,40,19
+2026-06-20T20:21:13.569163+00:00,48602817,39,Think of the children: How to force real ID for all internet traffic (2023),221,161
+2026-06-20T20:21:13.569163+00:00,48605355,40,LLMs Are Complicated Now,147,56
+2026-06-20T20:21:13.569163+00:00,48564480,41,The Cold War's Accidental Whale Observatory,55,25
+2026-06-20T20:21:13.569163+00:00,48608681,42,Pong in S Favicon,26,4
+2026-06-20T20:21:13.569163+00:00,48568652,43,The discovery that changed how scientists think about memory,107,43
+2026-06-20T20:21:13.569163+00:00,48609506,44,US Scientist John Jumper to Leave Google DeepMind for Anthropic,62,8
+2026-06-20T20:21:13.569163+00:00,48559729,45,A 1969 camera operators' strike created Upstairs Downstairs multiverse,76,22
+2026-06-20T20:21:13.569163+00:00,48610739,46,The frontier is open-source today,6,2
+2026-06-20T20:21:13.569163+00:00,48598586,47,How many of the 170k English words do you know?,467,539
+2026-06-20T20:21:13.569163+00:00,48608611,48,Race Against Time to Save Brixton Market from Private Equity,14,1
+2026-06-20T20:21:13.569163+00:00,48602918,49,Surprising economics of load-balanced systems,142,35
+2026-06-20T20:21:13.569163+00:00,48600312,50,Hyundai buys Boston Dynamics,921,387
