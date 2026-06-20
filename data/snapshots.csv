@@ -3565,3 +3565,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-20T04:23:43.358832+00:00,48602862,48,Hide Secrets from AI Agents and NPM install using Airgap,16,1
 2026-06-20T04:23:43.358832+00:00,48602571,49,Companies rein in AI usage as costs strain budgets,95,86
 2026-06-20T04:23:43.358832+00:00,48603754,50,Glassblowing #2: Making a tungsten lamp and (bad) vacuum diode,8,1
+2026-06-20T08:26:33.264609+00:00,48606619,1,I Stored a Website in a Favicon,93,29
+2026-06-20T08:26:33.264609+00:00,48562662,2,Data Compression Explained (2012),105,9
+2026-06-20T08:26:33.264609+00:00,48606140,3,Where to Find the Colors Your Screen Can't Show You,65,13
+2026-06-20T08:26:33.264609+00:00,48599515,4,There are no instances in ATProto,428,223
+2026-06-20T08:26:33.264609+00:00,48568652,5,The discovery that changed how scientists think about memory,43,9
+2026-06-20T08:26:33.264609+00:00,48582374,6,Can you see three trees?,86,24
+2026-06-20T08:26:33.264609+00:00,48602918,7,Surprising economics of load-balanced systems,106,24
+2026-06-20T08:26:33.264609+00:00,48600312,8,Hyundai buys Boston Dynamics,800,349
+2026-06-20T08:26:33.264609+00:00,48600093,9,Norway imposes near ban on AI in elementary school,631,434
+2026-06-20T08:26:33.264609+00:00,48598586,10,How many of the 170k English words do you know?,347,438
+2026-06-20T08:26:33.264609+00:00,48606271,11,Satellite reveals immense scale of GPS signal tampering,61,16
+2026-06-20T08:26:33.264609+00:00,48595511,12,"Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",588,361
+2026-06-20T08:26:33.264609+00:00,48602352,13,"Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",348,39
+2026-06-20T08:26:33.264609+00:00,48555903,14,Soccer Arcade Games Through the Years,11,0
+2026-06-20T08:26:33.264609+00:00,48600167,15,GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2,113,22
+2026-06-20T08:26:33.264609+00:00,48582180,16,A Perceptron in Age of Empires II,66,30
+2026-06-20T08:26:33.264609+00:00,48548612,17,Egyptian Fractions (2006),89,7
+2026-06-20T08:26:33.264609+00:00,48606413,18,Designing a backyard deck for my house,9,2
+2026-06-20T08:26:33.264609+00:00,48600593,19,AURpocalypse now: a look at the recent AUR attacks,74,46
+2026-06-20T08:26:33.264609+00:00,48601162,20,John Jumper to join Anthropic,122,93
+2026-06-20T08:26:33.264609+00:00,48600946,21,Court Records Should Be Free,356,75
+2026-06-20T08:26:33.264609+00:00,48604232,22,Ask HN: Will programmers write more efficient code during the memory shortage?,92,158
+2026-06-20T08:26:33.264609+00:00,48559729,23,A 1969 camera operators' strike created Upstairs Downstairs multiverse,10,0
+2026-06-20T08:26:33.264609+00:00,48549118,24,Zen and the Art of Machine Learning Research,255,92
+2026-06-20T08:26:33.264609+00:00,48586329,25,Building a robotics research setup that lives next to my desk,145,51
+2026-06-20T08:26:33.264609+00:00,48601420,26,Big Banana Car,146,75
+2026-06-20T08:26:33.264609+00:00,48553161,27,Telescope Ranchers,121,46
+2026-06-20T08:26:33.264609+00:00,48563047,28,Digital Printing of Arabic: explaining the problem,50,16
+2026-06-20T08:26:33.264609+00:00,48556082,29,Show HN: Metiq: a real time 3D globe for 100 public datasets,117,32
+2026-06-20T08:26:33.264609+00:00,48604851,30,"Hey, n00b, we didn't hire you to complete tasks",165,84
+2026-06-20T08:26:33.264609+00:00,48602817,31,Think of the children: How to force real ID for all internet traffic (2023),198,117
+2026-06-20T08:26:33.264609+00:00,48546890,32,Ten years of ClickHouse in open source,300,81
+2026-06-20T08:26:33.264609+00:00,48605301,33,How to feed a dictator,136,46
+2026-06-20T08:26:33.264609+00:00,48592832,34,The AirPods Effect,412,714
+2026-06-20T08:26:33.264609+00:00,48604801,35,Cirrus: ATProto Personal Data Server That Runs on Cloudflare Workers,16,1
+2026-06-20T08:26:33.264609+00:00,48603664,36,Zenzizenzizenzic,100,30
+2026-06-20T08:26:33.264609+00:00,48585866,37,"Ubiquiti: Enterprise NAS, Built on ZFS",406,345
+2026-06-20T08:26:33.264609+00:00,48592163,38,Zero-Touch OAuth for MCP,270,102
+2026-06-20T08:26:33.264609+00:00,48600950,39,A new bill takes aim at government pressure to silence lawful online speech,274,122
+2026-06-20T08:26:33.264609+00:00,48600345,40,Google workspace threatening to block Firefox access,478,150
+2026-06-20T08:26:33.264609+00:00,48570730,41,How Japan's railways stayed one while splitting apart,183,138
+2026-06-20T08:26:33.264609+00:00,48600531,42,MiniMax M3 vs. GLM 5.2: Codegen comparison across autonomous coding tasks,29,8
+2026-06-20T08:26:33.264609+00:00,48556335,43,"Meet Nikolai Evreinov, the 19th century Nathan Fielder",20,3
+2026-06-20T08:26:33.264609+00:00,48553388,44,DuckDB Internals Part 1,452,136
+2026-06-20T08:26:33.264609+00:00,48606199,45,How to lose a war in three easy steps,21,1
+2026-06-20T08:26:33.264609+00:00,48583928,46,I found 10k GitHub repositories distributing Trojan malware,949,243
+2026-06-20T08:26:33.264609+00:00,48603761,47,The UK's new under-16 social media ban will cause more harm than it prevents,68,78
+2026-06-20T08:26:33.264609+00:00,48584497,48,"W Social, public institutions and the theater of European digital sovereignty",260,161
+2026-06-20T08:26:33.264609+00:00,48585739,49,Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts,212,78
+2026-06-20T08:26:33.264609+00:00,48604937,50,We built a lab to evaluate data agents – Hex,10,0
