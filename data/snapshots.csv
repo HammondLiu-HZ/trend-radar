@@ -3865,3 +3865,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-20T20:21:13.569163+00:00,48608611,48,Race Against Time to Save Brixton Market from Private Equity,14,1
 2026-06-20T20:21:13.569163+00:00,48602918,49,Surprising economics of load-balanced systems,142,35
 2026-06-20T20:21:13.569163+00:00,48600312,50,Hyundai buys Boston Dynamics,921,387
+2026-06-20T22:17:30.001960+00:00,48610827,1,SMPTE Makes Its Standards Freely Accessible,179,54
+2026-06-20T22:17:30.001960+00:00,48612502,2,Unauthorized alert sent to cell phones across Brazil,40,17
+2026-06-20T22:17:30.001960+00:00,48610853,3,UHF X11: X11 Built for VisionOS and Apple Vision Pro,124,17
+2026-06-20T22:17:30.001960+00:00,48611942,4,PostgresBench: A Reproducible Benchmark for Postgres Services,52,9
+2026-06-20T22:17:30.001960+00:00,48609766,5,"DOS Game ""F-15 Strike Eagle II"" reversing project needs DOS test pilots",161,44
+2026-06-20T22:17:30.001960+00:00,48611411,6,The Wholesale Plagiarism of Obscure Sorrows,280,117
+2026-06-20T22:17:30.001960+00:00,48608223,7,CSSQuake,422,89
+2026-06-20T22:17:30.001960+00:00,48612714,8,A Love Story,6,2
+2026-06-20T22:17:30.001960+00:00,48560227,9,Inference cost at scale with napkin math,22,4
+2026-06-20T22:17:30.001960+00:00,48610224,10,Show HN: StartupWiki – A Free Alternative to Crunchbase,117,34
+2026-06-20T22:17:30.001960+00:00,48612740,11,Alice. Alice Is Impatient,9,0
+2026-06-20T22:17:30.001960+00:00,48611513,12,Show HN: Make PDFs look scanned (CLI or in the browser via WASM),57,24
+2026-06-20T22:17:30.001960+00:00,48610841,13,Bun has an open PR adding shared-memory threads to JavaScriptCore,89,138
+2026-06-20T22:17:30.001960+00:00,48608515,14,The rise of South Korea’s weapons business,74,29
+2026-06-20T22:17:30.001960+00:00,48608394,15,Temporary Cloudflare accounts for AI agents,134,83
+2026-06-20T22:17:30.001960+00:00,48612095,16,Show HN: My Windows XP portfolio with working Game Boy and iPod,37,15
+2026-06-20T22:17:30.001960+00:00,48611857,17,Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions,19,5
+2026-06-20T22:17:30.001960+00:00,48612943,18,"Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches",35,10
+2026-06-20T22:17:30.001960+00:00,48613008,19,Supermarket giant Tesco sues VMware for breach of contract,20,2
+2026-06-20T22:17:30.001960+00:00,48602683,20,Coding a Brick Tower [video],6,0
+2026-06-20T22:17:30.001960+00:00,48609231,21,Show HN: We post-trained a model that pen tests instead of refusing,52,25
+2026-06-20T22:17:30.001960+00:00,48570364,22,Show HN: Microcrad – Micrograd Reimplemented in C,54,18
+2026-06-20T22:17:30.001960+00:00,48610816,23,"Show HN: Ember, a native iOS Hacker News reader I built around accessibility",80,17
+2026-06-20T22:17:30.001960+00:00,48576217,24,Now You Don't: When Espionage Meets Magic,20,2
+2026-06-20T22:17:30.001960+00:00,48611083,25,"The ability to regrow body parts is dormant in mammals, not lost",117,43
+2026-06-20T22:17:30.001960+00:00,48612098,26,AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July,80,20
+2026-06-20T22:17:30.001960+00:00,48609553,27,Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios,59,11
+2026-06-20T22:17:30.001960+00:00,48613328,28,"Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl",8,0
+2026-06-20T22:17:30.001960+00:00,48608255,29,Bootimus – A Self-Contained PXE and HTTP Boot Server,98,36
+2026-06-20T22:17:30.001960+00:00,48609422,30,Web Browsers on PDAS,42,14
+2026-06-20T22:17:30.001960+00:00,48606619,31,I Stored a Website in a Favicon,284,96
+2026-06-20T22:17:30.001960+00:00,48612859,32,Seeing the world in radio waves with the QuadRF,21,0
+2026-06-20T22:17:30.001960+00:00,48609343,33,"Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",228,121
+2026-06-20T22:17:30.001960+00:00,48600167,34,GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2,483,241
+2026-06-20T22:17:30.001960+00:00,48587584,35,Mencius (2016),21,1
+2026-06-20T22:17:30.001960+00:00,48609194,36,From PGP to Mythos: a brief history of export controls that didn't stop anyone,131,63
+2026-06-20T22:17:30.001960+00:00,48602817,37,Think of the children: How to force real ID for all internet traffic (2023),228,164
+2026-06-20T22:17:30.001960+00:00,48609373,38,Ubisoft co-founder Claude Guillemot has died in a plane crash,142,84
+2026-06-20T22:17:30.001960+00:00,48605355,39,LLMs Are Complicated Now,155,56
+2026-06-20T22:17:30.001960+00:00,48569677,40,Human Judgment as a Specification,44,19
+2026-06-20T22:17:30.001960+00:00,48611940,41,How the Fifth Lateran Council Unlocked Financial Theory,5,0
+2026-06-20T22:17:30.001960+00:00,48611919,42,Neuromorphic Computing with Sound Waves Cuts Power Use,5,0
+2026-06-20T22:17:30.001960+00:00,48570585,43,Computed goto for efficient dispatch tables (2012),37,17
+2026-06-20T22:17:30.001960+00:00,48609385,44,VPN ban update for UK households as government looks at 'age-gate',269,281
+2026-06-20T22:17:30.001960+00:00,48609645,45,Cargo-Geiger,28,8
+2026-06-20T22:17:30.001960+00:00,48568652,46,The discovery that changed how scientists think about memory,111,46
+2026-06-20T22:17:30.001960+00:00,48564480,47,The Cold War's Accidental Whale Observatory,55,25
+2026-06-20T22:17:30.001960+00:00,48608681,48,Pong in S Favicon,29,4
+2026-06-20T22:17:30.001960+00:00,48606140,49,Where to Find the Colors Your Screen Can't Show You,414,112
+2026-06-20T22:17:30.001960+00:00,48612614,50,Microsoft will end Office 2021 support in October,10,0
