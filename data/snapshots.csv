@@ -3765,3 +3765,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-20T16:26:23.909577+00:00,48601162,48,John Jumper to join Anthropic,155,118
 2026-06-20T16:26:23.909577+00:00,48600593,49,AURpocalypse now: a look at the recent AUR attacks,116,85
 2026-06-20T16:26:23.909577+00:00,48604801,50,Cirrus: ATProto Personal Data Server That Runs on Cloudflare Workers,26,4
+2026-06-20T18:19:33.951561+00:00,48610827,1,SMPTE Makes Its Standards Freely Accessible,59,26
+2026-06-20T18:19:33.951561+00:00,48610853,2,UHF X11: X11 Built for VisionOS and Apple Vision Pro,39,6
+2026-06-20T18:19:33.951561+00:00,48609766,3,"DOS Game ""F-15 Strike Eagle II"" reversing project needs DOS test pilots",86,21
+2026-06-20T18:19:33.951561+00:00,48608223,4,CSSQuake,349,74
+2026-06-20T18:19:33.951561+00:00,48610224,5,Show HN: StartupWiki – A Free Alternative to Crunchbase,31,7
+2026-06-20T18:19:33.951561+00:00,48610841,6,Bun has an open PR adding shared-memory threads to JavaScriptCore,17,3
+2026-06-20T18:19:33.951561+00:00,48560535,7,S‑CURVES a field guide to technology adoption · 1825–2026,16,1
+2026-06-20T18:19:33.951561+00:00,48610816,8,"Ember, a native iOS Hacker News reader I built around accessibility",34,8
+2026-06-20T18:19:33.951561+00:00,48611411,9,"Agency stole bestselling author's book, used AI to relaunch as their own",7,0
+2026-06-20T18:19:33.951561+00:00,48570364,10,Show HN: Microcrad – Micrograd Reimplemented in C,29,6
+2026-06-20T18:19:33.951561+00:00,48609385,11,VPN ban update for UK households as government looks at 'age-gate',199,189
+2026-06-20T18:19:33.951561+00:00,48609553,12,Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios,22,2
+2026-06-20T18:19:33.951561+00:00,48608394,13,Temporary Cloudflare Accounts for AI Agents,71,50
+2026-06-20T18:19:33.951561+00:00,48608255,14,Bootimus – A Self-Contained PXE and HTTP Boot Server,78,26
+2026-06-20T18:19:33.951561+00:00,48606140,15,Where to Find the Colors Your Screen Can't Show You,359,90
+2026-06-20T18:19:33.951561+00:00,48609422,16,Web Browsers on PDAS,26,7
+2026-06-20T18:19:33.951561+00:00,48609194,17,From PGP to Mythos: a brief history of export controls that didn't stop anyone,111,50
+2026-06-20T18:19:33.951561+00:00,48587584,18,Mencius (2016),16,1
+2026-06-20T18:19:33.951561+00:00,48609343,19,"Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",112,51
+2026-06-20T18:19:33.951561+00:00,48606619,20,I Stored a Website in a Favicon,260,90
+2026-06-20T18:19:33.951561+00:00,48609645,21,Cargo-Geiger,23,6
+2026-06-20T18:19:33.951561+00:00,48608515,22,The rise of South Korea’s weapons business,3,3
+2026-06-20T18:19:33.951561+00:00,48611303,23,"Ask HN: Due to spam on GitHub, what platforms can I move my projects?",9,5
+2026-06-20T18:19:33.951561+00:00,48582374,24,Can you see three trees?,269,130
+2026-06-20T18:19:33.951561+00:00,48609373,25,Ubisoft co-founder Claude Guillemot has died in a plane crash,100,55
+2026-06-20T18:19:33.951561+00:00,48600167,26,GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2,431,208
+2026-06-20T18:19:33.951561+00:00,48570585,27,Computed goto for efficient dispatch tables (2012),34,14
+2026-06-20T18:19:33.951561+00:00,48611083,28,"The ability to regrow body parts is dormant in mammals, not lost",18,3
+2026-06-20T18:19:33.951561+00:00,48569677,29,Human Judgment as a Specification,39,17
+2026-06-20T18:19:33.951561+00:00,48608681,30,Pong in S Favicon,26,4
+2026-06-20T18:19:33.951561+00:00,48599515,31,There are no instances in ATProto,502,286
+2026-06-20T18:19:33.951561+00:00,48562662,32,Data Compression Explained (2012),177,29
+2026-06-20T18:19:33.951561+00:00,48609506,33,US Scientist John Jumper to Leave Google DeepMind for Anthropic,51,5
+2026-06-20T18:19:33.951561+00:00,48564480,34,The Cold War's Accidental Whale Observatory,52,24
+2026-06-20T18:19:33.951561+00:00,48605355,35,LLMs Are Complicated Now,138,55
+2026-06-20T18:19:33.951561+00:00,48568652,36,The discovery that changed how scientists think about memory,106,42
+2026-06-20T18:19:33.951561+00:00,48559729,37,A 1969 camera operators' strike created Upstairs Downstairs multiverse,75,21
+2026-06-20T18:19:33.951561+00:00,48608633,38,New (Old) 3D Golf: Porting PC-9801 and Virtual Boy to Mega Drive,11,1
+2026-06-20T18:19:33.951561+00:00,48598586,39,How many of the 170k English words do you know?,460,536
+2026-06-20T18:19:33.951561+00:00,48610591,40,"Iran says it's closing Strait of Hormuz, accusing Israel, US of violating truce",40,15
+2026-06-20T18:19:33.951561+00:00,48602918,41,Surprising economics of load-balanced systems,139,35
+2026-06-20T18:19:33.951561+00:00,48608611,42,Race Against Time to Save Brixton Market from Private Equity,10,1
+2026-06-20T18:19:33.951561+00:00,48608591,43,Lithuanian startup launches open-source network to detect Shahed-type drones,100,82
+2026-06-20T18:19:33.951561+00:00,48600312,44,Hyundai buys Boston Dynamics,912,386
+2026-06-20T18:19:33.951561+00:00,48555903,45,Soccer Arcade Games Through the Years,38,19
+2026-06-20T18:19:33.951561+00:00,48609863,46,Sogen Kato,15,4
+2026-06-20T18:19:33.951561+00:00,48609421,47,The European Social Stack,90,77
+2026-06-20T18:19:33.951561+00:00,48607303,48,"""Career coaches"" are fear-farming the Stanford AI hiring study [debunk]",13,1
+2026-06-20T18:19:33.951561+00:00,48610195,49,Lobsters Bug Allows Unauthorized Email Access,12,4
+2026-06-20T18:19:33.951561+00:00,48582180,50,A Perceptron in Age of Empires II,107,41
