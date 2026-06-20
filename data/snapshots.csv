@@ -3515,3 +3515,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-19T23:07:04.642473+00:00,48544429,48,"If your product is Great, it doesn't need to be Good (2010)",152,106
 2026-06-19T23:07:04.642473+00:00,48593731,49,Datasette Apps: Host custom HTML applications inside Datasette,137,61
 2026-06-19T23:07:04.642473+00:00,48584761,50,Show HN: Talos – Open-source WASM interpreter for Lean,91,21
+2026-06-20T04:23:43.358832+00:00,48562662,1,Data Compression Explained,28,0
+2026-06-20T04:23:43.358832+00:00,48602817,2,Think of the children: How to force real ID for all internet traffic (2023),164,95
+2026-06-20T04:23:43.358832+00:00,48599515,3,There are no instances in ATProto,370,205
+2026-06-20T04:23:43.358832+00:00,48602918,4,Surprising Economics of Load-Balanced Systems,63,18
+2026-06-20T04:23:43.358832+00:00,48514843,5,I used sound waves to make espresso,226,145
+2026-06-20T04:23:43.358832+00:00,48600093,6,Norway imposes near ban on AI in elementary school,518,351
+2026-06-20T04:23:43.358832+00:00,48600312,7,Hyundai buys Boston Dynamics,715,325
+2026-06-20T04:23:43.358832+00:00,48605301,8,How to feed a dictator,106,35
+2026-06-20T04:23:43.358832+00:00,48602352,9,"Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",262,29
+2026-06-20T04:23:43.358832+00:00,48595511,10,"Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",552,342
+2026-06-20T04:23:43.358832+00:00,48598586,11,How many of the 170k English words do you know?,265,384
+2026-06-20T04:23:43.358832+00:00,48604851,12,"Hey, n00b, we didn't hire you to complete tasks",119,54
+2026-06-20T04:23:43.358832+00:00,48548612,13,Egyptian Fractions,74,3
+2026-06-20T04:23:43.358832+00:00,48582180,14,A Perceptron in Age of Empires II,36,13
+2026-06-20T04:23:43.358832+00:00,48601162,15,John Jumper to join Anthropic,88,60
+2026-06-20T04:23:43.358832+00:00,48553161,16,Telescope Ranchers,109,43
+2026-06-20T04:23:43.358832+00:00,48601420,17,Big Banana Car,127,73
+2026-06-20T04:23:43.358832+00:00,48600946,18,Court Records Should Be Free,290,62
+2026-06-20T04:23:43.358832+00:00,48604232,19,Ask HN: Will programmers write more efficient code during the memory shortage?,49,84
+2026-06-20T04:23:43.358832+00:00,48541777,20,A 1976 university experiment spun up the U.S. wind industry,79,8
+2026-06-20T04:23:43.358832+00:00,48532447,21,RhinoCollab a plugin for real-time editing for Rhino 3D,22,5
+2026-06-20T04:23:43.358832+00:00,48549118,22,Zen and the Art of Machine Learning Research,243,86
+2026-06-20T04:23:43.358832+00:00,48586329,23,Building a robotics research setup that lives next to my desk,126,43
+2026-06-20T04:23:43.358832+00:00,48556082,24,Show HN: Metiq: a real time 3D globe for 100 public datasets,97,30
+2026-06-20T04:23:43.358832+00:00,48556335,25,"Meet Nikolai Evreinov, the 19th century Nathan Fielder",5,0
+2026-06-20T04:23:43.358832+00:00,48603664,26,Zenzizenzizenzic,84,22
+2026-06-20T04:23:43.358832+00:00,48543311,27,"To study how chips work, MIT researchers built their own operating system",360,54
+2026-06-20T04:23:43.358832+00:00,48546890,28,Ten years of ClickHouse in open source,286,72
+2026-06-20T04:23:43.358832+00:00,48592832,29,The AirPods Effect,388,694
+2026-06-20T04:23:43.358832+00:00,48600593,30,AURpocalypse now: a look at the recent AUR attacks,40,32
+2026-06-20T04:23:43.358832+00:00,48604741,31,Aikido Code Audit,26,10
+2026-06-20T04:23:43.358832+00:00,48541062,32,Gribouille 0.3.0: A Grammar of Graphics for Typst,208,79
+2026-06-20T04:23:43.358832+00:00,48563047,33,Digital Printing of Arabic: explaining the problem,32,7
+2026-06-20T04:23:43.358832+00:00,48604801,34,Cirrus: ATProto Personal Data Server That Runs on Cloudflare Workers,6,0
+2026-06-20T04:23:43.358832+00:00,48600950,35,A new bill takes aim at government pressure to silence lawful online speech,255,122
+2026-06-20T04:23:43.358832+00:00,48600345,36,Google workspace threatening to block Firefox access,455,147
+2026-06-20T04:23:43.358832+00:00,48604558,37,Russell Vought is going to destroy American Science,37,1
+2026-06-20T04:23:43.358832+00:00,48600167,38,GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2,40,8
+2026-06-20T04:23:43.358832+00:00,48603761,39,The UK's new under-16 social media ban will cause more harm than it prevents,54,70
+2026-06-20T04:23:43.358832+00:00,48604937,40,We built a lab to evaluate data agents – Hex,6,0
+2026-06-20T04:23:43.358832+00:00,48592163,41,Zero-Touch OAuth for MCP,267,101
+2026-06-20T04:23:43.358832+00:00,48570730,42,How Japan's railways stayed one while splitting apart,182,135
+2026-06-20T04:23:43.358832+00:00,48585866,43,"Ubiquiti: Enterprise NAS, Built on ZFS",403,341
+2026-06-20T04:23:43.358832+00:00,48540779,44,Akse3D – open-source 3D modelling anyone can master,144,43
+2026-06-20T04:23:43.358832+00:00,48543968,45,Show HN: Modeloop – From visual algorithms to microcontroller C code,46,26
+2026-06-20T04:23:43.358832+00:00,48553388,46,DuckDB Internals Part 1,444,133
+2026-06-20T04:23:43.358832+00:00,48600531,47,MiniMax M3 vs. GLM 5.2: Codegen comparison across autonomous coding tasks,19,3
+2026-06-20T04:23:43.358832+00:00,48602862,48,Hide Secrets from AI Agents and NPM install using Airgap,16,1
+2026-06-20T04:23:43.358832+00:00,48602571,49,Companies rein in AI usage as costs strain budgets,95,86
+2026-06-20T04:23:43.358832+00:00,48603754,50,Glassblowing #2: Making a tungsten lamp and (bad) vacuum diode,8,1
