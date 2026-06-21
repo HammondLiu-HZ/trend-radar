@@ -4015,3 +4015,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-21T06:11:11.602165+00:00,48611083,48,"The ability to regrow body parts is dormant in mammals, not lost",165,57
 2026-06-21T06:11:11.602165+00:00,48610816,49,"Show HN: Ember, a native iOS Hacker News reader I built around accessibility",93,22
 2026-06-21T06:11:11.602165+00:00,48612098,50,AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July,144,32
+2026-06-21T10:37:27.342258+00:00,48616800,1,Google Hits 50% IPv6,114,78
+2026-06-21T10:37:27.342258+00:00,48616713,2,A 3D voxel game engine written in APL,51,6
+2026-06-21T10:37:27.342258+00:00,48614844,3,Developers don't understand CORS (2019),208,116
+2026-06-21T10:37:27.342258+00:00,48573902,4,Zigzag Decoding with AVX-512,76,9
+2026-06-21T10:37:27.342258+00:00,48608645,5,Loupe – A iOS app that raises awareness about what native apps can see,298,113
+2026-06-21T10:37:27.342258+00:00,48599555,6,"Running MicroVMs in Proxmox VE, the Easy Way",59,2
+2026-06-21T10:37:27.342258+00:00,48613755,7,Renting a sewing machine from the library,237,129
+2026-06-21T10:37:27.342258+00:00,48613872,8,Epoll vs. io_uring in Linux,168,42
+2026-06-21T10:37:27.342258+00:00,48613555,9,Slow breathing modulates brain function and risk behavior,213,53
+2026-06-21T10:37:27.342258+00:00,48616173,10,Windows UI evolution: Clicking an unassociated file,24,5
+2026-06-21T10:37:27.342258+00:00,48584261,11,15-minute at-home Lyme disease tick test,118,68
+2026-06-21T10:37:27.342258+00:00,48577601,12,"Carlo Ginzburg, Who Told the History of the Obscure, Dies at 87",12,1
+2026-06-21T10:37:27.342258+00:00,48568181,13,A tale of two path separators,7,0
+2026-06-21T10:37:27.342258+00:00,48610827,14,SMPTE Makes Its Standards Freely Accessible,265,81
+2026-06-21T10:37:27.342258+00:00,48610853,15,UHF X11: X11 Built for VisionOS and Apple Vision Pro,205,41
+2026-06-21T10:37:27.342258+00:00,48609766,16,"DOS Game ""F-15 Strike Eagle II"" reversing project needs DOS test pilots",258,68
+2026-06-21T10:37:27.342258+00:00,48608570,17,"Show HN: TownSquare, a tiny presence layer for websites",180,101
+2026-06-21T10:37:27.342258+00:00,48612502,18,Unauthorized alert sent to cell phones across Brazil,136,97
+2026-06-21T10:37:27.342258+00:00,48591276,19,Guide to the TD4 4-bit DIY CPU,37,3
+2026-06-21T10:37:27.342258+00:00,48615680,20,Building reliable agentic AI systems,106,22
+2026-06-21T10:37:27.342258+00:00,48600311,21,Proportional-Integral-Derivative Controllers,28,11
+2026-06-21T10:37:27.342258+00:00,48615569,22,Your brain was never designed for this much bad news,205,149
+2026-06-21T10:37:27.342258+00:00,48612740,23,Alice is impatient,100,29
+2026-06-21T10:37:27.342258+00:00,48583407,24,Excessive nil pointer checks in Go,43,36
+2026-06-21T10:37:27.342258+00:00,48582894,25,Whole cross-sectional human ultrasound tomography,73,13
+2026-06-21T10:37:27.342258+00:00,48608394,26,Temporary Cloudflare accounts for AI agents,212,113
+2026-06-21T10:37:27.342258+00:00,48612943,27,"Linux eliminates the strncpy API after six years of work, 360 patches",212,194
+2026-06-21T10:37:27.342258+00:00,48614631,28,When I reject AI code even if it works,186,105
+2026-06-21T10:37:27.342258+00:00,48614311,29,Project Fetch: Phase Two,60,21
+2026-06-21T10:37:27.342258+00:00,48610224,30,Show HN: StartupWiki – A Free Alternative to Crunchbase,196,62
+2026-06-21T10:37:27.342258+00:00,48615890,31,"The Lost Story of Alan Turing's ""Delilah"" Project",21,1
+2026-06-21T10:37:27.342258+00:00,48617323,32,CTOs Agree: Cognitive Debt Is the New Technical Debt,7,1
+2026-06-21T10:37:27.342258+00:00,48615529,33,Armstrong Effect,30,2
+2026-06-21T10:37:27.342258+00:00,48610841,34,Bun has an open PR adding shared-memory threads to JavaScriptCore,134,272
+2026-06-21T10:37:27.342258+00:00,48611942,35,PostgresBench: A Reproducible Benchmark for Postgres Services,101,22
+2026-06-21T10:37:27.342258+00:00,48608515,36,The rise of South Korea’s weapons business,139,50
+2026-06-21T10:37:27.342258+00:00,48611513,37,Show HN: Make PDFs look scanned (CLI or in the browser via WASM),120,54
+2026-06-21T10:37:27.342258+00:00,48611411,38,The Wholesale Plagiarism of Obscure Sorrows,371,147
+2026-06-21T10:37:27.342258+00:00,48600167,39,GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2,527,253
+2026-06-21T10:37:27.342258+00:00,48554206,40,Semiconductor Lifeline Keeps Fighter Jets in the Air,68,20
+2026-06-21T10:37:27.342258+00:00,48560227,41,Inference cost at scale with napkin math,75,17
+2026-06-21T10:37:27.342258+00:00,48616017,42,The 100k Whys of AI,111,62
+2026-06-21T10:37:27.342258+00:00,48608223,43,CSSQuake,507,108
+2026-06-21T10:37:27.342258+00:00,48609231,44,Show HN: We post-trained a model that pen tests instead of refusing,82,37
+2026-06-21T10:37:27.342258+00:00,48570364,45,Show HN: Microcrad – Micrograd Reimplemented in C,70,24
+2026-06-21T10:37:27.342258+00:00,48564763,46,NOLA 'Nacular: One man's crusade to preserve New Orleans's vernacular signage,36,2
+2026-06-21T10:37:27.342258+00:00,48611585,47,Millimeter wave technology drills 100 meters into granite,49,8
+2026-06-21T10:37:27.342258+00:00,48605310,48,Why has the pointe shoe been so resistant to change?,55,57
+2026-06-21T10:37:27.342258+00:00,48608255,49,Bootimus – A Self-Contained PXE and HTTP Boot Server,117,38
+2026-06-21T10:37:27.342258+00:00,48612095,50,Show HN: My Windows XP portfolio with working Game Boy and iPod,62,31
