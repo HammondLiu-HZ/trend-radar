@@ -4115,3 +4115,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-21T13:13:47.878799+00:00,48617323,48,CTOs Agree: Cognitive Debt Is the New Technical Debt,55,54
 2026-06-21T13:13:47.878799+00:00,48608223,49,CSSQuake,511,109
 2026-06-21T13:13:47.878799+00:00,48560227,50,Inference cost at scale with napkin math,77,17
+2026-06-21T16:01:23.615132+00:00,48619831,1,(How to Write a (Lisp) Interpreter (In Python)),15,4
+2026-06-21T16:01:23.615132+00:00,48617990,2,Beyond All Reason (Free Total Annihilation Inspired RTS),227,109
+2026-06-21T16:01:23.615132+00:00,48619140,3,Who Owns Your ATProto Identity? Hint: It's Probably Not You,67,50
+2026-06-21T16:01:23.615132+00:00,48587619,4,Commodore Made a Digital Detox Phone That Isn't Dumb,39,21
+2026-06-21T16:01:23.615132+00:00,48617782,5,The case against geometric algebra (2024),93,67
+2026-06-21T16:01:23.615132+00:00,48618226,6,David Ahl's Basic Computer Games Ported to C,35,15
+2026-06-21T16:01:23.615132+00:00,48616800,7,Google Hits 50% IPv6,301,292
+2026-06-21T16:01:23.615132+00:00,48616713,8,A 3D voxel game engine written in APL,105,9
+2026-06-21T16:01:23.615132+00:00,48608645,9,Loupe – A iOS app that raises awareness about what native apps can see,422,167
+2026-06-21T16:01:23.615132+00:00,48599555,10,"Running MicroVMs in Proxmox VE, the Easy Way",145,17
+2026-06-21T16:01:23.615132+00:00,48587865,11,Two Qwen3 models on one DGX Spark: the residency math,38,21
+2026-06-21T16:01:23.615132+00:00,48619394,12,"Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",18,11
+2026-06-21T16:01:23.615132+00:00,48613755,13,Renting a sewing machine from the library,290,165
+2026-06-21T16:01:23.615132+00:00,48613555,14,Slow breathing modulates brain function and risk behavior,305,85
+2026-06-21T16:01:23.615132+00:00,48573902,15,Zigzag Decoding with AVX-512,106,21
+2026-06-21T16:01:23.615132+00:00,48613872,16,Epoll vs. io_uring in Linux,216,51
+2026-06-21T16:01:23.615132+00:00,48568181,17,A tale of two path separators,49,18
+2026-06-21T16:01:23.615132+00:00,48566824,18,"System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",3,0
+2026-06-21T16:01:23.615132+00:00,48614844,19,Developers don't understand CORS (2019),281,218
+2026-06-21T16:01:23.615132+00:00,48584261,20,15-minute at-home Lyme disease tick test,168,123
+2026-06-21T16:01:23.615132+00:00,48610827,21,SMPTE Makes Its Standards Freely Accessible,276,93
+2026-06-21T16:01:23.615132+00:00,48560050,22,Rare medieval bookmark exceeds expectations at auction,29,9
+2026-06-21T16:01:23.615132+00:00,48616173,23,Windows UI evolution: Clicking an unassociated file,100,67
+2026-06-21T16:01:23.615132+00:00,48609766,24,"DOS Game ""F-15 Strike Eagle II"" reversing project needs DOS test pilots",269,69
+2026-06-21T16:01:23.615132+00:00,48610853,25,UHF X11: X11 Built for VisionOS and Apple Vision Pro,218,49
+2026-06-21T16:01:23.615132+00:00,48612502,26,Unauthorized alert sent to cell phones across Brazil,169,124
+2026-06-21T16:01:23.615132+00:00,48600311,27,Proportional-Integral-Derivative Controllers,58,30
+2026-06-21T16:01:23.615132+00:00,48591276,28,Guide to the TD4 4-bit DIY CPU,56,6
+2026-06-21T16:01:23.615132+00:00,48582894,29,Whole cross-sectional human ultrasound tomography,98,19
+2026-06-21T16:01:23.615132+00:00,48615680,30,Building reliable agentic AI systems,142,36
+2026-06-21T16:01:23.615132+00:00,48612740,31,Alice is impatient,135,36
+2026-06-21T16:01:23.615132+00:00,48608570,32,"Show HN: TownSquare, a tiny presence layer for websites",219,123
+2026-06-21T16:01:23.615132+00:00,48612943,33,"Linux eliminates the strncpy API after six years of work, 360 patches",259,276
+2026-06-21T16:01:23.615132+00:00,48600167,34,GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2,540,272
+2026-06-21T16:01:23.615132+00:00,48614311,35,Project Fetch: Phase Two,70,23
+2026-06-21T16:01:23.615132+00:00,48610224,36,Show HN: StartupWiki – A Free Alternative to Crunchbase,214,65
+2026-06-21T16:01:23.615132+00:00,48611942,37,PostgresBench: A Reproducible Benchmark for Postgres Services,107,22
+2026-06-21T16:01:23.615132+00:00,48611513,38,Show HN: Make PDFs look scanned (CLI or in the browser via WASM),135,58
+2026-06-21T16:01:23.615132+00:00,48610841,39,Bun has an open PR adding shared-memory threads to JavaScriptCore,137,292
+2026-06-21T16:01:23.615132+00:00,48608515,40,The rise of South Korea’s weapons business,145,54
+2026-06-21T16:01:23.615132+00:00,48615529,41,Armstrong Effect,39,2
+2026-06-21T16:01:23.615132+00:00,48611411,42,The Wholesale Plagiarism of Obscure Sorrows,386,151
+2026-06-21T16:01:23.615132+00:00,48618427,43,"Safe SIMD in Rust, Even on the Inside – By Sergey ""Shnatsel"" Davidoff",7,0
+2026-06-21T16:01:23.615132+00:00,48608223,44,CSSQuake,517,110
+2026-06-21T16:01:23.615132+00:00,48618086,45,100 Greatest Bird Names of All Time,18,4
+2026-06-21T16:01:23.615132+00:00,48560227,46,Inference cost at scale with napkin math,82,17
+2026-06-21T16:01:23.615132+00:00,48554206,47,Semiconductor Lifeline Keeps Fighter Jets in the Air,72,22
+2026-06-21T16:01:23.615132+00:00,48615890,48,"The Lost Story of Alan Turing's ""Delilah"" Project (2025)",28,1
+2026-06-21T16:01:23.615132+00:00,48619005,49,AI Under Trump's Control: Can France Still Avoid Digital Dependence?,19,8
+2026-06-21T16:01:23.615132+00:00,48611585,50,Millimeter wave technology drills 100 meters into granite,61,8
