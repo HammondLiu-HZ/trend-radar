@@ -4065,3 +4065,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-21T10:37:27.342258+00:00,48605310,48,Why has the pointe shoe been so resistant to change?,55,57
 2026-06-21T10:37:27.342258+00:00,48608255,49,Bootimus – A Self-Contained PXE and HTTP Boot Server,117,38
 2026-06-21T10:37:27.342258+00:00,48612095,50,Show HN: My Windows XP portfolio with working Game Boy and iPod,62,31
+2026-06-21T13:13:47.878799+00:00,48617990,1,Beyond All Reason (Free Total Annihilation Inspired RTS),45,16
+2026-06-21T13:13:47.878799+00:00,48617782,2,The case against geometric algebra (2024),43,15
+2026-06-21T13:13:47.878799+00:00,48616713,3,A 3D voxel game engine written in APL,81,7
+2026-06-21T13:13:47.878799+00:00,48618226,4,David Ahl's Basic Computer Games Ported to C,8,2
+2026-06-21T13:13:47.878799+00:00,48616800,5,Google Hits 50% IPv6,210,198
+2026-06-21T13:13:47.878799+00:00,48618455,6,Anthropic to Require ID Verification for Certain Capabilities Starting July 8,33,17
+2026-06-21T13:13:47.878799+00:00,48608645,7,Loupe – A iOS app that raises awareness about what native apps can see,364,152
+2026-06-21T13:13:47.878799+00:00,48599555,8,"Running MicroVMs in Proxmox VE, the Easy Way",108,9
+2026-06-21T13:13:47.878799+00:00,48573902,9,Zigzag Decoding with AVX-512,92,18
+2026-06-21T13:13:47.878799+00:00,48613755,10,Renting a sewing machine from the library,261,151
+2026-06-21T13:13:47.878799+00:00,48613555,11,Slow breathing modulates brain function and risk behavior,247,72
+2026-06-21T13:13:47.878799+00:00,48613872,12,Epoll vs. io_uring in Linux,191,47
+2026-06-21T13:13:47.878799+00:00,48587865,13,Two Qwen3 models on one DGX Spark: the residency math,6,0
+2026-06-21T13:13:47.878799+00:00,48568181,14,A tale of two path separators,25,7
+2026-06-21T13:13:47.878799+00:00,48616173,15,Windows UI evolution: Clicking an unassociated file,67,41
+2026-06-21T13:13:47.878799+00:00,48614844,16,Developers don't understand CORS (2019),244,181
+2026-06-21T13:13:47.878799+00:00,48584261,17,15-minute at-home Lyme disease tick test,142,97
+2026-06-21T13:13:47.878799+00:00,48569309,18,Cosmodial Sky Atlas,9,3
+2026-06-21T13:13:47.878799+00:00,48608570,19,"Show HN: TownSquare, a tiny presence layer for websites",207,110
+2026-06-21T13:13:47.878799+00:00,48610827,20,SMPTE Makes Its Standards Freely Accessible,267,90
+2026-06-21T13:13:47.878799+00:00,48560050,21,Rare medieval bookmark exceeds expectations at auction,13,5
+2026-06-21T13:13:47.878799+00:00,48600311,22,Proportional-Integral-Derivative Controllers,47,20
+2026-06-21T13:13:47.878799+00:00,48609766,23,"DOS Game ""F-15 Strike Eagle II"" reversing project needs DOS test pilots",264,68
+2026-06-21T13:13:47.878799+00:00,48612502,24,Unauthorized alert sent to cell phones across Brazil,152,112
+2026-06-21T13:13:47.878799+00:00,48610853,25,UHF X11: X11 Built for VisionOS and Apple Vision Pro,211,47
+2026-06-21T13:13:47.878799+00:00,48591276,26,Guide to the TD4 4-bit DIY CPU,50,5
+2026-06-21T13:13:47.878799+00:00,48582894,27,Whole cross-sectional human ultrasound tomography,87,14
+2026-06-21T13:13:47.878799+00:00,48615680,28,Building reliable agentic AI systems,116,28
+2026-06-21T13:13:47.878799+00:00,48612740,29,Alice is impatient,111,35
+2026-06-21T13:13:47.878799+00:00,48617991,30,Foreign-Born Entrepreneurs Drive America's Unicorn Boom,10,3
+2026-06-21T13:13:47.878799+00:00,48608394,31,Temporary Cloudflare accounts for AI agents,223,118
+2026-06-21T13:13:47.878799+00:00,48618086,32,100 Greatest Bird Names of All Time,9,1
+2026-06-21T13:13:47.878799+00:00,48612943,33,"Linux eliminates the strncpy API after six years of work, 360 patches",243,235
+2026-06-21T13:13:47.878799+00:00,48618481,34,Printing Gaussian Splats,3,0
+2026-06-21T13:13:47.878799+00:00,48614311,35,Project Fetch: Phase Two,68,22
+2026-06-21T13:13:47.878799+00:00,48618427,36,"Safe SIMD in Rust, Even on the Inside – By Sergey ""Shnatsel"" Davidoff",3,0
+2026-06-21T13:13:47.878799+00:00,48610224,37,Show HN: StartupWiki – A Free Alternative to Crunchbase,207,64
+2026-06-21T13:13:47.878799+00:00,48611942,38,PostgresBench: A Reproducible Benchmark for Postgres Services,104,22
+2026-06-21T13:13:47.878799+00:00,48600167,39,GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2,533,268
+2026-06-21T13:13:47.878799+00:00,48611513,40,Show HN: Make PDFs look scanned (CLI or in the browser via WASM),129,55
+2026-06-21T13:13:47.878799+00:00,48610841,41,Bun has an open PR adding shared-memory threads to JavaScriptCore,136,280
+2026-06-21T13:13:47.878799+00:00,48615529,42,Armstrong Effect,37,2
+2026-06-21T13:13:47.878799+00:00,48608515,43,The rise of South Korea’s weapons business,143,52
+2026-06-21T13:13:47.878799+00:00,48617686,44,"TypeScript 7 RC: the compiler rewritten in Go, around 10x faster",7,0
+2026-06-21T13:13:47.878799+00:00,48611411,45,The Wholesale Plagiarism of Obscure Sorrows,377,147
+2026-06-21T13:13:47.878799+00:00,48615890,46,"The Lost Story of Alan Turing's ""Delilah"" Project",27,1
+2026-06-21T13:13:47.878799+00:00,48554206,47,Semiconductor Lifeline Keeps Fighter Jets in the Air,69,20
+2026-06-21T13:13:47.878799+00:00,48617323,48,CTOs Agree: Cognitive Debt Is the New Technical Debt,55,54
+2026-06-21T13:13:47.878799+00:00,48608223,49,CSSQuake,511,109
+2026-06-21T13:13:47.878799+00:00,48560227,50,Inference cost at scale with napkin math,77,17
