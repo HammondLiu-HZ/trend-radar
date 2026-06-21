@@ -3965,3 +3965,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-21T00:17:00.696205+00:00,48611940,48,How the Fifth Lateran Council Unlocked Financial Theory,8,0
 2026-06-21T00:17:00.696205+00:00,48612859,49,Seeing the world in radio waves with the QuadRF,37,2
 2026-06-21T00:17:00.696205+00:00,48587584,50,Mencius (2016),22,1
+2026-06-21T06:11:11.602165+00:00,48615680,1,Building Reliable Agentic AI Systems,34,2
+2026-06-21T06:11:11.602165+00:00,48614844,2,Developers don't understand CORS (2019),97,36
+2026-06-21T06:11:11.602165+00:00,48573902,3,Zigzag Decoding with AVX-512,21,0
+2026-06-21T06:11:11.602165+00:00,48613755,4,Renting a sewing machine from the library,183,93
+2026-06-21T06:11:11.602165+00:00,48600311,5,Proportion-Integral-Derivative Controllers,10,0
+2026-06-21T06:11:11.602165+00:00,48608645,6,Loupe – A iOS app that raises awareness about what native apps can see,177,45
+2026-06-21T06:11:11.602165+00:00,48613872,7,Epoll vs. io_uring in Linux,113,31
+2026-06-21T06:11:11.602165+00:00,48608570,8,"Show HN: TownSquare, a tiny presence layer for websites",133,67
+2026-06-21T06:11:11.602165+00:00,48613555,9,Slow breathing modulates brain function and risk behavior,135,28
+2026-06-21T06:11:11.602165+00:00,48584261,10,15-minute at-home Lyme disease tick test,81,28
+2026-06-21T06:11:11.602165+00:00,48615569,11,Your brain was never designed for this much bad news,71,42
+2026-06-21T06:11:11.602165+00:00,48591276,12,Guide to the TD4 4-bit DIY CPU,22,1
+2026-06-21T06:11:11.602165+00:00,48615529,13,Armstrong Effect,18,1
+2026-06-21T06:11:11.602165+00:00,48614631,14,When I reject AI code even if it works,126,73
+2026-06-21T06:11:11.602165+00:00,48614311,15,Project Fetch: Phase Two,52,19
+2026-06-21T06:11:11.602165+00:00,48610827,16,SMPTE Makes Its Standards Freely Accessible,243,72
+2026-06-21T06:11:11.602165+00:00,48610853,17,UHF X11: X11 Built for VisionOS and Apple Vision Pro,190,32
+2026-06-21T06:11:11.602165+00:00,48609766,18,"DOS Game ""F-15 Strike Eagle II"" reversing project needs DOS test pilots",230,62
+2026-06-21T06:11:11.602165+00:00,48612502,19,Unauthorized alert sent to cell phones across Brazil,115,83
+2026-06-21T06:11:11.602165+00:00,48564763,20,NOLA 'Nacular: One man's crusade to preserve New Orleans's vernacular signage,33,2
+2026-06-21T06:11:11.602165+00:00,48582894,21,Whole cross-sectional human ultrasound tomography,55,9
+2026-06-21T06:11:11.602165+00:00,48554206,22,Semiconductor Lifeline Keeps Fighter Jets in the Air,67,18
+2026-06-21T06:11:11.602165+00:00,48612943,23,"Linux eliminates the strncpy API after six years of work, 360 patches",158,123
+2026-06-21T06:11:11.602165+00:00,48612740,24,Alice is impatient,76,23
+2026-06-21T06:11:11.602165+00:00,48608394,25,Temporary Cloudflare accounts for AI agents,197,103
+2026-06-21T06:11:11.602165+00:00,48611942,26,PostgresBench: A Reproducible Benchmark for Postgres Services,95,22
+2026-06-21T06:11:11.602165+00:00,48610224,27,Show HN: StartupWiki – A Free Alternative to Crunchbase,184,58
+2026-06-21T06:11:11.602165+00:00,48560227,28,Inference cost at scale with napkin math,73,15
+2026-06-21T06:11:11.602165+00:00,48608515,29,The rise of South Korea’s weapons business,134,46
+2026-06-21T06:11:11.602165+00:00,48611513,30,Show HN: Make PDFs look scanned (CLI or in the browser via WASM),110,49
+2026-06-21T06:11:11.602165+00:00,48611411,31,The Wholesale Plagiarism of Obscure Sorrows,362,144
+2026-06-21T06:11:11.602165+00:00,48610841,32,Bun has an open PR adding shared-memory threads to JavaScriptCore,127,249
+2026-06-21T06:11:11.602165+00:00,48613008,33,Supermarket giant Tesco sues VMware for breach of contract (2025),122,31
+2026-06-21T06:11:11.602165+00:00,48600167,34,GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2,519,250
+2026-06-21T06:11:11.602165+00:00,48615753,35,Polymarket Paid Dozens to Post Videos of Themselves 'Winning' with Fake Bets,10,2
+2026-06-21T06:11:11.602165+00:00,48608223,36,CSSQuake,490,102
+2026-06-21T06:11:11.602165+00:00,48609231,37,Show HN: We post-trained a model that pen tests instead of refusing,78,37
+2026-06-21T06:11:11.602165+00:00,48570364,38,Show HN: Microcrad – Micrograd Reimplemented in C,69,21
+2026-06-21T06:11:11.602165+00:00,48605310,39,Why has the pointe shoe been so resistant to change?,52,56
+2026-06-21T06:11:11.602165+00:00,48614309,40,Pondering routing more of my traffic via nodes outside the UK,9,0
+2026-06-21T06:11:11.602165+00:00,48613631,41,Pre-2022 Books,180,112
+2026-06-21T06:11:11.602165+00:00,48612095,42,Show HN: My Windows XP portfolio with working Game Boy and iPod,57,30
+2026-06-21T06:11:11.602165+00:00,48611585,43,Millimeter wave technology drills 100 meters into granite,40,3
+2026-06-21T06:11:11.602165+00:00,48611857,44,Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions,38,9
+2026-06-21T06:11:11.602165+00:00,48609553,45,Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios,69,15
+2026-06-21T06:11:11.602165+00:00,48614809,46,White House delays US voting-machine vulnerability report,95,80
+2026-06-21T06:11:11.602165+00:00,48608255,47,Bootimus – A Self-Contained PXE and HTTP Boot Server,111,37
+2026-06-21T06:11:11.602165+00:00,48611083,48,"The ability to regrow body parts is dormant in mammals, not lost",165,57
+2026-06-21T06:11:11.602165+00:00,48610816,49,"Show HN: Ember, a native iOS Hacker News reader I built around accessibility",93,22
+2026-06-21T06:11:11.602165+00:00,48612098,50,AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July,144,32
