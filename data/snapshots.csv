@@ -3915,3 +3915,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-20T22:17:30.001960+00:00,48608681,48,Pong in S Favicon,29,4
 2026-06-20T22:17:30.001960+00:00,48606140,49,Where to Find the Colors Your Screen Can't Show You,414,112
 2026-06-20T22:17:30.001960+00:00,48612614,50,Microsoft will end Office 2021 support in October,10,0
+2026-06-21T00:17:00.696205+00:00,48613631,1,Pre-2022 Books,114,56
+2026-06-21T00:17:00.696205+00:00,48613755,2,Not just books: renting a sewing machine from the library can improve democracy,48,15
+2026-06-21T00:17:00.696205+00:00,48613872,3,Epoll vs. Io_uring in Linux,25,3
+2026-06-21T00:17:00.696205+00:00,48610827,4,SMPTE Makes Its Standards Freely Accessible,215,58
+2026-06-21T00:17:00.696205+00:00,48608570,5,"Show HN: TownSquare, a tiny presence layer for websites",19,7
+2026-06-21T00:17:00.696205+00:00,48612740,6,Alice is impatient,40,7
+2026-06-21T00:17:00.696205+00:00,48613555,7,Slow breathing modulates brain function and risk behavior,16,0
+2026-06-21T00:17:00.696205+00:00,48610853,8,UHF X11: X11 Built for VisionOS and Apple Vision Pro,151,20
+2026-06-21T00:17:00.696205+00:00,48609766,9,"DOS Game ""F-15 Strike Eagle II"" reversing project needs DOS test pilots",189,57
+2026-06-21T00:17:00.696205+00:00,48554206,10,Semiconductor Lifeline Keeps Fighter Jets in the Air,22,4
+2026-06-21T00:17:00.696205+00:00,48608223,11,CSSQuake,444,93
+2026-06-21T00:17:00.696205+00:00,48611942,12,PostgresBench: A Reproducible Benchmark for Postgres Services,71,19
+2026-06-21T00:17:00.696205+00:00,48560227,13,Inference cost at scale with napkin math,50,12
+2026-06-21T00:17:00.696205+00:00,48610224,14,Show HN: StartupWiki – A Free Alternative to Crunchbase,142,46
+2026-06-21T00:17:00.696205+00:00,48611411,15,The Wholesale Plagiarism of Obscure Sorrows,302,130
+2026-06-21T00:17:00.696205+00:00,48612502,16,Unauthorized alert sent to cell phones across Brazil,74,47
+2026-06-21T00:17:00.696205+00:00,48608515,17,The rise of South Korea’s weapons business,101,35
+2026-06-21T00:17:00.696205+00:00,48608645,18,Loupe – A iOS app that raises awareness about what native apps can see,17,3
+2026-06-21T00:17:00.696205+00:00,48613008,19,Supermarket giant Tesco sues VMware for breach of contract,71,19
+2026-06-21T00:17:00.696205+00:00,48614062,20,Show HN: Submarius – Global water clarity for divers,4,0
+2026-06-21T00:17:00.696205+00:00,48613732,21,"Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World",121,50
+2026-06-21T00:17:00.696205+00:00,48610841,22,Bun has an open PR adding shared-memory threads to JavaScriptCore,108,188
+2026-06-21T00:17:00.696205+00:00,48608394,23,Temporary Cloudflare accounts for AI agents,155,90
+2026-06-21T00:17:00.696205+00:00,48582894,24,Whole cross-sectional human ultrasound tomography,5,1
+2026-06-21T00:17:00.696205+00:00,48609231,25,Show HN: We post-trained a model that pen tests instead of refusing,68,29
+2026-06-21T00:17:00.696205+00:00,48611513,26,Show HN: Make PDFs look scanned (CLI or in the browser via WASM),72,40
+2026-06-21T00:17:00.696205+00:00,48611857,27,Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions,31,5
+2026-06-21T00:17:00.696205+00:00,48612714,28,A Love Story,43,5
+2026-06-21T00:17:00.696205+00:00,48612095,29,Show HN: My Windows XP portfolio with working Game Boy and iPod,47,23
+2026-06-21T00:17:00.696205+00:00,48605310,30,Why has the pointe shoe been so resistant to change?,45,46
+2026-06-21T00:17:00.696205+00:00,48570364,31,Show HN: Microcrad – Micrograd Reimplemented in C,63,20
+2026-06-21T00:17:00.696205+00:00,48602683,32,Coding a Brick Tower [video],15,5
+2026-06-21T00:17:00.696205+00:00,48611083,33,"The ability to regrow body parts is dormant in mammals, not lost",141,49
+2026-06-21T00:17:00.696205+00:00,48613328,34,"Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl",28,16
+2026-06-21T00:17:00.696205+00:00,48612098,35,AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July,116,29
+2026-06-21T00:17:00.696205+00:00,48611585,36,Millimeter wave technology drills 100 meters into granite,18,1
+2026-06-21T00:17:00.696205+00:00,48576217,37,Now You Don't: When Espionage Meets Magic,26,3
+2026-06-21T00:17:00.696205+00:00,48609553,38,Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios,63,14
+2026-06-21T00:17:00.696205+00:00,48613610,39,I can haz smoller NixOS ISOs?,17,0
+2026-06-21T00:17:00.696205+00:00,48612943,40,"Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches",72,40
+2026-06-21T00:17:00.696205+00:00,48610816,41,"Show HN: Ember, a native iOS Hacker News reader I built around accessibility",87,19
+2026-06-21T00:17:00.696205+00:00,48593346,42,"Show HN: Domphy – plain-object UI for tool apps, AI-correctable output",3,0
+2026-06-21T00:17:00.696205+00:00,48606619,43,I Stored a Website in a Favicon,288,98
+2026-06-21T00:17:00.696205+00:00,48600167,44,GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2,491,246
+2026-06-21T00:17:00.696205+00:00,48609422,45,Web Browsers on PDAS,45,15
+2026-06-21T00:17:00.696205+00:00,48608255,46,Bootimus – A Self-Contained PXE and HTTP Boot Server,105,37
+2026-06-21T00:17:00.696205+00:00,48609343,47,"Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",246,131
+2026-06-21T00:17:00.696205+00:00,48611940,48,How the Fifth Lateran Council Unlocked Financial Theory,8,0
+2026-06-21T00:17:00.696205+00:00,48612859,49,Seeing the world in radio waves with the QuadRF,37,2
+2026-06-21T00:17:00.696205+00:00,48587584,50,Mencius (2016),22,1
