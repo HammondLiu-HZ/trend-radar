@@ -4165,3 +4165,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-21T16:01:23.615132+00:00,48615890,48,"The Lost Story of Alan Turing's ""Delilah"" Project (2025)",28,1
 2026-06-21T16:01:23.615132+00:00,48619005,49,AI Under Trump's Control: Can France Still Avoid Digital Dependence?,19,8
 2026-06-21T16:01:23.615132+00:00,48611585,50,Millimeter wave technology drills 100 meters into granite,61,8
+2026-06-21T18:23:39.937879+00:00,48620090,1,Code duplication is far cheaper than the wrong abstraction (2016),191,135
+2026-06-21T18:23:39.937879+00:00,48620462,2,"Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",34,7
+2026-06-21T18:23:39.937879+00:00,48619831,3,(How to Write a (Lisp) Interpreter (In Python)) (2010),73,32
+2026-06-21T18:23:39.937879+00:00,48617990,4,Beyond All Reason (Free Total Annihilation Inspired RTS),305,164
+2026-06-21T18:23:39.937879+00:00,48620342,5,The Minimum Viable Unit of Saleable Software,34,8
+2026-06-21T18:23:39.937879+00:00,48618455,6,Identity verification on Claude,157,152
+2026-06-21T18:23:39.937879+00:00,48587619,7,The Commodore Callback 8020 smart flip phone,86,61
+2026-06-21T18:23:39.937879+00:00,48571136,8,Occupancy Math on the AMD MI355X: A From-First-Principles Guide,18,0
+2026-06-21T18:23:39.937879+00:00,48566824,10,"System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",22,9
+2026-06-21T18:23:39.937879+00:00,48608645,11,Loupe – A iOS app that raises awareness about what native apps can see,465,184
+2026-06-21T18:23:39.937879+00:00,48614844,12,Developers don't understand CORS (2019),299,236
+2026-06-21T18:23:39.937879+00:00,48616713,13,A 3D voxel game engine written in APL,120,10
+2026-06-21T18:23:39.937879+00:00,48619394,14,"Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",73,45
+2026-06-21T18:23:39.937879+00:00,48594090,15,An Embedded Linux on a Single Floppy,10,4
+2026-06-21T18:23:39.937879+00:00,48599555,16,"Running MicroVMs in Proxmox VE, the Easy Way",174,24
+2026-06-21T18:23:39.937879+00:00,48587865,17,Two Qwen3 models on one DGX Spark: the residency math,63,28
+2026-06-21T18:23:39.937879+00:00,48620142,18,The early hiring funnel is now breaking on both ends,51,70
+2026-06-21T18:23:39.937879+00:00,48613555,19,Slow breathing modulates brain function and risk behavior,331,96
+2026-06-21T18:23:39.937879+00:00,48612844,20,"Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",8,1
+2026-06-21T18:23:39.937879+00:00,48613755,21,Renting a sewing machine from the library,305,178
+2026-06-21T18:23:39.937879+00:00,48583407,22,Excessive nil pointer checks in Go,52,51
+2026-06-21T18:23:39.937879+00:00,48615569,23,The brain was not designed for this much bad news,283,255
+2026-06-21T18:23:39.937879+00:00,48616173,24,Windows UI evolution: Clicking an unassociated file,113,78
+2026-06-21T18:23:39.937879+00:00,48613872,25,Epoll vs. io_uring in Linux,231,53
+2026-06-21T18:23:39.937879+00:00,48573902,26,Zigzag Decoding with AVX-512,115,21
+2026-06-21T18:23:39.937879+00:00,48617782,27,The case against geometric algebra (2024),108,92
+2026-06-21T18:23:39.937879+00:00,48616017,28,The 100k whys of AI,137,80
+2026-06-21T18:23:39.937879+00:00,48620776,29,Health insurance claim denial rates range from 13% to 35% by insurer,38,22
+2026-06-21T18:23:39.937879+00:00,48568181,30,A tale of two path separators,58,22
+2026-06-21T18:23:39.937879+00:00,48619140,31,Who owns your ATProto identity?,118,109
+2026-06-21T18:23:39.937879+00:00,48584261,32,15-minute at-home Lyme disease tick test,186,134
+2026-06-21T18:23:39.937879+00:00,48616800,33,Google Hits 50% IPv6,364,348
+2026-06-21T18:23:39.937879+00:00,48612502,34,Unauthorized alert sent to cell phones across Brazil,186,128
+2026-06-21T18:23:39.937879+00:00,48609766,35,"DOS Game ""F-15 Strike Eagle II"" reversing project needs DOS test pilots",272,70
+2026-06-21T18:23:39.937879+00:00,48610853,36,UHF X11: X11 Built for VisionOS and Apple Vision Pro,222,51
+2026-06-21T18:23:39.937879+00:00,48610827,37,SMPTE Makes Its Standards Freely Accessible,282,97
+2026-06-21T18:23:39.937879+00:00,48615680,38,Building reliable agentic AI systems,170,40
+2026-06-21T18:23:39.937879+00:00,48582894,39,Whole cross-sectional human ultrasound tomography,104,21
+2026-06-21T18:23:39.937879+00:00,48560050,40,Rare medieval bookmark exceeds expectations at auction,38,15
+2026-06-21T18:23:39.937879+00:00,48620930,41,Venture Debt for Deep Tech: Financing the Future,4,0
+2026-06-21T18:23:39.937879+00:00,48600311,42,Proportional-Integral-Derivative Controllers,66,39
+2026-06-21T18:23:39.937879+00:00,48612740,43,Alice is impatient,138,38
+2026-06-21T18:23:39.937879+00:00,48591276,44,Guide to the TD4 4-bit DIY CPU,60,6
+2026-06-21T18:23:39.937879+00:00,48612943,45,"Linux eliminates the strncpy API after six years of work, 360 patches",268,287
+2026-06-21T18:23:39.937879+00:00,48600167,46,GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2,544,279
+2026-06-21T18:23:39.937879+00:00,48615776,47,Don’t use AI to write things that you present as your own work,42,52
+2026-06-21T18:23:39.937879+00:00,48608570,48,"Show HN: TownSquare, a tiny presence layer for websites",220,127
+2026-06-21T18:23:39.937879+00:00,48617278,49,"NSA director: 'Mythos ""broke into almost all of our classified systems in hours""",27,30
+2026-06-21T18:23:39.937879+00:00,48610224,50,Show HN: StartupWiki – A Free Alternative to Crunchbase,219,66
