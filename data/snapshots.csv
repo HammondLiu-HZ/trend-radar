@@ -4263,3 +4263,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-21T20:43:29.188262+00:00,48560050,48,Rare medieval bookmark exceeds expectations at auction,40,15
 2026-06-21T20:43:29.188262+00:00,48600167,49,GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2,549,283
 2026-06-21T20:43:29.188262+00:00,48591276,50,Guide to the TD4 4-bit DIY CPU,61,6
+2026-06-21T22:20:07.039941+00:00,48622778,1,Apertus – Open Foundation Model for Sovereign AI,49,8
+2026-06-21T22:20:07.039941+00:00,48622626,2,Everything Is Logarithms,37,0
+2026-06-21T22:20:07.039941+00:00,48621517,3,JSON-LD Explained for Personal Websites,121,31
+2026-06-21T22:20:07.039941+00:00,48622590,4,Stop wasting tokens and re explaining your project between sessions,24,17
+2026-06-21T22:20:07.039941+00:00,48622731,5,PowerFox Browser,20,5
+2026-06-21T22:20:07.039941+00:00,48620090,6,Prefer duplication over the wrong abstraction (2016),385,263
+2026-06-21T22:20:07.039941+00:00,48618455,7,Identity verification on Claude,465,425
+2026-06-21T22:20:07.039941+00:00,48617990,8,Beyond All Reason (Free Total Annihilation Inspired RTS),399,237
+2026-06-21T22:20:07.039941+00:00,48619831,9,(How to Write a (Lisp) Interpreter (In Python)) (2010),155,46
+2026-06-21T22:20:07.039941+00:00,48620342,10,The minimum viable unit of saleable software,95,43
+2026-06-21T22:20:07.039941+00:00,48622234,11,"Ask for no, don't ask for yes (2022)",63,27
+2026-06-21T22:20:07.039941+00:00,48622788,12,FDA advisors unanimously vote to approve Moderna's mRNA after agency drama,26,10
+2026-06-21T22:20:07.039941+00:00,48594090,13,An Embedded Linux on a Single Floppy,47,21
+2026-06-21T22:20:07.039941+00:00,48579013,14,HPV jabs cut risk of dying from cervical cancer before 30 to almost zero,34,5
+2026-06-21T22:20:07.039941+00:00,48618488,15,Show HN: Teach your kids perfect pitch,21,10
+2026-06-21T22:20:07.039941+00:00,48621645,16,Show HN: CleverCrow: give tokens to your favorite projects,21,32
+2026-06-21T22:20:07.039941+00:00,48597592,18,"Cocktail Optimization, an Integer Programming Problem",22,2
+2026-06-21T22:20:07.039941+00:00,48571136,19,Occupancy Math on the AMD MI355X: A From-First-Principles Guide,41,3
+2026-06-21T22:20:07.039941+00:00,48620502,20,Tell HN: Happy Fathers Day,193,25
+2026-06-21T22:20:07.039941+00:00,48582629,21,Djevops: Self-Host Django Easily,12,5
+2026-06-21T22:20:07.039941+00:00,48584261,22,15-minute at-home Lyme disease tick test,225,145
+2026-06-21T22:20:07.039941+00:00,48616713,23,A 3D voxel game engine written in APL,140,12
+2026-06-21T22:20:07.039941+00:00,48608645,24,Loupe – A iOS app that raises awareness about what native apps can see,502,211
+2026-06-21T22:20:07.039941+00:00,48614844,25,Developers don't understand CORS (2019),343,249
+2026-06-21T22:20:07.039941+00:00,48608570,26,"Show HN: TownSquare, a tiny presence layer for websites",243,137
+2026-06-21T22:20:07.039941+00:00,48599555,27,"Running MicroVMs in Proxmox VE, the Easy Way",204,36
+2026-06-21T22:20:07.039941+00:00,48600311,28,Proportional-Integral-Derivative (PID) controllers,86,48
+2026-06-21T22:20:07.039941+00:00,48566824,29,"System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",39,16
+2026-06-21T22:20:07.039941+00:00,48613555,30,Slow breathing modulates brain function and risk behavior,373,103
+2026-06-21T22:20:07.039941+00:00,48583407,31,Excessive nil pointer checks in Go,95,71
+2026-06-21T22:20:07.039941+00:00,48612844,32,"Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",27,12
+2026-06-21T22:20:07.039941+00:00,48615569,33,The brain was not designed for this much bad news,363,300
+2026-06-21T22:20:07.039941+00:00,48613755,34,Renting a sewing machine from the library,329,197
+2026-06-21T22:20:07.039941+00:00,48622061,35,"Show HN: DebugBrief – turn debugging sessions into reports, no AI",4,1
+2026-06-21T22:20:07.039941+00:00,48622987,36,Rent collections are down in New York – and no one's sure why,5,0
+2026-06-21T22:20:07.039941+00:00,48619394,37,"Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",138,108
+2026-06-21T22:20:07.039941+00:00,48613872,38,Epoll vs. io_uring in Linux,248,60
+2026-06-21T22:20:07.039941+00:00,48587865,39,Two Qwen3 models on one DGX Spark: the residency math,84,39
+2026-06-21T22:20:07.039941+00:00,48620462,40,Burnout is real for open source maintainers,112,56
+2026-06-21T22:20:07.039941+00:00,48621908,41,Graphene experts are trying to close reproducibility gap in 2D materials,5,0
+2026-06-21T22:20:07.039941+00:00,48616173,42,Windows UI evolution: Clicking an unassociated file,129,90
+2026-06-21T22:20:07.039941+00:00,48616017,43,The 100k whys of AI,162,96
+2026-06-21T22:20:07.039941+00:00,48573902,44,Zigzag Decoding with AVX-512,122,21
+2026-06-21T22:20:07.039941+00:00,48620142,45,The early hiring funnel is now breaking on both ends,89,154
+2026-06-21T22:20:07.039941+00:00,48569843,46,Ocient Database Sandbox,8,1
+2026-06-21T22:20:07.039941+00:00,48621416,47,I make good money. Why do I still feel like this?,32,2
+2026-06-21T22:20:07.039941+00:00,48568181,48,A tale of two path separators,62,28
+2026-06-21T22:20:07.039941+00:00,48612502,49,Unauthorized alert sent to cell phones across Brazil,191,132
+2026-06-21T22:20:07.039941+00:00,48622833,50,Jonathan Blow on why LLMs cannot program [video],8,1
