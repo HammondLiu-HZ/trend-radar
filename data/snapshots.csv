@@ -4410,3 +4410,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-22T06:35:29.863422+00:00,48571136,48,Occupancy Math on the AMD MI355X: A From-First-Principles Guide,45,4
 2026-06-22T06:35:29.863422+00:00,48615569,49,The brain was not designed for this much bad news,401,314
 2026-06-22T06:35:29.863422+00:00,48623371,50,I Canceled My French Tutor and Built an LLM Tool That Does It Better,23,3
+2026-06-22T12:55:21.946205+00:00,48626137,1,Deno Desktop,604,226
+2026-06-22T12:55:21.946205+00:00,48626866,2,GLM 5.2 vs. Opus,202,161
+2026-06-22T12:55:21.946205+00:00,48626930,3,Codex logging bug may write TBs to local SSDs,193,101
+2026-06-22T12:55:21.946205+00:00,48605561,4,Help I accidentally a wigglegram,336,72
+2026-06-22T12:55:21.946205+00:00,48622867,5,Did my old job only exist because of fraud?,648,281
+2026-06-22T12:55:21.946205+00:00,48626918,6,Investors get real-time view of UK bond market activity for the first time,56,15
+2026-06-22T12:55:21.946205+00:00,48622778,7,Apertus – Open Foundation Model for Sovereign AI,447,148
+2026-06-22T12:55:21.946205+00:00,48599998,8,Munich 1991: The Roots of the Current AI Boom,115,46
+2026-06-22T12:55:21.946205+00:00,48601810,9,The Story of Semicolon,7,2
+2026-06-22T12:55:21.946205+00:00,48622518,10,There is minimal downside to switching to open models,279,229
+2026-06-22T12:55:21.946205+00:00,48624782,11,Sakana Fugu,146,86
+2026-06-22T12:55:21.946205+00:00,48628328,12,"Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search",12,0
+2026-06-22T12:55:21.946205+00:00,48593424,13,Writing Postcards with a 3D Printer,26,13
+2026-06-22T12:55:21.946205+00:00,48606096,14,Memory Safe Inline Assembly,130,29
+2026-06-22T12:55:21.946205+00:00,48622626,15,Everything is logarithms,248,50
+2026-06-22T12:55:21.946205+00:00,48618455,16,Identity verification on Claude,806,675
+2026-06-22T12:55:21.946205+00:00,48623434,17,Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions,162,32
+2026-06-22T12:55:21.946205+00:00,48579054,18,UTFS: A Tar-Like File System for Embedded Systems (2025),12,6
+2026-06-22T12:55:21.946205+00:00,48606654,19,Lisp in the Rust Type System,83,4
+2026-06-22T12:55:21.946205+00:00,48599057,20,My 1992 view of the problems of computer programming in 1992,42,12
+2026-06-22T12:55:21.946205+00:00,48625823,21,Danish privacy activist Lars Andersen raided by police,298,253
+2026-06-22T12:55:21.946205+00:00,48621517,22,JSON-LD explained for personal websites,236,75
+2026-06-22T12:55:21.946205+00:00,48589687,23,How I play video games with spinal muscular atrophy,131,17
+2026-06-22T12:55:21.946205+00:00,48618488,24,Show HN: Teach your kids perfect pitch,161,104
+2026-06-22T12:55:21.946205+00:00,48623419,25,Japanese verb conjugation the simple hard way,119,180
+2026-06-22T12:55:21.946205+00:00,48567028,26,"Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",168,71
+2026-06-22T12:55:21.946205+00:00,48605085,27,"Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",72,17
+2026-06-22T12:55:21.946205+00:00,48622731,28,PowerFox Browser,149,41
+2026-06-22T12:55:21.946205+00:00,48609054,29,"Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",144,44
+2026-06-22T12:55:21.946205+00:00,48622987,30,Rent collections are down in New York,100,404
+2026-06-22T12:55:21.946205+00:00,48622590,31,Show HN: Recall – Local project memory for Claude Code,119,72
+2026-06-22T12:55:21.946205+00:00,48620342,32,The minimum viable unit of saleable software,185,68
+2026-06-22T12:55:21.946205+00:00,48620090,33,Prefer duplication over the wrong abstraction (2016),503,320
+2026-06-22T12:55:21.946205+00:00,48601953,35,Luis Alvarez's Journey from Hiroshima to the Death of the Dinosaurs,14,3
+2026-06-22T12:55:21.946205+00:00,48629356,36,Becoming a dad changes men's brains,3,0
+2026-06-22T12:55:21.946205+00:00,48628731,37,Alan Greenspan Dies at 100; Led Fed During Boom Before 2008 Bust,12,0
+2026-06-22T12:55:21.946205+00:00,48629064,38,Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers,6,0
+2026-06-22T12:55:21.946205+00:00,48624114,39,1983 Northern Telecom Commodore Phone,68,21
+2026-06-22T12:55:21.946205+00:00,48619831,40,(How to Write a (Lisp) Interpreter (In Python)) (2010),187,61
+2026-06-22T12:55:21.946205+00:00,48622788,41,FDA advisors unanimously vote to approve Moderna's mRNA after agency drama,206,107
+2026-06-22T12:55:21.946205+00:00,48594090,42,An Embedded Linux on a Single Floppy,80,49
+2026-06-22T12:55:21.946205+00:00,48624327,43,You're probably using Agent Skills wrong,40,19
+2026-06-22T12:55:21.946205+00:00,48617990,44,Beyond All Reason (Free Total Annihilation Inspired RTS),482,289
+2026-06-22T12:55:21.946205+00:00,48600311,45,Proportional-Integral-Derivative (PID) controllers,114,58
+2026-06-22T12:55:21.946205+00:00,48568487,46,Architecting a Conversion Engine in Swift,29,6
+2026-06-22T12:55:21.946205+00:00,48612432,47,Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs,37,19
+2026-06-22T12:55:21.946205+00:00,48622234,48,"Ask for no, don't ask for yes (2022)",173,84
+2026-06-22T12:55:21.946205+00:00,48583407,49,Excessive nil pointer checks in Go,116,92
+2026-06-22T12:55:21.946205+00:00,48617782,50,The case against geometric algebra (2024),130,123
