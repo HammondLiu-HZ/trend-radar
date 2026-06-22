@@ -4557,3 +4557,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-22T21:09:43.533090+00:00,48635373,48,I'm the Agent for Claude Now,10,4
 2026-06-22T21:09:43.533090+00:00,48629416,49,"Show HN: I rebuilt the only parts of my IDE I use, in Rust, over a weekend",35,54
 2026-06-22T21:09:43.533090+00:00,48635327,50,AI and tech are trying to influence the midterm elections,9,0
+2026-06-22T23:26:32.072905+00:00,48632884,1,Steam Machine launches today,1048,929
+2026-06-22T23:26:32.072905+00:00,48635954,2,Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs,141,82
+2026-06-22T23:26:32.072905+00:00,48636377,3,Unsloth GLM-5.2 – How to Run Locally,74,24
+2026-06-22T23:26:32.072905+00:00,48634778,4,Optocam Zero: a Pi Zero based digital camera made using off the shelf components,73,19
+2026-06-22T23:26:32.072905+00:00,48634787,5,"British Columbia, Time Zones, and Postgres",82,44
+2026-06-22T23:26:32.072905+00:00,48597221,6,My Mathematical Regression,167,56
+2026-06-22T23:26:32.072905+00:00,48634803,7,Japanese symbols that speak without words,72,17
+2026-06-22T23:26:32.072905+00:00,48630171,8,Moebius: 0.2B image inpainting model with 10B-level performance,208,60
+2026-06-22T23:26:32.072905+00:00,48631726,9,Show HN: Oak – Git alternative designed for agents,128,126
+2026-06-22T23:26:32.072905+00:00,48634585,10,Canada is looking to build up to 10 new nuclear reactors over the next 15 years,202,91
+2026-06-22T23:26:32.072905+00:00,48588247,12,Is it time for a new Embedded Linux build system?,15,5
+2026-06-22T23:26:32.072905+00:00,48634694,13,Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed,233,81
+2026-06-22T23:26:32.072905+00:00,48609129,14,Canyon HUD helmet for road riding,47,49
+2026-06-22T23:26:32.072905+00:00,48623665,15,"PivCo-Huffman ""Merge"" Operations",24,0
+2026-06-22T23:26:32.072905+00:00,48622241,16,Nintendo Wii U games running from a 1980's Bernoulli disk [video],84,32
+2026-06-22T23:26:32.072905+00:00,48632613,17,DisplayMate,83,24
+2026-06-22T23:26:32.072905+00:00,48633941,18,Linux and Secure Boot certificate expiration (2025),90,46
+2026-06-22T23:26:32.072905+00:00,48633410,19,Finding the Best Dog Treat with Statistics,73,18
+2026-06-22T23:26:32.072905+00:00,48630020,20,Pledging another $400k to the Zig software foundation,700,235
+2026-06-22T23:26:32.072905+00:00,48636062,21,Job application asked for my SAT scores,35,69
+2026-06-22T23:26:32.072905+00:00,48629982,22,Die analysis of the 8087 math coprocessor's fast bit shifter (2020),76,16
+2026-06-22T23:26:32.072905+00:00,48630029,23,Chevron signs 20-year power agreement with Microsoft for West Texas data center,109,100
+2026-06-22T23:26:32.072905+00:00,48630535,24,The text in Claude Code’s “Extended Thinking” output,256,181
+2026-06-22T23:26:32.072905+00:00,48632859,25,Blogger defeats photographer's copyright claim,86,51
+2026-06-22T23:26:32.072905+00:00,48626137,26,Deno Desktop,1001,368
+2026-06-22T23:26:32.072905+00:00,48634559,27,Memory crisis is getting so bad that even retro RAM prices are going to the Moon,82,21
+2026-06-22T23:26:32.072905+00:00,48605561,28,Help I accidentally a wigglegram,469,118
+2026-06-22T23:26:32.072905+00:00,48629213,29,"Show HN: Got sick of ads, so I made my own logic puzzle site",117,93
+2026-06-22T23:26:32.072905+00:00,48631888,30,Prompt Injection as Role Confusion,131,75
+2026-06-22T23:26:32.072905+00:00,48621645,31,Show HN: CleverCrow: give tokens to your favorite projects,48,67
+2026-06-22T23:26:32.072905+00:00,48629387,32,window.showDirectoryPicker opens up a whole new world,96,94
+2026-06-22T23:26:32.072905+00:00,48636380,33,ytr: YouTube Radio for Emacs,31,0
+2026-06-22T23:26:32.072905+00:00,48628731,34,Alan Greenspan has died,194,199
+2026-06-22T23:26:32.072905+00:00,48626930,35,Codex logging bug may write TBs to local SSDs,459,252
+2026-06-22T23:26:32.072905+00:00,48599998,36,Munich 1991: The Roots of the Current AI Boom,207,92
+2026-06-22T23:26:32.072905+00:00,48626866,37,GLM 5.2 vs. Opus,477,314
+2026-06-22T23:26:32.072905+00:00,48635112,38,Jobs and Software Is Fucked,258,206
+2026-06-22T23:26:32.072905+00:00,48632652,39,"Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",167,149
+2026-06-22T23:26:32.072905+00:00,48614087,40,Show HN: HN Game Stories – mini-documentary of games that hit the front page,14,1
+2026-06-22T23:26:32.072905+00:00,48635075,41,Self-Harness: Harnesses That Improve Themselves,5,0
+2026-06-22T23:26:32.072905+00:00,48626918,42,Investors get real-time view of UK bond market activity for the first time,93,70
+2026-06-22T23:26:32.072905+00:00,48632327,43,"NSF slashes research programs to support new tech initiative, insiders say",136,80
+2026-06-22T23:26:32.072905+00:00,48630515,44,Show HN: Selector Forge – browser extension for AI-generated resilient selectors,29,0
+2026-06-22T23:26:32.072905+00:00,48636632,45,Meta pauses AI training program tracking employee keystrokes after internal leak,17,0
+2026-06-22T23:26:32.072905+00:00,48605318,46,A New Book on Plagiarism,10,4
+2026-06-22T23:26:32.072905+00:00,48634156,47,Wolves are reconquering Europe. Can people learn to live with them?,11,0
+2026-06-22T23:26:32.072905+00:00,48636810,48,Meta Exposed Data Internally from Its Controversial Employee-Tracking Program,15,1
+2026-06-22T23:26:32.072905+00:00,48624782,49,Sakana Fugu,212,116
+2026-06-22T23:26:32.072905+00:00,48631058,50,DHL Set to Transport Goods on New Wind-Powered Cargo Ships,119,51
