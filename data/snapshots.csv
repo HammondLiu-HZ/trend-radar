@@ -4361,3 +4361,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-22T00:19:18.883982+00:00,48622922,48,The notebooks Marie Curie filled with her research are still dangerous to touch,10,5
 2026-06-22T00:19:18.883982+00:00,48623695,49,Tech Workers Are Fighting Against Silicon Valley's AI Push,4,1
 2026-06-22T00:19:18.883982+00:00,48612502,50,Unauthorized alert sent to cell phones across Brazil,193,133
+2026-06-22T06:35:29.863422+00:00,48626137,1,Deno Desktop,66,11
+2026-06-22T06:35:29.863422+00:00,48622867,2,Did my old job only exist because of fraud?,436,197
+2026-06-22T06:35:29.863422+00:00,48605561,3,Help I accidentally a wigglegram,120,21
+2026-06-22T06:35:29.863422+00:00,48622778,4,Apertus – Open Foundation Model for Sovereign AI,314,111
+2026-06-22T06:35:29.863422+00:00,48625823,5,Danish privacy activist Lars Andersen raided by police,117,67
+2026-06-22T06:35:29.863422+00:00,48624782,6,Sakana Fugu,92,48
+2026-06-22T06:35:29.863422+00:00,48606096,7,Memory Safe Inline Assembly,81,15
+2026-06-22T06:35:29.863422+00:00,48622518,8,There is minimal downside to switching to open models,156,111
+2026-06-22T06:35:29.863422+00:00,48623434,9,Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions,92,18
+2026-06-22T06:35:29.863422+00:00,48622626,10,Everything is logarithms,184,40
+2026-06-22T06:35:29.863422+00:00,48589687,11,How I play video games with spinal muscular atrophy,90,14
+2026-06-22T06:35:29.863422+00:00,48618455,12,Identity verification on Claude,683,578
+2026-06-22T06:35:29.863422+00:00,48624114,13,1983 Northern Telecom Commodore Phone,42,12
+2026-06-22T06:35:29.863422+00:00,48621517,14,JSON-LD explained for personal websites,192,57
+2026-06-22T06:35:29.863422+00:00,48617990,15,Beyond All Reason (Free Total Annihilation Inspired RTS),466,274
+2026-06-22T06:35:29.863422+00:00,48623419,16,Japanese verb conjugation the simple hard way,74,92
+2026-06-22T06:35:29.863422+00:00,48622731,17,PowerFox Browser,111,31
+2026-06-22T06:35:29.863422+00:00,48567028,18,"Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",117,35
+2026-06-22T06:35:29.863422+00:00,48618488,19,Show HN: Teach your kids perfect pitch,105,63
+2026-06-22T06:35:29.863422+00:00,48620090,20,Prefer duplication over the wrong abstraction (2016),458,310
+2026-06-22T06:35:29.863422+00:00,48622987,21,Rent collections are down in New York,68,252
+2026-06-22T06:35:29.863422+00:00,48620342,22,The minimum viable unit of saleable software,149,56
+2026-06-22T06:35:29.863422+00:00,48605085,23,"Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",33,3
+2026-06-22T06:35:29.863422+00:00,48609054,24,"Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",81,15
+2026-06-22T06:35:29.863422+00:00,48622590,25,Show HN: Recall – Local project memory for Claude Code,97,65
+2026-06-22T06:35:29.863422+00:00,48568487,26,Architecting a Conversion Engine in Swift,22,4
+2026-06-22T06:35:29.863422+00:00,48622788,27,FDA advisors unanimously vote to approve Moderna's mRNA after agency drama,169,89
+2026-06-22T06:35:29.863422+00:00,48619831,28,(How to Write a (Lisp) Interpreter (In Python)) (2010),179,59
+2026-06-22T06:35:29.863422+00:00,48592123,29,Shape Suffixes – Good Coding Style,7,0
+2026-06-22T06:35:29.863422+00:00,48594090,30,An Embedded Linux on a Single Floppy,74,43
+2026-06-22T06:35:29.863422+00:00,48624327,31,You're probably using Agent Skills wrong,22,6
+2026-06-22T06:35:29.863422+00:00,48624195,32,The Doom Justifies the Valuation,108,96
+2026-06-22T06:35:29.863422+00:00,48622234,34,"Ask for no, don't ask for yes (2022)",140,74
+2026-06-22T06:35:29.863422+00:00,48612432,35,Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs,24,12
+2026-06-22T06:35:29.863422+00:00,48622814,36,My 1992 view of the problems of computer programming in 1992,32,6
+2026-06-22T06:35:29.863422+00:00,48618536,37,I was wrong about the Midjourney ultra-sound scanner,76,47
+2026-06-22T06:35:29.863422+00:00,48617782,38,The case against geometric algebra (2024),124,117
+2026-06-22T06:35:29.863422+00:00,48625319,39,Show HN: Crespo – Tree-sitter AST blueprints instead of raw code for LLMs,3,0
+2026-06-22T06:35:29.863422+00:00,48625554,40,Chinas War on Female Delusion,30,5
+2026-06-22T06:35:29.863422+00:00,48620502,41,Tell HN: Happy Fathers Day,293,46
+2026-06-22T06:35:29.863422+00:00,48600311,42,Proportional-Integral-Derivative (PID) controllers,102,54
+2026-06-22T06:35:29.863422+00:00,48621645,43,Show HN: CleverCrow: give tokens to your favorite projects,35,50
+2026-06-22T06:35:29.863422+00:00,48583407,44,Excessive nil pointer checks in Go,109,83
+2026-06-22T06:35:29.863422+00:00,48616800,45,Google Hits 50% IPv6,393,420
+2026-06-22T06:35:29.863422+00:00,48587619,46,The Commodore Callback 8020 smart flip phone,117,118
+2026-06-22T06:35:29.863422+00:00,48625743,47,Japan to raise visa fees for foreign nationals,9,1
+2026-06-22T06:35:29.863422+00:00,48571136,48,Occupancy Math on the AMD MI355X: A From-First-Principles Guide,45,4
+2026-06-22T06:35:29.863422+00:00,48615569,49,The brain was not designed for this much bad news,401,314
+2026-06-22T06:35:29.863422+00:00,48623371,50,I Canceled My French Tutor and Built an LLM Tool That Does It Better,23,3
