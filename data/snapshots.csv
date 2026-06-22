@@ -4312,3 +4312,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-21T22:20:07.039941+00:00,48568181,48,A tale of two path separators,62,28
 2026-06-21T22:20:07.039941+00:00,48612502,49,Unauthorized alert sent to cell phones across Brazil,191,132
 2026-06-21T22:20:07.039941+00:00,48622833,50,Jonathan Blow on why LLMs cannot program [video],8,1
+2026-06-22T00:19:18.883982+00:00,48622778,1,Apertus – Open Foundation Model for Sovereign AI,139,45
+2026-06-22T00:19:18.883982+00:00,48622867,2,Did my old job only exist because of fraud?,142,51
+2026-06-22T00:19:18.883982+00:00,48622626,3,Everything is logarithms,76,10
+2026-06-22T00:19:18.883982+00:00,48621517,4,JSON-LD Explained for Personal Websites,144,38
+2026-06-22T00:19:18.883982+00:00,48622731,5,PowerFox Browser,53,16
+2026-06-22T00:19:18.883982+00:00,48622590,6,Show HN: Recall – fully-local project memory for Claude Code,58,46
+2026-06-22T00:19:18.883982+00:00,48623419,7,Simple hard way to conjugate Japanese verbs,17,6
+2026-06-22T00:19:18.883982+00:00,48618455,8,Identity verification on Claude,528,481
+2026-06-22T00:19:18.883982+00:00,48617990,9,Beyond All Reason (Free Total Annihilation Inspired RTS),418,249
+2026-06-22T00:19:18.883982+00:00,48620090,10,Prefer duplication over the wrong abstraction (2016),414,279
+2026-06-22T00:19:18.883982+00:00,48579013,11,HPV jabs cut risk of dying from cervical cancer before 30 to almost zero,112,53
+2026-06-22T00:19:18.883982+00:00,48620342,12,The minimum viable unit of saleable software,119,48
+2026-06-22T00:19:18.883982+00:00,48622788,13,FDA advisors unanimously vote to approve Moderna's mRNA after agency drama,73,37
+2026-06-22T00:19:18.883982+00:00,48619831,14,(How to Write a (Lisp) Interpreter (In Python)) (2010),161,54
+2026-06-22T00:19:18.883982+00:00,48589687,15,I Play Video Games with Spinal Muscular Atrophy,9,2
+2026-06-22T00:19:18.883982+00:00,48594090,16,An Embedded Linux on a Single Floppy,57,23
+2026-06-22T00:19:18.883982+00:00,48622518,17,There is minimal downside to switching to open models,14,2
+2026-06-22T00:19:18.883982+00:00,48622234,18,"Ask for no, don't ask for yes (2022)",91,40
+2026-06-22T00:19:18.883982+00:00,48621645,19,Show HN: CleverCrow: give tokens to your favorite projects,31,44
+2026-06-22T00:19:18.883982+00:00,48567028,20,"Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",37,8
+2026-06-22T00:19:18.883982+00:00,48618488,22,Show HN: Teach your kids perfect pitch,35,23
+2026-06-22T00:19:18.883982+00:00,48620502,23,Tell HN: Happy Fathers Day,250,34
+2026-06-22T00:19:18.883982+00:00,48571136,24,Occupancy Math on the AMD MI355X: A From-First-Principles Guide,43,4
+2026-06-22T00:19:18.883982+00:00,48617782,25,The case against geometric algebra (2024),116,115
+2026-06-22T00:19:18.883982+00:00,48622987,26,Rent collections are down in New York,32,30
+2026-06-22T00:19:18.883982+00:00,48614844,27,Developers don't understand CORS (2019),357,251
+2026-06-22T00:19:18.883982+00:00,48616713,28,A 3D voxel game engine written in APL,147,13
+2026-06-22T00:19:18.883982+00:00,48582629,29,Djevops: Self-Host Django Easily,22,5
+2026-06-22T00:19:18.883982+00:00,48587619,30,The Commodore Callback 8020 smart flip phone,110,107
+2026-06-22T00:19:18.883982+00:00,48599555,31,"Running MicroVMs in Proxmox VE, the Easy Way",213,39
+2026-06-22T00:19:18.883982+00:00,48616800,32,Google Hits 50% IPv6,377,384
+2026-06-22T00:19:18.883982+00:00,48600311,33,Proportional-Integral-Derivative (PID) controllers,93,51
+2026-06-22T00:19:18.883982+00:00,48583407,34,Excessive nil pointer checks in Go,101,78
+2026-06-22T00:19:18.883982+00:00,48612844,35,"Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",31,12
+2026-06-22T00:19:18.883982+00:00,48615569,36,The brain was not designed for this much bad news,373,304
+2026-06-22T00:19:18.883982+00:00,48566824,37,"System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",40,21
+2026-06-22T00:19:18.883982+00:00,48597592,38,"Cocktail Optimization, an Integer Programming Problem",26,4
+2026-06-22T00:19:18.883982+00:00,48587865,39,Two Qwen3 models on one DGX Spark: the residency math,86,39
+2026-06-22T00:19:18.883982+00:00,48622625,40,Securing the Future of AI Agents,4,0
+2026-06-22T00:19:18.883982+00:00,48616173,41,Windows UI evolution: Clicking an unassociated file,132,90
+2026-06-22T00:19:18.883982+00:00,48616017,42,The 100k whys of AI,164,99
+2026-06-22T00:19:18.883982+00:00,48619394,43,"Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",143,120
+2026-06-22T00:19:18.883982+00:00,48573902,44,Zigzag Decoding with AVX-512,124,22
+2026-06-22T00:19:18.883982+00:00,48621908,45,Graphene experts are trying to close reproducibility gap in 2D materials,8,0
+2026-06-22T00:19:18.883982+00:00,48620462,46,Burnout is real for open source maintainers,114,59
+2026-06-22T00:19:18.883982+00:00,48622697,47,"Energy Security, Not Climate Goals, Is Now Driving the Clean Power Boom",11,0
+2026-06-22T00:19:18.883982+00:00,48622922,48,The notebooks Marie Curie filled with her research are still dangerous to touch,10,5
+2026-06-22T00:19:18.883982+00:00,48623695,49,Tech Workers Are Fighting Against Silicon Valley's AI Push,4,1
+2026-06-22T00:19:18.883982+00:00,48612502,50,Unauthorized alert sent to cell phones across Brazil,193,133
