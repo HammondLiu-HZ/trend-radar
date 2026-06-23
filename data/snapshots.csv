@@ -4655,3 +4655,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-23T04:13:03.378568+00:00,48626866,48,GLM 5.2 vs. Opus,491,324
 2026-06-23T04:13:03.378568+00:00,48639498,49,AWS Lambda MicroVMs for isolated execution of user and AI-generated code,17,3
 2026-06-23T04:13:03.378568+00:00,48636632,50,Meta pauses AI training program tracking employee keystrokes after internal leak,59,14
+2026-06-23T08:33:56.280960+00:00,48632884,1,Steam Machine launches today,1532,1334
+2026-06-23T08:33:56.280960+00:00,48640974,2,The new HTTP QUERY method explained,44,17
+2026-06-23T08:33:56.280960+00:00,48640196,3,Will It Mythos?,142,84
+2026-06-23T08:33:56.280960+00:00,48639240,4,VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO,165,60
+2026-06-23T08:33:56.280960+00:00,48636377,5,GLM-5.2 – How to Run Locally,364,159
+2026-06-23T08:33:56.280960+00:00,48614715,6,Polymarket has flooded social media with deceptive videos by paid creators,259,191
+2026-06-23T08:33:56.280960+00:00,48638886,7,In praise of memcached,139,54
+2026-06-23T08:33:56.280960+00:00,48596488,8,Plotnine,7,3
+2026-06-23T08:33:56.280960+00:00,48639063,9,OpenAI DayBreak – GPT-5.5-Cyber,80,38
+2026-06-23T08:33:56.280960+00:00,48639165,10,An Introduction to YOLO26,63,20
+2026-06-23T08:33:56.280960+00:00,48597221,11,My Mathematical Regression,284,109
+2026-06-23T08:33:56.280960+00:00,48634778,12,Optocam Zero: a Pi Zero based digital camera made using off the shelf components,170,44
+2026-06-23T08:33:56.280960+00:00,48639434,13,Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models,36,5
+2026-06-23T08:33:56.280960+00:00,48605776,14,"Cyberdecks, going analog, and convivial technology",100,52
+2026-06-23T08:33:56.280960+00:00,48616182,15,Improvements to Std:Format in C++26,11,4
+2026-06-23T08:33:56.280960+00:00,48630171,16,Moebius: 0.2B image inpainting model with 10B-level performance,284,69
+2026-06-23T08:33:56.280960+00:00,48598591,17,Windows NT for GameCube/Wii,63,10
+2026-06-23T08:33:56.280960+00:00,48631726,18,Show HN: Oak – Git alternative designed for agents,183,162
+2026-06-23T08:33:56.280960+00:00,48634585,19,Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040,460,309
+2026-06-23T08:33:56.280960+00:00,48640278,20,"Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",11,3
+2026-06-23T08:33:56.280960+00:00,48611251,21,How Lume Works: The Retrieval Primitives,6,0
+2026-06-23T08:33:56.280960+00:00,48586767,23,Package Managers need global hooks,17,33
+2026-06-23T08:33:56.280960+00:00,48636380,24,ytr: YouTube Radio for Emacs,123,9
+2026-06-23T08:33:56.280960+00:00,48634694,25,Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed,502,213
+2026-06-23T08:33:56.280960+00:00,48634803,26,Japanese symbols that speak without words,171,99
+2026-06-23T08:33:56.280960+00:00,48609129,27,Canyon HUD helmet for road riding,92,104
+2026-06-23T08:33:56.280960+00:00,48605561,28,Help I accidentally a wigglegram,527,122
+2026-06-23T08:33:56.280960+00:00,48629213,29,"Show HN: Got sick of ads, so I made my own logic puzzle site",188,112
+2026-06-23T08:33:56.280960+00:00,48626137,30,Deno Desktop,1064,386
+2026-06-23T08:33:56.280960+00:00,48639184,31,"1,700 free online courses from top universities",187,32
+2026-06-23T08:33:56.280960+00:00,48630029,32,Chevron signs 20-year power agreement with Microsoft for West Texas data center,143,133
+2026-06-23T08:33:56.280960+00:00,48641473,33,"Meta Invests $900M in CRED, Taps Founder to Head WhatsApp",7,1
+2026-06-23T08:33:56.280960+00:00,48631888,34,Prompt Injection as Role Confusion,182,98
+2026-06-23T08:33:56.280960+00:00,48630020,35,Pledging another $400k to the Zig software foundation,772,260
+2026-06-23T08:33:56.280960+00:00,48632613,36,DisplayMate,110,31
+2026-06-23T08:33:56.280960+00:00,48639840,37,GLM-5.2 is the step change for open agents,9,0
+2026-06-23T08:33:56.280960+00:00,48636062,38,Job application asked for my SAT scores,133,327
+2026-06-23T08:33:56.280960+00:00,48590505,39,Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages,48,14
+2026-06-23T08:33:56.280960+00:00,48638850,40,Death by a Thousand Comments,24,3
+2026-06-23T08:33:56.280960+00:00,48629982,41,Die analysis of the 8087 math coprocessor's fast bit shifter (2020),82,19
+2026-06-23T08:33:56.280960+00:00,48641245,42,EU Member States (and Google) suddenly want to keep cookie banners,20,6
+2026-06-23T08:33:56.280960+00:00,48634787,43,"British Columbia, Time Zones, and Postgres",131,97
+2026-06-23T08:33:56.280960+00:00,48633410,44,Finding the Best Dog Treat with Statistics,101,33
+2026-06-23T08:33:56.280960+00:00,48630535,45,The text in Claude Code’s “Extended Thinking” output,301,209
+2026-06-23T08:33:56.280960+00:00,48588247,46,Is it time for a new Embedded Linux build system?,70,50
+2026-06-23T08:33:56.280960+00:00,48622241,47,Nintendo Wii U games running from a 1980's Bernoulli disk [video],95,40
+2026-06-23T08:33:56.280960+00:00,48621645,48,Show HN: CleverCrow: give tokens to your favorite projects,51,77
+2026-06-23T08:33:56.280960+00:00,48640382,49,Who Does What? Team Topologies for the Agentic Platform,3,0
+2026-06-23T08:33:56.280960+00:00,48599998,50,Munich 1991: The Roots of the Current AI Boom,221,96
