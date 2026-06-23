@@ -4606,3 +4606,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-22T23:26:32.072905+00:00,48636810,48,Meta Exposed Data Internally from Its Controversial Employee-Tracking Program,15,1
 2026-06-22T23:26:32.072905+00:00,48624782,49,Sakana Fugu,212,116
 2026-06-22T23:26:32.072905+00:00,48631058,50,DHL Set to Transport Goods on New Wind-Powered Cargo Ships,119,51
+2026-06-23T04:13:03.378568+00:00,48632884,1,Steam Machine launches today,1328,1201
+2026-06-23T04:13:03.378568+00:00,48636377,2,Runing GLM-5.2 on local hardware,243,110
+2026-06-23T04:13:03.378568+00:00,48639240,3,VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO,42,14
+2026-06-23T04:13:03.378568+00:00,48638886,4,In praise of memcached,74,25
+2026-06-23T04:13:03.378568+00:00,48614715,5,Polymarket has flooded social media with deceptive videos by paid creators,78,80
+2026-06-23T04:13:03.378568+00:00,48605776,6,"Cyberdecks, going analog, and convivial technology",64,30
+2026-06-23T04:13:03.378568+00:00,48634778,7,Optocam Zero: a Pi Zero based digital camera made using off the shelf components,128,25
+2026-06-23T04:13:03.378568+00:00,48639165,8,An Introduction to YOLO26,12,0
+2026-06-23T04:13:03.378568+00:00,48597221,9,My Mathematical Regression,238,85
+2026-06-23T04:13:03.378568+00:00,48634803,10,Japanese symbols that speak without words,131,54
+2026-06-23T04:13:03.378568+00:00,48598591,11,Windows NT for GameCube/Wii,33,6
+2026-06-23T04:13:03.378568+00:00,48639184,12,"1,700 free online courses from top universities",96,20
+2026-06-23T04:13:03.378568+00:00,48630171,13,Moebius: 0.2B image inpainting model with 10B-level performance,251,65
+2026-06-23T04:13:03.378568+00:00,48588247,14,Is it time for a new Embedded Linux build system?,50,34
+2026-06-23T04:13:03.378568+00:00,48634787,15,"British Columbia, Time Zones, and Postgres",123,80
+2026-06-23T04:13:03.378568+00:00,48634585,16,Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040,370,223
+2026-06-23T04:13:03.378568+00:00,48586767,17,Package Managers need global hooks,6,0
+2026-06-23T04:13:03.378568+00:00,48631726,18,Show HN: Oak – Git alternative designed for agents,162,154
+2026-06-23T04:13:03.378568+00:00,48609129,19,Canyon HUD helmet for road riding,76,89
+2026-06-23T04:13:03.378568+00:00,48634694,21,Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed,431,171
+2026-06-23T04:13:03.378568+00:00,48590505,22,Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages,37,9
+2026-06-23T04:13:03.378568+00:00,48639434,23,Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models,9,0
+2026-06-23T04:13:03.378568+00:00,48636062,24,Job application asked for my SAT scores,106,264
+2026-06-23T04:13:03.378568+00:00,48629213,25,"Show HN: Got sick of ads, so I made my own logic puzzle site",157,105
+2026-06-23T04:13:03.378568+00:00,48639057,26,SpaceX sheds $400B in market value as debut rally hits reverse,45,33
+2026-06-23T04:13:03.378568+00:00,48605561,27,Help I accidentally a wigglegram,502,120
+2026-06-23T04:13:03.378568+00:00,48636380,28,ytr: YouTube Radio for Emacs,71,8
+2026-06-23T04:13:03.378568+00:00,48630029,29,Chevron signs 20-year power agreement with Microsoft for West Texas data center,130,118
+2026-06-23T04:13:03.378568+00:00,48631888,30,Prompt Injection as Role Confusion,165,88
+2026-06-23T04:13:03.378568+00:00,48626137,31,Deno Desktop,1045,375
+2026-06-23T04:13:03.378568+00:00,48632613,32,DisplayMate,101,29
+2026-06-23T04:13:03.378568+00:00,48630020,33,Pledging another $400k to the Zig software foundation,756,252
+2026-06-23T04:13:03.378568+00:00,48633410,34,Finding the Best Dog Treat with Statistics,91,32
+2026-06-23T04:13:03.378568+00:00,48629982,35,Die analysis of the 8087 math coprocessor's fast bit shifter (2020),81,19
+2026-06-23T04:13:03.378568+00:00,48630535,36,The text in Claude Code’s “Extended Thinking” output,288,200
+2026-06-23T04:13:03.378568+00:00,48622241,37,Nintendo Wii U games running from a 1980's Bernoulli disk [video],91,40
+2026-06-23T04:13:03.378568+00:00,48633941,38,Linux and Secure Boot certificate expiration (2025),116,56
+2026-06-23T04:13:03.378568+00:00,48623665,39,PivCo-Huffman “merge” operations,36,2
+2026-06-23T04:13:03.378568+00:00,48621645,40,Show HN: CleverCrow: give tokens to your favorite projects,50,72
+2026-06-23T04:13:03.378568+00:00,48634559,41,Memory crisis is getting so bad that even retro RAM prices are going to the Moon,121,40
+2026-06-23T04:13:03.378568+00:00,48599998,42,Munich 1991: The Roots of the Current AI Boom,216,96
+2026-06-23T04:13:03.378568+00:00,48629387,43,window.showDirectoryPicker opens up a whole new world,107,97
+2026-06-23T04:13:03.378568+00:00,48626930,44,Codex logging bug may write TBs to local SSDs,473,258
+2026-06-23T04:13:03.378568+00:00,48604115,45,How do flocking birds and schools of fish move?,15,5
+2026-06-23T04:13:03.378568+00:00,48628731,46,Alan Greenspan has died,213,217
+2026-06-23T04:13:03.378568+00:00,48639742,47,"Nonstop Trading, Lots of Leverage. How 'Perp Futures' Are Changing Wall Street",4,0
+2026-06-23T04:13:03.378568+00:00,48626866,48,GLM 5.2 vs. Opus,491,324
+2026-06-23T04:13:03.378568+00:00,48639498,49,AWS Lambda MicroVMs for isolated execution of user and AI-generated code,17,3
+2026-06-23T04:13:03.378568+00:00,48636632,50,Meta pauses AI training program tracking employee keystrokes after internal leak,59,14
