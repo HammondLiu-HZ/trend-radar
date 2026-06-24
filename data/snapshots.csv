@@ -5097,3 +5097,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-24T11:51:52.205177+00:00,48646276,48,AI's Affordability Crisis,294,384
 2026-06-24T11:51:52.205177+00:00,48631681,49,Show HN: FastUbu – An Ultrafast Video Archive,40,4
 2026-06-24T11:51:52.205177+00:00,48657874,50,How long before we stop reading the code?,4,2
+2026-06-24T14:49:01.747012+00:00,48657030,1,We're making Bunny DNS free: because a faster internet won't build itself,500,169
+2026-06-24T14:49:01.747012+00:00,48659165,2,Stealing Is a Skill,45,27
+2026-06-24T14:49:01.747012+00:00,48646659,3,Krea 2 Technical Report,96,6
+2026-06-24T14:49:01.747012+00:00,48658095,4,"Haystack: Open-Source AI Framework for Production Ready Agents, RAG",34,12
+2026-06-24T14:49:01.747012+00:00,48629810,5,Statistics that live in your SQL,86,13
+2026-06-24T14:49:01.747012+00:00,48659937,6,Mark Zuckerberg wants Meta to launch its own prediction market,38,37
+2026-06-24T14:49:01.747012+00:00,48658718,7,"Founding a company in Germany: €9600, 152 days and I still can't send an invoice",265,323
+2026-06-24T14:49:01.747012+00:00,48658361,8,Minimus container images are now free,83,42
+2026-06-24T14:49:01.747012+00:00,48653216,9,Vulnerability reports are not special anymore,343,197
+2026-06-24T14:49:01.747012+00:00,48654676,10,Raspberry Pi Pico W as USB Wi-Fi Adapter,202,91
+2026-06-24T14:49:01.747012+00:00,48648959,11,In memory of the man who put red and green squiggles under words,518,88
+2026-06-24T14:49:01.747012+00:00,48649435,12,Jerry's Map,540,56
+2026-06-24T14:49:01.747012+00:00,48613336,13,François Englert (1932 – 2026),35,3
+2026-06-24T14:49:01.747012+00:00,48606222,14,A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding,52,15
+2026-06-24T14:49:01.747012+00:00,48648619,15,FUTO Swipe – A new swipe typing model,626,225
+2026-06-24T14:49:01.747012+00:00,48654465,16,"""Fix"" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",160,69
+2026-06-24T14:49:01.747012+00:00,48654351,17,Qwen-AgentWorld: Language World Models for General Agents,161,45
+2026-06-24T14:49:01.747012+00:00,48620848,18,Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB,6,0
+2026-06-24T14:49:01.747012+00:00,48618481,20,Printing Gaussian Splats,344,39
+2026-06-24T14:49:01.747012+00:00,48658647,21,"Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",137,137
+2026-06-24T14:49:01.747012+00:00,48633473,22,Rhombus Language 1.0,210,74
+2026-06-24T14:49:01.747012+00:00,48636188,23,Vector Graphics in Lil,34,2
+2026-06-24T14:49:01.747012+00:00,48657940,24,Too many R packages: CRAN is inundated with submissions,57,43
+2026-06-24T14:49:01.747012+00:00,48659451,25,"Slate EV truck starts at $24,950",153,182
+2026-06-24T14:49:01.747012+00:00,48658186,26,A deadly fungus that can infect cats and people is spreading,130,95
+2026-06-24T14:49:01.747012+00:00,48619434,27,Cointegration and Long-Horizon Forecasting (2025),8,0
+2026-06-24T14:49:01.747012+00:00,48647486,28,The worthlessness of Vitamin D is mildly exaggerated,348,259
+2026-06-24T14:49:01.747012+00:00,48624462,29,Remaking BBC test cards to teach you video processing,68,3
+2026-06-24T14:49:01.747012+00:00,48648779,30,Swift Package Index joins Apple,220,76
+2026-06-24T14:49:01.747012+00:00,48645437,31,Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX,422,73
+2026-06-24T14:49:01.747012+00:00,48585852,32,Usbliter8: an A12/A13 SecureROM Exploit,168,35
+2026-06-24T14:49:01.747012+00:00,48611585,33,Millimeter wave technology drills 100 meters into granite,197,86
+2026-06-24T14:49:01.747012+00:00,48611896,34,Dirty Little Zine – a tool for making an 8 page printable Zine,159,33
+2026-06-24T14:49:01.747012+00:00,48633643,35,"A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",206,138
+2026-06-24T14:49:01.747012+00:00,48654411,36,The Teensy Executable Revisited,54,2
+2026-06-24T14:49:01.747012+00:00,48659964,37,"Slate Auto's electric truck starts at $24,950 with 205 miles of range",6,1
+2026-06-24T14:49:01.747012+00:00,48649011,38,Fired by Google for creating the Google workspace CLI,621,363
+2026-06-24T14:49:01.747012+00:00,48622433,39,F* file system – file search that reads SSD directly bypassing OS kernel,97,45
+2026-06-24T14:49:01.747012+00:00,48612025,40,Show HN: An ASCII 3D Rendering Engine,182,45
+2026-06-24T14:49:01.747012+00:00,48634187,41,Five monitors on a Commodore 128 [video],129,30
+2026-06-24T14:49:01.747012+00:00,48659257,42,OpenAI and Broadcom unveil LLM-optimized inference chip,18,3
+2026-06-24T14:49:01.747012+00:00,48597201,43,Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm,121,42
+2026-06-24T14:49:01.747012+00:00,48660178,44,Nvidia's 45°C cooling design cuts data center water use to near zero,5,1
+2026-06-24T14:49:01.747012+00:00,48637868,45,Why eval startups fail (2025),50,42
+2026-06-24T14:49:01.747012+00:00,48658464,46,Qualcomm to Acquire Modular,26,6
+2026-06-24T14:49:01.747012+00:00,48623347,47,The deadly rise of giant trucks and SUVs,473,720
+2026-06-24T14:49:01.747012+00:00,48632884,48,Steam Machine launches today,1895,1677
+2026-06-24T14:49:01.747012+00:00,48627283,49,Show HN: Graphical SQL Builder and Debugger,14,5
+2026-06-24T14:49:01.747012+00:00,48653575,50,Meta Pauses Employee-Tracking Program Following Internal Data Leak,302,220
