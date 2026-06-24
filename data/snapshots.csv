@@ -5293,3 +5293,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-24T21:40:59.134535+00:00,48663861,48,Wikipedia Workers to Seek Union Recognition,91,39
 2026-06-24T21:40:59.134535+00:00,48665875,49,OpenAI Codex bombards SSDs with needless write operations,5,0
 2026-06-24T21:40:59.134535+00:00,48654351,50,Qwen-AgentWorld: Language World Models for General Agents,193,51
+2026-06-24T23:13:56.802252+00:00,48663324,1,"OpenAI unveils its first custom chip, built by Broadcom",435,282
+2026-06-24T23:13:56.802252+00:00,48659798,2,Qualcomm to Acquire Modular,99,27
+2026-06-24T23:13:56.802252+00:00,48666433,3,PostgreSQL Is Enough,13,0
+2026-06-24T23:13:56.802252+00:00,48660711,4,RubyLLM: A Ruby framework for all major AI providers,327,50
+2026-06-24T23:13:56.802252+00:00,48666100,5,Elastic lays off 7% of employees,63,25
+2026-06-24T23:13:56.802252+00:00,48657030,6,We’re making Bunny DNS free,820,251
+2026-06-24T23:13:56.802252+00:00,48660579,7,PR spam today looks like email spam in the early 2000s,160,92
+2026-06-24T23:13:56.802252+00:00,48662999,8,Computer use in Gemini 3.5 Flash,135,84
+2026-06-24T23:13:56.802252+00:00,48662381,9,The Xteink X4 E-Ink Reader,136,100
+2026-06-24T23:13:56.802252+00:00,48618555,10,Robotics Teams Are Rebuilding the Data Stack from Scratch,11,1
+2026-06-24T23:13:56.802252+00:00,48619159,11,Crawling BitTorrent DHTs for Fun and Profit [pdf],34,18
+2026-06-24T23:13:56.802252+00:00,48660178,12,45°C cooling design cuts data center water use to near zero,121,95
+2026-06-24T23:13:56.802252+00:00,48661825,13,There are a few things that I look back on as my mistakes in the early days,462,232
+2026-06-24T23:13:56.802252+00:00,48660267,14,Show HN: Nub – A Bun-like all-in-one toolkit for Node.js,184,52
+2026-06-24T23:13:56.802252+00:00,48639840,15,GLM-5.2 is a step change for open agents,80,27
+2026-06-24T23:13:56.802252+00:00,48664733,16,GitHub shouldn't be a dependency for publishing Rust on crates.io,118,41
+2026-06-24T23:13:56.802252+00:00,48659483,17,"Show HN: LookAway, a Mac break reminder that knows when not to interrupt",43,5
+2026-06-24T23:13:56.802252+00:00,48659165,18,Stealing Is a Skill,193,120
+2026-06-24T23:13:56.802252+00:00,48646659,19,Krea 2: SOTA open-weights 12B image model,310,35
+2026-06-24T23:13:56.802252+00:00,48603726,20,I can haz smoller NixOS ISOs?,62,20
+2026-06-24T23:13:56.802252+00:00,48611940,21,How the Fifth Lateran Council unlocked financial theory,40,4
+2026-06-24T23:13:56.802252+00:00,48614309,22,Pondering routing more of my traffic via nodes outside the UK,44,30
+2026-06-24T23:13:56.802252+00:00,48606222,23,A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding,248,53
+2026-06-24T23:13:56.802252+00:00,48660671,24,Running Windows Games on a Hobby OS with Wine,93,30
+2026-06-24T23:13:56.802252+00:00,48630318,25,Show HN: Monolisa v3 – a typeface for developers and creatives,147,49
+2026-06-24T23:13:56.802252+00:00,48664384,26,Thomann takes legal action against Fender,166,101
+2026-06-24T23:13:56.802252+00:00,48662347,27,Exploiting vulnerabilities in Johnson and Johnson web apps,50,2
+2026-06-24T23:13:56.802252+00:00,48662452,28,Big AI labs are hiring philosophers,102,90
+2026-06-24T23:13:56.802252+00:00,48661938,29,I taught a bucket to speak Git,71,16
+2026-06-24T23:13:56.802252+00:00,48658300,30,NSA lost access to Mythos amid Anthropic dispute,203,184
+2026-06-24T23:13:56.802252+00:00,48637868,31,Why eval startups fail (2025),92,52
+2026-06-24T23:13:56.802252+00:00,48630254,32,"Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis",76,26
+2026-06-24T23:13:56.802252+00:00,48635075,33,Self-Harness: Harnesses That Improve Themselves,69,3
+2026-06-24T23:13:56.802252+00:00,48657940,34,Too many R packages: CRAN is inundated with submissions,89,74
+2026-06-24T23:13:56.802252+00:00,48646165,35,Show HN: peerd – AI agent harness that runs entirely in your browser,53,18
+2026-06-24T23:13:56.802252+00:00,48596834,36,Pull request limits are cutting down the noise,67,40
+2026-06-24T23:13:56.802252+00:00,48660839,38,"For Most of the World, Open-Source AI Is the Only Way Forward",190,128
+2026-06-24T23:13:56.802252+00:00,48663819,39,How to Get Your First 10 Customers,20,1
+2026-06-24T23:13:56.802252+00:00,48620848,40,Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB,51,13
+2026-06-24T23:13:56.802252+00:00,48661535,41,Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”,154,51
+2026-06-24T23:13:56.802252+00:00,48654465,42,"""Fix"" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",206,89
+2026-06-24T23:13:56.802252+00:00,48665875,43,OpenAI Codex bombards SSDs with needless write operations,12,1
+2026-06-24T23:13:56.802252+00:00,48666147,44,Micron stock jumps 12% as memory crunch lead to quadrupling of revenue,11,4
+2026-06-24T23:13:56.802252+00:00,48629810,45,Statistics that live in your SQL,124,16
+2026-06-24T23:13:56.802252+00:00,48663544,46,"I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",97,51
+2026-06-24T23:13:56.802252+00:00,48666270,47,New Study Shows That Tall Hoods Cause Deaths per Year,8,4
+2026-06-24T23:13:56.802252+00:00,48654351,48,Qwen-AgentWorld: Language World Models for General Agents,194,51
+2026-06-24T23:13:56.802252+00:00,48661911,49,The CAPTCHA arms race: from distorted text to browser identity,65,55
+2026-06-24T23:13:56.802252+00:00,48659040,50,Systems optimization should be part of CI/CD,27,3
