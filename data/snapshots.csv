@@ -5195,3 +5195,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-24T17:11:33.654739+00:00,48633643,48,"A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",214,141
 2026-06-24T17:11:33.654739+00:00,48649435,49,Jerry's Map,556,60
 2026-06-24T17:11:33.654739+00:00,48662143,50,Retracted: Paper claiming immunochemotherapy more effective in morning,6,2
+2026-06-24T19:58:36.192482+00:00,48663324,1,"OpenAI unveils its first custom chip, built by Broadcom",225,172
+2026-06-24T19:58:36.192482+00:00,48664384,2,Thomann takes legal action against Fender,62,8
+2026-06-24T19:58:36.192482+00:00,48660711,3,RubyLLM: A Ruby framework for all major AI providers,266,41
+2026-06-24T19:58:36.192482+00:00,48657030,4,We’re making Bunny DNS free,732,235
+2026-06-24T19:58:36.192482+00:00,48660579,5,PR spam today looks like email spam in the early 2000s,98,64
+2026-06-24T19:58:36.192482+00:00,48661825,6,There are a few things that I look back on as my mistakes in the early days,392,199
+2026-06-24T19:58:36.192482+00:00,48660267,7,Show HN: Nub – A Bun-like all-in-one toolkit for Node.js,155,38
+2026-06-24T19:58:36.192482+00:00,48661938,8,I taught a bucket to speak Git,57,12
+2026-06-24T19:58:36.192482+00:00,48663861,9,Wikipedia Workers to Seek Union Recognition,12,0
+2026-06-24T19:58:36.192482+00:00,48659165,10,Stealing Is a Skill,157,99
+2026-06-24T19:58:36.192482+00:00,48646659,11,Krea 2: SOTA open-weights 12B image model,247,33
+2026-06-24T19:58:36.192482+00:00,48663544,12,"I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",42,8
+2026-06-24T19:58:36.192482+00:00,48660671,13,Running Windows Games on a Hobby OS with Wine,71,20
+2026-06-24T19:58:36.192482+00:00,48662999,14,Computer use in Gemini 3.5 Flash,83,41
+2026-06-24T19:58:36.192482+00:00,48596834,15,Pull request limits are cutting down the noise,41,30
+2026-06-24T19:58:36.192482+00:00,48662452,16,Big AI labs are hiring philosophers,25,12
+2026-06-24T19:58:36.192482+00:00,48635075,17,Self-Harness: Harnesses That Improve Themselves,42,0
+2026-06-24T19:58:36.192482+00:00,48630318,18,Show HN: Monolisa v3 – a typeface for developers and creatives,122,37
+2026-06-24T19:58:36.192482+00:00,48606222,19,A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding,198,46
+2026-06-24T19:58:36.192482+00:00,48659483,20,"Show HN: LookAway, a Mac break reminder that knows when not to interrupt",5,0
+2026-06-24T19:58:36.192482+00:00,48630254,21,"Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis",70,26
+2026-06-24T19:58:36.192482+00:00,48637868,22,Why eval startups fail (2025),78,50
+2026-06-24T19:58:36.192482+00:00,48646165,23,Show HN: peerd – AI agent harness that runs entirely in your browser,39,16
+2026-06-24T19:58:36.192482+00:00,48657940,24,Too many R packages: CRAN is inundated with submissions,83,68
+2026-06-24T19:58:36.192482+00:00,48660839,25,"For Most of the World, Open-Source AI Is the Only Way Forward",154,101
+2026-06-24T19:58:36.192482+00:00,48661535,26,Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”,123,46
+2026-06-24T19:58:36.192482+00:00,48620848,27,Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB,48,10
+2026-06-24T19:58:36.192482+00:00,48662347,28,Exploiting vulnerabilities in Johnson and Johnson web apps,9,0
+2026-06-24T19:58:36.192482+00:00,48654676,29,Raspberry Pi Pico W as USB Wi-Fi Adapter,242,114
+2026-06-24T19:58:36.192482+00:00,48658300,30,NSA lost access to Mythos amid Anthropic dispute,143,109
+2026-06-24T19:58:36.192482+00:00,48658095,32,"Haystack: Open-Source AI Framework for Production Ready Agents, RAG",78,21
+2026-06-24T19:58:36.192482+00:00,48658718,33,"Founding a company in Germany: €9600, 152 days and I still can't send an invoice",521,623
+2026-06-24T19:58:36.192482+00:00,48629810,34,Statistics that live in your SQL,119,16
+2026-06-24T19:58:36.192482+00:00,48661179,35,"Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)",34,9
+2026-06-24T19:58:36.192482+00:00,48659040,36,Systems optimization should be part of CI/CD,24,3
+2026-06-24T19:58:36.192482+00:00,48662381,37,The Xteink X4 E-Ink Reader,83,68
+2026-06-24T19:58:36.192482+00:00,48654465,38,"""Fix"" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",199,85
+2026-06-24T19:58:36.192482+00:00,48661911,39,CAPTCHAs have failed for 20 years,60,48
+2026-06-24T19:58:36.192482+00:00,48658464,40,Qualcomm to Acquire Modular,61,14
+2026-06-24T19:58:36.192482+00:00,48613336,41,François Englert (1932 – 2026),59,4
+2026-06-24T19:58:36.192482+00:00,48664707,42,50% of LG and Samsung smart TV apps embed residential proxies,8,2
+2026-06-24T19:58:36.192482+00:00,48654351,43,Qwen-AgentWorld: Language World Models for General Agents,186,50
+2026-06-24T19:58:36.192482+00:00,48663006,44,Introduction to Making Makefiles,4,0
+2026-06-24T19:58:36.192482+00:00,48662903,45,Windage – free browser remake of Scorched Earth,6,2
+2026-06-24T19:58:36.192482+00:00,48633473,46,Rhombus Language 1.0,226,89
+2026-06-24T19:58:36.192482+00:00,48664063,47,"Reducing tick density along recreational trails in Ottawa, Canada",7,0
+2026-06-24T19:58:36.192482+00:00,48658361,48,Minimus container images are now free,111,73
+2026-06-24T19:58:36.192482+00:00,48611585,49,Millimeter wave technology drills 100 meters into granite,207,103
+2026-06-24T19:58:36.192482+00:00,48585852,50,Usbliter8: an A12/A13 SecureROM Exploit,180,36
