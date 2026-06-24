@@ -5146,3 +5146,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-24T14:49:01.747012+00:00,48632884,48,Steam Machine launches today,1895,1677
 2026-06-24T14:49:01.747012+00:00,48627283,49,Show HN: Graphical SQL Builder and Debugger,14,5
 2026-06-24T14:49:01.747012+00:00,48653575,50,Meta Pauses Employee-Tracking Program Following Internal Data Leak,302,220
+2026-06-24T17:11:33.654739+00:00,48661825,1,John Carmack on the mistakes around Quake that ruined id software,202,84
+2026-06-24T17:11:33.654739+00:00,48660711,2,RubyLLM: A Ruby framework for all major AI providers,172,22
+2026-06-24T17:11:33.654739+00:00,48657030,3,We’re making Bunny DNS free,636,210
+2026-06-24T17:11:33.654739+00:00,48661911,4,CAPTCHAs have failed for 20 years,28,20
+2026-06-24T17:11:33.654739+00:00,48661938,5,I taught a bucket to speak Git,25,2
+2026-06-24T17:11:33.654739+00:00,48660267,6,Show HN: Nub – A Bun-like all-in-one toolkit for Node.js,108,23
+2026-06-24T17:11:33.654739+00:00,48660839,7,"For Most of the World, Open-Source AI Is the Only Way Forward",40,6
+2026-06-24T17:11:33.654739+00:00,48660579,8,PR spam today looks like email spam in the early 2000s,30,22
+2026-06-24T17:11:33.654739+00:00,48660671,9,Running Windows Games on a Hobby OS with Wine,44,11
+2026-06-24T17:11:33.654739+00:00,48646659,10,Krea 2: SOTA open-weights 12B image model,168,21
+2026-06-24T17:11:33.654739+00:00,48606222,11,A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding,152,30
+2026-06-24T17:11:33.654739+00:00,48630254,12,"Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis",41,13
+2026-06-24T17:11:33.654739+00:00,48661535,13,"Boffin claims Microsoft's ""quantum leap"" is invalid due to ""basic Python errors""",66,29
+2026-06-24T17:11:33.654739+00:00,48620848,14,Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB,32,6
+2026-06-24T17:11:33.654739+00:00,48630318,15,Show HN: Monolisa v3 – a typeface for developers and creatives,86,18
+2026-06-24T17:11:33.654739+00:00,48658095,16,"Haystack: Open-Source AI Framework for Production Ready Agents, RAG",60,19
+2026-06-24T17:11:33.654739+00:00,48658718,17,"Founding a company in Germany: €9600, 152 days and I still can't send an invoice",432,500
+2026-06-24T17:11:33.654739+00:00,48659165,18,Stealing Is a Skill,111,76
+2026-06-24T17:11:33.654739+00:00,48661179,19,"Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)",19,2
+2026-06-24T17:11:33.654739+00:00,48654676,20,Raspberry Pi Pico W as USB Wi-Fi Adapter,229,108
+2026-06-24T17:11:33.654739+00:00,48659040,21,Systems optimization should be part of CI/CD,19,2
+2026-06-24T17:11:33.654739+00:00,48629810,22,Statistics that live in your SQL,112,15
+2026-06-24T17:11:33.654739+00:00,48646165,23,Show HN: peerd – AI agent harness that runs entirely in your browser,12,3
+2026-06-24T17:11:33.654739+00:00,48659257,25,OpenAI and Broadcom unveil LLM-optimized inference chip,112,37
+2026-06-24T17:11:33.654739+00:00,48661536,26,Quebec town recognizes trees as living beings with rights,68,59
+2026-06-24T17:11:33.654739+00:00,48654465,27,"""Fix"" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",190,78
+2026-06-24T17:11:33.654739+00:00,48613336,28,François Englert (1932 – 2026),51,3
+2026-06-24T17:11:33.654739+00:00,48657940,29,Too many R packages: CRAN is inundated with submissions,74,58
+2026-06-24T17:11:33.654739+00:00,48658361,30,Minimus container images are now free,102,60
+2026-06-24T17:11:33.654739+00:00,48654351,31,Qwen-AgentWorld: Language World Models for General Agents,178,48
+2026-06-24T17:11:33.654739+00:00,48661415,32,Journalism is rearranging the deckchairs. It needs to reinvent itself,4,1
+2026-06-24T17:11:33.654739+00:00,48662546,33,Medical diagnosis AIs can be tricked into telling whose data trained them,6,0
+2026-06-24T17:11:33.654739+00:00,48633473,34,Rhombus Language 1.0,221,81
+2026-06-24T17:11:33.654739+00:00,48662019,35,Ex-Meta CTO Says It's a Great Time to Build a Hard Tech Company,10,0
+2026-06-24T17:11:33.654739+00:00,48662310,36,Ask HN: How much coding should beginners learn in the AI era?,7,4
+2026-06-24T17:11:33.654739+00:00,48662805,37,Ubisoft co-founder Claude Guillemot dies in plane crash,4,0
+2026-06-24T17:11:33.654739+00:00,48662452,38,Why big AI labs are hiring so many philosophers,8,1
+2026-06-24T17:11:33.654739+00:00,48660178,39,Nvidia's 45°C cooling design cuts data center water use to near zero,31,21
+2026-06-24T17:11:33.654739+00:00,48585852,40,Usbliter8: an A12/A13 SecureROM Exploit,176,36
+2026-06-24T17:11:33.654739+00:00,48611585,41,Millimeter wave technology drills 100 meters into granite,205,95
+2026-06-24T17:11:33.654739+00:00,48624462,42,Remaking BBC test cards to teach you video processing,72,4
+2026-06-24T17:11:33.654739+00:00,48660146,43,Supreme Court Empowers Prison Guards to Violate Religious Rights with Impunity,24,5
+2026-06-24T17:11:33.654739+00:00,48648959,44,In memory of the man who put red and green squiggles under words,551,98
+2026-06-24T17:11:33.654739+00:00,48653216,45,Vulnerability reports are not special anymore,361,205
+2026-06-24T17:11:33.654739+00:00,48611896,46,Dirty Little Zine – a tool for making an 8 page printable Zine,160,35
+2026-06-24T17:11:33.654739+00:00,48636188,47,Vector Graphics in Lil,51,3
+2026-06-24T17:11:33.654739+00:00,48633643,48,"A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",214,141
+2026-06-24T17:11:33.654739+00:00,48649435,49,Jerry's Map,556,60
+2026-06-24T17:11:33.654739+00:00,48662143,50,Retracted: Paper claiming immunochemotherapy more effective in morning,6,2
