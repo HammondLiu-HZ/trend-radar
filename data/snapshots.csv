@@ -5342,3 +5342,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-24T23:13:56.802252+00:00,48654351,48,Qwen-AgentWorld: Language World Models for General Agents,194,51
 2026-06-24T23:13:56.802252+00:00,48661911,49,The CAPTCHA arms race: from distorted text to browser identity,65,55
 2026-06-24T23:13:56.802252+00:00,48659040,50,Systems optimization should be part of CI/CD,27,3
+2026-06-25T04:16:30.679799+00:00,48667588,1,Ending All Respiratory Infections,90,30
+2026-06-25T04:16:30.679799+00:00,48663324,2,"OpenAI unveils its first custom chip, built by Broadcom",608,351
+2026-06-25T04:16:30.679799+00:00,48664814,3,Anthropic says Alibaba illicitly extracted Claude AI model capabilities,159,290
+2026-06-25T04:16:30.679799+00:00,48667336,4,LuaJIT 3.0 proposed syntax extensions,92,50
+2026-06-25T04:16:30.679799+00:00,48668033,5,Cloudflare launched self-managed OAuth for all,40,8
+2026-06-25T04:16:30.679799+00:00,48666927,6,Blogging can just be stating the obvious,117,46
+2026-06-25T04:16:30.679799+00:00,48631366,7,Dostoyevsky isn't difficult,72,64
+2026-06-25T04:16:30.679799+00:00,48595882,8,Show HN: Write SaaS apps where users control where their data is stored,13,0
+2026-06-25T04:16:30.679799+00:00,48659798,9,Qualcomm to Acquire Modular,169,40
+2026-06-25T04:16:30.679799+00:00,48667560,10,Mixing Visual and Textual Code,23,2
+2026-06-25T04:16:30.679799+00:00,48660711,11,RubyLLM: A Ruby framework for all major AI providers,361,60
+2026-06-25T04:16:30.679799+00:00,48660178,12,45°C cooling design cuts data center water use to near zero,241,167
+2026-06-25T04:16:30.679799+00:00,48668020,13,Zombie unicorns are haunting Silicon Valley,12,4
+2026-06-25T04:16:30.679799+00:00,48660579,14,PR spam today looks like email spam in the early 2000s,193,112
+2026-06-25T04:16:30.679799+00:00,48662999,15,Computer use in Gemini 3.5 Flash,192,119
+2026-06-25T04:16:30.679799+00:00,48639840,16,GLM-5.2 is a step change for open agents,156,90
+2026-06-25T04:16:30.679799+00:00,48667409,17,What I'm Finding About LLM Code Style and Token Costs,17,7
+2026-06-25T04:16:30.679799+00:00,48667807,18,Bible as RAG Database,64,34
+2026-06-25T04:16:30.679799+00:00,48667853,19,Writers and Drugs,13,5
+2026-06-25T04:16:30.679799+00:00,48627471,20,Optimizing [sqlx:test] rebuild time,5,0
+2026-06-25T04:16:30.679799+00:00,48640705,21,15 sorting algorithms in 6 minutes (2013) [video],10,0
+2026-06-25T04:16:30.679799+00:00,48662381,22,The Xteink X4 E-Ink Reader,194,118
+2026-06-25T04:16:30.679799+00:00,48668199,23,Ask HN: Where is our profession (programmer) going?,23,14
+2026-06-25T04:16:30.679799+00:00,48667761,24,Exploring the internal representations of Pangram 3.3.2,16,5
+2026-06-25T04:16:30.679799+00:00,48668119,25,Medical students are using popular research tool to pump out misleading studies,5,1
+2026-06-25T04:16:30.679799+00:00,48619159,26,Crawling BitTorrent DHTs for Fun and Profit [pdf],76,29
+2026-06-25T04:16:30.679799+00:00,48666100,27,Elastic lays off 7% of employees,161,145
+2026-06-25T04:16:30.679799+00:00,48660267,28,Show HN: Nub – A Bun-like all-in-one toolkit for Node.js,217,63
+2026-06-25T04:16:30.679799+00:00,48639018,29,Matt's Script Archive: The Scripts That Reshaped the Web,20,8
+2026-06-25T04:16:30.679799+00:00,48661825,30,There are a few things that I look back on as my mistakes in the early days,508,254
+2026-06-25T04:16:30.679799+00:00,48606222,31,A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding,296,58
+2026-06-25T04:16:30.679799+00:00,48646659,32,Krea 2: SOTA open-weights 12B image model,356,38
+2026-06-25T04:16:30.679799+00:00,48649697,33,"Show HN: Wordit – Change One Letter, Keep the Chain Going",14,12
+2026-06-25T04:16:30.679799+00:00,48603726,34,I can haz smoller NixOS ISOs?,85,29
+2026-06-25T04:16:30.679799+00:00,48668662,35,"GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box",9,0
+2026-06-25T04:16:30.679799+00:00,48659165,36,Stealing Is a Skill,222,132
+2026-06-25T04:16:30.679799+00:00,48657030,37,We’re making Bunny DNS free,864,256
+2026-06-25T04:16:30.679799+00:00,48611940,38,How the Fifth Lateran Council unlocked financial theory,58,9
+2026-06-25T04:16:30.679799+00:00,48630318,39,Show HN: Monolisa v3 – a typeface for developers and creatives,166,61
+2026-06-25T04:16:30.679799+00:00,48665130,40,Zero-Downtime Deployments with Docker Compose – No Kubernetes Required,41,60
+2026-06-25T04:16:30.679799+00:00,48596834,41,Pull request limits are cutting down the noise,83,40
+2026-06-25T04:16:30.679799+00:00,48659483,42,"Show HN: LookAway, a Mac break reminder that knows when not to interrupt",54,19
+2026-06-25T04:16:30.679799+00:00,48614309,43,Pondering routing more of my traffic via nodes outside the UK,59,55
+2026-06-25T04:16:30.679799+00:00,48664733,44,GitHub shouldn't be a dependency for publishing Rust on crates.io,160,59
+2026-06-25T04:16:30.679799+00:00,48660671,45,Running Windows Games on a Hobby OS with Wine,100,32
+2026-06-25T04:16:30.679799+00:00,48662347,47,Exploiting vulnerabilities in Johnson and Johnson web apps,75,6
+2026-06-25T04:16:30.679799+00:00,48643051,48,It's Only When You Look Back,16,11
+2026-06-25T04:16:30.679799+00:00,48663544,49,"I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",122,60
+2026-06-25T04:16:30.679799+00:00,48637868,50,Why eval startups fail (2025),99,53
