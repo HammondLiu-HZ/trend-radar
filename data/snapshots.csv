@@ -5441,3 +5441,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-25T08:28:40.399970+00:00,48660671,48,Running Windows Games on a Hobby OS with Wine,104,33
 2026-06-25T08:28:40.399970+00:00,48611940,49,How the Fifth Lateran Council unlocked financial theory,62,10
 2026-06-25T08:28:40.399970+00:00,48614309,50,Pondering routing more of my traffic via nodes outside the UK,63,67
+2026-06-25T11:46:37.408646+00:00,48671392,1,Dolphin Emulator Progress Release 2606,59,5
+2026-06-25T11:46:37.408646+00:00,48669534,2,Half-Life 2 in a Browser,313,115
+2026-06-25T11:46:37.408646+00:00,48664814,3,Anthropic says Alibaba illicitly extracted Claude AI model capabilities,469,831
+2026-06-25T11:46:37.408646+00:00,48663324,4,"OpenAI unveils its first custom chip, built by Broadcom",717,408
+2026-06-25T11:46:37.408646+00:00,48668033,5,Cloudflare launched self-managed OAuth for all,191,87
+2026-06-25T11:46:37.408646+00:00,48636753,6,Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub,94,16
+2026-06-25T11:46:37.408646+00:00,48666927,7,Blogging can just be stating the obvious,259,91
+2026-06-25T11:46:37.408646+00:00,48667336,8,LuaJIT 3.0 proposed syntax extensions,167,100
+2026-06-25T11:46:37.408646+00:00,48646077,9,"Markdy: Like Mermaid Diagrams, but for Motion",80,37
+2026-06-25T11:46:37.408646+00:00,48671468,10,LastPass notifies users of yet another data breach,21,0
+2026-06-25T11:46:37.408646+00:00,48660178,11,45°C cooling design cuts data center water use to near zero,357,255
+2026-06-25T11:46:37.408646+00:00,48669932,12,Wikipedia Workers in Britain set global first by seeking union recognition,102,110
+2026-06-25T11:46:37.408646+00:00,48640919,13,"Words, Words, Words",8,1
+2026-06-25T11:46:37.408646+00:00,48668119,14,Medical students are using popular research tool to pump out misleading studies,66,33
+2026-06-25T11:46:37.408646+00:00,48631366,15,Dostoyevsky isn't difficult,162,191
+2026-06-25T11:46:37.408646+00:00,48639840,16,GLM-5.2 is a step change for open agents,251,150
+2026-06-25T11:46:37.408646+00:00,48660711,17,RubyLLM: A Ruby framework for all major AI providers,394,68
+2026-06-25T11:46:37.408646+00:00,48659798,18,Qualcomm to Acquire Modular,205,76
+2026-06-25T11:46:37.408646+00:00,48660579,19,PR spam today looks like email spam in the early 2000s,230,135
+2026-06-25T11:46:37.408646+00:00,48639429,20,"Lies, Damn Lies and Database Benchmarks",12,2
+2026-06-25T11:46:37.408646+00:00,48646239,21,Show HN: Nimic – Pure Python as a systems language with AOT compilation,20,16
+2026-06-25T11:46:37.408646+00:00,48662999,22,Computer use in Gemini 3.5 Flash,226,147
+2026-06-25T11:46:37.408646+00:00,48662381,23,The Xteink X4 E-Ink Reader,264,153
+2026-06-25T11:46:37.408646+00:00,48667560,24,Mixing Visual and Textual Code,53,21
+2026-06-25T11:46:37.408646+00:00,48595882,25,Show HN: Write SaaS apps where users control where their data is stored,53,28
+2026-06-25T11:46:37.408646+00:00,48639018,26,Matt's Script Archive: The Scripts That Reshaped the Web,61,17
+2026-06-25T11:46:37.408646+00:00,48668020,27,Zombie unicorns are haunting Silicon Valley,116,67
+2026-06-25T11:46:37.408646+00:00,48606222,28,A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding,346,64
+2026-06-25T11:46:37.408646+00:00,48660267,29,Show HN: Nub – A Bun-like all-in-one toolkit for Node.js,250,69
+2026-06-25T11:46:37.408646+00:00,48670411,30,"Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",21,18
+2026-06-25T11:46:37.408646+00:00,48646659,31,Krea 2: SOTA open-weights 12B image model,388,43
+2026-06-25T11:46:37.408646+00:00,48619159,32,Crawling BitTorrent DHTs for Fun and Profit [pdf],99,35
+2026-06-25T11:46:37.408646+00:00,48657030,33,We’re making Bunny DNS free,885,263
+2026-06-25T11:46:37.408646+00:00,48661825,34,There are a few things that I look back on as my mistakes in the early days,535,266
+2026-06-25T11:46:37.408646+00:00,48603726,35,I can haz smoller NixOS ISOs?,91,35
+2026-06-25T11:46:37.408646+00:00,48640705,36,15 sorting algorithms in 6 minutes (2013) [video],33,6
+2026-06-25T11:46:37.408646+00:00,48659165,37,Stealing Is a Skill,236,140
+2026-06-25T11:46:37.408646+00:00,48598051,38,Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?,41,30
+2026-06-25T11:46:37.408646+00:00,48668255,39,The Unbearable Cheapness of Open Weight Models,79,71
+2026-06-25T11:46:37.408646+00:00,48666100,40,Elastic lays off 7% of employees,193,181
+2026-06-25T11:46:37.408646+00:00,48630318,41,Show HN: Monolisa v3 – a typeface for developers and creatives,174,81
+2026-06-25T11:46:37.408646+00:00,48649697,42,"Show HN: Wordit – Change One Letter, Keep the Chain Going",30,15
+2026-06-25T11:46:37.408646+00:00,48665130,43,Zero-Downtime Deployments with Docker Compose – No Kubernetes Required,61,65
+2026-06-25T11:46:37.408646+00:00,48638820,44,Shall We Play a Coordination Game?,5,0
+2026-06-25T11:46:37.408646+00:00,48637868,45,Why eval startups fail (2025),105,54
+2026-06-25T11:46:37.408646+00:00,48596834,46,Pull request limits are cutting down the noise,94,45
+2026-06-25T11:46:37.408646+00:00,48667588,47,Ending respiratory infections,164,94
+2026-06-25T11:46:37.408646+00:00,48660671,48,Running Windows Games on a Hobby OS with Wine,104,34
+2026-06-25T11:46:37.408646+00:00,48662347,49,Exploiting vulnerabilities in Johnson and Johnson web apps,83,6
