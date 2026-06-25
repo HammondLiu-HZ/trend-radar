@@ -5391,3 +5391,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-25T04:16:30.679799+00:00,48643051,48,It's Only When You Look Back,16,11
 2026-06-25T04:16:30.679799+00:00,48663544,49,"I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",122,60
 2026-06-25T04:16:30.679799+00:00,48637868,50,Why eval startups fail (2025),99,53
+2026-06-25T08:28:40.399970+00:00,48669534,1,Half-Life 2 in a Browser,165,51
+2026-06-25T08:28:40.399970+00:00,48669932,2,Wikipedia Workers in Britain set global first by seeking union recognition,32,10
+2026-06-25T08:28:40.399970+00:00,48664814,3,Anthropic says Alibaba illicitly extracted Claude AI model capabilities,375,634
+2026-06-25T08:28:40.399970+00:00,48670490,4,Mad Fucking Witches,6,1
+2026-06-25T08:28:40.399970+00:00,48663324,5,"OpenAI unveils its first custom chip, built by Broadcom",687,383
+2026-06-25T08:28:40.399970+00:00,48668033,6,Cloudflare launched self-managed OAuth for all,140,55
+2026-06-25T08:28:40.399970+00:00,48646077,7,"Markdy: Like Mermaid Diagrams, but for Motion",51,5
+2026-06-25T08:28:40.399970+00:00,48636753,8,Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub,39,3
+2026-06-25T08:28:40.399970+00:00,48666927,9,Blogging can just be stating the obvious,215,72
+2026-06-25T08:28:40.399970+00:00,48667336,10,LuaJIT 3.0 proposed syntax extensions,144,85
+2026-06-25T08:28:40.399970+00:00,48668255,11,The Unbearable Cheapness of Open Weight Models,49,20
+2026-06-25T08:28:40.399970+00:00,48668119,12,Medical students are using popular research tool to pump out misleading studies,45,20
+2026-06-25T08:28:40.399970+00:00,48631366,13,Dostoyevsky isn't difficult,143,141
+2026-06-25T08:28:40.399970+00:00,48660178,14,45°C cooling design cuts data center water use to near zero,317,211
+2026-06-25T08:28:40.399970+00:00,48668020,15,Zombie unicorns are haunting Silicon Valley,86,43
+2026-06-25T08:28:40.399970+00:00,48646239,16,Show HN: Nimic – Pure Python as a systems language with AOT compilation,8,2
+2026-06-25T08:28:40.399970+00:00,48659798,17,Qualcomm to Acquire Modular,194,60
+2026-06-25T08:28:40.399970+00:00,48639840,18,GLM-5.2 is a step change for open agents,221,123
+2026-06-25T08:28:40.399970+00:00,48660711,19,RubyLLM: A Ruby framework for all major AI providers,382,65
+2026-06-25T08:28:40.399970+00:00,48667560,20,Mixing Visual and Textual Code,47,17
+2026-06-25T08:28:40.399970+00:00,48660579,21,PR spam today looks like email spam in the early 2000s,215,124
+2026-06-25T08:28:40.399970+00:00,48662999,22,Computer use in Gemini 3.5 Flash,212,134
+2026-06-25T08:28:40.399970+00:00,48662381,23,The Xteink X4 E-Ink Reader,235,135
+2026-06-25T08:28:40.399970+00:00,48598051,24,Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?,33,28
+2026-06-25T08:28:40.399970+00:00,48639018,25,Matt's Script Archive: The Scripts That Reshaped the Web,45,12
+2026-06-25T08:28:40.399970+00:00,48595882,26,Show HN: Write SaaS apps where users control where their data is stored,41,21
+2026-06-25T08:28:40.399970+00:00,48660267,27,Show HN: Nub – A Bun-like all-in-one toolkit for Node.js,235,66
+2026-06-25T08:28:40.399970+00:00,48640705,28,15 sorting algorithms in 6 minutes (2013) [video],27,3
+2026-06-25T08:28:40.399970+00:00,48606222,29,A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding,324,60
+2026-06-25T08:28:40.399970+00:00,48667588,30,Ending respiratory infections,151,77
+2026-06-25T08:28:40.399970+00:00,48646659,31,Krea 2: SOTA open-weights 12B image model,375,41
+2026-06-25T08:28:40.399970+00:00,48619159,32,Crawling BitTorrent DHTs for Fun and Profit [pdf],92,34
+2026-06-25T08:28:40.399970+00:00,48661825,33,There are a few things that I look back on as my mistakes in the early days,526,261
+2026-06-25T08:28:40.399970+00:00,48603726,34,I can haz smoller NixOS ISOs?,88,32
+2026-06-25T08:28:40.399970+00:00,48657030,35,We’re making Bunny DNS free,879,260
+2026-06-25T08:28:40.399970+00:00,48666100,36,Elastic lays off 7% of employees,184,166
+2026-06-25T08:28:40.399970+00:00,48659165,37,Stealing Is a Skill,228,137
+2026-06-25T08:28:40.399970+00:00,48630318,38,Show HN: Monolisa v3 – a typeface for developers and creatives,174,74
+2026-06-25T08:28:40.399970+00:00,48649697,39,"Show HN: Wordit – Change One Letter, Keep the Chain Going",21,14
+2026-06-25T08:28:40.399970+00:00,48627471,40,Optimizing [sqlx:test] rebuild time,13,1
+2026-06-25T08:28:40.399970+00:00,48667409,41,What I'm Finding About LLM Code Style and Token Costs,30,12
+2026-06-25T08:28:40.399970+00:00,48667853,42,Writers and Drugs,20,9
+2026-06-25T08:28:40.399970+00:00,48665130,43,Zero-Downtime Deployments with Docker Compose – No Kubernetes Required,50,64
+2026-06-25T08:28:40.399970+00:00,48667761,44,Exploring the internal representations of Pangram 3.3.2,30,5
+2026-06-25T08:28:40.399970+00:00,48596834,45,Pull request limits are cutting down the noise,86,42
+2026-06-25T08:28:40.399970+00:00,48637868,46,Why eval startups fail (2025),102,54
+2026-06-25T08:28:40.399970+00:00,48662347,47,Exploiting vulnerabilities in Johnson and Johnson web apps,82,6
+2026-06-25T08:28:40.399970+00:00,48660671,48,Running Windows Games on a Hobby OS with Wine,104,33
+2026-06-25T08:28:40.399970+00:00,48611940,49,How the Fifth Lateran Council unlocked financial theory,62,10
+2026-06-25T08:28:40.399970+00:00,48614309,50,Pondering routing more of my traffic via nodes outside the UK,63,67
