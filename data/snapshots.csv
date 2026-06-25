@@ -5490,3 +5490,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-25T11:46:37.408646+00:00,48667588,47,Ending respiratory infections,164,94
 2026-06-25T11:46:37.408646+00:00,48660671,48,Running Windows Games on a Hobby OS with Wine,104,34
 2026-06-25T11:46:37.408646+00:00,48662347,49,Exploiting vulnerabilities in Johnson and Johnson web apps,83,6
+2026-06-25T14:48:45.064530+00:00,48657049,1,You can't unit test for taste,106,39
+2026-06-25T14:48:45.064530+00:00,48669534,2,Half-Life 2 in a Browser,457,186
+2026-06-25T14:48:45.064530+00:00,48620422,3,The Disappearance of Japan's Animators,35,24
+2026-06-25T14:48:45.064530+00:00,48671886,4,Show HN: Turn native language audio into flashcards and shadowing practice,24,9
+2026-06-25T14:48:45.064530+00:00,48664814,5,Anthropic says Alibaba illicitly extracted Claude AI model capabilities,610,978
+2026-06-25T14:48:45.064530+00:00,48671468,6,LastPass notifies users of yet another data breach,225,105
+2026-06-25T14:48:45.064530+00:00,48657481,7,Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?,28,3
+2026-06-25T14:48:45.064530+00:00,48663324,8,"OpenAI unveils its first custom chip, built by Broadcom",763,437
+2026-06-25T14:48:45.064530+00:00,48673194,9,Tell HN: OpenAI has started putting ads on paid programs,30,16
+2026-06-25T14:48:45.064530+00:00,48668033,10,Cloudflare launched self-managed OAuth for all,261,113
+2026-06-25T14:48:45.064530+00:00,48669932,11,Wikipedia Workers in Britain set global first by seeking union recognition,158,158
+2026-06-25T14:48:45.064530+00:00,48666927,12,Blogging can just be stating the obvious,342,110
+2026-06-25T14:48:45.064530+00:00,48636753,13,Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub,152,30
+2026-06-25T14:48:45.064530+00:00,48667336,14,LuaJIT 3.0 proposed syntax extensions,194,112
+2026-06-25T14:48:45.064530+00:00,48660178,15,45°C cooling design cuts data center water use to near zero,410,331
+2026-06-25T14:48:45.064530+00:00,48668119,16,Medical students are using popular research tool to pump out misleading studies,107,62
+2026-06-25T14:48:45.064530+00:00,48639840,17,GLM-5.2 is a step change for open agents,302,180
+2026-06-25T14:48:45.064530+00:00,48672389,18,"Show HN: Secs-man, a secrets manager you can (not) rely on",12,6
+2026-06-25T14:48:45.064530+00:00,48639429,19,"Lies, Damn Lies and Database Benchmarks",38,15
+2026-06-25T14:48:45.064530+00:00,48631366,20,Dostoyevsky isn't difficult,191,234
+2026-06-25T14:48:45.064530+00:00,48600369,21,Show HN: StartupsBR – A map of Brazilian startups,43,21
+2026-06-25T14:48:45.064530+00:00,48660711,22,RubyLLM: A Ruby framework for all major AI providers,417,70
+2026-06-25T14:48:45.064530+00:00,48672764,23,Countries are competing to see which can carry out mass surveillance the best,193,62
+2026-06-25T14:48:45.064530+00:00,48671392,24,Dolphin Emulator Progress Release 2606,176,23
+2026-06-25T14:48:45.064530+00:00,48640919,25,"Words, Words, Words",23,8
+2026-06-25T14:48:45.064530+00:00,48659798,26,Qualcomm to Acquire Modular,223,83
+2026-06-25T14:48:45.064530+00:00,48673801,27,Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?,6,1
+2026-06-25T14:48:45.064530+00:00,48660579,28,PR spam today looks like email spam in the early 2000s,248,143
+2026-06-25T14:48:45.064530+00:00,48662381,29,The Xteink X4 E-Ink Reader,289,171
+2026-06-25T14:48:45.064530+00:00,48662999,30,Computer use in Gemini 3.5 Flash,233,155
+2026-06-25T14:48:45.064530+00:00,48646077,31,"Markdy: Like Mermaid Diagrams, but for Motion",102,61
+2026-06-25T14:48:45.064530+00:00,48639018,32,Matt's Script Archive: The Scripts That Reshaped the Web,74,19
+2026-06-25T14:48:45.064530+00:00,48646239,33,Show HN: Nimic – Pure Python as a systems language with AOT compilation,27,22
+2026-06-25T14:48:45.064530+00:00,48606222,34,A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding,362,67
+2026-06-25T14:48:45.064530+00:00,48667560,35,Mixing Visual and Textual Code,58,39
+2026-06-25T14:48:45.064530+00:00,48660267,36,Show HN: Nub – A Bun-like all-in-one toolkit for Node.js,257,73
+2026-06-25T14:48:45.064530+00:00,48595882,37,Show HN: Write SaaS apps where users control where their data is stored,63,30
+2026-06-25T14:48:45.064530+00:00,48673503,38,A Solution to A.I.'S Growing Power Demand: Homes,5,4
+2026-06-25T14:48:45.064530+00:00,48646659,39,Krea 2: SOTA open-weights 12B image model,403,44
+2026-06-25T14:48:45.064530+00:00,48668020,40,Zombie unicorns are haunting Silicon Valley,139,88
+2026-06-25T14:48:45.064530+00:00,48657030,41,We’re making Bunny DNS free,888,264
+2026-06-25T14:48:45.064530+00:00,48672732,42,"Apple announces significant price increases for MacBooks, iPads, more",171,202
+2026-06-25T14:48:45.064530+00:00,48668255,43,The Unbearable Cheapness of Open Weight Models,94,77
+2026-06-25T14:48:45.064530+00:00,48603726,44,I can haz smoller NixOS ISOs?,96,37
+2026-06-25T14:48:45.064530+00:00,48661825,45,There are a few things that I look back on as my mistakes in the early days,545,268
+2026-06-25T14:48:45.064530+00:00,48659165,46,Stealing Is a Skill,240,141
+2026-06-25T14:48:45.064530+00:00,48619159,47,Crawling BitTorrent DHTs for Fun and Profit [pdf],103,38
+2026-06-25T14:48:45.064530+00:00,48672612,48,Apple just Increased Prices: here’s what’s changed,18,9
+2026-06-25T14:48:45.064530+00:00,48640705,49,15 sorting algorithms in 6 minutes (2013) [video],36,6
