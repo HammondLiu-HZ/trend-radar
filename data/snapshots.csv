@@ -5539,3 +5539,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-25T14:48:45.064530+00:00,48619159,47,Crawling BitTorrent DHTs for Fun and Profit [pdf],103,38
 2026-06-25T14:48:45.064530+00:00,48672612,48,Apple just Increased Prices: here’s what’s changed,18,9
 2026-06-25T14:48:45.064530+00:00,48640705,49,15 sorting algorithms in 6 minutes (2013) [video],36,6
+2026-06-25T17:20:06.955256+00:00,48673825,1,Zig's New BitCast Semantics and LLVM Back End Improvements,100,25
+2026-06-25T17:20:06.955256+00:00,48673671,2,Show HN: I made Google Trends for Hacker News by indexing 18 years of comments,384,104
+2026-06-25T17:20:06.955256+00:00,48657049,3,You can't unit test for taste,174,66
+2026-06-25T17:20:06.955256+00:00,48674967,4,IBM Debuts First Sub-1 Nanometer Chip Technology,20,5
+2026-06-25T17:20:06.955256+00:00,48669534,5,Half-Life 2 in a Browser,535,221
+2026-06-25T17:20:06.955256+00:00,48674096,6,Apple increases MacBook and iPad prices by 20%,245,191
+2026-06-25T17:20:06.955256+00:00,48674446,8,Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors,501,236
+2026-06-25T17:20:06.955256+00:00,48675179,9,A Herculaneum scroll has been read for the first time,20,3
+2026-06-25T17:20:06.955256+00:00,48631302,10,Tw-fade: pure CSS scroll-driven edge masking,28,10
+2026-06-25T17:20:06.955256+00:00,48675369,11,Windows 10 quietly gets one more year of support and updates,48,24
+2026-06-25T17:20:06.955256+00:00,48664814,12,Anthropic says Alibaba illicitly extracted Claude AI model capabilities,694,1123
+2026-06-25T17:20:06.955256+00:00,48674484,13,OS9Map,20,1
+2026-06-25T17:20:06.955256+00:00,48671886,14,Show HN: Turn native language audio into flashcards and shadowing practice,47,23
+2026-06-25T17:20:06.955256+00:00,48675717,15,Deno 2.9,73,17
+2026-06-25T17:20:06.955256+00:00,48672779,16,Political bias in AI: Where the AI models stand,24,73
+2026-06-25T17:20:06.955256+00:00,48663324,17,"OpenAI unveils its first custom chip, built by Broadcom",790,451
+2026-06-25T17:20:06.955256+00:00,48671468,18,LastPass notifies users of yet another data breach,344,155
+2026-06-25T17:20:06.955256+00:00,48672506,19,SoftBank 2026 AGM [pdf],37,10
+2026-06-25T17:20:06.955256+00:00,48668033,20,Cloudflare launched self-managed OAuth for all,304,133
+2026-06-25T17:20:06.955256+00:00,48612432,21,Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs,50,24
+2026-06-25T17:20:06.955256+00:00,48669932,22,Wikipedia Workers in Britain set global first by seeking union recognition,194,186
+2026-06-25T17:20:06.955256+00:00,48674619,23,Physicists Track and Trap the Elusive Neutrino,11,1
+2026-06-25T17:20:06.955256+00:00,48657481,24,Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?,39,7
+2026-06-25T17:20:06.955256+00:00,48666927,25,Blogging can just be stating the obvious,387,118
+2026-06-25T17:20:06.955256+00:00,48668119,26,Medical students are using popular research tool to pump out misleading studies,139,73
+2026-06-25T17:20:06.955256+00:00,48636753,27,Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub,171,42
+2026-06-25T17:20:06.955256+00:00,48654837,28,Lianda and the Long March,8,0
+2026-06-25T17:20:06.955256+00:00,48667336,29,LuaJIT 3.0 proposed syntax extensions,210,133
+2026-06-25T17:20:06.955256+00:00,48639840,30,GLM-5.2 is a step change for open agents,342,197
+2026-06-25T17:20:06.955256+00:00,48672389,31,"Show HN: Secs-man, a secrets manager you can (not) rely on",21,14
+2026-06-25T17:20:06.955256+00:00,48631366,32,Dostoyevsky isn't difficult,219,279
+2026-06-25T17:20:06.955256+00:00,48660711,33,RubyLLM: A Ruby framework for all major AI providers,439,75
+2026-06-25T17:20:06.955256+00:00,48600369,34,Show HN: StartupsBR – A map of Brazilian startups,50,23
+2026-06-25T17:20:06.955256+00:00,48639429,35,"Lies, Damn Lies and Database Benchmarks",50,18
+2026-06-25T17:20:06.955256+00:00,48659798,36,Qualcomm to Acquire Modular,234,90
+2026-06-25T17:20:06.955256+00:00,48675710,37,European Commission lines up Amazon and Microsoft for cloud gatekeeper status,7,0
+2026-06-25T17:20:06.955256+00:00,48660579,38,PR spam today looks like email spam in the early 2000s,253,149
+2026-06-25T17:20:06.955256+00:00,48662381,39,The Xteink X4 E-Ink Reader,293,179
+2026-06-25T17:20:06.955256+00:00,48676287,40,Meta forced engineers into AI training. Now it's giving some a way out,4,1
+2026-06-25T17:20:06.955256+00:00,48662999,41,Computer use in Gemini 3.5 Flash,237,160
+2026-06-25T17:20:06.955256+00:00,48640919,42,"Words, Words, Words",30,12
+2026-06-25T17:20:06.955256+00:00,48639018,43,Matt's Script Archive: The Scripts That Reshaped the Web,77,20
+2026-06-25T17:20:06.955256+00:00,48620422,44,The Disappearance of Japan's Animators,57,54
+2026-06-25T17:20:06.955256+00:00,48671392,45,Dolphin Emulator Progress Release 2606,196,29
+2026-06-25T17:20:06.955256+00:00,48660267,46,Show HN: Nub – A Bun-like all-in-one toolkit for Node.js,262,73
+2026-06-25T17:20:06.955256+00:00,48646239,47,Show HN: Nimic – Pure Python as a systems language with AOT compilation,33,22
+2026-06-25T17:20:06.955256+00:00,48673787,48,"Federal agents track down woman, demand she remove Instagram post about ICE",113,56
+2026-06-25T17:20:06.955256+00:00,48673194,49,Tell HN: OpenAI has started putting ads on paid programs,89,42
+2026-06-25T17:20:06.955256+00:00,48660178,50,45°C cooling design cuts data center water use to near zero,444,388
