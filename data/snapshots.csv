@@ -5980,3 +5980,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-26T17:58:19.091938+00:00,48672779,48,Political bias in AI: Where the AI models stand,162,290
 2026-06-26T17:58:19.091938+00:00,48687224,49,Swsim: A Software SIM Card,14,0
 2026-06-26T17:58:19.091938+00:00,48685642,50,The White House is asking OpenAI to slow roll the release of its new model,38,11
+2026-06-26T20:03:57.581285+00:00,48689028,1,Previewing GPT‑5.6 Sol: a next-generation model,497,303
+2026-06-26T20:03:57.581285+00:00,48690101,2,U.S. government will decide who gets to use GPT-5.6,269,497
+2026-06-26T20:03:57.581285+00:00,48642510,3,MicroVMs: Run isolated sandboxes with full lifecycle control,184,103
+2026-06-26T20:03:57.581285+00:00,48690231,4,Gossamer: a Rust-flavoured language with real goroutines and pause-free memory,23,11
+2026-06-26T20:03:57.581285+00:00,48688700,5,"Show HN: Smart model routing directly in Claude, Codex and Cursor",90,63
+2026-06-26T20:03:57.581285+00:00,48685558,6,Ultrasound imaging of the brain,176,60
+2026-06-26T20:03:57.581285+00:00,48678852,7,Om Malik has died,1249,153
+2026-06-26T20:03:57.581285+00:00,48689277,8,What Is a Nomogram and Why Would It Interest Me?,27,7
+2026-06-26T20:03:57.581285+00:00,48675179,9,An entire Herculaneum scroll has been read for the first time,1601,352
+2026-06-26T20:03:57.581285+00:00,48644111,10,"The ""Bizarre Headgear"" Exhibit at the Sam Noble Museum Is Incredible",17,0
+2026-06-26T20:03:57.581285+00:00,48643459,11,Modern GPU Programming for MLSys,23,1
+2026-06-26T20:03:57.581285+00:00,48688081,13,What is a Lithium-ion capacitor?,33,7
+2026-06-26T20:03:57.581285+00:00,48689275,14,Data centers trigger voter backlash,69,60
+2026-06-26T20:03:57.581285+00:00,48681949,15,Libre Barcode Project,267,49
+2026-06-26T20:03:57.581285+00:00,48686834,16,Springer Nature has removed two studies by Max Planck,301,139
+2026-06-26T20:03:57.581285+00:00,48610137,17,22-year-old Mozart's handwritten notebook unearthed in 'major discovery',238,76
+2026-06-26T20:03:57.581285+00:00,48681687,18,What happened after 2k people tried to hack my AI assistant,332,154
+2026-06-26T20:03:57.581285+00:00,48681220,19,Framework's 10G Ethernet module exposes USB-C's complexity,300,169
+2026-06-26T20:03:57.581285+00:00,48650550,20,LaTeX.wasm: LaTeX Engines in Browsers,54,15
+2026-06-26T20:03:57.581285+00:00,48637433,21,Bipartite Matching Is in NC,95,14
+2026-06-26T20:03:57.581285+00:00,48656986,22,Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter,65,16
+2026-06-26T20:03:57.581285+00:00,48686093,23,Incident CVE-2026-LGTM,454,78
+2026-06-26T20:03:57.581285+00:00,48642474,24,"A game where you're an OS and have to manage processes, memory and I/O events",338,75
+2026-06-26T20:03:57.581285+00:00,48648550,25,My Steam Machine is a 50ft HDMI cable,92,102
+2026-06-26T20:03:57.581285+00:00,48679608,26,"The 'papers, please' era of the internet will decimate your privacy",1054,545
+2026-06-26T20:03:57.581285+00:00,48627027,27,Doing a masters while working in Spain,77,60
+2026-06-26T20:03:57.581285+00:00,48680370,28,The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023),225,47
+2026-06-26T20:03:57.581285+00:00,48687769,29,"Ask HN: Is ""no source code was copied"" still a sufficient copyright defense?",31,47
+2026-06-26T20:03:57.581285+00:00,48687272,30,Jolla Phone (October 2026),234,132
+2026-06-26T20:03:57.581285+00:00,48631450,31,Oxide computer 3D rack guided tour,458,198
+2026-06-26T20:03:57.581285+00:00,48648850,32,A US military exercise to launch a satellite on short notice,98,69
+2026-06-26T20:03:57.581285+00:00,48674967,33,IBM debuts sub-1 nanometer chip technology,376,198
+2026-06-26T20:03:57.581285+00:00,48682737,34,We all depend on open source. We will defend it together,424,206
+2026-06-26T20:03:57.581285+00:00,48653338,35,FEXPRs vs. vtable: how LispE interpreter works,98,6
+2026-06-26T20:03:57.581285+00:00,48616304,36,Show HN: Chess-Inspired Roguelike,415,138
+2026-06-26T20:03:57.581285+00:00,48675435,37,Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion,352,166
+2026-06-26T20:03:57.581285+00:00,48690635,38,The French are painting their windows with chalk to beat the heat,7,2
+2026-06-26T20:03:57.581285+00:00,48679007,39,Un-0: Generating Images with Coupled Oscillators,185,46
+2026-06-26T20:03:57.581285+00:00,48678495,40,The Doorman's Fallacy in action,214,271
+2026-06-26T20:03:57.581285+00:00,48678873,41,OpenAI leans toward waiting until next year for IPO,141,118
+2026-06-26T20:03:57.581285+00:00,48672732,42,"Apple raises prices of MacBooks, iPads",810,1198
+2026-06-26T20:03:57.581285+00:00,48673825,43,Zig's new bitCast semantics and LLVM back end improvements,272,142
+2026-06-26T20:03:57.581285+00:00,48674484,44,OS9Map,259,53
+2026-06-26T20:03:57.581285+00:00,48678645,45,An oral history of Bank Python (2021),163,69
+2026-06-26T20:03:57.581285+00:00,48624723,46,Microbubbles in Medicine,28,6
+2026-06-26T20:03:57.581285+00:00,48631119,47,The last Romans are still around,127,217
+2026-06-26T20:03:57.581285+00:00,48689820,48,I'm building a Space Cadet Pinball Machine! [video],8,1
+2026-06-26T20:03:57.581285+00:00,48657049,49,You can't unit test for taste,296,133
+2026-06-26T20:03:57.581285+00:00,48644383,50,Record type inference for dummies,72,4
