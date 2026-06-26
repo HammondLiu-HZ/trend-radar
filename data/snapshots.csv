@@ -5882,3 +5882,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-26T12:19:22.191990+00:00,48684060,48,How much? The hidden costs of restaurant dishes,20,22
 2026-06-26T12:19:22.191990+00:00,48664814,49,Anthropic says Alibaba illicitly extracted Claude AI model capabilities,766,1249
 2026-06-26T12:19:22.191990+00:00,48668119,50,Medical students are using popular research tool to pump out misleading studies,162,90
+2026-06-26T15:28:35.140372+00:00,48686834,1,Why have papers by one of history's most famous physicists been retracted?,124,39
+2026-06-26T15:28:35.140372+00:00,48686093,2,Incident CVE-2026-LGTM,191,32
+2026-06-26T15:28:35.140372+00:00,48685558,3,Ultrasound Imaging of the Brain,52,14
+2026-06-26T15:28:35.140372+00:00,48678852,4,Om Malik has died,1126,131
+2026-06-26T15:28:35.140372+00:00,48675179,5,An entire Herculaneum scroll has been read for the first time,1486,319
+2026-06-26T15:28:35.140372+00:00,48687272,6,"Jolla Phone, Over 13 500 units sold",39,22
+2026-06-26T15:28:35.140372+00:00,48637433,7,Bipartite Matching Is in NC,69,4
+2026-06-26T15:28:35.140372+00:00,48681949,8,Libre Barcode Project,233,38
+2026-06-26T15:28:35.140372+00:00,48681687,9,What happened after 2k people tried to hack my AI assistant,276,119
+2026-06-26T15:28:35.140372+00:00,48681220,10,Framework's 10G Ethernet module exposes USB-C's complexity,258,139
+2026-06-26T15:28:35.140372+00:00,48656986,11,Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter,37,11
+2026-06-26T15:28:35.140372+00:00,48610137,12,22-year-old Mozart's handwritten notebook unearthed in 'major discovery',156,42
+2026-06-26T15:28:35.140372+00:00,48653338,13,FEXPRs vs. vtable: how LispE interpreter works,20,4
+2026-06-26T15:28:35.140372+00:00,48648850,14,"New satellites from years to weeks, days, or hours",8,1
+2026-06-26T15:28:35.140372+00:00,48679608,15,"The 'papers, please' era of the internet will decimate your privacy",925,461
+2026-06-26T15:28:35.140372+00:00,48642474,16,"A game where you're an OS and have to manage processes, memory and I/O events",301,61
+2026-06-26T15:28:35.140372+00:00,48682737,17,We all depend on open source. We will defend it together,371,177
+2026-06-26T15:28:35.140372+00:00,48680370,18,The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023),197,42
+2026-06-26T15:28:35.140372+00:00,48631450,19,Oxide computer 3D rack guided tour,431,173
+2026-06-26T15:28:35.140372+00:00,48674967,20,IBM debuts sub-1 nanometer chip technology,356,191
+2026-06-26T15:28:35.140372+00:00,48672328,21,"Hey Nico, you didn't vibe code your data room but stole it from Papermark",503,207
+2026-06-26T15:28:35.140372+00:00,48675435,22,Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion,325,155
+2026-06-26T15:28:35.140372+00:00,48616304,23,Show HN: Chess-Inspired Roguelike,380,122
+2026-06-26T15:28:35.140372+00:00,48679007,24,Un-0: Generating Images with Coupled Oscillators,175,42
+2026-06-26T15:28:35.140372+00:00,48624723,25,Microbubbles in Medicine,20,3
+2026-06-26T15:28:35.140372+00:00,48678495,26,The Doorman's Fallacy in action,177,235
+2026-06-26T15:28:35.140372+00:00,48678645,27,An oral history of Bank Python (2021),152,64
+2026-06-26T15:28:35.140372+00:00,48672732,28,"Apple raises prices of MacBooks, iPads",785,1156
+2026-06-26T15:28:35.140372+00:00,48673825,29,Zig's new bitCast semantics and LLVM back end improvements,263,133
+2026-06-26T15:28:35.140372+00:00,48674484,30,OS9Map,251,50
+2026-06-26T15:28:35.140372+00:00,48687483,31,The AI industry is pouring millions into US elections,12,1
+2026-06-26T15:28:35.140372+00:00,48644383,32,Record type inference for dummies,66,4
+2026-06-26T15:28:35.140372+00:00,48631119,33,The last Romans are still around,125,195
+2026-06-26T15:28:35.140372+00:00,48657049,34,You can't unit test for taste,292,130
+2026-06-26T15:28:35.140372+00:00,48685677,35,Captcha proves you're human. HATCHA proves you're not,67,71
+2026-06-26T15:28:35.140372+00:00,48678623,36,Parallel Parentheses Matching,110,15
+2026-06-26T15:28:35.140372+00:00,48620422,37,The disappearance of Japan's animators,183,145
+2026-06-26T15:28:35.140372+00:00,48687224,38,Swsim: A Software SIM Card,3,0
+2026-06-26T15:28:35.140372+00:00,48685642,40,The White House is asking OpenAI to slow roll the release of its new model,21,3
+2026-06-26T15:28:35.140372+00:00,48672779,41,Political bias in AI: Where the AI models stand,155,281
+2026-06-26T15:28:35.140372+00:00,48668255,42,The unbearable cheapness of open weight models,171,165
+2026-06-26T15:28:35.140372+00:00,48656692,43,GloriousEggroll's Proton has been rebased on Proton 11,87,42
+2026-06-26T15:28:35.140372+00:00,48685481,44,Mlibc: A fukk-featured portable C standard library,13,3
+2026-06-26T15:28:35.140372+00:00,48652997,45,Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs,119,34
+2026-06-26T15:28:35.140372+00:00,48627027,46,Doing a masters while working in Spain,75,56
+2026-06-26T15:28:35.140372+00:00,48648550,47,My Steam Machine Is a 50ft HDMI Cable,80,84
+2026-06-26T15:28:35.140372+00:00,48638710,48,Eyewitness at the Triangle (1911),26,1
+2026-06-26T15:28:35.140372+00:00,48676795,49,Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line,299,324
+2026-06-26T15:28:35.140372+00:00,48673671,50,Show HN: I made Google Trends for Hacker News by indexing 18 years of comments,746,149
