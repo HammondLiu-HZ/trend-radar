@@ -5931,3 +5931,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-26T15:28:35.140372+00:00,48638710,48,Eyewitness at the Triangle (1911),26,1
 2026-06-26T15:28:35.140372+00:00,48676795,49,Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line,299,324
 2026-06-26T15:28:35.140372+00:00,48673671,50,Show HN: I made Google Trends for Hacker News by indexing 18 years of comments,746,149
+2026-06-26T17:58:19.091938+00:00,48642510,1,MicroVMs: Run isolated sandboxes with full lifecycle control,116,56
+2026-06-26T17:58:19.091938+00:00,48688700,2,"Show HN: Smart model routing directly in Claude, Codex and Cursor",37,27
+2026-06-26T17:58:19.091938+00:00,48689028,3,Previewing GPT‑5.6 Sol: a next-generation model,213,193
+2026-06-26T17:58:19.091938+00:00,48685558,4,Ultrasound imaging of the brain,131,42
+2026-06-26T17:58:19.091938+00:00,48648850,5,A US military exercise to launch a satellite on short notice,77,36
+2026-06-26T17:58:19.091938+00:00,48678852,6,Om Malik has died,1195,140
+2026-06-26T17:58:19.091938+00:00,48675179,7,An entire Herculaneum scroll has been read for the first time,1554,336
+2026-06-26T17:58:19.091938+00:00,48686834,9,Springer Nature has removed two studies by Max Planck,244,113
+2026-06-26T17:58:19.091938+00:00,48686093,10,Incident CVE-2026-LGTM,388,67
+2026-06-26T17:58:19.091938+00:00,48687272,11,Jolla Phone (October 2026),175,106
+2026-06-26T17:58:19.091938+00:00,48681949,12,Libre Barcode Project,251,41
+2026-06-26T17:58:19.091938+00:00,48637433,13,Bipartite Matching Is in NC,88,13
+2026-06-26T17:58:19.091938+00:00,48681220,14,Framework's 10G Ethernet module exposes USB-C's complexity,283,159
+2026-06-26T17:58:19.091938+00:00,48681687,15,What happened after 2k people tried to hack my AI assistant,306,136
+2026-06-26T17:58:19.091938+00:00,48610137,16,22-year-old Mozart's handwritten notebook unearthed in 'major discovery',202,61
+2026-06-26T17:58:19.091938+00:00,48650550,17,LaTeX.wasm: LaTeX Engines in Browsers,28,8
+2026-06-26T17:58:19.091938+00:00,48656986,18,Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter,55,13
+2026-06-26T17:58:19.091938+00:00,48688081,19,What is a Lithium-ion capacitor?,5,0
+2026-06-26T17:58:19.091938+00:00,48642474,20,"A game where you're an OS and have to manage processes, memory and I/O events",321,68
+2026-06-26T17:58:19.091938+00:00,48679608,21,"The 'papers, please' era of the internet will decimate your privacy",999,509
+2026-06-26T17:58:19.091938+00:00,48680370,22,The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023),216,45
+2026-06-26T17:58:19.091938+00:00,48672328,23,"Hey Nico, you didn't vibe code your data room but stole it from Papermark",578,248
+2026-06-26T17:58:19.091938+00:00,48653338,24,FEXPRs vs. vtable: how LispE interpreter works,60,6
+2026-06-26T17:58:19.091938+00:00,48682737,25,We all depend on open source. We will defend it together,400,196
+2026-06-26T17:58:19.091938+00:00,48631450,26,Oxide computer 3D rack guided tour,446,194
+2026-06-26T17:58:19.091938+00:00,48674967,27,IBM debuts sub-1 nanometer chip technology,369,195
+2026-06-26T17:58:19.091938+00:00,48687769,28,"Ask HN: Is ""no source code was copied"" still a sufficient copyright defense?",11,5
+2026-06-26T17:58:19.091938+00:00,48616304,29,Show HN: Chess-Inspired Roguelike,404,134
+2026-06-26T17:58:19.091938+00:00,48675435,30,Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion,347,164
+2026-06-26T17:58:19.091938+00:00,48687495,31,Show HN: Apply for jobs by directly emailing relevant people at a company,5,1
+2026-06-26T17:58:19.091938+00:00,48679007,32,Un-0: Generating Images with Coupled Oscillators,180,46
+2026-06-26T17:58:19.091938+00:00,48624723,33,Microbubbles in Medicine,27,6
+2026-06-26T17:58:19.091938+00:00,48678495,34,The Doorman's Fallacy in action,206,260
+2026-06-26T17:58:19.091938+00:00,48689182,35,Ex-NOAA employees laid off by DOGE rebuilt climate website,6,1
+2026-06-26T17:58:19.091938+00:00,48678873,36,OpenAI leans toward waiting until next year for IPO,136,109
+2026-06-26T17:58:19.091938+00:00,48672732,37,"Apple raises prices of MacBooks, iPads",805,1189
+2026-06-26T17:58:19.091938+00:00,48673825,38,Zig's new bitCast semantics and LLVM back end improvements,268,140
+2026-06-26T17:58:19.091938+00:00,48678645,39,An oral history of Bank Python (2021),160,69
+2026-06-26T17:58:19.091938+00:00,48674484,40,OS9Map,255,53
+2026-06-26T17:58:19.091938+00:00,48689275,41,'Cost Me the Election': Data Centers Trigger Voter Backlash,10,9
+2026-06-26T17:58:19.091938+00:00,48631119,42,The last Romans are still around,127,214
+2026-06-26T17:58:19.091938+00:00,48644383,43,Record type inference for dummies,67,4
+2026-06-26T17:58:19.091938+00:00,48657049,44,You can't unit test for taste,295,132
+2026-06-26T17:58:19.091938+00:00,48620422,45,The disappearance of Japan's animators,187,147
+2026-06-26T17:58:19.091938+00:00,48678623,46,Parallel Parentheses Matching,111,15
+2026-06-26T17:58:19.091938+00:00,48668255,47,The unbearable cheapness of open weight models,181,169
+2026-06-26T17:58:19.091938+00:00,48672779,48,Political bias in AI: Where the AI models stand,162,290
+2026-06-26T17:58:19.091938+00:00,48687224,49,Swsim: A Software SIM Card,14,0
+2026-06-26T17:58:19.091938+00:00,48685642,50,The White House is asking OpenAI to slow roll the release of its new model,38,11
