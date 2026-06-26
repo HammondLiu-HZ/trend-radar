@@ -5735,3 +5735,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-26T00:17:58.349233+00:00,48669534,48,Half-Life 2 in a Browser,635,254
 2026-06-26T00:17:58.349233+00:00,48668119,49,Medical students are using popular research tool to pump out misleading studies,156,86
 2026-06-26T00:17:58.349233+00:00,48664814,50,Anthropic says Alibaba illicitly extracted Claude AI model capabilities,747,1203
+2026-06-26T05:16:29.807514+00:00,48678852,1,Om Malik has died,691,66
+2026-06-26T05:16:29.807514+00:00,48675179,2,An entire Herculaneum scroll has been read for the first time,1115,235
+2026-06-26T05:16:29.807514+00:00,48681949,3,Libre Barcode Project,47,1
+2026-06-26T05:16:29.807514+00:00,48681220,4,Framework's 10G Ethernet module exposes USB-C's complexity,99,36
+2026-06-26T05:16:29.807514+00:00,48676795,5,Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line,172,133
+2026-06-26T05:16:29.807514+00:00,48681687,6,What happened after 2k people tried to hack my AI assistant,35,5
+2026-06-26T05:16:29.807514+00:00,48679608,7,"The 'papers, please' era of the internet will decimate your privacy",543,244
+2026-06-26T05:16:29.807514+00:00,48644463,8,Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB,65,31
+2026-06-26T05:16:29.807514+00:00,48680370,9,The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023),86,12
+2026-06-26T05:16:29.807514+00:00,48631450,10,Oxide computer 3D rack guided tour,335,128
+2026-06-26T05:16:29.807514+00:00,48642474,11,"A game where you're an OS and have to manage processes, memory and I/O events",141,26
+2026-06-26T05:16:29.807514+00:00,48679007,12,Un-0: Generating Images with Coupled Oscillators,130,32
+2026-06-26T05:16:29.807514+00:00,48674967,13,IBM debuts sub-1 nanometer chip technology,289,159
+2026-06-26T05:16:29.807514+00:00,48675435,14,Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion,235,112
+2026-06-26T05:16:29.807514+00:00,48627027,15,Doing a masters while working in Spain,13,1
+2026-06-26T05:16:29.807514+00:00,48638710,16,Eyewitness at the Triangle (1911),16,1
+2026-06-26T05:16:29.807514+00:00,48616304,17,Show HN: Chess-Inspired Roguelike,248,82
+2026-06-26T05:16:29.807514+00:00,48678645,18,An oral history of Bank Python (2021),91,27
+2026-06-26T05:16:29.807514+00:00,48678495,19,The Doorman's Fallacy in action,85,113
+2026-06-26T05:16:29.807514+00:00,48678623,20,Parallel Parentheses Matching,73,9
+2026-06-26T05:16:29.807514+00:00,48674484,21,OS9Map,208,39
+2026-06-26T05:16:29.807514+00:00,48673825,22,Zig's new bitCast semantics and LLVM back end improvements,223,104
+2026-06-26T05:16:29.807514+00:00,48672732,23,"Apple raises prices of MacBooks, iPads",673,965
+2026-06-26T05:16:29.807514+00:00,48619122,24,Experiments in Sports Seismology for the World Cup,17,0
+2026-06-26T05:16:29.807514+00:00,48644383,25,Record type inference for dummies,27,0
+2026-06-26T05:16:29.807514+00:00,48631119,26,The last Romans are still around,61,79
+2026-06-26T05:16:29.807514+00:00,48681361,27,A data race that doesn't compile,23,6
+2026-06-26T05:16:29.807514+00:00,48657049,29,You can't unit test for taste,261,118
+2026-06-26T05:16:29.807514+00:00,48672328,30,"Hey Nico, you didn't vibe code your data room but stole it from Papermark",239,95
+2026-06-26T05:16:29.807514+00:00,48656692,31,GloriousEggroll's Proton has been rebased on Proton 11,73,28
+2026-06-26T05:16:29.807514+00:00,48620422,32,The disappearance of Japan's animators,162,121
+2026-06-26T05:16:29.807514+00:00,48672779,33,Political bias in AI: Where the AI models stand,136,248
+2026-06-26T05:16:29.807514+00:00,48638120,34,The annotated PyTorch training loop,66,14
+2026-06-26T05:16:29.807514+00:00,48681557,35,Honesty gets Emacs patch rejected,17,19
+2026-06-26T05:16:29.807514+00:00,48652997,36,Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs,110,34
+2026-06-26T05:16:29.807514+00:00,48673671,37,Show HN: I made Google Trends for Hacker News by indexing 18 years of comments,687,147
+2026-06-26T05:16:29.807514+00:00,48631302,38,Tw-fade: pure CSS scroll-driven edge masking,92,30
+2026-06-26T05:16:29.807514+00:00,48668255,39,The unbearable cheapness of open weight models,151,142
+2026-06-26T05:16:29.807514+00:00,48679385,40,Migrating from Proxmox to NixOS and Incus,66,45
+2026-06-26T05:16:29.807514+00:00,48681250,41,"AI children's books, body horror edition",164,52
+2026-06-26T05:16:29.807514+00:00,48654540,42,RRB-Trees: Efficient Immutable Vectors (2012) [pdf],39,9
+2026-06-26T05:16:29.807514+00:00,48642503,43,I built a GPU back end for Emacs,183,91
+2026-06-26T05:16:29.807514+00:00,48667560,44,Mixing Visual and Textual Code,76,43
+2026-06-26T05:16:29.807514+00:00,48671886,45,Show HN: Turn native language audio into flashcards and shadowing practice,76,30
+2026-06-26T05:16:29.807514+00:00,48674619,46,How physicists track and trap the elusive neutrino,57,28
+2026-06-26T05:16:29.807514+00:00,48671468,47,LastPass notifies users of yet another data breach,488,211
+2026-06-26T05:16:29.807514+00:00,48647099,48,What is the mechanical world picture?,16,1
+2026-06-26T05:16:29.807514+00:00,48612432,49,Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs,105,42
+2026-06-26T05:16:29.807514+00:00,48669534,50,Half-Life 2 in a Browser,647,258
