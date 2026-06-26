@@ -6029,3 +6029,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-26T20:03:57.581285+00:00,48689820,48,I'm building a Space Cadet Pinball Machine! [video],8,1
 2026-06-26T20:03:57.581285+00:00,48657049,49,You can't unit test for taste,296,133
 2026-06-26T20:03:57.581285+00:00,48644383,50,Record type inference for dummies,72,4
+2026-06-26T22:19:48.896044+00:00,48689028,1,Previewing GPT‑5.6 Sol: a next-generation model,699,423
+2026-06-26T22:19:48.896044+00:00,48692058,2,The gap between open weights LLMs and closed source LLMs,40,20
+2026-06-26T22:19:48.896044+00:00,48692090,3,A C++ implementation of a fast hash map and hash set using hopscotch hashing,22,1
+2026-06-26T22:19:48.896044+00:00,48690101,4,U.S. government will decide who gets to use GPT-5.6,606,757
+2026-06-26T22:19:48.896044+00:00,48642510,5,MicroVMs: Run isolated sandboxes with full lifecycle control,217,127
+2026-06-26T22:19:48.896044+00:00,48644111,6,"The ""Bizarre Headgear"" exhibit at the Sam Noble museum",58,5
+2026-06-26T22:19:48.896044+00:00,48688700,7,"Show HN: Smart model routing directly in Claude, Codex and Cursor",116,81
+2026-06-26T22:19:48.896044+00:00,48685558,8,Ultrasound imaging of the brain,209,79
+2026-06-26T22:19:48.896044+00:00,48689277,10,What Is a Nomogram and Why Would It Interest Me?,55,13
+2026-06-26T22:19:48.896044+00:00,48690709,11,Long Wave radio era set to end with Droitwich switch-off,22,8
+2026-06-26T22:19:48.896044+00:00,48643459,12,Modern GPU Programming for MLSys,48,5
+2026-06-26T22:19:48.896044+00:00,48673527,13,Show HN: Autofit2 – End-to-end pipeline for multilingual text classification,7,0
+2026-06-26T22:19:48.896044+00:00,48691346,14,PlayStation Is Deleting 551 Movies from Customers' Accounts,55,17
+2026-06-26T22:19:48.896044+00:00,48692051,15,We Can Still Stop California's 3D Printer Surveillance Scheme,26,1
+2026-06-26T22:19:48.896044+00:00,48689859,16,"Pre-Modern Armies for Worldbuilders, Part III: Paying for It",22,1
+2026-06-26T22:19:48.896044+00:00,48660522,17,A human postmortem of the 1996 AOL outage,15,1
+2026-06-26T22:19:48.896044+00:00,48624591,18,The Art of Kite Flying (1430–1929),14,9
+2026-06-26T22:19:48.896044+00:00,48692098,19,The National Parks Were Reportedly Told to Stay Silent on Deaths,22,2
+2026-06-26T22:19:48.896044+00:00,48655396,20,Lippmann Photography,3,0
+2026-06-26T22:19:48.896044+00:00,48690231,21,Gossamer: a Rust-flavoured language with real goroutines and pause-free memory,51,43
+2026-06-26T22:19:48.896044+00:00,48689275,22,Data centers trigger voter backlash,127,216
+2026-06-26T22:19:48.896044+00:00,48610137,23,22-year-old Mozart's handwritten notebook unearthed in 'major discovery',252,87
+2026-06-26T22:19:48.896044+00:00,48650550,24,LaTeX.wasm: LaTeX Engines in Browsers,70,26
+2026-06-26T22:19:48.896044+00:00,48690200,25,Slisp: Simple Lisp compiler (Linux/amd64),44,2
+2026-06-26T22:19:48.896044+00:00,48648550,26,My Steam Machine is a 50ft HDMI cable,130,144
+2026-06-26T22:19:48.896044+00:00,48686834,27,Springer Nature has removed two studies by Max Planck,324,156
+2026-06-26T22:19:48.896044+00:00,48637433,28,Bipartite Matching Is in NC,102,16
+2026-06-26T22:19:48.896044+00:00,48691395,29,Reed-Solomon for OCR: error correction for messy printed codes,4,0
+2026-06-26T22:19:48.896044+00:00,48656986,30,Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter,71,25
+2026-06-26T22:19:48.896044+00:00,48678852,31,Om Malik has died,1281,157
+2026-06-26T22:19:48.896044+00:00,48687272,32,Jolla Phone (October 2026),270,148
+2026-06-26T22:19:48.896044+00:00,48686093,33,Incident CVE-2026-LGTM,492,82
+2026-06-26T22:19:48.896044+00:00,48688081,34,What is a Lithium-ion capacitor?,42,22
+2026-06-26T22:19:48.896044+00:00,48675179,35,An entire Herculaneum scroll has been read for the first time,1620,353
+2026-06-26T22:19:48.896044+00:00,48627027,36,Doing a masters while working in Spain,86,61
+2026-06-26T22:19:48.896044+00:00,48692038,37,32bit Apple app running on M4 natively,6,0
+2026-06-26T22:19:48.896044+00:00,48689986,38,Malware Insights: macOS Phexia Campaign,7,0
+2026-06-26T22:19:48.896044+00:00,48692157,39,The Nationwide Backlash Against Cameras Watching Your Car,7,1
+2026-06-26T22:19:48.896044+00:00,48692620,40,US strikes Iran in response to drone strike on commercial ship,3,0
+2026-06-26T22:19:48.896044+00:00,48689760,41,Webradio server – broadcasts audio source to clients,9,2
+2026-06-26T22:19:48.896044+00:00,48689744,42,"Scaling Laws, Carefully",6,0
+2026-06-26T22:19:48.896044+00:00,48690074,43,Murmur: Shared communication bus for your coding agents,9,1
+2026-06-26T22:19:48.896044+00:00,48687769,44,"Ask HN: Is ""no source code was copied"" still a sufficient copyright defense?",42,61
+2026-06-26T22:19:48.896044+00:00,48682737,45,We all depend on open source. We will defend it together,431,210
+2026-06-26T22:19:48.896044+00:00,48675435,46,Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion,359,167
+2026-06-26T22:19:48.896044+00:00,48653338,47,FEXPRs vs. vtable: how LispE interpreter works,99,6
+2026-06-26T22:19:48.896044+00:00,48678495,48,The Doorman's Fallacy in action,223,281
+2026-06-26T22:19:48.896044+00:00,48678873,49,OpenAI leans toward waiting until next year for IPO,147,128
+2026-06-26T22:19:48.896044+00:00,48679007,50,Un-0: Generating Images with Coupled Oscillators,187,49
