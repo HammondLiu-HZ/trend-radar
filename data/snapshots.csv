@@ -6078,3 +6078,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-26T22:19:48.896044+00:00,48678495,48,The Doorman's Fallacy in action,223,281
 2026-06-26T22:19:48.896044+00:00,48678873,49,OpenAI leans toward waiting until next year for IPO,147,128
 2026-06-26T22:19:48.896044+00:00,48679007,50,Un-0: Generating Images with Coupled Oscillators,187,49
+2026-06-27T00:16:54.185224+00:00,48689028,1,Previewing GPT‑5.6 Sol: a next-generation model,778,481
+2026-06-27T00:16:54.185224+00:00,48692090,2,A C++ implementation of a fast hash map and hash set using hopscotch hashing,51,8
+2026-06-27T00:16:54.185224+00:00,48692995,3,US allows Anthropic to release Mythos to 'trusted partners',131,63
+2026-06-27T00:16:54.185224+00:00,48690101,4,U.S. government will decide who gets to use GPT-5.6,751,868
+2026-06-27T00:16:54.185224+00:00,48642510,5,MicroVMs: Run isolated sandboxes with full lifecycle control,242,141
+2026-06-27T00:16:54.185224+00:00,48692946,6,"Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",21,0
+2026-06-27T00:16:54.185224+00:00,48692058,7,The gap between open weights LLMs and closed source LLMs,94,79
+2026-06-27T00:16:54.185224+00:00,48692051,8,We can still stop California's 3D printer surveillance scheme,155,31
+2026-06-27T00:16:54.185224+00:00,48673115,9,A Tiny Compiler for Data-Parallel Kernels,14,0
+2026-06-27T00:16:54.185224+00:00,48644111,10,"The ""Bizarre Headgear"" exhibit at the Sam Noble museum",65,6
+2026-06-27T00:16:54.185224+00:00,48692883,11,AI in mathematics is forcing big questions,15,5
+2026-06-27T00:16:54.185224+00:00,48688700,12,"Show HN: Smart model routing directly in Claude, Codex and Cursor",136,86
+2026-06-27T00:16:54.185224+00:00,48685558,14,Ultrasound imaging of the brain,223,92
+2026-06-27T00:16:54.185224+00:00,48689277,15,What Is a Nomogram and Why Would It Interest Me?,72,14
+2026-06-27T00:16:54.185224+00:00,48660522,16,A human postmortem of the 1996 AOL outage,33,7
+2026-06-27T00:16:54.185224+00:00,48692474,17,The open source DOCX editor submitted to HN a few weeks ago has been deleted,39,31
+2026-06-27T00:16:54.185224+00:00,48691346,18,PlayStation Is Deleting 551 Movies from Customers' Accounts,128,75
+2026-06-27T00:16:54.185224+00:00,48690231,19,Gossamer: a Rust-flavoured language with real goroutines and pause-free memory,63,50
+2026-06-27T00:16:54.185224+00:00,48690709,20,Long Wave radio era set to end with Droitwich switch-off,40,17
+2026-06-27T00:16:54.185224+00:00,48673527,21,Show HN: Autofit2 – End-to-end pipeline for multilingual text classification,13,1
+2026-06-27T00:16:54.185224+00:00,48655396,22,Lippmann Photography,11,0
+2026-06-27T00:16:54.185224+00:00,48689859,23,"Pre-Modern Armies for Worldbuilders, Part III: Paying for It",36,4
+2026-06-27T00:16:54.185224+00:00,48643459,24,Modern GPU Programming for MLSys,55,9
+2026-06-27T00:16:54.185224+00:00,48624591,25,The Art of Kite Flying (1430–1929),22,10
+2026-06-27T00:16:54.185224+00:00,48650550,26,LaTeX.wasm: LaTeX Engines in Browsers,79,29
+2026-06-27T00:16:54.185224+00:00,48689275,27,Data centers trigger voter backlash,153,271
+2026-06-27T00:16:54.185224+00:00,48648550,28,My Steam Machine is a 50ft HDMI cable,156,152
+2026-06-27T00:16:54.185224+00:00,48637433,29,Bipartite Matching Is in NC,109,16
+2026-06-27T00:16:54.185224+00:00,48690200,30,Slisp: Simple Lisp compiler (Linux/amd64),53,2
+2026-06-27T00:16:54.185224+00:00,48678852,31,Om Malik has died,1287,160
+2026-06-27T00:16:54.185224+00:00,48675179,32,An entire Herculaneum scroll has been read for the first time,1629,355
+2026-06-27T00:16:54.185224+00:00,48656986,33,Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter,77,27
+2026-06-27T00:16:54.185224+00:00,48692157,34,The Nationwide Backlash Against Cameras Watching Your Car,20,2
+2026-06-27T00:16:54.185224+00:00,48686834,35,Springer Nature has removed two studies by Max Planck,344,168
+2026-06-27T00:16:54.185224+00:00,48627027,36,Doing a masters while working in Spain,87,62
+2026-06-27T00:16:54.185224+00:00,48692098,37,The National Parks Were Reportedly Told to Stay Silent on Deaths,64,26
+2026-06-27T00:16:54.185224+00:00,48693391,38,Om,5,0
+2026-06-27T00:16:54.185224+00:00,48686093,39,Incident CVE-2026-LGTM,514,83
+2026-06-27T00:16:54.185224+00:00,48692101,40,AgentKits – 60 production-ready AI agent blueprints with guardrails,4,0
+2026-06-27T00:16:54.185224+00:00,48692083,41,Evan's Jujutsu Tutorial,4,0
+2026-06-27T00:16:54.185224+00:00,48693369,42,Waveloop: What Fable Left Me,6,1
+2026-06-27T00:16:54.185224+00:00,48693155,43,Thomas Salme,6,0
+2026-06-27T00:16:54.185224+00:00,48687272,44,Jolla Phone (October 2026),275,152
+2026-06-27T00:16:54.185224+00:00,48688081,45,What is a Lithium-ion capacitor?,42,24
+2026-06-27T00:16:54.185224+00:00,48689885,46,How to Corrupt an SQLite Database File,12,1
+2026-06-27T00:16:54.185224+00:00,48689760,47,Webradio server – broadcasts audio source to clients,10,2
+2026-06-27T00:16:54.185224+00:00,48682737,48,We all depend on open source. We will defend it together,435,212
+2026-06-27T00:16:54.185224+00:00,48687769,49,"Ask HN: Is ""no source code was copied"" still a sufficient copyright defense?",47,64
+2026-06-27T00:16:54.185224+00:00,48692038,50,32bit Apple app running on M4 natively,12,0
