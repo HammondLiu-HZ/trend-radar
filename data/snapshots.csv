@@ -6323,3 +6323,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-27T14:00:11.671843+00:00,48643661,48,Making Sense of Proof by Contradiction [pdf],42,24
 2026-06-27T14:00:11.671843+00:00,48692083,49,Evan's Jujutsu Tutorial,52,3
 2026-06-27T14:00:11.671843+00:00,48650550,50,LaTeX.wasm: LaTeX Engines in Browsers,107,36
+2026-06-27T15:23:45.238851+00:00,48696585,1,DSpark: Speculative decoding accelerates LLM inference [pdf],582,224
+2026-06-27T15:23:45.238851+00:00,48697560,2,OpenRA,181,48
+2026-06-27T15:23:45.238851+00:00,48696982,3,Fintech Engineering Handbook,250,86
+2026-06-27T15:23:45.238851+00:00,48698559,4,Post-Mythos Cybersecurity: Keep calm and carry on,23,5
+2026-06-27T15:23:45.238851+00:00,48650794,5,Underarm Bowling Incident of 1981,32,0
+2026-06-27T15:23:45.238851+00:00,48698151,6,Suspicious Discontinuities,34,2
+2026-06-27T15:23:45.238851+00:00,48665125,7,How H-E-B Became Texas' Most Beloved Brand (2024),34,26
+2026-06-27T15:23:45.238851+00:00,48689028,8,Previewing GPT‑5.6 Sol: a next-generation model,1063,674
+2026-06-27T15:23:45.238851+00:00,48677564,9,Long Wave radio era set to end with switch-off,104,109
+2026-06-27T15:23:45.238851+00:00,48697746,10,"How Many Elementary Particles Are There, Really?",40,18
+2026-06-27T15:23:45.238851+00:00,48698684,11,Zuckerberg's Increasingly Bizarre War on Whistleblowers,36,6
+2026-06-27T15:23:45.238851+00:00,48697768,12,Streaming services' obnoxiously loud ads become illegal on July 1 in California,79,16
+2026-06-27T15:23:45.238851+00:00,48696510,14,Beer CSS – Build material design in record time,89,35
+2026-06-27T15:23:45.238851+00:00,48670103,15,The US Army Issued Ocarinas to Soldiers in World War II,70,31
+2026-06-27T15:23:45.238851+00:00,48697335,16,"If you can't hold it, you don't own it",132,90
+2026-06-27T15:23:45.238851+00:00,48668747,17,Linux on Older Hardware: The Complete Revival Guide,130,72
+2026-06-27T15:23:45.238851+00:00,48692946,18,"Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",304,153
+2026-06-27T15:23:45.238851+00:00,48645510,19,Task Failed Successfully: Saturating NIC and Disk Bandwidth,10,4
+2026-06-27T15:23:45.238851+00:00,48694853,20,WordStar: A Writer's Word Processor (1996),134,65
+2026-06-27T15:23:45.238851+00:00,48675290,21,Cultures of Making and Relating,24,1
+2026-06-27T15:23:45.238851+00:00,48682243,22,"Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",37,2
+2026-06-27T15:23:45.238851+00:00,48665671,23,Jest/Vitest interactive course (runs in the browser),30,10
+2026-06-27T15:23:45.238851+00:00,48642510,24,MicroVMs: Run isolated sandboxes with full lifecycle control,356,193
+2026-06-27T15:23:45.238851+00:00,48694631,25,Anatomy of a Failed (Nation-State?) Attack,102,23
+2026-06-27T15:23:45.238851+00:00,48692995,26,U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations,511,673
+2026-06-27T15:23:45.238851+00:00,48692883,27,AI in mathematics is forcing big questions,169,142
+2026-06-27T15:23:45.238851+00:00,48692058,28,The gap between open weights LLMs and closed source LLMs,264,199
+2026-06-27T15:23:45.238851+00:00,48693420,29,International investment and local rules push prices up faster than supply,117,44
+2026-06-27T15:23:45.238851+00:00,48633839,30,Hellishly Slow Level 13 Deflate Compression,83,24
+2026-06-27T15:23:45.238851+00:00,48695149,31,OpenTTD 16.0-Beta1,205,39
+2026-06-27T15:23:45.238851+00:00,48690101,32,U.S. government will decide who gets to use GPT-5.6,1113,1168
+2026-06-27T15:23:45.238851+00:00,48685558,33,Ultrasound imaging of the brain,301,115
+2026-06-27T15:23:45.238851+00:00,48693912,34,Show HN: Hacker News on a train station-style flip board,92,18
+2026-06-27T15:23:45.238851+00:00,48698886,35,Tuta: They are bringing back ChatControl,6,1
+2026-06-27T15:23:45.238851+00:00,48658148,36,Fusion Programming Language,99,43
+2026-06-27T15:23:45.238851+00:00,48693391,37,Om,457,19
+2026-06-27T15:23:45.238851+00:00,48692051,38,We can still stop California's 3D printer surveillance scheme,455,162
+2026-06-27T15:23:45.238851+00:00,48688700,39,"Show HN: Smart model routing directly in Claude, Codex and Cursor",186,99
+2026-06-27T15:23:45.238851+00:00,48689277,40,What Is a Nomogram and Why Would It Interest Me?,134,22
+2026-06-27T15:23:45.238851+00:00,48694563,41,Software Is Becoming Marketing,42,18
+2026-06-27T15:23:45.238851+00:00,48662988,42,Show HN: DBOSify – Drop-in Temporal replacement built on Postgres,71,18
+2026-06-27T15:23:45.238851+00:00,48695363,43,IBM MCGA Gate Array Reverse Engineering,49,8
+2026-06-27T15:23:45.238851+00:00,48689859,44,"Pre-Modern Armies for Worldbuilders, Part III: Paying for It",106,22
+2026-06-27T15:23:45.238851+00:00,48692090,45,A C++ implementation of a fast hash map and hash set using hopscotch hashing,100,18
+2026-06-27T15:23:45.238851+00:00,48648550,46,My Steam Machine is a 50ft HDMI cable,200,188
+2026-06-27T15:23:45.238851+00:00,48673115,47,A Tiny Compiler for Data-Parallel Kernels,49,5
+2026-06-27T15:23:45.238851+00:00,48675179,48,An entire Herculaneum scroll has been read for the first time,1668,364
+2026-06-27T15:23:45.238851+00:00,48660522,49,A human postmortem of the 1996 AOL outage,69,20
+2026-06-27T15:23:45.238851+00:00,48678852,50,Om Malik has died,1323,167
