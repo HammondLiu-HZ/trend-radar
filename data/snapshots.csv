@@ -6274,3 +6274,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-27T11:01:39.529843+00:00,48673527,48,Show HN: Autofit2 – End-to-end pipeline for multilingual text classification,23,2
 2026-06-27T11:01:39.529843+00:00,48656986,49,Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter,91,27
 2026-06-27T11:01:39.529843+00:00,48692474,50,The open source DOCX editor submitted to HN a few weeks ago has been deleted,91,39
+2026-06-27T14:00:11.671843+00:00,48696585,1,DSpark: Speculative decoding accelerates LLM inference [pdf],508,184
+2026-06-27T14:00:11.671843+00:00,48697560,2,OpenRA,87,27
+2026-06-27T14:00:11.671843+00:00,48696982,3,Fintech Engineering Handbook,174,57
+2026-06-27T14:00:11.671843+00:00,48697335,4,"If you can't hold it, you don't own it",89,53
+2026-06-27T14:00:11.671843+00:00,48677564,5,Long Wave radio era set to end with switch-off,84,88
+2026-06-27T14:00:11.671843+00:00,48689028,6,Previewing GPT‑5.6 Sol: a next-generation model,1045,666
+2026-06-27T14:00:11.671843+00:00,48696510,7,Beer CSS – Build material design in record time,67,25
+2026-06-27T14:00:11.671843+00:00,48665125,8,How H-E-B Became Texas' Most Beloved Brand (2024),10,2
+2026-06-27T14:00:11.671843+00:00,48670103,9,The US Army Issued Ocarinas to Soldiers in World War II,51,24
+2026-06-27T14:00:11.671843+00:00,48645510,11,Task Failed Successfully: Saturating NIC and Disk Bandwidth,7,3
+2026-06-27T14:00:11.671843+00:00,48697768,12,Streaming services' obnoxiously loud ads become illegal on July 1 in California,27,2
+2026-06-27T14:00:11.671843+00:00,48668747,13,Linux on Older Hardware: The Complete Revival Guide,107,57
+2026-06-27T14:00:11.671843+00:00,48692946,14,"Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",287,144
+2026-06-27T14:00:11.671843+00:00,48694853,15,WordStar: A Writer's Word Processor (1996),122,60
+2026-06-27T14:00:11.671843+00:00,48675290,16,Cultures of Making and Relating,18,0
+2026-06-27T14:00:11.671843+00:00,48697958,17,Asian AI startups launch Mythos-like models,15,2
+2026-06-27T14:00:11.671843+00:00,48697746,18,"How Many Elementary Particles Are There, Really?",7,0
+2026-06-27T14:00:11.671843+00:00,48682243,19,"Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",34,2
+2026-06-27T14:00:11.671843+00:00,48665671,20,Jest/Vitest interactive course (runs in the browser),24,10
+2026-06-27T14:00:11.671843+00:00,48692995,21,U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations,492,643
+2026-06-27T14:00:11.671843+00:00,48642510,22,MicroVMs: Run isolated sandboxes with full lifecycle control,349,191
+2026-06-27T14:00:11.671843+00:00,48694631,23,Anatomy of a Failed (Nation-State?) Attack,95,16
+2026-06-27T14:00:11.671843+00:00,48692883,24,AI in mathematics is forcing big questions,158,138
+2026-06-27T14:00:11.671843+00:00,48695149,25,OpenTTD 16.0-Beta1,200,35
+2026-06-27T14:00:11.671843+00:00,48693420,26,International investment and local rules push prices up faster than supply,111,37
+2026-06-27T14:00:11.671843+00:00,48633839,27,Hellishly Slow Level 13 Deflate Compression,78,22
+2026-06-27T14:00:11.671843+00:00,48690101,28,U.S. government will decide who gets to use GPT-5.6,1088,1152
+2026-06-27T14:00:11.671843+00:00,48692058,29,The gap between open weights LLMs and closed source LLMs,247,196
+2026-06-27T14:00:11.671843+00:00,48658148,30,Fusion Programming Language,95,42
+2026-06-27T14:00:11.671843+00:00,48685558,31,Ultrasound imaging of the brain,297,115
+2026-06-27T14:00:11.671843+00:00,48693912,32,Show HN: Hacker News on a train station-style flip board,86,18
+2026-06-27T14:00:11.671843+00:00,48693391,33,Om,444,19
+2026-06-27T14:00:11.671843+00:00,48692051,34,We can still stop California's 3D printer surveillance scheme,445,158
+2026-06-27T14:00:11.671843+00:00,48688700,35,"Show HN: Smart model routing directly in Claude, Codex and Cursor",182,99
+2026-06-27T14:00:11.671843+00:00,48695363,36,IBM MCGA Gate Array Reverse Engineering,48,8
+2026-06-27T14:00:11.671843+00:00,48689277,37,What Is a Nomogram and Why Would It Interest Me?,134,20
+2026-06-27T14:00:11.671843+00:00,48694563,38,Software Is Becoming Marketing,34,14
+2026-06-27T14:00:11.671843+00:00,48662988,39,Show HN: DBOSify – Drop-in Temporal replacement built on Postgres,69,16
+2026-06-27T14:00:11.671843+00:00,48692090,40,A C++ implementation of a fast hash map and hash set using hopscotch hashing,99,17
+2026-06-27T14:00:11.671843+00:00,48689859,41,"Pre-Modern Armies for Worldbuilders, Part III: Paying for It",103,22
+2026-06-27T14:00:11.671843+00:00,48673115,42,A Tiny Compiler for Data-Parallel Kernels,49,5
+2026-06-27T14:00:11.671843+00:00,48656982,43,SCC Technical Assistance Program,21,1
+2026-06-27T14:00:11.671843+00:00,48660522,44,A human postmortem of the 1996 AOL outage,69,19
+2026-06-27T14:00:11.671843+00:00,48648550,45,My Steam Machine is a 50ft HDMI cable,199,184
+2026-06-27T14:00:11.671843+00:00,48675179,46,An entire Herculaneum scroll has been read for the first time,1665,363
+2026-06-27T14:00:11.671843+00:00,48678852,47,Om Malik has died,1321,165
+2026-06-27T14:00:11.671843+00:00,48643661,48,Making Sense of Proof by Contradiction [pdf],42,24
+2026-06-27T14:00:11.671843+00:00,48692083,49,Evan's Jujutsu Tutorial,52,3
+2026-06-27T14:00:11.671843+00:00,48650550,50,LaTeX.wasm: LaTeX Engines in Browsers,107,36
