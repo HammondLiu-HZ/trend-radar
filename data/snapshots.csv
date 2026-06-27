@@ -6225,3 +6225,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-27T08:01:56.566411+00:00,48692101,48,AgentKits – 60 production-ready AI agent blueprints with guardrails,24,0
 2026-06-27T08:01:56.566411+00:00,48687272,49,Jolla Phone (October 2026),291,162
 2026-06-27T08:01:56.566411+00:00,48655396,50,Lippmann Photography,23,1
+2026-06-27T11:01:39.529843+00:00,48696585,1,DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf],224,47
+2026-06-27T11:01:39.529843+00:00,48696982,2,Fintech Engineering Handbook,24,1
+2026-06-27T11:01:39.529843+00:00,48689028,3,Previewing GPT‑5.6 Sol: a next-generation model,1022,642
+2026-06-27T11:01:39.529843+00:00,48668747,4,Linux on Older Hardware: The Complete Revival Guide,69,24
+2026-06-27T11:01:39.529843+00:00,48677564,5,Long Wave radio era set to end with switch-off,41,56
+2026-06-27T11:01:39.529843+00:00,48696510,6,Beer CSS – Build material design in record time,14,2
+2026-06-27T11:01:39.529843+00:00,48694853,7,WordStar: A Writer's Word Processor (1996),95,44
+2026-06-27T11:01:39.529843+00:00,48692946,8,"Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",249,121
+2026-06-27T11:01:39.529843+00:00,48682243,9,"Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",12,1
+2026-06-27T11:01:39.529843+00:00,48695149,10,OpenTTD 16.0-Beta1,171,30
+2026-06-27T11:01:39.529843+00:00,48692995,11,U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations,454,542
+2026-06-27T11:01:39.529843+00:00,48692883,12,AI in mathematics is forcing big questions,133,101
+2026-06-27T11:01:39.529843+00:00,48665671,13,Jest/Vitest interactive course (runs in the browser),8,5
+2026-06-27T11:01:39.529843+00:00,48658148,14,Fusion Programming Language,80,37
+2026-06-27T11:01:39.529843+00:00,48642510,15,MicroVMs: Run isolated sandboxes with full lifecycle control,336,188
+2026-06-27T11:01:39.529843+00:00,48633839,16,Hellishly Slow Level 13 Deflate Compression,63,19
+2026-06-27T11:01:39.529843+00:00,48670103,17,The US Army Issued Ocarinas to Soldiers in World War II,8,2
+2026-06-27T11:01:39.529843+00:00,48690101,18,U.S. government will decide who gets to use GPT-5.6,1049,1101
+2026-06-27T11:01:39.529843+00:00,48695363,19,IBM MCGA Gate Array Reverse Engineering,35,5
+2026-06-27T11:01:39.529843+00:00,48693912,20,Show HN: Hacker News on a train station-style flip board,78,17
+2026-06-27T11:01:39.529843+00:00,48694631,21,Anatomy of a Failed (Nation-State?) Attack,64,11
+2026-06-27T11:01:39.529843+00:00,48685558,22,Ultrasound imaging of the brain,285,114
+2026-06-27T11:01:39.529843+00:00,48693391,23,Om,390,18
+2026-06-27T11:01:39.529843+00:00,48692051,24,We can still stop California's 3D printer surveillance scheme,408,137
+2026-06-27T11:01:39.529843+00:00,48656982,25,SCC Technical Assistance Program,20,1
+2026-06-27T11:01:39.529843+00:00,48693420,26,Foreign funds help make housing unaffordable: research,83,26
+2026-06-27T11:01:39.529843+00:00,48692058,27,The gap between open weights LLMs and closed source LLMs,217,179
+2026-06-27T11:01:39.529843+00:00,48692090,28,A C++ implementation of a fast hash map and hash set using hopscotch hashing,93,16
+2026-06-27T11:01:39.529843+00:00,48662988,29,Show HN: DBOSify – Drop-in Temporal replacement built on Postgres,65,9
+2026-06-27T11:01:39.529843+00:00,48689277,30,What Is a Nomogram and Why Would It Interest Me?,124,20
+2026-06-27T11:01:39.529843+00:00,48688700,32,"Show HN: Smart model routing directly in Claude, Codex and Cursor",170,98
+2026-06-27T11:01:39.529843+00:00,48689859,33,"Pre-Modern Armies for Worldbuilders, Part III: Paying for It",97,20
+2026-06-27T11:01:39.529843+00:00,48673115,34,A Tiny Compiler for Data-Parallel Kernels,45,5
+2026-06-27T11:01:39.529843+00:00,48694563,35,Software Is Becoming Marketing,20,14
+2026-06-27T11:01:39.529843+00:00,48643661,36,Making Sense of Proof by Contradiction [pdf],40,18
+2026-06-27T11:01:39.529843+00:00,48660522,37,A human postmortem of the 1996 AOL outage,67,18
+2026-06-27T11:01:39.529843+00:00,48644111,38,"The ""Bizarre Headgear"" exhibit at the Sam Noble museum",75,7
+2026-06-27T11:01:39.529843+00:00,48648550,39,My Steam Machine is a 50ft HDMI cable,190,181
+2026-06-27T11:01:39.529843+00:00,48692083,40,Evan's Jujutsu Tutorial,46,2
+2026-06-27T11:01:39.529843+00:00,48691346,41,PlayStation Is Deleting 551 Movies from Customers' Accounts,274,156
+2026-06-27T11:01:39.529843+00:00,48675179,42,An entire Herculaneum scroll has been read for the first time,1654,362
+2026-06-27T11:01:39.529843+00:00,48650550,43,LaTeX.wasm: LaTeX Engines in Browsers,104,36
+2026-06-27T11:01:39.529843+00:00,48678852,44,Om Malik has died,1317,164
+2026-06-27T11:01:39.529843+00:00,48643459,45,Modern GPU Programming for MLSys,75,16
+2026-06-27T11:01:39.529843+00:00,48690231,46,Gossamer: a Rust-flavoured language with real goroutines and pause-free memory,82,75
+2026-06-27T11:01:39.529843+00:00,48637433,47,Bipartite Matching Is in NC,120,17
+2026-06-27T11:01:39.529843+00:00,48673527,48,Show HN: Autofit2 – End-to-end pipeline for multilingual text classification,23,2
+2026-06-27T11:01:39.529843+00:00,48656986,49,Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter,91,27
+2026-06-27T11:01:39.529843+00:00,48692474,50,The open source DOCX editor submitted to HN a few weeks ago has been deleted,91,39
