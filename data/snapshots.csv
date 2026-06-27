@@ -6421,3 +6421,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-27T17:19:12.253012+00:00,48689277,48,What Is a Nomogram and Why Would It Interest Me?,137,23
 2026-06-27T17:19:12.253012+00:00,48694563,49,Software Is Becoming Marketing,47,22
 2026-06-27T17:19:12.253012+00:00,48662988,50,Show HN: DBOSify – Drop-in Temporal replacement built on Postgres,74,18
+2026-06-27T19:39:50.636579+00:00,48698617,1,Anonymous GitHub account mass-dropping undisclosed 0-days,415,169
+2026-06-27T19:39:50.636579+00:00,48697560,2,OpenRA,427,80
+2026-06-27T19:39:50.636579+00:00,48660021,3,AI Is Designing Radio Chips That Humans Couldn't Even Imagine,93,50
+2026-06-27T19:39:50.636579+00:00,48700805,4,Ships keep moving through Hormuz despite strike,11,0
+2026-06-27T19:39:50.636579+00:00,48696585,5,DSpark: Speculative decoding accelerates LLM inference [pdf],676,269
+2026-06-27T19:39:50.636579+00:00,48699928,6,Turn your site into a place people can bump into each other,40,18
+2026-06-27T19:39:50.636579+00:00,48696982,7,Fintech Engineering Handbook,375,118
+2026-06-27T19:39:50.636579+00:00,48698151,8,Suspicious Discontinuities (2020),144,41
+2026-06-27T19:39:50.636579+00:00,48698559,9,Post-Mythos Cybersecurity: Keep calm and carry on,87,28
+2026-06-27T19:39:50.636579+00:00,48698684,10,Zuckerberg's Increasingly Bizarre War on Whistleblowers,431,164
+2026-06-27T19:39:50.636579+00:00,48697335,12,"If you can't hold it, you don't own it",272,181
+2026-06-27T19:39:50.636579+00:00,48688438,13,"One man, two kernels, and a lot of RISC-V",49,4
+2026-06-27T19:39:50.636579+00:00,48700834,14,IP Crawl: living atlas of open webcams discovered on the public internet,4,0
+2026-06-27T19:39:50.636579+00:00,48698188,15,Running a software jam in a world of slop,5,2
+2026-06-27T19:39:50.636579+00:00,48700317,16,The Card That Made the Apple II Serious,7,0
+2026-06-27T19:39:50.636579+00:00,48664063,17,"Reducing tick density along recreational trails in Ottawa, Canada",78,43
+2026-06-27T19:39:50.636579+00:00,48674244,18,A History of Menus Is a Menu of History,12,2
+2026-06-27T19:39:50.636579+00:00,48677564,19,Long Wave radio era set to end with switch-off,139,141
+2026-06-27T19:39:50.636579+00:00,48697746,20,"How Many Elementary Particles Are There, Really?",95,80
+2026-06-27T19:39:50.636579+00:00,48696127,21,Researchers have developed pixels that can emit and analyse light together,22,12
+2026-06-27T19:39:50.636579+00:00,48670103,22,The US Army Issued Ocarinas to Soldiers in World War II,109,60
+2026-06-27T19:39:50.636579+00:00,48668747,23,Linux on Older Hardware: The Complete Revival Guide,169,100
+2026-06-27T19:39:50.636579+00:00,48645510,24,Task Failed Successfully: Saturating NIC and Disk Bandwidth,30,7
+2026-06-27T19:39:50.636579+00:00,48697768,25,Streaming services' obnoxiously loud ads become illegal on July 1 in California,189,47
+2026-06-27T19:39:50.636579+00:00,48699969,26,"""No, I swear I wrote this.""",10,9
+2026-06-27T19:39:50.636579+00:00,48692946,27,"Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",330,174
+2026-06-27T19:39:50.636579+00:00,48696510,28,Beer CSS – Build material design in record time,112,57
+2026-06-27T19:39:50.636579+00:00,48694853,29,WordStar: A Writer's Word Processor (1996),157,87
+2026-06-27T19:39:50.636579+00:00,48699778,30,"Screen time can damage under-twos' development, landmark study suggests",27,3
+2026-06-27T19:39:50.636579+00:00,48699617,31,Doctors suspected man had brain cancer. He had worms,43,19
+2026-06-27T19:39:50.636579+00:00,48675290,32,Cultures of Making and Relating,42,2
+2026-06-27T19:39:50.636579+00:00,48689028,33,Previewing GPT‑5.6 Sol: a next-generation model,1093,700
+2026-06-27T19:39:50.636579+00:00,48682243,34,"Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",54,4
+2026-06-27T19:39:50.636579+00:00,48694631,35,Anatomy of a Failed (Nation-State?) Attack,132,24
+2026-06-27T19:39:50.636579+00:00,48642510,36,MicroVMs: Run isolated sandboxes with full lifecycle control,374,200
+2026-06-27T19:39:50.636579+00:00,48692058,37,The gap between open weights LLMs and closed source LLMs,292,219
+2026-06-27T19:39:50.636579+00:00,48692883,38,AI in mathematics is forcing big questions,186,162
+2026-06-27T19:39:50.636579+00:00,48692995,39,U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations,529,723
+2026-06-27T19:39:50.636579+00:00,48665671,40,Jest/Vitest interactive course (runs in the browser),46,11
+2026-06-27T19:39:50.636579+00:00,48693420,41,International investment and local rules push prices up faster than supply,123,54
+2026-06-27T19:39:50.636579+00:00,48650794,42,Underarm Bowling Incident of 1981,108,96
+2026-06-27T19:39:50.636579+00:00,48690101,43,U.S. government will decide who gets to use GPT-5.6,1135,1192
+2026-06-27T19:39:50.636579+00:00,48699010,44,A peek into Reddit's anti-spam internals,32,3
+2026-06-27T19:39:50.636579+00:00,48698781,45,"Dr. Alan Kay on the meaning of ""object-oriented programming""",5,0
+2026-06-27T19:39:50.636579+00:00,48700725,46,Cheap Drones Are Rewriting Warfare,6,1
+2026-06-27T19:39:50.636579+00:00,48633839,47,Hellishly Slow Level 13 Deflate Compression,88,25
+2026-06-27T19:39:50.636579+00:00,48695149,48,OpenTTD 16.0-Beta1,214,42
+2026-06-27T19:39:50.636579+00:00,48688700,49,"Show HN: Smart model routing directly in Claude, Codex and Cursor",196,107
+2026-06-27T19:39:50.636579+00:00,48693912,50,Show HN: Hacker News on a train station-style flip board,96,21
