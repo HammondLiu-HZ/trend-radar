@@ -6176,3 +6176,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-27T04:59:01.734887+00:00,48686093,48,Incident CVE-2026-LGTM,525,86
 2026-06-27T04:59:01.734887+00:00,48689275,49,Data centers trigger voter backlash,175,324
 2026-06-27T04:59:01.734887+00:00,48692098,50,The National Parks Were Reportedly Told to Stay Silent on Deaths,94,41
+2026-06-27T08:01:56.566411+00:00,48695149,1,OpenTTD 16.0-Beta1,104,12
+2026-06-27T08:01:56.566411+00:00,48689028,2,Previewing GPT‑5.6 Sol: a next-generation model,974,602
+2026-06-27T08:01:56.566411+00:00,48694853,3,WordStar: A Writer's Word Processor (1996),70,26
+2026-06-27T08:01:56.566411+00:00,48692946,4,"Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",220,101
+2026-06-27T08:01:56.566411+00:00,48695363,5,IBM MCGA Gate Array Reverse Engineering,18,4
+2026-06-27T08:01:56.566411+00:00,48692995,6,U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations,400,402
+2026-06-27T08:01:56.566411+00:00,48658148,7,Fusion Programming Language,55,23
+2026-06-27T08:01:56.566411+00:00,48642510,8,MicroVMs: Run isolated sandboxes with full lifecycle control,318,184
+2026-06-27T08:01:56.566411+00:00,48693912,9,Show HN: Hacker News on a train station-style flip board,62,11
+2026-06-27T08:01:56.566411+00:00,48633839,10,Hellishly Slow Level 13 Deflate Compression,48,12
+2026-06-27T08:01:56.566411+00:00,48694631,11,Anatomy of a Failed (Nation-State?) Attack,37,7
+2026-06-27T08:01:56.566411+00:00,48656982,12,SCC Technical Assistance Program,12,1
+2026-06-27T08:01:56.566411+00:00,48668747,13,Linux on Older Hardware: The Complete Revival Guide,5,0
+2026-06-27T08:01:56.566411+00:00,48690101,14,U.S. government will decide who gets to use GPT-5.6,992,1043
+2026-06-27T08:01:56.566411+00:00,48648008,15,Building apps using TanStack Start,13,0
+2026-06-27T08:01:56.566411+00:00,48662988,16,Show HN: DBOSify – Drop-in Temporal replacement built on Postgres,56,8
+2026-06-27T08:01:56.566411+00:00,48693391,17,Om,333,15
+2026-06-27T08:01:56.566411+00:00,48692051,18,We can still stop California's 3D printer surveillance scheme,374,124
+2026-06-27T08:01:56.566411+00:00,48692058,19,The gap between open weights LLMs and closed source LLMs,188,159
+2026-06-27T08:01:56.566411+00:00,48692883,20,AI in mathematics is forcing big questions,108,78
+2026-06-27T08:01:56.566411+00:00,48685558,21,Ultrasound imaging of the brain,271,112
+2026-06-27T08:01:56.566411+00:00,48692090,22,A C++ implementation of a fast hash map and hash set using hopscotch hashing,89,15
+2026-06-27T08:01:56.566411+00:00,48693420,23,Foreign funds help make housing unaffordable: research,65,17
+2026-06-27T08:01:56.566411+00:00,48688700,24,"Show HN: Smart model routing directly in Claude, Codex and Cursor",166,96
+2026-06-27T08:01:56.566411+00:00,48689277,25,What Is a Nomogram and Why Would It Interest Me?,111,19
+2026-06-27T08:01:56.566411+00:00,48689859,27,"Pre-Modern Armies for Worldbuilders, Part III: Paying for It",92,16
+2026-06-27T08:01:56.566411+00:00,48690709,28,Long Wave radio era set to end with switch-off,79,33
+2026-06-27T08:01:56.566411+00:00,48673115,29,A Tiny Compiler for Data-Parallel Kernels,40,4
+2026-06-27T08:01:56.566411+00:00,48643661,30,Making Sense of Proof by Contradiction [pdf],35,15
+2026-06-27T08:01:56.566411+00:00,48660522,31,A human postmortem of the 1996 AOL outage,65,17
+2026-06-27T08:01:56.566411+00:00,48644111,32,"The ""Bizarre Headgear"" exhibit at the Sam Noble museum",73,7
+2026-06-27T08:01:56.566411+00:00,48694563,33,Software Is Becoming Marketing,11,4
+2026-06-27T08:01:56.566411+00:00,48691346,34,PlayStation Is Deleting 551 Movies from Customers' Accounts,258,142
+2026-06-27T08:01:56.566411+00:00,48648550,35,My Steam Machine is a 50ft HDMI cable,188,176
+2026-06-27T08:01:56.566411+00:00,48692083,36,Evan's Jujutsu Tutorial,36,1
+2026-06-27T08:01:56.566411+00:00,48650550,37,LaTeX.wasm: LaTeX Engines in Browsers,102,33
+2026-06-27T08:01:56.566411+00:00,48643459,38,Modern GPU Programming for MLSys,75,15
+2026-06-27T08:01:56.566411+00:00,48690231,39,Gossamer: a Rust-flavoured language with real goroutines and pause-free memory,79,70
+2026-06-27T08:01:56.566411+00:00,48664556,40,Show HN: Turn images into audio that can be decoded with a spectrogram,6,3
+2026-06-27T08:01:56.566411+00:00,48675179,41,An entire Herculaneum scroll has been read for the first time,1650,359
+2026-06-27T08:01:56.566411+00:00,48678852,42,Om Malik has died,1310,163
+2026-06-27T08:01:56.566411+00:00,48673527,43,Show HN: Autofit2 – End-to-end pipeline for multilingual text classification,21,2
+2026-06-27T08:01:56.566411+00:00,48637433,44,Bipartite Matching Is in NC,118,17
+2026-06-27T08:01:56.566411+00:00,48658069,45,Kamod Hooks – a Preact hooks library ported from ahooks,5,1
+2026-06-27T08:01:56.566411+00:00,48656986,46,Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter,89,27
+2026-06-27T08:01:56.566411+00:00,48692474,47,The open source DOCX editor submitted to HN a few weeks ago has been deleted,86,38
+2026-06-27T08:01:56.566411+00:00,48692101,48,AgentKits – 60 production-ready AI agent blueprints with guardrails,24,0
+2026-06-27T08:01:56.566411+00:00,48687272,49,Jolla Phone (October 2026),291,162
+2026-06-27T08:01:56.566411+00:00,48655396,50,Lippmann Photography,23,1
