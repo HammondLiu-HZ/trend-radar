@@ -6372,3 +6372,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-27T15:23:45.238851+00:00,48675179,48,An entire Herculaneum scroll has been read for the first time,1668,364
 2026-06-27T15:23:45.238851+00:00,48660522,49,A human postmortem of the 1996 AOL outage,69,20
 2026-06-27T15:23:45.238851+00:00,48678852,50,Om Malik has died,1323,167
+2026-06-27T17:19:12.253012+00:00,48698617,1,Anonymous GitHub account mass-dropping undisclosed 0-days,193,78
+2026-06-27T17:19:12.253012+00:00,48697560,2,OpenRA,299,65
+2026-06-27T17:19:12.253012+00:00,48696585,3,DSpark: Speculative decoding accelerates LLM inference [pdf],642,239
+2026-06-27T17:19:12.253012+00:00,48696982,4,Fintech Engineering Handbook,315,106
+2026-06-27T17:19:12.253012+00:00,48698151,5,Suspicious Discontinuities,96,26
+2026-06-27T17:19:12.253012+00:00,48698559,6,Post-Mythos Cybersecurity: Keep calm and carry on,56,17
+2026-06-27T17:19:12.253012+00:00,48697335,8,"If you can't hold it, you don't own it",195,119
+2026-06-27T17:19:12.253012+00:00,48698684,9,Zuckerberg's Increasingly Bizarre War on Whistleblowers,238,88
+2026-06-27T17:19:12.253012+00:00,48688438,10,"One man, two kernels, and a lot of RISC-V",26,1
+2026-06-27T17:19:12.253012+00:00,48650794,11,Underarm Bowling Incident of 1981,94,62
+2026-06-27T17:19:12.253012+00:00,48689028,12,Previewing GPT‑5.6 Sol: a next-generation model,1076,684
+2026-06-27T17:19:12.253012+00:00,48697746,13,"How Many Elementary Particles Are There, Really?",70,53
+2026-06-27T17:19:12.253012+00:00,48664063,14,"Reducing tick density along recreational trails in Ottawa, Canada",44,11
+2026-06-27T17:19:12.253012+00:00,48677564,15,Long Wave radio era set to end with switch-off,120,114
+2026-06-27T17:19:12.253012+00:00,48696510,16,Beer CSS – Build material design in record time,101,48
+2026-06-27T17:19:12.253012+00:00,48696127,17,Researchers have developed pixels that can emit and analyse light together,13,7
+2026-06-27T17:19:12.253012+00:00,48645510,18,Task Failed Successfully: Saturating NIC and Disk Bandwidth,21,8
+2026-06-27T17:19:12.253012+00:00,48668747,19,Linux on Older Hardware: The Complete Revival Guide,154,82
+2026-06-27T17:19:12.253012+00:00,48670103,20,The US Army Issued Ocarinas to Soldiers in World War II,83,49
+2026-06-27T17:19:12.253012+00:00,48697768,21,Streaming services' obnoxiously loud ads become illegal on July 1 in California,135,32
+2026-06-27T17:19:12.253012+00:00,48692946,22,"Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",318,168
+2026-06-27T17:19:12.253012+00:00,48699617,23,Doctors suspected man had brain cancer. He had worms,12,5
+2026-06-27T17:19:12.253012+00:00,48694853,24,WordStar: A Writer's Word Processor (1996),149,71
+2026-06-27T17:19:12.253012+00:00,48675290,25,Cultures of Making and Relating,33,2
+2026-06-27T17:19:12.253012+00:00,48694631,26,Anatomy of a Failed (Nation-State?) Attack,123,25
+2026-06-27T17:19:12.253012+00:00,48682243,27,"Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",43,2
+2026-06-27T17:19:12.253012+00:00,48665671,28,Jest/Vitest interactive course (runs in the browser),41,11
+2026-06-27T17:19:12.253012+00:00,48642510,29,MicroVMs: Run isolated sandboxes with full lifecycle control,364,197
+2026-06-27T17:19:12.253012+00:00,48692058,30,The gap between open weights LLMs and closed source LLMs,281,211
+2026-06-27T17:19:12.253012+00:00,48698402,31,Like a Bouncer at a Bookstore: Texas' App Store Accountability Act,9,7
+2026-06-27T17:19:12.253012+00:00,48692995,32,U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations,521,696
+2026-06-27T17:19:12.253012+00:00,48692883,33,AI in mathematics is forcing big questions,182,157
+2026-06-27T17:19:12.253012+00:00,48699010,34,A peek into Reddit's anti-spam internals,18,0
+2026-06-27T17:19:12.253012+00:00,48693420,35,International investment and local rules push prices up faster than supply,121,48
+2026-06-27T17:19:12.253012+00:00,48690101,36,U.S. government will decide who gets to use GPT-5.6,1124,1180
+2026-06-27T17:19:12.253012+00:00,48699213,37,"You've tried DuckDuckGo and Brave Search, now get serious with SearXNG",8,1
+2026-06-27T17:19:12.253012+00:00,48633839,38,Hellishly Slow Level 13 Deflate Compression,87,25
+2026-06-27T17:19:12.253012+00:00,48685558,39,Ultrasound imaging of the brain,307,116
+2026-06-27T17:19:12.253012+00:00,48695149,40,OpenTTD 16.0-Beta1,211,42
+2026-06-27T17:19:12.253012+00:00,48693912,41,Show HN: Hacker News on a train station-style flip board,94,20
+2026-06-27T17:19:12.253012+00:00,48665125,42,How H-E-B Became Texas' Most Beloved Brand (2024),48,48
+2026-06-27T17:19:12.253012+00:00,48698886,43,Tuta: They are bringing back ChatControl,21,1
+2026-06-27T17:19:12.253012+00:00,48658148,44,Fusion Programming Language,104,43
+2026-06-27T17:19:12.253012+00:00,48688700,45,"Show HN: Smart model routing directly in Claude, Codex and Cursor",191,105
+2026-06-27T17:19:12.253012+00:00,48693391,46,Om,474,19
+2026-06-27T17:19:12.253012+00:00,48692051,47,We can still stop California's 3D printer surveillance scheme,465,167
+2026-06-27T17:19:12.253012+00:00,48689277,48,What Is a Nomogram and Why Would It Interest Me?,137,23
+2026-06-27T17:19:12.253012+00:00,48694563,49,Software Is Becoming Marketing,47,22
+2026-06-27T17:19:12.253012+00:00,48662988,50,Show HN: DBOSify – Drop-in Temporal replacement built on Postgres,74,18
