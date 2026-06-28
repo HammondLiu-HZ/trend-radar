@@ -6568,3 +6568,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-27T23:10:57.773337+00:00,48701822,48,'Careless People' author claims Meta surveilled her for 12mos to enforce silence,144,48
 2026-06-27T23:10:57.773337+00:00,48692995,49,U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations,540,737
 2026-06-27T23:10:57.773337+00:00,48692058,50,The gap between open weights LLMs and closed source LLMs,297,226
+2026-06-28T04:42:18.863093+00:00,48703759,1,Marfa Public Radio Puts You to Sleep,86,23
+2026-06-28T04:42:18.863093+00:00,48703412,2,Show HN: Decomp Academy – Learn to decompile GameCube games into matching C,64,21
+2026-06-28T04:42:18.863093+00:00,48703258,3,AMD Strix Halo RDMA Cluster Setup Guide,71,6
+2026-06-28T04:42:18.863093+00:00,48698617,4,Anonymous GitHub account mass-dropping undisclosed 0-days,720,282
+2026-06-28T04:42:18.863093+00:00,48697560,5,OpenRA,619,123
+2026-06-28T04:42:18.863093+00:00,48704373,6,Wayfinder Router: deterministic routing of queries between local and hosted LLM,3,0
+2026-06-28T04:42:18.863093+00:00,48702273,7,Choosing a Public DNS Resolver,95,29
+2026-06-28T04:42:18.863093+00:00,48703968,8,Ford hired AI and sacked humans. It backfired badly,52,26
+2026-06-28T04:42:18.863093+00:00,48686032,9,Space Shuttle Endeavour's 20-story vertical display,32,6
+2026-06-28T04:42:18.863093+00:00,48672232,10,"Regular expressions that work ""everywhere""",29,12
+2026-06-28T04:42:18.863093+00:00,48701936,11,Enhancing X11 Application Security with LXC,51,14
+2026-06-28T04:42:18.863093+00:00,48660021,12,AI learns the “dark art” of RFIC design,206,137
+2026-06-28T04:42:18.863093+00:00,48696982,13,Fintech Engineering Handbook,502,163
+2026-06-28T04:42:18.863093+00:00,48703613,14,Feds Killed Polestar and Spared Volvo. That Should Terrify You,63,38
+2026-06-28T04:42:18.863093+00:00,48648493,15,Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them,9,1
+2026-06-28T04:42:18.863093+00:00,48699928,16,Turn your site into a place people can bump into each other,181,81
+2026-06-28T04:42:18.863093+00:00,48697335,17,The case for physical media ownership,387,256
+2026-06-28T04:42:18.863093+00:00,48703452,18,Response to AI slop is from Robin Williams,117,67
+2026-06-28T04:42:18.863093+00:00,48698151,19,Suspicious Discontinuities (2020),223,70
+2026-06-28T04:42:18.863093+00:00,48697958,20,Asian AI startups launch Mythos-like models,180,145
+2026-06-28T04:42:18.863093+00:00,48702848,21,WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups,26,1
+2026-06-28T04:42:18.863093+00:00,48664063,22,"Reducing tick density along recreational trails in Ottawa, Canada",173,96
+2026-06-28T04:42:18.863093+00:00,48700834,23,IP Crawl: Living atlas of open webcams discovered on the public internet,269,134
+2026-06-28T04:42:18.863093+00:00,48659517,24,How do you keep Web MIDI from crashing a 1983 synthesizer?,31,14
+2026-06-28T04:42:18.863093+00:00,48698559,25,Post-Mythos Cybersecurity: Keep calm and carry on,139,46
+2026-06-28T04:42:18.863093+00:00,48696585,26,DSpark: Speculative decoding accelerates LLM inference [pdf],742,310
+2026-06-28T04:42:18.863093+00:00,48701984,28,What Ozempic does to the gut-brain axis,119,271
+2026-06-28T04:42:18.863093+00:00,48661078,29,How a YouTube video accidentally proved Libya's sand cat does exist,31,2
+2026-06-28T04:42:18.863093+00:00,48701512,30,Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work,103,66
+2026-06-28T04:42:18.863093+00:00,48702060,31,Michigan spent $1.8B and only created 602 jobs,149,66
+2026-06-28T04:42:18.863093+00:00,48688438,32,"One man, two kernels, and a lot of RISC-V",85,6
+2026-06-28T04:42:18.863093+00:00,48665125,33,How H-E-B became Texas' most beloved brand (2024),105,96
+2026-06-28T04:42:18.863093+00:00,48692946,34,"Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",356,196
+2026-06-28T04:42:18.863093+00:00,48660441,35,Paradise Revisited: What Darwin Saw in the Galápagos,42,1
+2026-06-28T04:42:18.863093+00:00,48661381,36,"The eerie interface of man and machine (Life Magazine, October 1967)",32,1
+2026-06-28T04:42:18.863093+00:00,48703602,37,I built a 100% local network privacy appliance to stop smart home spying,9,1
+2026-06-28T04:42:18.863093+00:00,48670103,38,The US Army Issued Ocarinas to Soldiers in World War II,155,73
+2026-06-28T04:42:18.863093+00:00,48703559,39,Show HN: FSM – an advanced system monitor for Linux,6,1
+2026-06-28T04:42:18.863093+00:00,48698684,40,Zuckerberg's war on whistleblowers,664,241
+2026-06-28T04:42:18.863093+00:00,48702104,41,Show HN: Starglyphs - A constellation puzzle game based on Euler paths,20,4
+2026-06-28T04:42:18.863093+00:00,48698188,42,Running a software jam in a world of slop,52,11
+2026-06-28T04:42:18.863093+00:00,48704040,43,The Unglamorous Side of Rust Web Development,7,1
+2026-06-28T04:42:18.863093+00:00,48703418,44,Turning music into a chore is how I became a musician,4,0
+2026-06-28T04:42:18.863093+00:00,48697746,45,"How Many Elementary Particles Are There, Really?",125,110
+2026-06-28T04:42:18.863093+00:00,48701771,46,"Show HN: Kiso, an open-source publishing engine for Open Knowledge Format",12,0
+2026-06-28T04:42:18.863093+00:00,48689028,47,Previewing GPT‑5.6 Sol: a next-generation model,1108,722
+2026-06-28T04:42:18.863093+00:00,48702825,48,"Apple Neural Engine: Architecture, Programming, and Performance",10,0
+2026-06-28T04:42:18.863093+00:00,48703194,49,Show HN: Engye – transfer files between any two devices by scanning a QR code,4,0
+2026-06-28T04:42:18.863093+00:00,48702361,50,Set Up Your Own DoH Service,13,4
