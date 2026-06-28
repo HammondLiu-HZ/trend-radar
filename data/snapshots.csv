@@ -6912,3 +6912,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-28T20:19:15.716857+00:00,48706877,48,"The origins of the school system aimed to produce independent, critical thinkers (2024)",91,53
 2026-06-28T20:19:15.716857+00:00,48708991,49,Professor denounces mass AI fraud on an exam at Brown University,38,29
 2026-06-28T20:19:15.716857+00:00,48707361,50,EU Open Sources Ten-Year Network Development Planning Tools,151,38
+2026-06-28T22:08:53.024991+00:00,48709670,1,GLM 5.2 beats Claude in our benchmarks,185,65
+2026-06-28T22:08:53.024991+00:00,48707763,2,5k menus from the New York Public Library’s Buttolph Collection (1880-1920),294,78
+2026-06-28T22:08:53.024991+00:00,48708941,3,I used Claude Code to get a second opinion on my MRI,261,369
+2026-06-28T22:08:53.024991+00:00,48710092,4,Historical memory prices 1960-2026,77,26
+2026-06-28T22:08:53.024991+00:00,48710775,5,TOP500 at ISC’26: We have a New Number 1 Supercomputer,38,26
+2026-06-28T22:08:53.024991+00:00,48710232,6,Librepods: AirPods liberated,185,56
+2026-06-28T22:08:53.024991+00:00,48675295,7,The Boeing 747 begins its final descent,105,109
+2026-06-28T22:08:53.024991+00:00,48709187,8,Working around dragons with the Lemote Yeeloong laptop and OpenBSD,78,15
+2026-06-28T22:08:53.024991+00:00,48708991,9,Professor denounces mass AI fraud on an exam at Brown,80,75
+2026-06-28T22:08:53.024991+00:00,48710778,10,Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch,24,6
+2026-06-28T22:08:53.024991+00:00,48708795,11,"Tokenmaxxing is dead, long live tokenmaxxing",84,106
+2026-06-28T22:08:53.024991+00:00,48708859,12,"Daisugi, the Japanese technique of growing trees out of other trees (2020)",86,29
+2026-06-28T22:08:53.024991+00:00,48708182,13,Show HN: Zanagrams,120,43
+2026-06-28T22:08:53.024991+00:00,48710827,14,"Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",13,9
+2026-06-28T22:08:53.024991+00:00,48708700,15,Examining circuit boards from the Space Shuttle's I/O Processor,70,14
+2026-06-28T22:08:53.024991+00:00,48710414,16,Do LLMs pass the mirror test?,17,8
+2026-06-28T22:08:53.024991+00:00,48709186,17,Show HN: DRM-Free Books,46,20
+2026-06-28T22:08:53.024991+00:00,48710350,18,Computer-Aided Language Development in Nonspeaking Children (1968) [pdf],13,1
+2026-06-28T22:08:53.024991+00:00,48678377,19,Staying Awake (2008),7,1
+2026-06-28T22:08:53.024991+00:00,48710437,20,The US Used to Demand the Best Tech. Now We Ban It,83,60
+2026-06-28T22:08:53.024991+00:00,48687106,21,The Excavator That Digs to a Line It Cannot See – Mobility and Field Robotics,4,0
+2026-06-28T22:08:53.024991+00:00,48706714,22,A way to exclude sensitive files issue still open for OpenAI Codex,167,110
+2026-06-28T22:08:53.024991+00:00,48706814,23,The curious case of the disappearing Polish S (2015),193,63
+2026-06-28T22:08:53.024991+00:00,48706796,24,The MUMPS 76 Primer – anniversary edition,62,28
+2026-06-28T22:08:53.024991+00:00,48710325,25,British Origami: the 1955 exhibition by Akira Yoshizawa,10,1
+2026-06-28T22:08:53.024991+00:00,48706560,26,The KIDS Act would require age checks to get online,227,210
+2026-06-28T22:08:53.024991+00:00,48707719,27,EU to legislate about Chat Control behind closed doors,553,309
+2026-06-28T22:08:53.024991+00:00,48706554,28,More evidence is consistent with possible ancient life on Mars (2025),45,60
+2026-06-28T22:08:53.024991+00:00,48708496,29,Programmable Probabilistic Computer with 1M p-bits,38,0
+2026-06-28T22:08:53.024991+00:00,48703759,30,Marfa Public Radio Puts You to Sleep,378,116
+2026-06-28T22:08:53.024991+00:00,48707769,31,Michigan bill would bar employers from requiring after-hours coms with workers,217,160
+2026-06-28T22:08:53.024991+00:00,48711403,32,POSIX Is Not a Shell,3,0
+2026-06-28T22:08:53.024991+00:00,48682979,33,Linux Kills Strncpy,26,14
+2026-06-28T22:08:53.024991+00:00,48648493,34,"Trade, merchants, and the lost cities of the Bronze Age (2019) [pdf]",69,63
+2026-06-28T22:08:53.024991+00:00,48705910,35,DLL that was not present in memory despite not being formally unloaded,121,41
+2026-06-28T22:08:53.024991+00:00,48682461,36,Show HN: Appaca – AI Workspace for Operators,12,9
+2026-06-28T22:08:53.024991+00:00,48710082,37,The cost YAGNI was never about,79,57
+2026-06-28T22:08:53.024991+00:00,48711604,38,Mel Brooks is 100 today,12,0
+2026-06-28T22:08:53.024991+00:00,48709744,39,Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding,9,1
+2026-06-28T22:08:53.024991+00:00,48708721,40,Reflections on software engineering in the age of AI,78,63
+2026-06-28T22:08:53.024991+00:00,48708139,41,California legislature agrees to upload driver's licenses to national database,106,48
+2026-06-28T22:08:53.024991+00:00,48690481,42,Designing a Personal Pebble Watchface,43,8
+2026-06-28T22:08:53.024991+00:00,48710826,43,1M Passports Leaked Online,25,9
+2026-06-28T22:08:53.024991+00:00,48703258,44,AMD Strix Halo RDMA Cluster Setup Guide,221,74
+2026-06-28T22:08:53.024991+00:00,48702273,45,Choosing a Public DNS Resolver,265,124
+2026-06-28T22:08:53.024991+00:00,48707673,46,"Flock cameras track more than your license plate, and they're spreading fast",321,241
+2026-06-28T22:08:53.024991+00:00,48704454,47,Bashblog – a single bash script to create blogs,104,78
+2026-06-28T22:08:53.024991+00:00,48670579,48,Bringing Swift to the Apple ][,55,3
+2026-06-28T22:08:53.024991+00:00,48674290,49,Do Babies Dream of Baby Sheep?,96,34
+2026-06-28T22:08:53.024991+00:00,48703412,50,Show HN: Decomp Academy – Learn to decompile GameCube games into matching C,185,71
