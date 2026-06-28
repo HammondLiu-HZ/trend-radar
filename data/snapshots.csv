@@ -6813,3 +6813,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-28T16:19:58.447450+00:00,48692946,48,"Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",367,201
 2026-06-28T16:19:58.447450+00:00,48665125,49,How H-E-B became Texas' most beloved brand (2024),127,104
 2026-06-28T16:19:58.447450+00:00,48658960,50,Experimenting with Random() in CSS,22,9
+2026-06-28T18:11:44.771298+00:00,48708941,1,I used Claude Code to get a second opinion on my MRI,85,111
+2026-06-28T18:11:44.771298+00:00,48707763,2,"5k Restaurant Menus, Years 1880-1920",198,46
+2026-06-28T18:11:44.771298+00:00,48709187,3,Working around dragons with the Lemote Yeeloong laptop and OpenBSD,34,3
+2026-06-28T18:11:44.771298+00:00,48708859,4,"Daisugi, the Japanese technique of growing trees out of other trees (2020)",46,18
+2026-06-28T18:11:44.771298+00:00,48708721,5,Reflections on Software Engineering in the Age of AI,42,7
+2026-06-28T18:11:44.771298+00:00,48708795,6,"Tokenmaxxing is dead, long live Tokenmaxxing",30,31
+2026-06-28T18:11:44.771298+00:00,48708700,7,Examining circuit boards from the Space Shuttle's I/O Processor,42,7
+2026-06-28T18:11:44.771298+00:00,48708182,8,Show HN: Zanagrams,49,15
+2026-06-28T18:11:44.771298+00:00,48706814,9,The curious case of the disappearing Polish S (2015),174,38
+2026-06-28T18:11:44.771298+00:00,48675295,10,The Boeing 747 Begins Its Final Descent,29,21
+2026-06-28T18:11:44.771298+00:00,48706714,11,A way to exclude sensitive files issue still open for OpenAI Codex,134,93
+2026-06-28T18:11:44.771298+00:00,48707673,12,"Flock cameras track more than your license plate, and they're spreading fast",259,169
+2026-06-28T18:11:44.771298+00:00,48709186,13,Show HN: DRM-Free Books,11,2
+2026-06-28T18:11:44.771298+00:00,48707769,14,Michigan bill would bar employers from requiring after-hours coms with workers,139,73
+2026-06-28T18:11:44.771298+00:00,48707719,15,EU to legislate about Chat Control behind closed doors,340,197
+2026-06-28T18:11:44.771298+00:00,48674006,16,Build Yourself Flowers,6,0
+2026-06-28T18:11:44.771298+00:00,48708496,17,Programmable Probabilistic Computer with 1M p-bits,11,0
+2026-06-28T18:11:44.771298+00:00,48703759,18,Marfa Public Radio Puts You to Sleep,360,108
+2026-06-28T18:11:44.771298+00:00,48674290,19,Do Babies Dream of Baby Sheep?,87,24
+2026-06-28T18:11:44.771298+00:00,48708139,20,California legislature agrees to upload driver's licenses to national database,64,27
+2026-06-28T18:11:44.771298+00:00,48705910,21,DLL that was not present in memory despite not being formally unloaded,99,34
+2026-06-28T18:11:44.771298+00:00,48706796,22,The MUMPS 76 Primer – anniversary edition,48,19
+2026-06-28T18:11:44.771298+00:00,48707103,23,Google limits Meta's use of its Gemini AI models,116,51
+2026-06-28T18:11:44.771298+00:00,48690481,24,Designing a Personal Pebble Watchface,25,4
+2026-06-28T18:11:44.771298+00:00,48670579,25,Bringing Swift to the Apple ][,46,2
+2026-06-28T18:11:44.771298+00:00,48698617,26,Anonymous GitHub account mass-dropping undisclosed 0-days,912,360
+2026-06-28T18:11:44.771298+00:00,48703258,27,AMD Strix Halo RDMA Cluster Setup Guide,212,63
+2026-06-28T18:11:44.771298+00:00,48702273,28,Choosing a Public DNS Resolver,256,107
+2026-06-28T18:11:44.771298+00:00,48707361,29,EU Open Sources Ten-Year Network Development Planning Tools,149,36
+2026-06-28T18:11:44.771298+00:00,48706877,30,"The origins of the school system aimed to produce independent, critical thinkers (2024)",83,43
+2026-06-28T18:11:44.771298+00:00,48704454,31,Bashblog – a single bash script to create blogs,98,73
+2026-06-28T18:11:44.771298+00:00,48709563,32,Lenovo saying RAM prices may never go back to how they were,6,4
+2026-06-28T18:11:44.771298+00:00,48704373,33,Wayfinder Router: deterministic routing of queries between local and hosted LLM,102,52
+2026-06-28T18:11:44.771298+00:00,48703412,34,Show HN: Decomp Academy – Learn to decompile GameCube games into matching C,178,69
+2026-06-28T18:11:44.771298+00:00,48708991,35,Professor denounces mass AI fraud on an exam at Brown University,18,8
+2026-06-28T18:11:44.771298+00:00,48685967,36,Engineering for Bounded Cognition,109,27
+2026-06-28T18:11:44.771298+00:00,48703418,37,Turning music into a chore is how I became a musician (2022),89,33
+2026-06-28T18:11:44.771298+00:00,48702848,38,WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups,125,15
+2026-06-28T18:11:44.771298+00:00,48699928,39,Turn your site into a place people can bump into each other,289,129
+2026-06-28T18:11:44.771298+00:00,48686032,40,Space Shuttle Endeavour's 20-story vertical display,95,21
+2026-06-28T18:11:44.771298+00:00,48672232,41,Regular expressions that work “everywhere”,90,39
+2026-06-28T18:11:44.771298+00:00,48652019,42,"A stray ""j"" ruined my evening",62,30
+2026-06-28T18:11:44.771298+00:00,48664063,43,"Reducing tick density along recreational trails in Ottawa, Canada",230,165
+2026-06-28T18:11:44.771298+00:00,48660021,44,AI learns the “dark art” of RFIC design,258,165
+2026-06-28T18:11:44.771298+00:00,48697560,45,OpenRA,768,145
+2026-06-28T18:11:44.771298+00:00,48672569,47,"Mobile Web Computing Before Smartphones. (University of Liverpool, ~2010) [pdf]",14,3
+2026-06-28T18:11:44.771298+00:00,48704529,48,"It's dead, Jim – the old Microsoft UEFI CA from 2011 expired yesterday",29,0
+2026-06-28T18:11:44.771298+00:00,48698151,49,Suspicious Discontinuities (2020),264,92
+2026-06-28T18:11:44.771298+00:00,48685625,50,From Pentagons to Pentagrams,28,5
