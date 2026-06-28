@@ -6666,3 +6666,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-28T08:26:26.077213+00:00,48698188,48,Running a software jam in a world of slop,53,11
 2026-06-28T08:26:26.077213+00:00,48689028,49,Previewing GPT‑5.6 Sol: a next-generation model,1112,723
 2026-06-28T08:26:26.077213+00:00,48701615,50,Everyone feared AI taking over; the real danger is AI serving just the few,62,30
+2026-06-28T11:13:03.022218+00:00,48703759,1,Marfa Public Radio Puts You to Sleep,252,70
+2026-06-28T11:13:03.022218+00:00,48704454,2,Bashblog – a single bash script to create blogs,56,31
+2026-06-28T11:13:03.022218+00:00,48703258,3,AMD Strix Halo RDMA Cluster Setup Guide,149,49
+2026-06-28T11:13:03.022218+00:00,48697560,4,OpenRA,732,137
+2026-06-28T11:13:03.022218+00:00,48703412,5,Show HN: Decomp Academy – Learn to decompile GameCube games into matching C,136,47
+2026-06-28T11:13:03.022218+00:00,48698617,6,Anonymous GitHub account mass-dropping undisclosed 0-days,827,325
+2026-06-28T11:13:03.022218+00:00,48704373,7,Wayfinder Router: deterministic routing of queries between local and hosted LLM,71,22
+2026-06-28T11:13:03.022218+00:00,48702273,8,Choosing a Public DNS Resolver,178,58
+2026-06-28T11:13:03.022218+00:00,48685967,9,Engineering for Bounded Cognition,48,7
+2026-06-28T11:13:03.022218+00:00,48696982,10,Fintech Engineering Handbook,587,177
+2026-06-28T11:13:03.022218+00:00,48686804,11,Reflecting to optimise,26,2
+2026-06-28T11:13:03.022218+00:00,48686032,12,Space Shuttle Endeavour's 20-story vertical display,65,12
+2026-06-28T11:13:03.022218+00:00,48689407,13,From Hallmark to neon signs: A look at Jim Parkinson's career in letter art,6,0
+2026-06-28T11:13:03.022218+00:00,48702848,14,WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups,83,5
+2026-06-28T11:13:03.022218+00:00,48672232,15,"Regular expressions that work ""everywhere""",60,25
+2026-06-28T11:13:03.022218+00:00,48699928,16,Turn your site into a place people can bump into each other,241,106
+2026-06-28T11:13:03.022218+00:00,48658960,17,Experimenting with Random() in CSS,16,4
+2026-06-28T11:13:03.022218+00:00,48652019,18,"A stray ""j"" ruined my evening",19,9
+2026-06-28T11:13:03.022218+00:00,48660021,19,AI learns the “dark art” of RFIC design,238,155
+2026-06-28T11:13:03.022218+00:00,48685625,20,From Pentagons to Pentagrams,9,1
+2026-06-28T11:13:03.022218+00:00,48703418,21,Turning music into a chore is how I became a musician (2022),47,17
+2026-06-28T11:13:03.022218+00:00,48697335,22,The case for physical media ownership,446,303
+2026-06-28T11:13:03.022218+00:00,48703452,23,The best response to AI slop and online noise is from Robin Williams,248,141
+2026-06-28T11:13:03.022218+00:00,48664063,24,"Reducing tick density along recreational trails in Ottawa, Canada",202,120
+2026-06-28T11:13:03.022218+00:00,48701936,25,Enhancing x11 Application Security with LXC (2025),70,40
+2026-06-28T11:13:03.022218+00:00,48698151,26,Suspicious Discontinuities (2020),249,79
+2026-06-28T11:13:03.022218+00:00,48704816,27,Armadillo – A DNS Server in Gleam for Homelab Use,14,0
+2026-06-28T11:13:03.022218+00:00,48697958,28,Asian AI startups launch Mythos-like models,238,178
+2026-06-28T11:13:03.022218+00:00,48696585,29,DSpark: Speculative decoding accelerates LLM inference [pdf],764,326
+2026-06-28T11:13:03.022218+00:00,48698559,30,Post-Mythos Cybersecurity: Keep calm and carry on,156,60
+2026-06-28T11:13:03.022218+00:00,48659517,31,How do you keep Web MIDI from crashing a 1983 synthesizer?,50,25
+2026-06-28T11:13:03.022218+00:00,48665125,32,How H-E-B became Texas' most beloved brand (2024),122,102
+2026-06-28T11:13:03.022218+00:00,48700834,33,IP Crawl: Living atlas of open webcams discovered on the public internet,303,153
+2026-06-28T11:13:03.022218+00:00,48692946,34,"Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",360,199
+2026-06-28T11:13:03.022218+00:00,48670103,35,The US Army Issued Ocarinas to Soldiers in World War II,164,73
+2026-06-28T11:13:03.022218+00:00,48688438,37,"One man, two kernels, and a lot of RISC-V",89,7
+2026-06-28T11:13:03.022218+00:00,48701984,38,What Ozempic does to the gut-brain axis,162,390
+2026-06-28T11:13:03.022218+00:00,48703613,39,Feds Killed Polestar and Spared Volvo,153,121
+2026-06-28T11:13:03.022218+00:00,48689028,40,Previewing GPT‑5.6 Sol: a next-generation model,1112,725
+2026-06-28T11:13:03.022218+00:00,48703848,41,Yap – free offline voice dictation for Mac/Windows/Linux (Wispr Flow alt),17,2
+2026-06-28T11:13:03.022218+00:00,48702825,42,"Apple Neural Engine: Architecture, Programming, and Performance",24,0
+2026-06-28T11:13:03.022218+00:00,48661381,43,"The eerie interface of man and machine (Life Magazine, October 1967)",36,2
+2026-06-28T11:13:03.022218+00:00,48698684,44,Zuckerberg's war on whistleblowers,701,254
+2026-06-28T11:13:03.022218+00:00,48701512,45,Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work,108,71
+2026-06-28T11:13:03.022218+00:00,48648493,46,Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them,58,50
+2026-06-28T11:13:03.022218+00:00,48660441,47,Paradise Revisited: What Darwin Saw in the Galápagos,45,2
+2026-06-28T11:13:03.022218+00:00,48698188,48,Running a software jam in a world of slop,55,11
+2026-06-28T11:13:03.022218+00:00,48662264,49,Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format,10,0
+2026-06-28T11:13:03.022218+00:00,48703559,50,Show HN: FSM – an advanced system monitor for Linux,15,7
