@@ -6764,3 +6764,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-28T14:06:27.381300+00:00,48704529,48,"It's dead, Jim – the old Microsoft UEFI CA from 2011 expired yesterday",11,0
 2026-06-28T14:06:27.381300+00:00,48706875,49,FizzBuzz in Smalltalk,6,0
 2026-06-28T14:06:27.381300+00:00,48688438,50,"One man, two kernels, and a lot of RISC-V",91,8
+2026-06-28T16:19:58.447450+00:00,48707361,1,EU Open Sources Ten-Year Network Development Planning Tools,118,28
+2026-06-28T16:19:58.447450+00:00,48707763,2,"5k Restaurant Menus, Years 1880-1920",85,21
+2026-06-28T16:19:58.447450+00:00,48706814,3,The curious case of the disappearing Polish S (2015),100,29
+2026-06-28T16:19:58.447450+00:00,48706714,4,A way to exclude sensitive files issue still open for OpenAI Codex,102,72
+2026-06-28T16:19:58.447450+00:00,48707719,5,EU to legislate about Chat Control behind closed doors,188,72
+2026-06-28T16:19:58.447450+00:00,48707673,6,"Flock cameras track more than your license plate, and they're spreading fast",165,74
+2026-06-28T16:19:58.447450+00:00,48674290,7,Do Babies Dream of Baby Sheep?,26,12
+2026-06-28T16:19:58.447450+00:00,48708139,8,California legislature agrees to upload driver's licenses to national database,30,13
+2026-06-28T16:19:58.447450+00:00,48707769,9,Michigan bill would bar employers from requiring after-hours coms with workers,63,28
+2026-06-28T16:19:58.447450+00:00,48703759,10,Marfa Public Radio Puts You to Sleep,346,99
+2026-06-28T16:19:58.447450+00:00,48706796,11,The MUMPS 76 Primer – anniversary edition,35,14
+2026-06-28T16:19:58.447450+00:00,48708265,12,Does Your Paper Really Suck?,4,0
+2026-06-28T16:19:58.447450+00:00,48705910,13,DLL that was not present in memory despite not being formally unloaded,83,30
+2026-06-28T16:19:58.447450+00:00,48708182,14,Show HN: Zanagrams,5,2
+2026-06-28T16:19:58.447450+00:00,48707103,15,Google limits Meta's use of its Gemini AI models,82,28
+2026-06-28T16:19:58.447450+00:00,48706877,16,"The origins of the school system aimed to produce independent, critical thinkers",67,25
+2026-06-28T16:19:58.447450+00:00,48670579,17,Bringing Swift to the Apple ][,35,2
+2026-06-28T16:19:58.447450+00:00,48698617,18,Anonymous GitHub account mass-dropping undisclosed 0-days,903,351
+2026-06-28T16:19:58.447450+00:00,48703258,19,AMD Strix Halo RDMA Cluster Setup Guide,204,60
+2026-06-28T16:19:58.447450+00:00,48702273,20,Choosing a Public DNS Resolver,241,102
+2026-06-28T16:19:58.447450+00:00,48704373,21,Wayfinder Router: deterministic routing of queries between local and hosted LLM,97,48
+2026-06-28T16:19:58.447450+00:00,48690481,22,Designing a Personal Pebble Watchface,7,2
+2026-06-28T16:19:58.447450+00:00,48703412,23,Show HN: Decomp Academy – Learn to decompile GameCube games into matching C,169,66
+2026-06-28T16:19:58.447450+00:00,48704454,24,Bashblog – a single bash script to create blogs,88,68
+2026-06-28T16:19:58.447450+00:00,48707146,25,Austria Lobbies EU to Host Anthropic After US Access Curbs,81,72
+2026-06-28T16:19:58.447450+00:00,48652019,26,"A stray ""j"" ruined my evening",53,29
+2026-06-28T16:19:58.447450+00:00,48685967,27,Engineering for Bounded Cognition,101,23
+2026-06-28T16:19:58.447450+00:00,48702848,28,WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups,121,15
+2026-06-28T16:19:58.447450+00:00,48672232,29,Regular expressions that work “everywhere”,87,36
+2026-06-28T16:19:58.447450+00:00,48686032,30,Space Shuttle Endeavour's 20-story vertical display,91,20
+2026-06-28T16:19:58.447450+00:00,48703418,31,Turning music into a chore is how I became a musician (2022),82,29
+2026-06-28T16:19:58.447450+00:00,48699928,32,Turn your site into a place people can bump into each other,285,128
+2026-06-28T16:19:58.447450+00:00,48672569,33,"Mobile Web Computing Before Smartphones. (University of Liverpool, ~2010) [pdf]",12,3
+2026-06-28T16:19:58.447450+00:00,48664063,34,"Reducing tick density along recreational trails in Ottawa, Canada",228,156
+2026-06-28T16:19:58.447450+00:00,48660021,35,AI learns the “dark art” of RFIC design,257,164
+2026-06-28T16:19:58.447450+00:00,48685625,36,From Pentagons to Pentagrams,26,4
+2026-06-28T16:19:58.447450+00:00,48697560,37,OpenRA,764,143
+2026-06-28T16:19:58.447450+00:00,48698151,38,Suspicious Discontinuities (2020),260,90
+2026-06-28T16:19:58.447450+00:00,48689407,39,From Hallmark to neon signs: A look at Jim Parkinson's career in letter art,22,1
+2026-06-28T16:19:58.447450+00:00,48703452,40,The best response to AI slop and online noise is from Robin Williams,334,183
+2026-06-28T16:19:58.447450+00:00,48704529,41,"It's dead, Jim – the old Microsoft UEFI CA from 2011 expired yesterday",21,0
+2026-06-28T16:19:58.447450+00:00,48696585,43,DSpark: Speculative decoding accelerates LLM inference [pdf],776,340
+2026-06-28T16:19:58.447450+00:00,48698559,44,Post-Mythos Cybersecurity: Keep calm and carry on,166,63
+2026-06-28T16:19:58.447450+00:00,48697958,45,Asian AI startups launch Mythos-like models,258,187
+2026-06-28T16:19:58.447450+00:00,48704816,46,Armadillo – A DNS Server in Gleam for Homelab Use,28,2
+2026-06-28T16:19:58.447450+00:00,48686804,47,Reflecting to optimise,31,2
+2026-06-28T16:19:58.447450+00:00,48692946,48,"Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",367,201
+2026-06-28T16:19:58.447450+00:00,48665125,49,How H-E-B became Texas' most beloved brand (2024),127,104
+2026-06-28T16:19:58.447450+00:00,48658960,50,Experimenting with Random() in CSS,22,9
