@@ -6715,3 +6715,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-28T11:13:03.022218+00:00,48698188,48,Running a software jam in a world of slop,55,11
 2026-06-28T11:13:03.022218+00:00,48662264,49,Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format,10,0
 2026-06-28T11:13:03.022218+00:00,48703559,50,Show HN: FSM – an advanced system monitor for Linux,15,7
+2026-06-28T14:06:27.381300+00:00,48706714,1,A way to exclude sensitive files issue still open for OpenAI Codex,49,30
+2026-06-28T14:06:27.381300+00:00,48706814,2,The curious case of the disappearing Polish S,12,1
+2026-06-28T14:06:27.381300+00:00,48703759,3,Marfa Public Radio Puts You to Sleep,310,83
+2026-06-28T14:06:27.381300+00:00,48706796,4,The MUMPS 76 Primer – anniversary edition,13,4
+2026-06-28T14:06:27.381300+00:00,48705910,5,DLL that was not present in memory despite not being formally unloaded,50,20
+2026-06-28T14:06:27.381300+00:00,48706560,6,Kids act would require age checks to get online,92,69
+2026-06-28T14:06:27.381300+00:00,48704454,7,Bashblog – a single bash script to create blogs,76,54
+2026-06-28T14:06:27.381300+00:00,48703258,8,AMD Strix Halo RDMA Cluster Setup Guide,185,56
+2026-06-28T14:06:27.381300+00:00,48698617,9,Anonymous GitHub account mass-dropping undisclosed 0-days,877,339
+2026-06-28T14:06:27.381300+00:00,48706877,10,"The origins of the school system aimed to produce independent, critical thinkers",20,7
+2026-06-28T14:06:27.381300+00:00,48707103,11,Google limits Meta's use of its Gemini AI models,11,0
+2026-06-28T14:06:27.381300+00:00,48704373,12,Wayfinder Router: deterministic routing of queries between local and hosted LLM,86,42
+2026-06-28T14:06:27.381300+00:00,48703412,13,Show HN: Decomp Academy – Learn to decompile GameCube games into matching C,158,59
+2026-06-28T14:06:27.381300+00:00,48702273,14,Choosing a Public DNS Resolver,210,85
+2026-06-28T14:06:27.381300+00:00,48670579,15,Bringing Swift to the Apple ][,16,1
+2026-06-28T14:06:27.381300+00:00,48652019,16,"A stray ""j"" ruined my evening",34,21
+2026-06-28T14:06:27.381300+00:00,48707146,17,Austria Lobbies EU to Host Anthropic After US Access Curbs,11,2
+2026-06-28T14:06:27.381300+00:00,48685967,18,Engineering for Bounded Cognition,78,19
+2026-06-28T14:06:27.381300+00:00,48672232,19,Regular expressions that work “everywhere”,77,28
+2026-06-28T14:06:27.381300+00:00,48706554,20,More evidence of life on Mars but still no life (2025),23,22
+2026-06-28T14:06:27.381300+00:00,48702848,21,WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups,103,11
+2026-06-28T14:06:27.381300+00:00,48672569,22,"Mobile Web Computing Before Smartphones. (University of Liverpool, ~2010) [pdf]",4,1
+2026-06-28T14:06:27.381300+00:00,48686032,23,Space Shuttle Endeavour's 20-story vertical display,78,13
+2026-06-28T14:06:27.381300+00:00,48699928,24,Turn your site into a place people can bump into each other,270,119
+2026-06-28T14:06:27.381300+00:00,48685625,25,From Pentagons to Pentagrams,22,4
+2026-06-28T14:06:27.381300+00:00,48689407,26,From Hallmark to neon signs: A look at Jim Parkinson's career in letter art,18,0
+2026-06-28T14:06:27.381300+00:00,48660021,27,AI learns the “dark art” of RFIC design,250,162
+2026-06-28T14:06:27.381300+00:00,48697560,28,OpenRA,760,142
+2026-06-28T14:06:27.381300+00:00,48703418,29,Turning music into a chore is how I became a musician (2022),61,21
+2026-06-28T14:06:27.381300+00:00,48664063,30,"Reducing tick density along recreational trails in Ottawa, Canada",220,151
+2026-06-28T14:06:27.381300+00:00,48703452,31,The best response to AI slop and online noise is from Robin Williams,313,168
+2026-06-28T14:06:27.381300+00:00,48698151,32,Suspicious Discontinuities (2020),255,88
+2026-06-28T14:06:27.381300+00:00,48697958,33,Asian AI startups launch Mythos-like models,255,186
+2026-06-28T14:06:27.381300+00:00,48701936,34,Enhancing x11 Application Security with LXC (2025),72,51
+2026-06-28T14:06:27.381300+00:00,48696585,35,DSpark: Speculative decoding accelerates LLM inference [pdf],774,335
+2026-06-28T14:06:27.381300+00:00,48658960,36,Experimenting with Random() in CSS,22,9
+2026-06-28T14:06:27.381300+00:00,48698559,37,Post-Mythos Cybersecurity: Keep calm and carry on,164,61
+2026-06-28T14:06:27.381300+00:00,48686804,38,Reflecting to optimise,29,2
+2026-06-28T14:06:27.381300+00:00,48704816,39,Armadillo – A DNS Server in Gleam for Homelab Use,23,1
+2026-06-28T14:06:27.381300+00:00,48659517,41,How do you keep Web MIDI from crashing a 1983 synthesizer?,50,25
+2026-06-28T14:06:27.381300+00:00,48692946,42,"Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",363,199
+2026-06-28T14:06:27.381300+00:00,48705860,43,Brace Expansion Tree,4,1
+2026-06-28T14:06:27.381300+00:00,48665125,44,How H-E-B became Texas' most beloved brand (2024),126,102
+2026-06-28T14:06:27.381300+00:00,48696982,45,Fintech Engineering Handbook,602,187
+2026-06-28T14:06:27.381300+00:00,48700834,46,IP Crawl: Living atlas of open webcams discovered on the public internet,313,156
+2026-06-28T14:06:27.381300+00:00,48670103,47,The US Army Issued Ocarinas to Soldiers in World War II,166,77
+2026-06-28T14:06:27.381300+00:00,48704529,48,"It's dead, Jim – the old Microsoft UEFI CA from 2011 expired yesterday",11,0
+2026-06-28T14:06:27.381300+00:00,48706875,49,FizzBuzz in Smalltalk,6,0
+2026-06-28T14:06:27.381300+00:00,48688438,50,"One man, two kernels, and a lot of RISC-V",91,8
