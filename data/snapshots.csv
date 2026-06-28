@@ -6617,3 +6617,52 @@ captured_at,story_id,rank,title,score,comments
 2026-06-28T04:42:18.863093+00:00,48702825,48,"Apple Neural Engine: Architecture, Programming, and Performance",10,0
 2026-06-28T04:42:18.863093+00:00,48703194,49,Show HN: Engye – transfer files between any two devices by scanning a QR code,4,0
 2026-06-28T04:42:18.863093+00:00,48702361,50,Set Up Your Own DoH Service,13,4
+2026-06-28T08:26:26.077213+00:00,48703759,1,Marfa Public Radio Puts You to Sleep,192,49
+2026-06-28T08:26:26.077213+00:00,48704373,2,Wayfinder Router: deterministic routing of queries between local and hosted LLM,54,10
+2026-06-28T08:26:26.077213+00:00,48704454,3,Bashblog – a single bash script to create blogs,28,3
+2026-06-28T08:26:26.077213+00:00,48703258,4,AMD Strix Halo RDMA Cluster Setup Guide,122,34
+2026-06-28T08:26:26.077213+00:00,48703412,5,Show HN: Decomp Academy – Learn to decompile GameCube games into matching C,112,36
+2026-06-28T08:26:26.077213+00:00,48697560,6,OpenRA,687,131
+2026-06-28T08:26:26.077213+00:00,48698617,7,Anonymous GitHub account mass-dropping undisclosed 0-days,788,306
+2026-06-28T08:26:26.077213+00:00,48702273,8,Choosing a Public DNS Resolver,145,44
+2026-06-28T08:26:26.077213+00:00,48685967,9,Engineering for Bounded Cognition,25,3
+2026-06-28T08:26:26.077213+00:00,48686804,10,Reflecting to optimise,11,1
+2026-06-28T08:26:26.077213+00:00,48703968,11,Ford hired AI and sacked humans. It backfired badly,169,92
+2026-06-28T08:26:26.077213+00:00,48696982,12,Fintech Engineering Handbook,549,171
+2026-06-28T08:26:26.077213+00:00,48686032,13,Space Shuttle Endeavour's 20-story vertical display,52,8
+2026-06-28T08:26:26.077213+00:00,48672232,14,"Regular expressions that work ""everywhere""",49,24
+2026-06-28T08:26:26.077213+00:00,48702848,15,WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups,59,4
+2026-06-28T08:26:26.077213+00:00,48697335,16,The case for physical media ownership,426,281
+2026-06-28T08:26:26.077213+00:00,48699928,17,Turn your site into a place people can bump into each other,218,90
+2026-06-28T08:26:26.077213+00:00,48660021,18,AI learns the “dark art” of RFIC design,230,149
+2026-06-28T08:26:26.077213+00:00,48697958,19,Asian AI startups launch Mythos-like models,219,169
+2026-06-28T08:26:26.077213+00:00,48703418,20,Turning music into a chore is how I became a musician (2022),33,8
+2026-06-28T08:26:26.077213+00:00,48701936,21,Enhancing X11 Application Security with LXC (2025),63,34
+2026-06-28T08:26:26.077213+00:00,48698151,22,Suspicious Discontinuities (2020),233,74
+2026-06-28T08:26:26.077213+00:00,48703452,23,The best response to AI slop and online noise is from Robin Williams,196,112
+2026-06-28T08:26:26.077213+00:00,48658960,24,Experimenting with Random() in CSS,3,0
+2026-06-28T08:26:26.077213+00:00,48664063,25,"Reducing tick density along recreational trails in Ottawa, Canada",193,101
+2026-06-28T08:26:26.077213+00:00,48703613,26,Feds Killed Polestar and Spared Volvo,140,97
+2026-06-28T08:26:26.077213+00:00,48659517,27,How do you keep Web MIDI from crashing a 1983 synthesizer?,42,20
+2026-06-28T08:26:26.077213+00:00,48696585,28,DSpark: Speculative decoding accelerates LLM inference [pdf],756,318
+2026-06-28T08:26:26.077213+00:00,48698559,29,Post-Mythos Cybersecurity: Keep calm and carry on,145,54
+2026-06-28T08:26:26.077213+00:00,48700834,30,IP Crawl: Living atlas of open webcams discovered on the public internet,290,143
+2026-06-28T08:26:26.077213+00:00,48665125,31,How H-E-B became Texas' most beloved brand (2024),117,101
+2026-06-28T08:26:26.077213+00:00,48692946,32,"Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",358,196
+2026-06-28T08:26:26.077213+00:00,48701984,33,What Ozempic does to the gut-brain axis,153,341
+2026-06-28T08:26:26.077213+00:00,48688438,34,"One man, two kernels, and a lot of RISC-V",87,6
+2026-06-28T08:26:26.077213+00:00,48670103,35,The US Army Issued Ocarinas to Soldiers in World War II,161,73
+2026-06-28T08:26:26.077213+00:00,48705276,36,Can China build its own ASML?,3,0
+2026-06-28T08:26:26.077213+00:00,48648493,38,Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them,49,42
+2026-06-28T08:26:26.077213+00:00,48662264,39,Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format,6,0
+2026-06-28T08:26:26.077213+00:00,48701512,40,Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work,108,71
+2026-06-28T08:26:26.077213+00:00,48661381,41,"The eerie interface of man and machine (Life Magazine, October 1967)",33,2
+2026-06-28T08:26:26.077213+00:00,48660441,42,Paradise Revisited: What Darwin Saw in the Galápagos,44,1
+2026-06-28T08:26:26.077213+00:00,48698684,43,Zuckerberg's war on whistleblowers,688,246
+2026-06-28T08:26:26.077213+00:00,48702825,44,"Apple Neural Engine: Architecture, Programming, and Performance",19,0
+2026-06-28T08:26:26.077213+00:00,48702060,45,Michigan spent $1.8B and only created 602 jobs,164,76
+2026-06-28T08:26:26.077213+00:00,48703559,46,Show HN: FSM – an advanced system monitor for Linux,12,7
+2026-06-28T08:26:26.077213+00:00,48703848,47,Yap – free offline voice dictation for Mac/Windows/Linux (Wispr Flow alt),14,0
+2026-06-28T08:26:26.077213+00:00,48698188,48,Running a software jam in a world of slop,53,11
+2026-06-28T08:26:26.077213+00:00,48689028,49,Previewing GPT‑5.6 Sol: a next-generation model,1112,723
+2026-06-28T08:26:26.077213+00:00,48701615,50,Everyone feared AI taking over; the real danger is AI serving just the few,62,30
