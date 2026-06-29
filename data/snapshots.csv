@@ -7062,3 +7062,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-29T05:58:40.654820+00:00,48682979,48,Linux Kills Strncpy,40,17
 2026-06-29T05:58:40.654820+00:00,48704454,49,Bashblog – a single bash script to create blogs,106,80
 2026-06-29T05:58:40.654820+00:00,48714268,50,Redesign of US Government websites stokes surveillance fears,13,1
+2026-06-29T11:20:59.516508+00:00,48717469,1,The CEO of Mullvad is the main financer of the far-right Swedish Örebro party,66,20
+2026-06-29T11:20:59.516508+00:00,48713832,2,HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88,521,210
+2026-06-29T11:20:59.516508+00:00,48709670,3,GLM 5.2 beats Claude in our benchmarks,885,410
+2026-06-29T11:20:59.516508+00:00,48716902,4,"Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",199,25
+2026-06-29T11:20:59.516508+00:00,48708644,5,Dissecting Apple's Sparse Image Format (ASIF),90,12
+2026-06-29T11:20:59.516508+00:00,48662018,6,"NUMA: Cores, memory, and the distance between them",33,3
+2026-06-29T11:20:59.516508+00:00,48714529,7,Age verification is just a precursor to automated attribution of speech,557,318
+2026-06-29T11:20:59.516508+00:00,48670314,8,We found a bug in the hyper HTTP library,76,15
+2026-06-29T11:20:59.516508+00:00,48710092,9,Historical memory prices 1960-2026,322,119
+2026-06-29T11:20:59.516508+00:00,48707763,10,5k menus from the New York Public Library’s Buttolph Collection (1880-1920),376,96
+2026-06-29T11:20:59.516508+00:00,48716634,11,Why did this journal retract two 1940s papers by Max Planck?,138,6
+2026-06-29T11:20:59.516508+00:00,48708941,12,I used Claude Code to get a second opinion on my MRI,448,584
+2026-06-29T11:20:59.516508+00:00,48712420,13,Knowledge Distillation of Black-Box Large Language Models (2024),103,19
+2026-06-29T11:20:59.516508+00:00,48657131,14,Deciphering basmala,73,22
+2026-06-29T11:20:59.516508+00:00,48658564,15,Let's Decode the Mystery Bytes [video],10,1
+2026-06-29T11:20:59.516508+00:00,48708182,16,Show HN: Zanagrams,298,73
+2026-06-29T11:20:59.516508+00:00,48714802,17,Herdr: Agent multiplexer that lives in your terminal,77,47
+2026-06-29T11:20:59.516508+00:00,48708795,18,"Tokenmaxxing is dead, long live tokenmaxxing",157,214
+2026-06-29T11:20:59.516508+00:00,48706560,19,The KIDS Act would require age checks to get online,509,406
+2026-06-29T11:20:59.516508+00:00,48708991,20,Professor denounces mass AI fraud on an exam at Brown,422,561
+2026-06-29T11:20:59.516508+00:00,48709187,21,Working around dragons with the Lemote Yeeloong laptop and OpenBSD,127,36
+2026-06-29T11:20:59.516508+00:00,48674875,22,Halvar's Guide to Entrepreneurship,6,0
+2026-06-29T11:20:59.516508+00:00,48673450,23,Model Training as Code,165,17
+2026-06-29T11:20:59.516508+00:00,48675295,24,The Boeing 747 begins its final descent,196,285
+2026-06-29T11:20:59.516508+00:00,48684315,25,The Baffling World of Masayoshi Son's Presentations (2020),69,27
+2026-06-29T11:20:59.516508+00:00,48708859,26,"Daisugi, the Japanese technique of growing trees out of other trees (2020)",146,47
+2026-06-29T11:20:59.516508+00:00,48710775,27,TOP500 at ISC’26: We have a New Number 1 Supercomputer,112,71
+2026-06-29T11:20:59.516508+00:00,48665988,28,The Forgotten Castles of the Garamantes,30,4
+2026-06-29T11:20:59.516508+00:00,48710232,29,Librepods: AirPods liberated,407,138
+2026-06-29T11:20:59.516508+00:00,48706714,30,A way to exclude sensitive files issue still open for OpenAI Codex,211,133
+2026-06-29T11:20:59.516508+00:00,48706554,31,More evidence is consistent with possible ancient life on Mars (2025),98,103
+2026-06-29T11:20:59.516508+00:00,48708700,32,Examining circuit boards from the Space Shuttle's I/O Processor,111,24
+2026-06-29T11:20:59.516508+00:00,48716184,33,EU countries move to revive temporary message-scanning regime,22,4
+2026-06-29T11:20:59.516508+00:00,48706814,34,The curious case of the disappearing Polish S (2015),246,97
+2026-06-29T11:20:59.516508+00:00,48706796,35,The MUMPS 76 Primer – anniversary edition,82,50
+2026-06-29T11:20:59.516508+00:00,48709186,36,Show HN: DRM-Free Books,102,39
+2026-06-29T11:20:59.516508+00:00,48711681,37,Jimmy is a tool to convert your notes from different formats to Markdown,25,3
+2026-06-29T11:20:59.516508+00:00,48715711,38,My main Android phone is now 99% Google free,21,7
+2026-06-29T11:20:59.516508+00:00,48705910,39,DLL that was not present in memory despite not being formally unloaded,142,44
+2026-06-29T11:20:59.516508+00:00,48678393,40,Idler Magazine,25,7
+2026-06-29T11:20:59.516508+00:00,48688275,41,A glitch in February of the year 0,20,17
+2026-06-29T11:20:59.516508+00:00,48707719,42,EU to legislate about Chat Control behind closed doors,673,387
+2026-06-29T11:20:59.516508+00:00,48710325,43,British Origami: the 1955 exhibition by Akira Yoshizawa (2005),29,3
+2026-06-29T11:20:59.516508+00:00,48710827,44,"Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",53,16
+2026-06-29T11:20:59.516508+00:00,48712212,45,Why frontier LLMs can't read the hard documents without experts involved,18,5
+2026-06-29T11:20:59.516508+00:00,48708496,46,Programmable Probabilistic Computer with 1M p-bits,52,1
+2026-06-29T11:20:59.516508+00:00,48704454,47,Bashblog – a single bash script to create blogs,107,82
+2026-06-29T11:20:59.516508+00:00,48710778,48,Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch,49,15
+2026-06-29T11:20:59.516508+00:00,48710350,49,Computer-Aided Language Development in Nonspeaking Children (1968) [pdf],27,1
+2026-06-29T11:20:59.516508+00:00,48682979,50,Linux Kills Strncpy,45,24
