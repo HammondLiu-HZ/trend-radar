@@ -7262,3 +7262,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-29T21:40:12.168602+00:00,48724019,48,Why narcissistic leaders resist remote work,24,14
 2026-06-29T21:40:12.168602+00:00,48670314,49,We found a bug in the hyper HTTP library,150,73
 2026-06-29T21:40:12.168602+00:00,48723371,50,"Feds Tracked Down an Anti-ICE Dad in NYC Hotel, but How?",24,1
+2026-06-29T23:06:48.880363+00:00,48724230,1,.self: A new top-level domain designed to support self-hosting,206,133
+2026-06-29T23:06:48.880363+00:00,48721903,2,Qwen 3.6 27B is the sweet spot for local development,513,452
+2026-06-29T23:06:48.880363+00:00,48698908,3,Free the Icons,81,13
+2026-06-29T23:06:48.880363+00:00,48719485,4,Rocketlab acquires Iridium,332,205
+2026-06-29T23:06:48.880363+00:00,48722052,5,Ornith-1.0: self-improving open-source models for agentic coding,126,27
+2026-06-29T23:06:48.880363+00:00,48725397,6,Is It Out Yet?,29,15
+2026-06-29T23:06:48.880363+00:00,48726073,7,Scientists find molecular-level evidence for two structures in liquid water,12,1
+2026-06-29T23:06:48.880363+00:00,48720758,8,A native graphical shell for SSH,212,97
+2026-06-29T23:06:48.880363+00:00,48720190,9,WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter,163,25
+2026-06-29T23:06:48.880363+00:00,48683475,10,"Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",90,13
+2026-06-29T23:06:48.880363+00:00,48723677,11,JumpServer: Open-Source Privileged Access Management,44,12
+2026-06-29T23:06:48.880363+00:00,48720924,12,US Supreme Court rules geofence warrants require constitutional protections,375,176
+2026-06-29T23:06:48.880363+00:00,48726102,13,South Korea to spend $1T on more memory chip production and humanoid robots,19,0
+2026-06-29T23:06:48.880363+00:00,48702825,14,"Apple Neural Engine: Architecture, Programming, and Performance",78,10
+2026-06-29T23:06:48.880363+00:00,48718863,15,What happens when you run a CUDA kernel?,190,24
+2026-06-29T23:06:48.880363+00:00,48722802,16,Micro-Agent: Beat Frontier Models with Collaboration Inside Model API,40,11
+2026-06-29T23:06:48.880363+00:00,48720064,17,Working With AI: A concrete example,62,24
+2026-06-29T23:06:48.880363+00:00,48711981,18,30-year sentence for transporting zines is a five-alarm fire for free speech,165,71
+2026-06-29T23:06:48.880363+00:00,48697599,19,Kb – Prolog Knowledge Base,4,0
+2026-06-29T23:06:48.880363+00:00,48709744,20,Ornith-1.0: Self-scaffolding LLMs for agentic coding,47,6
+2026-06-29T23:06:48.880363+00:00,48721072,21,European ISPs Want Rightsholders Held Accountable for Overblocking Damage,320,83
+2026-06-29T23:06:48.880363+00:00,48675653,22,Dark Sky Lighting,118,16
+2026-06-29T23:06:48.880363+00:00,48706389,23,One million passports leaked online,84,54
+2026-06-29T23:06:48.880363+00:00,48717287,24,Sandia National Labs SA3000 8085 CPU,151,38
+2026-06-29T23:06:48.880363+00:00,48692310,25,Font-Family Recommendations,44,12
+2026-06-29T23:06:48.880363+00:00,48719521,26,You Don't Know Jack About Formal Verification,84,38
+2026-06-29T23:06:48.880363+00:00,48715020,27,Is sunscreen the new margarine? (2019),59,58
+2026-06-29T23:06:48.880363+00:00,48688382,28,Venetian Bridge Brawls in 17th and 18th Century Art,50,28
+2026-06-29T23:06:48.880363+00:00,48717905,29,Rebuilding the Computer Room,87,45
+2026-06-29T23:06:48.880363+00:00,48718102,30,"Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",326,156
+2026-06-29T23:06:48.880363+00:00,48674875,31,Halvar's Guide to Entrepreneurship,192,44
+2026-06-29T23:06:48.880363+00:00,48719027,32,Instagram is incorporating users' photos in ads for Meta Glasses,311,136
+2026-06-29T23:06:48.880363+00:00,48723452,33,.garden TLD's change to a bad neighborhood,32,22
+2026-06-29T23:06:48.880363+00:00,48717469,34,The CEO of Mullvad is the main financer of the Swedish Örebro party,508,1141
+2026-06-29T23:06:48.880363+00:00,48718840,35,Tidal AI Policy,288,312
+2026-06-29T23:06:48.880363+00:00,48716902,36,Pollen tried to remove my article and Google is assisting with it,852,122
+2026-06-29T23:06:48.880363+00:00,48679904,37,The Return of Aspect Oriented Programming,74,59
+2026-06-29T23:06:48.880363+00:00,48713832,38,HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88,942,402
+2026-06-29T23:06:48.880363+00:00,48705878,39,ACL 1.0: A source-available commercial license for the AI era,14,7
+2026-06-29T23:06:48.880363+00:00,48719361,40,CachyOS June 2026 Release,124,61
+2026-06-29T23:06:48.880363+00:00,48718995,41,Building Principia for Windows XP,105,32
+2026-06-29T23:06:48.880363+00:00,48662018,42,"NUMA: Cores, memory, and the distance between them",124,25
+2026-06-29T23:06:48.880363+00:00,48724779,43,Magicbookshelf.org – a spoiler-aware companion for public domain classics,4,0
+2026-06-29T23:06:48.880363+00:00,48719532,44,Mag 7 starting to underperform [pdf],175,142
+2026-06-29T23:06:48.880363+00:00,48708644,45,Dissecting Apple's Sparse Image Format (ASIF),152,21
+2026-06-29T23:06:48.880363+00:00,48693273,46,Decker Fantasy Camp 2026,41,8
+2026-06-29T23:06:48.880363+00:00,48724677,47,Can Printed 'Skin' Heal Burns and Prevent Scars?,7,0
+2026-06-29T23:06:48.880363+00:00,48714529,48,Age verification is just a precursor to automated attribution of speech,938,581
+2026-06-29T23:06:48.880363+00:00,48726377,49,"Meta Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",4,0
+2026-06-29T23:06:48.880363+00:00,48709670,50,GLM 5.2 beats Claude in our benchmarks,1057,495
