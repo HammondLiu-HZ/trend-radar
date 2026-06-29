@@ -7012,3 +7012,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-29T00:16:17.160102+00:00,48708139,48,California legislature agrees to upload driver's licenses to national database,119,51
 2026-06-29T00:16:17.160102+00:00,48704454,49,Bashblog – a single bash script to create blogs,106,79
 2026-06-29T00:16:17.160102+00:00,48703412,50,Show HN: Decomp Academy – Learn to decompile GameCube games into matching C,188,71
+2026-06-29T05:58:40.654820+00:00,48709670,1,GLM 5.2 beats Claude in our benchmarks,659,318
+2026-06-29T05:58:40.654820+00:00,48713832,2,HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88,153,33
+2026-06-29T05:58:40.654820+00:00,48714529,3,Age verification is just a precursor to automated attribution of speech,235,104
+2026-06-29T05:58:40.654820+00:00,48714802,4,Herdr: Agent multiplexer that lives in your terminal,16,1
+2026-06-29T05:58:40.654820+00:00,48708644,5,Dissecting Apple's Sparse Image Format (ASIF),11,0
+2026-06-29T05:58:40.654820+00:00,48714880,6,Lore – give your coding agent the decisions your team made,7,0
+2026-06-29T05:58:40.654820+00:00,48710092,7,Historical memory prices 1960-2026,253,91
+2026-06-29T05:58:40.654820+00:00,48707763,8,5k menus from the New York Public Library’s Buttolph Collection (1880-1920),349,90
+2026-06-29T05:58:40.654820+00:00,48708941,9,I used Claude Code to get a second opinion on my MRI,392,511
+2026-06-29T05:58:40.654820+00:00,48712420,10,Knowledge Distillation of Black-Box Large Language Models (2024),76,13
+2026-06-29T05:58:40.654820+00:00,48657131,11,Deciphering Basmala,35,13
+2026-06-29T05:58:40.654820+00:00,48708182,12,Show HN: Zanagrams,241,57
+2026-06-29T05:58:40.654820+00:00,48710775,13,TOP500 at ISC’26: We have a New Number 1 Supercomputer,92,53
+2026-06-29T05:58:40.654820+00:00,48708795,14,"Tokenmaxxing is dead, long live tokenmaxxing",132,159
+2026-06-29T05:58:40.654820+00:00,48675295,15,The Boeing 747 begins its final descent,171,234
+2026-06-29T05:58:40.654820+00:00,48684315,16,The Baffling World of Masayoshi Son's Presentations (2020),42,13
+2026-06-29T05:58:40.654820+00:00,48673450,17,Model Training as Code,40,10
+2026-06-29T05:58:40.654820+00:00,48665988,18,The Forgotten Castles of the Garamantes,16,0
+2026-06-29T05:58:40.654820+00:00,48708991,19,Professor denounces mass AI fraud on an exam at Brown,348,462
+2026-06-29T05:58:40.654820+00:00,48706560,20,The KIDS Act would require age checks to get online,413,324
+2026-06-29T05:58:40.654820+00:00,48710232,21,Librepods: AirPods liberated,337,110
+2026-06-29T05:58:40.654820+00:00,48709187,22,Working around dragons with the Lemote Yeeloong laptop and OpenBSD,101,28
+2026-06-29T05:58:40.654820+00:00,48708859,23,"Daisugi, the Japanese technique of growing trees out of other trees (2020)",125,39
+2026-06-29T05:58:40.654820+00:00,48688275,24,A glitch in February of the year 0,11,1
+2026-06-29T05:58:40.654820+00:00,48678393,25,Idler Magazine,13,2
+2026-06-29T05:58:40.654820+00:00,48706714,26,A way to exclude sensitive files issue still open for OpenAI Codex,192,124
+2026-06-29T05:58:40.654820+00:00,48708700,27,Examining circuit boards from the Space Shuttle's I/O Processor,96,22
+2026-06-29T05:58:40.654820+00:00,48706554,28,More evidence is consistent with possible ancient life on Mars (2025),75,77
+2026-06-29T05:58:40.654820+00:00,48706814,29,The curious case of the disappearing Polish S (2015),222,73
+2026-06-29T05:58:40.654820+00:00,48710827,30,"Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",43,15
+2026-06-29T05:58:40.654820+00:00,48709186,31,Show HN: DRM-Free Books,90,38
+2026-06-29T05:58:40.654820+00:00,48710778,32,Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch,45,12
+2026-06-29T05:58:40.654820+00:00,48706796,33,The MUMPS 76 Primer – anniversary edition,79,45
+2026-06-29T05:58:40.654820+00:00,48715068,34,You aren't ready to be your own boss until you read this,4,0
+2026-06-29T05:58:40.654820+00:00,48711681,35,Jimmy is a tool to convert your notes from different formats to Markdown,14,0
+2026-06-29T05:58:40.654820+00:00,48710325,36,British Origami: the 1955 exhibition by Akira Yoshizawa (2005),25,2
+2026-06-29T05:58:40.654820+00:00,48712324,37,Xonaly – Canada's Independent Search Engine,69,43
+2026-06-29T05:58:40.654820+00:00,48705910,38,DLL that was not present in memory despite not being formally unloaded,140,43
+2026-06-29T05:58:40.654820+00:00,48707719,39,EU to legislate about Chat Control behind closed doors,634,358
+2026-06-29T05:58:40.654820+00:00,48713697,40,"AI boom risks global financial crash, warn central bankers",114,124
+2026-06-29T05:58:40.654820+00:00,48710350,41,Computer-Aided Language Development in Nonspeaking Children (1968) [pdf],26,1
+2026-06-29T05:58:40.654820+00:00,48708496,42,Programmable Probabilistic Computer with 1M p-bits,48,1
+2026-06-29T05:58:40.654820+00:00,48713453,43,You might not need a service worker,18,2
+2026-06-29T05:58:40.654820+00:00,48713051,44,Better Images of AI,47,26
+2026-06-29T05:58:40.654820+00:00,48678377,45,Staying Awake (2008),24,10
+2026-06-29T05:58:40.654820+00:00,48715020,46,Is Sunscreen the New Margarine?,4,0
+2026-06-29T05:58:40.654820+00:00,48712364,47,Writing your own static website generator,10,3
+2026-06-29T05:58:40.654820+00:00,48682979,48,Linux Kills Strncpy,40,17
+2026-06-29T05:58:40.654820+00:00,48704454,49,Bashblog – a single bash script to create blogs,106,80
+2026-06-29T05:58:40.654820+00:00,48714268,50,Redesign of US Government websites stokes surveillance fears,13,1
