@@ -7312,3 +7312,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-29T23:06:48.880363+00:00,48714529,48,Age verification is just a precursor to automated attribution of speech,938,581
 2026-06-29T23:06:48.880363+00:00,48726377,49,"Meta Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",4,0
 2026-06-29T23:06:48.880363+00:00,48709670,50,GLM 5.2 beats Claude in our benchmarks,1057,495
+2026-06-30T04:17:21.127678+00:00,48721903,1,Qwen 3.6 27B is the sweet spot for local development,708,545
+2026-06-30T04:17:21.127678+00:00,48724230,2,.self: A new top-level domain designed to support self-hosting,383,220
+2026-06-30T04:17:21.127678+00:00,48698908,3,Free the Icons,302,80
+2026-06-30T04:17:21.127678+00:00,48727177,4,"Memory Safe Context Switching (longjmp, setjmp) in Fil-C",53,19
+2026-06-30T04:17:21.127678+00:00,48727116,5,"LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",52,13
+2026-06-30T04:17:21.127678+00:00,48727323,6,Exploring PDP-1 Lisp (1960),31,16
+2026-06-30T04:17:21.127678+00:00,48719485,7,Rocketlab acquires Iridium,381,245
+2026-06-30T04:17:21.127678+00:00,48726073,8,Scientists find molecular-level evidence for two structures in liquid water,83,36
+2026-06-30T04:17:21.127678+00:00,48722052,9,Ornith-1.0: self-improving open-source models for agentic coding,174,32
+2026-06-30T04:17:21.127678+00:00,48711981,10,30-year sentence for transporting zines is a five-alarm fire for free speech,420,242
+2026-06-30T04:17:21.127678+00:00,48720924,11,US Supreme Court rules geofence warrants require constitutional protections,487,227
+2026-06-30T04:17:21.127678+00:00,48702320,12,Old Computer Challenge,8,0
+2026-06-30T04:17:21.127678+00:00,48720186,13,Linux for the Sega MegaDrive,31,5
+2026-06-30T04:17:21.127678+00:00,48698542,14,Netflix Simplified Batch Compute with Kueue,35,4
+2026-06-30T04:17:21.127678+00:00,48658991,15,Philae's extraordinary comet landing relived (2024),12,0
+2026-06-30T04:17:21.127678+00:00,48697599,16,Kb – Prolog Knowledge Base,48,6
+2026-06-30T04:17:21.127678+00:00,48702825,17,"Apple Neural Engine: Architecture, Programming, and Performance",138,19
+2026-06-30T04:17:21.127678+00:00,48726102,18,South Korea to spend $1T on more memory chip production and humanoid robots,169,98
+2026-06-30T04:17:21.127678+00:00,48706389,19,One million passports leaked online,184,107
+2026-06-30T04:17:21.127678+00:00,48720190,20,WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter,191,30
+2026-06-30T04:17:21.127678+00:00,48687137,21,SQLite improving performance with pre-sort,44,4
+2026-06-30T04:17:21.127678+00:00,48683475,22,"Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",123,20
+2026-06-30T04:17:21.127678+00:00,48720758,23,A native graphical shell for SSH,266,136
+2026-06-30T04:17:21.127678+00:00,48675653,24,Dark Sky Lighting,177,31
+2026-06-30T04:17:21.127678+00:00,48702523,25,Walter S. Arnold–Sculptor/Stone Carver,4,1
+2026-06-30T04:17:21.127678+00:00,48718863,26,What happens when you run a CUDA kernel?,229,28
+2026-06-30T04:17:21.127678+00:00,48726966,27,"Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",20,6
+2026-06-30T04:17:21.127678+00:00,48720064,28,Working With AI: A concrete example,108,35
+2026-06-30T04:17:21.127678+00:00,48722802,29,Micro-Agent: Beat Frontier Models with Collaboration Inside Model API,64,19
+2026-06-30T04:17:21.127678+00:00,48709744,30,Ornith-1.0: Self-scaffolding LLMs for agentic coding,66,7
+2026-06-30T04:17:21.127678+00:00,48717287,31,Sandia National Labs SA3000 8085 CPU,168,42
+2026-06-30T04:17:21.127678+00:00,48719521,32,What can you confidently guarantee about your software?,105,47
+2026-06-30T04:17:21.127678+00:00,48723677,33,JumpServer: Open-Source Privileged Access Management,60,29
+2026-06-30T04:17:21.127678+00:00,48721072,34,European ISPs Want Rightsholders Held Accountable for Overblocking Damage,361,105
+2026-06-30T04:17:21.127678+00:00,48727373,35,I built a free I Ching oracle web app,7,6
+2026-06-30T04:17:21.127678+00:00,48715020,36,Is sunscreen the new margarine? (2019),99,99
+2026-06-30T04:17:21.127678+00:00,48717905,37,Rebuilding the Computer Room,103,55
+2026-06-30T04:17:21.127678+00:00,48692310,38,Font-Family Recommendations,62,16
+2026-06-30T04:17:21.127678+00:00,48674875,39,Halvar's Guide to Entrepreneurship,209,47
+2026-06-30T04:17:21.127678+00:00,48718102,40,"Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",379,175
+2026-06-30T04:17:21.127678+00:00,48726332,41,macOS Golden Gate icon comparison,15,4
+2026-06-30T04:17:21.127678+00:00,48688382,42,Venetian Bridge Brawls in 17th and 18th Century Art,53,30
+2026-06-30T04:17:21.127678+00:00,48717469,43,The CEO of Mullvad is the main financer of the Swedish Örebro party,556,1247
+2026-06-30T04:17:21.127678+00:00,48713832,44,HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88,967,406
+2026-06-30T04:17:21.127678+00:00,48719027,45,Instagram is incorporating users' photos in ads for Meta Glasses,332,141
+2026-06-30T04:17:21.127678+00:00,48716902,46,Pollen tried to remove my article and Google is assisting with it,868,125
+2026-06-30T04:17:21.127678+00:00,48662018,47,"NUMA: Cores, memory, and the distance between them",129,30
+2026-06-30T04:17:21.127678+00:00,48708644,48,Dissecting Apple's Sparse Image Format (ASIF),155,22
+2026-06-30T04:17:21.127678+00:00,48709670,49,GLM 5.2 beats Claude in our benchmarks,1069,498
+2026-06-30T04:17:21.127678+00:00,48718840,50,Tidal AI Policy,295,327
