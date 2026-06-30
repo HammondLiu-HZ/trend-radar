@@ -7512,3 +7512,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-30T14:36:03.220819+00:00,48720064,48,Working With AI: A concrete example,173,63
 2026-06-30T14:36:03.220819+00:00,48709744,49,Ornith-1.0: Self-scaffolding LLMs for agentic coding,76,7
 2026-06-30T14:36:03.220819+00:00,48728729,50,Popping the GPU Bubble,178,41
+2026-06-30T17:10:03.005835+00:00,48734373,1,Claude Code Is Steganographically Marking Requests,364,121
+2026-06-30T17:10:03.005835+00:00,48734234,2,The labor share of income in the US is at its lowest post-war level,314,266
+2026-06-30T17:10:03.005835+00:00,48735444,3,Nano Banana 2 Lite,17,0
+2026-06-30T17:10:03.005835+00:00,48731989,4,Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852),111,30
+2026-06-30T17:10:03.005835+00:00,48733937,5,We moved our Bluesky data to Eurosky,67,53
+2026-06-30T17:10:03.005835+00:00,48734699,6,County with 37 Data Centers Asks Schools to 'Conserve Electricity',95,38
+2026-06-30T17:10:03.005835+00:00,48733031,7,Looking Ahead to Postgres 19,127,85
+2026-06-30T17:10:03.005835+00:00,48734940,8,"EU commissioners shut down air conditioning for employees, leave theirs on",92,54
+2026-06-30T17:10:03.005835+00:00,48704289,9,Building a custom octocopter from scratch with no prior hardware experience,241,53
+2026-06-30T17:10:03.005835+00:00,48732056,10,Knoppix,97,54
+2026-06-30T17:10:03.005835+00:00,48683098,11,Open Source Low Tech,508,108
+2026-06-30T17:10:03.005835+00:00,48730729,12,European digital ID wallets rely on safety services of Google and Apple,594,249
+2026-06-30T17:10:03.005835+00:00,48730713,13,Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs),92,9
+2026-06-30T17:10:03.005835+00:00,48721903,14,Qwen 3.6 27B is the sweet spot for local development,1083,691
+2026-06-30T17:10:03.005835+00:00,48735376,15,"Crypto firms have spent $189M so far on 2026 US election, report says",14,1
+2026-06-30T17:10:03.005835+00:00,48695502,16,"Mathematics: Its Content, Methods and Meaning",27,3
+2026-06-30T17:10:03.005835+00:00,48724230,17,.self: A new top-level domain designed to support self-hosting,615,351
+2026-06-30T17:10:03.005835+00:00,48698908,18,Free the Icons,610,226
+2026-06-30T17:10:03.005835+00:00,48697107,19,Factorio 2.1 Experimental Release,38,15
+2026-06-30T17:10:03.005835+00:00,48730694,20,Exercise intensity influences body composition in healthy older adults (2025),156,132
+2026-06-30T17:10:03.005835+00:00,48734389,21,Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist,38,16
+2026-06-30T17:10:03.005835+00:00,48689820,22,I'm building a Space Cadet Pinball Machine! [video],48,8
+2026-06-30T17:10:03.005835+00:00,48734715,23,"BMW iX5 Blows Away the Competition with 460-KW Charging, 435-Mile Range",21,37
+2026-06-30T17:10:03.005835+00:00,48710350,24,Computer-Aided Language Development in Nonspeaking Children (1968) [pdf],33,1
+2026-06-30T17:10:03.005835+00:00,48727177,25,Memory Safe Context Switching,185,28
+2026-06-30T17:10:03.005835+00:00,48730818,26,"Parse, Don't Validate – In a Language That Doesn't Want You To",111,87
+2026-06-30T17:10:03.005835+00:00,48719485,27,Rocketlab acquires Iridium,452,293
+2026-06-30T17:10:03.005835+00:00,48727116,28,"LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",233,65
+2026-06-30T17:10:03.005835+00:00,48720186,29,Linux for the Sega MegaDrive,190,48
+2026-06-30T17:10:03.005835+00:00,48709662,30,Who are the fire-tamers?,27,19
+2026-06-30T17:10:03.005835+00:00,48695585,31,"All Logic, No Bite",36,11
+2026-06-30T17:10:03.005835+00:00,48681499,32,Why problem statements aren't enough,31,7
+2026-06-30T17:10:03.005835+00:00,48722052,33,Ornith-1.0: self-improving open-source models for agentic coding,248,48
+2026-06-30T17:10:03.005835+00:00,48727323,34,Exploring PDP-1 Lisp (1960),105,23
+2026-06-30T17:10:03.005835+00:00,48735113,35,Anthropic has embedded hidden spyware-like code in Claude Code,7,2
+2026-06-30T17:10:03.005835+00:00,48730608,36,The US ambassador had Belgian police stop our reporting,627,260
+2026-06-30T17:10:03.005835+00:00,48689885,37,How to corrupt an SQLite database file,144,37
+2026-06-30T17:10:03.005835+00:00,48702320,38,Old Computer Challenge,103,64
+2026-06-30T17:10:03.005835+00:00,48720924,39,US Supreme Court rules geofence warrants require constitutional protections,587,284
+2026-06-30T17:10:03.005835+00:00,48702825,40,"Apple Neural Engine: Architecture, Programming, and Performance",222,27
+2026-06-30T17:10:03.005835+00:00,48734239,41,No Systemd,9,1
+2026-06-30T17:10:03.005835+00:00,48734220,42,Supreme Court strikes down limits on party spending in federal elections,13,3
+2026-06-30T17:10:03.005835+00:00,48675653,43,Dark Sky Lighting,236,50
+2026-06-30T17:10:03.005835+00:00,48679809,44,Zig – SPIR-V Backend Progress,91,50
+2026-06-30T17:10:03.005835+00:00,48720758,45,A native graphical shell for SSH,345,207
+2026-06-30T17:10:03.005835+00:00,48718863,46,What happens when you run a CUDA kernel?,279,31
+2026-06-30T17:10:03.005835+00:00,48720190,47,WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter,225,35
+2026-06-30T17:10:03.005835+00:00,48732246,48,Rendering ray tracing in a database (ClickHouse),4,0
+2026-06-30T17:10:03.005835+00:00,48717287,49,Sandia National Labs SA3000 8085 CPU,179,45
+2026-06-30T17:10:03.005835+00:00,48683475,50,"Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",147,29
