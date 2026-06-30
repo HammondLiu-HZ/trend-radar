@@ -7612,3 +7612,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-30T20:09:11.139299+00:00,48732627,48,Ask HN: Secure wrapper for coding agents?,11,8
 2026-06-30T20:09:11.139299+00:00,48675653,49,Dark Sky Lighting,238,51
 2026-06-30T20:09:11.139299+00:00,48733937,50,We moved our Bluesky data to Eurosky,131,106
+2026-06-30T22:19:21.810642+00:00,48736605,1,Claude Sonnet 5,738,407
+2026-06-30T22:19:21.810642+00:00,48734373,2,Claude Code is steganographically marking requests,1190,310
+2026-06-30T22:19:21.810642+00:00,48739466,3,"Meta's brain-scanning system reads sentences non-invasively, code open source",42,22
+2026-06-30T22:19:21.810642+00:00,48735770,4,Claude Science,295,104
+2026-06-30T22:19:21.810642+00:00,48735444,5,Nano Banana 2 Lite,253,101
+2026-06-30T22:19:21.810642+00:00,48712289,6,How does a pull-back car work? Illustrated teardown,51,13
+2026-06-30T22:19:21.810642+00:00,48738985,7,I ported Kubernetes to the browser,85,21
+2026-06-30T22:19:21.810642+00:00,48736137,8,I built a mmWave material classification radar (2025),112,30
+2026-06-30T22:19:21.810642+00:00,48701721,9,Stroustrup's Rule (2024),25,1
+2026-06-30T22:19:21.810642+00:00,48704289,10,Building a custom octocopter from scratch with no prior hardware experience,301,68
+2026-06-30T22:19:21.810642+00:00,48723484,11,CERN bids farewell to the LHC and enters Long Shutdown 3,59,13
+2026-06-30T22:19:21.810642+00:00,48665958,12,Long Island's decommissioned nuclear power plant,26,0
+2026-06-30T22:19:21.810642+00:00,48732056,13,Knoppix,219,92
+2026-06-30T22:19:21.810642+00:00,48739467,14,Understanding lattice risks: Many differences between marketing and reality,5,0
+2026-06-30T22:19:21.810642+00:00,48693369,15,Waveloop: What Fable left me,54,13
+2026-06-30T22:19:21.810642+00:00,48731989,16,Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852),152,50
+2026-06-30T22:19:21.810642+00:00,48735446,17,Show HN: My 13-year-old built an ant colony tracker,18,12
+2026-06-30T22:19:21.810642+00:00,48718716,18,"Reading the internals of Postgres: Database cluster, databases, and tables",32,0
+2026-06-30T22:19:21.810642+00:00,48702361,19,Set up your own DoH (DNS over HTTPS) service,49,22
+2026-06-30T22:19:21.810642+00:00,48733043,20,Have you restarted your computer this week?,74,164
+2026-06-30T22:19:21.810642+00:00,48738262,21,"Tokyo has only two barley tea makers, we visited one to see how mugicha is made",15,4
+2026-06-30T22:19:21.810642+00:00,48687640,22,"Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",37,24
+2026-06-30T22:19:21.810642+00:00,48718081,23,Bouvet Island: The Most Remote Island Is Norwegian,6,2
+2026-06-30T22:19:21.810642+00:00,48660258,24,RF hacking my cloud-controlled ceiling fan,20,8
+2026-06-30T22:19:21.810642+00:00,48702917,25,I built a 10 inch mini rack from aluminium extrusions,38,16
+2026-06-30T22:19:21.810642+00:00,48738606,26,Morbid: Debunking Modern Longevity Science,28,16
+2026-06-30T22:19:21.810642+00:00,48736839,27,Amazon seller reveals glimpse of shadow bribery market,69,34
+2026-06-30T22:19:21.810642+00:00,48699010,28,A peek into Reddit's anti-spam internals,74,15
+2026-06-30T22:19:21.810642+00:00,48739459,29,Superpowers 6,6,1
+2026-06-30T22:19:21.810642+00:00,48688685,30,1.38 Millimeter Microcontroller,133,88
+2026-06-30T22:19:21.810642+00:00,48730713,31,Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs),134,12
+2026-06-30T22:19:21.810642+00:00,48690130,32,SedonaDB 0.4: GPU-accelerated spatial joins,32,4
+2026-06-30T22:19:21.810642+00:00,48738938,33,Leanstral 1.5,7,0
+2026-06-30T22:19:21.810642+00:00,48682874,34,A Fake Shell for Pangenomics,25,4
+2026-06-30T22:19:21.810642+00:00,48718972,35,Counterexamples in type systems (2021),41,1
+2026-06-30T22:19:21.810642+00:00,48738810,36,Bill C-34 Answers Child Safety with Identity Infrastructure,5,0
+2026-06-30T22:19:21.810642+00:00,48682979,37,6 years and 360 patches to clean all instances of strnpy out of the Linux kernel,52,33
+2026-06-30T22:19:21.810642+00:00,48737226,38,Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings,182,27
+2026-06-30T22:19:21.810642+00:00,48739140,39,Local Reasoning for Global Properties,4,0
+2026-06-30T22:19:21.810642+00:00,48733406,40,Supreme Court upholds broad conception of birthright citizenship,139,357
+2026-06-30T22:19:21.810642+00:00,48695502,41,"Mathematics: Its Content, Methods and Meaning",68,19
+2026-06-30T22:19:21.810642+00:00,48739168,42,Claude Code Just Got 5x More Expensive,13,0
+2026-06-30T22:19:21.810642+00:00,48697107,43,Factorio 2.1 Experimental Release,137,77
+2026-06-30T22:19:21.810642+00:00,48730246,44,Antares achieves criticality of Mark-0 reactor,70,98
+2026-06-30T22:19:21.810642+00:00,48728599,45,The end of my AArch64 desktop experiment,78,74
+2026-06-30T22:19:21.810642+00:00,48738528,46,Claude Sonnet 5 – benchmark results,34,15
+2026-06-30T22:19:21.810642+00:00,48683098,47,Open Source Low Tech,616,127
+2026-06-30T22:19:21.810642+00:00,48689820,48,I'm building a Space Cadet Pinball Machine! [video],85,16
+2026-06-30T22:19:21.810642+00:00,48737306,49,American Homeowners Are One Disaster Away from Losing Everything,10,4
+2026-06-30T22:19:21.810642+00:00,48721903,50,Qwen 3.6 27B is the sweet spot for local development,1140,703
