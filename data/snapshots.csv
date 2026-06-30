@@ -7562,3 +7562,53 @@ captured_at,story_id,rank,title,score,comments
 2026-06-30T17:10:03.005835+00:00,48732246,48,Rendering ray tracing in a database (ClickHouse),4,0
 2026-06-30T17:10:03.005835+00:00,48717287,49,Sandia National Labs SA3000 8085 CPU,179,45
 2026-06-30T17:10:03.005835+00:00,48683475,50,"Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",147,29
+2026-06-30T20:09:11.139299+00:00,48736605,1,Claude Sonnet 5,524,272
+2026-06-30T20:09:11.139299+00:00,48734373,2,Claude Code is steganographically marking requests,915,250
+2026-06-30T20:09:11.139299+00:00,48735770,3,Claude Science,205,80
+2026-06-30T20:09:11.139299+00:00,48735444,4,Nano Banana 2 Lite,185,66
+2026-06-30T20:09:11.139299+00:00,48736137,5,I built a mmWave material classification radar,70,24
+2026-06-30T20:09:11.139299+00:00,48734699,6,County with 37 Data Centers Asks Schools to 'Conserve Electricity',298,141
+2026-06-30T20:09:11.139299+00:00,48687640,7,"Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",19,11
+2026-06-30T20:09:11.139299+00:00,48732056,8,Knoppix,177,81
+2026-06-30T20:09:11.139299+00:00,48692330,9,"Don't Make Gates Optional, Make Them Flexible",33,3
+2026-06-30T20:09:11.139299+00:00,48731989,10,Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852),136,39
+2026-06-30T20:09:11.139299+00:00,48683098,11,Open Source Low Tech,585,120
+2026-06-30T20:09:11.139299+00:00,48737226,12,Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings,92,15
+2026-06-30T20:09:11.139299+00:00,48704289,13,Building a custom octocopter from scratch with no prior hardware experience,277,58
+2026-06-30T20:09:11.139299+00:00,48735376,14,"Crypto firms have spent $189M so far on 2026 US election, report says",158,64
+2026-06-30T20:09:11.139299+00:00,48721903,15,Qwen 3.6 27B is the sweet spot for local development,1121,699
+2026-06-30T20:09:11.139299+00:00,48730713,16,Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs),122,12
+2026-06-30T20:09:11.139299+00:00,48727116,17,"LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",258,76
+2026-06-30T20:09:11.139299+00:00,48697107,18,Factorio 2.1 Experimental Release,108,63
+2026-06-30T20:09:11.139299+00:00,48733031,19,Looking Ahead to Postgres 19,196,114
+2026-06-30T20:09:11.139299+00:00,48737302,20,Show HN: I made a heatmap of 3400 VCs who are open to cold emails,18,10
+2026-06-30T20:09:11.139299+00:00,48695502,21,"Mathematics: Its Content, Methods and Meaning",60,17
+2026-06-30T20:09:11.139299+00:00,48733406,22,Supreme Court upholds broad conception of birthright citizenship,98,209
+2026-06-30T20:09:11.139299+00:00,48724230,23,.self: A new top-level domain designed to support self-hosting,649,361
+2026-06-30T20:09:11.139299+00:00,48698908,24,Free the Icons,648,239
+2026-06-30T20:09:11.139299+00:00,48736839,25,Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market,41,19
+2026-06-30T20:09:11.139299+00:00,48730694,26,Exercise intensity influences body composition in healthy older adults (2025),184,153
+2026-06-30T20:09:11.139299+00:00,48689820,27,I'm building a Space Cadet Pinball Machine! [video],81,15
+2026-06-30T20:09:11.139299+00:00,48735554,28,"Xsnow ""protestware"" in Debian",101,87
+2026-06-30T20:09:11.139299+00:00,48727177,29,Memory Safe Context Switching,198,30
+2026-06-30T20:09:11.139299+00:00,48734234,30,The labor share of income in the US is at its lowest post-war level,422,437
+2026-06-30T20:09:11.139299+00:00,48720186,31,Linux for the Sega MegaDrive,196,58
+2026-06-30T20:09:11.139299+00:00,48733043,32,Have You Restarted Your Computer This Week?,55,131
+2026-06-30T20:09:11.139299+00:00,48710350,33,Computer-Aided Language Development in Nonspeaking Children (1968) [pdf],33,2
+2026-06-30T20:09:11.139299+00:00,48722052,34,Ornith-1.0: self-improving open-source models for agentic coding,251,48
+2026-06-30T20:09:11.139299+00:00,48695585,35,"All Logic, No Bite",44,13
+2026-06-30T20:09:11.139299+00:00,48734656,36,I Ported Kubernetes to the Browser,16,2
+2026-06-30T20:09:11.139299+00:00,48730818,37,"Parse, Don't Validate – In a Language That Doesn't Want You To",122,94
+2026-06-30T20:09:11.139299+00:00,48727323,38,Exploring PDP-1 Lisp (1960),105,23
+2026-06-30T20:09:11.139299+00:00,48735446,39,Show HN: My 13-year-old built an ant colony tracker,6,1
+2026-06-30T20:09:11.139299+00:00,48681499,40,Why problem statements aren't enough,32,10
+2026-06-30T20:09:11.139299+00:00,48720924,41,US Supreme Court rules geofence warrants require constitutional protections,595,287
+2026-06-30T20:09:11.139299+00:00,48709662,42,Who are the fire-tamers?,28,20
+2026-06-30T20:09:11.139299+00:00,48689885,43,How to corrupt an SQLite database file,150,38
+2026-06-30T20:09:11.139299+00:00,48702825,44,"Apple Neural Engine: Architecture, Programming, and Performance",225,27
+2026-06-30T20:09:11.139299+00:00,48735633,45,We Are the Last People Who Know How It Works,250,178
+2026-06-30T20:09:11.139299+00:00,48730729,46,European digital ID wallets rely on safety services of Google and Apple,652,279
+2026-06-30T20:09:11.139299+00:00,48734754,47,Claude Desktop is now available on Linux (in beta),34,4
+2026-06-30T20:09:11.139299+00:00,48732627,48,Ask HN: Secure wrapper for coding agents?,11,8
+2026-06-30T20:09:11.139299+00:00,48675653,49,Dark Sky Lighting,238,51
+2026-06-30T20:09:11.139299+00:00,48733937,50,We moved our Bluesky data to Eurosky,131,106
