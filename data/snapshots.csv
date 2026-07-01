@@ -7811,3 +7811,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-01T10:05:03.991699+00:00,48702361,48,Set up your own DoH (DNS over HTTPS) service,74,24
 2026-07-01T10:05:03.991699+00:00,48660258,49,RF hacking my cloud-controlled ceiling fan,58,18
 2026-07-01T10:05:03.991699+00:00,48687640,50,"Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",61,29
+2026-07-01T13:37:47.056994+00:00,48744518,1,Asahi Linux 7.1 Progress Report,303,72
+2026-07-01T13:37:47.056994+00:00,48746445,2,Why I Stopped Arguing with People,11,1
+2026-07-01T13:37:47.056994+00:00,48744232,3,Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice,182,100
+2026-07-01T13:37:47.056994+00:00,48734373,4,Claude Code is steganographically marking requests,2237,649
+2026-07-01T13:37:47.056994+00:00,48711052,5,Newly discovered spider builds spring loaded snare to catch ants,140,28
+2026-07-01T13:37:47.056994+00:00,48745113,6,Nintendo has raised its employees base salary by 10%,118,31
+2026-07-01T13:37:47.056994+00:00,48744655,8,The Internet I Grew Up with Doesn't Exist Anymore,134,109
+2026-07-01T13:37:47.056994+00:00,48721434,9,Obfuscation: Building the final boss of cryptography (Part I),33,0
+2026-07-01T13:37:47.056994+00:00,48736605,10,Claude Sonnet 5,1177,717
+2026-07-01T13:37:47.056994+00:00,48743472,11,Godot will no longer accept AI-authored code contributions,372,230
+2026-07-01T13:37:47.056994+00:00,48721345,12,A deep dive into SmallVector:push_back,16,2
+2026-07-01T13:37:47.056994+00:00,48741748,13,ArXiv's Next Chapter,183,54
+2026-07-01T13:37:47.056994+00:00,48745061,14,Swedish court says Google is to pay $1.5B to Klarna in antitrust damages,69,34
+2026-07-01T13:37:47.056994+00:00,48740698,15,Google copybara: moving code between repositories,247,45
+2026-07-01T13:37:47.056994+00:00,48745456,16,Physical disc production ending in Jan 2028 for new games on PlayStation,72,48
+2026-07-01T13:37:47.056994+00:00,48745785,17,Sony will no longer produce discs for PlayStation games starting in January 2028,26,16
+2026-07-01T13:37:47.056994+00:00,48735770,18,Claude Science,518,150
+2026-07-01T13:37:47.056994+00:00,48735444,19,Nano Banana 2 Lite,405,166
+2026-07-01T13:37:47.056994+00:00,48738938,20,Leanstral 1.5,266,107
+2026-07-01T13:37:47.056994+00:00,48742514,21,Matrix Orthogonalization Improves Memory in Recurrent Models,62,10
+2026-07-01T13:37:47.056994+00:00,48712289,22,How does a pull-back car work? Illustrated teardown,233,38
+2026-07-01T13:37:47.056994+00:00,48740771,23,Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5,785,490
+2026-07-01T13:37:47.056994+00:00,48726407,24,Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker,3,0
+2026-07-01T13:37:47.056994+00:00,48723484,25,CERN bids farewell to the LHC and enters Long Shutdown 3,279,90
+2026-07-01T13:37:47.056994+00:00,48744446,26,Pine64 launch $50 smart speaker for Home Assistant tinkerers,82,29
+2026-07-01T13:37:47.056994+00:00,48743655,27,Register Korea's First PC 'SE-8001' as a National Important Material,13,6
+2026-07-01T13:37:47.056994+00:00,48738985,28,I ported Kubernetes to the browser,306,90
+2026-07-01T13:37:47.056994+00:00,48741359,29,Forestiere Underground Gardens,83,18
+2026-07-01T13:37:47.056994+00:00,48704289,30,Building a custom octocopter from scratch with no prior hardware experience,391,81
+2026-07-01T13:37:47.056994+00:00,48692274,31,"Pystd, similar-ish functionality with a fraction of the compile time",44,30
+2026-07-01T13:37:47.056994+00:00,48738262,32,"Tokyo has only two barley tea makers, we visited one to see how mugicha is made",151,39
+2026-07-01T13:37:47.056994+00:00,48742049,33,Single header Parser Combinators for C,51,10
+2026-07-01T13:37:47.056994+00:00,48736137,34,I built a mmWave material classification radar (2025),191,55
+2026-07-01T13:37:47.056994+00:00,48739466,35,From brain waves to words: a new path to communication without surgery,173,83
+2026-07-01T13:37:47.056994+00:00,48733043,36,Have you restarted your computer this week?,201,357
+2026-07-01T13:37:47.056994+00:00,48710770,37,Ante: A new way to blend borrow checking and reference counting,105,25
+2026-07-01T13:37:47.056994+00:00,48740135,38,Hatari – Online Atari ST/STE/TT/Falcon Emulator,81,15
+2026-07-01T13:37:47.056994+00:00,48732056,39,Knoppix,321,115
+2026-07-01T13:37:47.056994+00:00,48689744,40,"Scaling Laws, Carefully",73,18
+2026-07-01T13:37:47.056994+00:00,48701721,41,Stroustrup's Rule (2024),106,31
+2026-07-01T13:37:47.056994+00:00,48688685,42,1.38 Millimeter Microcontroller,155,98
+2026-07-01T13:37:47.056994+00:00,48731989,43,Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852),182,62
+2026-07-01T13:37:47.056994+00:00,48745271,44,Micron CEO says low-price push by customers fueled the memory shortage,10,4
+2026-07-01T13:37:47.056994+00:00,48742483,45,The first early human eggs from stem cells,146,113
+2026-07-01T13:37:47.056994+00:00,48718716,46,"Reading the internals of Postgres: Database cluster, databases, and tables",83,1
+2026-07-01T13:37:47.056994+00:00,48702917,47,I built a 10 inch mini rack from aluminium extrusions,91,47
+2026-07-01T13:37:47.056994+00:00,48730713,48,Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs),154,14
+2026-07-01T13:37:47.056994+00:00,48739919,49,TabFM: A zero-shot foundation model for tabular data,82,10
+2026-07-01T13:37:47.056994+00:00,48735446,50,Show HN: My 13-year-old built an ant colony tracker,68,46
