@@ -7909,3 +7909,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-01T16:32:47.006961+00:00,48736137,48,I built a mmWave material classification radar (2025),198,57
 2026-07-01T16:32:47.006961+00:00,48733043,49,Have you restarted your computer this week?,208,381
 2026-07-01T16:32:47.006961+00:00,48742049,50,Single header Parser Combinators for C,60,12
+2026-07-01T19:03:30.486119+00:00,48747304,1,"For first time, a cell built from scratch grows and divides",467,157
+2026-07-01T19:03:30.486119+00:00,48750710,2,What to Learn to Be a Graphics Programmer,53,13
+2026-07-01T19:03:30.486119+00:00,48747116,3,FFmpeg 9.1's new AAC encoder,110,53
+2026-07-01T19:03:30.486119+00:00,48745456,4,Physical disc production ending in Jan 2028 for new games on PlayStation,356,438
+2026-07-01T19:03:30.486119+00:00,48748518,5,How We Made IPFS Content Publishing 10x Faster,83,24
+2026-07-01T19:03:30.486119+00:00,48745445,6,"Box3D, an open source 3D physics engine",286,56
+2026-07-01T19:03:30.486119+00:00,48747976,7,Ask HN: Who is hiring? (July 2026),84,101
+2026-07-01T19:03:30.486119+00:00,48750593,8,Building Gin: Simple over Easy,25,10
+2026-07-01T19:03:30.486119+00:00,48746076,9,Internal Combustion Engine,163,25
+2026-07-01T19:03:30.486119+00:00,48746914,10,Monetization Gateway,150,85
+2026-07-01T19:03:30.486119+00:00,48747975,11,Ask HN: Who wants to be hired? (July 2026),59,143
+2026-07-01T19:03:30.486119+00:00,48750527,12,Hanami 3.0: In Full Bloom,23,4
+2026-07-01T19:03:30.486119+00:00,48746752,13,Launch HN: Parsewise (YC P25) – Reason Across Documents with an API,35,32
+2026-07-01T19:03:30.486119+00:00,48750247,14,Are readers generating fiction with AI models?,15,28
+2026-07-01T19:03:30.486119+00:00,48741609,15,Fixing a kubelet memory leak in Kubernetes 1.36,45,9
+2026-07-01T19:03:30.486119+00:00,48749313,16,Reduce GVisor Cold Starts with GPU Snapshotting,35,12
+2026-07-01T19:03:30.486119+00:00,48672848,18,1-Bit Pixel Art Emojis,82,13
+2026-07-01T19:03:30.486119+00:00,48747389,19,Sony Deletes 551 Movies PlayStation Owners Paid For,297,149
+2026-07-01T19:03:30.486119+00:00,48750000,20,"A complete ClickHouse OLAP engine, compiled to WebAssembly",11,0
+2026-07-01T19:03:30.486119+00:00,48744518,21,Asahi Linux 7.1 Progress Report,466,165
+2026-07-01T19:03:30.486119+00:00,48749752,22,Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers,24,3
+2026-07-01T19:03:30.486119+00:00,48711052,23,Newly discovered spider builds spring loaded snare to catch ants,219,50
+2026-07-01T19:03:30.486119+00:00,48732582,24,Red Programming Language: Static linking support,59,10
+2026-07-01T19:03:30.486119+00:00,48745113,25,Nintendo has raised its employees base salary by 10%,427,253
+2026-07-01T19:03:30.486119+00:00,48703200,26,Show HN: QR code renderer in a TrueType font,24,8
+2026-07-01T19:03:30.486119+00:00,48750427,27,Chasing the OPNsense RCE: The Story Behind My First CVEs,12,0
+2026-07-01T19:03:30.486119+00:00,48744606,28,Apple 'Hide My Email' vulnerability reveals peoples' real email addresses,141,23
+2026-07-01T19:03:30.486119+00:00,48747407,29,Ray Tracer in SQL,38,10
+2026-07-01T19:03:30.486119+00:00,48740771,30,Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5,891,601
+2026-07-01T19:03:30.486119+00:00,48750989,31,"Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries",3,0
+2026-07-01T19:03:30.486119+00:00,48750402,32,Pieces: Social Network for People,4,4
+2026-07-01T19:03:30.486119+00:00,48750373,33,Mortality associated with non-optimal ambient temperatures from 2000 to 2019,4,0
+2026-07-01T19:03:30.486119+00:00,48750336,34,Show HN: AnalystAIPack – 118 runnable agent skills for malware analysis and RE,4,1
+2026-07-01T19:03:30.486119+00:00,48721064,35,Because It Speaks in Words,9,1
+2026-07-01T19:03:30.486119+00:00,48746445,36,"Most arguments are about ego, not ideas",590,456
+2026-07-01T19:03:30.486119+00:00,48739038,37,Show HN: Morph Reflexes – Multi-head classifiers for agent traces,11,1
+2026-07-01T19:03:30.486119+00:00,48741748,38,ArXiv's Next Chapter,256,83
+2026-07-01T19:03:30.486119+00:00,48750737,39,Show HN: LIBR tracing with source ledger rows and byte-exact PDF verification,4,2
+2026-07-01T19:03:30.486119+00:00,48750631,40,About the Digital Art,3,0
+2026-07-01T19:03:30.486119+00:00,48750008,41,Salt v1.0.0 – a systems language with Z3 theorem proving in the compiler,11,2
+2026-07-01T19:03:30.486119+00:00,48749868,42,Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining,4,0
+2026-07-01T19:03:30.486119+00:00,48721434,43,Obfuscation: Building the final boss of cryptography (Part I),73,10
+2026-07-01T19:03:30.486119+00:00,48734373,44,Claude Code is steganographically marking requests,2334,700
+2026-07-01T19:03:30.486119+00:00,48720682,45,Show HN: PMB – local memory for coding agents that shows if it is used,13,7
+2026-07-01T19:03:30.486119+00:00,48742483,46,The first early human eggs from stem cells,158,127
+2026-07-01T19:03:30.486119+00:00,48744655,47,A retrospective of my time on the internet,240,249
+2026-07-01T19:03:30.486119+00:00,48750456,48,Fable 5 will default to Opus 4.8 for coding tasks,19,10
+2026-07-01T19:03:30.486119+00:00,48726407,49,Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker,27,6
+2026-07-01T19:03:30.486119+00:00,48721345,50,A deep dive into SmallVector:push_back,33,10
