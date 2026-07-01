@@ -7860,3 +7860,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-01T13:37:47.056994+00:00,48730713,48,Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs),154,14
 2026-07-01T13:37:47.056994+00:00,48739919,49,TabFM: A zero-shot foundation model for tabular data,82,10
 2026-07-01T13:37:47.056994+00:00,48735446,50,Show HN: My 13-year-old built an ant colony tracker,68,46
+2026-07-01T16:32:47.006961+00:00,48747304,1,"For first time, a cell built from scratch grows and divides",201,54
+2026-07-01T16:32:47.006961+00:00,48745456,2,Physical disc production ending in Jan 2028 for new games on PlayStation,168,213
+2026-07-01T16:32:47.006961+00:00,48745445,3,"Announcing the release of Box3D, an open source 3D physics engine",165,32
+2026-07-01T16:32:47.006961+00:00,48749313,4,Reduce GVisor Cold Starts with GPU Snapshotting,10,1
+2026-07-01T16:32:47.006961+00:00,48748518,5,How We Made IPFS Content Publishing 10x Faster,15,0
+2026-07-01T16:32:47.006961+00:00,48746076,6,Internal Combustion Engine,66,3
+2026-07-01T16:32:47.006961+00:00,48746914,7,Monetization Gateway,70,14
+2026-07-01T16:32:47.006961+00:00,48740771,8,Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5,843,555
+2026-07-01T16:32:47.006961+00:00,48747389,9,Sony Deletes 551 Movies PlayStation Owners Paid For,153,64
+2026-07-01T16:32:47.006961+00:00,48744518,10,Asahi Linux 7.1 Progress Report,430,134
+2026-07-01T16:32:47.006961+00:00,48732582,11,Red Programming Language: Static linking support,41,6
+2026-07-01T16:32:47.006961+00:00,48745113,13,Nintendo has raised its employees base salary by 10%,348,175
+2026-07-01T16:32:47.006961+00:00,48672848,14,1-Bit Pixel Art Emojis,38,5
+2026-07-01T16:32:47.006961+00:00,48746752,15,Launch HN: Parsewise (YC P25) – Reason Across Documents with an API,23,15
+2026-07-01T16:32:47.006961+00:00,48711052,16,Newly discovered spider builds spring loaded snare to catch ants,197,43
+2026-07-01T16:32:47.006961+00:00,48746445,17,"Most arguments are about ego, not ideas",510,394
+2026-07-01T16:32:47.006961+00:00,48746940,18,The C to Rust migration book,16,8
+2026-07-01T16:32:47.006961+00:00,48748679,19,"Meta loses bid to dismiss US states' claims that FB, Instagram addict children",37,1
+2026-07-01T16:32:47.006961+00:00,48747407,20,Ray Tracer in SQL,19,2
+2026-07-01T16:32:47.006961+00:00,48720682,21,Show HN: PMB – local memory for coding agents that shows if it is used,4,0
+2026-07-01T16:32:47.006961+00:00,48736605,22,Claude Sonnet 5,1216,752
+2026-07-01T16:32:47.006961+00:00,48748182,23,Show HN: GolemUI – The new paradigm for JavaScript forms,8,5
+2026-07-01T16:32:47.006961+00:00,48741748,24,ArXiv's Next Chapter,233,70
+2026-07-01T16:32:47.006961+00:00,48721434,25,Obfuscation: Building the final boss of cryptography (Part I),63,6
+2026-07-01T16:32:47.006961+00:00,48721345,26,A deep dive into SmallVector:push_back,27,6
+2026-07-01T16:32:47.006961+00:00,48726407,27,Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker,23,3
+2026-07-01T16:32:47.006961+00:00,48740698,28,Google copybara: moving code between repositories,277,54
+2026-07-01T16:32:47.006961+00:00,48742483,29,The first early human eggs from stem cells,153,123
+2026-07-01T16:32:47.006961+00:00,48734373,30,Claude Code is steganographically marking requests,2320,693
+2026-07-01T16:32:47.006961+00:00,48744655,31,A retrospective of my time on the internet,228,221
+2026-07-01T16:32:47.006961+00:00,48735770,32,Claude Science,548,160
+2026-07-01T16:32:47.006961+00:00,48738938,33,Leanstral 1.5,287,129
+2026-07-01T16:32:47.006961+00:00,48735444,34,Nano Banana 2 Lite,422,178
+2026-07-01T16:32:47.006961+00:00,48747038,35,"This Cell Feeds, Grows and Reproduces. and It's Manmade",33,6
+2026-07-01T16:32:47.006961+00:00,48719573,36,"I don't maintain my homelab, it maintains itself",62,56
+2026-07-01T16:32:47.006961+00:00,48712289,37,How does a pull-back car work? Illustrated teardown,260,40
+2026-07-01T16:32:47.006961+00:00,48723484,38,CERN bids farewell to the LHC and enters Long Shutdown 3,302,97
+2026-07-01T16:32:47.006961+00:00,48748392,39,Spanish government 'quietly bans use of Palantir' in critical state systems,9,1
+2026-07-01T16:32:47.006961+00:00,48742514,40,Matrix Orthogonalization Improves Memory in Recurrent Models,74,23
+2026-07-01T16:32:47.006961+00:00,48738985,41,I ported Kubernetes to the browser,320,95
+2026-07-01T16:32:47.006961+00:00,48704289,42,Building a custom octocopter from scratch with no prior hardware experience,395,83
+2026-07-01T16:32:47.006961+00:00,48749367,43,Florida Is Executing Prisoners at a Record Pace,4,0
+2026-07-01T16:32:47.006961+00:00,48744446,44,Pine64 launch $50 smart speaker for Home Assistant tinkerers,110,51
+2026-07-01T16:32:47.006961+00:00,48741359,45,Forestiere Underground Gardens,91,21
+2026-07-01T16:32:47.006961+00:00,48738262,46,"Tokyo has only two barley tea makers, we visited one to see how mugicha is made",156,43
+2026-07-01T16:32:47.006961+00:00,48724995,47,Google's New reCAPTCHA Wants Your Camera Access and 21 Points of Your Hand,84,66
+2026-07-01T16:32:47.006961+00:00,48736137,48,I built a mmWave material classification radar (2025),198,57
+2026-07-01T16:32:47.006961+00:00,48733043,49,Have you restarted your computer this week?,208,381
+2026-07-01T16:32:47.006961+00:00,48742049,50,Single header Parser Combinators for C,60,12
