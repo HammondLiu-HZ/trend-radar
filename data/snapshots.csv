@@ -7958,3 +7958,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-01T19:03:30.486119+00:00,48750456,48,Fable 5 will default to Opus 4.8 for coding tasks,19,10
 2026-07-01T19:03:30.486119+00:00,48726407,49,Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker,27,6
 2026-07-01T19:03:30.486119+00:00,48721345,50,A deep dive into SmallVector:push_back,33,10
+2026-07-01T21:42:56.830214+00:00,48751752,1,ZCode: Claude Code from the Makers of GLM,239,123
+2026-07-01T21:42:56.830214+00:00,48747304,2,"For first time, a cell built from scratch grows and divides",611,210
+2026-07-01T21:42:56.830214+00:00,48750710,3,What to learn to be a graphics programmer,164,68
+2026-07-01T21:42:56.830214+00:00,48752905,4,Show HN: Searchable directory of 22k+ products from worker-owned co-ops,26,6
+2026-07-01T21:42:56.830214+00:00,48747116,5,FFmpeg 9.1's new AAC encoder,203,73
+2026-07-01T21:42:56.830214+00:00,48745456,6,Physical disc production ending in Jan 2028 for new games on PlayStation,474,535
+2026-07-01T21:42:56.830214+00:00,48747976,8,Ask HN: Who is hiring? (July 2026),123,141
+2026-07-01T21:42:56.830214+00:00,48746076,9,Internal Combustion Engine (2021),244,55
+2026-07-01T21:42:56.830214+00:00,48752030,10,Fable 5 Is Back,189,160
+2026-07-01T21:42:56.830214+00:00,48745445,11,"Box3D, an open source 3D physics engine",355,81
+2026-07-01T21:42:56.830214+00:00,48752843,12,One KW wind turbine without civil engineering,20,15
+2026-07-01T21:42:56.830214+00:00,48746914,13,Monetization Gateway: Charge for any resource behind Cloudflare via x402,207,120
+2026-07-01T21:42:56.830214+00:00,48748518,14,How We Made IPFS Content Publishing 10x Faster,118,34
+2026-07-01T21:42:56.830214+00:00,48746752,15,Launch HN: Parsewise (YC P25) – Reason Across Documents with an API,43,39
+2026-07-01T21:42:56.830214+00:00,48747975,16,Ask HN: Who wants to be hired? (July 2026),88,205
+2026-07-01T21:42:56.830214+00:00,48750373,17,Mortality associated with non-optimal ambient temperatures from 2000 to 2019,38,5
+2026-07-01T21:42:56.830214+00:00,48750934,18,"Most rewrites serve the engineer, not the business",28,21
+2026-07-01T21:42:56.830214+00:00,48750527,19,Hanami 3.0: In Full Bloom,49,11
+2026-07-01T21:42:56.830214+00:00,48723102,20,The Apple Disk II Controller Card,6,0
+2026-07-01T21:42:56.830214+00:00,48672848,21,1-Bit Pixel Art Emojis,122,17
+2026-07-01T21:42:56.830214+00:00,48750989,22,"Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",24,50
+2026-07-01T21:42:56.830214+00:00,48753220,23,I Left Harry's All-Night Hamburgers,3,1
+2026-07-01T21:42:56.830214+00:00,48748182,24,Show HN: GolemUI – Declarative Form Engine,27,48
+2026-07-01T21:42:56.830214+00:00,48750000,25,"A complete ClickHouse OLAP engine, compiled to WebAssembly",42,5
+2026-07-01T21:42:56.830214+00:00,48747389,26,Sony Deletes 551 Movies PlayStation Owners Paid For,435,198
+2026-07-01T21:42:56.830214+00:00,48731687,27,Generating Images with a 2025 Android,13,0
+2026-07-01T21:42:56.830214+00:00,48750593,28,Building Gin: Simple over Easy,52,17
+2026-07-01T21:42:56.830214+00:00,48741609,29,Fixing a kubelet memory leak in Kubernetes 1.36,64,13
+2026-07-01T21:42:56.830214+00:00,48744518,30,Asahi Linux 7.1 Progress Report,510,182
+2026-07-01T21:42:56.830214+00:00,48711052,31,Newly discovered spider builds spring loaded snare to catch ants,239,58
+2026-07-01T21:42:56.830214+00:00,48744606,32,Apple 'Hide My Email' vulnerability reveals peoples' real email addresses,224,48
+2026-07-01T21:42:56.830214+00:00,48749313,33,Reduce GVisor Cold Starts with GPU Snapshotting,43,15
+2026-07-01T21:42:56.830214+00:00,48703200,34,Show HN: QR code renderer in a TrueType font,67,12
+2026-07-01T21:42:56.830214+00:00,48740771,35,Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5,908,628
+2026-07-01T21:42:56.830214+00:00,48745113,36,Nintendo has raised its employees base salary by 10%,482,290
+2026-07-01T21:42:56.830214+00:00,48732582,37,Red Programming Language: Static linking support,68,13
+2026-07-01T21:42:56.830214+00:00,48697241,38,Understanding the Linux Kernel: The Scheduler,21,7
+2026-07-01T21:42:56.830214+00:00,48749752,39,Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers,31,4
+2026-07-01T21:42:56.830214+00:00,48741748,40,ArXiv's Next Chapter,266,88
+2026-07-01T21:42:56.830214+00:00,48747407,41,Ray Tracer in SQL,46,15
+2026-07-01T21:42:56.830214+00:00,48750008,42,Salt v1.0.0 – a systems language with Z3 theorem proving in the compiler,19,8
+2026-07-01T21:42:56.830214+00:00,48750803,43,Learn Vim motions with an ice-cream van,11,2
+2026-07-01T21:42:56.830214+00:00,48750402,44,Pieces: Social Network for People,10,10
+2026-07-01T21:42:56.830214+00:00,48734373,45,Claude Code is steganographically marking requests,2351,709
+2026-07-01T21:42:56.830214+00:00,48721434,46,Obfuscation: Building the final boss of cryptography (Part I),77,11
+2026-07-01T21:42:56.830214+00:00,48749961,47,Codex reasoning-token clustering at 516 may be leading to degraded performance,10,1
+2026-07-01T21:42:56.830214+00:00,48746445,48,"Most arguments are about ego, not ideas",632,496
+2026-07-01T21:42:56.830214+00:00,48721064,49,Because It Speaks in Words,15,4
+2026-07-01T21:42:56.830214+00:00,48742483,50,The first early human eggs from stem cells,165,127
