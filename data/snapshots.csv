@@ -7762,3 +7762,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-01T05:46:57.401778+00:00,48741943,48,America can switch off AI. Europe must switch gears before it's too late,16,4
 2026-07-01T05:46:57.401778+00:00,48742630,49,Mag 7 value shrinks by $2.3T amid AI spending jitters,3,0
 2026-07-01T05:46:57.401778+00:00,48732741,50,From Julia to Rust: a differentiable tensor stack for scientific computing,40,6
+2026-07-01T10:05:03.991699+00:00,48734373,1,Claude Code is steganographically marking requests,2031,589
+2026-07-01T10:05:03.991699+00:00,48736605,2,Claude Sonnet 5,1134,669
+2026-07-01T10:05:03.991699+00:00,48743472,3,Godot will no longer accept AI-authored code contributions,150,78
+2026-07-01T10:05:03.991699+00:00,48711052,4,Newly discovered spider builds spring loaded snare to catch ants,21,3
+2026-07-01T10:05:03.991699+00:00,48741748,5,ArXiv's Next Chapter,119,40
+2026-07-01T10:05:03.991699+00:00,48740698,6,Google copybara: moving code between repositories,210,37
+2026-07-01T10:05:03.991699+00:00,48742514,7,Matrix Orthogonalization Improves Memory in Recurrent Models,41,2
+2026-07-01T10:05:03.991699+00:00,48742483,9,The first early human eggs from stem cells,117,69
+2026-07-01T10:05:03.991699+00:00,48735770,10,Claude Science,495,146
+2026-07-01T10:05:03.991699+00:00,48740771,11,Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5,691,398
+2026-07-01T10:05:03.991699+00:00,48735444,12,Nano Banana 2 Lite,383,152
+2026-07-01T10:05:03.991699+00:00,48738938,13,Leanstral 1.5,229,78
+2026-07-01T10:05:03.991699+00:00,48712289,14,How does a pull-back car work? Illustrated teardown,197,37
+2026-07-01T10:05:03.991699+00:00,48743655,15,Register Korea's First PC 'SE-8001' as a National Important Material,7,3
+2026-07-01T10:05:03.991699+00:00,48723484,16,CERN bids farewell to the LHC and enters Long Shutdown 3,234,70
+2026-07-01T10:05:03.991699+00:00,48741359,17,Forestiere Underground Gardens,68,15
+2026-07-01T10:05:03.991699+00:00,48738985,18,I ported Kubernetes to the browser,265,80
+2026-07-01T10:05:03.991699+00:00,48739466,19,From brain waves to words: a new path to communication without surgery,159,82
+2026-07-01T10:05:03.991699+00:00,48692274,20,"Pystd, similar-ish functionality with a fraction of the compile time",28,25
+2026-07-01T10:05:03.991699+00:00,48704289,21,Building a custom octocopter from scratch with no prior hardware experience,370,78
+2026-07-01T10:05:03.991699+00:00,48738262,22,"Tokyo has only two barley tea makers, we visited one to see how mugicha is made",137,31
+2026-07-01T10:05:03.991699+00:00,48742049,23,Single header Parser Combinators for C,31,3
+2026-07-01T10:05:03.991699+00:00,48710770,24,Ante: A new way to blend borrow checking and reference counting,93,21
+2026-07-01T10:05:03.991699+00:00,48736137,25,I built a mmWave material classification radar (2025),183,49
+2026-07-01T10:05:03.991699+00:00,48740135,26,Hatari – Online Atari ST/STE/TT/Falcon Emulator,69,9
+2026-07-01T10:05:03.991699+00:00,48744446,27,Pine64 launch $50 smart speaker for Home Assistant tinkerers,5,1
+2026-07-01T10:05:03.991699+00:00,48733043,28,Have you restarted your computer this week?,186,326
+2026-07-01T10:05:03.991699+00:00,48689744,29,"Scaling Laws, Carefully",63,16
+2026-07-01T10:05:03.991699+00:00,48701721,30,Stroustrup's Rule (2024),102,27
+2026-07-01T10:05:03.991699+00:00,48732056,31,Knoppix,310,113
+2026-07-01T10:05:03.991699+00:00,48665958,32,Long Island's decommissioned nuclear power plant,133,67
+2026-07-01T10:05:03.991699+00:00,48721617,33,Homemade Transistor from Cadmium Sulfide Photocell (2009),7,5
+2026-07-01T10:05:03.991699+00:00,48711788,34,How information theory saved my word game,19,19
+2026-07-01T10:05:03.991699+00:00,48718716,35,"Reading the internals of Postgres: Database cluster, databases, and tables",80,1
+2026-07-01T10:05:03.991699+00:00,48688685,36,1.38 Millimeter Microcontroller,153,97
+2026-07-01T10:05:03.991699+00:00,48731989,37,Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852),179,59
+2026-07-01T10:05:03.991699+00:00,48739919,38,TabFM: A zero-shot foundation model for tabular data,79,10
+2026-07-01T10:05:03.991699+00:00,48742717,39,Meta is adding rate limits and soft paywall to smart glasses,39,29
+2026-07-01T10:05:03.991699+00:00,48735446,40,Show HN: My 13-year-old built an ant colony tracker,62,43
+2026-07-01T10:05:03.991699+00:00,48702917,41,I built a 10 inch mini rack from aluminium extrusions,86,46
+2026-07-01T10:05:03.991699+00:00,48730713,42,Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs),151,14
+2026-07-01T10:05:03.991699+00:00,48724274,43,Segmenting Robot Video into Actionable Subtasks,14,2
+2026-07-01T10:05:03.991699+00:00,48742176,44,How employment changes when firms adopt generative AI,45,37
+2026-07-01T10:05:03.991699+00:00,48707558,45,Hengefinder,33,12
+2026-07-01T10:05:03.991699+00:00,48682979,46,6 years and 360 patches to clean all instances of strnpy out of the Linux kernel,56,34
+2026-07-01T10:05:03.991699+00:00,48699010,47,A peek into Reddit's anti-spam internals,108,28
+2026-07-01T10:05:03.991699+00:00,48702361,48,Set up your own DoH (DNS over HTTPS) service,74,24
+2026-07-01T10:05:03.991699+00:00,48660258,49,RF hacking my cloud-controlled ceiling fan,58,18
+2026-07-01T10:05:03.991699+00:00,48687640,50,"Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",61,29
