@@ -8399,3 +8399,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-02T20:24:46.083140+00:00,48765630,48,"Claude's AskUserQuestion: ""No response after 60s – continued without an answer""",44,48
 2026-07-02T20:24:46.083140+00:00,48760840,49,Winamp Skin Museum,100,57
 2026-07-02T20:24:46.083140+00:00,48726125,50,What Breaks a Cell's Ribs Can Make It Stronger,13,4
+2026-07-02T22:14:33.874792+00:00,48767347,1,Virginia bans sale of geolocation data,138,16
+2026-07-02T22:14:33.874792+00:00,48765663,2,Exapunks (2018),179,66
+2026-07-02T22:14:33.874792+00:00,48763035,3,"Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",358,170
+2026-07-02T22:14:33.874792+00:00,48766209,4,EFF letter to FTC on X consent order (2 July 2026) [pdf],72,19
+2026-07-02T22:14:33.874792+00:00,48766598,5,Lightning Memory-Mapped Database Manager (LMDB) 1.0,40,17
+2026-07-02T22:14:33.874792+00:00,48762098,6,Podman v6.0.0,300,111
+2026-07-02T22:14:33.874792+00:00,48759634,7,"PeerTube is a free, decentralized and federated video platform",440,197
+2026-07-02T22:14:33.874792+00:00,48765607,8,Vulkan is now available on NetBSD,59,14
+2026-07-02T22:14:33.874792+00:00,48765639,9,Postgres transactions are a distributed systems superpower,63,30
+2026-07-02T22:14:33.874792+00:00,48702874,10,Reality has a surprising amount of detail,18,4
+2026-07-02T22:14:33.874792+00:00,48761118,11,How to ask for help from people who don't know you,316,48
+2026-07-02T22:14:33.874792+00:00,48766026,12,The Short Leash AI Coding Method for Beating Fable,36,21
+2026-07-02T22:14:33.874792+00:00,48765830,13,JEP 539: Strict Field Initialization in the JVM moved to preview,43,12
+2026-07-02T22:14:33.874792+00:00,48766286,14,Great Salt Lake Tracker – Grow the Flow,22,0
+2026-07-02T22:14:33.874792+00:00,48739459,15,Superpowers 6,29,8
+2026-07-02T22:14:33.874792+00:00,48767515,16,"BlastRadar – paste a Git diff, get a production risk score in 10 seconds",5,0
+2026-07-02T22:14:33.874792+00:00,48762862,17,Launch HN: Manufact (YC S25) – MCP Cloud,95,60
+2026-07-02T22:14:33.874792+00:00,48763246,18,Show HN: zkGolf – Competitive optimization of formally verified circuits,30,2
+2026-07-02T22:14:33.874792+00:00,48766005,19,Claude-real-video － any LLM can watch a video,41,9
+2026-07-02T22:14:33.874792+00:00,48761944,20,Immich 3.0,87,27
+2026-07-02T22:14:33.874792+00:00,48763790,21,24-bit/192kHz music downloads and why they make no sense (2012),72,99
+2026-07-02T22:14:33.874792+00:00,48762725,22,Spain Orders Blacklist of Palantir from Public and Private Companies,492,156
+2026-07-02T22:14:33.874792+00:00,48766124,23,A New Catalog of Stellar Rotation Periods for over a Million Stars,14,2
+2026-07-02T22:14:33.874792+00:00,48766297,25,Wireless LAN SD,17,16
+2026-07-02T22:14:33.874792+00:00,48745118,26,Client-side load balancing at a million requests per second,31,5
+2026-07-02T22:14:33.874792+00:00,48755075,27,LibreCAD in the Browser,61,5
+2026-07-02T22:14:33.874792+00:00,48739792,28,Ask HN: Since when does Craigslist's front page have emojis?,30,28
+2026-07-02T22:14:33.874792+00:00,48761536,29,"AI can't be listed as inventor on patent applications, Japan's top court rules",338,181
+2026-07-02T22:14:33.874792+00:00,48702006,30,German button maker searched rivers of American Midwest for valuable shells,129,40
+2026-07-02T22:14:33.874792+00:00,48760201,31,Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train,134,30
+2026-07-02T22:14:33.874792+00:00,48760490,32,NSA tries to weaken mlkem standardisation?,95,60
+2026-07-02T22:14:33.874792+00:00,48755965,33,Android Developer Verification: Threat masquerading as protection,1546,653
+2026-07-02T22:14:33.874792+00:00,48762038,34,Show HN: CLI tool for detecting non-exact code duplication with embedding models,72,32
+2026-07-02T22:14:33.874792+00:00,48758048,35,The fall of the theorem economy,245,102
+2026-07-02T22:14:33.874792+00:00,48767412,36,Swift-Nio-QUIC,4,0
+2026-07-02T22:14:33.874792+00:00,48767401,37,'Separate in name and power': How America reinvented English,5,1
+2026-07-02T22:14:33.874792+00:00,48761229,38,The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing,417,200
+2026-07-02T22:14:33.874792+00:00,48766242,39,Show HN: Bramble – Local-first password manager,9,1
+2026-07-02T22:14:33.874792+00:00,48706825,40,How VictoriaLogs Stores Your Logs in a Columnar Layout,47,7
+2026-07-02T22:14:33.874792+00:00,48732716,41,Modeling the Covid-19 Outbreak with J (2020),17,0
+2026-07-02T22:14:33.874792+00:00,48766767,42,The Wrecking-Ball Revolution,5,2
+2026-07-02T22:14:33.874792+00:00,48759870,43,The primary purpose of code review is to find code that will be hard to maintain,315,159
+2026-07-02T22:14:33.874792+00:00,48761294,44,Show HN: A graph paper generator that renders vector PDFs in the browser,88,20
+2026-07-02T22:14:33.874792+00:00,48766076,45,Job seekers giving up: Labor force participation falls to lowest in 50 years,121,103
+2026-07-02T22:14:33.874792+00:00,48767914,46,U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators,7,0
+2026-07-02T22:14:33.874792+00:00,48710537,47,WinPE as a stateless harness for Windows driver testing and fuzzing,79,5
+2026-07-02T22:14:33.874792+00:00,48756840,48,CursorBench 3.1,155,92
+2026-07-02T22:14:33.874792+00:00,48766009,49,Rethinking Mean-Field Theory for Neural Networks,7,1
+2026-07-02T22:14:33.874792+00:00,48755928,50,Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers,163,104
