@@ -8056,3 +8056,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-01T23:22:35.889366+00:00,48744606,48,Apple 'Hide My Email' vulnerability reveals peoples' real email addresses,239,61
 2026-07-01T23:22:35.889366+00:00,48749313,49,Reduce GVisor Cold Starts with GPU Snapshotting,46,15
 2026-07-01T23:22:35.889366+00:00,48745113,50,Nintendo has raised its employees base salary by 10%,486,305
+2026-07-02T04:12:53.613737+00:00,48755731,1,Bring Back Crappy Forums,53,28
+2026-07-02T04:12:53.613737+00:00,48753715,2,ZCode – Harness for GLM-5.2,272,236
+2026-07-02T04:12:53.613737+00:00,48752905,3,Show HN: Searchable directory of 22k+ products from worker-owned co-ops,283,58
+2026-07-02T04:12:53.613737+00:00,48755005,4,Building an Open-Source Robot Vacuum – Meet Oomwoo,94,10
+2026-07-02T04:12:53.613737+00:00,48747304,5,"For first time, a cell built from scratch grows and divides",775,260
+2026-07-02T04:12:53.613737+00:00,48755928,6,Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers,17,10
+2026-07-02T04:12:53.613737+00:00,48754963,7,"Global review confirms mRNA vaccines are safe, effective and full of promise ",202,172
+2026-07-02T04:12:53.613737+00:00,48750710,8,What to learn to be a graphics programmer,268,145
+2026-07-02T04:12:53.613737+00:00,48745456,9,Physical disc production ending in Jan 2028 for new games on PlayStation,636,663
+2026-07-02T04:12:53.613737+00:00,48747116,10,FFmpeg 9.1's new AAC encoder,315,102
+2026-07-02T04:12:53.613737+00:00,48754080,11,The Underhanded C Contest,57,7
+2026-07-02T04:12:53.613737+00:00,48754700,12,The <Usermedia> HTML Element,54,24
+2026-07-02T04:12:53.613737+00:00,48732860,13,How do wombats poop cubes?,68,27
+2026-07-02T04:12:53.613737+00:00,48753069,14,Qualcomm Linux 2.0,67,24
+2026-07-02T04:12:53.613737+00:00,48745445,15,"Box3D, an open source 3D physics engine",444,101
+2026-07-02T04:12:53.613737+00:00,48707979,16,The vibration of the pager has a sound all its own,7,1
+2026-07-02T04:12:53.613737+00:00,48753979,17,Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance,81,60
+2026-07-02T04:12:53.613737+00:00,48746076,18,Internal Combustion Engine (2021),296,80
+2026-07-02T04:12:53.613737+00:00,48746914,19,Monetization Gateway: Charge for any resource behind Cloudflare via x402,266,182
+2026-07-02T04:12:53.613737+00:00,48750989,21,"Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",109,149
+2026-07-02T04:12:53.613737+00:00,48747976,22,Ask HN: Who is hiring? (July 2026),168,183
+2026-07-02T04:12:53.613737+00:00,48753524,23,Chip Off the Old Block,60,7
+2026-07-02T04:12:53.613737+00:00,48723102,24,The Apple Disk II Controller Card (2021),64,16
+2026-07-02T04:12:53.613737+00:00,48754155,25,Healthy but sedentary people show early decline in cellular energy production,87,64
+2026-07-02T04:12:53.613737+00:00,48746752,26,Launch HN: Parsewise (YC P25) – Reason Across Documents with an API,50,46
+2026-07-02T04:12:53.613737+00:00,48748518,27,How We Made IPFS Content Publishing 10x Faster,152,51
+2026-07-02T04:12:53.613737+00:00,48708602,28,Show HN: Unobin compiles Infrastructure as Code to one binary,6,1
+2026-07-02T04:12:53.613737+00:00,48747975,29,Ask HN: Who wants to be hired? (July 2026),111,267
+2026-07-02T04:12:53.613737+00:00,48752030,30,Fable 5 is Back,348,329
+2026-07-02T04:12:53.613737+00:00,48709760,31,Flavor Graveyard,32,19
+2026-07-02T04:12:53.613737+00:00,48672848,32,1-Bit Pixel Art Emojis,153,26
+2026-07-02T04:12:53.613737+00:00,48711565,33,Visual Basic on the PC with Windows 3.1,22,16
+2026-07-02T04:12:53.613737+00:00,48752949,34,OpenWiki: CLI that writes and maintains agent documentation for your codebase,30,6
+2026-07-02T04:12:53.613737+00:00,48750527,35,Hanami 3.0: In Full Bloom,83,26
+2026-07-02T04:12:53.613737+00:00,48753220,36,I Left Harry's All-Night Hamburgers (2013),93,11
+2026-07-02T04:12:53.613737+00:00,48740771,37,Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5,925,642
+2026-07-02T04:12:53.613737+00:00,48750373,38,Mortality associated with non-optimal ambient temperatures from 2000 to 2019,58,20
+2026-07-02T04:12:53.613737+00:00,48711052,39,Newly discovered spider builds spring loaded snare to catch ants,245,59
+2026-07-02T04:12:53.613737+00:00,48744518,40,Asahi Linux 7.1 Progress Report,536,201
+2026-07-02T04:12:53.613737+00:00,48747389,41,Sony Deletes 551 Movies PlayStation Owners Paid For,534,244
+2026-07-02T04:12:53.613737+00:00,48750008,42,Show HN: Salt – a systems language with Z3 theorem proving in the compiler,30,13
+2026-07-02T04:12:53.613737+00:00,48747733,43,The GNU Emacs Architecture: Unlocking the Core [pdf],68,6
+2026-07-02T04:12:53.613737+00:00,48755075,44,LibreCAD in the Browser,8,0
+2026-07-02T04:12:53.613737+00:00,48750000,45,"A complete ClickHouse OLAP engine, compiled to WebAssembly",57,12
+2026-07-02T04:12:53.613737+00:00,48733433,46,"Show HN: Curvytron 2, I rewrote my browser party game, 10 years later",10,3
+2026-07-02T04:12:53.613737+00:00,48741748,47,ArXiv's Next Chapter,274,89
+2026-07-02T04:12:53.613737+00:00,48748182,48,Show HN: GolemUI – Declarative Form Engine,37,55
+2026-07-02T04:12:53.613737+00:00,48734373,49,Claude Code is steganographically marking requests,2371,717
+2026-07-02T04:12:53.613737+00:00,48745113,50,Nintendo has raised its employees base salary by 10%,510,312
