@@ -8203,3 +8203,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-02T11:40:26.522261+00:00,48754700,48,The <Usermedia> HTML Element,75,44
 2026-07-02T11:40:26.522261+00:00,48750527,49,Hanami 3.0: In Full Bloom,94,26
 2026-07-02T11:40:26.522261+00:00,48745445,50,"Box3D, an open source 3D physics engine",488,114
+2026-07-02T14:22:44.971195+00:00,48761493,1,Show HN: ZeroFS – A log-structured filesystem for S3,29,11
+2026-07-02T14:22:44.971195+00:00,48755965,2,Android Developer Verification: Threat masquerading as Protection,1051,425
+2026-07-02T14:22:44.971195+00:00,48759870,3,Many people misunderstand the purpose of code review,54,33
+2026-07-02T14:22:44.971195+00:00,48760201,4,Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train,32,7
+2026-07-02T14:22:44.971195+00:00,48756602,5,Kimi K2.7 Code is generally available in GitHub Copilot,265,109
+2026-07-02T14:22:44.971195+00:00,48759761,6,Vite+ Beta,121,68
+2026-07-02T14:22:44.971195+00:00,48758048,7,The fall of the theorem economy,136,54
+2026-07-02T14:22:44.971195+00:00,48753715,9,ZCode – Harness for GLM-5.2,458,312
+2026-07-02T14:22:44.971195+00:00,48755005,10,"Oomwoo, an open-source robot vacuum you build yourself",388,73
+2026-07-02T14:22:44.971195+00:00,48702006,11,German Button Maker Searched Rivers of American Midwest for Valuable Shells,15,1
+2026-07-02T14:22:44.971195+00:00,48760598,12,AI fake news complaining about how AI fake news is the death of real news,93,23
+2026-07-02T14:22:44.971195+00:00,48760289,13,This blog is written in en-GB,259,220
+2026-07-02T14:22:44.971195+00:00,48745590,14,"Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",12,2
+2026-07-02T14:22:44.971195+00:00,48710537,15,WinPE as a stateless harness for Windows driver testing and fuzzing,32,0
+2026-07-02T14:22:44.971195+00:00,48758970,16,Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass,201,120
+2026-07-02T14:22:44.971195+00:00,48724127,17,Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction,70,19
+2026-07-02T14:22:44.971195+00:00,48755731,18,Bring back crappy forums,402,255
+2026-07-02T14:22:44.971195+00:00,48758309,19,Google loses fight over record $4.7B EU antitrust fine,212,169
+2026-07-02T14:22:44.971195+00:00,48760669,20,Germany’s Infineon opens major chip plant as EU seeks tech autonomy,30,3
+2026-07-02T14:22:44.971195+00:00,48750710,21,What to learn to be a graphics programmer,390,212
+2026-07-02T14:22:44.971195+00:00,48747116,22,FFmpeg 9.1's new AAC encoder,417,133
+2026-07-02T14:22:44.971195+00:00,48760840,23,Winamp Skin Museum,19,7
+2026-07-02T14:22:44.971195+00:00,48740971,24,Why jet engines aren't made in China,228,212
+2026-07-02T14:22:44.971195+00:00,48753979,25,Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance,205,220
+2026-07-02T14:22:44.971195+00:00,48747976,26,Ask HN: Who is hiring? (July 2026),222,230
+2026-07-02T14:22:44.971195+00:00,48732860,27,How do wombats poop cubes? (2021),151,91
+2026-07-02T14:22:44.971195+00:00,48750989,28,"Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",214,315
+2026-07-02T14:22:44.971195+00:00,48747304,29,"For first time, a cell built from scratch grows and divides",891,280
+2026-07-02T14:22:44.971195+00:00,48746914,30,Monetization Gateway: Charge for any resource behind Cloudflare via x402,329,226
+2026-07-02T14:22:44.971195+00:00,48753069,31,Qualcomm Linux 2.0,123,60
+2026-07-02T14:22:44.971195+00:00,48759634,32,"PeerTube is a free, decentralized and federated video platform",4,0
+2026-07-02T14:22:44.971195+00:00,48754080,33,The Underhanded C Contest,111,12
+2026-07-02T14:22:44.971195+00:00,48719697,34,Using Aspect-Oriented Programming to Record DRL Agents' Data,4,1
+2026-07-02T14:22:44.971195+00:00,48750803,35,Learn Vim motions with an ice-cream van,97,40
+2026-07-02T14:22:44.971195+00:00,48752905,36,Show HN: Searchable directory of 22k+ products from worker-owned co-ops,377,74
+2026-07-02T14:22:44.971195+00:00,48756840,37,CursorBench 3.1,96,64
+2026-07-02T14:22:44.971195+00:00,48747975,38,Ask HN: Who wants to be hired? (July 2026),135,349
+2026-07-02T14:22:44.971195+00:00,48755928,39,Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers,114,85
+2026-07-02T14:22:44.971195+00:00,48761229,40,The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing,7,2
+2026-07-02T14:22:44.971195+00:00,48760145,41,ChatControl 1.0 mass scanning is to be sneaked through via a 3rd vote next week,17,2
+2026-07-02T14:22:44.971195+00:00,48759256,42,Orbital Data Centers: Why the Hype Outpaces Reality,8,3
+2026-07-02T14:22:44.971195+00:00,48753524,43,Chip Off The Old Block,99,14
+2026-07-02T14:22:44.971195+00:00,48745456,44,Physical disc production ending in Jan 2028 for new games on PlayStation,734,743
+2026-07-02T14:22:44.971195+00:00,48722093,45,The Wisdom of Quinn the Eskimo (Apple Developer Technical Support Engineer),42,12
+2026-07-02T14:22:44.971195+00:00,48740771,46,Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5,946,670
+2026-07-02T14:22:44.971195+00:00,48723102,47,The Apple Disk II Controller Card (2021),87,22
+2026-07-02T14:22:44.971195+00:00,48746752,48,Launch HN: Parsewise (YC P25) – Reason Across Documents with an API,53,54
+2026-07-02T14:22:44.971195+00:00,48718129,49,Aerial Photographs (2017),15,3
+2026-07-02T14:22:44.971195+00:00,48760837,50,Puppy Pregnancy Syndrome,8,1
