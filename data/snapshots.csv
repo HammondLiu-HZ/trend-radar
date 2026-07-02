@@ -8252,3 +8252,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-02T14:22:44.971195+00:00,48746752,48,Launch HN: Parsewise (YC P25) – Reason Across Documents with an API,53,54
 2026-07-02T14:22:44.971195+00:00,48718129,49,Aerial Photographs (2017),15,3
 2026-07-02T14:22:44.971195+00:00,48760837,50,Puppy Pregnancy Syndrome,8,1
+2026-07-02T16:57:13.963147+00:00,48763035,1,"Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",135,35
+2026-07-02T16:57:13.963147+00:00,48763790,2,24-bit/192kHz music downloads and why they make no sense,31,22
+2026-07-02T16:57:13.963147+00:00,48762862,3,Launch HN: Manufact (YC S25) – MCP Cloud,54,34
+2026-07-02T16:57:13.963147+00:00,48755965,4,Android Developer Verification: Threat masquerading as protection,1308,543
+2026-07-02T16:57:13.963147+00:00,48761118,5,How to ask for help from people who don't know you,104,14
+2026-07-02T16:57:13.963147+00:00,48759634,6,"PeerTube is a free, decentralized and federated video platform",119,14
+2026-07-02T16:57:13.963147+00:00,48761536,7,"AI can't be listed as inventor on patent applications, Japan's top court rules",191,79
+2026-07-02T16:57:13.963147+00:00,48762000,8,Show HN: Mail Memories – A desktop app to rescue photos from Gmail,69,20
+2026-07-02T16:57:13.963147+00:00,48760201,9,Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train,76,19
+2026-07-02T16:57:13.963147+00:00,48763962,10,EU Court of Justice allows criminal prosecution for reposting RT videos,13,0
+2026-07-02T16:57:13.963147+00:00,48702006,11,German button maker searched rivers of American Midwest for valuable shells,65,19
+2026-07-02T16:57:13.963147+00:00,48762038,12,Show HN: CLI tool for detecting non-exact code duplication with embedding models,29,8
+2026-07-02T16:57:13.963147+00:00,48761229,14,The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing,164,43
+2026-07-02T16:57:13.963147+00:00,48756602,15,Kimi K2.7 Code is generally available in GitHub Copilot,321,134
+2026-07-02T16:57:13.963147+00:00,48759870,16,The primary purpose of code review is to find code that will be hard to maintain,203,118
+2026-07-02T16:57:13.963147+00:00,48763963,17,"Show HN: QUALITY.md – open format/specification, agent skill, and CLI",4,0
+2026-07-02T16:57:13.963147+00:00,48761294,18,Show HN: A graph paper generator that renders vector PDFs in the browser,40,7
+2026-07-02T16:57:13.963147+00:00,48758048,19,The fall of the theorem economy,182,79
+2026-07-02T16:57:13.963147+00:00,48756840,20,CursorBench 3.1,129,69
+2026-07-02T16:57:13.963147+00:00,48726125,21,What Breaks a Cell's Ribs Can Make It Stronger,5,0
+2026-07-02T16:57:13.963147+00:00,48759761,22,Vite+ Beta,181,102
+2026-07-02T16:57:13.963147+00:00,48745590,23,"Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",27,23
+2026-07-02T16:57:13.963147+00:00,48762725,24,Spain Orders Blacklist of Palantir from Public and Private Companies,46,2
+2026-07-02T16:57:13.963147+00:00,48710537,25,WinPE as a stateless harness for Windows driver testing and fuzzing,53,3
+2026-07-02T16:57:13.963147+00:00,48760669,26,Germany’s Infineon opens major chip plant as EU seeks tech autonomy,111,29
+2026-07-02T16:57:13.963147+00:00,48761132,27,Comparing Fable and 10 other LLMs on refactoring a LangGraph god node,32,10
+2026-07-02T16:57:13.963147+00:00,48755928,28,Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers,133,95
+2026-07-02T16:57:13.963147+00:00,48724127,29,Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction,88,32
+2026-07-02T16:57:13.963147+00:00,48761493,30,Show HN: ZeroFS – A log-structured filesystem for S3,80,38
+2026-07-02T16:57:13.963147+00:00,48763246,31,"Show HN: zkGolf, competitive optimization of formally verified circuits.",16,1
+2026-07-02T16:57:13.963147+00:00,48755731,32,Bring back crappy forums,478,295
+2026-07-02T16:57:13.963147+00:00,48752004,33,Natural history on canvas: Brueghel knew about bird-eating noctule bats,6,0
+2026-07-02T16:57:13.963147+00:00,48760840,34,Winamp Skin Museum,85,50
+2026-07-02T16:57:13.963147+00:00,48714884,35,My favorite keyboards,99,92
+2026-07-02T16:57:13.963147+00:00,48762508,36,Lunatic: An Erlang-inspired runtime for WebAssembly,5,0
+2026-07-02T16:57:13.963147+00:00,48760490,37,NSA tries to weaken mlkem standardisation,23,3
+2026-07-02T16:57:13.963147+00:00,48763864,38,The US Government Is Now a Shareholder in 26 Companies,9,2
+2026-07-02T16:57:13.963147+00:00,48740971,39,Why jet engines aren't made in China,252,233
+2026-07-02T16:57:13.963147+00:00,48696218,40,Show HN: Cyclearchive.com – search vintage cycling magazines,18,5
+2026-07-02T16:57:13.963147+00:00,48762592,41,Show HN: Enola-A deterministic architecture graph for developers and AI agents,5,1
+2026-07-02T16:57:13.963147+00:00,48762589,42,Chipify – Open-source workflow automation for analog IC design,6,0
+2026-07-02T16:57:13.963147+00:00,48753979,43,Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance,216,240
+2026-07-02T16:57:13.963147+00:00,48762372,44,FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11,3,0
+2026-07-02T16:57:13.963147+00:00,48762352,45,"Qdf – a Go serializer you query the raw bytes of, smaller than protobuf",3,0
+2026-07-02T16:57:13.963147+00:00,48759256,46,Orbital Data Centers: Why the Hype Outpaces Reality,21,39
+2026-07-02T16:57:13.963147+00:00,48732860,47,How do wombats poop cubes? (2021),158,98
+2026-07-02T16:57:13.963147+00:00,48755005,48,"Oomwoo, an open-source robot vacuum you build yourself",432,84
+2026-07-02T16:57:13.963147+00:00,48763020,49,"Vibe Coded X11 Server Written in Rust Adds Xinerama, FreeBSD Support",10,6
+2026-07-02T16:57:13.963147+00:00,48753715,50,ZCode – Harness for GLM-5.2,484,323
