@@ -8350,3 +8350,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-02T18:41:56.998377+00:00,48747304,48,"For first time, a cell built from scratch grows and divides",910,283
 2026-07-02T18:41:56.998377+00:00,48753715,49,ZCode – Harness for GLM-5.2,489,327
 2026-07-02T18:41:56.998377+00:00,48762589,50,Chipify – Open-source workflow automation for analog IC design,11,0
+2026-07-02T20:24:46.083140+00:00,48765663,1,Exapunks (2018),110,41
+2026-07-02T20:24:46.083140+00:00,48763035,2,"Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",305,157
+2026-07-02T20:24:46.083140+00:00,48759634,3,"PeerTube is a free, decentralized and federated video platform",359,147
+2026-07-02T20:24:46.083140+00:00,48762098,4,Podman v6.0.0,182,61
+2026-07-02T20:24:46.083140+00:00,48766598,5,Lightning Memory-Mapped Database Manager (LMDB) 1.0,6,1
+2026-07-02T20:24:46.083140+00:00,48765607,6,Vulkan is now available on NetBSD,24,5
+2026-07-02T20:24:46.083140+00:00,48755965,7,Android Developer Verification: Threat masquerading as protection,1490,617
+2026-07-02T20:24:46.083140+00:00,48761118,8,How to ask for help from people who don't know you,261,35
+2026-07-02T20:24:46.083140+00:00,48765830,9,JEP 539: Strict Field Initialization in the JVM moved to preview,18,5
+2026-07-02T20:24:46.083140+00:00,48765639,10,Postgres transactions are a distributed systems superpower,21,6
+2026-07-02T20:24:46.083140+00:00,48762862,11,Launch HN: Manufact (YC S25) – MCP Cloud,84,54
+2026-07-02T20:24:46.083140+00:00,48762725,12,Spain Orders Blacklist of Palantir from Public and Private Companies,364,103
+2026-07-02T20:24:46.083140+00:00,48761536,13,"AI can't be listed as inventor on patent applications, Japan's top court rules",303,164
+2026-07-02T20:24:46.083140+00:00,48762008,14,No LLM Code in Dependencies,72,40
+2026-07-02T20:24:46.083140+00:00,48702006,15,German button maker searched rivers of American Midwest for valuable shells,115,36
+2026-07-02T20:24:46.083140+00:00,48766076,16,Job seekers giving up: Labor force participation falls to lowest in 50 years,44,25
+2026-07-02T20:24:46.083140+00:00,48766209,17,EFF letter to FTC on X consent order (2 July 2026) [pdf],4,1
+2026-07-02T20:24:46.083140+00:00,48756602,18,Kimi K2.7 Code is generally available in GitHub Copilot,382,158
+2026-07-02T20:24:46.083140+00:00,48762038,19,Show HN: CLI tool for detecting non-exact code duplication with embedding models,61,26
+2026-07-02T20:24:46.083140+00:00,48760201,21,Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train,121,28
+2026-07-02T20:24:46.083140+00:00,48761229,22,The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing,351,170
+2026-07-02T20:24:46.083140+00:00,48739792,23,Ask HN: Since when does Craigslist's front page have emojis?,10,18
+2026-07-02T20:24:46.083140+00:00,48758048,24,The fall of the theorem economy,221,97
+2026-07-02T20:24:46.083140+00:00,48759870,25,The primary purpose of code review is to find code that will be hard to maintain,278,151
+2026-07-02T20:24:46.083140+00:00,48761493,26,Show HN: ZeroFS – A log-structured filesystem for S3,106,50
+2026-07-02T20:24:46.083140+00:00,48706825,27,How VictoriaLogs Stores Your Logs in a Columnar Layout,24,6
+2026-07-02T20:24:46.083140+00:00,48761294,28,Show HN: A graph paper generator that renders vector PDFs in the browser,73,17
+2026-07-02T20:24:46.083140+00:00,48710537,29,WinPE as a stateless harness for Windows driver testing and fuzzing,74,4
+2026-07-02T20:24:46.083140+00:00,48756840,30,CursorBench 3.1,150,91
+2026-07-02T20:24:46.083140+00:00,48762000,31,Show HN: Mail Memories – A desktop app to rescue photos from Gmail,94,40
+2026-07-02T20:24:46.083140+00:00,48755928,32,Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers,160,103
+2026-07-02T20:24:46.083140+00:00,48761944,33,Immich v3.0.0 Released,45,12
+2026-07-02T20:24:46.083140+00:00,48745590,34,"Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",40,32
+2026-07-02T20:24:46.083140+00:00,48760669,35,Germany’s Infineon opens major chip plant as EU seeks tech autonomy,179,52
+2026-07-02T20:24:46.083140+00:00,48759761,36,Vite+ Beta,208,133
+2026-07-02T20:24:46.083140+00:00,48714884,37,My favorite keyboards,120,116
+2026-07-02T20:24:46.083140+00:00,48755731,38,Bring back crappy forums,514,321
+2026-07-02T20:24:46.083140+00:00,48724127,39,Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction,98,37
+2026-07-02T20:24:46.083140+00:00,48764326,40,Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI',37,12
+2026-07-02T20:24:46.083140+00:00,48740971,41,Why jet engines aren't made in China,278,244
+2026-07-02T20:24:46.083140+00:00,48752004,42,Natural history on canvas: Brueghel knew about bird-eating noctule bats,10,0
+2026-07-02T20:24:46.083140+00:00,48763595,43,Brave's latest browser release offers Containers for better and easier workflow,10,1
+2026-07-02T20:24:46.083140+00:00,48760490,44,NSA tries to weaken mlkem standardisation,80,57
+2026-07-02T20:24:46.083140+00:00,48765987,45,Microsoft's unreleased lightweight Edge-based Windows 11 AI OS leaks,6,1
+2026-07-02T20:24:46.083140+00:00,48763462,46,Show HN: ctx – Search the coding agent history already on your machine,14,1
+2026-07-02T20:24:46.083140+00:00,48762372,47,FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11,12,2
+2026-07-02T20:24:46.083140+00:00,48765630,48,"Claude's AskUserQuestion: ""No response after 60s – continued without an answer""",44,48
+2026-07-02T20:24:46.083140+00:00,48760840,49,Winamp Skin Museum,100,57
+2026-07-02T20:24:46.083140+00:00,48726125,50,What Breaks a Cell's Ribs Can Make It Stronger,13,4
