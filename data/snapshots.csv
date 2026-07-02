@@ -8301,3 +8301,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-02T16:57:13.963147+00:00,48755005,48,"Oomwoo, an open-source robot vacuum you build yourself",432,84
 2026-07-02T16:57:13.963147+00:00,48763020,49,"Vibe Coded X11 Server Written in Rust Adds Xinerama, FreeBSD Support",10,6
 2026-07-02T16:57:13.963147+00:00,48753715,50,ZCode – Harness for GLM-5.2,484,323
+2026-07-02T18:41:56.998377+00:00,48763035,1,"Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",249,122
+2026-07-02T18:41:56.998377+00:00,48759634,2,"PeerTube is a free, decentralized and federated video platform",262,79
+2026-07-02T18:41:56.998377+00:00,48755965,3,Android Developer Verification: Threat masquerading as protection,1421,586
+2026-07-02T18:41:56.998377+00:00,48762862,4,Launch HN: Manufact (YC S25) – MCP Cloud,74,46
+2026-07-02T18:41:56.998377+00:00,48761118,5,How to ask for help from people who don't know you,185,28
+2026-07-02T18:41:56.998377+00:00,48761536,6,"AI can't be listed as inventor on patent applications, Japan's top court rules",261,133
+2026-07-02T18:41:56.998377+00:00,48762098,7,Podman v6.0.0,52,1
+2026-07-02T18:41:56.998377+00:00,48762725,8,Spain Orders Blacklist of Palantir from Public and Private Companies,203,30
+2026-07-02T18:41:56.998377+00:00,48702006,9,German button maker searched rivers of American Midwest for valuable shells,92,32
+2026-07-02T18:41:56.998377+00:00,48762038,10,Show HN: CLI tool for detecting non-exact code duplication with embedding models,47,21
+2026-07-02T18:41:56.998377+00:00,48756602,11,Kimi K2.7 Code is generally available in GitHub Copilot,361,152
+2026-07-02T18:41:56.998377+00:00,48761229,12,The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing,280,122
+2026-07-02T18:41:56.998377+00:00,48760201,13,Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train,103,23
+2026-07-02T18:41:56.998377+00:00,48759870,14,The primary purpose of code review is to find code that will be hard to maintain,254,131
+2026-07-02T18:41:56.998377+00:00,48762000,15,Show HN: Mail Memories – A desktop app to rescue photos from Gmail,86,33
+2026-07-02T18:41:56.998377+00:00,48761294,16,Show HN: A graph paper generator that renders vector PDFs in the browser,62,15
+2026-07-02T18:41:56.998377+00:00,48758048,18,The fall of the theorem economy,205,90
+2026-07-02T18:41:56.998377+00:00,48762008,19,No LLM Code in Dependencies,29,10
+2026-07-02T18:41:56.998377+00:00,48710537,20,WinPE as a stateless harness for Windows driver testing and fuzzing,69,4
+2026-07-02T18:41:56.998377+00:00,48761493,21,Show HN: ZeroFS – A log-structured filesystem for S3,95,46
+2026-07-02T18:41:56.998377+00:00,48756840,22,CursorBench 3.1,144,77
+2026-07-02T18:41:56.998377+00:00,48745590,23,"Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",37,26
+2026-07-02T18:41:56.998377+00:00,48760669,24,Germany’s Infineon opens major chip plant as EU seeks tech autonomy,154,46
+2026-07-02T18:41:56.998377+00:00,48763864,25,The US Government Is Now a Shareholder in 26 Companies,79,72
+2026-07-02T18:41:56.998377+00:00,48759761,26,Vite+ Beta,199,119
+2026-07-02T18:41:56.998377+00:00,48755928,27,Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers,149,102
+2026-07-02T18:41:56.998377+00:00,48706825,28,How VictoriaLogs Stores Your Logs in a Columnar Layout,10,2
+2026-07-02T18:41:56.998377+00:00,48714884,29,My favorite keyboards,114,109
+2026-07-02T18:41:56.998377+00:00,48755731,30,Bring back crappy forums,499,318
+2026-07-02T18:41:56.998377+00:00,48760490,31,NSA tries to weaken mlkem standardisation,66,32
+2026-07-02T18:41:56.998377+00:00,48726125,32,What Breaks a Cell's Ribs Can Make It Stronger,10,4
+2026-07-02T18:41:56.998377+00:00,48724127,33,Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction,95,32
+2026-07-02T18:41:56.998377+00:00,48752004,34,Natural history on canvas: Brueghel knew about bird-eating noctule bats,9,0
+2026-07-02T18:41:56.998377+00:00,48761944,35,Immich v3.0.0 Released,17,1
+2026-07-02T18:41:56.998377+00:00,48760840,36,Winamp Skin Museum,94,53
+2026-07-02T18:41:56.998377+00:00,48740971,37,Why jet engines aren't made in China,271,240
+2026-07-02T18:41:56.998377+00:00,48763246,38,"Show HN: zkGolf, competitive optimization of formally verified circuits.",24,1
+2026-07-02T18:41:56.998377+00:00,48764326,39,Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI',19,3
+2026-07-02T18:41:56.998377+00:00,48762508,40,Lunatic: An Erlang-inspired runtime for WebAssembly,10,4
+2026-07-02T18:41:56.998377+00:00,48762372,41,FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11,6,0
+2026-07-02T18:41:56.998377+00:00,48761132,42,Comparing Fable and 10 other LLMs on refactoring a LangGraph god node,38,16
+2026-07-02T18:41:56.998377+00:00,48763595,43,Brave's latest browser release offers Containers for better and easier workflow,3,0
+2026-07-02T18:41:56.998377+00:00,48732860,44,How do wombats poop cubes? (2021),161,100
+2026-07-02T18:41:56.998377+00:00,48696218,45,Show HN: Cyclearchive.com – search vintage cycling magazines,19,6
+2026-07-02T18:41:56.998377+00:00,48755005,46,"Oomwoo, an open-source robot vacuum you build yourself",435,84
+2026-07-02T18:41:56.998377+00:00,48764125,47,Europe's top court upholds Google's record $4.7B antitrust fine,10,4
+2026-07-02T18:41:56.998377+00:00,48747304,48,"For first time, a cell built from scratch grows and divides",910,283
+2026-07-02T18:41:56.998377+00:00,48753715,49,ZCode – Harness for GLM-5.2,489,327
+2026-07-02T18:41:56.998377+00:00,48762589,50,Chipify – Open-source workflow automation for analog IC design,11,0
