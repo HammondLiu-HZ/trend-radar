@@ -8546,3 +8546,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-03T04:50:15.640764+00:00,48760490,48,NSA tries to weaken mlkem standardisation?,115,70
 2026-07-03T04:50:15.640764+00:00,48758048,49,The fall of the theorem economy,261,112
 2026-07-03T04:50:15.640764+00:00,48761536,50,"AI can't be listed as inventor on patent applications, Japan's top court rules",364,192
+2026-07-03T08:16:06.111128+00:00,48767347,1,Virginia bans sale of geolocation data,731,120
+2026-07-03T08:16:06.111128+00:00,48769397,2,CarPlay Is Additive,243,292
+2026-07-03T08:16:06.111128+00:00,48768951,3,Right to Local Intelligence,198,68
+2026-07-03T08:16:06.111128+00:00,48768464,4,"crustc: entirety of `rustc`, translated to C",254,46
+2026-07-03T08:16:06.111128+00:00,48763035,5,"Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",457,200
+2026-07-03T08:16:06.111128+00:00,48769639,6,The Safari MCP server for web developers,70,10
+2026-07-03T08:16:06.111128+00:00,48702874,7,Reality has a surprising amount of detail (2017),244,86
+2026-07-03T08:16:06.111128+00:00,48770477,8,14× faster embeddings: how we rebuilt the ONNX path in Manticore,39,6
+2026-07-03T08:16:06.111128+00:00,48762098,9,Podman v6.0.0,500,202
+2026-07-03T08:16:06.111128+00:00,48765663,10,Exapunks (2018),277,93
+2026-07-03T08:16:06.111128+00:00,48761944,11,Immich 3.0,366,173
+2026-07-03T08:16:06.111128+00:00,48725093,12,Underwater Suit-Wearing Cyborg Insect Capable of Diving and Terra-Aqua Travel,25,2
+2026-07-03T08:16:06.111128+00:00,48768336,13,Mystery identity of 'Green Boots' climber is finally solved after DNA test,97,55
+2026-07-03T08:16:06.111128+00:00,48768992,14,An American Privacy Emergency,288,89
+2026-07-03T08:16:06.111128+00:00,48725857,15,How working with a blind client revealed invisible accessibility gaps,4,0
+2026-07-03T08:16:06.111128+00:00,48720728,16,"Cowboys, Frontiersmen, Settlers, Townspeople, Cityfolk",12,2
+2026-07-03T08:16:06.111128+00:00,48667568,17,A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time,56,29
+2026-07-03T08:16:06.111128+00:00,48765639,18,Postgres transactions are a distributed systems superpower,170,70
+2026-07-03T08:16:06.111128+00:00,48766026,19,The short leash AI coding method for beating Fable,121,140
+2026-07-03T08:16:06.111128+00:00,48766005,20,Claude-real-video － any LLM can watch a video,130,41
+2026-07-03T08:16:06.111128+00:00,48739459,21,Superpowers 6,138,53
+2026-07-03T08:16:06.111128+00:00,48766286,22,Great Salt Lake Tracker – Grow the Flow,97,36
+2026-07-03T08:16:06.111128+00:00,48770647,23,Why Switzerland has 25 gbit internet and America doesn't,458,294
+2026-07-03T08:16:06.111128+00:00,48765607,24,This is my attempt to get Vulkan going on NetBSD,102,26
+2026-07-03T08:16:06.111128+00:00,48762372,25,FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11,61,9
+2026-07-03T08:16:06.111128+00:00,48766209,26,EFF letter to FTC on X consent order [pdf],136,51
+2026-07-03T08:16:06.111128+00:00,48763246,27,Show HN: zkGolf – Competitive optimization of formally verified circuits,57,9
+2026-07-03T08:16:06.111128+00:00,48724608,28,Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021),19,3
+2026-07-03T08:16:06.111128+00:00,48769696,29,AI is 'not smart' so what's next in artificial intelligence?,22,12
+2026-07-03T08:16:06.111128+00:00,48766598,30,Lightning Memory-Mapped Database Manager (LMDB) 1.0,80,42
+2026-07-03T08:16:06.111128+00:00,48763222,31,Show HN: Inkwell – An RSS reader for e-ink devices,51,5
+2026-07-03T08:16:06.111128+00:00,48770133,32,OpenUI: Open Standard for Generative UI,20,4
+2026-07-03T08:16:06.111128+00:00,48755965,33,Android Developer Verification: Threat masquerading as protection,1612,687
+2026-07-03T08:16:06.111128+00:00,48759634,34,"PeerTube is a free, decentralized and federated video platform",610,282
+2026-07-03T08:16:06.111128+00:00,48762862,35,Launch HN: Manufact (YC S25) – MCP Cloud,107,63
+2026-07-03T08:16:06.111128+00:00,48760106,36,Is the iPhone birth control? Causal evidence from AT&T's 2007-2011 monopoly [pdf],79,62
+2026-07-03T08:16:06.111128+00:00,48743362,37,Apricot Computers: An underrated British brand,38,12
+2026-07-03T08:16:06.111128+00:00,48755075,38,LibreCAD in the Browser,81,11
+2026-07-03T08:16:06.111128+00:00,48762725,39,Spain Orders Blacklist of Palantir from Public and Private Companies,650,252
+2026-07-03T08:16:06.111128+00:00,48768374,40,"FBI Seizes NetNut Proxy Platform, Popa Botnet",29,9
+2026-07-03T08:16:06.111128+00:00,48702006,41,German button maker searched rivers of American Midwest for valuable shells,150,47
+2026-07-03T08:16:06.111128+00:00,48763790,42,24-bit/192kHz music downloads and why they make no sense (2012),114,225
+2026-07-03T08:16:06.111128+00:00,48760490,43,NSA tries to weaken mlkem standardisation?,124,71
+2026-07-03T08:16:06.111128+00:00,48758048,45,The fall of the theorem economy,262,112
+2026-07-03T08:16:06.111128+00:00,48765830,46,JEP 539: Strict Field Initialization in the JVM moved to preview,62,18
+2026-07-03T08:16:06.111128+00:00,48729404,47,Show HN: Gitstock–Transform you GitHub commit history into K-line and animations,21,3
+2026-07-03T08:16:06.111128+00:00,48761536,48,"AI can't be listed as inventor on patent applications, Japan's top court rules",373,195
+2026-07-03T08:16:06.111128+00:00,48760201,49,Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train,142,38
+2026-07-03T08:16:06.111128+00:00,48761118,50,How to ask for help from people who don't know you,475,70
