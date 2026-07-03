@@ -8841,3 +8841,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-03T20:19:54.171346+00:00,48766026,47,The short leash AI coding method for beating Fable,181,231
 2026-07-03T20:19:54.171346+00:00,48765639,49,Postgres transactions are a distributed systems superpower,210,89
 2026-07-03T20:19:54.171346+00:00,48750402,50,Show HN: Pieces – Social network for people,57,56
+2026-07-03T22:11:37.088117+00:00,48779683,1,Espionage Against the European Parliament,135,18
+2026-07-03T22:11:37.088117+00:00,48779454,2,SearXNG: A free internet metasearch engine,55,14
+2026-07-03T22:11:37.088117+00:00,48779977,3,Africans Are Turning to Starlink,31,5
+2026-07-03T22:11:37.088117+00:00,48780352,4,"Goodbye, Forever, Probably",8,2
+2026-07-03T22:11:37.088117+00:00,48775921,5,Jamesob's guide to running SOTA LLMs locally,227,105
+2026-07-03T22:11:37.088117+00:00,48778757,6,FreeBSD ate my RAM,59,16
+2026-07-03T22:11:37.088117+00:00,48779352,7,"Kagi Changelog (July 2): Heads, tails, and an AI toggle",30,4
+2026-07-03T22:11:37.088117+00:00,48779723,9,Applied Category Theory Course (2018),16,0
+2026-07-03T22:11:37.088117+00:00,48779415,10,Pet projects are getting too big to pet,30,20
+2026-07-03T22:11:37.088117+00:00,48776044,11,Costco is the anti-Amazon,218,194
+2026-07-03T22:11:37.088117+00:00,48776035,12,Factories are just rooms,165,65
+2026-07-03T22:11:37.088117+00:00,48730953,13,Hunting a 16-year-old SQLite WAL bug with TLA+,149,9
+2026-07-03T22:11:37.088117+00:00,48777144,14,Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI),40,13
+2026-07-03T22:11:37.088117+00:00,48779933,15,Show HN: ContextCodeCache in Rust,5,0
+2026-07-03T22:11:37.088117+00:00,48774509,16,PostgreSQL and the OOM killer: Why we use strict memory overcommit,139,74
+2026-07-03T22:11:37.088117+00:00,48772573,17,Wordgard: In-browser rich-text editor from the creator of ProseMirror,234,85
+2026-07-03T22:11:37.088117+00:00,48774518,18,Valve open-source the Steam Machine e-ink screen so you can make your own,501,90
+2026-07-03T22:11:37.088117+00:00,48776464,19,60% Fable cost cut by converting code to images and having the model OCR it,193,74
+2026-07-03T22:11:37.088117+00:00,48699010,20,A peek into Reddit's anti-spam internals,137,43
+2026-07-03T22:11:37.088117+00:00,48777832,21,Holes,131,23
+2026-07-03T22:11:37.088117+00:00,48772388,22,Half-Baked Product,1169,358
+2026-07-03T22:11:37.088117+00:00,48771515,23,Ask HN: Is anyone experimenting with different ways of using LLMs for coding?,94,125
+2026-07-03T22:11:37.088117+00:00,48732870,24,My dad helped build North America's oat supply chain: Can it be remade?,76,43
+2026-07-03T22:11:37.088117+00:00,48774492,25,The Fall and Rise of Screwworm,125,49
+2026-07-03T22:11:37.088117+00:00,48775949,26,Best Simple System for Now (2025),67,15
+2026-07-03T22:11:37.088117+00:00,48763291,27,Flexible metaprogramming with Rhombus,99,2
+2026-07-03T22:11:37.088117+00:00,48777266,28,International chess federation sanctions Kramnik,96,47
+2026-07-03T22:11:37.088117+00:00,48778031,29,"Farmer, marketer at odds over sales of white nectarines",106,105
+2026-07-03T22:11:37.088117+00:00,48776525,30,"The Life and Times of Maxis, Part 1: SimEverything",98,9
+2026-07-03T22:11:37.088117+00:00,48778971,31,ClawdMojis – A Clawd for Every Occasion,15,1
+2026-07-03T22:11:37.088117+00:00,48778955,32,Show HN: Kontext – Move an AI chat's full context to another AI in one click,5,0
+2026-07-03T22:11:37.088117+00:00,48766242,33,Show HN: Bramble – Local-first password manager,104,21
+2026-07-03T22:11:37.088117+00:00,48775979,34,"America, 1926: A forgotten 100-year-old report",113,157
+2026-07-03T22:11:37.088117+00:00,48752948,35,Show HN: CLI that helps AI agents avoid vulnerable dependencies,17,4
+2026-07-03T22:11:37.088117+00:00,48741654,36,Supersonic flight returning to US after half-century ban,133,162
+2026-07-03T22:11:37.088117+00:00,48774368,37,Program-as-Weights: A Programming Paradigm for Fuzzy Functions,46,4
+2026-07-03T22:11:37.088117+00:00,48779182,38,"Show HN: Topics, Not Feeds",5,1
+2026-07-03T22:11:37.088117+00:00,48780260,39,sf house sept 26,4,0
+2026-07-03T22:11:37.088117+00:00,48693428,40,Quake in 13 Kilobytes (2021),141,20
+2026-07-03T22:11:37.088117+00:00,48763462,41,Show HN: ctx – Search the coding agent history already on your machine,62,37
+2026-07-03T22:11:37.088117+00:00,48772717,42,Commodore 64 Basic for PostgreSQL,63,8
+2026-07-03T22:11:37.088117+00:00,48777728,43,I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025),120,68
+2026-07-03T22:11:37.088117+00:00,48775483,44,"Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",21,3
+2026-07-03T22:11:37.088117+00:00,48779898,45,Meta AI chief says their coming LLM has caught up with OpenAI's flagship model,6,0
+2026-07-03T22:11:37.088117+00:00,48780033,46,AI inference is obviously profitable,7,2
+2026-07-03T22:11:37.088117+00:00,48725857,47,How working with a blind client revealed invisible accessibility gaps,85,71
+2026-07-03T22:11:37.088117+00:00,48768951,48,Protect your right to run local AI,482,171
+2026-07-03T22:11:37.088117+00:00,48728334,49,Closer to Rude Than Snide: An Interview with Leo Robson,4,0
+2026-07-03T22:11:37.088117+00:00,48777962,50,Show HN: Dockside – I turned unused space around the macOS Dock into a workspace,5,2
