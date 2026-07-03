@@ -8792,3 +8792,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-03T18:18:20.473900+00:00,48774454,48,Zuckerberg 'Admits' Meta's Layoffs Were Ineffective,199,186
 2026-07-03T18:18:20.473900+00:00,48770477,49,Faster embeddings: how we rebuilt the ONNX path in Manticore,77,12
 2026-07-03T18:18:20.473900+00:00,48768992,50,An American Privacy Emergency,374,121
+2026-07-03T20:19:54.171346+00:00,48778031,1,A Cali. farmer is giving away tons of nectarines that he's not allowed to sell,61,37
+2026-07-03T20:19:54.171346+00:00,48776044,2,Costco is the anti-Amazon,125,90
+2026-07-03T20:19:54.171346+00:00,48775921,3,Jamesob's guide to running SOTA LLMs locally,175,77
+2026-07-03T20:19:54.171346+00:00,48776035,4,Factories are just rooms,125,56
+2026-07-03T20:19:54.171346+00:00,48730953,5,Hunting a 16-year-old SQLite WAL bug with TLA+,121,7
+2026-07-03T20:19:54.171346+00:00,48777144,6,Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI),29,12
+2026-07-03T20:19:54.171346+00:00,48774509,7,PostgreSQL and the OOM killer: Why we use strict memory overcommit,126,54
+2026-07-03T20:19:54.171346+00:00,48775499,8,"Instead of banning AI, I made a classroom contract with my students",41,24
+2026-07-03T20:19:54.171346+00:00,48732870,9,My dad helped build North America's oat supply chain: Can it be remade?,67,29
+2026-07-03T20:19:54.171346+00:00,48774518,10,Valve open-source the Steam Machine e-ink screen so you can make your own,451,76
+2026-07-03T20:19:54.171346+00:00,48772573,11,Wordgard: In-browser rich-text editor from the creator of ProseMirror,214,81
+2026-07-03T20:19:54.171346+00:00,48772388,12,Half-Baked Product,1117,342
+2026-07-03T20:19:54.171346+00:00,48776464,13,60% Fable cost cut by converting code to images and having the model OCR it,138,48
+2026-07-03T20:19:54.171346+00:00,48778971,14,ClawdMojis – A Clawd for Every Occasion,3,0
+2026-07-03T20:19:54.171346+00:00,48775949,15,Best Simple System for Now (2025),60,13
+2026-07-03T20:19:54.171346+00:00,48774492,16,The Fall and Rise of Screwworm,109,43
+2026-07-03T20:19:54.171346+00:00,48771515,17,Ask HN: Is anyone experimenting with different ways of using LLMs for coding?,65,80
+2026-07-03T20:19:54.171346+00:00,48763291,18,Flexible metaprogramming with Rhombus,69,1
+2026-07-03T20:19:54.171346+00:00,48778757,19,FreeBSD Ate My RAM,5,0
+2026-07-03T20:19:54.171346+00:00,48752948,20,Show HN: CLI that helps AI agents avoid vulnerable dependencies,12,4
+2026-07-03T20:19:54.171346+00:00,48776525,21,"The Life and Times of Maxis, Part 1: SimEverything",85,5
+2026-07-03T20:19:54.171346+00:00,48777832,22,Holes,52,7
+2026-07-03T20:19:54.171346+00:00,48777266,23,International chess federation sanctions Kramnik,72,35
+2026-07-03T20:19:54.171346+00:00,48741654,24,Supersonic flight returning to US after half-century ban,128,150
+2026-07-03T20:19:54.171346+00:00,48775979,25,"America, 1926: A forgotten 100-year-old report",104,132
+2026-07-03T20:19:54.171346+00:00,48763462,26,Show HN: ctx – Search the coding agent history already on your machine,57,27
+2026-07-03T20:19:54.171346+00:00,48766242,27,Show HN: Bramble – Local-first password manager,90,19
+2026-07-03T20:19:54.171346+00:00,48769639,28,The Safari MCP server for web developers,238,67
+2026-07-03T20:19:54.171346+00:00,48775483,29,"Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",21,2
+2026-07-03T20:19:54.171346+00:00,48774368,30,Program-as-Weights: A Programming Paradigm for Fuzzy Functions,43,4
+2026-07-03T20:19:54.171346+00:00,48777728,31,I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025),103,61
+2026-07-03T20:19:54.171346+00:00,48768464,32,"crustc: entirety of `rustc`, translated to C",371,82
+2026-07-03T20:19:54.171346+00:00,48725857,33,How working with a blind client revealed invisible accessibility gaps,83,68
+2026-07-03T20:19:54.171346+00:00,48772717,34,Commodore 64 Basic for PostgreSQL,60,8
+2026-07-03T20:19:54.171346+00:00,48702874,35,Reality has a surprising amount of detail (2017),355,140
+2026-07-03T20:19:54.171346+00:00,48693428,36,Quake in 13 Kilobytes (2021),136,19
+2026-07-03T20:19:54.171346+00:00,48728334,37,Closer to Rude Than Snide: An Interview with Leo Robson,3,0
+2026-07-03T20:19:54.171346+00:00,48776232,38,Memorizing session transcripts isn't useful,166,142
+2026-07-03T20:19:54.171346+00:00,48739140,39,Local Reasoning for Global Properties,31,5
+2026-07-03T20:19:54.171346+00:00,48768951,40,Protect your right to run local AI,471,165
+2026-07-03T20:19:54.171346+00:00,48767347,41,Virginia bans sale of precise geolocation data,932,137
+2026-07-03T20:19:54.171346+00:00,48725093,42,Underwater suit-wearing cyborg insect capable of diving and terra-aqua travel,92,43
+2026-07-03T20:19:54.171346+00:00,48769397,43,CarPlay Is Additive,536,668
+2026-07-03T20:19:54.171346+00:00,48772443,44,"Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",298,256
+2026-07-03T20:19:54.171346+00:00,48776345,45,Markets are competitive if and only if P != NP,203,135
+2026-07-03T20:19:54.171346+00:00,48779223,46,Plex debuts 5-year membership pass for $250,3,0
+2026-07-03T20:19:54.171346+00:00,48766026,47,The short leash AI coding method for beating Fable,181,231
+2026-07-03T20:19:54.171346+00:00,48765639,49,Postgres transactions are a distributed systems superpower,210,89
+2026-07-03T20:19:54.171346+00:00,48750402,50,Show HN: Pieces – Social network for people,57,56
