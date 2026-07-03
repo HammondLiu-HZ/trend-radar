@@ -8644,3 +8644,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-03T11:38:48.115927+00:00,48760490,47,NSA tries to weaken mlkem standardisation?,132,78
 2026-07-03T11:38:48.115927+00:00,48770133,48,OpenUI: Open Standard for Generative UI,28,9
 2026-07-03T11:38:48.115927+00:00,48768374,49,"FBI Seizes NetNut Proxy Platform, Popa Botnet",34,11
+2026-07-03T14:26:38.355770+00:00,48772388,1,Half-Baked Product,637,177
+2026-07-03T14:26:38.355770+00:00,48774509,2,PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit,37,7
+2026-07-03T14:26:38.355770+00:00,48767347,3,Virginia bans sale of geolocation data,898,133
+2026-07-03T14:26:38.355770+00:00,48774518,4,Valve open source the Steam Machine e-ink screen so you can make your own,85,7
+2026-07-03T14:26:38.355770+00:00,48774414,5,Please stop the AI confidence theater,102,54
+2026-07-03T14:26:38.355770+00:00,48768951,6,Right to Local Intelligence,362,123
+2026-07-03T14:26:38.355770+00:00,48769397,7,CarPlay Is Additive,424,569
+2026-07-03T14:26:38.355770+00:00,48772573,8,Wordgard: The new in-browser rich-text editor from the creator of ProseMirror,95,50
+2026-07-03T14:26:38.355770+00:00,48774492,9,The Fall and Rise of Screwworm,7,1
+2026-07-03T14:26:38.355770+00:00,48774454,10,Zuckerberg 'Admits' Meta's Layoffs Were Ineffective,94,95
+2026-07-03T14:26:38.355770+00:00,48725857,11,How working with a blind client revealed invisible accessibility gaps,48,33
+2026-07-03T14:26:38.355770+00:00,48769639,12,The Safari MCP server for web developers,155,46
+2026-07-03T14:26:38.355770+00:00,48768464,13,"crustc: entirety of `rustc`, translated to C",332,66
+2026-07-03T14:26:38.355770+00:00,48763035,14,"Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",505,216
+2026-07-03T14:26:38.355770+00:00,48772717,15,Commodore 64 Basic for PostgreSQL,29,6
+2026-07-03T14:26:38.355770+00:00,48762098,16,Podman v6.0.0,589,231
+2026-07-03T14:26:38.355770+00:00,48702874,17,Reality has a surprising amount of detail (2017),316,117
+2026-07-03T14:26:38.355770+00:00,48774704,18,"Hackers shoveled snow for company, were rewarded with network admin access",17,0
+2026-07-03T14:26:38.355770+00:00,48693428,19,Quake in 13 Kilobytes (2021),78,8
+2026-07-03T14:26:38.355770+00:00,48761944,20,Immich 3.0,515,255
+2026-07-03T14:26:38.355770+00:00,48774429,21,Gemini Code Assist will be shut down on July 17,19,9
+2026-07-03T14:26:38.355770+00:00,48765663,22,Exapunks (2018),310,106
+2026-07-03T14:26:38.355770+00:00,48725093,23,Underwater suit-wearing cyborg insect capable of diving and terra-aqua travel,69,28
+2026-07-03T14:26:38.355770+00:00,48738244,24,Q&A with Micron's VP and GM of Memory,17,11
+2026-07-03T14:26:38.355770+00:00,48733642,25,Show HN: OM Core – multidimensional models without spreadsheet cell formulas,3,1
+2026-07-03T14:26:38.355770+00:00,48772443,26,"Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",216,170
+2026-07-03T14:26:38.355770+00:00,48734380,27,The Beauty of Tautologies,11,9
+2026-07-03T14:26:38.355770+00:00,48739140,28,Local Reasoning for Global Properties,10,1
+2026-07-03T14:26:38.355770+00:00,48770477,29,14× faster embeddings: how we rebuilt the ONNX path in Manticore,73,12
+2026-07-03T14:26:38.355770+00:00,48766026,30,The short leash AI coding method for beating Fable,163,208
+2026-07-03T14:26:38.355770+00:00,48768992,31,An American Privacy Emergency,359,108
+2026-07-03T14:26:38.355770+00:00,48762372,32,FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11,84,25
+2026-07-03T14:26:38.355770+00:00,48765639,33,Postgres transactions are a distributed systems superpower,199,89
+2026-07-03T14:26:38.355770+00:00,48766286,34,Great Salt Lake Tracker,115,41
+2026-07-03T14:26:38.355770+00:00,48766005,35,Claude-real-video － any LLM can watch a video,147,51
+2026-07-03T14:26:38.355770+00:00,48739459,36,Superpowers 6,171,69
+2026-07-03T14:26:38.355770+00:00,48765607,37,This is my attempt to get Vulkan going on NetBSD,115,36
+2026-07-03T14:26:38.355770+00:00,48755965,38,Android Developer Verification: Threat masquerading as protection,1644,710
+2026-07-03T14:26:38.355770+00:00,48667568,39,A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time,79,63
+2026-07-03T14:26:38.355770+00:00,48766209,40,EFF letter to FTC on X consent order [pdf],147,65
+2026-07-03T14:26:38.355770+00:00,48773907,41,Amazon has enough satellites to launch its Starlink competitor,20,8
+2026-07-03T14:26:38.355770+00:00,48759634,42,"PeerTube is a free, decentralized and federated video platform",639,314
+2026-07-03T14:26:38.355770+00:00,48774720,43,Behind the scenes with the Midjourney scanner [video],5,0
+2026-07-03T14:26:38.355770+00:00,48774246,44,AI Data Centers Use More Water Than Most Tech Giants Report,27,27
+2026-07-03T14:26:38.355770+00:00,48755075,46,LibreCAD in the Browser,89,11
+2026-07-03T14:26:38.355770+00:00,48766598,47,Lightning Memory-Mapped Database Manager (LMDB) 1.0,82,48
+2026-07-03T14:26:38.355770+00:00,48763790,48,24-bit/192kHz music downloads and why they make no sense (2012),126,246
+2026-07-03T14:26:38.355770+00:00,48702006,49,German button maker searched rivers of American Midwest for valuable shells,154,50
+2026-07-03T14:26:38.355770+00:00,48763246,50,Show HN: zkGolf – Competitive optimization of formally verified circuits,66,10
