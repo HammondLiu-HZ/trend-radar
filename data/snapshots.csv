@@ -8497,3 +8497,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-03T00:15:00.363543+00:00,48739792,48,Ask HN: Since when does Craigslist's front page have emojis?,33,31
 2026-07-03T00:15:00.363543+00:00,48761229,49,The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing,427,207
 2026-07-03T00:15:00.363543+00:00,48767412,50,Swift-Nio-QUIC,8,0
+2026-07-03T04:50:15.640764+00:00,48770647,1,The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't,77,36
+2026-07-03T04:50:15.640764+00:00,48767347,2,Virginia bans sale of geolocation data,629,107
+2026-07-03T04:50:15.640764+00:00,48769397,3,CarPlay Is Additive,134,176
+2026-07-03T04:50:15.640764+00:00,48768464,4,"crustc: entirety of `rustc`, translated to C",192,34
+2026-07-03T04:50:15.640764+00:00,48768951,5,Right to Local Intelligence,97,40
+2026-07-03T04:50:15.640764+00:00,48763035,6,"Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",429,192
+2026-07-03T04:50:15.640764+00:00,48702874,7,Reality has a surprising amount of detail (2017),192,70
+2026-07-03T04:50:15.640764+00:00,48765663,8,Exapunks (2018),249,83
+2026-07-03T04:50:15.640764+00:00,48768992,9,An American Privacy Emergency,226,76
+2026-07-03T04:50:15.640764+00:00,48760106,10,Is the iPhone birth control? Causal evidence from AT&T's 2007-2011 monopoly [pdf],17,4
+2026-07-03T04:50:15.640764+00:00,48759634,11,"PeerTube is a free, decentralized and federated video platform",554,257
+2026-07-03T04:50:15.640764+00:00,48762098,12,Podman v6.0.0,427,174
+2026-07-03T04:50:15.640764+00:00,48768336,13,Mystery identity of 'Green Boots' climber is finally solved after DNA test,77,40
+2026-07-03T04:50:15.640764+00:00,48770677,14,"Wasmer: Fast, secure, lightweight containers based on WebAssembly",6,0
+2026-07-03T04:50:15.640764+00:00,48761118,15,How to ask for help from people who don't know you,451,67
+2026-07-03T04:50:15.640764+00:00,48724608,16,Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021),10,1
+2026-07-03T04:50:15.640764+00:00,48739459,17,Superpowers 6,107,45
+2026-07-03T04:50:15.640764+00:00,48761944,18,Immich 3.0,252,118
+2026-07-03T04:50:15.640764+00:00,48765639,19,Postgres transactions are a distributed systems superpower,140,60
+2026-07-03T04:50:15.640764+00:00,48763246,20,Show HN: zkGolf – Competitive optimization of formally verified circuits,51,6
+2026-07-03T04:50:15.640764+00:00,48770477,21,14× faster embeddings: how we rebuilt the ONNX path in Manticore,3,0
+2026-07-03T04:50:15.640764+00:00,48766026,22,The short leash AI coding method for beating Fable,88,97
+2026-07-03T04:50:15.640764+00:00,48762372,23,FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11,48,6
+2026-07-03T04:50:15.640764+00:00,48766286,24,Great Salt Lake Tracker – Grow the Flow,80,31
+2026-07-03T04:50:15.640764+00:00,48765607,25,This is my attempt to get Vulkan going on NetBSD,90,19
+2026-07-03T04:50:15.640764+00:00,48667568,26,A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time,36,19
+2026-07-03T04:50:15.640764+00:00,48766209,27,EFF letter to FTC on X consent order [pdf],123,46
+2026-07-03T04:50:15.640764+00:00,48766598,28,Lightning Memory-Mapped Database Manager (LMDB) 1.0,71,40
+2026-07-03T04:50:15.640764+00:00,48766005,29,Claude-real-video － any LLM can watch a video,100,31
+2026-07-03T04:50:15.640764+00:00,48763222,30,Show HN: Inkwell – An RSS reader for e-ink devices,42,5
+2026-07-03T04:50:15.640764+00:00,48770383,31,Show HN: Imagent – agentic image/video/speech generation,3,0
+2026-07-03T04:50:15.640764+00:00,48743362,32,Apricot Computers: An underrated British brand,31,9
+2026-07-03T04:50:15.640764+00:00,48768997,33,Order a burned CD of your own public GitHub repo,120,90
+2026-07-03T04:50:15.640764+00:00,48729404,34,Show HN: Gitstock–Transform you GitHub commit history into K-line and animations,16,3
+2026-07-03T04:50:15.640764+00:00,48750402,36,Show HN: Pieces – Social network for people,37,31
+2026-07-03T04:50:15.640764+00:00,48762862,37,Launch HN: Manufact (YC S25) – MCP Cloud,104,62
+2026-07-03T04:50:15.640764+00:00,48731619,38,Crossword Heatmap,10,4
+2026-07-03T04:50:15.640764+00:00,48765830,39,JEP 539: Strict Field Initialization in the JVM moved to preview,58,17
+2026-07-03T04:50:15.640764+00:00,48762725,40,Spain Orders Blacklist of Palantir from Public and Private Companies,613,231
+2026-07-03T04:50:15.640764+00:00,48755965,41,Android Developer Verification: Threat masquerading as protection,1591,684
+2026-07-03T04:50:15.640764+00:00,48763790,42,24-bit/192kHz music downloads and why they make no sense (2012),102,218
+2026-07-03T04:50:15.640764+00:00,48755075,43,LibreCAD in the Browser,75,10
+2026-07-03T04:50:15.640764+00:00,48702006,44,German button maker searched rivers of American Midwest for valuable shells,147,46
+2026-07-03T04:50:15.640764+00:00,48768374,45,"FBI Seizes NetNut Proxy Platform, Popa Botnet",16,6
+2026-07-03T04:50:15.640764+00:00,48769854,46,Using precision editing to study human embryo development shows master gene,5,0
+2026-07-03T04:50:15.640764+00:00,48770133,47,OpenUI: Open Standard for Generative UI,4,0
+2026-07-03T04:50:15.640764+00:00,48760490,48,NSA tries to weaken mlkem standardisation?,115,70
+2026-07-03T04:50:15.640764+00:00,48758048,49,The fall of the theorem economy,261,112
+2026-07-03T04:50:15.640764+00:00,48761536,50,"AI can't be listed as inventor on patent applications, Japan's top court rules",364,192
