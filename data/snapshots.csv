@@ -8448,3 +8448,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-02T22:14:33.874792+00:00,48756840,48,CursorBench 3.1,155,92
 2026-07-02T22:14:33.874792+00:00,48766009,49,Rethinking Mean-Field Theory for Neural Networks,7,1
 2026-07-02T22:14:33.874792+00:00,48755928,50,Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers,163,104
+2026-07-03T00:15:00.363543+00:00,48767347,1,Virginia bans sale of geolocation data,347,61
+2026-07-03T00:15:00.363543+00:00,48768464,2,"crustc: entirety of `rustc`, translated to C",82,13
+2026-07-03T00:15:00.363543+00:00,48765663,3,Exapunks (2018),208,74
+2026-07-03T00:15:00.363543+00:00,48702874,4,Reality has a surprising amount of detail (2017),96,34
+2026-07-03T00:15:00.363543+00:00,48763035,5,"Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",386,185
+2026-07-03T00:15:00.363543+00:00,48762098,6,Podman v6.0.0,368,138
+2026-07-03T00:15:00.363543+00:00,48768336,7,Mystery identity of 'Green Boots' climber is finally solved after DNA test,25,6
+2026-07-03T00:15:00.363543+00:00,48759634,8,"PeerTube is a free, decentralized and federated video platform",491,218
+2026-07-03T00:15:00.363543+00:00,48766209,9,EFF letter to FTC on X consent order (2 July 2026) [pdf],93,22
+2026-07-03T00:15:00.363543+00:00,48768992,10,An American Privacy Emergency,5,0
+2026-07-03T00:15:00.363543+00:00,48765639,11,Postgres transactions are a distributed systems superpower,96,46
+2026-07-03T00:15:00.363543+00:00,48765607,12,This is my attempt to get Vulkan going on NetBSD,79,14
+2026-07-03T00:15:00.363543+00:00,48766598,13,Lightning Memory-Mapped Database Manager (LMDB) 1.0,56,33
+2026-07-03T00:15:00.363543+00:00,48761118,14,How to ask for help from people who don't know you,371,59
+2026-07-03T00:15:00.363543+00:00,48763222,15,Show HN: Inkwell – An RSS reader for e-ink devices,17,0
+2026-07-03T00:15:00.363543+00:00,48739459,16,Superpowers 6,60,26
+2026-07-03T00:15:00.363543+00:00,48766286,17,Great Salt Lake Tracker – Grow the Flow,55,14
+2026-07-03T00:15:00.363543+00:00,48763291,18,Flexible metaprogramming with Rhombus,15,1
+2026-07-03T00:15:00.363543+00:00,48750402,19,Show HN: Pieces – Social network for people,21,14
+2026-07-03T00:15:00.363543+00:00,48762372,20,FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11,20,3
+2026-07-03T00:15:00.363543+00:00,48766026,21,The short leash AI coding method for beating Fable,54,53
+2026-07-03T00:15:00.363543+00:00,48726792,22,Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity,18,0
+2026-07-03T00:15:00.363543+00:00,48766005,23,Claude-real-video － any LLM can watch a video,68,19
+2026-07-03T00:15:00.363543+00:00,48743362,24,Apricot Computers: An underrated British brand,14,3
+2026-07-03T00:15:00.363543+00:00,48763462,25,Show HN: ctx – Search the coding agent history already on your machine,22,4
+2026-07-03T00:15:00.363543+00:00,48761944,26,Immich 3.0,160,69
+2026-07-03T00:15:00.363543+00:00,48765830,27,JEP 539: Strict Field Initialization in the JVM moved to preview,52,17
+2026-07-03T00:15:00.363543+00:00,48667568,29,A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time,8,2
+2026-07-03T00:15:00.363543+00:00,48762862,30,Launch HN: Manufact (YC S25) – MCP Cloud,97,61
+2026-07-03T00:15:00.363543+00:00,48762725,31,Spain Orders Blacklist of Palantir from Public and Private Companies,570,188
+2026-07-03T00:15:00.363543+00:00,48766297,32,Wireless LAN SD,30,23
+2026-07-03T00:15:00.363543+00:00,48752948,33,Show HN: CLI that helps AI agents avoid vulnerable dependencies,8,1
+2026-07-03T00:15:00.363543+00:00,48763790,34,24-bit/192kHz music downloads and why they make no sense (2012),90,205
+2026-07-03T00:15:00.363543+00:00,48763246,35,Show HN: zkGolf – Competitive optimization of formally verified circuits,38,3
+2026-07-03T00:15:00.363543+00:00,48755075,36,LibreCAD in the Browser,72,8
+2026-07-03T00:15:00.363543+00:00,48702006,37,German button maker searched rivers of American Midwest for valuable shells,140,44
+2026-07-03T00:15:00.363543+00:00,48766124,38,A New Catalog of Stellar Rotation Periods for over a Million Stars,28,3
+2026-07-03T00:15:00.363543+00:00,48767058,39,Zuckerberg says AI agent development going slower than expected,21,14
+2026-07-03T00:15:00.363543+00:00,48745118,40,Client-side load balancing at a million requests per second,38,5
+2026-07-03T00:15:00.363543+00:00,48761536,41,"AI can't be listed as inventor on patent applications, Japan's top court rules",353,186
+2026-07-03T00:15:00.363543+00:00,48755965,42,Android Developer Verification: Threat masquerading as protection,1565,680
+2026-07-03T00:15:00.363543+00:00,48767834,43,"Simple, beautiful Emacs modeline: modusregel",8,0
+2026-07-03T00:15:00.363543+00:00,48760490,44,NSA tries to weaken mlkem standardisation?,103,66
+2026-07-03T00:15:00.363543+00:00,48760201,45,Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train,136,33
+2026-07-03T00:15:00.363543+00:00,48758048,46,The fall of the theorem economy,253,109
+2026-07-03T00:15:00.363543+00:00,48762038,47,Show HN: CLI tool for detecting non-exact code duplication with embedding models,75,34
+2026-07-03T00:15:00.363543+00:00,48739792,48,Ask HN: Since when does Craigslist's front page have emojis?,33,31
+2026-07-03T00:15:00.363543+00:00,48761229,49,The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing,427,207
+2026-07-03T00:15:00.363543+00:00,48767412,50,Swift-Nio-QUIC,8,0
