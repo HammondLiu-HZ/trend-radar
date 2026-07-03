@@ -8693,3 +8693,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-03T14:26:38.355770+00:00,48763790,48,24-bit/192kHz music downloads and why they make no sense (2012),126,246
 2026-07-03T14:26:38.355770+00:00,48702006,49,German button maker searched rivers of American Midwest for valuable shells,154,50
 2026-07-03T14:26:38.355770+00:00,48763246,50,Show HN: zkGolf – Competitive optimization of formally verified circuits,66,10
+2026-07-03T16:41:35.665798+00:00,48776345,1,Markets are competitive if and only if P = NP,92,55
+2026-07-03T16:41:35.665798+00:00,48772388,2,Half-Baked Product,898,276
+2026-07-03T16:41:35.665798+00:00,48775979,3,"America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",30,5
+2026-07-03T16:41:35.665798+00:00,48775921,4,Jamesob's guide to running SOTA LLMs locally,37,17
+2026-07-03T16:41:35.665798+00:00,48774509,5,PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit,80,28
+2026-07-03T16:41:35.665798+00:00,48776035,6,Factories Are Just Rooms,25,12
+2026-07-03T16:41:35.665798+00:00,48775748,7,Give Smart People the Tools to Do Smart Things,24,9
+2026-07-03T16:41:35.665798+00:00,48730953,8,Hunting a 16-year-old SQLite WAL bug with TLA+,42,2
+2026-07-03T16:41:35.665798+00:00,48774518,9,Valve open source the Steam Machine e-ink screen so you can make your own,256,35
+2026-07-03T16:41:35.665798+00:00,48775949,10,Best Simple System for Now,19,3
+2026-07-03T16:41:35.665798+00:00,48774492,11,The Fall and Rise of Screwworm,43,18
+2026-07-03T16:41:35.665798+00:00,48772573,12,Wordgard: The new in-browser rich-text editor from the creator of ProseMirror,151,68
+2026-07-03T16:41:35.665798+00:00,48768951,13,Right to Local Intelligence,420,147
+2026-07-03T16:41:35.665798+00:00,48732870,14,My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?,12,1
+2026-07-03T16:41:35.665798+00:00,48769397,15,CarPlay Is Additive,471,623
+2026-07-03T16:41:35.665798+00:00,48776525,16,"The Life and Times of Maxis, Part 1: SimEverything",4,0
+2026-07-03T16:41:35.665798+00:00,48775483,17,"Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",8,0
+2026-07-03T16:41:35.665798+00:00,48725857,18,How working with a blind client revealed invisible accessibility gaps,69,49
+2026-07-03T16:41:35.665798+00:00,48769639,19,The Safari MCP server for web developers,202,56
+2026-07-03T16:41:35.665798+00:00,48768464,20,"crustc: entirety of `rustc`, translated to C",347,74
+2026-07-03T16:41:35.665798+00:00,48772717,21,Commodore 64 Basic for PostgreSQL,43,8
+2026-07-03T16:41:35.665798+00:00,48739140,22,Local Reasoning for Global Properties,22,2
+2026-07-03T16:41:35.665798+00:00,48702874,23,Reality has a surprising amount of detail (2017),339,127
+2026-07-03T16:41:35.665798+00:00,48693428,24,Quake in 13 Kilobytes (2021),110,16
+2026-07-03T16:41:35.665798+00:00,48774368,25,Program-as-Weights: A Programming Paradigm for Fuzzy Functions,15,1
+2026-07-03T16:41:35.665798+00:00,48772443,26,"Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",269,224
+2026-07-03T16:41:35.665798+00:00,48774704,27,"Hackers shoveled snow for company, were rewarded with network admin access",53,27
+2026-07-03T16:41:35.665798+00:00,48765663,28,Exapunks (2018),316,109
+2026-07-03T16:41:35.665798+00:00,48774429,29,Gemini Code Assist will be shut down on July 17,49,34
+2026-07-03T16:41:35.665798+00:00,48725093,30,Underwater suit-wearing cyborg insect capable of diving and terra-aqua travel,84,38
+2026-07-03T16:41:35.665798+00:00,48750402,31,Show HN: Pieces – Social network for people,51,53
+2026-07-03T16:41:35.665798+00:00,48767347,32,Virginia bans sale of precise geolocation data,920,136
+2026-07-03T16:41:35.665798+00:00,48775484,33,Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP,3,2
+2026-07-03T16:41:35.665798+00:00,48774454,34,Zuckerberg 'Admits' Meta's Layoffs Were Ineffective,185,162
+2026-07-03T16:41:35.665798+00:00,48738244,35,Q&A with Micron's VP and GM of Memory,20,11
+2026-07-03T16:41:35.665798+00:00,48766026,36,The short leash AI coding method for beating Fable,175,219
+2026-07-03T16:41:35.665798+00:00,48776464,37,60% Fable cost cut by converting code to images and having the model OCR it,7,1
+2026-07-03T16:41:35.665798+00:00,48775800,38,AI coding is addictive. Engineers are paying the price,15,3
+2026-07-03T16:41:35.665798+00:00,48734380,39,The Beauty of Tautologies,16,13
+2026-07-03T16:41:35.665798+00:00,48770477,40,Faster embeddings: how we rebuilt the ONNX path in Manticore,76,12
+2026-07-03T16:41:35.665798+00:00,48765639,41,Postgres transactions are a distributed systems superpower,206,89
+2026-07-03T16:41:35.665798+00:00,48733642,42,Show HN: OM Core – multidimensional models without spreadsheet cell formulas,10,2
+2026-07-03T16:41:35.665798+00:00,48768992,43,An American Privacy Emergency,372,119
+2026-07-03T16:41:35.665798+00:00,48766286,45,Great Salt Lake Tracker,120,43
+2026-07-03T16:41:35.665798+00:00,48762372,46,FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11,85,26
+2026-07-03T16:41:35.665798+00:00,48739459,47,Superpowers 6,178,73
+2026-07-03T16:41:35.665798+00:00,48766005,48,Claude-real-video － any LLM can watch a video,151,52
+2026-07-03T16:41:35.665798+00:00,48755965,49,Android Developer Verification: Threat masquerading as protection,1659,713
+2026-07-03T16:41:35.665798+00:00,48765607,50,This is my attempt to get Vulkan going on NetBSD,116,36
