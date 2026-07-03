@@ -8595,3 +8595,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-03T08:16:06.111128+00:00,48761536,48,"AI can't be listed as inventor on patent applications, Japan's top court rules",373,195
 2026-07-03T08:16:06.111128+00:00,48760201,49,Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train,142,38
 2026-07-03T08:16:06.111128+00:00,48761118,50,How to ask for help from people who don't know you,475,70
+2026-07-03T11:38:48.115927+00:00,48772388,1,Half-Baked Product,232,59
+2026-07-03T11:38:48.115927+00:00,48767347,2,Virginia bans sale of geolocation data,826,129
+2026-07-03T11:38:48.115927+00:00,48773652,3,Gun Mistakes in Fiction Writing: Handgun Edition,6,1
+2026-07-03T11:38:48.115927+00:00,48768951,4,Right to Local Intelligence,295,100
+2026-07-03T11:38:48.115927+00:00,48769397,5,CarPlay Is Additive,347,455
+2026-07-03T11:38:48.115927+00:00,48772573,6,Wordgard: The new in-browser rich-text editor from the creator of ProseMirror,35,10
+2026-07-03T11:38:48.115927+00:00,48772443,7,"Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",122,75
+2026-07-03T11:38:48.115927+00:00,48768464,8,"crustc: entirety of `rustc`, translated to C",294,57
+2026-07-03T11:38:48.115927+00:00,48725857,9,How working with a blind client revealed invisible accessibility gaps,28,7
+2026-07-03T11:38:48.115927+00:00,48769639,10,The Safari MCP server for web developers,118,24
+2026-07-03T11:38:48.115927+00:00,48763035,11,"Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",487,209
+2026-07-03T11:38:48.115927+00:00,48738244,12,Q&A with Micron's VP and GM of Memory,11,3
+2026-07-03T11:38:48.115927+00:00,48762098,13,Podman v6.0.0,551,216
+2026-07-03T11:38:48.115927+00:00,48702874,14,Reality has a surprising amount of detail (2017),285,107
+2026-07-03T11:38:48.115927+00:00,48772717,15,Commodore 64 Basic for PostgreSQL,9,1
+2026-07-03T11:38:48.115927+00:00,48765663,16,Exapunks (2018),302,101
+2026-07-03T11:38:48.115927+00:00,48761944,17,Immich 3.0,453,227
+2026-07-03T11:38:48.115927+00:00,48693428,18,Quake in 13 Kilobytes (2021),51,6
+2026-07-03T11:38:48.115927+00:00,48770477,19,14× faster embeddings: how we rebuilt the ONNX path in Manticore,60,10
+2026-07-03T11:38:48.115927+00:00,48725093,20,Underwater Suit-Wearing Cyborg Insect Capable of Diving and Terra-Aqua Travel,51,20
+2026-07-03T11:38:48.115927+00:00,48750402,21,Show HN: Pieces – Social network for people,44,43
+2026-07-03T11:38:48.115927+00:00,48768992,22,An American Privacy Emergency,325,98
+2026-07-03T11:38:48.115927+00:00,48766026,23,The short leash AI coding method for beating Fable,143,180
+2026-07-03T11:38:48.115927+00:00,48739459,24,Superpowers 6,161,62
+2026-07-03T11:38:48.115927+00:00,48762372,25,FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11,76,20
+2026-07-03T11:38:48.115927+00:00,48765639,26,Postgres transactions are a distributed systems superpower,189,81
+2026-07-03T11:38:48.115927+00:00,48766005,27,Claude-real-video － any LLM can watch a video,139,44
+2026-07-03T11:38:48.115927+00:00,48766286,28,Great Salt Lake Tracker – Grow the Flow,108,37
+2026-07-03T11:38:48.115927+00:00,48765607,29,This is my attempt to get Vulkan going on NetBSD,111,33
+2026-07-03T11:38:48.115927+00:00,48768336,30,Mystery identity of 'Green Boots' climber is finally solved after DNA test,113,78
+2026-07-03T11:38:48.115927+00:00,48667568,31,A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time,68,57
+2026-07-03T11:38:48.115927+00:00,48766209,32,EFF letter to FTC on X consent order [pdf],144,61
+2026-07-03T11:38:48.115927+00:00,48773580,33,"Ed Zitron on CNBC: GenAI Doesn't Work, and Big Tech Is Out of Hypergrowth Ideas",7,1
+2026-07-03T11:38:48.115927+00:00,48755965,34,Android Developer Verification: Threat masquerading as protection,1637,702
+2026-07-03T11:38:48.115927+00:00,48759634,35,"PeerTube is a free, decentralized and federated video platform",623,300
+2026-07-03T11:38:48.115927+00:00,48766598,36,Lightning Memory-Mapped Database Manager (LMDB) 1.0,82,47
+2026-07-03T11:38:48.115927+00:00,48763246,37,Show HN: zkGolf – Competitive optimization of formally verified circuits,64,9
+2026-07-03T11:38:48.115927+00:00,48720728,38,"Cowboys, Frontiersmen, Settlers, Townspeople, Cityfolk",17,7
+2026-07-03T11:38:48.115927+00:00,48724608,39,Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021),24,4
+2026-07-03T11:38:48.115927+00:00,48763790,40,24-bit/192kHz music downloads and why they make no sense (2012),122,235
+2026-07-03T11:38:48.115927+00:00,48755075,41,LibreCAD in the Browser,84,11
+2026-07-03T11:38:48.115927+00:00,48762862,42,Launch HN: Manufact (YC S25) – MCP Cloud,108,63
+2026-07-03T11:38:48.115927+00:00,48702006,43,German button maker searched rivers of American Midwest for valuable shells,154,49
+2026-07-03T11:38:48.115927+00:00,48763222,44,Show HN: Inkwell – An RSS reader for e-ink devices,56,5
+2026-07-03T11:38:48.115927+00:00,48762725,45,Spain Orders Blacklist of Palantir from Public and Private Companies,672,271
+2026-07-03T11:38:48.115927+00:00,48758048,46,The fall of the theorem economy,268,115
+2026-07-03T11:38:48.115927+00:00,48760490,47,NSA tries to weaken mlkem standardisation?,132,78
+2026-07-03T11:38:48.115927+00:00,48770133,48,OpenUI: Open Standard for Generative UI,28,9
+2026-07-03T11:38:48.115927+00:00,48768374,49,"FBI Seizes NetNut Proxy Platform, Popa Botnet",34,11
