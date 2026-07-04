@@ -9331,3 +9331,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-04T20:13:42.952269+00:00,48780056,48,New serious vulnerabilities spiked around release of Claude Mythos Preview,149,71
 2026-07-04T20:13:42.952269+00:00,48782671,49,Agentic coding notes from Galapagos Island,158,77
 2026-07-04T20:13:42.952269+00:00,48742175,50,What ORMs have taught me: just learn SQL (2014),116,158
+2026-07-04T22:04:58.913572+00:00,48788283,1,"Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",196,86
+2026-07-04T22:04:58.913572+00:00,48786781,2,Leaking YouTube creators' private videos,397,200
+2026-07-04T22:04:58.913572+00:00,48786838,3,Google Books (or similar) all book scans – $200k bounty (2025),248,126
+2026-07-04T22:04:58.913572+00:00,48788599,4,Better Models: Worse Tools,25,11
+2026-07-04T22:04:58.913572+00:00,48787329,5,Verizon is About to Break our Watches,102,39
+2026-07-04T22:04:58.913572+00:00,48785485,6,Potential session/cache leakage between workspace instances or consumer accounts,254,118
+2026-07-04T22:04:58.913572+00:00,48784777,7,Explanation of everything you can see in htop/top on Linux (2019),351,46
+2026-07-04T22:04:58.913572+00:00,48786638,8,Zig: All Package Management Functionality Moved from Compiler to Build System,87,15
+2026-07-04T22:04:58.913572+00:00,48738395,9,Drone Physics,50,12
+2026-07-04T22:04:58.913572+00:00,48789428,10,GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance,3,1
+2026-07-04T22:04:58.913572+00:00,48785840,11,Windows CE Dreamcast Community Edition (wince-dc),73,15
+2026-07-04T22:04:58.913572+00:00,48786782,12,Meta data center water discharges suspended for contaminating water supply,188,65
+2026-07-04T22:04:58.913572+00:00,48786495,13,Curveball,37,9
+2026-07-04T22:04:58.913572+00:00,48783948,14,Astrophysicists Puzzle over Webb’s New Universe,178,113
+2026-07-04T22:04:58.913572+00:00,48743462,15,"It's not me, it's the compiler",24,1
+2026-07-04T22:04:58.913572+00:00,48787987,16,Wicklow hotel cancels 'secretive' Peter Thiel group conference,97,31
+2026-07-04T22:04:58.913572+00:00,48782435,17,Maybe you should learn something,399,187
+2026-07-04T22:04:58.913572+00:00,48753160,18,Neural Render Proxies for Interactive and Differentiable Lighting,38,3
+2026-07-04T22:04:58.913572+00:00,48786970,19,EndBASIC 0.14: Are we multimedia yet?,20,0
+2026-07-04T22:04:58.913572+00:00,48787201,20,BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments,41,22
+2026-07-04T22:04:58.913572+00:00,48746090,21,Designing DB partitions you don't have to babysit,48,7
+2026-07-04T22:04:58.913572+00:00,48745855,22,Postgres data stored in Parquet on S3: LTAP architecture explained,152,50
+2026-07-04T22:04:58.913572+00:00,48786868,23,Finland's last analogue landline phones go silent after 150 years,76,19
+2026-07-04T22:04:58.913572+00:00,48739446,24,Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language,72,23
+2026-07-04T22:04:58.913572+00:00,48730868,25,The .join() that should be a bug,13,1
+2026-07-04T22:04:58.913572+00:00,48780417,26,Performance per dollar is getting faster and cheaper,346,133
+2026-07-04T22:04:58.913572+00:00,48780801,27,Leanstral 1.5: Proof abundance for all,353,94
+2026-07-04T22:04:58.913572+00:00,48783117,28,The bottleneck might be the air in the room,720,415
+2026-07-04T22:04:58.913572+00:00,48739018,29,Mir Books – Books from the Soviet Era,161,76
+2026-07-04T22:04:58.913572+00:00,48737068,30,Night Witches – all-female Soviet aviator regiment WW2,80,26
+2026-07-04T22:04:58.913572+00:00,48787001,31,Game Boy Advance Dev: Logging to the Console,16,1
+2026-07-04T22:04:58.913572+00:00,48780870,32,Giant trees have no trouble pumping water to top branches: new research,258,113
+2026-07-04T22:04:58.913572+00:00,48786245,33,Fable created novel 4D splat format,57,10
+2026-07-04T22:04:58.913572+00:00,48786880,34,Plein Air,50,6
+2026-07-04T22:04:58.913572+00:00,48746327,35,The Vespa at 80,127,121
+2026-07-04T22:04:58.913572+00:00,48780865,36,Steam Controller Auto-Charge – pilot to magnetic charging puck using CV,194,48
+2026-07-04T22:04:58.913572+00:00,48784662,37,The Reports of Jim Carrey's Death Are a Failure Mode,39,28
+2026-07-04T22:04:58.913572+00:00,48784759,38,The Common Lisp Cookbook – LispWorks Review,61,0
+2026-07-04T22:04:58.913572+00:00,48787816,39,EU appears to find datacenter emissions easier to offset than lobbyists,16,0
+2026-07-04T22:04:58.913572+00:00,48781688,40,MSI Center – How to gain SYSTEM privileges in seconds,137,57
+2026-07-04T22:04:58.913572+00:00,48788887,41,Ask HN: New employeer not providing equipment,9,19
+2026-07-04T22:04:58.913572+00:00,48779454,42,SearXNG: A free internet metasearch engine,267,75
+2026-07-04T22:04:58.913572+00:00,48780913,43,The firefighting system of the Van der Heyden brothers in 17th century Amsterdam,129,34
+2026-07-04T22:04:58.913572+00:00,48781196,44,"Odin, Wikipedia and engagement farming",239,355
+2026-07-04T22:04:58.913572+00:00,48780056,45,New serious vulnerabilities spiked around release of Claude Mythos Preview,151,71
+2026-07-04T22:04:58.913572+00:00,48786713,46,Rob Pike – 'Concurrency Is Not Parallelism' [video] (2012),51,29
+2026-07-04T22:04:58.913572+00:00,48782671,47,Agentic coding notes from Galapagos Island,158,78
+2026-07-04T22:04:58.913572+00:00,48739682,49,Gone but Not Forgotten: Recovering the Dead Web,107,44
+2026-07-04T22:04:58.913572+00:00,48785382,50,How the Biosphere 2 experiment changed our understanding of the Earth (2025),11,2
