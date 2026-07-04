@@ -9086,3 +9086,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-04T10:20:15.830057+00:00,48777728,48,I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025),199,109
 2026-07-04T10:20:15.830057+00:00,48774509,49,PostgreSQL and the OOM killer: Why we use strict memory overcommit,170,105
 2026-07-04T10:20:15.830057+00:00,48776464,50,60% Fable cost cut by converting code to images and having the model OCR it,272,91
+2026-07-04T12:11:56.852701+00:00,48783117,1,The bottleneck might be the air in the room,386,222
+2026-07-04T12:11:56.852701+00:00,48783948,2,Astrophysicists Puzzle over Webb's New Universe,46,15
+2026-07-04T12:11:56.852701+00:00,48739018,3,Mir Books – Books from the Soviet Era,102,36
+2026-07-04T12:11:56.852701+00:00,48780417,4,Performance per dollar is getting faster and cheaper,267,97
+2026-07-04T12:11:56.852701+00:00,48782435,5,Maybe you should learn something,145,54
+2026-07-04T12:11:56.852701+00:00,48780801,6,Leanstral 1.5: Proof abundance for all,264,76
+2026-07-04T12:11:56.852701+00:00,48745855,7,Postgres data stored in Parquet on S3: LTAP architecture explained,48,15
+2026-07-04T12:11:56.852701+00:00,48780870,8,Giant trees have no trouble pumping water to top branches: new research,214,100
+2026-07-04T12:11:56.852701+00:00,48739644,9,Ship traces journey Spanish Armada sailors made in 1588,9,2
+2026-07-04T12:11:56.852701+00:00,48782671,10,Agentic coding notes from Galapagos Island,111,51
+2026-07-04T12:11:56.852701+00:00,48780865,11,Steam Controller Auto-Charge – pilot to magnetic charging puck using CV,151,33
+2026-07-04T12:11:56.852701+00:00,48781688,12,MSI Center – How to gain SYSTEM privileges in seconds,102,34
+2026-07-04T12:11:56.852701+00:00,48778757,13,FreeBSD ate my RAM,153,52
+2026-07-04T12:11:56.852701+00:00,48779454,14,SearXNG: A free internet metasearch engine,229,63
+2026-07-04T12:11:56.852701+00:00,48775921,15,Jamesob's guide to running SOTA LLMs locally,362,162
+2026-07-04T12:11:56.852701+00:00,48782219,16,Synthesis is harder than analysis,102,23
+2026-07-04T12:11:56.852701+00:00,48780913,17,The firefighting system of the Van der Heyden brothers in 17th century Amsterdam,102,18
+2026-07-04T12:11:56.852701+00:00,48746429,18,The Scanline Sweeper: A Glyph Rendering Algorithm [pdf],18,2
+2026-07-04T12:11:56.852701+00:00,48781597,19,Soatok's Informal Guide to Threat Models,100,22
+2026-07-04T12:11:56.852701+00:00,48781196,20,"Odin, Wikipedia and engagement farming",168,219
+2026-07-04T12:11:56.852701+00:00,48780056,21,New serious vulnerabilities spiked around release of Claude Mythos Preview,119,47
+2026-07-04T12:11:56.852701+00:00,48739038,22,Show HN: Morph Reflexes – Multi-head classifiers for agent traces,19,2
+2026-07-04T12:11:56.852701+00:00,48749868,23,Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining,21,1
+2026-07-04T12:11:56.852701+00:00,48739682,24,Gone but Not Forgotten: Recovering the Dead Web,77,24
+2026-07-04T12:11:56.852701+00:00,48776044,25,Costco is the anti-Amazon,429,399
+2026-07-04T12:11:56.852701+00:00,48779723,26,Applied Category Theory Course (2018),119,11
+2026-07-04T12:11:56.852701+00:00,48742566,27,Study reveals what people see when they read lips,19,5
+2026-07-04T12:11:56.852701+00:00,48782918,28,David Beazley – Programming Courses,109,29
+2026-07-04T12:11:56.852701+00:00,48776035,29,Factories are just rooms,254,106
+2026-07-04T12:11:56.852701+00:00,48730953,30,Hunting a 16-year-old SQLite WAL bug with TLA+,220,26
+2026-07-04T12:11:56.852701+00:00,48735811,31,Reverse-engineering Codemasters' BIGF archive format in Ruby,21,5
+2026-07-04T12:11:56.852701+00:00,48772573,33,Wordgard: In-browser rich-text editor from the creator of ProseMirror,303,100
+2026-07-04T12:11:56.852701+00:00,48779683,34,Espionage Against the European Parliament,393,98
+2026-07-04T12:11:56.852701+00:00,48783512,35,"Unearthing the Reality of ""Zombie Energy Systems"" in Africa's Energy Transition",8,1
+2026-07-04T12:11:56.852701+00:00,48777266,36,International chess federation sanctions Kramnik,155,92
+2026-07-04T12:11:56.852701+00:00,48772388,37,Half-Baked Product,1286,384
+2026-07-04T12:11:56.852701+00:00,48735097,38,"Show HN: A statically typed, cross-platform, easily bootstrappable build system",36,14
+2026-07-04T12:11:56.852701+00:00,48699010,39,A peek into Reddit's anti-spam internals,175,64
+2026-07-04T12:11:56.852701+00:00,48780826,40,Dispersion loss counteracts embedding condensation in small language models,37,8
+2026-07-04T12:11:56.852701+00:00,48780812,41,GitFut – Your GitHub stats turned into a World-Cup-style player card,56,24
+2026-07-04T12:11:56.852701+00:00,48771515,42,Ask HN: Is anyone experimenting with different ways of using LLMs for coding?,158,173
+2026-07-04T12:11:56.852701+00:00,48779977,43,Africans Are Turning to Starlink,158,201
+2026-07-04T12:11:56.852701+00:00,48766242,44,Show HN: Bramble – Local-first password manager,122,29
+2026-07-04T12:11:56.852701+00:00,48774518,45,Valve open-source the Steam Machine e-ink screen so you can make your own,565,106
+2026-07-04T12:11:56.852701+00:00,48781274,46,Scientists discover guidance system for migratory songbirds,25,7
+2026-07-04T12:11:56.852701+00:00,48780224,47,"Software, from First Principles",97,15
+2026-07-04T12:11:56.852701+00:00,48777144,48,Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI),56,17
+2026-07-04T12:11:56.852701+00:00,48777728,49,I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025),207,115
+2026-07-04T12:11:56.852701+00:00,48780996,50,The circuit that lets your brain think and see,75,17
