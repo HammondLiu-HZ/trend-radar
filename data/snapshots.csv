@@ -8988,3 +8988,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-04T04:41:39.968001+00:00,48774492,48,The Fall and Rise of Screwworm,140,57
 2026-07-04T04:41:39.968001+00:00,48775949,49,Best Simple System for Now (2025),79,15
 2026-07-04T04:41:39.968001+00:00,48693428,50,Quake in 13 Kilobytes (2021),148,21
+2026-07-04T07:53:06.285973+00:00,48783117,1,The bottleneck might be the air in the room,78,36
+2026-07-04T07:53:06.285973+00:00,48782890,2,2026 Unslop AI-Written Fiction Contest Results,18,29
+2026-07-04T07:53:06.285973+00:00,48782671,3,Agentic coding notes from Galapagos Island,63,20
+2026-07-04T07:53:06.285973+00:00,48780417,4,Performance per dollar is getting faster and cheaper,218,67
+2026-07-04T07:53:06.285973+00:00,48780801,5,Leanstral 1.5: Proof abundance for all,201,46
+2026-07-04T07:53:06.285973+00:00,48780870,6,Giant trees have no trouble pumping water to top branches: new research,179,89
+2026-07-04T07:53:06.285973+00:00,48739018,7,Mir Books – Books from the Soviet Era,39,17
+2026-07-04T07:53:06.285973+00:00,48782219,8,Synthesis is harder than analysis,65,12
+2026-07-04T07:53:06.285973+00:00,48781688,9,MSI Center – How to gain SYSTEM privileges in seconds,74,18
+2026-07-04T07:53:06.285973+00:00,48780865,10,Steam Controller Auto-Charge – pilot to magnetic charging puck using CV,123,25
+2026-07-04T07:53:06.285973+00:00,48779454,11,SearXNG: A free internet metasearch engine,199,52
+2026-07-04T07:53:06.285973+00:00,48778757,12,FreeBSD ate my RAM,128,45
+2026-07-04T07:53:06.285973+00:00,48780913,13,The firefighting system of the Van der Heyden brothers in 17th century Amsterdam,78,13
+2026-07-04T07:53:06.285973+00:00,48775921,14,Jamesob's guide to running SOTA LLMs locally,329,149
+2026-07-04T07:53:06.285973+00:00,48781196,15,"Odin, Wikipedia and engagement farming",121,159
+2026-07-04T07:53:06.285973+00:00,48782918,16,David Beazley – Programming Courses,54,17
+2026-07-04T07:53:06.285973+00:00,48749868,17,Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining,11,0
+2026-07-04T07:53:06.285973+00:00,48781597,18,Soatok's Informal Guide to Threat Models,72,9
+2026-07-04T07:53:06.285973+00:00,48780056,19,New serious vulnerabilities spiked around release of Claude Mythos Preview,91,31
+2026-07-04T07:53:06.285973+00:00,48779723,20,Applied Category Theory Course (2018),101,7
+2026-07-04T07:53:06.285973+00:00,48739682,21,Gone but Not Forgotten: Recovering the Dead Web,60,13
+2026-07-04T07:53:06.285973+00:00,48776044,22,Costco is the anti-Amazon,390,366
+2026-07-04T07:53:06.285973+00:00,48782435,23,Maybe you should learn something,37,20
+2026-07-04T07:53:06.285973+00:00,48735811,24,Reverse-engineering Codemasters' BIGF archive format in Ruby,12,3
+2026-07-04T07:53:06.285973+00:00,48742566,25,Study reveals what people see when they read lips,6,0
+2026-07-04T07:53:06.285973+00:00,48779683,27,Espionage Against the European Parliament,345,83
+2026-07-04T07:53:06.285973+00:00,48735097,28,"Show HN: A statically typed, cross-platform, easily bootstrappable build system",30,10
+2026-07-04T07:53:06.285973+00:00,48730953,29,Hunting a 16-year-old SQLite WAL bug with TLA+,201,22
+2026-07-04T07:53:06.285973+00:00,48776035,30,Factories are just rooms,230,94
+2026-07-04T07:53:06.285973+00:00,48777266,31,International chess federation sanctions Kramnik,151,88
+2026-07-04T07:53:06.285973+00:00,48772573,32,Wordgard: In-browser rich-text editor from the creator of ProseMirror,293,96
+2026-07-04T07:53:06.285973+00:00,48780812,33,GitFut – Your GitHub stats turned into a World-Cup-style player card,51,22
+2026-07-04T07:53:06.285973+00:00,48780826,34,Dispersion loss counteracts embedding condensation in small language models,33,8
+2026-07-04T07:53:06.285973+00:00,48779977,35,Africans Are Turning to Starlink,147,177
+2026-07-04T07:53:06.285973+00:00,48772388,36,Half-Baked Product,1251,375
+2026-07-04T07:53:06.285973+00:00,48699010,37,A peek into Reddit's anti-spam internals,167,63
+2026-07-04T07:53:06.285973+00:00,48771515,38,Ask HN: Is anyone experimenting with different ways of using LLMs for coding?,148,168
+2026-07-04T07:53:06.285973+00:00,48780996,39,The circuit that lets your brain think and see,73,16
+2026-07-04T07:53:06.285973+00:00,48780224,40,"Software, from First Principles",87,15
+2026-07-04T07:53:06.285973+00:00,48781274,41,Scientists discover guidance system for migratory songbirds,21,5
+2026-07-04T07:53:06.285973+00:00,48777144,42,Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI),56,16
+2026-07-04T07:53:06.285973+00:00,48774509,43,PostgreSQL and the OOM killer: Why we use strict memory overcommit,167,97
+2026-07-04T07:53:06.285973+00:00,48774518,44,Valve open-source the Steam Machine e-ink screen so you can make your own,553,100
+2026-07-04T07:53:06.285973+00:00,48777728,45,I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025),191,92
+2026-07-04T07:53:06.285973+00:00,48744546,46,We put a Redis server inside our runtime,30,10
+2026-07-04T07:53:06.285973+00:00,48766242,47,Show HN: Bramble – Local-first password manager,120,29
+2026-07-04T07:53:06.285973+00:00,48776464,48,60% Fable cost cut by converting code to images and having the model OCR it,261,89
+2026-07-04T07:53:06.285973+00:00,48777832,49,Holes,214,37
+2026-07-04T07:53:06.285973+00:00,48781199,50,The Trans-America Trail Guide,11,1
