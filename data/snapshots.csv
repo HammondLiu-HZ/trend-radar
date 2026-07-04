@@ -9233,3 +9233,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-04T16:10:34.026656+00:00,48782918,48,David Beazley – Programming Courses,121,32
 2026-07-04T16:10:34.026656+00:00,48777266,49,International chess federation sanctions Kramnik,158,95
 2026-07-04T16:10:34.026656+00:00,48699010,50,A peek into Reddit's anti-spam internals,179,71
+2026-07-04T18:08:27.021692+00:00,48786781,1,Leaking YouTube creators' private videos,146,52
+2026-07-04T18:08:27.021692+00:00,48786838,2,Google Books (or similar) all book scans – $200k bounty (2025),67,15
+2026-07-04T18:08:27.021692+00:00,48785485,3,Potential session/cache leakage between workspace instances or consumer accounts,207,94
+2026-07-04T18:08:27.021692+00:00,48784777,4,Explanation of everything you can see in htop/top on Linux (2019),259,30
+2026-07-04T18:08:27.021692+00:00,48787042,5,No more than 100 000 faint satellites should orbit Earth,16,1
+2026-07-04T18:08:27.021692+00:00,48787201,6,BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments,8,1
+2026-07-04T18:08:27.021692+00:00,48786495,7,Curveball,23,2
+2026-07-04T18:08:27.021692+00:00,48785840,8,Windows CE Dreamcast Community Edition (wince-dc),38,5
+2026-07-04T18:08:27.021692+00:00,48783948,9,Astrophysicists Puzzle over Webb’s New Universe,151,87
+2026-07-04T18:08:27.021692+00:00,48786880,10,Plein Air,10,0
+2026-07-04T18:08:27.021692+00:00,48786868,11,Finland's last analogue landline phones go silent after 150 years,27,2
+2026-07-04T18:08:27.021692+00:00,48746090,12,Designing DB partitions you don't have to babysit,25,1
+2026-07-04T18:08:27.021692+00:00,48782435,13,Maybe you should learn something,344,166
+2026-07-04T18:08:27.021692+00:00,48753160,14,Neural Render Proxies for Interactive and Differentiable Lighting,10,0
+2026-07-04T18:08:27.021692+00:00,48786782,15,Meta data center water discharges suspended for contaminating water supply,37,5
+2026-07-04T18:08:27.021692+00:00,48739446,16,Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language,54,13
+2026-07-04T18:08:27.021692+00:00,48746327,17,The Vespa at 80,109,95
+2026-07-04T18:08:27.021692+00:00,48745855,18,Postgres data stored in Parquet on S3: LTAP architecture explained,128,42
+2026-07-04T18:08:27.021692+00:00,48783117,19,The bottleneck might be the air in the room,658,364
+2026-07-04T18:08:27.021692+00:00,48737068,20,Night Witches – all-female Soviet aviator regiment WW2,65,25
+2026-07-04T18:08:27.021692+00:00,48780801,21,Leanstral 1.5: Proof abundance for all,326,91
+2026-07-04T18:08:27.021692+00:00,48780417,22,Performance per dollar is getting faster and cheaper,324,128
+2026-07-04T18:08:27.021692+00:00,48786713,23,Rob Pike – 'Concurrency Is Not Parallelism' [video],24,11
+2026-07-04T18:08:27.021692+00:00,48742175,24,What ORMs have taught me: just learn SQL (2014),104,128
+2026-07-04T18:08:27.021692+00:00,48784662,25,The Reports of Jim Carrey's Death Are a Failure Mode,26,26
+2026-07-04T18:08:27.021692+00:00,48739018,26,Mir Books – Books from the Soviet Era,144,70
+2026-07-04T18:08:27.021692+00:00,48780870,27,Giant trees have no trouble pumping water to top branches: new research,249,110
+2026-07-04T18:08:27.021692+00:00,48780865,28,Steam Controller Auto-Charge – pilot to magnetic charging puck using CV,187,47
+2026-07-04T18:08:27.021692+00:00,48775921,29,Jamesob's guide to running SOTA LLMs locally,389,175
+2026-07-04T18:08:27.021692+00:00,48778757,30,FreeBSD ate my RAM,183,78
+2026-07-04T18:08:27.021692+00:00,48781688,31,MSI Center – How to gain SYSTEM privileges in seconds,132,52
+2026-07-04T18:08:27.021692+00:00,48782219,32,Synthesis is harder than analysis,137,32
+2026-07-04T18:08:27.021692+00:00,48779454,33,SearXNG: A free internet metasearch engine,258,71
+2026-07-04T18:08:27.021692+00:00,48780913,34,The firefighting system of the Van der Heyden brothers in 17th century Amsterdam,127,30
+2026-07-04T18:08:27.021692+00:00,48780056,35,New serious vulnerabilities spiked around release of Claude Mythos Preview,149,68
+2026-07-04T18:08:27.021692+00:00,48782671,36,Agentic coding notes from Galapagos Island,152,72
+2026-07-04T18:08:27.021692+00:00,48781196,38,"Odin, Wikipedia and engagement farming",225,330
+2026-07-04T18:08:27.021692+00:00,48787058,39,Sick leave: Germany rising but not the worst in Europe,6,0
+2026-07-04T18:08:27.021692+00:00,48785459,40,"A martian rock has lots of carbon on it, and it's not clear why",37,5
+2026-07-04T18:08:27.021692+00:00,48785382,41,How the Biosphere 2 experiment changed our understanding of the Earth (2025),6,0
+2026-07-04T18:08:27.021692+00:00,48785478,42,How working memory could give rise to consciousness,45,42
+2026-07-04T18:08:27.021692+00:00,48739682,43,Gone but Not Forgotten: Recovering the Dead Web,101,41
+2026-07-04T18:08:27.021692+00:00,48776044,44,Costco is the anti-Amazon,524,509
+2026-07-04T18:08:27.021692+00:00,48739644,45,Ship traces journey Spanish Armada sailors made in 1588,21,11
+2026-07-04T18:08:27.021692+00:00,48782890,46,2026 Unslop AI-Written Fiction Contest Results,52,125
+2026-07-04T18:08:27.021692+00:00,48779723,47,Applied Category Theory Course (2018),139,13
+2026-07-04T18:08:27.021692+00:00,48776035,48,Factories are just rooms,271,118
+2026-07-04T18:08:27.021692+00:00,48778031,49,"Farmer, marketer at odds over sales of white nectarines",125,120
+2026-07-04T18:08:27.021692+00:00,48784759,50,The Common Lisp Cookbook – LispWorks Review,44,0
