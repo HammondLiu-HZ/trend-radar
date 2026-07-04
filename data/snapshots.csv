@@ -8939,3 +8939,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-04T00:13:07.439111+00:00,48776525,48,"The Life and Times of Maxis, Part 1: SimEverything",103,14
 2026-07-04T00:13:07.439111+00:00,48780952,49,US Government says it got hacked – again,9,0
 2026-07-04T00:13:07.439111+00:00,48774368,50,Program-as-Weights: A Programming Paradigm for Fuzzy Functions,47,4
+2026-07-04T04:41:39.968001+00:00,48780870,1,Giant trees have no trouble pumping water to top branches: new research,141,70
+2026-07-04T04:41:39.968001+00:00,48780417,2,GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell,154,45
+2026-07-04T04:41:39.968001+00:00,48780801,3,Leanstral 1.5: Proof abundance for all,133,35
+2026-07-04T04:41:39.968001+00:00,48782219,4,Synthesis is harder than analysis,18,7
+2026-07-04T04:41:39.968001+00:00,48782671,5,Agentic coding notes from Galapogos Island,3,0
+2026-07-04T04:41:39.968001+00:00,48781688,6,MSI Center – How to gain SYSTEM privileges in seconds,49,11
+2026-07-04T04:41:39.968001+00:00,48780865,7,Steam Controller Auto-Charge – pilot to magnetic charging puck using CV,100,19
+2026-07-04T04:41:39.968001+00:00,48781196,8,"Odin, Wikipedia and engagement farming",75,82
+2026-07-04T04:41:39.968001+00:00,48779454,9,SearXNG: A free internet metasearch engine,170,47
+2026-07-04T04:41:39.968001+00:00,48780996,10,The circuit that lets your brain think and see,62,12
+2026-07-04T04:41:39.968001+00:00,48780913,11,The firefighting system of the Van der Heyden brothers in 17th century Amsterdam,56,12
+2026-07-04T04:41:39.968001+00:00,48775921,12,Jamesob's guide to running SOTA LLMs locally,305,138
+2026-07-04T04:41:39.968001+00:00,48781597,13,Soatok's Informal Guide to Threat Models,47,5
+2026-07-04T04:41:39.968001+00:00,48735097,14,"Show HN: A statically typed, cross-platform, easily bootstrappable build system",22,7
+2026-07-04T04:41:39.968001+00:00,48779723,15,Applied Category Theory Course (2018),76,7
+2026-07-04T04:41:39.968001+00:00,48780056,16,New serious vulnerabilities spiked around release of Claude Mythos Preview,68,16
+2026-07-04T04:41:39.968001+00:00,48776044,17,Costco is the anti-Amazon,349,328
+2026-07-04T04:41:39.968001+00:00,48779683,18,Espionage Against the European Parliament,303,71
+2026-07-04T04:41:39.968001+00:00,48739682,19,Gone but Not Forgotten: Recovering the Dead Web,39,5
+2026-07-04T04:41:39.968001+00:00,48776035,21,Factories are just rooms,210,81
+2026-07-04T04:41:39.968001+00:00,48777266,22,International chess federation sanctions Kramnik,139,78
+2026-07-04T04:41:39.968001+00:00,48730953,23,Hunting a 16-year-old SQLite WAL bug with TLA+,184,19
+2026-07-04T04:41:39.968001+00:00,48778757,24,FreeBSD ate my RAM,100,41
+2026-07-04T04:41:39.968001+00:00,48780224,25,"Software, from First Principles",67,13
+2026-07-04T04:41:39.968001+00:00,48780826,26,Dispersion loss counteracts embedding condensation in small language models,26,6
+2026-07-04T04:41:39.968001+00:00,48772573,27,Wordgard: In-browser rich-text editor from the creator of ProseMirror,279,93
+2026-07-04T04:41:39.968001+00:00,48780812,28,GitFut – Your GitHub stats turned into a World-Cup-style player card,34,21
+2026-07-04T04:41:39.968001+00:00,48735811,29,Reverse-engineering Codemasters' BIGF archive format in Ruby,3,3
+2026-07-04T04:41:39.968001+00:00,48779977,30,Africans Are Turning to Starlink,133,147
+2026-07-04T04:41:39.968001+00:00,48781274,31,Scientists discover guidance system for migratory songbirds,18,5
+2026-07-04T04:41:39.968001+00:00,48744546,32,We put a Redis server inside our runtime,28,9
+2026-07-04T04:41:39.968001+00:00,48774509,33,PostgreSQL and the OOM killer: Why we use strict memory overcommit,165,89
+2026-07-04T04:41:39.968001+00:00,48699010,34,A peek into Reddit's anti-spam internals,164,61
+2026-07-04T04:41:39.968001+00:00,48771515,35,Ask HN: Is anyone experimenting with different ways of using LLMs for coding?,143,164
+2026-07-04T04:41:39.968001+00:00,48777144,36,Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI),52,14
+2026-07-04T04:41:39.968001+00:00,48772388,37,Half-Baked Product,1219,371
+2026-07-04T04:41:39.968001+00:00,48777728,38,I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025),183,88
+2026-07-04T04:41:39.968001+00:00,48774518,39,Valve open-source the Steam Machine e-ink screen so you can make your own,541,100
+2026-07-04T04:41:39.968001+00:00,48746695,40,Notes from Building Tinkerfont,13,0
+2026-07-04T04:41:39.968001+00:00,48781199,41,The Trans-America Trail Guide,10,1
+2026-07-04T04:41:39.968001+00:00,48776464,42,60% Fable cost cut by converting code to images and having the model OCR it,248,87
+2026-07-04T04:41:39.968001+00:00,48754326,43,You can get Unicode working on DOS,12,5
+2026-07-04T04:41:39.968001+00:00,48766242,44,Show HN: Bramble – Local-first password manager,114,27
+2026-07-04T04:41:39.968001+00:00,48781250,45,XMM-Newton helps revise distance to outer spiral arms,6,0
+2026-07-04T04:41:39.968001+00:00,48777832,46,Holes,198,34
+2026-07-04T04:41:39.968001+00:00,48780858,47,Save Claude Code Tokens with Smart Routing,9,0
+2026-07-04T04:41:39.968001+00:00,48774492,48,The Fall and Rise of Screwworm,140,57
+2026-07-04T04:41:39.968001+00:00,48775949,49,Best Simple System for Now (2025),79,15
+2026-07-04T04:41:39.968001+00:00,48693428,50,Quake in 13 Kilobytes (2021),148,21
