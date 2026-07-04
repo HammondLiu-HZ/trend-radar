@@ -8890,3 +8890,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-03T22:11:37.088117+00:00,48768951,48,Protect your right to run local AI,482,171
 2026-07-03T22:11:37.088117+00:00,48728334,49,Closer to Rude Than Snide: An Interview with Leo Robson,4,0
 2026-07-03T22:11:37.088117+00:00,48777962,50,Show HN: Dockside – I turned unused space around the macOS Dock into a workspace,5,2
+2026-07-04T00:13:07.439111+00:00,48780870,1,Giant trees have no trouble pumping water to top branches,45,20
+2026-07-04T00:13:07.439111+00:00,48780801,2,Leanstral 1.5: Proof Abundance for All,36,4
+2026-07-04T00:13:07.439111+00:00,48779454,3,SearXNG: A free internet metasearch engine,110,27
+2026-07-04T00:13:07.439111+00:00,48781196,4,"Odin, Wikipedia and Engagement Farming",22,4
+2026-07-04T00:13:07.439111+00:00,48780996,5,The circuit that lets your brain think and see,16,1
+2026-07-04T00:13:07.439111+00:00,48780865,6,Steam Controller Auto-Charge – pilot to magnetic charging puck using CV,31,5
+2026-07-04T00:13:07.439111+00:00,48780913,7,Amsterdam invented the fire department,25,6
+2026-07-04T00:13:07.439111+00:00,48780826,8,Dispersion loss counteracts embedding condensation in small language models,15,3
+2026-07-04T00:13:07.439111+00:00,48780417,9,GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell,39,10
+2026-07-04T00:13:07.439111+00:00,48775921,10,Jamesob's guide to running SOTA LLMs locally,257,121
+2026-07-04T00:13:07.439111+00:00,48779683,11,Espionage Against the European Parliament,248,64
+2026-07-04T00:13:07.439111+00:00,48779723,13,Applied Category Theory Course (2018),39,5
+2026-07-04T00:13:07.439111+00:00,48744546,14,We put a Redis server inside our runtime,14,5
+2026-07-04T00:13:07.439111+00:00,48780056,15,New serious vulnerabilities spiked around release of Claude Mythos Preview,22,6
+2026-07-04T00:13:07.439111+00:00,48778757,16,FreeBSD ate my RAM,80,32
+2026-07-04T00:13:07.439111+00:00,48779977,17,Africans Are Turning to Starlink,80,71
+2026-07-04T00:13:07.439111+00:00,48777266,18,International chess federation sanctions Kramnik,110,58
+2026-07-04T00:13:07.439111+00:00,48776044,19,Costco is the anti-Amazon,261,247
+2026-07-04T00:13:07.439111+00:00,48776035,20,Factories are just rooms,180,73
+2026-07-04T00:13:07.439111+00:00,48730953,21,Hunting a 16-year-old SQLite WAL bug with TLA+,163,12
+2026-07-04T00:13:07.439111+00:00,48780224,22,"Software, from First Principles",17,6
+2026-07-04T00:13:07.439111+00:00,48780812,23,GitFut – Your GitHub stats turned into a World-Cup-style player card,7,4
+2026-07-04T00:13:07.439111+00:00,48777144,24,Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI),45,13
+2026-07-04T00:13:07.439111+00:00,48772573,25,Wordgard: In-browser rich-text editor from the creator of ProseMirror,256,90
+2026-07-04T00:13:07.439111+00:00,48774509,26,PostgreSQL and the OOM killer: Why we use strict memory overcommit,150,85
+2026-07-04T00:13:07.439111+00:00,48777728,27,I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025),136,71
+2026-07-04T00:13:07.439111+00:00,48699010,28,A peek into Reddit's anti-spam internals,155,56
+2026-07-04T00:13:07.439111+00:00,48774518,29,Valve open-source the Steam Machine e-ink screen so you can make your own,528,97
+2026-07-04T00:13:07.439111+00:00,48771515,30,Ask HN: Is anyone experimenting with different ways of using LLMs for coding?,123,149
+2026-07-04T00:13:07.439111+00:00,48772388,31,Half-Baked Product,1191,365
+2026-07-04T00:13:07.439111+00:00,48776464,32,60% Fable cost cut by converting code to images and having the model OCR it,227,87
+2026-07-04T00:13:07.439111+00:00,48777832,33,Holes,177,29
+2026-07-04T00:13:07.439111+00:00,48780281,34,How to migrate from Proxmox VE 8 to 9: step-by-step guide (2026),7,2
+2026-07-04T00:13:07.439111+00:00,48779352,35,"Kagi Changelog (July 2): Heads, tails, and an AI toggle",50,10
+2026-07-04T00:13:07.439111+00:00,48780674,36,Disputing the Declaration of Independence,7,0
+2026-07-04T00:13:07.439111+00:00,48774492,37,The Fall and Rise of Screwworm,132,55
+2026-07-04T00:13:07.439111+00:00,48775949,38,Best Simple System for Now (2025),73,15
+2026-07-04T00:13:07.439111+00:00,48780815,39,"David Potter, the man who put Psion in the palm of your hand, logs off at 82",13,1
+2026-07-04T00:13:07.439111+00:00,48781103,40,"The UK's Latest ""Debanking"" Scandal Should Give Everyone Pause",7,1
+2026-07-04T00:13:07.439111+00:00,48732870,41,My dad helped build North America's oat supply chain: Can it be remade?,83,50
+2026-07-04T00:13:07.439111+00:00,48779933,42,Show HN: ContextCodeCache in Rust,8,0
+2026-07-04T00:13:07.439111+00:00,48766242,43,Show HN: Bramble – Local-first password manager,108,25
+2026-07-04T00:13:07.439111+00:00,48752948,44,Show HN: CLI that helps AI agents avoid vulnerable dependencies,20,4
+2026-07-04T00:13:07.439111+00:00,48779182,45,"Show HN: Topics, Not Feeds",8,3
+2026-07-04T00:13:07.439111+00:00,48780999,46,Apple 'Hide My Email' Vulnerability Reveals Peoples' Real Email Addresses,10,1
+2026-07-04T00:13:07.439111+00:00,48763291,47,Flexible metaprogramming with Rhombus,106,4
+2026-07-04T00:13:07.439111+00:00,48776525,48,"The Life and Times of Maxis, Part 1: SimEverything",103,14
+2026-07-04T00:13:07.439111+00:00,48780952,49,US Government says it got hacked – again,9,0
+2026-07-04T00:13:07.439111+00:00,48774368,50,Program-as-Weights: A Programming Paradigm for Fuzzy Functions,47,4
