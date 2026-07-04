@@ -9037,3 +9037,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-04T07:53:06.285973+00:00,48776464,48,60% Fable cost cut by converting code to images and having the model OCR it,261,89
 2026-07-04T07:53:06.285973+00:00,48777832,49,Holes,214,37
 2026-07-04T07:53:06.285973+00:00,48781199,50,The Trans-America Trail Guide,11,1
+2026-07-04T10:20:15.830057+00:00,48783117,1,The bottleneck might be the air in the room,243,153
+2026-07-04T10:20:15.830057+00:00,48739018,2,Mir Books – Books from the Soviet Era,84,28
+2026-07-04T10:20:15.830057+00:00,48782671,3,Agentic coding notes from Galapagos Island,93,36
+2026-07-04T10:20:15.830057+00:00,48780417,4,Performance per dollar is getting faster and cheaper,249,88
+2026-07-04T10:20:15.830057+00:00,48780801,5,Leanstral 1.5: Proof abundance for all,236,69
+2026-07-04T10:20:15.830057+00:00,48780870,6,Giant trees have no trouble pumping water to top branches: new research,203,94
+2026-07-04T10:20:15.830057+00:00,48745855,7,Postgres data stored in Parquet on S3: LTAP architecture explained,26,10
+2026-07-04T10:20:15.830057+00:00,48783948,8,Astrophysicists Puzzle over Webb's New Universe,9,1
+2026-07-04T10:20:15.830057+00:00,48782435,9,Maybe you should learn something,94,34
+2026-07-04T10:20:15.830057+00:00,48782219,10,Synthesis is harder than analysis,92,21
+2026-07-04T10:20:15.830057+00:00,48780865,11,Steam Controller Auto-Charge – pilot to magnetic charging puck using CV,142,29
+2026-07-04T10:20:15.830057+00:00,48781688,12,MSI Center – How to gain SYSTEM privileges in seconds,91,28
+2026-07-04T10:20:15.830057+00:00,48779454,13,SearXNG: A free internet metasearch engine,217,58
+2026-07-04T10:20:15.830057+00:00,48778757,14,FreeBSD ate my RAM,140,48
+2026-07-04T10:20:15.830057+00:00,48775921,15,Jamesob's guide to running SOTA LLMs locally,349,153
+2026-07-04T10:20:15.830057+00:00,48780913,16,The firefighting system of the Van der Heyden brothers in 17th century Amsterdam,95,16
+2026-07-04T10:20:15.830057+00:00,48781196,17,"Odin, Wikipedia and engagement farming",154,206
+2026-07-04T10:20:15.830057+00:00,48781597,18,Soatok's Informal Guide to Threat Models,92,12
+2026-07-04T10:20:15.830057+00:00,48746429,19,The Scanline Sweeper: A Glyph Rendering Algorithm [pdf],7,2
+2026-07-04T10:20:15.830057+00:00,48780056,20,New serious vulnerabilities spiked around release of Claude Mythos Preview,109,34
+2026-07-04T10:20:15.830057+00:00,48749868,21,Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining,15,0
+2026-07-04T10:20:15.830057+00:00,48782918,22,David Beazley – Programming Courses,84,26
+2026-07-04T10:20:15.830057+00:00,48776044,23,Costco is the anti-Amazon,412,381
+2026-07-04T10:20:15.830057+00:00,48735811,24,Reverse-engineering Codemasters' BIGF archive format in Ruby,19,5
+2026-07-04T10:20:15.830057+00:00,48742566,25,Study reveals what people see when they read lips,14,2
+2026-07-04T10:20:15.830057+00:00,48739682,26,Gone but Not Forgotten: Recovering the Dead Web,68,21
+2026-07-04T10:20:15.830057+00:00,48779723,27,Applied Category Theory Course (2018),111,8
+2026-07-04T10:20:15.830057+00:00,48783512,28,"Unearthing the Reality of ""Zombie Energy Systems"" in Africa's Energy Transition",3,0
+2026-07-04T10:20:15.830057+00:00,48776035,29,Factories are just rooms,248,102
+2026-07-04T10:20:15.830057+00:00,48730953,31,Hunting a 16-year-old SQLite WAL bug with TLA+,217,24
+2026-07-04T10:20:15.830057+00:00,48779683,32,Espionage Against the European Parliament,387,92
+2026-07-04T10:20:15.830057+00:00,48772573,33,Wordgard: In-browser rich-text editor from the creator of ProseMirror,300,98
+2026-07-04T10:20:15.830057+00:00,48777266,34,International chess federation sanctions Kramnik,154,91
+2026-07-04T10:20:15.830057+00:00,48735097,35,"Show HN: A statically typed, cross-platform, easily bootstrappable build system",35,14
+2026-07-04T10:20:15.830057+00:00,48780812,36,GitFut – Your GitHub stats turned into a World-Cup-style player card,55,22
+2026-07-04T10:20:15.830057+00:00,48772388,37,Half-Baked Product,1278,382
+2026-07-04T10:20:15.830057+00:00,48771515,38,Ask HN: Is anyone experimenting with different ways of using LLMs for coding?,151,171
+2026-07-04T10:20:15.830057+00:00,48699010,39,A peek into Reddit's anti-spam internals,172,64
+2026-07-04T10:20:15.830057+00:00,48780826,40,Dispersion loss counteracts embedding condensation in small language models,34,8
+2026-07-04T10:20:15.830057+00:00,48779977,41,Africans Are Turning to Starlink,156,191
+2026-07-04T10:20:15.830057+00:00,48781274,42,Scientists discover guidance system for migratory songbirds,23,5
+2026-07-04T10:20:15.830057+00:00,48766242,43,Show HN: Bramble – Local-first password manager,122,28
+2026-07-04T10:20:15.830057+00:00,48774518,44,Valve open-source the Steam Machine e-ink screen so you can make your own,560,103
+2026-07-04T10:20:15.830057+00:00,48780224,45,"Software, from First Principles",96,15
+2026-07-04T10:20:15.830057+00:00,48777144,46,Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI),56,16
+2026-07-04T10:20:15.830057+00:00,48780996,47,The circuit that lets your brain think and see,75,17
+2026-07-04T10:20:15.830057+00:00,48777728,48,I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025),199,109
+2026-07-04T10:20:15.830057+00:00,48774509,49,PostgreSQL and the OOM killer: Why we use strict memory overcommit,170,105
+2026-07-04T10:20:15.830057+00:00,48776464,50,60% Fable cost cut by converting code to images and having the model OCR it,272,91
