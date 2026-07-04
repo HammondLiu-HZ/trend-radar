@@ -9282,3 +9282,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-04T18:08:27.021692+00:00,48776035,48,Factories are just rooms,271,118
 2026-07-04T18:08:27.021692+00:00,48778031,49,"Farmer, marketer at odds over sales of white nectarines",125,120
 2026-07-04T18:08:27.021692+00:00,48784759,50,The Common Lisp Cookbook – LispWorks Review,44,0
+2026-07-04T20:13:42.952269+00:00,48786781,1,Leaking YouTube creators' private videos,318,150
+2026-07-04T20:13:42.952269+00:00,48788361,2,AI has torched the market for junior programmers,30,15
+2026-07-04T20:13:42.952269+00:00,48786838,3,Google Books (or similar) all book scans – $200k bounty (2025),180,78
+2026-07-04T20:13:42.952269+00:00,48788283,4,"Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",29,12
+2026-07-04T20:13:42.952269+00:00,48787329,5,Verizon is About to Break our Watches,66,25
+2026-07-04T20:13:42.952269+00:00,48785485,6,Potential session/cache leakage between workspace instances or consumer accounts,236,114
+2026-07-04T20:13:42.952269+00:00,48738395,7,Drone Physics,23,2
+2026-07-04T20:13:42.952269+00:00,48784777,8,Explanation of everything you can see in htop/top on Linux (2019),313,41
+2026-07-04T20:13:42.952269+00:00,48787201,9,BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments,33,6
+2026-07-04T20:13:42.952269+00:00,48785840,10,Windows CE Dreamcast Community Edition (wince-dc),59,11
+2026-07-04T20:13:42.952269+00:00,48786782,11,Meta data center water discharges suspended for contaminating water supply,132,46
+2026-07-04T20:13:42.952269+00:00,48786880,12,Plein Air,36,4
+2026-07-04T20:13:42.952269+00:00,48786495,13,Curveball,31,7
+2026-07-04T20:13:42.952269+00:00,48787725,14,"As downtown Seattle offices empty, city facing years of 'zombie' towers",53,55
+2026-07-04T20:13:42.952269+00:00,48783948,15,Astrophysicists Puzzle over Webb’s New Universe,164,100
+2026-07-04T20:13:42.952269+00:00,48786638,16,Zig: All Package Management Functionality Moved from Compiler to Build System,23,1
+2026-07-04T20:13:42.952269+00:00,48787987,17,Wicklow hotel cancels 'secretive' Peter Thiel group conference,24,1
+2026-07-04T20:13:42.952269+00:00,48730868,18,The .join() that should be a bug,11,0
+2026-07-04T20:13:42.952269+00:00,48786970,19,EndBASIC 0.14: Are we multimedia yet?,14,0
+2026-07-04T20:13:42.952269+00:00,48782435,20,Maybe you should learn something,379,175
+2026-07-04T20:13:42.952269+00:00,48786868,21,Finland's last analogue landline phones go silent after 150 years,61,14
+2026-07-04T20:13:42.952269+00:00,48746090,22,Designing DB partitions you don't have to babysit,35,4
+2026-07-04T20:13:42.952269+00:00,48787042,23,No more than 100 000 faint satellites should orbit Earth,93,132
+2026-07-04T20:13:42.952269+00:00,48739446,24,Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language,65,18
+2026-07-04T20:13:42.952269+00:00,48745855,25,Postgres data stored in Parquet on S3: LTAP architecture explained,142,44
+2026-07-04T20:13:42.952269+00:00,48753160,26,Neural Render Proxies for Interactive and Differentiable Lighting,25,3
+2026-07-04T20:13:42.952269+00:00,48787001,27,Game Boy Advance Dev: Logging to the Console,8,0
+2026-07-04T20:13:42.952269+00:00,48783117,28,The bottleneck might be the air in the room,696,391
+2026-07-04T20:13:42.952269+00:00,48780417,29,Performance per dollar is getting faster and cheaper,334,132
+2026-07-04T20:13:42.952269+00:00,48780801,30,Leanstral 1.5: Proof abundance for all,338,93
+2026-07-04T20:13:42.952269+00:00,48737068,31,Night Witches – all-female Soviet aviator regiment WW2,72,26
+2026-07-04T20:13:42.952269+00:00,48746327,32,The Vespa at 80,123,110
+2026-07-04T20:13:42.952269+00:00,48786245,33,Fable created novel 4D splat format,17,3
+2026-07-04T20:13:42.952269+00:00,48739018,34,Mir Books – Books from the Soviet Era,155,76
+2026-07-04T20:13:42.952269+00:00,48780870,35,Giant trees have no trouble pumping water to top branches: new research,257,112
+2026-07-04T20:13:42.952269+00:00,48780865,36,Steam Controller Auto-Charge – pilot to magnetic charging puck using CV,193,48
+2026-07-04T20:13:42.952269+00:00,48786713,37,Rob Pike – 'Concurrency Is Not Parallelism' [video] (2012),46,27
+2026-07-04T20:13:42.952269+00:00,48784662,38,The Reports of Jim Carrey's Death Are a Failure Mode,36,28
+2026-07-04T20:13:42.952269+00:00,48778757,39,FreeBSD ate my RAM,186,77
+2026-07-04T20:13:42.952269+00:00,48787816,41,EU appears to find datacenter emissions easier to offset than lobbyists,8,0
+2026-07-04T20:13:42.952269+00:00,48781688,42,MSI Center – How to gain SYSTEM privileges in seconds,136,56
+2026-07-04T20:13:42.952269+00:00,48779454,43,SearXNG: A free internet metasearch engine,263,71
+2026-07-04T20:13:42.952269+00:00,48787239,44,Microsoft GDID telemetry includes full browsing and gaming history,16,0
+2026-07-04T20:13:42.952269+00:00,48780913,45,The firefighting system of the Van der Heyden brothers in 17th century Amsterdam,128,32
+2026-07-04T20:13:42.952269+00:00,48782219,46,Synthesis is harder than analysis,140,33
+2026-07-04T20:13:42.952269+00:00,48781196,47,"Odin, Wikipedia and engagement farming",233,340
+2026-07-04T20:13:42.952269+00:00,48780056,48,New serious vulnerabilities spiked around release of Claude Mythos Preview,149,71
+2026-07-04T20:13:42.952269+00:00,48782671,49,Agentic coding notes from Galapagos Island,158,77
+2026-07-04T20:13:42.952269+00:00,48742175,50,What ORMs have taught me: just learn SQL (2014),116,158
