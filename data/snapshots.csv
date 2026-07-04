@@ -9184,3 +9184,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-04T14:42:26.822010+00:00,48780826,48,Dispersion loss counteracts embedding condensation in small language models,40,8
 2026-07-04T14:42:26.822010+00:00,48780812,49,GitFut – Your GitHub stats turned into a World-Cup-style player card,58,24
 2026-07-04T14:42:26.822010+00:00,48766242,50,Show HN: Bramble – Local-first password manager,123,31
+2026-07-04T16:10:34.026656+00:00,48785485,1,Potential session/cache leakage between workspace instances or consumer accounts,123,46
+2026-07-04T16:10:34.026656+00:00,48784777,2,Explanation of everything you can see in htop/top on Linux,163,22
+2026-07-04T16:10:34.026656+00:00,48742175,3,What ORMs have taught me: just learn SQL (2014),45,27
+2026-07-04T16:10:34.026656+00:00,48783948,4,Astrophysicists Puzzle over Webb’s New Universe,125,71
+2026-07-04T16:10:34.026656+00:00,48782435,5,Maybe you should learn something,293,144
+2026-07-04T16:10:34.026656+00:00,48745855,6,Postgres data stored in Parquet on S3: LTAP architecture explained,112,34
+2026-07-04T16:10:34.026656+00:00,48783117,7,The bottleneck might be the air in the room,591,347
+2026-07-04T16:10:34.026656+00:00,48739446,8,Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language,30,3
+2026-07-04T16:10:34.026656+00:00,48780417,9,Performance per dollar is getting faster and cheaper,310,127
+2026-07-04T16:10:34.026656+00:00,48776044,10,Costco is the anti-Amazon,491,449
+2026-07-04T16:10:34.026656+00:00,48780801,11,Leanstral 1.5: Proof abundance for all,311,87
+2026-07-04T16:10:34.026656+00:00,48737068,12,Night Witches – all-female Soviet aviator regiment WW2,46,16
+2026-07-04T16:10:34.026656+00:00,48746327,13,The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels,83,79
+2026-07-04T16:10:34.026656+00:00,48739018,14,Mir Books – Books from the Soviet Era,132,64
+2026-07-04T16:10:34.026656+00:00,48780870,15,Giant trees have no trouble pumping water to top branches: new research,244,107
+2026-07-04T16:10:34.026656+00:00,48785478,16,How working memory could give rise to consciousness,21,21
+2026-07-04T16:10:34.026656+00:00,48780865,17,Steam Controller Auto-Charge – pilot to magnetic charging puck using CV,175,43
+2026-07-04T16:10:34.026656+00:00,48775921,18,Jamesob's guide to running SOTA LLMs locally,382,172
+2026-07-04T16:10:34.026656+00:00,48781688,19,MSI Center – How to gain SYSTEM privileges in seconds,125,51
+2026-07-04T16:10:34.026656+00:00,48778757,20,FreeBSD ate my RAM,176,72
+2026-07-04T16:10:34.026656+00:00,48782219,21,Synthesis is harder than analysis,127,30
+2026-07-04T16:10:34.026656+00:00,48785459,22,"A martian rock has lots of carbon on it, and it's not clear why",22,3
+2026-07-04T16:10:34.026656+00:00,48779454,23,SearXNG: A free internet metasearch engine,250,69
+2026-07-04T16:10:34.026656+00:00,48780913,24,The firefighting system of the Van der Heyden brothers in 17th century Amsterdam,118,25
+2026-07-04T16:10:34.026656+00:00,48782890,25,2026 Unslop AI-Written Fiction Contest Results,46,114
+2026-07-04T16:10:34.026656+00:00,48739644,26,Ship traces journey Spanish Armada sailors made in 1588,20,11
+2026-07-04T16:10:34.026656+00:00,48782671,27,Agentic coding notes from Galapagos Island,147,67
+2026-07-04T16:10:34.026656+00:00,48780056,28,New serious vulnerabilities spiked around release of Claude Mythos Preview,141,61
+2026-07-04T16:10:34.026656+00:00,48784662,29,The Reports of Jim Carrey's Death Are a Failure Mode,12,7
+2026-07-04T16:10:34.026656+00:00,48781196,30,"Odin, Wikipedia and engagement farming",213,299
+2026-07-04T16:10:34.026656+00:00,48785720,31,"California Bans 'Sell by' Labels, Hoping to Cut Food Waste",9,3
+2026-07-04T16:10:34.026656+00:00,48746429,32,The Scanline Sweeper: A Glyph Rendering Algorithm [pdf],29,2
+2026-07-04T16:10:34.026656+00:00,48739682,33,Gone but Not Forgotten: Recovering the Dead Web,95,40
+2026-07-04T16:10:34.026656+00:00,48779723,34,Applied Category Theory Course (2018),135,11
+2026-07-04T16:10:34.026656+00:00,48776035,35,Factories are just rooms,265,112
+2026-07-04T16:10:34.026656+00:00,48778031,37,"Farmer, marketer at odds over sales of white nectarines",123,120
+2026-07-04T16:10:34.026656+00:00,48730953,38,Hunting a 16-year-old SQLite WAL bug with TLA+,225,28
+2026-07-04T16:10:34.026656+00:00,48749868,39,Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining,31,3
+2026-07-04T16:10:34.026656+00:00,48772573,40,Wordgard: In-browser rich-text editor from the creator of ProseMirror,308,104
+2026-07-04T16:10:34.026656+00:00,48781597,41,Soatok's Informal Guide to Threat Models,116,30
+2026-07-04T16:10:34.026656+00:00,48784759,42,The Common Lisp Cookbook – LispWorks Review,40,0
+2026-07-04T16:10:34.026656+00:00,48779683,43,Espionage Against the European Parliament,400,112
+2026-07-04T16:10:34.026656+00:00,48774509,44,PostgreSQL and the OOM killer: Why we use strict memory overcommit,181,112
+2026-07-04T16:10:34.026656+00:00,48742566,45,Study reveals what people see when they read lips,21,8
+2026-07-04T16:10:34.026656+00:00,48735811,46,Reverse-engineering Codemasters' BIGF archive format in Ruby,23,5
+2026-07-04T16:10:34.026656+00:00,48772388,47,Half-Baked Product,1302,391
+2026-07-04T16:10:34.026656+00:00,48782918,48,David Beazley – Programming Courses,121,32
+2026-07-04T16:10:34.026656+00:00,48777266,49,International chess federation sanctions Kramnik,158,95
+2026-07-04T16:10:34.026656+00:00,48699010,50,A peek into Reddit's anti-spam internals,179,71
