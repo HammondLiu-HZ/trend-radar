@@ -9779,3 +9779,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-05T19:37:00.920608+00:00,48796020,48,How Bending Spoons built a $23B tech empire from struggling brands,10,1
 2026-07-05T19:37:00.920608+00:00,48794049,49,Scheme Is a Hoot,5,0
 2026-07-05T19:37:00.920608+00:00,48746933,50,Trust your compiler: Modern C++,61,38
+2026-07-05T21:11:48.213641+00:00,48794446,1,Organic Maps,650,188
+2026-07-05T21:11:48.213641+00:00,48796817,2,New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf],78,45
+2026-07-05T21:11:48.213641+00:00,48796552,3,The future of Flipper Zero development,128,19
+2026-07-05T21:11:48.213641+00:00,48796093,4,Starring the Computer,120,31
+2026-07-05T21:11:48.213641+00:00,48770291,5,Mr. Baby Paint and accidentally discovering a new cellular automata,42,5
+2026-07-05T21:11:48.213641+00:00,48794750,6,"It's not about physical vs. digital games, it's about ownership",189,146
+2026-07-05T21:11:48.213641+00:00,48793454,7,Introduction to Compilers and Language Design (2021),241,42
+2026-07-05T21:11:48.213641+00:00,48794302,8,Run Windows 2000 on a DEC Alpha with a new es40 fork,79,43
+2026-07-05T21:11:48.213641+00:00,48795323,9,Installing A/UX 1.1 like it's the 90s,32,11
+2026-07-05T21:11:48.213641+00:00,48766456,10,We Always Leave Things Unfinished,9,0
+2026-07-05T21:11:48.213641+00:00,48796792,11,You need a webring,28,17
+2026-07-05T21:11:48.213641+00:00,48758802,12,The great blogging collapse: What happened to 100 successful blogs?,113,86
+2026-07-05T21:11:48.213641+00:00,48797015,13,Small Penis Rule,76,21
+2026-07-05T21:11:48.213641+00:00,48755686,14,Papa Johns Can Predict When Your Fridge Is Empty,15,17
+2026-07-05T21:11:48.213641+00:00,48786284,15,Airplane Boneyards List and Map,67,12
+2026-07-05T21:11:48.213641+00:00,48794788,16,"Why DMARC's new ""NP"" tag can fail with DNSSEC",35,12
+2026-07-05T21:11:48.213641+00:00,48791328,17,Shadcn/UI now defaults to Base UI instead of Radix,270,146
+2026-07-05T21:11:48.213641+00:00,48796784,18,Jim Keller's startup is building a factory to mass-produce small chip fabs,48,11
+2026-07-05T21:11:48.213641+00:00,48752949,19,OpenWiki: CLI that writes and maintains agent documentation for your codebase,69,17
+2026-07-05T21:11:48.213641+00:00,48796049,20,Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis,6,0
+2026-07-05T21:11:48.213641+00:00,48746771,21,Medieval-style fortifications are back in the Sahel,78,61
+2026-07-05T21:11:48.213641+00:00,48747733,22,The GNU Emacs Architecture: Unlocking the Core [pdf],169,13
+2026-07-05T21:11:48.213641+00:00,48792203,23,Web-based cryptography is always snake oil,89,93
+2026-07-05T21:11:48.213641+00:00,48792008,24,"Fast Software, the Best Software (2019)",116,65
+2026-07-05T21:11:48.213641+00:00,48793542,25,Show HN: KiCad in the Browser,85,30
+2026-07-05T21:11:48.213641+00:00,48773079,26,Pandoc Lua Filters,131,11
+2026-07-05T21:11:48.213641+00:00,48762301,27,Optimizing an algorithm that's quadratic by design,12,2
+2026-07-05T21:11:48.213641+00:00,48795830,28,A sociotechnical threat model for AI-driven smart home devices,77,55
+2026-07-05T21:11:48.213641+00:00,48793393,29,EU Council forces Chat Control via fast-track,344,193
+2026-07-05T21:11:48.213641+00:00,48797529,30,Tripadvisor AI summaries give glowing reviews to dangerous hotels,11,3
+2026-07-05T21:11:48.213641+00:00,48795174,31,Autonomous flying umbrella follows and shields users from rain and sunlight,76,33
+2026-07-05T21:11:48.213641+00:00,48796473,32,Every postcard tells a story,6,2
+2026-07-05T21:11:48.213641+00:00,48790689,33,"If you're a button, you have one job",515,249
+2026-07-05T21:11:48.213641+00:00,48796438,34,Do you hate XML? (2010),27,48
+2026-07-05T21:11:48.213641+00:00,48797824,35,How to Dox Anyone,4,1
+2026-07-05T21:11:48.213641+00:00,48788283,36,"Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",651,270
+2026-07-05T21:11:48.213641+00:00,48746038,37,"Rayfish, Peer-to-peer mesh VPN with no server to trust",97,66
+2026-07-05T21:11:48.213641+00:00,48791591,38,Megawatts by Microwave,74,5
+2026-07-05T21:11:48.213641+00:00,48791266,39,Moby Dick Workout (2022),96,33
+2026-07-05T21:11:48.213641+00:00,48790912,40,The Log is the Agent,99,45
+2026-07-05T21:11:48.213641+00:00,48796751,41,Driving in China as a Tourist,14,0
+2026-07-05T21:11:48.213641+00:00,48793492,42,Cannabis users face substantially higher risk of heart attack (2025),151,207
+2026-07-05T21:11:48.213641+00:00,48795986,43,Neoengineers,10,15
+2026-07-05T21:11:48.213641+00:00,48751144,44,Artful Cats: Feline-Inspired Art and Artifacts,77,5
+2026-07-05T21:11:48.213641+00:00,48765920,45,Atomic Force Microscope [video],113,16
+2026-07-05T21:11:48.213641+00:00,48794049,46,Scheme Is a Hoot,9,0
+2026-07-05T21:11:48.213641+00:00,48794179,47,Phosh 0.56.0,134,57
+2026-07-05T21:11:48.213641+00:00,48789428,48,GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance,350,146
+2026-07-05T21:11:48.213641+00:00,48796631,49,Claude Played Me for a Fool,7,4
+2026-07-05T21:11:48.213641+00:00,48789965,50,Drone Autonomy (2021),77,10
