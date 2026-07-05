@@ -9429,3 +9429,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-05T00:08:01.440776+00:00,48787047,48,National Institute of Standards and Technology | NIST | Official US Time,6,0
 2026-07-05T00:08:01.440776+00:00,48787000,49,Shipping post-quantum cryptography to Python – The Trail of Bits Blog,6,1
 2026-07-05T00:08:01.440776+00:00,48788887,50,Ask HN: New employeer not providing equipment,20,33
+2026-07-05T05:03:31.949413+00:00,48788283,1,"Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",436,170
+2026-07-05T05:03:31.949413+00:00,48789428,2,GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance,201,69
+2026-07-05T05:03:31.949413+00:00,48790689,3,"If you're a button, you have one job",56,13
+2026-07-05T05:03:31.949413+00:00,48789712,4,Jellyfish can heal wounds in minutes. Scientists want their secrets,75,16
+2026-07-05T05:03:31.949413+00:00,48786838,5,Google Books (or similar) all book scans – $200k bounty (2025),389,209
+2026-07-05T05:03:31.949413+00:00,48786781,6,Leaking YouTube creators' private videos,538,303
+2026-07-05T05:03:31.949413+00:00,48765920,7,"Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",31,1
+2026-07-05T05:03:31.949413+00:00,48751144,8,Artful Cats: Feline-Inspired Art and Artifacts,7,0
+2026-07-05T05:03:31.949413+00:00,48784777,9,Explanation of everything you can see in htop/top on Linux (2019),446,55
+2026-07-05T05:03:31.949413+00:00,48788599,10,Better Models: Worse Tools,131,41
+2026-07-05T05:03:31.949413+00:00,48750405,11,Meta's Un-Stable Signature,48,2
+2026-07-05T05:03:31.949413+00:00,48790240,12,Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025),31,6
+2026-07-05T05:03:31.949413+00:00,48785485,13,Potential session/cache leakage between workspace instances or consumer accounts,282,129
+2026-07-05T05:03:31.949413+00:00,48786638,14,Zig: All Package Management Functionality Moved from Compiler to Build System,164,34
+2026-07-05T05:03:31.949413+00:00,48790512,15,Record-breaking solo rower Kelsey Pfendler arrives in Hawaii,15,1
+2026-07-05T05:03:31.949413+00:00,48787042,16,"""Beyond the limit"": Satellites and mirrors in space pose threat to the night sky",117,206
+2026-07-05T05:03:31.949413+00:00,48789965,17,Drone Autonomy Crash Course,25,2
+2026-07-05T05:03:31.949413+00:00,48790912,18,The Log Is the Agent,5,0
+2026-07-05T05:03:31.949413+00:00,48742175,19,What ORMs have taught me: just learn SQL (2014),146,185
+2026-07-05T05:03:31.949413+00:00,48790913,20,University of Oxford Is Older Than the Aztec Empire and Other Facts of History (2013),36,9
+2026-07-05T05:03:31.949413+00:00,48791091,21,President pardons 9 for Clean Air violations for 'fixing their car',20,1
+2026-07-05T05:03:31.949413+00:00,48738395,22,Drone Physics,99,29
+2026-07-05T05:03:31.949413+00:00,48790898,23,"Backon – Python retry (zero deps, circuit breaker, async native)",4,0
+2026-07-05T05:03:31.949413+00:00,48787725,24,"As downtown Seattle offices empty, city facing years of 'zombie' towers",93,126
+2026-07-05T05:03:31.949413+00:00,48746327,25,The Vespa at 80,154,140
+2026-07-05T05:03:31.949413+00:00,48785840,26,Windows CE Dreamcast Community Edition (wince-dc),98,23
+2026-07-05T05:03:31.949413+00:00,48790036,27,Reflections on the Guillotine (1957),37,13
+2026-07-05T05:03:31.949413+00:00,48786245,28,Fable created novel 4D splat format,139,51
+2026-07-05T05:03:31.949413+00:00,48789986,29,Mapping with In-Memory Layers to Reduce LLM Overload,14,1
+2026-07-05T05:03:31.949413+00:00,48788849,30,Protocol Prying: Vulnerability Research in AirDrop and Quick Share,20,1
+2026-07-05T05:03:31.949413+00:00,48790583,31,Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression,18,4
+2026-07-05T05:03:31.949413+00:00,48743462,32,"It's not me, it's the compiler",77,12
+2026-07-05T05:03:31.949413+00:00,48790349,33,Egg consumption inversely correlated with Alzheimer's,57,36
+2026-07-05T05:03:31.949413+00:00,48778901,34,How to Enjoy John Ashbery,3,0
+2026-07-05T05:03:31.949413+00:00,48787201,35,BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments,59,40
+2026-07-05T05:03:31.949413+00:00,48753160,36,Neural Render Proxies for Interactive and Differentiable Lighting,55,9
+2026-07-05T05:03:31.949413+00:00,48739446,37,Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language,112,39
+2026-07-05T05:03:31.949413+00:00,48758328,38,CloudsLinker: Move and sync files across 50 cloud services,10,2
+2026-07-05T05:03:31.949413+00:00,48786495,39,Curveball,52,11
+2026-07-05T05:03:31.949413+00:00,48789042,40,"$85,000 in tokens later: What I learned from scaling agentic coding at Lovable",14,20
+2026-07-05T05:03:31.949413+00:00,48787329,41,Verizon is about to break our Gizmo watches,149,96
+2026-07-05T05:03:31.949413+00:00,48746090,42,Designing DB partitions you don't have to babysit,60,11
+2026-07-05T05:03:31.949413+00:00,48786970,43,EndBASIC 0.14: Are we multimedia yet?,28,3
+2026-07-05T05:03:31.949413+00:00,48790396,44,Bugs happen: The easy way to compare solo PQ to ECC+PQ,3,0
+2026-07-05T05:03:31.949413+00:00,48789722,45,"Cells, boundaries, and the emergence of biological order",5,0
+2026-07-05T05:03:31.949413+00:00,48791048,46,I Accidentally Started a Small Business Three Weeks Ago,5,1
+2026-07-05T05:03:31.949413+00:00,48789990,47,"Tungsten – an expressive, fast programming language",7,2
+2026-07-05T05:03:31.949413+00:00,48786868,48,Finland's last analogue landline phones go silent after 150 years,107,30
+2026-07-05T05:03:31.949413+00:00,48789917,49,Recovering garbled Bitcoin addresses (2024),7,0
+2026-07-05T05:03:31.949413+00:00,48782435,50,Maybe you should learn something,431,193
