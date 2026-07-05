@@ -9579,3 +9579,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-05T11:40:54.139212+00:00,48785840,48,Windows CE Dreamcast Community Edition (wince-dc),105,28
 2026-07-05T11:40:54.139212+00:00,48738395,49,Drone Physics,111,33
 2026-07-05T11:40:54.139212+00:00,48762578,50,Width vs. Depth: Speculating on the Margin,10,1
+2026-07-05T13:58:29.188789+00:00,48794179,1,Phosh 0.56.0,26,3
+2026-07-05T13:58:29.188789+00:00,48793454,2,Introduction to Compilers and Language Design,37,1
+2026-07-05T13:58:29.188789+00:00,48790689,3,"If you're a button, you have one job",348,177
+2026-07-05T13:58:29.188789+00:00,48791328,4,Shadcn/UI now defaults to Base UI instead of Radix,195,85
+2026-07-05T13:58:29.188789+00:00,48793542,5,Show HN: KiCad in the Browser,21,5
+2026-07-05T13:58:29.188789+00:00,48773079,6,Pandoc Lua Filters,96,7
+2026-07-05T13:58:29.188789+00:00,48792195,7,Knowledge Should Not Be Gated,41,22
+2026-07-05T13:58:29.188789+00:00,48792008,8,"Fast Software, the Best Software (2019)",68,35
+2026-07-05T13:58:29.188789+00:00,48746771,9,Medieval-style fortifications are back in the Sahel,8,2
+2026-07-05T13:58:29.188789+00:00,48746933,10,Trust your compiler: Modern C++,27,8
+2026-07-05T13:58:29.188789+00:00,48792399,11,Claude Design System Prompt,74,20
+2026-07-05T13:58:29.188789+00:00,48789712,12,Jellyfish can heal wounds in minutes. Scientists want their secrets,159,35
+2026-07-05T13:58:29.188789+00:00,48791591,13,Megawatts by Microwave,44,4
+2026-07-05T13:58:29.188789+00:00,48792780,14,Scientist who cleaned space toilet on work now leading Mars exploration,25,5
+2026-07-05T13:58:29.188789+00:00,48793073,15,Pi square is nearly 10,25,16
+2026-07-05T13:58:29.188789+00:00,48751144,16,Artful Cats: Feline-Inspired Art and Artifacts,61,5
+2026-07-05T13:58:29.188789+00:00,48791266,17,Moby Dick Workout (2022),63,21
+2026-07-05T13:58:29.188789+00:00,48788283,18,"Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",606,257
+2026-07-05T13:58:29.188789+00:00,48759579,19,Functional Programming in hica,31,5
+2026-07-05T13:58:29.188789+00:00,48750405,20,Meta's Un-Stable Signature,112,15
+2026-07-05T13:58:29.188789+00:00,48765920,21,Atomic Force Microscope [video],91,9
+2026-07-05T13:58:29.188789+00:00,48742175,22,What ORMs have taught me: just learn SQL (2014),230,264
+2026-07-05T13:58:29.188789+00:00,48790912,23,The Log is the Agent,65,19
+2026-07-05T13:58:29.188789+00:00,48787042,24,“Beyond the limit”: Satellites and mirrors in space pose threat to the night sky,166,264
+2026-07-05T13:58:29.188789+00:00,48750631,25,About the Digital Art,20,3
+2026-07-05T13:58:29.188789+00:00,48792483,26,Intuitive Quantum Electrodynamics,9,0
+2026-07-05T13:58:29.188789+00:00,48789428,27,GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance,324,124
+2026-07-05T13:58:29.188789+00:00,48790240,28,Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025),67,23
+2026-07-05T13:58:29.188789+00:00,48791973,29,Dark mode with web standards,22,12
+2026-07-05T13:58:29.188789+00:00,48791256,30,My ASN Journey series (2024),31,12
+2026-07-05T13:58:29.188789+00:00,48789965,31,Drone Autonomy (2021),73,6
+2026-07-05T13:58:29.188789+00:00,48793492,32,Cannabis Users Face Substantially Higher Risk of Heart Attack (2025),39,21
+2026-07-05T13:58:29.188789+00:00,48786838,33,Google Books (or similar) all book scans – $200k bounty (2025),496,288
+2026-07-05T13:58:29.188789+00:00,48791489,34,A gender-swap EarthBound for my daughter (2025),18,4
+2026-07-05T13:58:29.188789+00:00,48790512,35,Record-breaking solo rower Kelsey Pfendler arrives in Hawaii,67,6
+2026-07-05T13:58:29.188789+00:00,48790990,36,The Preemptive Draw and Preemptive Grip in the Cash-in-Transit Sector,14,3
+2026-07-05T13:58:29.188789+00:00,48792080,37,Programmers need to start meditating,112,120
+2026-07-05T13:58:29.188789+00:00,48786781,38,Leaking YouTube creators' private videos,641,365
+2026-07-05T13:58:29.188789+00:00,48738395,39,Drone Physics,118,33
+2026-07-05T13:58:29.188789+00:00,48792732,40,I wanted to be Anthony Bourdain–until I met him,45,8
+2026-07-05T13:58:29.188789+00:00,48793716,41,The Engineer in the Half-Space,24,1
+2026-07-05T13:58:29.188789+00:00,48791990,42,"Reducing Assumptions, Exploding Your Code",24,9
+2026-07-05T13:58:29.188789+00:00,48784777,43,Explanation of everything you can see in htop/top on Linux (2019),484,60
+2026-07-05T13:58:29.188789+00:00,48746249,44,The Particle Box – Kinetic Molecular Theory Simulator,17,1
+2026-07-05T13:58:29.188789+00:00,48785840,45,Windows CE Dreamcast Community Edition (wince-dc),107,29
+2026-07-05T13:58:29.188789+00:00,48787725,46,"As downtown Seattle offices empty, city facing years of 'zombie' towers",129,176
+2026-07-05T13:58:29.188789+00:00,48792499,47,Show HN: A live badge that proves your SaaS runs on EU infrastructure,3,0
+2026-07-05T13:58:29.188789+00:00,48788599,48,Better Models: Worse Tools,200,69
+2026-07-05T13:58:29.188789+00:00,48793805,49,Home made GPU escalated quickly [video],4,0
+2026-07-05T13:58:29.188789+00:00,48786638,50,Zig: All Package Management Functionality Moved from Compiler to Build System,217,73
