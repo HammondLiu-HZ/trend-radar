@@ -9629,3 +9629,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-05T13:58:29.188789+00:00,48788599,48,Better Models: Worse Tools,200,69
 2026-07-05T13:58:29.188789+00:00,48793805,49,Home made GPU escalated quickly [video],4,0
 2026-07-05T13:58:29.188789+00:00,48786638,50,Zig: All Package Management Functionality Moved from Compiler to Build System,217,73
+2026-07-05T15:22:22.518530+00:00,48794446,1,Organic Maps,105,21
+2026-07-05T15:22:22.518530+00:00,48794179,2,Phosh 0.56.0,86,21
+2026-07-05T15:22:22.518530+00:00,48793454,3,Introduction to Compilers and Language Design,95,7
+2026-07-05T15:22:22.518530+00:00,48786284,4,Airplane Boneyards List and Map,22,1
+2026-07-05T15:22:22.518530+00:00,48790689,5,"If you're a button, you have one job",393,192
+2026-07-05T15:22:22.518530+00:00,48793492,6,Cannabis Users Face Substantially Higher Risk of Heart Attack (2025),76,67
+2026-07-05T15:22:22.518530+00:00,48746771,7,Medieval-style fortifications are back in the Sahel,25,18
+2026-07-05T15:22:22.518530+00:00,48791328,8,Shadcn/UI now defaults to Base UI instead of Radix,218,101
+2026-07-05T15:22:22.518530+00:00,48792399,9,Claude Design System Prompt,100,26
+2026-07-05T15:22:22.518530+00:00,48793542,10,Show HN: KiCad in the Browser,33,15
+2026-07-05T15:22:22.518530+00:00,48773079,11,Pandoc Lua Filters,102,9
+2026-07-05T15:22:22.518530+00:00,48792008,12,"Fast Software, the Best Software (2019)",85,41
+2026-07-05T15:22:22.518530+00:00,48793298,13,"Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",12,3
+2026-07-05T15:22:22.518530+00:00,48793073,14,Pi square is nearly 10,33,29
+2026-07-05T15:22:22.518530+00:00,48746933,15,Trust your compiler: Modern C++,42,26
+2026-07-05T15:22:22.518530+00:00,48792195,16,Knowledge Should Not Be Gated,57,35
+2026-07-05T15:22:22.518530+00:00,48747733,17,The GNU Emacs Architecture: Unlocking the Core [pdf],119,8
+2026-07-05T15:22:22.518530+00:00,48791591,18,Megawatts by Microwave,54,5
+2026-07-05T15:22:22.518530+00:00,48791266,19,Moby Dick Workout (2022),77,24
+2026-07-05T15:22:22.518530+00:00,48788283,20,"Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",617,258
+2026-07-05T15:22:22.518530+00:00,48751144,21,Artful Cats: Feline-Inspired Art and Artifacts,68,5
+2026-07-05T15:22:22.518530+00:00,48750405,22,Meta's Un-Stable Signature,119,18
+2026-07-05T15:22:22.518530+00:00,48765920,23,Atomic Force Microscope [video],100,13
+2026-07-05T15:22:22.518530+00:00,48790912,24,The Log is the Agent,76,25
+2026-07-05T15:22:22.518530+00:00,48742175,25,What ORMs have taught me: just learn SQL (2014),243,280
+2026-07-05T15:22:22.518530+00:00,48759579,26,Functional Programming in hica,34,8
+2026-07-05T15:22:22.518530+00:00,48787042,27,“Beyond the limit”: Satellites and mirrors in space pose threat to the night sky,177,275
+2026-07-05T15:22:22.518530+00:00,48790240,28,Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025),69,23
+2026-07-05T15:22:22.518530+00:00,48789428,29,GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance,330,130
+2026-07-05T15:22:22.518530+00:00,48750631,30,About the Digital Art,27,11
+2026-07-05T15:22:22.518530+00:00,48793393,31,EU Council forces Chat Control via fast-track,39,4
+2026-07-05T15:22:22.518530+00:00,48792483,32,Intuitive Quantum Electrodynamics,17,1
+2026-07-05T15:22:22.518530+00:00,48791256,33,My ASN Journey series (2024),34,14
+2026-07-05T15:22:22.518530+00:00,48789965,34,Drone Autonomy (2021),73,7
+2026-07-05T15:22:22.518530+00:00,48789712,35,Jellyfish can heal wounds in minutes. Scientists want their secrets,170,36
+2026-07-05T15:22:22.518530+00:00,48792152,36,SigMap: 97% token reduction for AI coding sessions,11,0
+2026-07-05T15:22:22.518530+00:00,48790512,37,Record-breaking solo rower Kelsey Pfendler arrives in Hawaii,72,7
+2026-07-05T15:22:22.518530+00:00,48791489,38,A gender-swap EarthBound for my daughter (2025),24,4
+2026-07-05T15:22:22.518530+00:00,48786838,39,Google Books (or similar) all book scans – $200k bounty (2025),504,294
+2026-07-05T15:22:22.518530+00:00,48790990,40,The Preemptive Draw and Preemptive Grip in the Cash-in-Transit Sector,15,3
+2026-07-05T15:22:22.518530+00:00,48738395,41,Drone Physics,121,33
+2026-07-05T15:22:22.518530+00:00,48786781,42,Leaking YouTube creators' private videos,647,369
+2026-07-05T15:22:22.518530+00:00,48791990,43,"Reducing Assumptions, Exploding Your Code",25,9
+2026-07-05T15:22:22.518530+00:00,48784777,44,Explanation of everything you can see in htop/top on Linux (2019),486,61
+2026-07-05T15:22:22.518530+00:00,48791657,45,Dungeon KeeperFX 1.4.0 with Multiplayer Released,13,6
+2026-07-05T15:22:22.518530+00:00,48746249,46,The Particle Box – Kinetic Molecular Theory Simulator,19,3
+2026-07-05T15:22:22.518530+00:00,48787725,47,"As downtown Seattle offices empty, city facing years of 'zombie' towers",134,182
+2026-07-05T15:22:22.518530+00:00,48793716,48,The Engineer in the Half-Space,30,1
+2026-07-05T15:22:22.518530+00:00,48794135,49,"The Lion, The Witch, and the audacity of recruiters",9,4
+2026-07-05T15:22:22.518530+00:00,48785840,50,Windows CE Dreamcast Community Edition (wince-dc),109,29
