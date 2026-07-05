@@ -9380,3 +9380,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-04T22:04:58.913572+00:00,48782671,47,Agentic coding notes from Galapagos Island,158,78
 2026-07-04T22:04:58.913572+00:00,48739682,49,Gone but Not Forgotten: Recovering the Dead Web,107,44
 2026-07-04T22:04:58.913572+00:00,48785382,50,How the Biosphere 2 experiment changed our understanding of the Earth (2025),11,2
+2026-07-05T00:08:01.440776+00:00,48788283,1,"Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",306,129
+2026-07-05T00:08:01.440776+00:00,48789428,2,GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance,108,27
+2026-07-05T00:08:01.440776+00:00,48790066,3,"Scientists reverse brain aging, with a nasal spray",24,1
+2026-07-05T00:08:01.440776+00:00,48786838,4,Google Books (or similar) all book scans – $200k bounty (2025),300,151
+2026-07-05T00:08:01.440776+00:00,48786781,5,Leaking YouTube creators' private videos,450,249
+2026-07-05T00:08:01.440776+00:00,48788599,6,Better Models: Worse Tools,74,21
+2026-07-05T00:08:01.440776+00:00,48785485,7,Potential session/cache leakage between workspace instances or consumer accounts,267,126
+2026-07-05T00:08:01.440776+00:00,48789712,8,Jellyfish can heal wounds in minutes. Scientists want their secrets,9,0
+2026-07-05T00:08:01.440776+00:00,48787329,9,Verizon is About to Break our Watches,121,63
+2026-07-05T00:08:01.440776+00:00,48784777,10,Explanation of everything you can see in htop/top on Linux (2019),372,52
+2026-07-05T00:08:01.440776+00:00,48786638,11,Zig: All Package Management Functionality Moved from Compiler to Build System,118,24
+2026-07-05T00:08:01.440776+00:00,48738395,12,Drone Physics,70,20
+2026-07-05T00:08:01.440776+00:00,48747762,13,Can you build a recognizable World Map in under 500 bytes?,14,15
+2026-07-05T00:08:01.440776+00:00,48785840,14,Windows CE Dreamcast Community Edition (wince-dc),85,17
+2026-07-05T00:08:01.440776+00:00,48783948,15,Astrophysicists Puzzle over Webb’s New Universe,187,119
+2026-07-05T00:08:01.440776+00:00,48743462,16,"It's not me, it's the compiler",41,9
+2026-07-05T00:08:01.440776+00:00,48786495,17,Curveball,46,11
+2026-07-05T00:08:01.440776+00:00,48789325,18,"My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",8,5
+2026-07-05T00:08:01.440776+00:00,48788849,19,Protocol Prying: Vulnerability Research in AirDrop and Quick Share,8,1
+2026-07-05T00:08:01.440776+00:00,48746327,20,The Vespa at 80,139,131
+2026-07-05T00:08:01.440776+00:00,48775412,21,"Heuristics for lab robotics, and where its future may go",7,2
+2026-07-05T00:08:01.440776+00:00,48786245,22,Fable created novel 4D splat format,95,30
+2026-07-05T00:08:01.440776+00:00,48753160,23,Neural Render Proxies for Interactive and Differentiable Lighting,45,7
+2026-07-05T00:08:01.440776+00:00,48746090,24,Designing DB partitions you don't have to babysit,57,8
+2026-07-05T00:08:01.440776+00:00,48787201,25,BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments,47,32
+2026-07-05T00:08:01.440776+00:00,48745855,26,Postgres data stored in Parquet on S3: LTAP architecture explained,161,51
+2026-07-05T00:08:01.440776+00:00,48739446,27,Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language,82,26
+2026-07-05T00:08:01.440776+00:00,48786970,28,EndBASIC 0.14: Are we multimedia yet?,22,2
+2026-07-05T00:08:01.440776+00:00,48786868,29,Finland's last analogue landline phones go silent after 150 years,89,23
+2026-07-05T00:08:01.440776+00:00,48783117,30,The bottleneck might be the air in the room,748,428
+2026-07-05T00:08:01.440776+00:00,48787001,31,Game Boy Advance Dev: Logging to the Console,24,3
+2026-07-05T00:08:01.440776+00:00,48739018,32,Mir Books – Books from the Soviet Era,170,79
+2026-07-05T00:08:01.440776+00:00,48786880,33,Plein Air,55,7
+2026-07-05T00:08:01.440776+00:00,48789699,34,New bacterial species discovered in NASA's cleanrooms,11,1
+2026-07-05T00:08:01.440776+00:00,48737068,35,Night Witches – all-female Soviet aviator regiment WW2,86,26
+2026-07-05T00:08:01.440776+00:00,48790018,36,Be a Hikikomori for Science,4,1
+2026-07-05T00:08:01.440776+00:00,48784759,37,The Common Lisp Cookbook – LispWorks Review,68,0
+2026-07-05T00:08:01.440776+00:00,48782435,38,Maybe you should learn something,411,190
+2026-07-05T00:08:01.440776+00:00,48789416,39,Australian influencer Lily Jay's tangled web of AI manipulation,15,1
+2026-07-05T00:08:01.440776+00:00,48781688,40,MSI Center – How to gain SYSTEM privileges in seconds,138,58
+2026-07-05T00:08:01.440776+00:00,48784662,41,The Reports of Jim Carrey's Death Are a Failure Mode,45,29
+2026-07-05T00:08:01.440776+00:00,48786782,42,Meta data center water discharges suspended for contaminating water supply,211,74
+2026-07-05T00:08:01.440776+00:00,48788465,43,Xylem Surfactants Introduce a New Element to the Cohesion-Tension Theory(2017),3,0
+2026-07-05T00:08:01.440776+00:00,48780913,44,The firefighting system of the Van der Heyden brothers in 17th century Amsterdam,130,34
+2026-07-05T00:08:01.440776+00:00,48788410,45,Show HN: Waypoint.nvim – A Neovim plugin for bookmarking lines of code,8,0
+2026-07-05T00:08:01.440776+00:00,48781196,46,"Odin, Wikipedia and engagement farming",241,361
+2026-07-05T00:08:01.440776+00:00,48787047,48,National Institute of Standards and Technology | NIST | Official US Time,6,0
+2026-07-05T00:08:01.440776+00:00,48787000,49,Shipping post-quantum cryptography to Python – The Trail of Bits Blog,6,1
+2026-07-05T00:08:01.440776+00:00,48788887,50,Ask HN: New employeer not providing equipment,20,33
