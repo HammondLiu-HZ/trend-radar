@@ -9529,3 +9529,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-05T09:18:27.262017+00:00,48790913,48,University of Oxford Is Older Than the Aztec Empire and Other Facts of History (2013),55,13
 2026-07-05T09:18:27.262017+00:00,48787201,49,BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments,62,40
 2026-07-05T09:18:27.262017+00:00,48790583,50,Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression,30,17
+2026-07-05T11:40:54.139212+00:00,48791328,1,Shadcn/UI now defaults to Base UI instead of Radix,155,55
+2026-07-05T11:40:54.139212+00:00,48788283,2,"Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",589,248
+2026-07-05T11:40:54.139212+00:00,48790689,3,"If you're a button, you have one job",255,139
+2026-07-05T11:40:54.139212+00:00,48792790,4,Europe's new climate in seven charts,17,0
+2026-07-05T11:40:54.139212+00:00,48792008,5,"Fast Software, the Best Software",33,12
+2026-07-05T11:40:54.139212+00:00,48789428,6,GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance,294,115
+2026-07-05T11:40:54.139212+00:00,48773079,7,Pandoc Lua Filters,80,5
+2026-07-05T11:40:54.139212+00:00,48793073,8,Pi square is nearly 10,10,3
+2026-07-05T11:40:54.139212+00:00,48789712,9,Jellyfish can heal wounds in minutes. Scientists want their secrets,136,30
+2026-07-05T11:40:54.139212+00:00,48786838,10,Google Books (or similar) all book scans – $200k bounty (2025),486,274
+2026-07-05T11:40:54.139212+00:00,48792984,11,"Common 3D Benchy Problems, Causes and Fixes",5,4
+2026-07-05T11:40:54.139212+00:00,48792780,12,Scientist who cleaned space toilet on work now leading Mars exploration,9,1
+2026-07-05T11:40:54.139212+00:00,48791591,13,Megawatts by Microwave,30,4
+2026-07-05T11:40:54.139212+00:00,48786781,14,Leaking YouTube creators' private videos,630,354
+2026-07-05T11:40:54.139212+00:00,48792080,15,Programmers need to start meditating,79,75
+2026-07-05T11:40:54.139212+00:00,48751144,16,Artful Cats: Feline-Inspired Art and Artifacts,49,4
+2026-07-05T11:40:54.139212+00:00,48791266,17,Moby Dick Workout (2022),50,16
+2026-07-05T11:40:54.139212+00:00,48759579,18,Functional Programming in hica,3,1
+2026-07-05T11:40:54.139212+00:00,48792352,19,Apocketlypse,24,3
+2026-07-05T11:40:54.139212+00:00,48788599,20,Better Models: Worse Tools,183,65
+2026-07-05T11:40:54.139212+00:00,48750405,21,Meta's Un-Stable Signature,95,13
+2026-07-05T11:40:54.139212+00:00,48765920,22,"Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",79,8
+2026-07-05T11:40:54.139212+00:00,48785485,23,Potential session/cache leakage between workspace instances or consumer accounts,303,129
+2026-07-05T11:40:54.139212+00:00,48786638,24,Zig: All Package Management Functionality Moved from Compiler to Build System,211,68
+2026-07-05T11:40:54.139212+00:00,48787042,25,“Beyond the limit”: Satellites and mirrors in space pose threat to the night sky,152,253
+2026-07-05T11:40:54.139212+00:00,48750631,26,About the Digital Art,12,2
+2026-07-05T11:40:54.139212+00:00,48792399,27,Claude Design System Prompt,12,1
+2026-07-05T11:40:54.139212+00:00,48790912,28,The Log Is the Agent,48,15
+2026-07-05T11:40:54.139212+00:00,48790240,29,Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025),54,16
+2026-07-05T11:40:54.139212+00:00,48742175,30,What ORMs have taught me: just learn SQL (2014),206,236
+2026-07-05T11:40:54.139212+00:00,48791256,31,My ASN Journey series (2024),23,8
+2026-07-05T11:40:54.139212+00:00,48791708,32,"sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",55,59
+2026-07-05T11:40:54.139212+00:00,48792483,33,Intuitive Quantum Electrodynamics,4,0
+2026-07-05T11:40:54.139212+00:00,48789965,34,Drone Autonomy (2021),61,6
+2026-07-05T11:40:54.139212+00:00,48792195,35,Knowledge Should Not Be Gated,7,0
+2026-07-05T11:40:54.139212+00:00,48790512,36,Record-breaking solo rower Kelsey Pfendler arrives in Hawaii,57,5
+2026-07-05T11:40:54.139212+00:00,48792118,37,Show HN: I trained a language model that thinks the capital of Japan is Paris,8,1
+2026-07-05T11:40:54.139212+00:00,48790990,38,The Preemptive Draw and Preemptive Grip in the Cash-in-Transit Sector,13,2
+2026-07-05T11:40:54.139212+00:00,48791990,39,"Reducing Assumptions, Exploding Your Code",9,0
+2026-07-05T11:40:54.139212+00:00,48746327,40,The Vespa at 80,167,157
+2026-07-05T11:40:54.139212+00:00,48791973,41,Dark Mode with Web Standards,5,0
+2026-07-05T11:40:54.139212+00:00,48792293,42,"Arrest 0.2.1, an HTTP client with data validation",3,1
+2026-07-05T11:40:54.139212+00:00,48746249,43,The Particle Box – Kinetic Molecular Theory Simulator,13,1
+2026-07-05T11:40:54.139212+00:00,48792732,44,I wanted to be Anthony Bourdain–until I met him,15,3
+2026-07-05T11:40:54.139212+00:00,48792152,45,SigMap: 97% token reduction for AI coding sessions,4,0
+2026-07-05T11:40:54.139212+00:00,48787725,46,"As downtown Seattle offices empty, city facing years of 'zombie' towers",121,164
+2026-07-05T11:40:54.139212+00:00,48784777,47,Explanation of everything you can see in htop/top on Linux (2019),473,59
+2026-07-05T11:40:54.139212+00:00,48785840,48,Windows CE Dreamcast Community Edition (wince-dc),105,28
+2026-07-05T11:40:54.139212+00:00,48738395,49,Drone Physics,111,33
+2026-07-05T11:40:54.139212+00:00,48762578,50,Width vs. Depth: Speculating on the Margin,10,1
