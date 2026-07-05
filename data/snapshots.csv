@@ -9479,3 +9479,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-05T05:03:31.949413+00:00,48786868,48,Finland's last analogue landline phones go silent after 150 years,107,30
 2026-07-05T05:03:31.949413+00:00,48789917,49,Recovering garbled Bitcoin addresses (2024),7,0
 2026-07-05T05:03:31.949413+00:00,48782435,50,Maybe you should learn something,431,193
+2026-07-05T09:18:27.262017+00:00,48791328,1,Shadcn/UI now defaults to Base UI instead of Radix,112,35
+2026-07-05T09:18:27.262017+00:00,48788283,2,"Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",558,227
+2026-07-05T09:18:27.262017+00:00,48790689,3,"If you're a button, you have one job",192,94
+2026-07-05T09:18:27.262017+00:00,48773079,4,Pandoc Lua Filters,61,1
+2026-07-05T09:18:27.262017+00:00,48789428,5,GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance,265,98
+2026-07-05T09:18:27.262017+00:00,48789712,6,Jellyfish can heal wounds in minutes. Scientists want their secrets,119,24
+2026-07-05T09:18:27.262017+00:00,48791591,7,Megawatts by Microwave,21,2
+2026-07-05T09:18:27.262017+00:00,48786838,8,Google Books (or similar) all book scans – $200k bounty (2025),459,245
+2026-07-05T09:18:27.262017+00:00,48792203,9,Web-based cryptography is always snake oil,7,2
+2026-07-05T09:18:27.262017+00:00,48792352,10,Apocketlypse,8,1
+2026-07-05T09:18:27.262017+00:00,48786781,11,Leaking YouTube creators' private videos,606,332
+2026-07-05T09:18:27.262017+00:00,48791266,12,Moby Dick Workout (2022),40,12
+2026-07-05T09:18:27.262017+00:00,48791708,13,"sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",41,43
+2026-07-05T09:18:27.262017+00:00,48751144,14,Artful Cats: Feline-Inspired Art and Artifacts,38,4
+2026-07-05T09:18:27.262017+00:00,48791799,15,Is The Economist Always Wrong?,26,28
+2026-07-05T09:18:27.262017+00:00,48765920,16,"Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",70,6
+2026-07-05T09:18:27.262017+00:00,48790912,17,The Log Is the Agent,39,9
+2026-07-05T09:18:27.262017+00:00,48790240,18,Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025),53,12
+2026-07-05T09:18:27.262017+00:00,48788599,19,Better Models: Worse Tools,168,57
+2026-07-05T09:18:27.262017+00:00,48791755,20,EV Batteries Are Defying Expectations After Miles,40,33
+2026-07-05T09:18:27.262017+00:00,48750405,21,Meta's Un-Stable Signature,83,12
+2026-07-05T09:18:27.262017+00:00,48785485,22,Potential session/cache leakage between workspace instances or consumer accounts,296,130
+2026-07-05T09:18:27.262017+00:00,48786638,23,Zig: All Package Management Functionality Moved from Compiler to Build System,197,61
+2026-07-05T09:18:27.262017+00:00,48787042,24,"""Beyond the limit"": Satellites and mirrors in space pose threat to the night sky",143,238
+2026-07-05T09:18:27.262017+00:00,48792080,25,Programmers need to start meditating now,3,0
+2026-07-05T09:18:27.262017+00:00,48791256,26,My ASN Journey series (2024),18,5
+2026-07-05T09:18:27.262017+00:00,48742175,27,What ORMs have taught me: just learn SQL (2014),188,215
+2026-07-05T09:18:27.262017+00:00,48791990,28,"Reducing Assumptions, Exploding Your Code",4,0
+2026-07-05T09:18:27.262017+00:00,48790512,29,Record-breaking solo rower Kelsey Pfendler arrives in Hawaii,45,5
+2026-07-05T09:18:27.262017+00:00,48778198,30,A Summer of Solar Cooking (2023),4,1
+2026-07-05T09:18:27.262017+00:00,48790990,31,The Preemptive Draw and Preemptive Grip in the Cash-in-Transit Sector,12,1
+2026-07-05T09:18:27.262017+00:00,48746249,32,The Particle Box – Kinetic Molecular Theory Simulator,13,1
+2026-07-05T09:18:27.262017+00:00,48789965,33,Drone Autonomy Crash Course,52,5
+2026-07-05T09:18:27.262017+00:00,48791380,34,Mouse: Precision Editing Tools for AI Coding Agents,32,37
+2026-07-05T09:18:27.262017+00:00,48762578,35,Width vs. Depth: Speculating on the Margin,8,1
+2026-07-05T09:18:27.262017+00:00,48746327,36,The Vespa at 80,165,148
+2026-07-05T09:18:27.262017+00:00,48738395,37,Drone Physics,108,33
+2026-07-05T09:18:27.262017+00:00,48787725,38,"As downtown Seattle offices empty, city facing years of 'zombie' towers",112,157
+2026-07-05T09:18:27.262017+00:00,48784777,39,Explanation of everything you can see in htop/top on Linux (2019),470,58
+2026-07-05T09:18:27.262017+00:00,48785840,40,Windows CE Dreamcast Community Edition (wince-dc),102,28
+2026-07-05T09:18:27.262017+00:00,48790898,41,"Backon – Python retry (zero deps, circuit breaker, async native)",11,3
+2026-07-05T09:18:27.262017+00:00,48791224,42,Reading Minds with Ultrasound: Less-Invasive Technique for Brain's Intentions (2021),5,1
+2026-07-05T09:18:27.262017+00:00,48788849,43,Protocol Prying: Vulnerability Research in AirDrop and Quick Share,22,1
+2026-07-05T09:18:27.262017+00:00,48743462,44,"It's not me, it's the compiler",81,16
+2026-07-05T09:18:27.262017+00:00,48791048,45,I Accidentally Started a Small Business Three Weeks Ago,58,11
+2026-07-05T09:18:27.262017+00:00,48791907,46,Mysterious debris could be 'space balls'– may contain toxic rocket fuel,9,1
+2026-07-05T09:18:27.262017+00:00,48753160,47,Neural Render Proxies for Interactive and Differentiable Lighting,58,12
+2026-07-05T09:18:27.262017+00:00,48790913,48,University of Oxford Is Older Than the Aztec Empire and Other Facts of History (2013),55,13
+2026-07-05T09:18:27.262017+00:00,48787201,49,BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments,62,40
+2026-07-05T09:18:27.262017+00:00,48790583,50,Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression,30,17
