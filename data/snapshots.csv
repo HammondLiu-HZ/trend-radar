@@ -9679,3 +9679,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-05T15:22:22.518530+00:00,48793716,48,The Engineer in the Half-Space,30,1
 2026-07-05T15:22:22.518530+00:00,48794135,49,"The Lion, The Witch, and the audacity of recruiters",9,4
 2026-07-05T15:22:22.518530+00:00,48785840,50,Windows CE Dreamcast Community Edition (wince-dc),109,29
+2026-07-05T17:21:21.837185+00:00,48794446,1,Organic Maps,348,93
+2026-07-05T17:21:21.837185+00:00,48793454,2,Introduction to Compilers and Language Design,183,24
+2026-07-05T17:21:21.837185+00:00,48758802,3,The Great Blogging Collapse: What Happened to 100 Successful Blogs?,29,12
+2026-07-05T17:21:21.837185+00:00,48794302,4,Run Windows 2000 on a DEC Alpha with a new es40 fork,40,15
+2026-07-05T17:21:21.837185+00:00,48786284,5,Airplane Boneyards List and Map,47,8
+2026-07-05T17:21:21.837185+00:00,48746038,6,"Rayfish, Peer-to-peer mesh VPN with no server to trust",45,30
+2026-07-05T17:21:21.837185+00:00,48746771,7,Medieval-style fortifications are back in the Sahel,54,37
+2026-07-05T17:21:21.837185+00:00,48790689,8,"If you're a button, you have one job",464,230
+2026-07-05T17:21:21.837185+00:00,48794788,9,"Why DMARC's new ""NP"" tag can fail with DNSSEC",9,0
+2026-07-05T17:21:21.837185+00:00,48794750,10,"It's not about physical vs. digital games, it's about ownership",12,5
+2026-07-05T17:21:21.837185+00:00,48791328,11,Shadcn/UI now defaults to Base UI instead of Radix,235,127
+2026-07-05T17:21:21.837185+00:00,48794704,12,Solar rail could become common in Europe after successful trial in Switzerland,50,41
+2026-07-05T17:21:21.837185+00:00,48795174,13,Autonomous flying umbrella follows and shields users from rain and sunlight,25,12
+2026-07-05T17:21:21.837185+00:00,48747733,14,The GNU Emacs Architecture: Unlocking the Core [pdf],142,9
+2026-07-05T17:21:21.837185+00:00,48773079,15,Pandoc Lua Filters,120,10
+2026-07-05T17:21:21.837185+00:00,48793393,16,EU Council forces Chat Control via fast-track,177,75
+2026-07-05T17:21:21.837185+00:00,48792008,17,"Fast Software, the Best Software (2019)",97,51
+2026-07-05T17:21:21.837185+00:00,48793542,18,Show HN: KiCad in the Browser,58,26
+2026-07-05T17:21:21.837185+00:00,48792203,19,Web-based cryptography is always snake oil,60,65
+2026-07-05T17:21:21.837185+00:00,48794179,20,Phosh 0.56.0,126,42
+2026-07-05T17:21:21.837185+00:00,48793073,21,Pi squared is nearly 10,47,45
+2026-07-05T17:21:21.837185+00:00,48793492,22,Cannabis users face substantially higher risk of heart attack (2025),115,147
+2026-07-05T17:21:21.837185+00:00,48791591,23,Megawatts by Microwave,62,5
+2026-07-05T17:21:21.837185+00:00,48788283,24,"Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",627,264
+2026-07-05T17:21:21.837185+00:00,48791266,25,Moby Dick Workout (2022),88,28
+2026-07-05T17:21:21.837185+00:00,48795303,26,The Plight of the Martian Farmer,18,3
+2026-07-05T17:21:21.837185+00:00,48750405,27,Meta's Un-Stable Signature,129,21
+2026-07-05T17:21:21.837185+00:00,48790912,28,The Log is the Agent,88,36
+2026-07-05T17:21:21.837185+00:00,48751144,29,Artful Cats: Feline-Inspired Art and Artifacts,72,5
+2026-07-05T17:21:21.837185+00:00,48795826,30,Mark Zuckerberg tells staff that AI agents haven't progressed enough,6,3
+2026-07-05T17:21:21.837185+00:00,48765920,31,Atomic Force Microscope [video],110,15
+2026-07-05T17:21:21.837185+00:00,48795368,32,Zuckerberg's Increasingly Bizarre War on Whistleblowers,10,0
+2026-07-05T17:21:21.837185+00:00,48789428,33,GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance,341,142
+2026-07-05T17:21:21.837185+00:00,48750631,34,About the Digital Art,29,11
+2026-07-05T17:21:21.837185+00:00,48759579,35,Functional Programming in hica,40,13
+2026-07-05T17:21:21.837185+00:00,48791256,36,My ASN Journey series (2024),38,15
+2026-07-05T17:21:21.837185+00:00,48794592,37,CNN Lite,15,0
+2026-07-05T17:21:21.837185+00:00,48792483,38,Intuitive Quantum Electrodynamics,21,1
+2026-07-05T17:21:21.837185+00:00,48790240,39,Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025),71,25
+2026-07-05T17:21:21.837185+00:00,48789965,40,Drone Autonomy (2021),74,7
+2026-07-05T17:21:21.837185+00:00,48746933,41,Trust your compiler: Modern C++,55,32
+2026-07-05T17:21:21.837185+00:00,48790512,42,Record-breaking solo rower Kelsey Pfendler arrives in Hawaii,78,8
+2026-07-05T17:21:21.837185+00:00,48792399,43,Claude Design System Prompt,106,28
+2026-07-05T17:21:21.837185+00:00,48789712,44,Jellyfish can heal wounds in minutes. Scientists want their secrets,173,37
+2026-07-05T17:21:21.837185+00:00,48792152,45,SigMap: 97% token reduction for AI coding sessions,12,4
+2026-07-05T17:21:21.837185+00:00,48784777,46,Explanation of everything you can see in htop/top on Linux (2019),489,61
+2026-07-05T17:21:21.837185+00:00,48790990,47,The Preemptive Draw and Preemptive Grip in the Cash-in-Transit Sector,16,5
+2026-07-05T17:21:21.837185+00:00,48786838,48,Google Books (or similar) all book scans – $200k bounty (2025),508,302
+2026-07-05T17:21:21.837185+00:00,48791990,49,"Reducing Assumptions, Exploding Your Code",26,10
+2026-07-05T17:21:21.837185+00:00,48791505,50,Fixing analog audio on the $2.58 HDMI-to-VGA adapter,11,1
