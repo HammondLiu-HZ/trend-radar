@@ -9829,3 +9829,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-05T21:11:48.213641+00:00,48789428,48,GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance,350,146
 2026-07-05T21:11:48.213641+00:00,48796631,49,Claude Played Me for a Fool,7,4
 2026-07-05T21:11:48.213641+00:00,48789965,50,Drone Autonomy (2021),77,10
+2026-07-05T23:09:16.264421+00:00,48797916,1,Reparaible and open source paper printer,207,54
+2026-07-05T23:09:16.264421+00:00,48798153,2,Show HN: Homegames. An open-source game platform I've been making for 8 years,53,15
+2026-07-05T23:09:16.264421+00:00,48794446,3,Organic Maps,733,208
+2026-07-05T23:09:16.264421+00:00,48798061,4,Completing a Computer Science Degree on Coursera,57,26
+2026-07-05T23:09:16.264421+00:00,48796817,5,New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf],106,70
+2026-07-05T23:09:16.264421+00:00,48796552,6,The future of Flipper Zero development,183,51
+2026-07-05T23:09:16.264421+00:00,48797655,7,"Zero-copy in Go: sendfile, splice, and the cost of io.Copy",34,4
+2026-07-05T23:09:16.264421+00:00,48770291,8,Mr. Baby Paint and accidentally discovering a new cellular automata,77,12
+2026-07-05T23:09:16.264421+00:00,48796093,9,Starring the Computer,142,33
+2026-07-05T23:09:16.264421+00:00,48797895,10,Dungeon Proof Crawler: learn how to write proofs with RPG,19,10
+2026-07-05T23:09:16.264421+00:00,48798210,11,CoCom regulations and GPS receivers for balloons and cubesats,11,1
+2026-07-05T23:09:16.264421+00:00,48797865,12,Pint in England,20,6
+2026-07-05T23:09:16.264421+00:00,48797467,13,Cursed circuits #5: capacitance multiplier,29,0
+2026-07-05T23:09:16.264421+00:00,48797771,14,Dependencies should be fetched directly from VCS,18,15
+2026-07-05T23:09:16.264421+00:00,48794750,15,"It's not about physical vs. digital games, it's about ownership",255,204
+2026-07-05T23:09:16.264421+00:00,48797656,16,Show HN: Osint tool that finds exposed files on domains,18,4
+2026-07-05T23:09:16.264421+00:00,48796792,17,You need a webring,41,28
+2026-07-05T23:09:16.264421+00:00,48793454,18,Introduction to Compilers and Language Design (2021),255,44
+2026-07-05T23:09:16.264421+00:00,48798313,19,DNSGlobe – Rust TUI to watch DNS propagate around the world,9,5
+2026-07-05T23:09:16.264421+00:00,48797141,20,Delta flight hit by firework while landing at Midway Airport on Fourth of July,20,4
+2026-07-05T23:09:16.264421+00:00,48794302,21,Run Windows 2000 on a DEC Alpha with a new es40 fork,95,50
+2026-07-05T23:09:16.264421+00:00,48760808,22,How the first solo-founder unicorn gets built,19,12
+2026-07-05T23:09:16.264421+00:00,48798247,23,Composite Video on the NES: Why's it so wobbly?,9,0
+2026-07-05T23:09:16.264421+00:00,48766456,24,We Always Leave Things Unfinished,28,2
+2026-07-05T23:09:16.264421+00:00,48798187,25,Had an idea for a Rust editor with simple Vim mode for learning,5,1
+2026-07-05T23:09:16.264421+00:00,48776956,26,Johnson Thermoelectric Energy Converter,5,0
+2026-07-05T23:09:16.264421+00:00,48797214,27,The full stack of terminals explained,18,3
+2026-07-05T23:09:16.264421+00:00,48758802,28,The great blogging collapse: What happened to 100 successful blogs?,142,112
+2026-07-05T23:09:16.264421+00:00,48795323,29,Installing A/UX 1.1 like it's the 90s,48,16
+2026-07-05T23:09:16.264421+00:00,48786284,30,Airplane Boneyards List and Map,76,15
+2026-07-05T23:09:16.264421+00:00,48796784,31,Jim Keller's startup is building a factory to mass-produce small chip fabs,86,15
+2026-07-05T23:09:16.264421+00:00,48797469,32,Speech and Noise Corpora for Pitch Estimation of Human Speech,9,0
+2026-07-05T23:09:16.264421+00:00,48794788,33,"Why DMARC's new ""NP"" tag can fail with DNSSEC",41,18
+2026-07-05T23:09:16.264421+00:00,48752949,34,OpenWiki: CLI that writes and maintains agent documentation for your codebase,79,25
+2026-07-05T23:09:16.264421+00:00,48798385,35,Tell HN: don't trust Bigco AI agents with AI research IP,9,3
+2026-07-05T23:09:16.264421+00:00,48796371,36,Two nasty surprises in Home Assistant's config,12,0
+2026-07-05T23:09:16.264421+00:00,48797015,37,Small Penis Rule,113,51
+2026-07-05T23:09:16.264421+00:00,48792008,38,"Fast Software, the Best Software (2019)",123,69
+2026-07-05T23:09:16.264421+00:00,48797739,39,"Show HN: Sidenote – comment on your rendered blog, an LLM writes the Git diff",6,0
+2026-07-05T23:09:16.264421+00:00,48798442,40,Context graphs: how AI agents can store and use past decisions,5,0
+2026-07-05T23:09:16.264421+00:00,48798330,41,"New Microsoft 365 pricing live, some products up by 42% due to AI",10,6
+2026-07-05T23:09:16.264421+00:00,48747733,42,The GNU Emacs Architecture: Unlocking the Core [pdf],171,15
+2026-07-05T23:09:16.264421+00:00,48793393,43,EU Council forces Chat Control via fast-track,375,209
+2026-07-05T23:09:16.264421+00:00,48793542,44,Show HN: KiCad in the Browser,89,31
+2026-07-05T23:09:16.264421+00:00,48746771,45,Medieval-style fortifications are back in the Sahel,81,65
+2026-07-05T23:09:16.264421+00:00,48773079,46,Pandoc Lua Filters,131,12
+2026-07-05T23:09:16.264421+00:00,48792203,47,Web-based cryptography is always snake oil,96,105
+2026-07-05T23:09:16.264421+00:00,48797501,48,Trouble Transitioning (2025),6,0
+2026-07-05T23:09:16.264421+00:00,48796049,49,Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis,8,0
+2026-07-05T23:09:16.264421+00:00,48797882,50,Why New Jersey's balcony solar bill is a huge deal for renters,12,1
