@@ -10078,3 +10078,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-06T16:56:59.261245+00:00,48805374,48,The Internet Is Drowning in Secret Ads,20,5
 2026-07-06T16:56:59.261245+00:00,48802818,49,"Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",17,8
 2026-07-06T16:56:59.261245+00:00,48804182,50,Show HN: Scan your AI agents for dangerous capabilities,35,19
+2026-07-06T19:02:30.608066+00:00,48808482,1,OpenWrt One – Open Hardware Router,65,18
+2026-07-06T19:02:30.608066+00:00,48805624,2,AMD Ryzen AI Halo – $4k AI Dev Kit,178,142
+2026-07-06T19:02:30.608066+00:00,48806410,3,Kani: A Model Checker for Rust,69,2
+2026-07-06T19:02:30.608066+00:00,48804297,4,Aluminum foil (2021),187,79
+2026-07-06T19:02:30.608066+00:00,48804993,5,Resetting Xbox,233,176
+2026-07-06T19:02:30.608066+00:00,48803364,6,Road to Elm 1.0,256,110
+2026-07-06T19:02:30.608066+00:00,48779274,7,Egypt Is Building a New Nile,64,6
+2026-07-06T19:02:30.608066+00:00,48808508,9,Pros and Cons of Solo Development,43,11
+2026-07-06T19:02:30.608066+00:00,48802535,10,Real-time map of Great Britain's rail network,340,127
+2026-07-06T19:02:30.608066+00:00,48746939,11,I Like Small Keyboards,33,31
+2026-07-06T19:02:30.608066+00:00,48806296,12,The AI Superforecasters Are Here,45,39
+2026-07-06T19:02:30.608066+00:00,48806575,13,Show HN: Pulpie – Models for Cleaning the Web,43,11
+2026-07-06T19:02:30.608066+00:00,48807225,14,OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files,32,3
+2026-07-06T19:02:30.608066+00:00,48807908,15,Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359],13,3
+2026-07-06T19:02:30.608066+00:00,48805965,16,CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers,46,14
+2026-07-06T19:02:30.608066+00:00,48806073,17,1k Words: A Writing Contest,58,25
+2026-07-06T19:02:30.608066+00:00,48807651,18,Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario,59,38
+2026-07-06T19:02:30.608066+00:00,48767211,19,Clojure 1.13 adds support for checked keys,139,29
+2026-07-06T19:02:30.608066+00:00,48803762,20,"Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",139,92
+2026-07-06T19:02:30.608066+00:00,48768935,21,Hobbes – A Language and Embedded JIT Compiler,7,0
+2026-07-06T19:02:30.608066+00:00,48807884,22,Fable Built a 3D Model of Aristotle's Cognitive Architecture,9,2
+2026-07-06T19:02:30.608066+00:00,48807383,23,The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire,68,39
+2026-07-06T19:02:30.608066+00:00,48808002,24,A global workspace in language models,10,0
+2026-07-06T19:02:30.608066+00:00,48760424,25,Introduction to Genomics for Engineers,183,26
+2026-07-06T19:02:30.608066+00:00,48766949,26,When 2+2=5,63,32
+2026-07-06T19:02:30.608066+00:00,48804193,27,Nintendo announces new product revisions in Europe with replaceable batteries,239,154
+2026-07-06T19:02:30.608066+00:00,48806289,28,Should DayQuil Be Legal?,94,136
+2026-07-06T19:02:30.608066+00:00,48805401,29,"What Emily Bender meant by ""stochastic parrots""",133,168
+2026-07-06T19:02:30.608066+00:00,48799929,30,Building relationships with customers through support didn't turn out as hoped,297,174
+2026-07-06T19:02:30.608066+00:00,48804017,31,Why low-latency Java still requires discipline?,72,38
+2026-07-06T19:02:30.608066+00:00,48743362,32,Apricot Computers: An underrated British brand,64,20
+2026-07-06T19:02:30.608066+00:00,48806741,33,Orasort: 5x faster column-sorting with an expired patent from Oracle,8,1
+2026-07-06T19:02:30.608066+00:00,48806156,34,Eternal Software Initiative Based on Subleq One-Instruction-Set Computer,9,1
+2026-07-06T19:02:30.608066+00:00,48805304,35,DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat,106,29
+2026-07-06T19:02:30.608066+00:00,48803886,36,Amazon will stop accepting new customers for Mechanical Turk,126,40
+2026-07-06T19:02:30.608066+00:00,48757215,37,The Complete Homemade Juggling Beanbag Guide,59,6
+2026-07-06T19:02:30.608066+00:00,48799624,38,Lost and Found,34,8
+2026-07-06T19:02:30.608066+00:00,48807553,39,"Flock Defense ""No Expectation of Privacy in Public"" Is Wrong",16,3
+2026-07-06T19:02:30.608066+00:00,48805988,40,Tom Colicchio's Final Service,13,0
+2026-07-06T19:02:30.608066+00:00,48798815,41,Does code cleanliness affect coding agents? A controlled minimal-pair study,186,87
+2026-07-06T19:02:30.608066+00:00,48805985,42,Electric anti-aircraft interceptor drone breaks world air speed record at 434mph,53,36
+2026-07-06T19:02:30.608066+00:00,48765999,43,My quest to see all of Tetris,63,15
+2026-07-06T19:02:30.608066+00:00,48799178,44,The Private Capture of Public Genius,172,86
+2026-07-06T19:02:30.608066+00:00,48807548,45,Marc Andreessen Says One Job Is Mostly Safe from AI: Venture Capitalist,15,12
+2026-07-06T19:02:30.608066+00:00,48806560,46,Union Busters Coming After Me,94,11
+2026-07-06T19:02:30.608066+00:00,48802885,47,"X402, a static blog monetization excercise",39,25
+2026-07-06T19:02:30.608066+00:00,48803347,48,C programmers commit fresh crimes against readability,117,17
+2026-07-06T19:02:30.608066+00:00,48799614,49,GPT-5.6 Sol Ultra will be in Codex,393,356
+2026-07-06T19:02:30.608066+00:00,48807755,50,Ask HN: What cool stuff have you all been using Fable 5 for?,5,2
