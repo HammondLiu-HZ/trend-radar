@@ -9929,3 +9929,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-06T04:19:28.275626+00:00,48800210,48,Apple sells me a MacBook to deliver $1700; cancels 5 days later quoting $2000?,6,1
 2026-07-06T04:19:28.275626+00:00,48792008,49,"Fast Software, the Best Software (2019)",133,73
 2026-07-06T04:19:28.275626+00:00,48798566,50,The mask that compiles to nothing: how HotSpots JIT learned to reason about bits,5,0
+2026-07-06T09:06:51.851417+00:00,48799614,1,GPT-5.6 Sol Ultra will be in Codex,275,197
+2026-07-06T09:06:51.851417+00:00,48799155,2,Has_not_been_viewed_much,276,71
+2026-07-06T09:06:51.851417+00:00,48794446,3,Organic Maps,967,292
+2026-07-06T09:06:51.851417+00:00,48801493,4,When AI Costs More Than the Engineer,65,55
+2026-07-06T09:06:51.851417+00:00,48801488,5,"Generate parametric, manufacturable 3D models in seconds",21,8
+2026-07-06T09:06:51.851417+00:00,48799929,6,Building relationships with customers through support didn't turn out as hoped,111,67
+2026-07-06T09:06:51.851417+00:00,48794750,7,"It's not about physical vs. digital games, it's about ownership",476,357
+2026-07-06T09:06:51.851417+00:00,48797916,8,OpenPrinter,830,204
+2026-07-06T09:06:51.851417+00:00,48798153,9,Show HN: Homegames. An open-source game platform I've been making for 8 years,174,41
+2026-07-06T09:06:51.851417+00:00,48798815,10,Does code cleanliness affect coding agents? A controlled minimal-pair study,115,61
+2026-07-06T09:06:51.851417+00:00,48774720,11,Behind the scenes with the Midjourney scanner [video],14,0
+2026-07-06T09:06:51.851417+00:00,48757900,12,The Age of Personalized Hardware Is Coming,56,35
+2026-07-06T09:06:51.851417+00:00,48799178,13,The Private Capture of Public Genius,105,52
+2026-07-06T09:06:51.851417+00:00,48767058,14,Zuckerberg says AI agent development going slower than expected,220,387
+2026-07-06T09:06:51.851417+00:00,48798061,15,Completing a computer science degree on Coursera,199,122
+2026-07-06T09:06:51.851417+00:00,48796093,16,Starring the Computer,225,50
+2026-07-06T09:06:51.851417+00:00,48796552,17,The future of Flipper Zero development,316,132
+2026-07-06T09:06:51.851417+00:00,48796817,18,New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf],161,96
+2026-07-06T09:06:51.851417+00:00,48770291,19,Mr. Baby Paint and accidentally discovering a new cellular automata,175,38
+2026-07-06T09:06:51.851417+00:00,48798247,20,Composite Video on the NES: Why's it so wobbly?,93,7
+2026-07-06T09:06:51.851417+00:00,48797141,21,Delta flight hit by firework while landing at Midway Airport on Fourth of July,121,210
+2026-07-06T09:06:51.851417+00:00,48798313,22,DNSGlobe – Rust TUI to watch DNS propagate around the world,58,38
+2026-07-06T09:06:51.851417+00:00,48765706,23,Modernizing a 25-year-old minimal C++ unit testing framework (Part 2),15,1
+2026-07-06T09:06:51.851417+00:00,48758802,24,The great blogging collapse: What happened to 100 successful blogs?,176,133
+2026-07-06T09:06:51.851417+00:00,48797467,25,Cursed circuits #5: capacitance multiplier,88,10
+2026-07-06T09:06:51.851417+00:00,48766556,26,Show HN: Visualize Model Spikiness in 3D,5,2
+2026-07-06T09:06:51.851417+00:00,48799781,27,The Sneakerweb,56,14
+2026-07-06T09:06:51.851417+00:00,48797895,28,Dungeon Proof Crawler: learn how to write proofs with RPG,62,15
+2026-07-06T09:06:51.851417+00:00,48796792,29,You need a webring,82,58
+2026-07-06T09:06:51.851417+00:00,48753341,30,The Writers Who Wrote the Most in History,42,18
+2026-07-06T09:06:51.851417+00:00,48794302,31,Run Windows 2000 on a DEC Alpha with a new es40 fork,118,68
+2026-07-06T09:06:51.851417+00:00,48794704,32,Solar rail could become common in Europe after successful trial in Switzerland,83,96
+2026-07-06T09:06:51.851417+00:00,48797656,33,Show HN: Osint tool that finds exposed files on domains,39,14
+2026-07-06T09:06:51.851417+00:00,48800026,34,"Shrimple – A Simpler, Nicer Markdown",20,32
+2026-07-06T09:06:51.851417+00:00,48801991,35,Sentiment analysis of Reddit threads using BERT models,4,1
+2026-07-06T09:06:51.851417+00:00,48769058,36,An Ordinary Mind on an Ordinary Day,15,1
+2026-07-06T09:06:51.851417+00:00,48765394,37,Platonic Hydrocarbons,13,0
+2026-07-06T09:06:51.851417+00:00,48799256,38,Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills,152,62
+2026-07-06T09:06:51.851417+00:00,48802091,39,Who Survives Europe's Energy Crisis?,3,0
+2026-07-06T09:06:51.851417+00:00,48799026,40,Connections in Math: the two kinds of random,43,28
+2026-07-06T09:06:51.851417+00:00,48786284,41,Airplane Boneyards List and Map,88,16
+2026-07-06T09:06:51.851417+00:00,48798688,42,"Vaclav Havel, the Power of the Powerless (1978)",30,3
+2026-07-06T09:06:51.851417+00:00,48796438,43,Do you hate XML? (2010),36,58
+2026-07-06T09:06:51.851417+00:00,48795323,44,Installing A/UX 1.1 like it's the 90s,62,26
+2026-07-06T09:06:51.851417+00:00,48798790,45,"Inventor, Mother, Creator: Grace Hopper",15,0
+2026-07-06T09:06:51.851417+00:00,48801059,46,Android is almost dead – OSnews,20,3
+2026-07-06T09:06:51.851417+00:00,48797771,47,Dependencies should be fetched directly from VCS,48,38
+2026-07-06T09:06:51.851417+00:00,48798239,48,Prism: An Impure Functional Language With Typed Effects,27,10
+2026-07-06T09:06:51.851417+00:00,48755686,49,Papa Johns Can Predict When Your Fridge Is Empty,41,57
+2026-07-06T09:06:51.851417+00:00,48798210,50,CoCom regulations and GPS receivers for balloons and cubesats,21,13
