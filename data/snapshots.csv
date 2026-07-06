@@ -10176,3 +10176,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-06T21:42:46.579159+00:00,48799614,48,GPT-5.6 Sol Ultra will be in Codex,400,366
 2026-07-06T21:42:46.579159+00:00,48765999,49,My quest to see all of Tetris,64,16
 2026-07-06T21:42:46.579159+00:00,48806560,50,Union Busters Coming After Me,119,18
+2026-07-06T23:15:04.593159+00:00,48808482,1,OpenWrt One – Open Hardware Router,348,148
+2026-07-06T23:15:04.593159+00:00,48808928,2,CoMaps – FOSS Offline Maps,247,46
+2026-07-06T23:15:04.593159+00:00,48811147,3,How little exercise can you get away with?,39,29
+2026-07-06T23:15:04.593159+00:00,48808002,4,A global workspace in language models,218,75
+2026-07-06T23:15:04.593159+00:00,48809354,5,Pruning RAG context down to what the answer actually needs,29,1
+2026-07-06T23:15:04.593159+00:00,48809877,6,GLM 5.2 and the coming AI margin collapse,52,14
+2026-07-06T23:15:04.593159+00:00,48757619,7,Evaluation order and nontermination in query languages,10,0
+2026-07-06T23:15:04.593159+00:00,48808663,8,Linux on the Atari Jaguar,84,16
+2026-07-06T23:15:04.593159+00:00,48811081,9,Full Writeup of the Windows GDID,12,6
+2026-07-06T23:15:04.593159+00:00,48809496,10,Python 3.14 compiled to metal – no interpreter,101,65
+2026-07-06T23:15:04.593159+00:00,48805624,11,AMD Ryzen AI Halo – $4k AI Dev Kit,256,184
+2026-07-06T23:15:04.593159+00:00,48804993,12,Resetting Xbox,431,387
+2026-07-06T23:15:04.593159+00:00,48807225,14,OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files,102,31
+2026-07-06T23:15:04.593159+00:00,48810533,15,AI: The ROI Runway Could Be Long Outside the Tech Sector,20,8
+2026-07-06T23:15:04.593159+00:00,48769854,16,Using precision editing to study human embryo development shows master gene,34,16
+2026-07-06T23:15:04.593159+00:00,48747889,17,Rotman Lens,62,14
+2026-07-06T23:15:04.593159+00:00,48809810,18,M/PC – A Concatenative OS,20,1
+2026-07-06T23:15:04.593159+00:00,48807908,19,Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359],65,17
+2026-07-06T23:15:04.593159+00:00,48804297,20,Aluminum foil (2021),221,101
+2026-07-06T23:15:04.593159+00:00,48806410,21,Kani: A Model Checker for Rust,118,7
+2026-07-06T23:15:04.593159+00:00,48810501,22,"Taiganet.com, Home of the WS4000 Simulator",8,1
+2026-07-06T23:15:04.593159+00:00,48783175,23,The LLVM Compiler Infrastructure,17,3
+2026-07-06T23:15:04.593159+00:00,48810439,24,Learning to code is still worthwhile,84,78
+2026-07-06T23:15:04.593159+00:00,48810841,25,Titan's Resources and Their Utilization,8,4
+2026-07-06T23:15:04.593159+00:00,48803364,26,Road to Elm 1.0,291,141
+2026-07-06T23:15:04.593159+00:00,48802535,27,Real-time map of Great Britain's rail network,376,138
+2026-07-06T23:15:04.593159+00:00,48779274,28,Egypt Is Building a New Nile,117,66
+2026-07-06T23:15:04.593159+00:00,48767211,29,Clojure 1.13 adds support for checked keys,186,41
+2026-07-06T23:15:04.593159+00:00,48806575,30,Show HN: Pulpie – Models for Cleaning the Web,79,17
+2026-07-06T23:15:04.593159+00:00,48808498,31,Companies hire more after AI adoption,15,1
+2026-07-06T23:15:04.593159+00:00,48806073,32,1k Words: A Writing Contest,77,37
+2026-07-06T23:15:04.593159+00:00,48760424,33,Introduction to Genomics for Engineers,221,37
+2026-07-06T23:15:04.593159+00:00,48803762,34,"Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",165,115
+2026-07-06T23:15:04.593159+00:00,48768935,35,Hobbes – A Language and Embedded JIT Compiler,24,2
+2026-07-06T23:15:04.593159+00:00,48804193,36,Nintendo announces new product revisions in Europe with replaceable batteries,306,184
+2026-07-06T23:15:04.593159+00:00,48805965,37,CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers,87,50
+2026-07-06T23:15:04.593159+00:00,48810528,38,Show HN: Otari: your open-source LLM control plane,4,0
+2026-07-06T23:15:04.593159+00:00,48809951,39,Canonization and the Overhang,4,0
+2026-07-06T23:15:04.593159+00:00,48809542,40,Price per 1M tokens is meaningless,122,78
+2026-07-06T23:15:04.593159+00:00,48806289,41,Should DayQuil Be Legal?,180,242
+2026-07-06T23:15:04.593159+00:00,48806156,42,Eternal Software Initiative Based on Subleq One-Instruction-Set Computer,20,6
+2026-07-06T23:15:04.593159+00:00,48743362,43,Apricot Computers: An underrated British brand,77,31
+2026-07-06T23:15:04.593159+00:00,48805401,44,"What Emily Bender meant by ""stochastic parrots""",157,206
+2026-07-06T23:15:04.593159+00:00,48810702,45,Even banks and hyperscalers are now sounding the alarm about the AI bubble,17,2
+2026-07-06T23:15:04.593159+00:00,48804017,46,Why low-latency Java still requires discipline?,85,43
+2026-07-06T23:15:04.593159+00:00,48809766,47,Kernel Anti-Cheat Is an Overreach,3,0
+2026-07-06T23:15:04.593159+00:00,48798815,48,Does code cleanliness affect coding agents? A controlled minimal-pair study,190,89
+2026-07-06T23:15:04.593159+00:00,48757215,49,The Complete Homemade Juggling Beanbag Guide,62,8
+2026-07-06T23:15:04.593159+00:00,48809836,50,Decoding 137MHz signals from passing satellites to get images with a $10 SDR,22,5
