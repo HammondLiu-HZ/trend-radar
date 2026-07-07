@@ -10470,3 +10470,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-07T18:07:52.645286+00:00,48811373,48,OpenSSH 10.4/10.4p1 Released,110,21
 2026-07-07T18:07:52.645286+00:00,48778243,49,Inkfield,51,18
 2026-07-07T18:07:52.645286+00:00,48814264,50,The Making of Claude Code,39,26
+2026-07-07T20:53:47.392124+00:00,48816883,1,"StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",587,135
+2026-07-07T20:53:47.392124+00:00,48821576,2,"Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",87,18
+2026-07-07T20:53:47.392124+00:00,48821749,3,AI Meets Cryptography 1: What AI Found in Cloudflare's Circl,42,5
+2026-07-07T20:53:47.392124+00:00,48818311,4,Chat Control 1.0 and 2.0 Explained,262,84
+2026-07-07T20:53:47.392124+00:00,48821378,5,l: A new runtime for k and q,61,35
+2026-07-07T20:53:47.392124+00:00,48756578,6,Herdr: One terminal to rule them all,36,16
+2026-07-07T20:53:47.392124+00:00,48821848,7,"Show HN: Davit, a Apple Containers UI",50,8
+2026-07-07T20:53:47.392124+00:00,48816956,8,A better way to tie gym shorts (or any drawstring) [video],394,143
+2026-07-07T20:53:47.392124+00:00,48819608,9,"30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",232,38
+2026-07-07T20:53:47.392124+00:00,48820119,10,Jim's TrueType QR Code Font,90,10
+2026-07-07T20:53:47.392124+00:00,48821441,11,Notes on Software Quality,36,18
+2026-07-07T20:53:47.392124+00:00,48819808,12,"Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",30,7
+2026-07-07T20:53:47.392124+00:00,48791505,13,Fixing analog audio on the $2.58 HDMI-to-VGA adapter,45,16
+2026-07-07T20:53:47.392124+00:00,48819308,14,Why we built yet another Postgres connection pooler,83,15
+2026-07-07T20:53:47.392124+00:00,48821500,15,Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens,24,9
+2026-07-07T20:53:47.392124+00:00,48818937,16,Automating AI Away,70,36
+2026-07-07T20:53:47.392124+00:00,48820022,17,MacSurf 1.68 – NetSurf on OS 9 Released,54,8
+2026-07-07T20:53:47.392124+00:00,48821653,18,Astro 7.0,125,33
+2026-07-07T20:53:47.392124+00:00,48819008,19,Chat Control passed first round in EU Parliament,453,199
+2026-07-07T20:53:47.392124+00:00,48820220,20,China sentences official to death for taking $325M in bribes,201,217
+2026-07-07T20:53:47.392124+00:00,48754476,21,Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf],23,0
+2026-07-07T20:53:47.392124+00:00,48815982,22,Why skilled workers come to Germany and then leave again,111,238
+2026-07-07T20:53:47.392124+00:00,48818544,23,The revenge of the philosophy majors,106,167
+2026-07-07T20:53:47.392124+00:00,48816959,25,98% isn't much,422,272
+2026-07-07T20:53:47.392124+00:00,48819244,26,Microsoft fire idTech team at Id software,409,409
+2026-07-07T20:53:47.392124+00:00,48818098,27,"Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",11,7
+2026-07-07T20:53:47.392124+00:00,48799930,28,"GitHub Freno: cooperative, highly available throttler service",31,0
+2026-07-07T20:53:47.392124+00:00,48820127,29,Reducing Doom Loops with Final Token Preference Optimization,24,5
+2026-07-07T20:53:47.392124+00:00,48816900,30,Show HN: PostgreSQL performance and cost across 23 EC2 instance types,77,13
+2026-07-07T20:53:47.392124+00:00,48741447,31,The family keeping watch over a 52-year-old pot of soup,74,56
+2026-07-07T20:53:47.392124+00:00,48818963,32,Amazon without the knockoffs,275,203
+2026-07-07T20:53:47.392124+00:00,48821803,33,Ask HN: Is GitHub preparing to go behind a login wall?,28,23
+2026-07-07T20:53:47.392124+00:00,48813929,34,The Art of Computer Programming by Donald E. Knuth,195,51
+2026-07-07T20:53:47.392124+00:00,48816612,35,Europe's company websites are mostly served by US vendors,231,163
+2026-07-07T20:53:47.392124+00:00,48823024,36,Re: I'm Begging You to Leave Your AI Note-Taker at Home,41,59
+2026-07-07T20:53:47.392124+00:00,48777488,37,C++ Details of Asymmetric Fences,56,6
+2026-07-07T20:53:47.392124+00:00,48817017,38,Dua Lipa opens library for banned and censored books in Portugal,261,204
+2026-07-07T20:53:47.392124+00:00,48819250,39,Software Bonkers,25,18
+2026-07-07T20:53:47.392124+00:00,48819512,40,Better Auth is joining Vercel,110,75
+2026-07-07T20:53:47.392124+00:00,48787124,41,Historic Photos of NASA's Cavernous Wind Tunnels,107,27
+2026-07-07T20:53:47.392124+00:00,48820274,42,Mapping homes you can buy from the US government for <$100k,88,96
+2026-07-07T20:53:47.392124+00:00,48786124,43,Dolosse – a South African invention used over the world,124,38
+2026-07-07T20:53:47.392124+00:00,48815196,44,Microsoft Can Track Users via a Windows Device ID,312,143
+2026-07-07T20:53:47.392124+00:00,48817595,45,You shouldn't trust Trusted Publishing,14,0
+2026-07-07T20:53:47.392124+00:00,48814952,46,"Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",74,51
+2026-07-07T20:53:47.392124+00:00,48818861,47,Demystifying the Red Zone: Optimizing Leaf Functions,8,0
+2026-07-07T20:53:47.392124+00:00,48808482,48,OpenWrt One – Open Hardware Router,793,300
+2026-07-07T20:53:47.392124+00:00,48823368,49,Men's average testosterone levels have halved in last 50 years,3,2
+2026-07-07T20:53:47.392124+00:00,48820458,50,New Literalism Comes for Museums,9,3
