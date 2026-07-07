@@ -10323,3 +10323,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-07T08:30:04.731334+00:00,48813951,48,Learning another language appears to slow brain ageing by up to 13 years,10,4
 2026-07-07T08:30:04.731334+00:00,48803364,49,Road to Elm 1.0,329,165
 2026-07-07T08:30:04.731334+00:00,48804193,50,Nintendo announces new product revisions in Europe with replaceable batteries,337,201
+2026-07-07T12:03:51.576167+00:00,48816003,1,Top researchers leave USA for the Netherlands (in Dutch),27,3
+2026-07-07T12:03:51.576167+00:00,48816129,2,PostgreSQL Benchmark: AWS RDS vs. Self-Hosted on Hetzner (2026),8,0
+2026-07-07T12:03:51.576167+00:00,48808482,3,OpenWrt One – Open Hardware Router,690,256
+2026-07-07T12:03:51.576167+00:00,48808928,4,CoMaps – FOSS Offline Maps,630,140
+2026-07-07T12:03:51.576167+00:00,48809877,5,GLM 5.2 and the coming AI margin collapse,502,300
+2026-07-07T12:03:51.576167+00:00,48786124,7,Dolosse – a South African invention used over the world,80,20
+2026-07-07T12:03:51.576167+00:00,48812156,8,How to sequence your own DNA at home,258,103
+2026-07-07T12:03:51.576167+00:00,48812055,9,Small AI Models Gain Traction In places with unreliable networks,171,60
+2026-07-07T12:03:51.576167+00:00,48815196,10,Microsoft Can Track Users via a Windows Device ID,118,56
+2026-07-07T12:03:51.576167+00:00,48811591,11,Fable turned reMarkable into Tom Riddle's diary from Harry Potter,504,326
+2026-07-07T12:03:51.576167+00:00,48787124,12,Historic Photos of NASA's Cavernous Wind Tunnels,24,3
+2026-07-07T12:03:51.576167+00:00,48813929,13,The Art of Computer Programming by Donald E. Knuth,54,14
+2026-07-07T12:03:51.576167+00:00,48811644,14,Ternlight – 7 MB embedding model that runs in browser (WASM),262,57
+2026-07-07T12:03:51.576167+00:00,48808002,15,A global workspace in language models,392,150
+2026-07-07T12:03:51.576167+00:00,48814952,16,"Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",23,17
+2026-07-07T12:03:51.576167+00:00,48748522,17,In Praise of Observational Evidence,36,2
+2026-07-07T12:03:51.576167+00:00,48804993,18,Resetting Xbox,654,727
+2026-07-07T12:03:51.576167+00:00,48805624,19,AMD Ryzen AI Halo – $4k AI Dev Kit,344,229
+2026-07-07T12:03:51.576167+00:00,48809354,20,Pruning RAG context down to what the answer actually needs,114,29
+2026-07-07T12:03:51.576167+00:00,48779072,21,Not Dark Yet,6,0
+2026-07-07T12:03:51.576167+00:00,48778243,22,Inkfield,31,7
+2026-07-07T12:03:51.576167+00:00,48808663,23,Linux on the Atari Jaguar,161,48
+2026-07-07T12:03:51.576167+00:00,48811373,24,OpenSSH 10.4/10.4p1 Released,89,16
+2026-07-07T12:03:51.576167+00:00,48807225,25,OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files,190,56
+2026-07-07T12:03:51.576167+00:00,48777127,26,Dropping in on Gottfried Leibniz (2013),7,3
+2026-07-07T12:03:51.576167+00:00,48810439,27,Learning to code is still worthwhile,237,228
+2026-07-07T12:03:51.576167+00:00,48747889,28,Rotman Lens,119,38
+2026-07-07T12:03:51.576167+00:00,48807908,29,Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359],116,46
+2026-07-07T12:03:51.576167+00:00,48809810,30,M/PC – A Concatenative OS,71,10
+2026-07-07T12:03:51.576167+00:00,48806410,31,Kani: A Model Checker for Rust,149,9
+2026-07-07T12:03:51.576167+00:00,48811887,32,NSA and IETF: Fairness,121,94
+2026-07-07T12:03:51.576167+00:00,48767211,33,Clojure 1.13 adds support for checked keys,216,46
+2026-07-07T12:03:51.576167+00:00,48782248,34,A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku,45,13
+2026-07-07T12:03:51.576167+00:00,48786970,35,EndBASIC 0.14: Are we multimedia yet?,43,9
+2026-07-07T12:03:51.576167+00:00,48757619,36,Evaluation order and nontermination in query languages,39,4
+2026-07-07T12:03:51.576167+00:00,48769854,37,Using precision editing to study human embryo development shows master gene,62,47
+2026-07-07T12:03:51.576167+00:00,48760424,38,Introduction to Genomics for Engineers,249,40
+2026-07-07T12:03:51.576167+00:00,48811081,39,Full Writeup of the Windows GDID,74,39
+2026-07-07T12:03:51.576167+00:00,48783175,40,The LLVM Compiler Infrastructure,65,13
+2026-07-07T12:03:51.576167+00:00,48814264,41,The Making of Claude Code,6,1
+2026-07-07T12:03:51.576167+00:00,48811317,42,Poly/ML – A Standard ML Implementation,61,23
+2026-07-07T12:03:51.576167+00:00,48810791,43,"As Amazon lets Mechanical Turk fade, Mercor hits a $2B gross run rate",20,3
+2026-07-07T12:03:51.576167+00:00,48806575,44,Show HN: Pulpie – Models for Cleaning the Web,94,25
+2026-07-07T12:03:51.576167+00:00,48779274,45,Egypt Is Building a New Nile,142,92
+2026-07-07T12:03:51.576167+00:00,48803762,46,"Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",189,129
+2026-07-07T12:03:51.576167+00:00,48767317,47,The Music of Destruction,24,11
+2026-07-07T12:03:51.576167+00:00,48804297,48,Aluminum foil (2021),271,120
+2026-07-07T12:03:51.576167+00:00,48806073,49,1k Words: A Writing Contest,90,37
+2026-07-07T12:03:51.576167+00:00,48761319,50,Tiny-C Reference Manual Excerpt,21,1
