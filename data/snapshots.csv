@@ -10225,3 +10225,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-06T23:15:04.593159+00:00,48798815,48,Does code cleanliness affect coding agents? A controlled minimal-pair study,190,89
 2026-07-06T23:15:04.593159+00:00,48757215,49,The Complete Homemade Juggling Beanbag Guide,62,8
 2026-07-06T23:15:04.593159+00:00,48809836,50,Decoding 137MHz signals from passing satellites to get images with a $10 SDR,22,5
+2026-07-07T04:08:42.900794+00:00,48811591,1,Fable turned reMarkable into Tom Riddle's diary from Harry Potter,228,137
+2026-07-07T04:08:42.900794+00:00,48808482,2,OpenWrt One – Open Hardware Router,482,197
+2026-07-07T04:08:42.900794+00:00,48812156,3,How to sequence your own DNA at home,94,27
+2026-07-07T04:08:42.900794+00:00,48808928,4,CoMaps – FOSS Offline Maps,362,74
+2026-07-07T04:08:42.900794+00:00,48809877,5,GLM 5.2 and the coming AI margin collapse,228,151
+2026-07-07T04:08:42.900794+00:00,48812055,6,Small AI Models Gain Traction In places with unreliable networks,46,11
+2026-07-07T04:08:42.900794+00:00,48811644,7,Ternlight – 7 MB embedding model that runs in browser (WASM),121,35
+2026-07-07T04:08:42.900794+00:00,48808002,8,A global workspace in language models,301,106
+2026-07-07T04:08:42.900794+00:00,48809354,9,Pruning RAG context down to what the answer actually needs,65,8
+2026-07-07T04:08:42.900794+00:00,48804993,10,Resetting Xbox,524,518
+2026-07-07T04:08:42.900794+00:00,48782248,11,A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku,33,8
+2026-07-07T04:08:42.900794+00:00,48808663,12,Linux on the Atari Jaguar,118,21
+2026-07-07T04:08:42.900794+00:00,48811373,13,OpenSSH 10.4/10.4p1 Released,43,12
+2026-07-07T04:08:42.900794+00:00,48805624,14,AMD Ryzen AI Halo – $4k AI Dev Kit,292,214
+2026-07-07T04:08:42.900794+00:00,48811339,15,Acronym Fatigue Series Introduction: why I'm wary of acronyms,33,17
+2026-07-07T04:08:42.900794+00:00,48807225,16,OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files,141,36
+2026-07-07T04:08:42.900794+00:00,48811081,18,Full Writeup of the Windows GDID,46,22
+2026-07-07T04:08:42.900794+00:00,48810439,19,Learning to code is still worthwhile,133,132
+2026-07-07T04:08:42.900794+00:00,48804297,20,Aluminum foil (2021),253,109
+2026-07-07T04:08:42.900794+00:00,48779632,21,Giving a domain a hill to climb: benchmarking as data activation,6,2
+2026-07-07T04:08:42.900794+00:00,48747889,22,Rotman Lens,90,25
+2026-07-07T04:08:42.900794+00:00,48807908,23,Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359],85,27
+2026-07-07T04:08:42.900794+00:00,48809810,24,M/PC – A Concatenative OS,46,5
+2026-07-07T04:08:42.900794+00:00,48757619,25,Evaluation order and nontermination in query languages,26,2
+2026-07-07T04:08:42.900794+00:00,48803364,26,Road to Elm 1.0,309,152
+2026-07-07T04:08:42.900794+00:00,48783175,27,The LLVM Compiler Infrastructure,50,8
+2026-07-07T04:08:42.900794+00:00,48806410,28,Kani: A Model Checker for Rust,131,7
+2026-07-07T04:08:42.900794+00:00,48811317,29,Poly/ML – A Standard ML Implementation,31,6
+2026-07-07T04:08:42.900794+00:00,48767317,30,The Music of Destruction,16,7
+2026-07-07T04:08:42.900794+00:00,48769854,31,Using precision editing to study human embryo development shows master gene,50,32
+2026-07-07T04:08:42.900794+00:00,48779274,32,Egypt Is Building a New Nile,131,78
+2026-07-07T04:08:42.900794+00:00,48810533,33,AI: The ROI Runway Could Be Long Outside the Tech Sector,60,54
+2026-07-07T04:08:42.900794+00:00,48767211,34,Clojure 1.13 adds support for checked keys,196,43
+2026-07-07T04:08:42.900794+00:00,48810501,35,"Taiganet.com, Home of the WS4000 Simulator",20,3
+2026-07-07T04:08:42.900794+00:00,48809766,36,Kernel Anti-Cheat Is an Overreach,25,25
+2026-07-07T04:08:42.900794+00:00,48809496,37,Python 3.14 compiled to metal – no interpreter,128,92
+2026-07-07T04:08:42.900794+00:00,48760424,38,Introduction to Genomics for Engineers,236,37
+2026-07-07T04:08:42.900794+00:00,48810945,39,"How ChatGPT Picks Sources (I Read the Network Traffic, Not the Outputs)",14,1
+2026-07-07T04:08:42.900794+00:00,48812045,40,Show HN: InstantVideos.org – short documentaries in ~30 seconds,7,15
+2026-07-07T04:08:42.900794+00:00,48811403,41,Not everything should cost a token: the case for deterministic AI,14,8
+2026-07-07T04:08:42.900794+00:00,48808498,42,Companies hire more after AI adoption,25,2
+2026-07-07T04:08:42.900794+00:00,48806575,43,Show HN: Pulpie – Models for Cleaning the Web,82,24
+2026-07-07T04:08:42.900794+00:00,48811833,44,Complexity theorist Steven Rudich (1961-2024),8,0
+2026-07-07T04:08:42.900794+00:00,48803762,45,"Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",177,120
+2026-07-07T04:08:42.900794+00:00,48806073,46,1k Words: A Writing Contest,83,37
+2026-07-07T04:08:42.900794+00:00,48810528,47,Show HN: Otari: your open-source LLM control plane,13,1
+2026-07-07T04:08:42.900794+00:00,48777636,48,Craig Mod built his own Good Reads,18,12
+2026-07-07T04:08:42.900794+00:00,48811892,49,Show HN: LLM Thought Visualization,11,0
+2026-07-07T04:08:42.900794+00:00,48804193,50,Nintendo announces new product revisions in Europe with replaceable batteries,327,194
