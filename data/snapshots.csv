@@ -10274,3 +10274,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-07T04:08:42.900794+00:00,48777636,48,Craig Mod built his own Good Reads,18,12
 2026-07-07T04:08:42.900794+00:00,48811892,49,Show HN: LLM Thought Visualization,11,0
 2026-07-07T04:08:42.900794+00:00,48804193,50,Nintendo announces new product revisions in Europe with replaceable batteries,327,194
+2026-07-07T08:30:04.731334+00:00,48811591,1,Fable turned reMarkable into Tom Riddle's diary from Harry Potter,409,229
+2026-07-07T08:30:04.731334+00:00,48808482,2,OpenWrt One – Open Hardware Router,587,227
+2026-07-07T08:30:04.731334+00:00,48808928,3,CoMaps – FOSS Offline Maps,518,105
+2026-07-07T08:30:04.731334+00:00,48809877,4,GLM 5.2 and the coming AI margin collapse,376,236
+2026-07-07T08:30:04.731334+00:00,48812156,5,How to sequence your own DNA at home,191,67
+2026-07-07T08:30:04.731334+00:00,48812055,6,Small AI Models Gain Traction In places with unreliable networks,122,36
+2026-07-07T08:30:04.731334+00:00,48811644,8,Ternlight – 7 MB embedding model that runs in browser (WASM),206,48
+2026-07-07T08:30:04.731334+00:00,48786124,9,Dolosse – a South African invention used over the world,29,4
+2026-07-07T08:30:04.731334+00:00,48808002,10,A global workspace in language models,356,132
+2026-07-07T08:30:04.731334+00:00,48804993,11,Resetting Xbox,599,620
+2026-07-07T08:30:04.731334+00:00,48809354,12,Pruning RAG context down to what the answer actually needs,99,18
+2026-07-07T08:30:04.731334+00:00,48805624,13,AMD Ryzen AI Halo – $4k AI Dev Kit,320,220
+2026-07-07T08:30:04.731334+00:00,48808663,14,Linux on the Atari Jaguar,146,31
+2026-07-07T08:30:04.731334+00:00,48811373,15,OpenSSH 10.4/10.4p1 Released,73,15
+2026-07-07T08:30:04.731334+00:00,48778243,16,Inkfield,7,1
+2026-07-07T08:30:04.731334+00:00,48807225,17,OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files,171,51
+2026-07-07T08:30:04.731334+00:00,48782248,18,A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku,39,11
+2026-07-07T08:30:04.731334+00:00,48810439,19,Learning to code is still worthwhile,189,193
+2026-07-07T08:30:04.731334+00:00,48747889,20,Rotman Lens,106,29
+2026-07-07T08:30:04.731334+00:00,48807908,21,Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359],106,34
+2026-07-07T08:30:04.731334+00:00,48811887,22,NSA and IETF: Fairness,99,82
+2026-07-07T08:30:04.731334+00:00,48809810,23,M/PC – A Concatenative OS,60,10
+2026-07-07T08:30:04.731334+00:00,48806410,24,Kani: A Model Checker for Rust,142,7
+2026-07-07T08:30:04.731334+00:00,48811081,25,Full Writeup of the Windows GDID,66,30
+2026-07-07T08:30:04.731334+00:00,48786970,26,EndBASIC 0.14: Are we multimedia yet?,38,7
+2026-07-07T08:30:04.731334+00:00,48757619,27,Evaluation order and nontermination in query languages,35,3
+2026-07-07T08:30:04.731334+00:00,48769854,28,Using precision editing to study human embryo development shows master gene,58,45
+2026-07-07T08:30:04.731334+00:00,48767211,29,Clojure 1.13 adds support for checked keys,204,44
+2026-07-07T08:30:04.731334+00:00,48783175,30,The LLVM Compiler Infrastructure,61,12
+2026-07-07T08:30:04.731334+00:00,48811317,31,Poly/ML – A Standard ML Implementation,59,23
+2026-07-07T08:30:04.731334+00:00,48760424,32,Introduction to Genomics for Engineers,242,38
+2026-07-07T08:30:04.731334+00:00,48767317,33,The Music of Destruction,21,10
+2026-07-07T08:30:04.731334+00:00,48779632,34,Giving a domain a hill to climb: benchmarking as data activation,10,6
+2026-07-07T08:30:04.731334+00:00,48811339,35,Acronym Fatigue Series Introduction: why I'm wary of acronyms,54,55
+2026-07-07T08:30:04.731334+00:00,48779274,36,Egypt Is Building a New Nile,136,88
+2026-07-07T08:30:04.731334+00:00,48810791,37,"As Amazon lets Mechanical Turk fade, Mercor hits a $2B gross run rate",16,1
+2026-07-07T08:30:04.731334+00:00,48761319,38,Tiny-C Reference Manual Excerpt,19,1
+2026-07-07T08:30:04.731334+00:00,48813850,39,Odin 1.0 Announcement,29,3
+2026-07-07T08:30:04.731334+00:00,48806575,40,Show HN: Pulpie – Models for Cleaning the Web,89,25
+2026-07-07T08:30:04.731334+00:00,48810501,41,"Taiganet.com, Home of the WS4000 Simulator",23,3
+2026-07-07T08:30:04.731334+00:00,48803762,42,"Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",182,126
+2026-07-07T08:30:04.731334+00:00,48812045,43,Show HN: InstantVideos.org – short documentaries in ~30 seconds,22,25
+2026-07-07T08:30:04.731334+00:00,48806073,44,1k Words: A Writing Contest,88,37
+2026-07-07T08:30:04.731334+00:00,48804297,45,Aluminum foil (2021),267,117
+2026-07-07T08:30:04.731334+00:00,48811833,46,Complexity theorist Steven Rudich (1961-2024),10,0
+2026-07-07T08:30:04.731334+00:00,48808498,47,Companies hire more after AI adoption,32,5
+2026-07-07T08:30:04.731334+00:00,48813951,48,Learning another language appears to slow brain ageing by up to 13 years,10,4
+2026-07-07T08:30:04.731334+00:00,48803364,49,Road to Elm 1.0,329,165
+2026-07-07T08:30:04.731334+00:00,48804193,50,Nintendo announces new product revisions in Europe with replaceable batteries,337,201
