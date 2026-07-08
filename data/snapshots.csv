@@ -11013,3 +11013,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-08T21:17:18.661289+00:00,48786789,48,Canada's only watchmaking school still ticking after 80 years,238,139
 2026-07-08T21:17:18.661289+00:00,48793805,49,Home made GPU escalated quickly [video],167,55
 2026-07-08T21:17:18.661289+00:00,48761868,50,"The difference between ""today's task"" and ""accretive work""",130,71
+2026-07-08T23:16:56.750480+00:00,48837396,1,Separating signal from noise in coding evaluations,115,45
+2026-07-08T23:16:56.750480+00:00,48836778,2,FAANG Simulator,168,63
+2026-07-08T23:16:56.750480+00:00,48833116,3,Chatto is now open source,647,180
+2026-07-08T23:16:56.750480+00:00,48835111,4,Grok 4.5,412,395
+2026-07-08T23:16:56.750480+00:00,48836233,5,Cloudflare Drop,157,84
+2026-07-08T23:16:56.750480+00:00,48829312,6,Decoding the obfuscated bash script on a Uniqlo t-shirt,1253,201
+2026-07-08T23:16:56.750480+00:00,48837877,7,Rewriting Bun in Rust,91,20
+2026-07-08T23:16:56.750480+00:00,48832212,8,Mistral's Robostral Navigate: a state of the art robotics navigation model,383,91
+2026-07-08T23:16:56.750480+00:00,48834924,9,"Show HN: Microsoft releases Flint, a visualization language for AI agents",153,67
+2026-07-08T23:16:56.750480+00:00,48837110,10,Turning a pile of documents into a searchable useable knowledge base,35,6
+2026-07-08T23:16:56.750480+00:00,48834405,11,GPT‑Live,553,375
+2026-07-08T23:16:56.750480+00:00,48804016,12,DKIM2 and DMARCbis Have Landed,46,28
+2026-07-08T23:16:56.750480+00:00,48831587,13,A bug which affected only left handed users,69,35
+2026-07-08T23:16:56.750480+00:00,48816987,14,Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line,16,1
+2026-07-08T23:16:56.750480+00:00,48835439,15,OpenMandriva: Statement regarding attempted distribution sabotage,64,10
+2026-07-08T23:16:56.750480+00:00,48837809,16,"Open Source Barware: free, local-first bar inventory software (GPLv3)",7,1
+2026-07-08T23:16:56.750480+00:00,48809808,17,"Poison, redzones and shadows: inside KASAN",7,0
+2026-07-08T23:16:56.750480+00:00,48834296,18,EU now one step away from reviving private message scanning rules,325,126
+2026-07-08T23:16:56.750480+00:00,48804801,19,I Built a Telegram Client for Pi,41,20
+2026-07-08T23:16:56.750480+00:00,48831658,20,OpenBSD has a use-after-free allowing local privilege escalation to root,242,118
+2026-07-08T23:16:56.750480+00:00,48831565,21,Cloudflare Meerkat - Globally distributed consensus,195,42
+2026-07-08T23:16:56.750480+00:00,48836813,22,"Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",15,3
+2026-07-08T23:16:56.750480+00:00,48833866,23,SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence,239,123
+2026-07-08T23:16:56.750480+00:00,48837162,24,The classifiers Anthropic puts in front of Fable are too zealous,173,157
+2026-07-08T23:16:56.750480+00:00,48797443,25,Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1,37,1
+2026-07-08T23:16:56.750480+00:00,48780387,26,EVE Online's Carbon engine is now open source: Fenris Creations explains why,370,124
+2026-07-08T23:16:56.750480+00:00,48833715,27,TypeScript 7,416,154
+2026-07-08T23:16:56.750480+00:00,48836324,28,New Sweden: the US's long-lost 'secret' colony,14,0
+2026-07-08T23:16:56.750480+00:00,48836431,29,Almost Always Unsigned,18,17
+2026-07-08T23:16:56.750480+00:00,48794062,30,TabFont – guitar tabs rendered as you type,79,23
+2026-07-08T23:16:56.750480+00:00,48805475,31,"Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",26,3
+2026-07-08T23:16:56.750480+00:00,48786455,32,Show HN: Follow London Trains in 3D,123,56
+2026-07-08T23:16:56.750480+00:00,48834919,33,PlayStation can delete all your digital games after 3 years of inactivity (EU),202,92
+2026-07-08T23:16:56.750480+00:00,48832797,34,"Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",4,2
+2026-07-08T23:16:56.750480+00:00,48836951,35,"Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",12,1
+2026-07-08T23:16:56.750480+00:00,48834898,36,What Do We Know About the Microplastics Inside Us?,165,89
+2026-07-08T23:16:56.750480+00:00,48838210,37,A Roomba recorded a woman on the toilet. How did screenshots end up on Facebook?,9,0
+2026-07-08T23:16:56.750480+00:00,48836713,38,Show HN: Hnwork.app – UI for Who is hiring posts,16,5
+2026-07-08T23:16:56.750480+00:00,48838521,39,The family of a man shot by the Tennessee National Guard demands video release,5,0
+2026-07-08T23:16:56.750480+00:00,48838353,40,Creatine doesn't just build muscle. It may also help fight cancer,6,1
+2026-07-08T23:16:56.750480+00:00,48792980,41,Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid,155,17
+2026-07-08T23:16:56.750480+00:00,48837376,42,Most slopcode projects are abandoned and deleted within months of release,26,4
+2026-07-08T23:16:56.750480+00:00,48801364,43,Sometimes it is the network: a war story,11,1
+2026-07-08T23:16:56.750480+00:00,48830565,44,Apple to increase spend with Broadcom to produce billions more U.S. chips,277,220
+2026-07-08T23:16:56.750480+00:00,48829242,45,Geosql: A Claude/Codex skill for geospatial data,126,13
+2026-07-08T23:16:56.750480+00:00,48803791,46,NoiseLang: Where N = 5 is a Dirac delta,105,50
+2026-07-08T23:16:56.750480+00:00,48835063,47,"Show HN: Foreman, a self-hosted LLM gateway for cost aware model routing",10,5
+2026-07-08T23:16:56.750480+00:00,48827858,48,GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos,498,192
+2026-07-08T23:16:56.750480+00:00,48836677,49,"Slughorn, Slug font/glyph render lib for OpenGL/OSG/Vulkan/GPU APIs (MIT lic))",5,1
+2026-07-08T23:16:56.750480+00:00,48780915,50,Ants: Who looks after the injured in a colony?,102,50
