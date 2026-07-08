@@ -10913,3 +10913,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-08T17:46:43.162469+00:00,48794049,48,Scheme Is a Hoot,126,18
 2026-07-08T17:46:43.162469+00:00,48826094,49,Show HN: Chiptune Radio,68,15
 2026-07-08T17:46:43.162469+00:00,48831785,50,FDA rejects petition to set PFAS limits in food,181,131
+2026-07-08T19:46:19.172482+00:00,48834898,1,What Do We Know About the Microplastics Inside Us?,104,33
+2026-07-08T19:46:19.172482+00:00,48833116,2,Chatto is now Open Source,428,120
+2026-07-08T19:46:19.172482+00:00,48832212,3,Mistral's Robostral Navigate: a state of the art robotics navigation model,320,75
+2026-07-08T19:46:19.172482+00:00,48833866,4,SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence,161,92
+2026-07-08T19:46:19.172482+00:00,48834924,5,"Show HN: Microsoft releases Flint, a visualization language for AI agents",78,31
+2026-07-08T19:46:19.172482+00:00,48829312,6,Decoding the obfuscated bash script on a Uniqlo t-shirt,1137,189
+2026-07-08T19:46:19.172482+00:00,48834405,7,GPT‑Live,397,268
+2026-07-08T19:46:19.172482+00:00,48835111,8,Grok 4.5,248,167
+2026-07-08T19:46:19.172482+00:00,48831587,9,A bug which affected only left handed users,11,3
+2026-07-08T19:46:19.172482+00:00,48831565,10,Cloudflare Meerkat - Globally distributed consensus,166,36
+2026-07-08T19:46:19.172482+00:00,48835439,11,OpenMandriva: Statement regarding attempted distribution sabotage,13,2
+2026-07-08T19:46:19.172482+00:00,48834296,12,EU now one step away from reviving private message scanning rules,191,74
+2026-07-08T19:46:19.172482+00:00,48831658,13,OpenBSD has a use-after-free allowing local privilege escalation to root,203,93
+2026-07-08T19:46:19.172482+00:00,48797443,14,Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1,15,0
+2026-07-08T19:46:19.172482+00:00,48827858,15,GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos,470,180
+2026-07-08T19:46:19.172482+00:00,48804801,16,I Built a Telegram Client for Pi,9,4
+2026-07-08T19:46:19.172482+00:00,48833715,17,TypeScript 7,247,82
+2026-07-08T19:46:19.172482+00:00,48794062,18,TabFont – guitar tabs rendered as you type,56,13
+2026-07-08T19:46:19.172482+00:00,48786455,19,Show HN: Follow London Trains in 3D,99,44
+2026-07-08T19:46:19.172482+00:00,48780387,20,EVE Online's Carbon engine is now open source: Fenris Creations explains why,340,118
+2026-07-08T19:46:19.172482+00:00,48805475,21,"Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",8,0
+2026-07-08T19:46:19.172482+00:00,48834919,22,PlayStation can delete all your digital games after 3 years of inactivity (EU),96,42
+2026-07-08T19:46:19.172482+00:00,48830565,23,Apple to increase spend with Broadcom to produce billions more U.S. chips,262,215
+2026-07-08T19:46:19.172482+00:00,48792980,24,Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid,150,17
+2026-07-08T19:46:19.172482+00:00,48827325,25,"How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",320,217
+2026-07-08T19:46:19.172482+00:00,48803791,26,NoiseLang: Where N = 5 is a Dirac delta,96,47
+2026-07-08T19:46:19.172482+00:00,48829242,27,Geosql: A Claude/Codex skill for geospatial data,111,13
+2026-07-08T19:46:19.172482+00:00,48825749,28,Tenda firmware (multiple versions) contains hidden authentication backdoor,330,114
+2026-07-08T19:46:19.172482+00:00,48825664,29,Structure and Interpretation of Computer Programs Video Lectures (1986),335,43
+2026-07-08T19:46:19.172482+00:00,48827092,30,Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks,167,64
+2026-07-08T19:46:19.172482+00:00,48780915,31,Ants: Who looks after the injured in a colony?,99,47
+2026-07-08T19:46:19.172482+00:00,48835063,32,"Show HN: Foreman, a self-hosted LLM gateway for cost aware model routing",3,0
+2026-07-08T19:46:19.172482+00:00,48796473,33,Every postcard tells a story,31,21
+2026-07-08T19:46:19.172482+00:00,48824826,34,GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup,265,143
+2026-07-08T19:46:19.172482+00:00,48794227,35,Catastrophe theory; geniuses and maniacs (2011),19,1
+2026-07-08T19:46:19.172482+00:00,48786789,36,Canada's only watchmaking school still ticking after 80 years,236,135
+2026-07-08T19:46:19.172482+00:00,48821576,37,"Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",501,92
+2026-07-08T19:46:19.172482+00:00,48793805,38,Home made GPU escalated quickly [video],164,53
+2026-07-08T19:46:19.172482+00:00,48761868,39,"The difference between ""today's task"" and ""accretive work""",130,72
+2026-07-08T19:46:19.172482+00:00,48756578,40,Herdr: One terminal to rule them all,380,165
+2026-07-08T19:46:19.172482+00:00,48830868,41,It seems that the age of reading might be a short anomaly in human history,133,268
+2026-07-08T19:46:19.172482+00:00,48821848,42,"Show HN: Davit, a Apple Containers UI",376,96
+2026-07-08T19:46:19.172482+00:00,48826329,43,LineageOS Statistics,178,102
+2026-07-08T19:46:19.172482+00:00,48789625,44,Automate Excel with Python: From manual grind to one-click workflow,48,23
+2026-07-08T19:46:19.172482+00:00,48819808,45,"Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",210,90
+2026-07-08T19:46:19.172482+00:00,48833183,46,Show HN: Kastor – Terraform-style specs for AI agents,30,17
+2026-07-08T19:46:19.172482+00:00,48794042,47,Show HN: Neil the Seal Game,82,66
+2026-07-08T19:46:19.172482+00:00,48818311,48,Chat Control 1.0 and 2.0 Explained,875,332
+2026-07-08T19:46:19.172482+00:00,48819308,49,Why we built yet another Postgres connection pooler,247,64
+2026-07-08T19:46:19.172482+00:00,48742703,50,IEEE Rolls Out Large Language Models Training Course,104,21
