@@ -10963,3 +10963,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-08T19:46:19.172482+00:00,48818311,48,Chat Control 1.0 and 2.0 Explained,875,332
 2026-07-08T19:46:19.172482+00:00,48819308,49,Why we built yet another Postgres connection pooler,247,64
 2026-07-08T19:46:19.172482+00:00,48742703,50,IEEE Rolls Out Large Language Models Training Course,104,21
+2026-07-08T21:17:18.661289+00:00,48837162,1,Fable is not a useful model,89,61
+2026-07-08T21:17:18.661289+00:00,48833116,2,Chatto is now Open Source,544,148
+2026-07-08T21:17:18.661289+00:00,48833866,3,SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence,206,112
+2026-07-08T21:17:18.661289+00:00,48832212,4,Mistral's Robostral Navigate: a state of the art robotics navigation model,357,85
+2026-07-08T21:17:18.661289+00:00,48829312,5,Decoding the obfuscated bash script on a Uniqlo t-shirt,1196,192
+2026-07-08T21:17:18.661289+00:00,48836233,6,Cloudflare Drop,81,49
+2026-07-08T21:17:18.661289+00:00,48834924,7,"Show HN: Microsoft releases Flint, a visualization language for AI agents",113,48
+2026-07-08T21:17:18.661289+00:00,48837396,8,OpenAI no longer recommends SWE-Bench Pro,14,2
+2026-07-08T21:17:18.661289+00:00,48834405,9,GPT‑Live,491,339
+2026-07-08T21:17:18.661289+00:00,48831587,10,A bug which affected only left handed users,43,18
+2026-07-08T21:17:18.661289+00:00,48836778,11,FAANG Simulator,25,8
+2026-07-08T21:17:18.661289+00:00,48835439,12,OpenMandriva: Statement regarding attempted distribution sabotage,40,7
+2026-07-08T21:17:18.661289+00:00,48836813,13,"Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",7,1
+2026-07-08T21:17:18.661289+00:00,48831565,14,Cloudflare Meerkat - Globally distributed consensus,186,39
+2026-07-08T21:17:18.661289+00:00,48804801,15,I Built a Telegram Client for Pi,27,12
+2026-07-08T21:17:18.661289+00:00,48837110,16,Turning a pile of documents into a searchable useable knowledge base,8,1
+2026-07-08T21:17:18.661289+00:00,48834296,17,EU now one step away from reviving private message scanning rules,261,118
+2026-07-08T21:17:18.661289+00:00,48831658,18,OpenBSD has a use-after-free allowing local privilege escalation to root,221,104
+2026-07-08T21:17:18.661289+00:00,48797443,19,Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1,26,1
+2026-07-08T21:17:18.661289+00:00,48836713,20,Show HN: Hnwork.app – UI for Who is hiring posts,11,2
+2026-07-08T21:17:18.661289+00:00,48827858,21,GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos,485,184
+2026-07-08T21:17:18.661289+00:00,48833715,22,TypeScript 7,342,125
+2026-07-08T21:17:18.661289+00:00,48834919,23,PlayStation can delete all your digital games after 3 years of inactivity (EU),157,72
+2026-07-08T21:17:18.661289+00:00,48805475,24,"Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",17,0
+2026-07-08T21:17:18.661289+00:00,48780387,25,EVE Online's Carbon engine is now open source: Fenris Creations explains why,354,120
+2026-07-08T21:17:18.661289+00:00,48786455,26,Show HN: Follow London Trains in 3D,114,52
+2026-07-08T21:17:18.661289+00:00,48794062,27,TabFont – guitar tabs rendered as you type,67,21
+2026-07-08T21:17:18.661289+00:00,48834898,28,What Do We Know About the Microplastics Inside Us?,148,75
+2026-07-08T21:17:18.661289+00:00,48835111,29,Grok 4.5,336,254
+2026-07-08T21:17:18.661289+00:00,48836951,30,"Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",5,1
+2026-07-08T21:17:18.661289+00:00,48836838,31,Multigres Supports Listen/Notify Across Pooled Connections,3,0
+2026-07-08T21:17:18.661289+00:00,48801364,32,Sometimes it is the network: a war story,7,1
+2026-07-08T21:17:18.661289+00:00,48836677,33,"Slughorn, Slug font/glyph render lib for OpenGL/OSG/Vulkan/GPU APIs (MIT lic))",3,1
+2026-07-08T21:17:18.661289+00:00,48830565,34,Apple to increase spend with Broadcom to produce billions more U.S. chips,272,219
+2026-07-08T21:17:18.661289+00:00,48792980,35,Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid,154,17
+2026-07-08T21:17:18.661289+00:00,48825749,36,Tenda firmware (multiple versions) contains hidden authentication backdoor,340,116
+2026-07-08T21:17:18.661289+00:00,48827325,37,"How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",327,223
+2026-07-08T21:17:18.661289+00:00,48829242,38,Geosql: A Claude/Codex skill for geospatial data,120,13
+2026-07-08T21:17:18.661289+00:00,48803791,39,NoiseLang: Where N = 5 is a Dirac delta,102,48
+2026-07-08T21:17:18.661289+00:00,48836431,40,Almost Always Unsigned,4,0
+2026-07-08T21:17:18.661289+00:00,48825664,41,Structure and Interpretation of Computer Programs Video Lectures (1986),341,45
+2026-07-08T21:17:18.661289+00:00,48836324,42,New Sweden: the US's long-lost 'secret' colony,3,0
+2026-07-08T21:17:18.661289+00:00,48827092,43,Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks,172,65
+2026-07-08T21:17:18.661289+00:00,48835063,44,"Show HN: Foreman, a self-hosted LLM gateway for cost aware model routing",7,3
+2026-07-08T21:17:18.661289+00:00,48780915,45,Ants: Who looks after the injured in a colony?,102,49
+2026-07-08T21:17:18.661289+00:00,48794227,46,Catastrophe theory; geniuses and maniacs (2011),28,1
+2026-07-08T21:17:18.661289+00:00,48824826,47,GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup,268,147
+2026-07-08T21:17:18.661289+00:00,48786789,48,Canada's only watchmaking school still ticking after 80 years,238,139
+2026-07-08T21:17:18.661289+00:00,48793805,49,Home made GPU escalated quickly [video],167,55
+2026-07-08T21:17:18.661289+00:00,48761868,50,"The difference between ""today's task"" and ""accretive work""",130,71
