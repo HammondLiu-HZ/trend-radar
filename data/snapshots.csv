@@ -10814,3 +10814,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-08T12:46:34.149483+00:00,48829092,48,Reform UK leader 'in real trouble' against Count Binface,30,15
 2026-07-08T12:46:34.149483+00:00,48820022,49,MacSurf 1.68 – NetSurf on OS 9 Released,77,18
 2026-07-08T12:46:34.149483+00:00,48761788,50,Pure-Python symbolic regression that rediscovered Kepler's law from 8 data point,40,12
+2026-07-08T15:28:15.761869+00:00,48832212,1,Mistral's Robostral Navigate: a state of the art robotics navigation model,85,9
+2026-07-08T15:28:15.761869+00:00,48829312,2,Decoding the obfuscated bash script on a Uniqlo t-shirt,876,158
+2026-07-08T15:28:15.761869+00:00,48831565,3,Cloudflare Meerkat - Globally distributed consensus,66,8
+2026-07-08T15:28:15.761869+00:00,48831658,4,OpenBSD has a use-after-free allowing local privilege escalation to root,58,13
+2026-07-08T15:28:15.761869+00:00,48827858,5,GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos,372,145
+2026-07-08T15:28:15.761869+00:00,48830565,6,Apple to increase spend with Broadcom to produce billions more U.S. chips,172,137
+2026-07-08T15:28:15.761869+00:00,48833116,7,Chatto is now Open Source,3,0
+2026-07-08T15:28:15.761869+00:00,48780387,8,EVE Online's Carbon engine is now open source: Fenris Creations explains why,209,70
+2026-07-08T15:28:15.761869+00:00,48827325,9,"How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",274,184
+2026-07-08T15:28:15.761869+00:00,48803791,10,NoiseLang: Where N = 5 is a Dirac delta,56,25
+2026-07-08T15:28:15.761869+00:00,48786455,11,Show HN: Follow London Trains in 3D,25,8
+2026-07-08T15:28:15.761869+00:00,48792980,12,Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid,57,9
+2026-07-08T15:28:15.761869+00:00,48829242,13,Geosql: A Claude/Codex skill for geospatial data,77,10
+2026-07-08T15:28:15.761869+00:00,48825749,14,Tenda firmware (multiple versions) contains hidden authentication backdoor,292,100
+2026-07-08T15:28:15.761869+00:00,48818311,15,Chat Control 1.0 and 2.0 Explained,802,309
+2026-07-08T15:28:15.761869+00:00,48827092,16,Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks,133,47
+2026-07-08T15:28:15.761869+00:00,48825664,17,Structure and Interpretation of Computer Programs Video Lectures (1986),245,34
+2026-07-08T15:28:15.761869+00:00,48824826,18,GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup,243,117
+2026-07-08T15:28:15.761869+00:00,48780915,19,Ants: Who looks after the injured in a colony?,62,27
+2026-07-08T15:28:15.761869+00:00,48796473,20,Every postcard tells a story,14,9
+2026-07-08T15:28:15.761869+00:00,48786789,21,Canada's only watchmaking school still ticking after 80 years,189,105
+2026-07-08T15:28:15.761869+00:00,48793805,22,Home made GPU escalated quickly [video],116,37
+2026-07-08T15:28:15.761869+00:00,48821576,23,"Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",466,88
+2026-07-08T15:28:15.761869+00:00,48826329,24,LineageOS Statistics,160,89
+2026-07-08T15:28:15.761869+00:00,48830868,25,It seems that the age of reading might be a short anomaly in human history,55,99
+2026-07-08T15:28:15.761869+00:00,48761868,26,"The difference between ""today's task"" and ""accretive work""",104,56
+2026-07-08T15:28:15.761869+00:00,48756578,27,Herdr: One terminal to rule them all,352,147
+2026-07-08T15:28:15.761869+00:00,48821848,28,"Show HN: Davit, a Apple Containers UI",359,90
+2026-07-08T15:28:15.761869+00:00,48789625,29,Automate Excel with Python: From manual grind to one-click workflow,38,19
+2026-07-08T15:28:15.761869+00:00,48831785,30,US Food and Drug Administration rejects petition to set PFAS limits in food,144,93
+2026-07-08T15:28:15.761869+00:00,48819808,31,"Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",200,84
+2026-07-08T15:28:15.761869+00:00,48794042,32,Show HN: Neil the Seal Game,65,60
+2026-07-08T15:28:15.761869+00:00,48742703,33,IEEE Rolls Out Large Language Models Training Course,98,17
+2026-07-08T15:28:15.761869+00:00,48821378,34,l: A new runtime for k and q,162,105
+2026-07-08T15:28:15.761869+00:00,48819308,35,Why we built yet another Postgres connection pooler,237,58
+2026-07-08T15:28:15.761869+00:00,48820119,36,Jim's TrueType QR Code Font,204,28
+2026-07-08T15:28:15.761869+00:00,48816883,37,"StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",792,201
+2026-07-08T15:28:15.761869+00:00,48794049,38,Scheme Is a Hoot,105,19
+2026-07-08T15:28:15.761869+00:00,48823557,39,Every new car sold in the European Union must include a driver monitoring camera,715,928
+2026-07-08T15:28:15.761869+00:00,48821441,40,Notes on Software Quality,147,62
+2026-07-08T15:28:15.761869+00:00,48826094,41,Show HN: Chiptune Radio,65,15
+2026-07-08T15:28:15.761869+00:00,48819608,42,"30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",593,98
+2026-07-08T15:28:15.761869+00:00,48826311,43,How did Windows 95 decide that a setup program ran?,38,6
+2026-07-08T15:28:15.761869+00:00,48791505,44,Fixing analog audio on the $2.58 HDMI-to-VGA adapter,104,27
+2026-07-08T15:28:15.761869+00:00,48821749,45,AI Meets Cryptography 1: What AI Found in Cloudflare's Circl,110,12
+2026-07-08T15:28:15.761869+00:00,48818937,46,Automating AI Away,126,59
+2026-07-08T15:28:15.761869+00:00,48832477,47,Collapse of Atlantic Currents May Already Be 'Locked In',6,0
+2026-07-08T15:28:15.761869+00:00,48832370,49,A brewing battle: More IT workers want unions. The industry doesn't,4,0
+2026-07-08T15:28:15.761869+00:00,48819244,50,Microsoft fire idTech team at Id software,629,564
