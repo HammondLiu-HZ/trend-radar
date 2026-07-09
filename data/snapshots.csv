@@ -11162,3 +11162,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-09T08:34:07.908948+00:00,48839434,48,A software engineering interview question I like: computing the median,60,75
 2026-07-09T08:34:07.908948+00:00,48841443,49,"Samsung chip division's 1-year profit beat past 40 years of profits, combined",16,3
 2026-07-09T08:34:07.908948+00:00,48841446,50,AI changes the economics of software rewrites,38,52
+2026-07-09T12:12:35.115511+00:00,48838876,1,John Deere owners will get the right to repair equipment under FTC settlement,965,190
+2026-07-09T12:12:35.115511+00:00,48843438,2,"Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",64,10
+2026-07-09T12:12:35.115511+00:00,48841259,3,Spider venom kills varroa mites without harming honeybees,173,69
+2026-07-09T12:12:35.115511+00:00,48778956,4,Meta reuses old RAM in new servers with custom bridge chip,92,28
+2026-07-09T12:12:35.115511+00:00,48842611,5,Why developers are ditching GitHub for Codeberg and self-hosting alternatives,193,135
+2026-07-09T12:12:35.115511+00:00,48784126,7,In-browser programmable robot simulator,38,0
+2026-07-09T12:12:35.115511+00:00,48814023,8,I Built the Only 2026 WWII Jeep,66,13
+2026-07-09T12:12:35.115511+00:00,48800596,9,"Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",132,31
+2026-07-09T12:12:35.115511+00:00,48841385,10,How Donkey Kong Toppled Atari,43,12
+2026-07-09T12:12:35.115511+00:00,48803545,11,Why is there smoke from the boiler room? – Botanical Garden using Home Assistant,7,2
+2026-07-09T12:12:35.115511+00:00,48843352,12,My Thoughts on the Bun Rust Rewrite,215,138
+2026-07-09T12:12:35.115511+00:00,48758059,13,"The Field Equation, living shader geometry folded into a breathing object",12,1
+2026-07-09T12:12:35.115511+00:00,48837396,14,Separating signal from noise in coding evaluations,225,81
+2026-07-09T12:12:35.115511+00:00,48834924,15,"Show HN: Microsoft releases Flint, a visualization language for AI agents",309,114
+2026-07-09T12:12:35.115511+00:00,48837696,16,Benchmarking coding agents on Databricks' multi-million line codebase,111,44
+2026-07-09T12:12:35.115511+00:00,48836233,17,Cloudflare Drop,461,255
+2026-07-09T12:12:35.115511+00:00,48835111,18,Grok 4.5,674,1091
+2026-07-09T12:12:35.115511+00:00,48816987,19,Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line,195,44
+2026-07-09T12:12:35.115511+00:00,48843923,20,"EU Parliament greenlights Chat Control 1.0 – Breyer: ""Our children lose out""",86,55
+2026-07-09T12:12:35.115511+00:00,48837877,21,Rewriting Bun in Rust,644,377
+2026-07-09T12:12:35.115511+00:00,48829797,22,Unicode's transliteration rules are Turing-complete,111,29
+2026-07-09T12:12:35.115511+00:00,48837110,23,Turning a pile of documents into a searchable useable knowledge base,158,35
+2026-07-09T12:12:35.115511+00:00,48836324,24,New Sweden: the US's long-lost 'secret' colony,139,49
+2026-07-09T12:12:35.115511+00:00,48795591,25,"Patching MechCommander's ""left arm bug"" for fun and profit",77,23
+2026-07-09T12:12:35.115511+00:00,48833116,26,Chatto is now open source,1000,272
+2026-07-09T12:12:35.115511+00:00,48829312,27,Decoding the obfuscated bash script on a Uniqlo t-shirt,1398,222
+2026-07-09T12:12:35.115511+00:00,48789445,28,3D Airplane tracker on Mercator map,21,3
+2026-07-09T12:12:35.115511+00:00,48812736,29,Apache Shiro security framework releases 3.0.0,40,6
+2026-07-09T12:12:35.115511+00:00,48833715,30,TypeScript 7,652,259
+2026-07-09T12:12:35.115511+00:00,48839355,31,MIRA: Multiplayer Interactive World Models Trained on Rocket League,89,16
+2026-07-09T12:12:35.115511+00:00,48839397,32,Remote Attestation,103,95
+2026-07-09T12:12:35.115511+00:00,48836778,33,FAANG Simulator,433,175
+2026-07-09T12:12:35.115511+00:00,48834405,34,GPT‑Live,718,483
+2026-07-09T12:12:35.115511+00:00,48835439,35,OpenMandriva: Statement regarding attempted distribution sabotage,117,38
+2026-07-09T12:12:35.115511+00:00,48832212,36,Mistral's Robostral Navigate: a state of the art robotics navigation model,469,104
+2026-07-09T12:12:35.115511+00:00,48841676,37,"Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",155,202
+2026-07-09T12:12:35.115511+00:00,48760258,38,Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video],49,2
+2026-07-09T12:12:35.115511+00:00,48843906,39,Four nuclear reactors hit a big milestone in the US,5,0
+2026-07-09T12:12:35.115511+00:00,48794568,40,My road trip with the do-gooding cactus smugglers,40,2
+2026-07-09T12:12:35.115511+00:00,48834296,41,EU now one step away from reviving private message scanning rules,431,166
+2026-07-09T12:12:35.115511+00:00,48797443,42,Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1,62,2
+2026-07-09T12:12:35.115511+00:00,48831587,43,A bug which affected only left handed users,122,77
+2026-07-09T12:12:35.115511+00:00,48831658,44,OpenBSD has a use-after-free allowing local privilege escalation to root,271,144
+2026-07-09T12:12:35.115511+00:00,48786455,45,Show HN: Follow London Trains in 3D,145,59
+2026-07-09T12:12:35.115511+00:00,48804801,46,I Built a Telegram Client for Pi,65,38
+2026-07-09T12:12:35.115511+00:00,48794062,47,TabFont – guitar tabs rendered as you type,91,27
+2026-07-09T12:12:35.115511+00:00,48835188,48,Moving to FreeBSD from Linux,56,6
+2026-07-09T12:12:35.115511+00:00,48833866,49,SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence,267,134
+2026-07-09T12:12:35.115511+00:00,48816724,50,"Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",23,6
