@@ -11211,3 +11211,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-09T12:12:35.115511+00:00,48835188,48,Moving to FreeBSD from Linux,56,6
 2026-07-09T12:12:35.115511+00:00,48833866,49,SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence,267,134
 2026-07-09T12:12:35.115511+00:00,48816724,50,"Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",23,6
+2026-07-09T16:06:38.743881+00:00,48845049,1,Show HN: 18 Words,413,169
+2026-07-09T16:06:38.743881+00:00,48846281,2,No leap second will be introduced at the end of December 2026,103,75
+2026-07-09T16:06:38.743881+00:00,48846995,3,TLS certificates for internal services done right,29,18
+2026-07-09T16:06:38.743881+00:00,48847562,4,Launch HN: Context.dev (YC S26) – API to get structured data from any website,13,10
+2026-07-09T16:06:38.743881+00:00,48846293,5,PostHog Open Sourced,62,33
+2026-07-09T16:06:38.743881+00:00,48847407,6,Opinionated and Easy Pi.dev Configuration,21,6
+2026-07-09T16:06:38.743881+00:00,48847552,7,Hy3,18,3
+2026-07-09T16:06:38.743881+00:00,48846510,8,Show HN: Analog Watch,36,33
+2026-07-09T16:06:38.743881+00:00,48846928,9,"New ""Revenue Larping Trend"" is this real?",19,2
+2026-07-09T16:06:38.743881+00:00,48847298,10,Show HN: LastShelf – an emergency map of your family's documents bills& contacts,17,5
+2026-07-09T16:06:38.743881+00:00,48778956,11,Meta reuses old RAM in new servers with custom bridge chip,207,134
+2026-07-09T16:06:38.743881+00:00,48846332,12,New open access book on history of computers and politics,17,0
+2026-07-09T16:06:38.743881+00:00,48846184,13,Introducing Muse Spark 1.1,142,93
+2026-07-09T16:06:38.743881+00:00,48843438,15,"Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",285,110
+2026-07-09T16:06:38.743881+00:00,48845422,16,Show HN: FableCut – A browser video editor AI agents can drive (zero deps),69,41
+2026-07-09T16:06:38.743881+00:00,48799966,17,What is Bending Spoons? The little-known AOL and Vimeo owner that's now public,12,10
+2026-07-09T16:06:38.743881+00:00,48841259,18,Spider venom kills varroa mites without harming honeybees,237,103
+2026-07-09T16:06:38.743881+00:00,48847405,19,Coordination Without Consolidation: On Systems of States [pdf],6,1
+2026-07-09T16:06:38.743881+00:00,48845514,20,US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers,139,166
+2026-07-09T16:06:38.743881+00:00,48843923,21,"EU Parliament greenlights Chat Control 1.0 – Breyer: ""Our children lose out""",401,226
+2026-07-09T16:06:38.743881+00:00,48847536,22,How to Write an Email,7,3
+2026-07-09T16:06:38.743881+00:00,48847511,23,A Possible Future for Damn Interesting,11,0
+2026-07-09T16:06:38.743881+00:00,48846276,24,Maxwell's Equations Were Discovered [video],18,6
+2026-07-09T16:06:38.743881+00:00,48846205,25,Transparency efforts behind the Helium Browser,20,9
+2026-07-09T16:06:38.743881+00:00,48838876,26,John Deere owners will get the right to repair equipment under FTC settlement,1219,251
+2026-07-09T16:06:38.743881+00:00,48845209,27,A Road to Lisp: Why Lisp,19,8
+2026-07-09T16:06:38.743881+00:00,48846757,28,Why we're moving off Cloudflare Durable Objects,8,0
+2026-07-09T16:06:38.743881+00:00,48845470,29,Syria's solar boom is redefining Middle East's energy model,62,13
+2026-07-09T16:06:38.743881+00:00,48814023,30,I Built the Only 2026 WWII Jeep,142,50
+2026-07-09T16:06:38.743881+00:00,48847181,31,Ways to think about token pricing,3,0
+2026-07-09T16:06:38.743881+00:00,48847075,32,"Show HN: FormGrid – Forms that can look like CLIs, pixel art, GeoCities and more",4,2
+2026-07-09T16:06:38.743881+00:00,48784126,33,In-browser programmable robot simulator,75,4
+2026-07-09T16:06:38.743881+00:00,48842611,34,Why developers are ditching GitHub for Codeberg and self-hosting alternatives,317,221
+2026-07-09T16:06:38.743881+00:00,48846708,35,DeepSeek aims to make its own AI chip,3,0
+2026-07-09T16:06:38.743881+00:00,48845993,36,NASA SpaceWASM – A flight-compliant WebAssembly interpreter,8,0
+2026-07-09T16:06:38.743881+00:00,48800596,37,"Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",160,46
+2026-07-09T16:06:38.743881+00:00,48784857,38,"Lead Mines of Galena, Kansas",21,10
+2026-07-09T16:06:38.743881+00:00,48802660,39,Vacuum at the Page Level,19,5
+2026-07-09T16:06:38.743881+00:00,48841385,40,How Donkey Kong Toppled Atari,64,25
+2026-07-09T16:06:38.743881+00:00,48845518,41,Reverse-engineering Nvidia's CUDA-checkpoint for faster cold starts,11,0
+2026-07-09T16:06:38.743881+00:00,48845364,42,Files over tools: how we built our agent with a virtual filesystem and bash,12,3
+2026-07-09T16:06:38.743881+00:00,48847612,43,"You paid me, a long-time Linux user, to use Windows 11 exclusively for a month",6,0
+2026-07-09T16:06:38.743881+00:00,48847597,44,Meta's 'Super Sensing' Prototype Glasses Quietly Record Everything,5,0
+2026-07-09T16:06:38.743881+00:00,48845999,45,Writing a bindless GPU abstraction layer,4,0
+2026-07-09T16:06:38.743881+00:00,48845274,46,"LLMs for technical editing: The good, the bad, and the ugly",6,0
+2026-07-09T16:06:38.743881+00:00,48837396,47,Separating signal from noise in coding evaluations,235,87
+2026-07-09T16:06:38.743881+00:00,48845948,48,Show HN: A zero-dependency auditor for decision records in AI-touched systems,4,0
+2026-07-09T16:06:38.743881+00:00,48816987,49,Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line,224,48
+2026-07-09T16:06:38.743881+00:00,48845835,50,Tencent/Hy3: 295B MoE model rivals trillion scale SOTA,3,0
