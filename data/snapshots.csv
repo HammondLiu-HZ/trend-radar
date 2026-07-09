@@ -11063,3 +11063,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-08T23:16:56.750480+00:00,48827858,48,GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos,498,192
 2026-07-08T23:16:56.750480+00:00,48836677,49,"Slughorn, Slug font/glyph render lib for OpenGL/OSG/Vulkan/GPU APIs (MIT lic))",5,1
 2026-07-08T23:16:56.750480+00:00,48780915,50,Ants: Who looks after the injured in a colony?,102,50
+2026-07-09T04:03:13.046547+00:00,48838876,1,John Deere owners will get the right to repair equipment under FTC settlement,452,91
+2026-07-09T04:03:13.046547+00:00,48839984,2,I Think I Have LLM Burnout,176,114
+2026-07-09T04:03:13.046547+00:00,48833116,3,Chatto is now open source,796,212
+2026-07-09T04:03:13.046547+00:00,48837396,4,Separating signal from noise in coding evaluations,177,66
+2026-07-09T04:03:13.046547+00:00,48836233,5,Cloudflare Drop,312,150
+2026-07-09T04:03:13.046547+00:00,48839397,6,Remote Attestation,43,23
+2026-07-09T04:03:13.046547+00:00,48838772,7,"We made Grok 4.5, GPT-5.5, and Claude build the same apps",104,40
+2026-07-09T04:03:13.046547+00:00,48795591,8,"Patching MechCommander's ""left arm bug"" for fun and profit",30,11
+2026-07-09T04:03:13.046547+00:00,48832212,9,Mistral's Robostral Navigate: a state of the art robotics navigation model,431,97
+2026-07-09T04:03:13.046547+00:00,48829797,10,Unicode's transliteration rules are Turing-complete,56,15
+2026-07-09T04:03:13.046547+00:00,48834924,11,"Show HN: Microsoft releases Flint, a visualization language for AI agents",227,84
+2026-07-09T04:03:13.046547+00:00,48816987,12,Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line,80,19
+2026-07-09T04:03:13.046547+00:00,48835111,13,Grok 4.5,520,678
+2026-07-09T04:03:13.046547+00:00,48839355,14,MIRA: Multiplayer Interactive World Models Trained on Rocket League,41,9
+2026-07-09T04:03:13.046547+00:00,48837110,15,Turning a pile of documents into a searchable useable knowledge base,95,21
+2026-07-09T04:03:13.046547+00:00,48837696,16,Benchmarking coding agents on Databricks' multi-million line codebase,19,5
+2026-07-09T04:03:13.046547+00:00,48836778,17,FAANG Simulator,332,126
+2026-07-09T04:03:13.046547+00:00,48840497,18,Ergo: Long Form Philosophy Lectures,5,0
+2026-07-09T04:03:13.046547+00:00,48837877,19,Rewriting Bun in Rust,369,199
+2026-07-09T04:03:13.046547+00:00,48834405,20,GPT‑Live,633,422
+2026-07-09T04:03:13.046547+00:00,48836324,21,New Sweden: the US's long-lost 'secret' colony,67,15
+2026-07-09T04:03:13.046547+00:00,48800596,22,"Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",6,0
+2026-07-09T04:03:13.046547+00:00,48812736,23,Apache Shiro security framework releases 3.0.0,10,0
+2026-07-09T04:03:13.046547+00:00,48831587,24,A bug which affected only left handed users,96,48
+2026-07-09T04:03:13.046547+00:00,48833715,25,TypeScript 7,507,202
+2026-07-09T04:03:13.046547+00:00,48829312,26,Decoding the obfuscated bash script on a Uniqlo t-shirt,1328,210
+2026-07-09T04:03:13.046547+00:00,48760258,27,Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video],24,1
+2026-07-09T04:03:13.046547+00:00,48794568,28,My road trip with the do-gooding cactus smugglers,24,1
+2026-07-09T04:03:13.046547+00:00,48835439,29,OpenMandriva: Statement regarding attempted distribution sabotage,86,16
+2026-07-09T04:03:13.046547+00:00,48831565,30,Cloudflare Meerkat - Globally distributed consensus,232,47
+2026-07-09T04:03:13.046547+00:00,48804801,31,I Built a Telegram Client for Pi,60,26
+2026-07-09T04:03:13.046547+00:00,48834296,32,EU now one step away from reviving private message scanning rules,375,144
+2026-07-09T04:03:13.046547+00:00,48816724,33,"Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",15,2
+2026-07-09T04:03:13.046547+00:00,48840090,34,We Mapped Rural Data Center Development – and Opposition,3,0
+2026-07-09T04:03:13.046547+00:00,48833866,35,SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence,260,131
+2026-07-09T04:03:13.046547+00:00,48831658,36,OpenBSD has a use-after-free allowing local privilege escalation to root,253,130
+2026-07-09T04:03:13.046547+00:00,48797443,37,Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1,52,2
+2026-07-09T04:03:13.046547+00:00,48840194,38,What Does a 13-Year-Old See on Snapchat in a Normal Week?,17,4
+2026-07-09T04:03:13.046547+00:00,48794062,39,TabFont – guitar tabs rendered as you type,88,26
+2026-07-09T04:03:13.046547+00:00,48786455,40,Show HN: Follow London Trains in 3D,131,56
+2026-07-09T04:03:13.046547+00:00,48809808,41,"Poison, redzones and shadows: inside KASAN",12,0
+2026-07-09T04:03:13.046547+00:00,48839719,42,Show HN: OpenScreenShot: open-source full-page screenshot and annotation tool,4,0
+2026-07-09T04:03:13.046547+00:00,48835188,43,Moving to FreeBSD from Linux,35,0
+2026-07-09T04:03:13.046547+00:00,48836431,44,Almost Always Unsigned,30,37
+2026-07-09T04:03:13.046547+00:00,48834919,45,PlayStation can delete all your digital games after 3 years of inactivity (EU),238,103
+2026-07-09T04:03:13.046547+00:00,48792980,46,Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid,162,18
+2026-07-09T04:03:13.046547+00:00,48840726,47,Top Legal Adviser to Joint Chiefs Is Stepping Down a Year Before Completing Term,3,0
+2026-07-09T04:03:13.046547+00:00,48829242,48,Geosql: A Claude/Codex skill for geospatial data,127,13
+2026-07-09T04:03:13.046547+00:00,48837809,49,"Open Source Barware: free, local-first bar inventory software (GPLv3)",30,13
+2026-07-09T04:03:13.046547+00:00,48830565,50,Apple to increase spend with Broadcom to produce billions more U.S. chips,286,227
