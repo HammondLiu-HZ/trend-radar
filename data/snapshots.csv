@@ -11260,3 +11260,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-09T16:06:38.743881+00:00,48845948,48,Show HN: A zero-dependency auditor for decision records in AI-touched systems,4,0
 2026-07-09T16:06:38.743881+00:00,48816987,49,Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line,224,48
 2026-07-09T16:06:38.743881+00:00,48845835,50,Tencent/Hy3: 295B MoE model rivals trillion scale SOTA,3,0
+2026-07-09T18:53:51.714228+00:00,48849066,1,GPT-5.6,532,350
+2026-07-09T18:53:51.714228+00:00,48849059,2,ChatGPT Work,181,64
+2026-07-09T18:53:51.714228+00:00,48845049,3,Show HN: 18 Words,630,233
+2026-07-09T18:53:51.714228+00:00,48843923,4,EU Parliament greenlights Chat Control 1.0,641,325
+2026-07-09T18:53:51.714228+00:00,48847552,5,Hy3,189,58
+2026-07-09T18:53:51.714228+00:00,48847511,6,A possible future for Damn Interesting,119,9
+2026-07-09T18:53:51.714228+00:00,48803004,7,Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone,51,26
+2026-07-09T18:53:51.714228+00:00,48809574,8,Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting,61,5
+2026-07-09T18:53:51.714228+00:00,48846184,9,Muse Spark 1.1,233,137
+2026-07-09T18:53:51.714228+00:00,48846281,11,No leap second will be introduced at the end of December 2026,166,128
+2026-07-09T18:53:51.714228+00:00,48846995,12,TLS certificates for internal services done right,80,55
+2026-07-09T18:53:51.714228+00:00,48845442,13,The glass backbone: Why the Army's logistics will break in the next war,173,197
+2026-07-09T18:53:51.714228+00:00,48847562,14,Launch HN: Context.dev (YC S26) – API to get structured data from any website,42,32
+2026-07-09T18:53:51.714228+00:00,48847407,15,Opinionated and Easy Pi.dev Configuration,63,38
+2026-07-09T18:53:51.714228+00:00,48840207,16,Show HN: I mapped 8.5M research papers into an interactive atlas,25,5
+2026-07-09T18:53:51.714228+00:00,48847536,17,How to Write an Email,70,34
+2026-07-09T18:53:51.714228+00:00,48850414,18,GLM 5.2 is nearly as accurate as a human book keeper,5,1
+2026-07-09T18:53:51.714228+00:00,48846510,19,Show HN: Analog Watch,66,58
+2026-07-09T18:53:51.714228+00:00,48849258,20,How should group chats work in decentralized systems?,21,6
+2026-07-09T18:53:51.714228+00:00,48846332,21,New open access book on history of computers and politics,43,3
+2026-07-09T18:53:51.714228+00:00,48778956,22,Meta reuses old RAM in new servers with custom bridge chip,246,166
+2026-07-09T18:53:51.714228+00:00,48841446,23,AI changes the economics of software rewrites,69,79
+2026-07-09T18:53:51.714228+00:00,48848819,24,Show HN: Devthropology – Better Insights for GitHub Repos,22,6
+2026-07-09T18:53:51.714228+00:00,48841259,25,Spider venom kills varroa mites without harming honeybees,261,121
+2026-07-09T18:53:51.714228+00:00,48850428,26,Dev productivity metrics suck. Ops reviews are key for AI-accelerated eng orgs,8,1
+2026-07-09T18:53:51.714228+00:00,48800486,27,How to Follow a Drummer,6,3
+2026-07-09T18:53:51.714228+00:00,48840620,28,What's slowing down the AI buildout,46,97
+2026-07-09T18:53:51.714228+00:00,48799966,29,What is Bending Spoons? The little-known AOL and Vimeo owner that's now public,45,67
+2026-07-09T18:53:51.714228+00:00,48850372,30,How to Start a Ruby Meetup,4,0
+2026-07-09T18:53:51.714228+00:00,48848111,31,Auditory and spontaneous movement responses to music over first postnatal year,14,2
+2026-07-09T18:53:51.714228+00:00,48847181,32,Ways to think about token pricing,24,7
+2026-07-09T18:53:51.714228+00:00,48847405,33,Coordination Without Consolidation: On Systems of States [pdf],15,1
+2026-07-09T18:53:51.714228+00:00,48838876,34,John Deere owners will get the right to repair equipment under FTC settlement,1251,263
+2026-07-09T18:53:51.714228+00:00,48846757,35,Why we're moving off Cloudflare Durable Objects,47,11
+2026-07-09T18:53:51.714228+00:00,48846276,36,Maxwell's Equations Were Discovered [video],41,14
+2026-07-09T18:53:51.714228+00:00,48845514,37,US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers,199,273
+2026-07-09T18:53:51.714228+00:00,48847834,38,Show HN: Reverse-engineering web apps into agent tools,16,5
+2026-07-09T18:53:51.714228+00:00,48847298,39,Show HN: LastShelf – an emergency map of your family's documents bills& contacts,32,22
+2026-07-09T18:53:51.714228+00:00,48847940,40,"AI content is everywhere on social media, especially LinkedIn",116,96
+2026-07-09T18:53:51.714228+00:00,48835355,41,Electronic Plastic: Museum of '80s and '90s handheld and tabletop games,10,0
+2026-07-09T18:53:51.714228+00:00,48848425,42,AI 2040: Plan A,48,23
+2026-07-09T18:53:51.714228+00:00,48845422,43,Show HN: FableCut – A browser video editor AI agents can drive (zero deps),79,50
+2026-07-09T18:53:51.714228+00:00,48814023,44,I Built the Only 2026 WWII Jeep,153,54
+2026-07-09T18:53:51.714228+00:00,48843352,45,My thoughts on the Bun Rust rewrite,550,482
+2026-07-09T18:53:51.714228+00:00,48846708,46,DeepSeek aims to make its own AI chip,14,0
+2026-07-09T18:53:51.714228+00:00,48844709,47,How version control will evolve for the agent boom,38,49
+2026-07-09T18:53:51.714228+00:00,48846205,48,Transparency efforts behind the Helium Browser,25,16
+2026-07-09T18:53:51.714228+00:00,48784126,49,In-browser programmable robot simulator,77,7
+2026-07-09T18:53:51.714228+00:00,48843438,50,Bonnie Tyler has died,309,117
