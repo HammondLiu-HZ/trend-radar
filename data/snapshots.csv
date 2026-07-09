@@ -11358,3 +11358,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-09T20:52:43.263970+00:00,48850375,48,The government wants to scare Americans out of sharing the news,24,0
 2026-07-09T20:52:43.263970+00:00,48814023,49,I Built the Only 2026 WWII Jeep,155,56
 2026-07-09T20:52:43.263970+00:00,48847298,50,Show HN: LastShelf – an emergency map of your family's documents bills& contacts,36,23
+2026-07-09T22:38:16.294797+00:00,48842459,1,Show HN: Getting GLM 5.2 running on my slow computer,184,37
+2026-07-09T22:38:16.294797+00:00,48849066,2,GPT-5.6,898,670
+2026-07-09T22:38:16.294797+00:00,48843923,3,EU Parliament greenlights Chat Control 1.0,876,425
+2026-07-09T22:38:16.294797+00:00,48845049,4,Show HN: 18 Words,755,272
+2026-07-09T22:38:16.294797+00:00,48849292,5,Interview with Mitchell Hashimoto about Ghostty and Zig,26,3
+2026-07-09T22:38:16.294797+00:00,48847552,6,Hy3,331,74
+2026-07-09T22:38:16.294797+00:00,48792383,7,Train sim created by just one person is being called the best ever made,153,61
+2026-07-09T22:38:16.294797+00:00,48846281,8,No leap second will be introduced at the end of December 2026,208,166
+2026-07-09T22:38:16.294797+00:00,48841676,9,"Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",240,295
+2026-07-09T22:38:16.294797+00:00,48845209,10,A road to Lisp: Why Lisp,82,77
+2026-07-09T22:38:16.294797+00:00,48809574,11,Girls just wanna have fast MPMC queues with bounded waiting,111,19
+2026-07-09T22:38:16.294797+00:00,48845442,12,The glass backbone: Why the Army's logistics will break in the next war,248,332
+2026-07-09T22:38:16.294797+00:00,48847511,13,A possible future for Damn Interesting,201,22
+2026-07-09T22:38:16.294797+00:00,48850372,14,How to Start a Ruby Meetup,48,13
+2026-07-09T22:38:16.294797+00:00,48847562,15,Launch HN: Context.dev (YC S26) – API to get structured data from any website,64,47
+2026-07-09T22:38:16.294797+00:00,48804935,16,I Changed My Name,26,23
+2026-07-09T22:38:16.294797+00:00,48846184,18,Muse Spark 1.1,296,164
+2026-07-09T22:38:16.294797+00:00,48846995,19,TLS certificates for internal services done right,115,80
+2026-07-09T22:38:16.294797+00:00,48778956,20,Meta reuses old RAM in new servers with custom bridge chip,285,202
+2026-07-09T22:38:16.294797+00:00,48850414,21,GLM 5.2 is nearly as accurate as a human book keeper,157,93
+2026-07-09T22:38:16.294797+00:00,48852403,22,Show HN: Rubiks Cube Solver,8,0
+2026-07-09T22:38:16.294797+00:00,48803004,23,Buried Apple feature turns an iPhone into the perfect kids' dumb phone,221,144
+2026-07-09T22:38:16.294797+00:00,48846332,24,SimPolitics: America’s quest to solve politics with computers,61,8
+2026-07-09T22:38:16.294797+00:00,48847407,25,Opinionated and easy Pi.dev configuration,90,57
+2026-07-09T22:38:16.294797+00:00,48836431,26,Almost Always Unsigned,39,48
+2026-07-09T22:38:16.294797+00:00,48852151,27,How GitHub gave every repository a durable owner,16,4
+2026-07-09T22:38:16.294797+00:00,48847940,28,"AI content is everywhere on social media, especially LinkedIn",149,137
+2026-07-09T22:38:16.294797+00:00,48840207,29,Show HN: I mapped 8.5M research papers into an interactive atlas,53,20
+2026-07-09T22:38:16.294797+00:00,48849059,30,ChatGPT Work,301,147
+2026-07-09T22:38:16.294797+00:00,48849618,31,Show HN: I built a web tool to see and edit what an AI thinks before it answers,15,2
+2026-07-09T22:38:16.294797+00:00,48852199,32,Building a real-time AI tutor for 5-year-olds,11,17
+2026-07-09T22:38:16.294797+00:00,48852144,33,Show HN: RandoFont – A browser for Google Fonts,14,2
+2026-07-09T22:38:16.294797+00:00,48846510,34,Show HN: Analog Watch,85,77
+2026-07-09T22:38:16.294797+00:00,48847577,35,Show HN: Sighthound - open-source vulnerability scanner for source code,9,0
+2026-07-09T22:38:16.294797+00:00,48847834,36,Show HN: Reverse-engineering web apps into agent tools,22,4
+2026-07-09T22:38:16.294797+00:00,48851599,37,What the New Executive Order Means for Secure Software Delivery in Government,10,2
+2026-07-09T22:38:16.294797+00:00,48840620,38,What's slowing down the AI buildout,59,133
+2026-07-09T22:38:16.294797+00:00,48851476,39,Show HN: Reviving my 2001 college band with AI,7,1
+2026-07-09T22:38:16.294797+00:00,48838876,40,John Deere owners will get the right to repair equipment under FTC settlement,1283,267
+2026-07-09T22:38:16.294797+00:00,48849258,41,How should group chats work in decentralized systems?,43,19
+2026-07-09T22:38:16.294797+00:00,48799966,42,What is Bending Spoons? The little-known AOL and Vimeo owner that's now public,61,90
+2026-07-09T22:38:16.294797+00:00,48816724,43,"Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",27,8
+2026-07-09T22:38:16.294797+00:00,48832797,44,"Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",17,12
+2026-07-09T22:38:16.294797+00:00,48846708,45,DeepSeek aims to make its own AI chip,36,1
+2026-07-09T22:38:16.294797+00:00,48847181,46,Ways to think about token pricing,34,13
+2026-07-09T22:38:16.294797+00:00,48849648,47,"Show HN: Pylon Sync, an agent-first full-stack realtime framework",7,0
+2026-07-09T22:38:16.294797+00:00,48818192,48,Distributed system is slower than a laptop,25,7
+2026-07-09T22:38:16.294797+00:00,48846842,49,"The next era of AI is about infrastructure, not just models",34,15
+2026-07-09T22:38:16.294797+00:00,48853236,50,Ex-Epoch Times CFO pleads guilty in $67M multinational money laundering scheme,5,1
