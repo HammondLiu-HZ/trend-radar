@@ -11113,3 +11113,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-09T04:03:13.046547+00:00,48829242,48,Geosql: A Claude/Codex skill for geospatial data,127,13
 2026-07-09T04:03:13.046547+00:00,48837809,49,"Open Source Barware: free, local-first bar inventory software (GPLv3)",30,13
 2026-07-09T04:03:13.046547+00:00,48830565,50,Apple to increase spend with Broadcom to produce billions more U.S. chips,286,227
+2026-07-09T08:34:07.908948+00:00,48838876,1,John Deere owners will get the right to repair equipment under FTC settlement,756,142
+2026-07-09T08:34:07.908948+00:00,48841259,2,Spider venom kills varroa mites without harming honeybees,92,39
+2026-07-09T08:34:07.908948+00:00,48800596,3,"Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",79,25
+2026-07-09T08:34:07.908948+00:00,48841676,4,"Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",79,88
+2026-07-09T08:34:07.908948+00:00,48837696,5,Benchmarking coding agents on Databricks' multi-million line codebase,77,24
+2026-07-09T08:34:07.908948+00:00,48836233,6,Cloudflare Drop,410,210
+2026-07-09T08:34:07.908948+00:00,48837396,7,Separating signal from noise in coding evaluations,211,72
+2026-07-09T08:34:07.908948+00:00,48839397,8,Remote Attestation,89,74
+2026-07-09T08:34:07.908948+00:00,48834924,10,"Show HN: Microsoft releases Flint, a visualization language for AI agents",273,105
+2026-07-09T08:34:07.908948+00:00,48816987,11,Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line,159,32
+2026-07-09T08:34:07.908948+00:00,48837877,12,Rewriting Bun in Rust,543,303
+2026-07-09T08:34:07.908948+00:00,48835111,13,Grok 4.5,613,865
+2026-07-09T08:34:07.908948+00:00,48829797,14,Unicode's transliteration rules are Turing-complete,94,29
+2026-07-09T08:34:07.908948+00:00,48841385,15,How Donkey Kong Toppled Atari,10,0
+2026-07-09T08:34:07.908948+00:00,48789445,16,3D Airplane tracker on Mercator map,10,2
+2026-07-09T08:34:07.908948+00:00,48837110,17,Turning a pile of documents into a searchable useable knowledge base,133,29
+2026-07-09T08:34:07.908948+00:00,48795591,18,"Patching MechCommander's ""left arm bug"" for fun and profit",61,18
+2026-07-09T08:34:07.908948+00:00,48812736,19,Apache Shiro security framework releases 3.0.0,30,2
+2026-07-09T08:34:07.908948+00:00,48814023,20,I Built the Only 2026 WWII Jeep,19,4
+2026-07-09T08:34:07.908948+00:00,48784126,21,In-browser programmable robot simulator,4,0
+2026-07-09T08:34:07.908948+00:00,48833116,22,Chatto is now open source,947,250
+2026-07-09T08:34:07.908948+00:00,48834405,23,GPT‑Live,695,453
+2026-07-09T08:34:07.908948+00:00,48836324,24,New Sweden: the US's long-lost 'secret' colony,105,39
+2026-07-09T08:34:07.908948+00:00,48829312,25,Decoding the obfuscated bash script on a Uniqlo t-shirt,1372,214
+2026-07-09T08:34:07.908948+00:00,48833715,26,TypeScript 7,597,238
+2026-07-09T08:34:07.908948+00:00,48836778,27,FAANG Simulator,394,150
+2026-07-09T08:34:07.908948+00:00,48839355,28,MIRA: Multiplayer Interactive World Models Trained on Rocket League,73,13
+2026-07-09T08:34:07.908948+00:00,48831587,29,A bug which affected only left handed users,117,64
+2026-07-09T08:34:07.908948+00:00,48835439,30,OpenMandriva: Statement regarding attempted distribution sabotage,107,23
+2026-07-09T08:34:07.908948+00:00,48760258,31,Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video],44,2
+2026-07-09T08:34:07.908948+00:00,48794568,32,My road trip with the do-gooding cactus smugglers,36,1
+2026-07-09T08:34:07.908948+00:00,48832212,33,Mistral's Robostral Navigate: a state of the art robotics navigation model,463,101
+2026-07-09T08:34:07.908948+00:00,48842611,34,Why developers are ditching GitHub for Codeberg and self-hosting alternatives,4,0
+2026-07-09T08:34:07.908948+00:00,48840497,35,Ergo: Long Form Philosophy Lectures,14,7
+2026-07-09T08:34:07.908948+00:00,48831658,36,OpenBSD has a use-after-free allowing local privilege escalation to root,264,135
+2026-07-09T08:34:07.908948+00:00,48834296,37,EU now one step away from reviving private message scanning rules,408,146
+2026-07-09T08:34:07.908948+00:00,48841568,38,"I co-founded Wikipedia, but an anonymous mob runs the show – and now I'm banned",16,9
+2026-07-09T08:34:07.908948+00:00,48804801,39,I Built a Telegram Client for Pi,63,33
+2026-07-09T08:34:07.908948+00:00,48839984,40,I think I have LLM burnout,324,261
+2026-07-09T08:34:07.908948+00:00,48797443,41,Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1,59,2
+2026-07-09T08:34:07.908948+00:00,48786455,42,Show HN: Follow London Trains in 3D,140,56
+2026-07-09T08:34:07.908948+00:00,48794062,43,TabFont – guitar tabs rendered as you type,90,27
+2026-07-09T08:34:07.908948+00:00,48833866,44,SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence,262,132
+2026-07-09T08:34:07.908948+00:00,48838772,45,"We made Grok 4.5, GPT-5.5, and Claude build the same apps",149,79
+2026-07-09T08:34:07.908948+00:00,48816724,46,"Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",19,6
+2026-07-09T08:34:07.908948+00:00,48835188,47,Moving to FreeBSD from Linux,50,3
+2026-07-09T08:34:07.908948+00:00,48839434,48,A software engineering interview question I like: computing the median,60,75
+2026-07-09T08:34:07.908948+00:00,48841443,49,"Samsung chip division's 1-year profit beat past 40 years of profits, combined",16,3
+2026-07-09T08:34:07.908948+00:00,48841446,50,AI changes the economics of software rewrites,38,52
