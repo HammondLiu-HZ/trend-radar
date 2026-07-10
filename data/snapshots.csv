@@ -11554,3 +11554,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-10T08:33:16.280957+00:00,48799966,48,What is Bending Spoons? The little-known AOL and Vimeo owner that's now public,72,103
 2026-07-10T08:33:16.280957+00:00,48814023,49,I Built the Only 2026 WWII Jeep,169,57
 2026-07-10T08:33:16.280957+00:00,48856675,50,"Hackers Use Fake Emergency Requests to Steal Data from Apple, Meta and Others",6,0
+2026-07-10T12:05:53.705754+00:00,48849066,1,GPT-5.6,1350,939
+2026-07-10T12:05:53.705754+00:00,48857230,2,"In Emacs, Everything Looks Like a Service",53,10
+2026-07-10T12:05:53.705754+00:00,48842459,3,Show HN: Getting GLM 5.2 running on my slow computer,731,180
+2026-07-10T12:05:53.705754+00:00,48843923,4,EU Parliament greenlights Chat Control 1.0,1453,702
+2026-07-10T12:05:53.705754+00:00,48792383,5,Train sim created by just one person is being called the best ever made,662,249
+2026-07-10T12:05:53.705754+00:00,48845049,7,Show HN: 18 Words,1021,329
+2026-07-10T12:05:53.705754+00:00,48858292,8,EU Commission: addictive design Instagram and Facebook in breach of the DSA,27,14
+2026-07-10T12:05:53.705754+00:00,48772528,9,The mathematical secrets of Barcelona's Sagrada Familia,6,0
+2026-07-10T12:05:53.705754+00:00,48841676,10,"Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",715,602
+2026-07-10T12:05:53.705754+00:00,48805598,11,Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future,96,130
+2026-07-10T12:05:53.705754+00:00,48856904,12,AI-generated videos to maximally drive a target brain region,101,89
+2026-07-10T12:05:53.705754+00:00,48849292,13,Interview with Mitchell Hashimoto about Ghostty and Zig,277,132
+2026-07-10T12:05:53.705754+00:00,48847552,14,Hy3,502,103
+2026-07-10T12:05:53.705754+00:00,48805342,15,Ditching Vagrant: VMs with KVM and Virsh on Debian,23,8
+2026-07-10T12:05:53.705754+00:00,48845442,16,The glass backbone: Why the Army's logistics will break in the next war,395,508
+2026-07-10T12:05:53.705754+00:00,48845209,17,A road to Lisp: Why Lisp,251,197
+2026-07-10T12:05:53.705754+00:00,48846281,18,No leap second will be introduced at the end of December 2026,291,226
+2026-07-10T12:05:53.705754+00:00,48854247,19,Parental device use and the adolescent-caregiver attachment bond,141,117
+2026-07-10T12:05:53.705754+00:00,48757291,20,My Story of 3D Realms / Apogee Part I (2020),81,6
+2026-07-10T12:05:53.705754+00:00,48810218,21,"Common prefix skipping, adaptive sort",29,3
+2026-07-10T12:05:53.705754+00:00,48852199,22,Building a real-time AI tutor for 5-year-olds,96,186
+2026-07-10T12:05:53.705754+00:00,48847511,23,A possible future for Damn Interesting,291,40
+2026-07-10T12:05:53.705754+00:00,48846184,24,Muse Spark 1.1,384,190
+2026-07-10T12:05:53.705754+00:00,48847562,25,Launch HN: Context.dev (YC S26) – API to get structured data from any website,98,70
+2026-07-10T12:05:53.705754+00:00,48809574,26,Girls just wanna have fast MPMC queues with bounded waiting,181,34
+2026-07-10T12:05:53.705754+00:00,48806305,27,Life with Hazard Ratios,48,19
+2026-07-10T12:05:53.705754+00:00,48853091,28,Why American ambulance rides are so expensive,240,334
+2026-07-10T12:05:53.705754+00:00,48804400,29,Triple Dragon Fractal (2020),58,12
+2026-07-10T12:05:53.705754+00:00,48846995,30,TLS certificates for internal services done right,166,115
+2026-07-10T12:05:53.705754+00:00,48838876,31,John Deere owners will get the right to repair equipment under FTC settlement,1333,285
+2026-07-10T12:05:53.705754+00:00,48800930,32,Patterncollider: Generate and explore quasiperiodic tiling patterns,55,3
+2026-07-10T12:05:53.705754+00:00,48813214,33,"Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",32,20
+2026-07-10T12:05:53.705754+00:00,48805358,34,Harman and Dr. Sean Olive are reshaping headphone sound (2025),25,9
+2026-07-10T12:05:53.705754+00:00,48803004,35,Buried Apple feature turns an iPhone into the perfect kids' dumb phone,352,226
+2026-07-10T12:05:53.705754+00:00,48846332,36,SimPolitics: America’s quest to solve politics with computers,95,30
+2026-07-10T12:05:53.705754+00:00,48854681,37,Build your own vulnerability harness,53,20
+2026-07-10T12:05:53.705754+00:00,48854638,38,"Star Just Ate a Planet, and It's Not Done Yet",32,50
+2026-07-10T12:05:53.705754+00:00,48847407,39,Opinionated and easy Pi.dev configuration,135,69
+2026-07-10T12:05:53.705754+00:00,48847940,40,"AI content is everywhere on social media, especially LinkedIn",220,200
+2026-07-10T12:05:53.705754+00:00,48850414,41,GLM 5.2 is nearly as accurate as a human book keeper,208,116
+2026-07-10T12:05:53.705754+00:00,48836431,42,Almost Always Unsigned,63,76
+2026-07-10T12:05:53.705754+00:00,48832247,43,Tiny Tapeout Explorer: WASM FET-level circuit SIM&vis,6,0
+2026-07-10T12:05:53.705754+00:00,48840620,44,What's slowing down the AI buildout,74,168
+2026-07-10T12:05:53.705754+00:00,48778956,45,Meta reuses old RAM in new servers with custom bridge chip,316,224
+2026-07-10T12:05:53.705754+00:00,48849059,46,ChatGPT Work,342,174
+2026-07-10T12:05:53.705754+00:00,48840207,47,Show HN: I mapped 8.5M research papers into an interactive atlas,77,22
+2026-07-10T12:05:53.705754+00:00,48846708,48,DeepSeek aims to make its own AI chip,60,7
+2026-07-10T12:05:53.705754+00:00,48855112,49,Ben Bernanke Joins Anthropic Oversight Trust,65,70
+2026-07-10T12:05:53.705754+00:00,48814023,50,I Built the Only 2026 WWII Jeep,172,58
