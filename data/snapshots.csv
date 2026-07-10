@@ -11505,3 +11505,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-10T04:59:50.868270+00:00,48816724,48,"Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",32,9
 2026-07-10T04:59:50.868270+00:00,48846708,49,DeepSeek aims to make its own AI chip,48,4
 2026-07-10T04:59:50.868270+00:00,48849618,50,Show HN: I built a web tool to see and edit what an AI thinks before it answers,25,4
+2026-07-10T08:33:16.280957+00:00,48842459,1,Show HN: Getting GLM 5.2 running on my slow computer,633,147
+2026-07-10T08:33:16.280957+00:00,48843923,2,EU Parliament greenlights Chat Control 1.0,1333,624
+2026-07-10T08:33:16.280957+00:00,48792383,3,Train sim created by just one person is being called the best ever made,539,194
+2026-07-10T08:33:16.280957+00:00,48845049,4,Show HN: 18 Words,973,316
+2026-07-10T08:33:16.280957+00:00,48856904,5,AI-generated videos to maximally drive a target brain region,10,7
+2026-07-10T08:33:16.280957+00:00,48849066,6,GPT-5.6,1231,886
+2026-07-10T08:33:16.280957+00:00,48841676,7,"Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",627,531
+2026-07-10T08:33:16.280957+00:00,48849292,8,Interview with Mitchell Hashimoto about Ghostty and Zig,227,102
+2026-07-10T08:33:16.280957+00:00,48847552,9,Hy3,463,93
+2026-07-10T08:33:16.280957+00:00,48845442,10,The glass backbone: Why the Army's logistics will break in the next war,369,447
+2026-07-10T08:33:16.280957+00:00,48846281,11,No leap second will be introduced at the end of December 2026,275,212
+2026-07-10T08:33:16.280957+00:00,48856685,12,Browser Fingerprinting – How websites track you across internet –without cookies,6,0
+2026-07-10T08:33:16.280957+00:00,48757291,13,My Story of 3D Realms / Apogee Part I (2020),69,3
+2026-07-10T08:33:16.280957+00:00,48845209,14,A road to Lisp: Why Lisp,220,171
+2026-07-10T08:33:16.280957+00:00,48806305,15,Life with Hazard Ratios,35,14
+2026-07-10T08:33:16.280957+00:00,48807673,16,Damaged Earth Catalog,8,1
+2026-07-10T08:33:16.280957+00:00,48810218,17,"Common prefix skipping, adaptive sort",21,1
+2026-07-10T08:33:16.280957+00:00,48805358,18,Harman and Dr. Sean Olive are reshaping headphone sound (2025),14,6
+2026-07-10T08:33:16.280957+00:00,48847511,19,A possible future for Damn Interesting,279,37
+2026-07-10T08:33:16.280957+00:00,48852199,20,Building a real-time AI tutor for 5-year-olds,86,127
+2026-07-10T08:33:16.280957+00:00,48847562,21,Launch HN: Context.dev (YC S26) – API to get structured data from any website,92,65
+2026-07-10T08:33:16.280957+00:00,48846184,22,Muse Spark 1.1,371,183
+2026-07-10T08:33:16.280957+00:00,48804400,23,Triple Dragon Fractal (2020),45,11
+2026-07-10T08:33:16.280957+00:00,48853091,24,Why American ambulance rides are so expensive,190,250
+2026-07-10T08:33:16.280957+00:00,48809574,25,Girls just wanna have fast MPMC queues with bounded waiting,163,33
+2026-07-10T08:33:16.280957+00:00,48854681,26,Build your own vulnerability harness,43,18
+2026-07-10T08:33:16.280957+00:00,48813214,27,"Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",28,15
+2026-07-10T08:33:16.280957+00:00,48800930,28,Patterncollider: Generate and explore quasiperiodic tiling patterns,48,2
+2026-07-10T08:33:16.280957+00:00,48838876,29,John Deere owners will get the right to repair equipment under FTC settlement,1318,278
+2026-07-10T08:33:16.280957+00:00,48805598,30,Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future,69,59
+2026-07-10T08:33:16.280957+00:00,48803004,31,Buried Apple feature turns an iPhone into the perfect kids' dumb phone,341,215
+2026-07-10T08:33:16.280957+00:00,48846332,32,SimPolitics: America’s quest to solve politics with computers,89,24
+2026-07-10T08:33:16.280957+00:00,48854247,33,Parental device use and the adolescent-caregiver attachment bond,123,97
+2026-07-10T08:33:16.280957+00:00,48847407,34,Opinionated and easy Pi.dev configuration,129,68
+2026-07-10T08:33:16.280957+00:00,48850414,36,GLM 5.2 is nearly as accurate as a human book keeper,201,115
+2026-07-10T08:33:16.280957+00:00,48847940,37,"AI content is everywhere on social media, especially LinkedIn",215,190
+2026-07-10T08:33:16.280957+00:00,48836431,38,Almost Always Unsigned,59,73
+2026-07-10T08:33:16.280957+00:00,48846995,39,TLS certificates for internal services done right,149,107
+2026-07-10T08:33:16.280957+00:00,48840207,40,Show HN: I mapped 8.5M research papers into an interactive atlas,71,22
+2026-07-10T08:33:16.280957+00:00,48840620,41,What's slowing down the AI buildout,71,165
+2026-07-10T08:33:16.280957+00:00,48778956,42,Meta reuses old RAM in new servers with custom bridge chip,311,224
+2026-07-10T08:33:16.280957+00:00,48854363,43,Focus,90,49
+2026-07-10T08:33:16.280957+00:00,48846708,44,DeepSeek aims to make its own AI chip,55,5
+2026-07-10T08:33:16.280957+00:00,48846510,45,Show HN: Analog Watch,91,87
+2026-07-10T08:33:16.280957+00:00,48852403,46,Show HN: Rubiks Cube Solver,19,8
+2026-07-10T08:33:16.280957+00:00,48850372,47,How to Start a Ruby Meetup,63,19
+2026-07-10T08:33:16.280957+00:00,48799966,48,What is Bending Spoons? The little-known AOL and Vimeo owner that's now public,72,103
+2026-07-10T08:33:16.280957+00:00,48814023,49,I Built the Only 2026 WWII Jeep,169,57
+2026-07-10T08:33:16.280957+00:00,48856675,50,"Hackers Use Fake Emergency Requests to Steal Data from Apple, Meta and Others",6,0
