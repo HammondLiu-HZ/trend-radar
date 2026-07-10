@@ -11603,3 +11603,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-10T12:05:53.705754+00:00,48846708,48,DeepSeek aims to make its own AI chip,60,7
 2026-07-10T12:05:53.705754+00:00,48855112,49,Ben Bernanke Joins Anthropic Oversight Trust,65,70
 2026-07-10T12:05:53.705754+00:00,48814023,50,I Built the Only 2026 WWII Jeep,172,58
+2026-07-10T15:36:36.011735+00:00,48859701,1,Write code like a human will maintain it,152,115
+2026-07-10T15:36:36.011735+00:00,48858737,2,Late Bronze Age Collapse,152,61
+2026-07-10T15:36:36.011735+00:00,48859678,3,Successful Companies Go Blind,45,18
+2026-07-10T15:36:36.011735+00:00,48859298,4,Europe's Largest Unions Demand Right to Cancel Work on Days Above 30C,26,25
+2026-07-10T15:36:36.011735+00:00,48803707,5,Lost city discovered beneath Egypt's desert with ancient church,20,1
+2026-07-10T15:36:36.011735+00:00,48846941,6,My burner email blocklist blocked me,19,17
+2026-07-10T15:36:36.011735+00:00,48849066,7,GPT-5.6,1447,1012
+2026-07-10T15:36:36.011735+00:00,48772528,8,The mathematical secrets of Barcelona's Sagrada Familia,59,9
+2026-07-10T15:36:36.011735+00:00,48858121,9,Good Tools Are Invisible,129,93
+2026-07-10T15:36:36.011735+00:00,48857230,10,"In Emacs, Everything Looks Like a Service",103,61
+2026-07-10T15:36:36.011735+00:00,48842459,11,Show HN: Getting GLM 5.2 running on my slow computer,794,197
+2026-07-10T15:36:36.011735+00:00,48792383,12,Train sim created by just one person is being called the best ever made,755,304
+2026-07-10T15:36:36.011735+00:00,48858292,14,EU Commission: addictive design Instagram and Facebook in breach of the DSA,154,106
+2026-07-10T15:36:36.011735+00:00,48859387,15,Show HN: Runloom – Go-style coroutines for Python free-threaded,16,6
+2026-07-10T15:36:36.011735+00:00,48858171,16,"Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",22,12
+2026-07-10T15:36:36.011735+00:00,48805598,17,Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future,145,207
+2026-07-10T15:36:36.011735+00:00,48805342,18,Ditching Vagrant: VMs with KVM and Virsh on Debian,55,23
+2026-07-10T15:36:36.011735+00:00,48856904,19,AI-generated videos to maximally drive a target brain region,174,179
+2026-07-10T15:36:36.011735+00:00,48849292,20,Interview with Mitchell Hashimoto about Ghostty and Zig,315,167
+2026-07-10T15:36:36.011735+00:00,48847552,21,Hy3,527,108
+2026-07-10T15:36:36.011735+00:00,48859784,22,ActivityPub over ATProto,25,11
+2026-07-10T15:36:36.011735+00:00,48852048,23,How RCA Victor sold Sound Service to classrooms in 1939,3,2
+2026-07-10T15:36:36.011735+00:00,48790791,24,Ancient Coins: What About Spartan Coins?,7,3
+2026-07-10T15:36:36.011735+00:00,48843923,25,EU Parliament greenlights Chat Control 1.0,1529,765
+2026-07-10T15:36:36.011735+00:00,48859752,26,Proton AG Services is currently experiencing some issues,20,18
+2026-07-10T15:36:36.011735+00:00,48845442,27,The glass backbone: Why the Army's logistics will break in the next war,427,572
+2026-07-10T15:36:36.011735+00:00,48845209,28,A road to Lisp: Why Lisp,273,257
+2026-07-10T15:36:36.011735+00:00,48859671,29,"Punk, or why I don't stream anymore",109,117
+2026-07-10T15:36:36.011735+00:00,48852199,30,Building a real-time AI tutor for 5-year-olds,128,259
+2026-07-10T15:36:36.011735+00:00,48846281,31,No leap second will be introduced at the end of December 2026,305,233
+2026-07-10T15:36:36.011735+00:00,48845049,32,Show HN: 18 Words,1061,339
+2026-07-10T15:36:36.011735+00:00,48854247,33,Parental device use and the adolescent-caregiver attachment bond,160,138
+2026-07-10T15:36:36.011735+00:00,48847511,34,A possible future for Damn Interesting,306,43
+2026-07-10T15:36:36.011735+00:00,48847562,35,Launch HN: Context.dev (YC S26) – API to get structured data from any website,106,72
+2026-07-10T15:36:36.011735+00:00,48809574,36,Girls just wanna have fast MPMC queues with bounded waiting,193,35
+2026-07-10T15:36:36.011735+00:00,48810218,37,"Common prefix skipping, adaptive sort",38,5
+2026-07-10T15:36:36.011735+00:00,48846184,38,Muse Spark 1.1,395,201
+2026-07-10T15:36:36.011735+00:00,48853091,39,Why American ambulance rides are so expensive,275,393
+2026-07-10T15:36:36.011735+00:00,48838876,40,John Deere owners will get the right to repair equipment under FTC settlement,1345,290
+2026-07-10T15:36:36.011735+00:00,48841676,41,"Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",758,656
+2026-07-10T15:36:36.011735+00:00,48846995,42,TLS certificates for internal services done right,172,128
+2026-07-10T15:36:36.011735+00:00,48806305,43,Life with Hazard Ratios,56,21
+2026-07-10T15:36:36.011735+00:00,48859673,44,Scarf has moved away from Haskell,42,50
+2026-07-10T15:36:36.011735+00:00,48859788,45,Man nearly sucked out of 'detached' window on Ryanair flight,9,3
+2026-07-10T15:36:36.011735+00:00,48757291,46,My Story of 3D Realms / Apogee Part I (2020),90,8
+2026-07-10T15:36:36.011735+00:00,48804400,47,Triple Dragon Fractal (2020),62,14
+2026-07-10T15:36:36.011735+00:00,48859634,48,IPv6 Is Watching You: The Hidden Privacy Nightmare [video],6,0
+2026-07-10T15:36:36.011735+00:00,48800930,49,Patterncollider: Generate and explore quasiperiodic tiling patterns,59,3
+2026-07-10T15:36:36.011735+00:00,48803004,50,Buried Apple feature turns an iPhone into the perfect kids' dumb phone,364,237
