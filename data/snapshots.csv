@@ -12240,3 +12240,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-11T17:06:24.149228+00:00,48831814,48,Preemption is GC for memory reordering (2019),43,7
 2026-07-11T17:06:24.149228+00:00,48871470,49,"Networking and the Internet, from First Principles",181,52
 2026-07-11T17:06:24.149228+00:00,48859671,50,"Punk, or why I don't stream anymore",185,220
+2026-07-11T19:16:32.804753+00:00,48873940,1,Prefer Strict Tables in SQLite,50,15
+2026-07-11T19:16:32.804753+00:00,48874182,2,Who manages the agents?,28,11
+2026-07-11T19:16:32.804753+00:00,48874357,3,How to Hide from Killer Drones,26,9
+2026-07-11T19:16:32.804753+00:00,48872874,4,We scaled PgBouncer to 4x throughput,119,15
+2026-07-11T19:16:32.804753+00:00,48873836,5,"Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",24,7
+2026-07-11T19:16:32.804753+00:00,48873424,6,Modern decor may be straining people's brains,104,88
+2026-07-11T19:16:32.804753+00:00,48872858,7,The early History of the Singular Value Decomposition (1993) [pdf],56,19
+2026-07-11T19:16:32.804753+00:00,48873893,8,Leaded Gas Was a Known Poison the Day It Was Invented (2016),80,50
+2026-07-11T19:16:32.804753+00:00,48865903,9,AI Can't Recreate the Thrust Game (But It Can Help You Understand It),24,14
+2026-07-11T19:16:32.804753+00:00,48873692,10,Female US rower completes historic solo journey from California to Hawaii,98,26
+2026-07-11T19:16:32.804753+00:00,48873501,12,"Show HN: Orbit – AR satellite tracker, watch 15k+ objects",10,2
+2026-07-11T19:16:32.804753+00:00,48871973,13,"Show HN: Learn by rebuilding Redis, Git, a database from scratch",48,21
+2026-07-11T19:16:32.804753+00:00,48822441,14,Amber the programming language compiled to Bash/Ksh/Zsh,30,17
+2026-07-11T19:16:32.804753+00:00,48873457,15,UPI: Anatomy of a Payment Transaction,10,2
+2026-07-11T19:16:32.804753+00:00,48866134,16,"Einstein's relativity rules chemical bonds in heavy elements, new research shows",360,159
+2026-07-11T19:16:32.804753+00:00,48873855,17,Reverse centaurs are the answer to the AI paradox,39,8
+2026-07-11T19:16:32.804753+00:00,48874200,18,AI 2040 and the cult of intelligence,103,75
+2026-07-11T19:16:32.804753+00:00,48873910,19,BLISS,25,4
+2026-07-11T19:16:32.804753+00:00,48873486,20,Show HN: Earth Game – An offline CLI for turning life goals into quests,7,1
+2026-07-11T19:16:32.804753+00:00,48825612,21,Google Search lets creators know more about their reach,78,35
+2026-07-11T19:16:32.804753+00:00,48865019,22,"Apple sues OpenAI, accuses ex-employees of stealing trade secrets",1477,823
+2026-07-11T19:16:32.804753+00:00,48830191,23,"Digital Deli, 1984 book by early PC hackers and enthusiasts",30,2
+2026-07-11T19:16:32.804753+00:00,48841348,24,Book: RISC-V System-on-Chip Design,75,30
+2026-07-11T19:16:32.804753+00:00,48873858,25,Earendel (Astronomical Object),21,4
+2026-07-11T19:16:32.804753+00:00,48871932,26,Speculations Concerning the First Ultraintelligent Machine (1965) [pdf],78,37
+2026-07-11T19:16:32.804753+00:00,48873417,27,Show HN: Reame – a CPU inference server that gets faster as it runs,7,2
+2026-07-11T19:16:32.804753+00:00,48830556,28,Otary – Image and Geometry Python Library Now Has Tutorials,80,1
+2026-07-11T19:16:32.804753+00:00,48864252,29,An update on residential proxies and the scraper situation,300,302
+2026-07-11T19:16:32.804753+00:00,48874046,30,Ask HN: Why isn't Google indexing information about the AT Protocol?,21,10
+2026-07-11T19:16:32.804753+00:00,48863064,31,SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth,279,1012
+2026-07-11T19:16:32.804753+00:00,48870381,32,Ghost Font: A font that humans can read but AI cannot,159,121
+2026-07-11T19:16:32.804753+00:00,48808101,33,The Victorian War on Rabies,15,15
+2026-07-11T19:16:32.804753+00:00,48872973,34,Tropical forests facing increasing risks of exposure to critical temp thresholds,46,13
+2026-07-11T19:16:32.804753+00:00,48817539,35,An iroh powered smart fan,157,53
+2026-07-11T19:16:32.804753+00:00,48855488,36,The Oral History of the Dinosaur Input Device (DID),4,0
+2026-07-11T19:16:32.804753+00:00,48798566,37,The mask that compiles to nothing: how HotSpots JIT learned to reason about bits,69,8
+2026-07-11T19:16:32.804753+00:00,48858121,38,Good Tools Are Invisible,524,238
+2026-07-11T19:16:32.804753+00:00,48871367,39,FCC approves test of space mirror to light night sky,104,117
+2026-07-11T19:16:32.804753+00:00,48848425,40,AI 2040: Plan A,367,472
+2026-07-11T19:16:32.804753+00:00,48858737,41,Late Bronze Age Collapse,412,289
+2026-07-11T19:16:32.804753+00:00,48870258,42,Why it's so difficult to produce American-made medical gloves,100,121
+2026-07-11T19:16:32.804753+00:00,48861717,43,QuadRF can spot drones and see WiFi through my wall,711,224
+2026-07-11T19:16:32.804753+00:00,48871758,44,Reimplementing pf as an eBPF/XDP dataplane on Linux,7,1
+2026-07-11T19:16:32.804753+00:00,48862365,45,The tech of 'Terminator 2' – an oral history (2017),251,88
+2026-07-11T19:16:32.804753+00:00,48859673,46,"After 7 years in production, Scarf has reluctantly moved away from Haskell",212,259
+2026-07-11T19:16:32.804753+00:00,48825216,47,Silent speech with ultrasound,96,28
+2026-07-11T19:16:32.804753+00:00,48842459,48,Show HN: Getting GLM 5.2 running on my slow computer,886,228
+2026-07-11T19:16:32.804753+00:00,48868996,49,The vintage beauty of Soviet control rooms (2018),185,62
+2026-07-11T19:16:32.804753+00:00,48810543,50,Alternate clock designs and time systems,190,108
