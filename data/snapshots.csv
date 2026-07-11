@@ -11897,3 +11897,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-11T03:29:40.231193+00:00,48857230,48,"In Emacs, everything looks like a service",237,101
 2026-07-11T03:29:40.231193+00:00,48861217,49,"Show HN: SubjectiveZero, an open-source agentic node editor for creative coding",14,4
 2026-07-11T03:29:40.231193+00:00,48849079,50,Postgres locks do not scale,13,7
+2026-07-11T06:22:03.888595+00:00,48866134,1,"Einstein's relativity rules chemical bonds in heavy elements, new research shows",188,64
+2026-07-11T06:22:03.888595+00:00,48861717,2,QuadRF can spot drones and see WiFi through my wall,526,184
+2026-07-11T06:22:03.888595+00:00,48865019,3,"Apple sues OpenAI, accuses ex-employees of stealing trade secrets",870,440
+2026-07-11T06:22:03.888595+00:00,48817539,4,An iroh powered smart fan,73,9
+2026-07-11T06:22:03.888595+00:00,48864252,5,An update on residential proxies and the scraper situation,153,145
+2026-07-11T06:22:03.888595+00:00,48863064,6,SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth,147,420
+2026-07-11T06:22:03.888595+00:00,48863490,7,GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf],415,324
+2026-07-11T06:22:03.888595+00:00,48814341,8,The Rule of 7 and the 7-Touchpoint Myth,4,0
+2026-07-11T06:22:03.888595+00:00,48858737,9,Late Bronze Age Collapse,351,239
+2026-07-11T06:22:03.888595+00:00,48795900,10,Combustion engine web-based simulator,148,64
+2026-07-11T06:22:03.888595+00:00,48858121,11,Good Tools Are Invisible,394,186
+2026-07-11T06:22:03.888595+00:00,48848425,12,AI 2040: Plan A,214,218
+2026-07-11T06:22:03.888595+00:00,48862365,13,The tech of 'Terminator 2' – an oral history (2017),205,71
+2026-07-11T06:22:03.888595+00:00,48813246,14,The footgun of right-to-left decorative characters,33,18
+2026-07-11T06:22:03.888595+00:00,48827834,15,The Lindy Effect in Software,7,6
+2026-07-11T06:22:03.888595+00:00,48825216,16,Silent speech with ultrasound,34,10
+2026-07-11T06:22:03.888595+00:00,48814170,17,Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit,63,25
+2026-07-11T06:22:03.888595+00:00,48863464,18,New York City to ban deceptive subscription practices,489,242
+2026-07-11T06:22:03.888595+00:00,48861213,19,Computation as a universal and fundamental concept,120,80
+2026-07-11T06:22:03.888595+00:00,48859673,20,"After 7 years in production, Scarf has reluctantly moved away from Haskell",112,132
+2026-07-11T06:22:03.888595+00:00,48810543,21,Alternate clock designs and time systems,129,69
+2026-07-11T06:22:03.888595+00:00,48862252,22,Snails' teeth beats spider silk as nature's strongest material (2015),174,138
+2026-07-11T06:22:03.888595+00:00,48864969,24,"GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",68,13
+2026-07-11T06:22:03.888595+00:00,48831814,25,Preemption is GC for memory reordering (2019),24,6
+2026-07-11T06:22:03.888595+00:00,48861319,26,A love letter to flashcards,145,89
+2026-07-11T06:22:03.888595+00:00,48863080,27,War Atlas: An interactive cartography of every named war in human history,139,58
+2026-07-11T06:22:03.888595+00:00,48803707,28,Lost city discovered beneath Egypt's desert with ancient church,171,93
+2026-07-11T06:22:03.888595+00:00,48844046,29,"Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",72,12
+2026-07-11T06:22:03.888595+00:00,48842459,30,Show HN: Getting GLM 5.2 running on my slow computer,843,208
+2026-07-11T06:22:03.888595+00:00,48859678,31,Successful companies go blind,209,75
+2026-07-11T06:22:03.888595+00:00,48807108,32,Ask HN: Are systems ready for the first negative leap second?,68,68
+2026-07-11T06:22:03.888595+00:00,48863707,33,How the terrorist group Boko Haram uses frontier AI,201,166
+2026-07-11T06:22:03.888595+00:00,48772528,34,The mathematical secrets of Barcelona's Sagrada Familia,128,34
+2026-07-11T06:22:03.888595+00:00,48847834,35,Show HN: Reverse-engineering web apps into agent tools,81,32
+2026-07-11T06:22:03.888595+00:00,48859671,36,"Punk, or why I don't stream anymore",158,198
+2026-07-11T06:22:03.888595+00:00,48816724,37,"Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",57,10
+2026-07-11T06:22:03.888595+00:00,48851476,38,Show HN: Reviving my 2001 college band with AI,53,58
+2026-07-11T06:22:03.888595+00:00,48845049,39,Show HN: 18 Words,1093,348
+2026-07-11T06:22:03.888595+00:00,48814724,40,The Clouds of Hiroshima,51,26
+2026-07-11T06:22:03.888595+00:00,48849066,41,GPT-5.6,1522,1082
+2026-07-11T06:22:03.888595+00:00,48817218,42,Show HN: Phobos – A tiny scale-free kernel language with tile-DAG support,6,1
+2026-07-11T06:22:03.888595+00:00,48866249,43,Gary Kildall's Death Investigation,13,0
+2026-07-11T06:22:03.888595+00:00,48867264,44,FreeCAD in the Browser,41,29
+2026-07-11T06:22:03.888595+00:00,48805598,45,Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future,201,290
+2026-07-11T06:22:03.888595+00:00,48843923,46,EU Parliament greenlights Chat Control 1.0,1589,816
+2026-07-11T06:22:03.888595+00:00,48862086,47,Cpp2Rust: Translates C++ to safe Rust automatically,47,13
+2026-07-11T06:22:03.888595+00:00,48857230,48,"In Emacs, everything looks like a service",238,101
+2026-07-11T06:22:03.888595+00:00,48861217,49,"Show HN: SubjectiveZero, an open-source agentic node editor for creative coding",19,4
+2026-07-11T06:22:03.888595+00:00,48805342,50,Ditching Vagrant: VMs with KVM and Virsh on Debian,89,42
