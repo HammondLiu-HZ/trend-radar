@@ -12436,3 +12436,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-12T00:02:18.643505+00:00,48871932,48,Speculations Concerning the First Ultraintelligent Machine (1965) [pdf],88,45
 2026-07-12T00:02:18.643505+00:00,48874046,49,Ask HN: Why isn't Google indexing information about the AT Protocol?,41,27
 2026-07-12T00:02:18.643505+00:00,48810543,50,Alternate clock designs and time systems,196,112
+2026-07-12T04:30:26.796366+00:00,48877668,1,"We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",41,6
+2026-07-12T04:30:26.796366+00:00,48878195,2,Why Write Code in 2026,7,0
+2026-07-12T04:30:26.796366+00:00,48876505,3,Mesh LLM: distributed AI computing on iroh,155,36
+2026-07-12T04:30:26.796366+00:00,48877314,4,A pure scheme web programming tool,43,15
+2026-07-12T04:30:26.796366+00:00,48875377,5,Show HN: Ant – A JavaScript runtime and ecosystem,210,90
+2026-07-12T04:30:26.796366+00:00,48846177,6,I Did Not Kill Stanley Lieber: How to Draw (With 9front),32,4
+2026-07-12T04:30:26.796366+00:00,48876245,7,"RISCBoy is an open-source portable games console, designed from scratch",84,17
+2026-07-12T04:30:26.796366+00:00,48877613,8,The Energetic Costs of Cellular Computation (2012),14,1
+2026-07-12T04:30:26.796366+00:00,48873836,9,"Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",197,66
+2026-07-12T04:30:26.796366+00:00,48877927,10,Why are US consumers so angry? It's not just high prices,34,15
+2026-07-12T04:30:26.796366+00:00,48877269,11,A dock that wakes up reliably,47,36
+2026-07-12T04:30:26.796366+00:00,48823981,12,An agent in 100 lines of Lisp,59,4
+2026-07-12T04:30:26.796366+00:00,48877344,13,A Erlang style pure Scheme Webserver and further,24,1
+2026-07-12T04:30:26.796366+00:00,48877371,14,What xAI's Grok Build CLI Actually Sends to xAI,128,69
+2026-07-12T04:30:26.796366+00:00,48878126,15,"Under federal rule, colleges must leave grads better off or lose financial aid",13,3
+2026-07-12T04:30:26.796366+00:00,48877192,16,Long Covid May Physically Damage the Nerves That Control the Stomach,79,35
+2026-07-12T04:30:26.796366+00:00,48840152,17,Jellyfish Undersea Roundabout,15,0
+2026-07-12T04:30:26.796366+00:00,48873457,18,UPI: Anatomy of a Payment Transaction,130,48
+2026-07-12T04:30:26.796366+00:00,48849744,19,Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts,70,9
+2026-07-12T04:30:26.796366+00:00,48872874,20,We scaled PgBouncer to 4x throughput,188,38
+2026-07-12T04:30:26.796366+00:00,48872858,21,The early History of the Singular Value Decomposition (1993) [pdf],102,60
+2026-07-12T04:30:26.796366+00:00,48873940,22,Prefer strict tables in SQLite,239,118
+2026-07-12T04:30:26.796366+00:00,48820361,23,Biff.graph: structure your Clojure codebase as a queryable graph,97,9
+2026-07-12T04:30:26.796366+00:00,48871973,24,"Show HN: Learn by rebuilding Redis, Git, a database from scratch",137,39
+2026-07-12T04:30:26.796366+00:00,48876741,25,"Doctors die. It's not like the rest of us, but it should be (2016)",108,64
+2026-07-12T04:30:26.796366+00:00,48830664,26,Optimization Solver as a Service,23,12
+2026-07-12T04:30:26.796366+00:00,48876619,27,Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio,17,2
+2026-07-12T04:30:26.796366+00:00,48877178,29,"Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",47,9
+2026-07-12T04:30:26.796366+00:00,48875342,30,Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL,23,4
+2026-07-12T04:30:26.796366+00:00,48873501,31,"Show HN: Orbit – AR satellite tracker, watch 15k+ objects",67,18
+2026-07-12T04:30:26.796366+00:00,48874297,32,ZeroFS vs. Amazon S3 Files,70,16
+2026-07-12T04:30:26.796366+00:00,48877723,33,Small Inventors Are Being Squeezed by a Convoluted Patent Process,15,1
+2026-07-12T04:30:26.796366+00:00,48873692,34,Female US rower completes historic solo journey from California to Hawaii,281,93
+2026-07-12T04:30:26.796366+00:00,48844476,35,How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL,8,1
+2026-07-12T04:30:26.796366+00:00,48873417,36,Show HN: Reame – a CPU inference server that gets faster as it runs,47,13
+2026-07-12T04:30:26.796366+00:00,48875371,37,Wealthy AI workers send San Francisco house prices soaring,24,12
+2026-07-12T04:30:26.796366+00:00,48841348,38,Book: RISC-V System-on-Chip Design,114,48
+2026-07-12T04:30:26.796366+00:00,48876593,39,"Weightlifting beats running for blood sugar control, researchers find (2025)",129,70
+2026-07-12T04:30:26.796366+00:00,48874357,40,How to hide from killer drones,116,146
+2026-07-12T04:30:26.796366+00:00,48876843,41,"Using PowerShell over SSH, Twenty Years Later",5,1
+2026-07-12T04:30:26.796366+00:00,48877214,42,Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid,10,0
+2026-07-12T04:30:26.796366+00:00,48873486,43,Show HN: Earth Game – An offline CLI for turning life goals into quests,37,10
+2026-07-12T04:30:26.796366+00:00,48830191,44,"Digital Deli, 1984 book by early PC hackers and enthusiasts",62,7
+2026-07-12T04:30:26.796366+00:00,48830556,45,Otary – Image and Geometry Python Library Now Has Tutorials,92,2
+2026-07-12T04:30:26.796366+00:00,48876215,46,Rubber ducking is a mirror that says nothing,10,1
+2026-07-12T04:30:26.796366+00:00,48799624,47,Lost and Found,52,14
+2026-07-12T04:30:26.796366+00:00,48876159,48,Evilcharts,8,0
+2026-07-12T04:30:26.796366+00:00,48877008,49,"The Future of Digital Money: The Race Between Tortoise, Hare and Rhino",6,0
+2026-07-12T04:30:26.796366+00:00,48842459,50,Show HN: Getting GLM 5.2 running on my slow computer,896,230
