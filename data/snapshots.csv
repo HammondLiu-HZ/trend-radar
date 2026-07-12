@@ -12730,3 +12730,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-12T15:05:22.686733+00:00,48873501,48,"Show HN: Orbit – AR satellite tracker, watch 15k+ objects",83,19
 2026-07-12T15:05:22.686733+00:00,48842459,49,Show HN: Getting GLM 5.2 running on my slow computer,904,231
 2026-07-12T15:05:22.686733+00:00,48879950,50,Datacentres drive up big tech's carbon emissions to a third of those of France,66,86
+2026-07-12T17:09:17.786213+00:00,48880170,1,"Old and new apps, via modern coding agents by Terry Tao",273,74
+2026-07-12T17:09:17.786213+00:00,48882056,2,How to Read More Books,61,26
+2026-07-12T17:09:17.786213+00:00,48881874,3,A no-brainer for protecting your brain,44,25
+2026-07-12T17:09:17.786213+00:00,48881830,4,Don't You Mean Extinct?,35,12
+2026-07-12T17:09:17.786213+00:00,48880499,5,Understanding the Odin Programming Language,97,34
+2026-07-12T17:09:17.786213+00:00,48882601,6,Website is served from a 200KB binary,3,0
+2026-07-12T17:09:17.786213+00:00,48882097,7,Why study Diophantine equations?,17,1
+2026-07-12T17:09:17.786213+00:00,48881967,8,The power of collaboration: How we can reduce traffic congestion,13,6
+2026-07-12T17:09:17.786213+00:00,48882562,9,"Show HN: Shirei, cross-platform GUI framework in native Go",6,0
+2026-07-12T17:09:17.786213+00:00,48881043,10,AI Boosts Research Careers but Flattens Scientific Discovery,87,71
+2026-07-12T17:09:17.786213+00:00,48879504,11,Ghostel.el: Terminal emulator powered by libghostty,147,25
+2026-07-12T17:09:17.786213+00:00,48880406,12,Unauthenticated RCE in Motorola's MR2600 Router,56,17
+2026-07-12T17:09:17.786213+00:00,48854168,13,"Vint Cerf, a “father of the Internet”, is retiring",228,130
+2026-07-12T17:09:17.786213+00:00,48880985,14,Gina Gallery of International Naive Art,25,11
+2026-07-12T17:09:17.786213+00:00,48881498,15,"Autoresearch, Claude and Constrained Optimization",7,2
+2026-07-12T17:09:17.786213+00:00,48823803,16,Satteri: A Markdown pipeline forged in Rust for the JavaScript world,28,5
+2026-07-12T17:09:17.786213+00:00,48838027,17,Lessons from the Vasa Shipwreck,19,16
+2026-07-12T17:09:17.786213+00:00,48809916,18,Ditching Zotero for a Text File,42,28
+2026-07-12T17:09:17.786213+00:00,48878682,19,Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase,133,54
+2026-07-12T17:09:17.786213+00:00,48876505,20,Mesh LLM: distributed AI computing on iroh,313,72
+2026-07-12T17:09:17.786213+00:00,48827058,21,"Protobuf-py: Protobuf for Python, without compromises",113,29
+2026-07-12T17:09:17.786213+00:00,48794665,22,Morphometrics: Introduction to the Analysis of Shape,6,0
+2026-07-12T17:09:17.786213+00:00,48882144,23,"TK, or the secret to effortless writing (2024)",14,6
+2026-07-12T17:09:17.786213+00:00,48873836,24,"Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",342,150
+2026-07-12T17:09:17.786213+00:00,48823981,25,An agent in 100 lines of Lisp,213,65
+2026-07-12T17:09:17.786213+00:00,48881112,26,"Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",8,7
+2026-07-12T17:09:17.786213+00:00,48813702,27,Xbox 'OG' Adventures,34,5
+2026-07-12T17:09:17.786213+00:00,48876245,28,"RISCBoy is an open-source portable games console, designed from scratch",192,28
+2026-07-12T17:09:17.786213+00:00,48830860,29,Handsum: An LQIP Image File Format,39,6
+2026-07-12T17:09:17.786213+00:00,48882180,30,An explanation of our search results,7,2
+2026-07-12T17:09:17.786213+00:00,48875377,32,Show HN: Ant – A JavaScript runtime and ecosystem,311,142
+2026-07-12T17:09:17.786213+00:00,48846177,33,I Did Not Kill Stanley Lieber: How to Draw (With 9front),103,38
+2026-07-12T17:09:17.786213+00:00,48881393,34,Agent Harness Engineering,3,0
+2026-07-12T17:09:17.786213+00:00,48881385,35,The Lunduke Computer Operating System,4,0
+2026-07-12T17:09:17.786213+00:00,48882526,36,Noto: A Typeface for the World,3,0
+2026-07-12T17:09:17.786213+00:00,48881352,37,Show HN: Kurvengefahr – browser CAD/CAM for pen plotters,3,0
+2026-07-12T17:09:17.786213+00:00,48785102,38,EF Core 11 makes your split queries faster,67,34
+2026-07-12T17:09:17.786213+00:00,48831384,39,Text art tools,80,22
+2026-07-12T17:09:17.786213+00:00,48873424,40,Modern decor may be straining people's brains,257,248
+2026-07-12T17:09:17.786213+00:00,48881894,41,All Watched over by Machines of Loving Grace (2011),7,0
+2026-07-12T17:09:17.786213+00:00,48829697,42,Fibonacci's Real Mathematical Legacy,31,10
+2026-07-12T17:09:17.786213+00:00,48873457,43,UPI: Anatomy of a Payment Transaction,229,107
+2026-07-12T17:09:17.786213+00:00,48843409,44,"Relm – local LLMs as base-R objects, with interpretability",5,0
+2026-07-12T17:09:17.786213+00:00,48880564,45,"Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",36,17
+2026-07-12T17:09:17.786213+00:00,48872874,46,We scaled PgBouncer to 4x throughput,230,54
+2026-07-12T17:09:17.786213+00:00,48840152,47,Jellyfish Undersea Roundabout,73,26
+2026-07-12T17:09:17.786213+00:00,48880987,48,Making Crash Bandicoot (2011),30,1
+2026-07-12T17:09:17.786213+00:00,48872858,49,The early History of the Singular Value Decomposition (1993) [pdf],137,75
+2026-07-12T17:09:17.786213+00:00,48880384,50,Yt-Dlp Sequence Diagrams,97,29
