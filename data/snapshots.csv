@@ -12878,3 +12878,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-12T21:02:32.018586+00:00,48884238,48,SpaceX built to separate retail investors from their money,9,2
 2026-07-12T21:02:32.018586+00:00,48881352,49,Show HN: Kurvengefahr – browser CAD/CAM for pen plotters,12,4
 2026-07-12T21:02:32.018586+00:00,48882730,50,Fable extended until 19 July,63,27
+2026-07-12T22:57:09.719733+00:00,48884853,1,"Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",159,68
+2026-07-12T22:57:09.719733+00:00,48884395,2,Tiny Emulators,99,3
+2026-07-12T22:57:09.719733+00:00,48827126,3,"So you want to learn physics (second edition, 2021)",32,4
+2026-07-12T22:57:09.719733+00:00,48883275,4,Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k,372,206
+2026-07-12T22:57:09.719733+00:00,48882716,5,"Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",86,19
+2026-07-12T22:57:09.719733+00:00,48884992,6,"Kode Dot Programmable pocket device for makers, pentesters and geeks",12,3
+2026-07-12T22:57:09.719733+00:00,48884322,7,Irish datacenters now guzzle 23% of the country's electricity,151,103
+2026-07-12T22:57:09.719733+00:00,48880170,8,"Old and new apps, via modern coding agents",389,111
+2026-07-12T22:57:09.719733+00:00,48883090,9,Mechanistic interpretability researchers applying causality theory to LLMs,71,58
+2026-07-12T22:57:09.719733+00:00,48883238,10,I Learned to Read Again,66,26
+2026-07-12T22:57:09.719733+00:00,48861923,11,Why write code in 2026,82,129
+2026-07-12T22:57:09.719733+00:00,48882554,12,Automation Without Understanding,79,37
+2026-07-12T22:57:09.719733+00:00,48882569,13,LARP – Revenue infrastructure for serious founders,108,27
+2026-07-12T22:57:09.719733+00:00,48883343,14,"I love LLMs, I hate hype",263,145
+2026-07-12T22:57:09.719733+00:00,48805475,15,"Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",37,14
+2026-07-12T22:57:09.719733+00:00,48883415,16,The One-Step Trap (In AI Research),37,7
+2026-07-12T22:57:09.719733+00:00,48882956,17,Against Usefulness,69,17
+2026-07-12T22:57:09.719733+00:00,48884647,18,The State of MCP Security [pdf],13,1
+2026-07-12T22:57:09.719733+00:00,48822234,19,Deir El-Medina Strikes,53,12
+2026-07-12T22:57:09.719733+00:00,48884618,20,Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels,10,0
+2026-07-12T22:57:09.719733+00:00,48881830,21,Don't you mean extinct?,170,97
+2026-07-12T22:57:09.719733+00:00,48882056,22,How to read more books,228,128
+2026-07-12T22:57:09.719733+00:00,48884815,23,"Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",14,0
+2026-07-12T22:57:09.719733+00:00,48884663,24,Show HN: Zen Mode – a global focus mode for macOS,10,3
+2026-07-12T22:57:09.719733+00:00,48881874,25,The shingles vaccine may reduce the risk of dementia,194,172
+2026-07-12T22:57:09.719733+00:00,48845321,26,The Seed Beneath the Snow,13,1
+2026-07-12T22:57:09.719733+00:00,48882097,27,Why study Diophantine equations?,59,21
+2026-07-12T22:57:09.719733+00:00,48879504,28,Ghostel.el: Terminal emulator powered by libghostty,257,49
+2026-07-12T22:57:09.719733+00:00,48884052,29,Neocities: Create your own free website,71,22
+2026-07-12T22:57:09.719733+00:00,48882562,30,"Show HN: Shirei, cross-platform GUI framework in native Go",73,40
+2026-07-12T22:57:09.719733+00:00,48854168,31,"Vint Cerf, “father of the Internet”, is retiring",273,155
+2026-07-12T22:57:09.719733+00:00,48877371,32,What xAI's Grok build CLI sends to xAI: A wire-level analysis,391,153
+2026-07-12T22:57:09.719733+00:00,48884100,33,Defining new Jax types with hijax,11,2
+2026-07-12T22:57:09.719733+00:00,48880499,34,Understanding the Odin programming language,143,82
+2026-07-12T22:57:09.719733+00:00,48882034,35,Croc: Securely transfer files and folders between two computers,34,17
+2026-07-12T22:57:09.719733+00:00,48879902,36,Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media,100,120
+2026-07-12T22:57:09.719733+00:00,48884775,37,Storm clouds gather over America's financial supremacy,47,9
+2026-07-12T22:57:09.719733+00:00,48794665,38,Morphometrics: Introduction to the Analysis of Shape,23,0
+2026-07-12T22:57:09.719733+00:00,48880406,39,Unauthenticated RCE in Motorola's MR2600 Router,74,25
+2026-07-12T22:57:09.719733+00:00,48881043,40,AI boosts research careers but narrow the span of ideas explored: study,135,100
+2026-07-12T22:57:09.719733+00:00,48816858,41,Abject Praise,15,14
+2026-07-12T22:57:09.719733+00:00,48881498,42,"Autoresearch, Claude and Constrained Optimization",27,4
+2026-07-12T22:57:09.719733+00:00,48883956,43,Cardspark_UI – React UI for TCG Builders,6,0
+2026-07-12T22:57:09.719733+00:00,48884916,44,Uber is lobbying to keep robotaxi rides 85% human in New Jersey,10,0
+2026-07-12T22:57:09.719733+00:00,48878682,45,Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase,145,62
+2026-07-12T22:57:09.719733+00:00,48823803,46,Satteri: A Markdown pipeline forged in Rust for the JavaScript world,43,6
+2026-07-12T22:57:09.719733+00:00,48884694,47,UK has 'no future' if it fails to act on ecosystem collapse,20,1
+2026-07-12T22:57:09.719733+00:00,48809916,48,Ditching Zotero for a Text File,59,30
+2026-07-12T22:57:09.719733+00:00,48827058,49,"Protobuf-py: Protobuf for Python, without compromises",128,45
+2026-07-12T22:57:09.719733+00:00,48805857,50,"Show HN: Nectar, a Rust-like React that compiles to WebAssembly",26,11
