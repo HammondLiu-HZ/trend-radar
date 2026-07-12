@@ -12485,3 +12485,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-12T04:30:26.796366+00:00,48876159,48,Evilcharts,8,0
 2026-07-12T04:30:26.796366+00:00,48877008,49,"The Future of Digital Money: The Race Between Tortoise, Hare and Rhino",6,0
 2026-07-12T04:30:26.796366+00:00,48842459,50,Show HN: Getting GLM 5.2 running on my slow computer,896,230
+2026-07-12T07:32:25.717976+00:00,48876505,1,Mesh LLM: distributed AI computing on iroh,201,46
+2026-07-12T07:32:25.717976+00:00,48854168,2,The 'Father of the Internet' is finally retiring,18,4
+2026-07-12T07:32:25.717976+00:00,48875377,3,Show HN: Ant – A JavaScript runtime and ecosystem,245,104
+2026-07-12T07:32:25.717976+00:00,48831384,4,Text art tools,17,3
+2026-07-12T07:32:25.717976+00:00,48876245,5,"RISCBoy is an open-source portable games console, designed from scratch",121,17
+2026-07-12T07:32:25.717976+00:00,48823981,6,An agent in 100 lines of Lisp,119,13
+2026-07-12T07:32:25.717976+00:00,48846177,7,I Did Not Kill Stanley Lieber: How to Draw (With 9front),58,15
+2026-07-12T07:32:25.717976+00:00,48873836,8,"Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",231,77
+2026-07-12T07:32:25.717976+00:00,48785102,9,EF Core 11 makes your split queries faster,23,1
+2026-07-12T07:32:25.717976+00:00,48878682,10,Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase,3,0
+2026-07-12T07:32:25.717976+00:00,48878126,11,"Under federal rule, colleges must leave grads better off or lose financial aid",55,81
+2026-07-12T07:32:25.717976+00:00,48873457,12,UPI: Anatomy of a Payment Transaction,160,63
+2026-07-12T07:32:25.717976+00:00,48872874,13,We scaled PgBouncer to 4x throughput,201,41
+2026-07-12T07:32:25.717976+00:00,48877613,14,The Energetic Costs of Cellular Computation (2012),17,1
+2026-07-12T07:32:25.717976+00:00,48840152,15,Jellyfish Undersea Roundabout,27,2
+2026-07-12T07:32:25.717976+00:00,48877668,16,Unexpected Solidlike Fracture in Simple Liquids,85,42
+2026-07-12T07:32:25.717976+00:00,48849744,17,Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts,83,12
+2026-07-12T07:32:25.717976+00:00,48876619,18,Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio,45,21
+2026-07-12T07:32:25.717976+00:00,48872858,19,The early History of the Singular Value Decomposition (1993) [pdf],111,62
+2026-07-12T07:32:25.717976+00:00,48877314,20,A pure scheme web programming tool,81,20
+2026-07-12T07:32:25.717976+00:00,48877344,21,A Erlang style pure Scheme Webserver and further,58,5
+2026-07-12T07:32:25.717976+00:00,48873940,22,Prefer strict tables in SQLite,265,129
+2026-07-12T07:32:25.717976+00:00,48820361,23,Biff.graph: structure your Clojure codebase as a queryable graph,127,13
+2026-07-12T07:32:25.717976+00:00,48877269,24,A dock that wakes up reliably,64,41
+2026-07-12T07:32:25.717976+00:00,48830664,25,Optimization Solver as a Service,33,24
+2026-07-12T07:32:25.717976+00:00,48876741,26,How Doctors die. It’s not like the rest of us (2016),134,74
+2026-07-12T07:32:25.717976+00:00,48871973,27,"Show HN: Learn by rebuilding Redis, Git, a database from scratch",157,43
+2026-07-12T07:32:25.717976+00:00,48878195,28,Why Write Code in 2026,39,15
+2026-07-12T07:32:25.717976+00:00,48877178,29,"Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",70,19
+2026-07-12T07:32:25.717976+00:00,48822441,30,Amber the programming language compiled to Bash/Ksh/Zsh,71,56
+2026-07-12T07:32:25.717976+00:00,48873501,31,"Show HN: Orbit – AR satellite tracker, watch 15k+ objects",72,19
+2026-07-12T07:32:25.717976+00:00,48875342,32,Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL,29,5
+2026-07-12T07:32:25.717976+00:00,48877214,34,Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid,27,1
+2026-07-12T07:32:25.717976+00:00,48873417,35,Show HN: Reame – a CPU inference server that gets faster as it runs,49,13
+2026-07-12T07:32:25.717976+00:00,48841348,36,Book: RISC-V System-on-Chip Design,118,56
+2026-07-12T07:32:25.717976+00:00,48873692,37,Female US rower completes historic solo journey from California to Hawaii,288,97
+2026-07-12T07:32:25.717976+00:00,48876843,38,"Using PowerShell over SSH, Twenty Years Later",11,4
+2026-07-12T07:32:25.717976+00:00,48876506,39,"G#: A modern .NET language with Go, Kotlin, and Swift ergonomics",16,2
+2026-07-12T07:32:25.717976+00:00,48877371,40,What xAI's Grok Build CLI Actually Sends to xAI,252,119
+2026-07-12T07:32:25.717976+00:00,48874297,41,ZeroFS vs. Amazon S3 Files,76,17
+2026-07-12T07:32:25.717976+00:00,48875678,42,"I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)",15,0
+2026-07-12T07:32:25.717976+00:00,48878666,43,Vinod Khosla to Buy Seattle Seahawks for $9.6B,16,5
+2026-07-12T07:32:25.717976+00:00,48830556,44,Otary – Image and Geometry Python Library Now Has Tutorials,92,2
+2026-07-12T07:32:25.717976+00:00,48842459,45,Show HN: Getting GLM 5.2 running on my slow computer,898,230
+2026-07-12T07:32:25.717976+00:00,48830191,46,"Digital Deli, 1984 book by early PC hackers and enthusiasts",64,7
+2026-07-12T07:32:25.717976+00:00,48873486,47,Show HN: Earth Game – An offline CLI for turning life goals into quests,38,10
+2026-07-12T07:32:25.717976+00:00,48844476,48,How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL,9,1
+2026-07-12T07:32:25.717976+00:00,48874357,49,How to hide from killer drones,119,157
+2026-07-12T07:32:25.717976+00:00,48799624,50,Lost and Found,56,14
