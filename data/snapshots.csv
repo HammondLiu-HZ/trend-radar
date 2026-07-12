@@ -12534,3 +12534,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-12T07:32:25.717976+00:00,48844476,48,How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL,9,1
 2026-07-12T07:32:25.717976+00:00,48874357,49,How to hide from killer drones,119,157
 2026-07-12T07:32:25.717976+00:00,48799624,50,Lost and Found,56,14
+2026-07-12T09:58:52.950049+00:00,48878682,1,Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase,50,18
+2026-07-12T09:58:52.950049+00:00,48876505,2,Mesh LLM: distributed AI computing on iroh,257,58
+2026-07-12T09:58:52.950049+00:00,48854168,3,"Vint Cerf, a “father of the Internet”, is retiring",65,42
+2026-07-12T09:58:52.950049+00:00,48827058,4,"Protobuf-py: Protobuf for Python, without compromises",44,6
+2026-07-12T09:58:52.950049+00:00,48875377,5,Show HN: Ant – A JavaScript runtime and ecosystem,269,115
+2026-07-12T09:58:52.950049+00:00,48823981,6,An agent in 100 lines of Lisp,150,28
+2026-07-12T09:58:52.950049+00:00,48831384,7,Text art tools,38,14
+2026-07-12T09:58:52.950049+00:00,48873836,8,"Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",262,100
+2026-07-12T09:58:52.950049+00:00,48876245,9,"RISCBoy is an open-source portable games console, designed from scratch",139,21
+2026-07-12T09:58:52.950049+00:00,48846177,10,I Did Not Kill Stanley Lieber: How to Draw (With 9front),68,21
+2026-07-12T09:58:52.950049+00:00,48785102,11,EF Core 11 makes your split queries faster,41,12
+2026-07-12T09:58:52.950049+00:00,48840152,12,Jellyfish Undersea Roundabout,47,10
+2026-07-12T09:58:52.950049+00:00,48830860,13,Handsum: An LQIP Image File Format,7,0
+2026-07-12T09:58:52.950049+00:00,48873457,14,UPI: Anatomy of a Payment Transaction,187,79
+2026-07-12T09:58:52.950049+00:00,48873424,15,Modern decor may be straining people's brains,191,195
+2026-07-12T09:58:52.950049+00:00,48872874,16,We scaled PgBouncer to 4x throughput,210,50
+2026-07-12T09:58:52.950049+00:00,48849744,17,Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts,98,15
+2026-07-12T09:58:52.950049+00:00,48878126,18,"Under federal rule, colleges must leave grads better off or lose financial aid",91,143
+2026-07-12T09:58:52.950049+00:00,48877613,19,The Energetic Costs of Cellular Computation (2012),24,3
+2026-07-12T09:58:52.950049+00:00,48822187,20,Sixteen Failed Attempts to Write a Eulogy for My Father (2024),4,0
+2026-07-12T09:58:52.950049+00:00,48872858,21,The early History of the Singular Value Decomposition (1993) [pdf],120,64
+2026-07-12T09:58:52.950049+00:00,48830664,22,Optimization Solver as a Service,44,32
+2026-07-12T09:58:52.950049+00:00,48877668,23,Unexpected Solidlike Fracture in Simple Liquids,93,45
+2026-07-12T09:58:52.950049+00:00,48873940,24,Prefer strict tables in SQLite,290,136
+2026-07-12T09:58:52.950049+00:00,48877269,25,A dock that wakes up reliably,78,47
+2026-07-12T09:58:52.950049+00:00,48820361,26,Biff.graph: structure your Clojure codebase as a queryable graph,132,16
+2026-07-12T09:58:52.950049+00:00,48877214,27,Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid,55,1
+2026-07-12T09:58:52.950049+00:00,48871973,28,"Show HN: Learn by rebuilding Redis, Git, a database from scratch",173,50
+2026-07-12T09:58:52.950049+00:00,48876741,29,How Doctors die. It’s not like the rest of us (2016),179,102
+2026-07-12T09:58:52.950049+00:00,48878195,30,Why Write Code in 2026,54,38
+2026-07-12T09:58:52.950049+00:00,48822441,31,Amber the programming language compiled to Bash/Ksh/Zsh,80,60
+2026-07-12T09:58:52.950049+00:00,48876619,32,Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio,58,24
+2026-07-12T09:58:52.950049+00:00,48841348,34,Book: RISC-V System-on-Chip Design,124,56
+2026-07-12T09:58:52.950049+00:00,48877178,35,"Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",82,24
+2026-07-12T09:58:52.950049+00:00,48873501,36,"Show HN: Orbit – AR satellite tracker, watch 15k+ objects",77,19
+2026-07-12T09:58:52.950049+00:00,48875342,37,Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL,31,6
+2026-07-12T09:58:52.950049+00:00,48873417,38,Show HN: Reame – a CPU inference server that gets faster as it runs,50,13
+2026-07-12T09:58:52.950049+00:00,48877314,39,A pure scheme web programming tool,94,22
+2026-07-12T09:58:52.950049+00:00,48876506,40,"G#: A modern .NET language with Go, Kotlin, and Swift ergonomics",22,6
+2026-07-12T09:58:52.950049+00:00,48873692,41,Female US rower completes historic solo journey from California to Hawaii,296,100
+2026-07-12T09:58:52.950049+00:00,48876843,42,"Using PowerShell over SSH, Twenty Years Later",14,4
+2026-07-12T09:58:52.950049+00:00,48875678,43,"I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)",21,0
+2026-07-12T09:58:52.950049+00:00,48842459,44,Show HN: Getting GLM 5.2 running on my slow computer,899,230
+2026-07-12T09:58:52.950049+00:00,48874297,45,ZeroFS vs. Amazon S3 Files,77,18
+2026-07-12T09:58:52.950049+00:00,48879495,46,Growing list of countries move to ban social media for children,7,3
+2026-07-12T09:58:52.950049+00:00,48830556,47,Otary – Image and Geometry Python Library Now Has Tutorials,92,2
+2026-07-12T09:58:52.950049+00:00,48873486,48,Show HN: Earth Game – An offline CLI for turning life goals into quests,42,10
+2026-07-12T09:58:52.950049+00:00,48877371,49,What xAI's Grok Build CLI Actually Sends to xAI,277,130
+2026-07-12T09:58:52.950049+00:00,48830191,50,"Digital Deli, 1984 book by early PC hackers and enthusiasts",65,7
