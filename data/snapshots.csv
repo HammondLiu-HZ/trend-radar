@@ -12387,3 +12387,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-11T22:01:02.632992+00:00,48859673,48,"After 7 years in production, Scarf has reluctantly moved away from Haskell",215,263
 2026-07-11T22:01:02.632992+00:00,48862365,49,The tech of 'Terminator 2' – an oral history (2017),253,90
 2026-07-11T22:01:02.632992+00:00,48842459,50,Show HN: Getting GLM 5.2 running on my slow computer,889,229
+2026-07-12T00:02:18.643505+00:00,48876441,1,Stop Telling Me to Ask an LLM,109,60
+2026-07-12T00:02:18.643505+00:00,48876593,2,"Weightlifting beats running for blood sugar control, researchers find",59,30
+2026-07-12T00:02:18.643505+00:00,48875377,3,Show HN: Ant – A JavaScript runtime and ecosystem,155,67
+2026-07-12T00:02:18.643505+00:00,48876505,4,Mesh LLM: distributed AI computing on iroh,26,10
+2026-07-12T00:02:18.643505+00:00,48876245,5,"RISCBoy is an open-source portable games console, designed from scratch",23,4
+2026-07-12T00:02:18.643505+00:00,48873836,6,"Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",130,45
+2026-07-12T00:02:18.643505+00:00,48872874,7,We scaled PgBouncer to 4x throughput,167,28
+2026-07-12T00:02:18.643505+00:00,48849744,8,Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts,28,2
+2026-07-12T00:02:18.643505+00:00,48873457,9,UPI: Anatomy of a Payment Transaction,81,26
+2026-07-12T00:02:18.643505+00:00,48873940,10,Prefer strict tables in SQLite,201,90
+2026-07-12T00:02:18.643505+00:00,48872858,11,The early History of the Singular Value Decomposition (1993) [pdf],85,48
+2026-07-12T00:02:18.643505+00:00,48874297,12,ZeroFS vs. Amazon S3 Files,43,11
+2026-07-12T00:02:18.643505+00:00,48820361,13,Biff.graph: structure your Clojure codebase as a queryable graph,75,2
+2026-07-12T00:02:18.643505+00:00,48876741,14,"Doctors die. It's not like the rest of us, but it should be (2016)",14,3
+2026-07-12T00:02:18.643505+00:00,48871973,15,"Show HN: Learn by rebuilding Redis, Git, a database from scratch",109,34
+2026-07-12T00:02:18.643505+00:00,48873501,16,"Show HN: Orbit – AR satellite tracker, watch 15k+ objects",51,15
+2026-07-12T00:02:18.643505+00:00,48873692,17,Female US rower completes historic solo journey from California to Hawaii,228,80
+2026-07-12T00:02:18.643505+00:00,48830664,19,Optimization Solver as a Service,6,3
+2026-07-12T00:02:18.643505+00:00,48874357,20,How to hide from killer drones,91,121
+2026-07-12T00:02:18.643505+00:00,48873486,21,Show HN: Earth Game – An offline CLI for turning life goals into quests,29,6
+2026-07-12T00:02:18.643505+00:00,48799624,22,Lost and Found,49,14
+2026-07-12T00:02:18.643505+00:00,48873417,23,Show HN: Reame – a CPU inference server that gets faster as it runs,33,10
+2026-07-12T00:02:18.643505+00:00,48841348,24,Book: RISC-V System-on-Chip Design,100,46
+2026-07-12T00:02:18.643505+00:00,48825612,25,Google Search lets creators know more about their reach,94,44
+2026-07-12T00:02:18.643505+00:00,48875153,26,The Chinese Voice Actor Forced to Prove He's Human,56,7
+2026-07-12T00:02:18.643505+00:00,48830191,27,"Digital Deli, 1984 book by early PC hackers and enthusiasts",50,6
+2026-07-12T00:02:18.643505+00:00,48822441,28,Amber the programming language compiled to Bash/Ksh/Zsh,68,49
+2026-07-12T00:02:18.643505+00:00,48873855,29,Reverse centaurs are the answer to the AI paradox (2025),86,47
+2026-07-12T00:02:18.643505+00:00,48830556,30,Otary – Image and Geometry Python Library Now Has Tutorials,91,1
+2026-07-12T00:02:18.643505+00:00,48865903,31,AI Can't Recreate the Thrust Game (But It Can Help You Understand It),49,28
+2026-07-12T00:02:18.643505+00:00,48832274,32,Taiwan's Lost 8-Bit Computer [video],20,2
+2026-07-12T00:02:18.643505+00:00,48817539,33,An iroh powered smart fan,161,54
+2026-07-12T00:02:18.643505+00:00,48874200,34,AI 2040 and the cult of intelligence,171,206
+2026-07-12T00:02:18.643505+00:00,48870381,35,Ghost Font: A font that humans can read but AI cannot,190,137
+2026-07-12T00:02:18.643505+00:00,48873893,36,Leaded gas was a known poison the day it was invented (2016),167,110
+2026-07-12T00:02:18.643505+00:00,48875342,37,Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL,3,0
+2026-07-12T00:02:18.643505+00:00,48873424,38,Modern decor may be straining people's brains,163,182
+2026-07-12T00:02:18.643505+00:00,48842459,39,Show HN: Getting GLM 5.2 running on my slow computer,890,229
+2026-07-12T00:02:18.643505+00:00,48798566,40,The mask that compiles to nothing: how HotSpots JIT learned to reason about bits,73,8
+2026-07-12T00:02:18.643505+00:00,48866134,41,"Einstein's relativity rules chemical bonds in heavy elements, new research shows",381,168
+2026-07-12T00:02:18.643505+00:00,48859673,42,"After 7 years in production, Scarf has reluctantly moved away from Haskell",219,265
+2026-07-12T00:02:18.643505+00:00,48861717,43,QuadRF can spot drones and see WiFi through my wall,725,228
+2026-07-12T00:02:18.643505+00:00,48858737,44,Late Bronze Age Collapse,415,299
+2026-07-12T00:02:18.643505+00:00,48862252,45,Snails' teeth beats spider silk as nature's strongest material (2015),229,166
+2026-07-12T00:02:18.643505+00:00,48862365,46,The tech of 'Terminator 2' – an oral history (2017),253,90
+2026-07-12T00:02:18.643505+00:00,48873910,47,BLISS,42,8
+2026-07-12T00:02:18.643505+00:00,48871932,48,Speculations Concerning the First Ultraintelligent Machine (1965) [pdf],88,45
+2026-07-12T00:02:18.643505+00:00,48874046,49,Ask HN: Why isn't Google indexing information about the AT Protocol?,41,27
+2026-07-12T00:02:18.643505+00:00,48810543,50,Alternate clock designs and time systems,196,112
