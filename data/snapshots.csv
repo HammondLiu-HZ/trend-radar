@@ -12632,3 +12632,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-12T11:20:49.487243+00:00,48873486,48,Show HN: Earth Game – An offline CLI for turning life goals into quests,44,10
 2026-07-12T11:20:49.487243+00:00,48870799,49,Your code is fast if you're lucky,129,83
 2026-07-12T11:20:49.487243+00:00,48830191,50,"Digital Deli, 1984 book by early PC hackers and enthusiasts",65,7
+2026-07-12T13:44:55.296562+00:00,48880170,1,"Old and new apps, via modern coding agents by Terry Tao",121,29
+2026-07-12T13:44:55.296562+00:00,48880384,2,Yt-Dlp Sequence Diagrams,51,9
+2026-07-12T13:44:55.296562+00:00,48880499,3,Understanding the Odin Programming Language,27,0
+2026-07-12T13:44:55.296562+00:00,48879504,4,Ghostel.el: Terminal emulator powered by libghostty,76,4
+2026-07-12T13:44:55.296562+00:00,48854168,5,"Vint Cerf, a “father of the Internet”, is retiring",167,98
+2026-07-12T13:44:55.296562+00:00,48878682,6,Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase,102,46
+2026-07-12T13:44:55.296562+00:00,48876505,7,Mesh LLM: distributed AI computing on iroh,290,67
+2026-07-12T13:44:55.296562+00:00,48827058,8,"Protobuf-py: Protobuf for Python, without compromises",84,18
+2026-07-12T13:44:55.296562+00:00,48813702,9,Xbox 'OG' Adventures,23,2
+2026-07-12T13:44:55.296562+00:00,48880406,10,Unauthenticated RCE in Motorola's MR2600 Router,9,0
+2026-07-12T13:44:55.296562+00:00,48873836,11,"Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",303,121
+2026-07-12T13:44:55.296562+00:00,48830860,12,Handsum: An LQIP Image File Format,32,2
+2026-07-12T13:44:55.296562+00:00,48809916,13,Ditching Zotero for a Text File,12,7
+2026-07-12T13:44:55.296562+00:00,48823981,14,An agent in 100 lines of Lisp,183,51
+2026-07-12T13:44:55.296562+00:00,48876245,15,"RISCBoy is an open-source portable games console, designed from scratch",169,23
+2026-07-12T13:44:55.296562+00:00,48875377,16,Show HN: Ant – A JavaScript runtime and ecosystem,295,132
+2026-07-12T13:44:55.296562+00:00,48838027,17,Lessons from the Vasa Shipwreck,3,1
+2026-07-12T13:44:55.296562+00:00,48829697,18,Fibonacci's Real Mathematical Legacy,17,5
+2026-07-12T13:44:55.296562+00:00,48846177,19,I Did Not Kill Stanley Lieber: How to Draw (With 9front),86,29
+2026-07-12T13:44:55.296562+00:00,48831384,20,Text art tools,68,19
+2026-07-12T13:44:55.296562+00:00,48880987,21,Making Crash Bandicoot (2011),6,0
+2026-07-12T13:44:55.296562+00:00,48785102,22,EF Core 11 makes your split queries faster,53,25
+2026-07-12T13:44:55.296562+00:00,48879950,23,Datacentres drive up big tech's carbon emissions to a third of those of France,51,55
+2026-07-12T13:44:55.296562+00:00,48873457,24,UPI: Anatomy of a Payment Transaction,214,98
+2026-07-12T13:44:55.296562+00:00,48849744,25,Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts,114,19
+2026-07-12T13:44:55.296562+00:00,48872874,26,We scaled PgBouncer to 4x throughput,226,53
+2026-07-12T13:44:55.296562+00:00,48873424,27,Modern decor may be straining people's brains,225,225
+2026-07-12T13:44:55.296562+00:00,48840152,28,Jellyfish Undersea Roundabout,61,22
+2026-07-12T13:44:55.296562+00:00,48872858,29,The early History of the Singular Value Decomposition (1993) [pdf],132,69
+2026-07-12T13:44:55.296562+00:00,48878126,30,"Under federal rule, colleges must leave grads better off or lose financial aid",135,292
+2026-07-12T13:44:55.296562+00:00,48873940,31,Prefer strict tables in SQLite,316,161
+2026-07-12T13:44:55.296562+00:00,48877214,32,Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid,103,20
+2026-07-12T13:44:55.296562+00:00,48877269,33,A dock that wakes up reliably,94,58
+2026-07-12T13:44:55.296562+00:00,48820361,34,Biff.graph: structure your Clojure codebase as a queryable graph,143,16
+2026-07-12T13:44:55.296562+00:00,48871973,35,"Show HN: Learn by rebuilding Redis, Git, a database from scratch",182,58
+2026-07-12T13:44:55.296562+00:00,48877613,36,The Energetic Costs of Cellular Computation (2012),26,3
+2026-07-12T13:44:55.296562+00:00,48880209,37,Woman in Brazil enslaved for 55 years by 3 generations of the same family,109,124
+2026-07-12T13:44:55.296562+00:00,48880702,39,Atari ST Advertising – By Paul Lefebvre,4,0
+2026-07-12T13:44:55.296562+00:00,48830664,40,Optimization Solver as a Service,46,38
+2026-07-12T13:44:55.296562+00:00,48877668,41,Unexpected Solidlike Fracture in Simple Liquids,97,51
+2026-07-12T13:44:55.296562+00:00,48822441,42,Amber the programming language compiled to Bash/Ksh/Zsh,82,63
+2026-07-12T13:44:55.296562+00:00,48876741,43,How Doctors die. It’s not like the rest of us (2016),208,121
+2026-07-12T13:44:55.296562+00:00,48841348,44,Book: RISC-V System-on-Chip Design,127,61
+2026-07-12T13:44:55.296562+00:00,48873501,45,"Show HN: Orbit – AR satellite tracker, watch 15k+ objects",82,19
+2026-07-12T13:44:55.296562+00:00,48876506,46,"G#: A modern .NET language with Go, Kotlin, and Swift ergonomics",32,14
+2026-07-12T13:44:55.296562+00:00,48880564,47,"Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",3,0
+2026-07-12T13:44:55.296562+00:00,48842459,48,Show HN: Getting GLM 5.2 running on my slow computer,902,231
+2026-07-12T13:44:55.296562+00:00,48875342,49,Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL,36,6
+2026-07-12T13:44:55.296562+00:00,48874297,50,ZeroFS vs. Amazon S3 Files,85,24
