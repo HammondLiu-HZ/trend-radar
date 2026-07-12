@@ -12829,3 +12829,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-12T19:16:31.767974+00:00,48882760,48,An orbiting disco ball gave Einstein's theory its most precise test yet,8,0
 2026-07-12T19:16:31.767974+00:00,48873424,49,Modern decor may be straining people's brains,258,252
 2026-07-12T19:16:31.767974+00:00,48785102,50,EF Core 11 makes your split queries faster,68,37
+2026-07-12T21:02:32.018586+00:00,48884395,1,Tiny Emulators,39,0
+2026-07-12T21:02:32.018586+00:00,48883275,2,Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k,269,140
+2026-07-12T21:02:32.018586+00:00,48883343,3,"I love LLMs, I hate hype",187,97
+2026-07-12T21:02:32.018586+00:00,48880170,4,"Old and new apps, via modern coding agents",375,104
+2026-07-12T21:02:32.018586+00:00,48883238,5,I Learned to Read Again,37,8
+2026-07-12T21:02:32.018586+00:00,48882956,6,Against Usefulness,56,13
+2026-07-12T21:02:32.018586+00:00,48883415,7,The One-Step Trap (In AI Research),25,3
+2026-07-12T21:02:32.018586+00:00,48861923,8,Why write code in 2026,54,102
+2026-07-12T21:02:32.018586+00:00,48882569,9,LARP – Revenue infrastructure for serious founders,79,16
+2026-07-12T21:02:32.018586+00:00,48882554,10,Automation Without Understanding,67,33
+2026-07-12T21:02:32.018586+00:00,48882716,11,"Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",41,7
+2026-07-12T21:02:32.018586+00:00,48884322,12,Irish datacenters now guzzle 23% of the country's electricity,31,20
+2026-07-12T21:02:32.018586+00:00,48881830,13,Don't you mean extinct?,153,83
+2026-07-12T21:02:32.018586+00:00,48884100,14,Defining new Jax types with hijax,7,0
+2026-07-12T21:02:32.018586+00:00,48884052,15,Neocities: Create your own free website,46,7
+2026-07-12T21:02:32.018586+00:00,48805857,16,"Show HN: Nectar, a Rust-like React that compiles to WebAssembly",21,8
+2026-07-12T21:02:32.018586+00:00,48881874,17,The shingles vaccine may reduce the risk of dementia,169,125
+2026-07-12T21:02:32.018586+00:00,48822234,18,Deir El-Medina Strikes,32,4
+2026-07-12T21:02:32.018586+00:00,48882056,19,How to read more books,203,117
+2026-07-12T21:02:32.018586+00:00,48882097,20,Why study Diophantine equations?,53,17
+2026-07-12T21:02:32.018586+00:00,48883090,21,Can We Understand How Large Language Models Reason?,50,48
+2026-07-12T21:02:32.018586+00:00,48881967,22,The power of collaboration: How we can reduce traffic congestion,41,33
+2026-07-12T21:02:32.018586+00:00,48879504,23,Ghostel.el: Terminal emulator powered by libghostty,246,43
+2026-07-12T21:02:32.018586+00:00,48880499,24,Understanding the Odin programming language,132,73
+2026-07-12T21:02:32.018586+00:00,48845321,25,The Seed Beneath the Snow,4,0
+2026-07-12T21:02:32.018586+00:00,48882562,26,"Show HN: Shirei, cross-platform GUI framework in native Go",66,36
+2026-07-12T21:02:32.018586+00:00,48854168,27,"Vint Cerf, “father of the Internet”, is retiring",264,152
+2026-07-12T21:02:32.018586+00:00,48877371,28,What xAI's Grok build CLI sends to xAI: A wire-level analysis,377,150
+2026-07-12T21:02:32.018586+00:00,48882189,29,"Theo de Raadt: ""You've been smoking something mind altering"" (2007)",68,58
+2026-07-12T21:02:32.018586+00:00,48882034,30,Croc: Securely transfer files and folders between two computers,25,12
+2026-07-12T21:02:32.018586+00:00,48879902,31,Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media,88,100
+2026-07-12T21:02:32.018586+00:00,48883956,32,Cardspark_UI – React UI for TCG Builders,3,0
+2026-07-12T21:02:32.018586+00:00,48881043,33,AI boosts research careers but narrow the span of ideas explored: study,130,95
+2026-07-12T21:02:32.018586+00:00,48880406,34,Unauthenticated RCE in Motorola's MR2600 Router,73,25
+2026-07-12T21:02:32.018586+00:00,48794665,35,Morphometrics: Introduction to the Analysis of Shape,20,0
+2026-07-12T21:02:32.018586+00:00,48884204,36,Let's talk about: LinkedIn ghost jobs,7,1
+2026-07-12T21:02:32.018586+00:00,48881498,37,"Autoresearch, Claude and Constrained Optimization",25,4
+2026-07-12T21:02:32.018586+00:00,48816858,38,Abject Praise,13,13
+2026-07-12T21:02:32.018586+00:00,48884557,39,"""Stop Cutting Down Flock Cameras "" (Mass Surveillance Is Good) [video]",12,1
+2026-07-12T21:02:32.018586+00:00,48823803,40,Satteri: A Markdown pipeline forged in Rust for the JavaScript world,40,5
+2026-07-12T21:02:32.018586+00:00,48878682,41,Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase,141,61
+2026-07-12T21:02:32.018586+00:00,48809916,42,Ditching Zotero for a Text File,54,29
+2026-07-12T21:02:32.018586+00:00,48883488,44,6 months to live for open models,17,0
+2026-07-12T21:02:32.018586+00:00,48827058,45,"Protobuf-py: Protobuf for Python, without compromises",125,43
+2026-07-12T21:02:32.018586+00:00,48838027,46,Lessons from the Vasa Shipwreck,27,30
+2026-07-12T21:02:32.018586+00:00,48823981,47,An agent in 100 lines of Lisp,231,71
+2026-07-12T21:02:32.018586+00:00,48884238,48,SpaceX built to separate retail investors from their money,9,2
+2026-07-12T21:02:32.018586+00:00,48881352,49,Show HN: Kurvengefahr – browser CAD/CAM for pen plotters,12,4
+2026-07-12T21:02:32.018586+00:00,48882730,50,Fable extended until 19 July,63,27
