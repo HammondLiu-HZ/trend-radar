@@ -12779,3 +12779,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-12T17:09:17.786213+00:00,48880987,48,Making Crash Bandicoot (2011),30,1
 2026-07-12T17:09:17.786213+00:00,48872858,49,The early History of the Singular Value Decomposition (1993) [pdf],137,75
 2026-07-12T17:09:17.786213+00:00,48880384,50,Yt-Dlp Sequence Diagrams,97,29
+2026-07-12T19:16:31.767974+00:00,48883275,1,Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k,85,33
+2026-07-12T19:16:31.767974+00:00,48881874,2,The shingles vaccine may reduce the risk of dementia,114,92
+2026-07-12T19:16:31.767974+00:00,48883343,3,"I love LLMs, I hate hype",14,0
+2026-07-12T19:16:31.767974+00:00,48880170,4,"Old and new apps, via modern coding agents",350,98
+2026-07-12T19:16:31.767974+00:00,48881830,5,Don't you mean extinct?,119,51
+2026-07-12T19:16:31.767974+00:00,48882554,6,Automation Without Understanding,37,22
+2026-07-12T19:16:31.767974+00:00,48861923,7,Why write code in 2026,17,67
+2026-07-12T19:16:31.767974+00:00,48883090,8,Can We Understand How Large Language Models Reason?,13,4
+2026-07-12T19:16:31.767974+00:00,48882562,9,"Show HN: Shirei, cross-platform GUI framework in native Go",45,25
+2026-07-12T19:16:31.767974+00:00,48882569,10,LARP – Revenue infrastructure for serious founders,32,5
+2026-07-12T19:16:31.767974+00:00,48882956,11,Against Usefulness,27,4
+2026-07-12T19:16:31.767974+00:00,48882097,12,Why study Diophantine equations?,42,12
+2026-07-12T19:16:31.767974+00:00,48880499,13,Understanding the Odin Programming Language,121,61
+2026-07-12T19:16:31.767974+00:00,48882189,14,"Theo de Raadt: ""You've been smoking something mind altering"" (2007)",47,37
+2026-07-12T19:16:31.767974+00:00,48879504,15,Ghostel.el: Terminal emulator powered by libghostty,224,36
+2026-07-12T19:16:31.767974+00:00,48882056,16,How to Read More Books,163,90
+2026-07-12T19:16:31.767974+00:00,48881967,17,The power of collaboration: How we can reduce traffic congestion,33,21
+2026-07-12T19:16:31.767974+00:00,48854168,18,"Vint Cerf, “father of the Internet”, is retiring",254,137
+2026-07-12T19:16:31.767974+00:00,48877371,19,What xAI's Grok build CLI sends to xAI: A wire-level analysis,342,146
+2026-07-12T19:16:31.767974+00:00,48794665,20,Morphometrics: Introduction to the Analysis of Shape,17,0
+2026-07-12T19:16:31.767974+00:00,48822234,21,Deir El-Medina Strikes,5,1
+2026-07-12T19:16:31.767974+00:00,48881498,22,"Autoresearch, Claude and Constrained Optimization",20,4
+2026-07-12T19:16:31.767974+00:00,48880406,23,Unauthenticated RCE in Motorola's MR2600 Router,63,22
+2026-07-12T19:16:31.767974+00:00,48881043,24,AI boosts research careers but narrow the span of ideas explored: study,110,85
+2026-07-12T19:16:31.767974+00:00,48879902,25,Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media,54,60
+2026-07-12T19:16:31.767974+00:00,48816858,26,Abject Praise,10,5
+2026-07-12T19:16:31.767974+00:00,48876505,27,Mesh LLM: distributed AI computing on iroh,326,76
+2026-07-12T19:16:31.767974+00:00,48809916,28,Ditching Zotero for a Text File,50,29
+2026-07-12T19:16:31.767974+00:00,48823803,29,Satteri: A Markdown pipeline forged in Rust for the JavaScript world,37,5
+2026-07-12T19:16:31.767974+00:00,48878682,30,Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase,139,61
+2026-07-12T19:16:31.767974+00:00,48838027,31,Lessons from the Vasa Shipwreck,24,27
+2026-07-12T19:16:31.767974+00:00,48827058,32,"Protobuf-py: Protobuf for Python, without compromises",124,42
+2026-07-12T19:16:31.767974+00:00,48873836,33,"Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",354,154
+2026-07-12T19:16:31.767974+00:00,48881352,34,Show HN: Kurvengefahr – browser CAD/CAM for pen plotters,10,3
+2026-07-12T19:16:31.767974+00:00,48823981,35,An agent in 100 lines of Lisp,226,70
+2026-07-12T19:16:31.767974+00:00,48876245,36,"RISCBoy is an open-source portable games console, designed from scratch",196,31
+2026-07-12T19:16:31.767974+00:00,48882034,37,Croc: Securely transfer files and folders between two computers,10,1
+2026-07-12T19:16:31.767974+00:00,48882144,38,"TK, or the secret to effortless writing (2024)",32,18
+2026-07-12T19:16:31.767974+00:00,48881112,39,"Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",11,9
+2026-07-12T19:16:31.767974+00:00,48813702,40,Xbox 'OG' Adventures,39,7
+2026-07-12T19:16:31.767974+00:00,48882730,41,Fable extended until 19 July,38,17
+2026-07-12T19:16:31.767974+00:00,48830860,42,Handsum: An LQIP Image File Format,40,7
+2026-07-12T19:16:31.767974+00:00,48875377,43,Show HN: Ant – A JavaScript runtime and ecosystem,312,144
+2026-07-12T19:16:31.767974+00:00,48881393,44,Agent Harness Engineering,14,1
+2026-07-12T19:16:31.767974+00:00,48883488,45,6 months to live for open models,4,0
+2026-07-12T19:16:31.767974+00:00,48846177,46,I Did Not Kill Stanley Lieber: How to Draw (With 9front),103,39
+2026-07-12T19:16:31.767974+00:00,48882703,47,How Ukraine Built a War Fighting State,24,11
+2026-07-12T19:16:31.767974+00:00,48882760,48,An orbiting disco ball gave Einstein's theory its most precise test yet,8,0
+2026-07-12T19:16:31.767974+00:00,48873424,49,Modern decor may be straining people's brains,258,252
+2026-07-12T19:16:31.767974+00:00,48785102,50,EF Core 11 makes your split queries faster,68,37
