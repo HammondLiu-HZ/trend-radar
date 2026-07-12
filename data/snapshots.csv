@@ -12681,3 +12681,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-12T13:44:55.296562+00:00,48842459,48,Show HN: Getting GLM 5.2 running on my slow computer,902,231
 2026-07-12T13:44:55.296562+00:00,48875342,49,Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL,36,6
 2026-07-12T13:44:55.296562+00:00,48874297,50,ZeroFS vs. Amazon S3 Files,85,24
+2026-07-12T15:05:22.686733+00:00,48880170,1,"Old and new apps, via modern coding agents by Terry Tao",174,40
+2026-07-12T15:05:22.686733+00:00,48881043,2,AI Boosts Research Careers but Flattens Scientific Discovery,33,16
+2026-07-12T15:05:22.686733+00:00,48880499,3,Understanding the Odin Programming Language,51,15
+2026-07-12T15:05:22.686733+00:00,48880985,4,Gina Gallery of International Naive Art,9,0
+2026-07-12T15:05:22.686733+00:00,48880384,5,Yt-Dlp Sequence Diagrams,79,17
+2026-07-12T15:05:22.686733+00:00,48879504,6,Ghostel.el: Terminal emulator powered by libghostty,103,7
+2026-07-12T15:05:22.686733+00:00,48880406,7,Unauthenticated RCE in Motorola's MR2600 Router,33,9
+2026-07-12T15:05:22.686733+00:00,48854168,8,"Vint Cerf, a “father of the Internet”, is retiring",190,111
+2026-07-12T15:05:22.686733+00:00,48838027,9,Lessons from the Vasa Shipwreck,10,6
+2026-07-12T15:05:22.686733+00:00,48878682,10,Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase,113,47
+2026-07-12T15:05:22.686733+00:00,48876505,11,Mesh LLM: distributed AI computing on iroh,298,71
+2026-07-12T15:05:22.686733+00:00,48881009,12,"Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",13,3
+2026-07-12T15:05:22.686733+00:00,48827058,13,"Protobuf-py: Protobuf for Python, without compromises",103,28
+2026-07-12T15:05:22.686733+00:00,48809916,14,Ditching Zotero for a Text File,18,19
+2026-07-12T15:05:22.686733+00:00,48813702,15,Xbox 'OG' Adventures,29,3
+2026-07-12T15:05:22.686733+00:00,48873836,16,"Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",319,135
+2026-07-12T15:05:22.686733+00:00,48823981,17,An agent in 100 lines of Lisp,192,54
+2026-07-12T15:05:22.686733+00:00,48823803,18,Satteri: A Markdown pipeline forged in Rust for the JavaScript world,9,0
+2026-07-12T15:05:22.686733+00:00,48830860,19,Handsum: An LQIP Image File Format,35,4
+2026-07-12T15:05:22.686733+00:00,48876245,20,"RISCBoy is an open-source portable games console, designed from scratch",178,24
+2026-07-12T15:05:22.686733+00:00,48875377,21,Show HN: Ant – A JavaScript runtime and ecosystem,304,135
+2026-07-12T15:05:22.686733+00:00,48846177,22,I Did Not Kill Stanley Lieber: How to Draw (With 9front),92,32
+2026-07-12T15:05:22.686733+00:00,48880987,23,Making Crash Bandicoot (2011),22,1
+2026-07-12T15:05:22.686733+00:00,48880564,24,"Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",19,2
+2026-07-12T15:05:22.686733+00:00,48831384,25,Text art tools,76,19
+2026-07-12T15:05:22.686733+00:00,48785102,26,EF Core 11 makes your split queries faster,59,28
+2026-07-12T15:05:22.686733+00:00,48829697,27,Fibonacci's Real Mathematical Legacy,20,6
+2026-07-12T15:05:22.686733+00:00,48873457,28,UPI: Anatomy of a Payment Transaction,217,104
+2026-07-12T15:05:22.686733+00:00,48873424,29,Modern decor may be straining people's brains,242,231
+2026-07-12T15:05:22.686733+00:00,48840152,30,Jellyfish Undersea Roundabout,68,24
+2026-07-12T15:05:22.686733+00:00,48872874,31,We scaled PgBouncer to 4x throughput,228,54
+2026-07-12T15:05:22.686733+00:00,48849744,32,Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts,121,20
+2026-07-12T15:05:22.686733+00:00,48872858,33,The early History of the Singular Value Decomposition (1993) [pdf],135,74
+2026-07-12T15:05:22.686733+00:00,48878126,34,"Under federal rule, colleges must leave grads better off or lose financial aid",162,344
+2026-07-12T15:05:22.686733+00:00,48873940,35,Prefer strict tables in SQLite,319,162
+2026-07-12T15:05:22.686733+00:00,48877613,37,The Energetic Costs of Cellular Computation (2012),28,3
+2026-07-12T15:05:22.686733+00:00,48877214,38,Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid,108,27
+2026-07-12T15:05:22.686733+00:00,48820361,39,Biff.graph: structure your Clojure codebase as a queryable graph,145,16
+2026-07-12T15:05:22.686733+00:00,48871973,40,"Show HN: Learn by rebuilding Redis, Git, a database from scratch",183,60
+2026-07-12T15:05:22.686733+00:00,48877269,41,A dock that wakes up reliably,94,58
+2026-07-12T15:05:22.686733+00:00,48879902,42,Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media,30,30
+2026-07-12T15:05:22.686733+00:00,48830664,43,Optimization Solver as a Service,46,38
+2026-07-12T15:05:22.686733+00:00,48822441,44,Amber the programming language compiled to Bash/Ksh/Zsh,85,65
+2026-07-12T15:05:22.686733+00:00,48877668,45,Unexpected Solidlike Fracture in Simple Liquids,97,51
+2026-07-12T15:05:22.686733+00:00,48841348,46,Book: RISC-V System-on-Chip Design,130,64
+2026-07-12T15:05:22.686733+00:00,48876741,47,How Doctors die. It’s not like the rest of us (2016),216,124
+2026-07-12T15:05:22.686733+00:00,48873501,48,"Show HN: Orbit – AR satellite tracker, watch 15k+ objects",83,19
+2026-07-12T15:05:22.686733+00:00,48842459,49,Show HN: Getting GLM 5.2 running on my slow computer,904,231
+2026-07-12T15:05:22.686733+00:00,48879950,50,Datacentres drive up big tech's carbon emissions to a third of those of France,66,86
