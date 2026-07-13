@@ -13028,3 +13028,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-13T04:35:58.332106+00:00,48880406,48,Unauthenticated RCE in Motorola's MR2600 Router,78,25
 2026-07-13T04:35:58.332106+00:00,48886311,49,"MacKenzie Scott's giving, in quality-adjusted life years",57,28
 2026-07-13T04:35:58.332106+00:00,48878682,50,Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase,151,62
+2026-07-13T08:22:40.134089+00:00,48888518,1,Backtrack-Free Cursive,44,10
+2026-07-13T08:22:40.134089+00:00,48888193,2,Beavis Ultrasound PnP ISA Sound Card Replica,51,17
+2026-07-13T08:22:40.134089+00:00,48834309,3,"GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",251,96
+2026-07-13T08:22:40.134089+00:00,48828576,4,The social physics of conversation: Communication patterns matter,16,1
+2026-07-13T08:22:40.134089+00:00,48885643,5,"Cyberpunk Comics, Manga and Graphic Novels",175,48
+2026-07-13T08:22:40.134089+00:00,48884395,6,Tiny Emulators,238,17
+2026-07-13T08:22:40.134089+00:00,48827126,7,"So you want to learn physics (second edition, 2021)",205,33
+2026-07-13T08:22:40.134089+00:00,48885728,8,Designing and assembling my first PCB,104,39
+2026-07-13T08:22:40.134089+00:00,48886741,9,Ask HN: Add flag for AI-generated articles,590,278
+2026-07-13T08:22:40.134089+00:00,48859526,10,"Guy took Jupiter photo with Game Boy Camera, giant telescope, publishes tutorial",33,12
+2026-07-13T08:22:40.134089+00:00,48882056,11,How to read more books,338,178
+2026-07-13T08:22:40.134089+00:00,48849983,12,Are you telling me a readonly property is wrecking my performance?,29,13
+2026-07-13T08:22:40.134089+00:00,48844554,13,Converting colors in JavaScript at 6B operations per second,21,3
+2026-07-13T08:22:40.134089+00:00,48884984,14,Ask HN: What Are You Working On? (July 2026),141,455
+2026-07-13T08:22:40.134089+00:00,48831840,15,"First look at Quest, the final ship of Antarctic explorer Shackleton",30,2
+2026-07-13T08:22:40.134089+00:00,48882716,16,"Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",199,86
+2026-07-13T08:22:40.134089+00:00,48887753,17,Count Binface,254,144
+2026-07-13T08:22:40.134089+00:00,48882569,18,LARP – Revenue infrastructure for serious founders,231,48
+2026-07-13T08:22:40.134089+00:00,48884992,19,"Kode Dot Programmable pocket device for makers, pentesters and geeks",81,19
+2026-07-13T08:22:40.134089+00:00,48883275,20,Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k,572,317
+2026-07-13T08:22:40.134089+00:00,48854168,21,"Vint Cerf, “father of the Internet”, is retiring",309,177
+2026-07-13T08:22:40.134089+00:00,48845252,22,Tracking unique visitors without cookies,6,1
+2026-07-13T08:22:40.134089+00:00,48881967,23,How we can reduce traffic congestion,124,170
+2026-07-13T08:22:40.134089+00:00,48888468,24,Sam Neill has died,81,9
+2026-07-13T08:22:40.134089+00:00,48889148,25,"Quadrupling code performance with a ""useless"" if",16,2
+2026-07-13T08:22:40.134089+00:00,48883238,26,I Learned to Read Again,139,54
+2026-07-13T08:22:40.134089+00:00,48861923,27,Why write code in 2026,150,198
+2026-07-13T08:22:40.134089+00:00,48877371,28,What xAI's Grok build CLI sends to xAI: A wire-level analysis,467,170
+2026-07-13T08:22:40.134089+00:00,48882554,29,Automation Without Understanding,116,51
+2026-07-13T08:22:40.134089+00:00,48885705,30,Why Vanilla JavaScript,139,96
+2026-07-13T08:22:40.134089+00:00,48882956,31,Against Usefulness,106,31
+2026-07-13T08:22:40.134089+00:00,48883343,32,"I love LLMs, I hate hype",415,263
+2026-07-13T08:22:40.134089+00:00,48879504,33,Ghostel.el: Terminal emulator powered by libghostty,277,57
+2026-07-13T08:22:40.134089+00:00,48884618,34,Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels,34,3
+2026-07-13T08:22:40.134089+00:00,48883090,35,Mechanistic interpretability researchers applying causality theory to LLMs,99,70
+2026-07-13T08:22:40.134089+00:00,48879902,36,Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media,131,152
+2026-07-13T08:22:40.134089+00:00,48880170,37,"Old and new apps, via modern coding agents",431,126
+2026-07-13T08:22:40.134089+00:00,48885138,38,"Profiling the ""Abundance"" housing bottleneck with real data",39,34
+2026-07-13T08:22:40.134089+00:00,48852718,39,Calculix: A Free Software Three-Dimensional Structural Finite Element Program,17,3
+2026-07-13T08:22:40.134089+00:00,48881874,40,The shingles vaccine may reduce the risk of dementia,236,194
+2026-07-13T08:22:40.134089+00:00,48882097,41,Why study Diophantine equations?,69,28
+2026-07-13T08:22:40.134089+00:00,48883415,42,The One-Step Trap (In AI Research),49,10
+2026-07-13T08:22:40.134089+00:00,48881830,43,Don't you mean extinct?,194,123
+2026-07-13T08:22:40.134089+00:00,48851069,44,The four horsemen behind Postgres outages,36,12
+2026-07-13T08:22:40.134089+00:00,48884647,45,The State of MCP Security [pdf],29,2
+2026-07-13T08:22:40.134089+00:00,48880499,46,Understanding the Odin programming language,154,96
+2026-07-13T08:22:40.134089+00:00,48882034,47,Croc: Securely transfer files and folders between two computers,44,22
+2026-07-13T08:22:40.134089+00:00,48880406,48,Unauthenticated RCE in Motorola's MR2600 Router,79,25
+2026-07-13T08:22:40.134089+00:00,48827058,49,"Protobuf-py: Protobuf for Python, without compromises",132,48
+2026-07-13T08:22:40.134089+00:00,48876441,50,Stop Telling Me to Ask an LLM,200,118
