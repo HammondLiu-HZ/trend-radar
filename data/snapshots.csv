@@ -12928,3 +12928,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-12T22:57:09.719733+00:00,48809916,48,Ditching Zotero for a Text File,59,30
 2026-07-12T22:57:09.719733+00:00,48827058,49,"Protobuf-py: Protobuf for Python, without compromises",128,45
 2026-07-12T22:57:09.719733+00:00,48805857,50,"Show HN: Nectar, a Rust-like React that compiles to WebAssembly",26,11
+2026-07-13T00:03:21.831380+00:00,48884853,1,"Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",225,110
+2026-07-13T00:03:21.831380+00:00,48885643,2,"Cyberpunk Comics, Manga and Graphic Novels",26,2
+2026-07-13T00:03:21.831380+00:00,48884395,3,Tiny Emulators,116,3
+2026-07-13T00:03:21.831380+00:00,48827126,4,"So you want to learn physics (second edition, 2021)",60,5
+2026-07-13T00:03:21.831380+00:00,48885728,5,Designing and assembling my first PCB,15,1
+2026-07-13T00:03:21.831380+00:00,48884984,6,Ask HN: What Are You Working On? (July 2026),41,90
+2026-07-13T00:03:21.831380+00:00,48883275,7,Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k,426,238
+2026-07-13T00:03:21.831380+00:00,48884992,8,"Kode Dot Programmable pocket device for makers, pentesters and geeks",29,6
+2026-07-13T00:03:21.831380+00:00,48882716,9,"Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",106,29
+2026-07-13T00:03:21.831380+00:00,48880170,10,"Old and new apps, via modern coding agents",399,114
+2026-07-13T00:03:21.831380+00:00,48881967,11,How we can reduce traffic congestion,60,47
+2026-07-13T00:03:21.831380+00:00,48884322,12,Irish datacenters now guzzle 23% of the country's electricity,190,154
+2026-07-13T00:03:21.831380+00:00,48883238,13,I Learned to Read Again,81,37
+2026-07-13T00:03:21.831380+00:00,48885708,14,Architecture Description Languages [pdf],8,1
+2026-07-13T00:03:21.831380+00:00,48883090,15,Mechanistic interpretability researchers applying causality theory to LLMs,79,60
+2026-07-13T00:03:21.831380+00:00,48885525,16,A Speed Limit for Computers,11,7
+2026-07-13T00:03:21.831380+00:00,48882569,17,LARP – Revenue infrastructure for serious founders,134,32
+2026-07-13T00:03:21.831380+00:00,48861923,18,Why write code in 2026,94,140
+2026-07-13T00:03:21.831380+00:00,48885138,19,"Profiling the ""Abundance"" housing bottleneck with real data",11,3
+2026-07-13T00:03:21.831380+00:00,48885779,20,How to Get What You Want,5,0
+2026-07-13T00:03:21.831380+00:00,48884618,21,Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels,15,0
+2026-07-13T00:03:21.831380+00:00,48882554,22,Automation Without Understanding,82,37
+2026-07-13T00:03:21.831380+00:00,48882956,23,Against Usefulness,77,21
+2026-07-13T00:03:21.831380+00:00,48883343,24,"I love LLMs, I hate hype",290,171
+2026-07-13T00:03:21.831380+00:00,48883415,25,The One-Step Trap (In AI Research),38,7
+2026-07-13T00:03:21.831380+00:00,48805475,26,"Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",42,15
+2026-07-13T00:03:21.831380+00:00,48822234,27,Deir El-Medina Strikes,58,14
+2026-07-13T00:03:21.831380+00:00,48882056,28,How to read more books,246,136
+2026-07-13T00:03:21.831380+00:00,48885705,29,Why Vanilla JavaScript,3,0
+2026-07-13T00:03:21.831380+00:00,48884663,30,Show HN: Zen Mode – a global focus mode for macOS,15,6
+2026-07-13T00:03:21.831380+00:00,48881830,31,Don't you mean extinct?,179,108
+2026-07-13T00:03:21.831380+00:00,48884647,32,The State of MCP Security [pdf],17,2
+2026-07-13T00:03:21.831380+00:00,48850285,33,"Nicotine pouches, tobacco's latest ploy",12,1
+2026-07-13T00:03:21.831380+00:00,48881874,34,The shingles vaccine may reduce the risk of dementia,204,175
+2026-07-13T00:03:21.831380+00:00,48845321,35,The Seed Beneath the Snow,16,1
+2026-07-13T00:03:21.831380+00:00,48885613,36,How to build a circular LCD clock,4,2
+2026-07-13T00:03:21.831380+00:00,48879504,37,Ghostel.el: Terminal emulator powered by libghostty,261,50
+2026-07-13T00:03:21.831380+00:00,48877371,38,What xAI's Grok build CLI sends to xAI: A wire-level analysis,395,155
+2026-07-13T00:03:21.831380+00:00,48882097,39,Why study Diophantine equations?,59,22
+2026-07-13T00:03:21.831380+00:00,48885500,40,Show HN: Codebase Posters – turn any Git repo into generative poster art,5,0
+2026-07-13T00:03:21.831380+00:00,48882562,41,"Show HN: Shirei, cross-platform GUI framework in native Go",75,42
+2026-07-13T00:03:21.831380+00:00,48885029,42,MacSurf 2.0 – Netsurf for Mac OS 9 Released,5,0
+2026-07-13T00:03:21.831380+00:00,48879902,43,Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media,106,125
+2026-07-13T00:03:21.831380+00:00,48884052,44,Neocities: Create your own free website,80,26
+2026-07-13T00:03:21.831380+00:00,48880499,45,Understanding the Odin programming language,146,86
+2026-07-13T00:03:21.831380+00:00,48884937,46,Analysis: Popular Chrome Extension ModHeader Exfiltrates User Data,4,1
+2026-07-13T00:03:21.831380+00:00,48882034,47,Croc: Securely transfer files and folders between two computers,34,18
+2026-07-13T00:03:21.831380+00:00,48884100,48,Defining new Jax types with hijax,12,2
+2026-07-13T00:03:21.831380+00:00,48885226,49,"""A Clockwork Orange"" Nadsat Dictionary",5,0
+2026-07-13T00:03:21.831380+00:00,48885127,50,"Full Emoji List, v17.0",4,1
