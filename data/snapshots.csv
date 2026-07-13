@@ -13178,3 +13178,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-13T15:46:38.078033+00:00,48880170,48,"Old and new apps, via modern coding agents",440,130
 2026-07-13T15:46:38.078033+00:00,48883090,49,Mechanistic interpretability researchers applying causality theory to LLMs,109,75
 2026-07-13T15:46:38.078033+00:00,48887810,50,A Metallurgist's Doubts About Self-Replicating Probes,29,1
+2026-07-13T18:01:14.221064+00:00,48894752,1,"Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",154,73
+2026-07-13T18:01:14.221064+00:00,48893639,2,The art and engineering of Sega CD Silpheed,130,20
+2026-07-13T18:01:14.221064+00:00,48890959,3,A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese,261,39
+2026-07-13T18:01:14.221064+00:00,48893947,4,LAPD lets contract with surveillance giant Flock expire,206,124
+2026-07-13T18:01:14.221064+00:00,48892638,5,"Benchmarking 15 ""E-Waste"" GPUs with Modern Workloads",49,11
+2026-07-13T18:01:14.221064+00:00,48891267,6,"Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",99,25
+2026-07-13T18:01:14.221064+00:00,48828983,7,Tune Code Before Your Garbage Collector,12,3
+2026-07-13T18:01:14.221064+00:00,48832329,9,The 'absolute magic' of Morse code that still connects people globally,83,47
+2026-07-13T18:01:14.221064+00:00,48855881,10,Counting ArXiv Delays,15,8
+2026-07-13T18:01:14.221064+00:00,48888518,11,Backtrack-Free Cursive,219,98
+2026-07-13T18:01:14.221064+00:00,48841962,12,Cursed circuits #6: reverse avalanche oscillator,51,10
+2026-07-13T18:01:14.221064+00:00,48892859,13,"Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",128,119
+2026-07-13T18:01:14.221064+00:00,48892709,14,Nokia's 14 Years of Mobile-Phone Supremacy Ended in an Afternoon,22,17
+2026-07-13T18:01:14.221064+00:00,48834309,15,"GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",368,165
+2026-07-13T18:01:14.221064+00:00,48884984,16,Ask HN: What Are You Working On? (July 2026),209,745
+2026-07-13T18:01:14.221064+00:00,48893446,17,Precursor,126,105
+2026-07-13T18:01:14.221064+00:00,48888331,18,The Graph That Should Be Front-Page News,525,318
+2026-07-13T18:01:14.221064+00:00,48894671,19,Wikipedia escapes Category 1 designation under the UK Online Safety Act for now,38,25
+2026-07-13T18:01:14.221064+00:00,48828576,20,The social physics of conversation: Communication patterns matter,139,29
+2026-07-13T18:01:14.221064+00:00,48891987,21,A Farewell to ARPs: IPv4 Service on IPv6-Only Networks,17,1
+2026-07-13T18:01:14.221064+00:00,48885643,22,"Cyberpunk Comics, Manga and Graphic Novels",275,124
+2026-07-13T18:01:14.221064+00:00,48894641,23,DOGE is done. What happened to its records?,225,174
+2026-07-13T18:01:14.221064+00:00,48889350,24,"Interrail: 6,379Km and 13 Countries over 7 weeks",180,127
+2026-07-13T18:01:14.221064+00:00,48889637,25,"Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",1232,626
+2026-07-13T18:01:14.221064+00:00,48894637,26,Go-Flavored Concurrency in C,29,6
+2026-07-13T18:01:14.221064+00:00,48892468,27,Grok CLI uploaded the whole home directory to GCS,300,351
+2026-07-13T18:01:14.221064+00:00,48884395,28,Tiny Emulators,324,28
+2026-07-13T18:01:14.221064+00:00,48843775,29,Frieve Vinyl Explained – Microscopic stylus/groove physics simulation,71,9
+2026-07-13T18:01:14.221064+00:00,48837412,30,"DMS 1.5 ""The Wolverine"" Released",14,9
+2026-07-13T18:01:14.221064+00:00,48827126,31,"So you want to learn physics (second edition, 2021)",300,61
+2026-07-13T18:01:14.221064+00:00,48888193,32,Beavis Ultrasound PnP ISA Sound Card Replica,91,34
+2026-07-13T18:01:14.221064+00:00,48882056,33,How to read more books,509,271
+2026-07-13T18:01:14.221064+00:00,48895828,34,Samsung overtakes Apple as smartphone market sinks to a 13-year low,7,2
+2026-07-13T18:01:14.221064+00:00,48882569,35,LARP – Revenue infrastructure for serious founders,309,72
+2026-07-13T18:01:14.221064+00:00,48854168,36,"Vint Cerf, “father of the Internet”, is retiring",350,193
+2026-07-13T18:01:14.221064+00:00,48885728,37,Designing and assembling my first PCB,153,88
+2026-07-13T18:01:14.221064+00:00,48895355,38,GLP-1s are shrinking bodies. Enter cadaver fat injections,7,6
+2026-07-13T18:01:14.221064+00:00,48882716,39,"Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",248,116
+2026-07-13T18:01:14.221064+00:00,48888468,40,Sam Neill has died,419,95
+2026-07-13T18:01:14.221064+00:00,48886741,41,Ask HN: Add flag for AI-generated articles,944,411
+2026-07-13T18:01:14.221064+00:00,48884992,42,"Kode Dot Programmable pocket device for makers, pentesters and geeks",117,31
+2026-07-13T18:01:14.221064+00:00,48883275,43,Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k,675,356
+2026-07-13T18:01:14.221064+00:00,48891184,44,"Control the Ideas, Not the Code",184,152
+2026-07-13T18:01:14.221064+00:00,48849983,45,Are you telling me a readonly property is wrecking my performance?,59,34
+2026-07-13T18:01:14.221064+00:00,48881967,46,How we can reduce traffic congestion,164,305
+2026-07-13T18:01:14.221064+00:00,48894277,47,Apple's rumored M7 Ultra targets 1.5TB and Blackwell-class AI performance,16,17
+2026-07-13T18:01:14.221064+00:00,48895724,48,A Heuristic for When to Reason vs When to Act,5,1
+2026-07-13T18:01:14.221064+00:00,48861923,49,Why write code in 2026,201,267
+2026-07-13T18:01:14.221064+00:00,48882554,50,Automation Without Understanding,134,56
