@@ -13227,3 +13227,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-13T18:01:14.221064+00:00,48895724,48,A Heuristic for When to Reason vs When to Act,5,1
 2026-07-13T18:01:14.221064+00:00,48861923,49,Why write code in 2026,201,267
 2026-07-13T18:01:14.221064+00:00,48882554,50,Automation Without Understanding,134,56
+2026-07-13T20:20:04.463401+00:00,48894752,1,"Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",309,136
+2026-07-13T20:20:04.463401+00:00,48897945,2,Climate.gov was destroyed. Open data saved it,41,7
+2026-07-13T20:20:04.463401+00:00,48896286,3,Show HN: Super Dario,275,71
+2026-07-13T20:20:04.463401+00:00,48896665,4,Building and Shipping Mac and iOS Apps Without Ever Opening Xcode,74,35
+2026-07-13T20:20:04.463401+00:00,48896800,5,"The real prices of frontier models. Tokens * Price, right?",60,29
+2026-07-13T20:20:04.463401+00:00,48896600,6,Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?,39,3
+2026-07-13T20:20:04.463401+00:00,48893639,7,The art and engineering of Sega CD Silpheed,164,32
+2026-07-13T20:20:04.463401+00:00,48896229,8,Logseq 2.0 Beta (DB version) is here,59,35
+2026-07-13T20:20:04.463401+00:00,48896818,9,Thunderbird Desktop settings research: what we learned from your feedback,17,14
+2026-07-13T20:20:04.463401+00:00,48852159,10,Ancient Roman Board Game,44,13
+2026-07-13T20:20:04.463401+00:00,48893947,11,LAPD lets contract with surveillance giant Flock expire,356,264
+2026-07-13T20:20:04.463401+00:00,48890959,12,A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese,291,52
+2026-07-13T20:20:04.463401+00:00,48868417,14,The Origins of Heikki's Garden of Flowers,6,1
+2026-07-13T20:20:04.463401+00:00,48897329,15,TFTP Honey Pot Results,10,2
+2026-07-13T20:20:04.463401+00:00,48897878,16,Telegram's t.me domain has been suspended,10,3
+2026-07-13T20:20:04.463401+00:00,48896599,17,"Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",24,11
+2026-07-13T20:20:04.463401+00:00,48896703,18,Show HN: Nobie – an Excel-compatible runtime for agents and humans,21,6
+2026-07-13T20:20:04.463401+00:00,48892638,19,"Benchmarking 15 ""E-Waste"" GPUs with Modern Workloads",79,35
+2026-07-13T20:20:04.463401+00:00,48891267,20,"Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",116,28
+2026-07-13T20:20:04.463401+00:00,48896179,21,Show HN: OpenClawMachines – Extending OpenClaw to the Enterprise,14,9
+2026-07-13T20:20:04.463401+00:00,48828983,22,Tune Code Before Your Garbage Collector,25,15
+2026-07-13T20:20:04.463401+00:00,48876621,23,How sea stars build materials that can see,13,1
+2026-07-13T20:20:04.463401+00:00,48834309,24,"GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",382,178
+2026-07-13T20:20:04.463401+00:00,48888518,25,Backtrack-Free Cursive,232,106
+2026-07-13T20:20:04.463401+00:00,48884984,26,Ask HN: What Are You Working On? (July 2026),230,851
+2026-07-13T20:20:04.463401+00:00,48841962,27,Cursed circuits #6: reverse avalanche oscillator,70,17
+2026-07-13T20:20:04.463401+00:00,48855881,28,Counting ArXiv Delays,31,11
+2026-07-13T20:20:04.463401+00:00,48832329,29,The 'absolute magic' of Morse code that still connects people globally,100,60
+2026-07-13T20:20:04.463401+00:00,48892859,30,"Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",153,136
+2026-07-13T20:20:04.463401+00:00,48828576,31,The social physics of conversation: Communication patterns matter,152,37
+2026-07-13T20:20:04.463401+00:00,48837412,32,"DMS 1.5 ""The Wolverine"" Released",26,15
+2026-07-13T20:20:04.463401+00:00,48891987,33,A Farewell to ARPs: IPv4 Service on IPv6-Only Networks,33,3
+2026-07-13T20:20:04.463401+00:00,48889637,34,"Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",1314,663
+2026-07-13T20:20:04.463401+00:00,48893446,35,Precursor,143,125
+2026-07-13T20:20:04.463401+00:00,48897855,36,"Section 219, the US-Israel Military Merger, Would Thwart American Democracy",16,0
+2026-07-13T20:20:04.463401+00:00,48894637,37,Go-Flavored Concurrency in C,51,9
+2026-07-13T20:20:04.463401+00:00,48843775,38,Frieve Vinyl Explained – Microscopic stylus/groove physics simulation,74,11
+2026-07-13T20:20:04.463401+00:00,48889350,39,"Interrail: 6,379Km and 13 Countries over 7 weeks",185,133
+2026-07-13T20:20:04.463401+00:00,48888193,40,Beavis Ultrasound PnP ISA Sound Card Replica,93,37
+2026-07-13T20:20:04.463401+00:00,48897104,41,The infinite scroll may become endangered if controversial Calif. law passes,8,20
+2026-07-13T20:20:04.463401+00:00,48896846,42,Software Has Changed,13,3
+2026-07-13T20:20:04.463401+00:00,48854168,43,"Vint Cerf, “father of the Internet”, is retiring",353,195
+2026-07-13T20:20:04.463401+00:00,48892468,44,Grok CLI uploaded the whole home directory to GCS,333,372
+2026-07-13T20:20:04.463401+00:00,48896672,45,"The bread paradox: why convenience always wins, and why SaaS isn't doomed",12,1
+2026-07-13T20:20:04.463401+00:00,48896745,46,New Flagship Grok Voices,18,7
+2026-07-13T20:20:04.463401+00:00,48895828,47,Samsung overtakes Apple as smartphone market sinks to a 13-year low,19,10
+2026-07-13T20:20:04.463401+00:00,48896608,48,Volkswagen planning to cut up to 100.000 jobs globally,13,17
+2026-07-13T20:20:04.463401+00:00,48896948,49,SK Hynix plunges after Nasdaq debut as memory chip euphoria cools,16,2
+2026-07-13T20:20:04.463401+00:00,48896910,50,I Tested 885 Duolingo Chess Puzzles. 24% Do Not Make Sense,8,2
