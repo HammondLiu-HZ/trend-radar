@@ -12978,3 +12978,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-13T00:03:21.831380+00:00,48884100,48,Defining new Jax types with hijax,12,2
 2026-07-13T00:03:21.831380+00:00,48885226,49,"""A Clockwork Orange"" Nadsat Dictionary",5,0
 2026-07-13T00:03:21.831380+00:00,48885127,50,"Full Emoji List, v17.0",4,1
+2026-07-13T04:35:58.332106+00:00,48834309,1,"GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",148,55
+2026-07-13T04:35:58.332106+00:00,48885643,2,"Cyberpunk Comics, Manga and Graphic Novels",120,27
+2026-07-13T04:35:58.332106+00:00,48886741,3,Ask HN: Add flag for AI-generated articles,217,145
+2026-07-13T04:35:58.332106+00:00,48884395,4,Tiny Emulators,180,10
+2026-07-13T04:35:58.332106+00:00,48887753,5,Count Binface,36,9
+2026-07-13T04:35:58.332106+00:00,48827126,6,"So you want to learn physics (second edition, 2021)",134,19
+2026-07-13T04:35:58.332106+00:00,48885728,7,Designing and assembling my first PCB,72,26
+2026-07-13T04:35:58.332106+00:00,48831840,8,"First look at Quest, the final ship of Antarctic explorer Shackleton",12,0
+2026-07-13T04:35:58.332106+00:00,48884984,9,Ask HN: What Are You Working On? (July 2026),99,296
+2026-07-13T04:35:58.332106+00:00,48883275,10,Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k,504,282
+2026-07-13T04:35:58.332106+00:00,48882569,11,LARP – Revenue infrastructure for serious founders,185,40
+2026-07-13T04:35:58.332106+00:00,48882716,12,"Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",160,61
+2026-07-13T04:35:58.332106+00:00,48884992,13,"Kode Dot Programmable pocket device for makers, pentesters and geeks",56,14
+2026-07-13T04:35:58.332106+00:00,48885705,14,Why Vanilla JavaScript,99,54
+2026-07-13T04:35:58.332106+00:00,48881967,15,How we can reduce traffic congestion,101,122
+2026-07-13T04:35:58.332106+00:00,48861923,16,Why write code in 2026,128,167
+2026-07-13T04:35:58.332106+00:00,48883238,17,I Learned to Read Again,117,48
+2026-07-13T04:35:58.332106+00:00,48854168,18,"Vint Cerf, “father of the Internet”, is retiring",289,166
+2026-07-13T04:35:58.332106+00:00,48886881,19,Modernizing Property Tax Assessments in Allegheny County,32,18
+2026-07-13T04:35:58.332106+00:00,48882554,20,Automation Without Understanding,105,45
+2026-07-13T04:35:58.332106+00:00,48849983,21,Are you telling me a readonly property is wrecking my performance?,3,3
+2026-07-13T04:35:58.332106+00:00,48885138,22,"Profiling the ""Abundance"" housing bottleneck with real data",34,23
+2026-07-13T04:35:58.332106+00:00,48851069,23,The four horsemen behind Postgres outages,25,11
+2026-07-13T04:35:58.332106+00:00,48882956,24,Against Usefulness,96,24
+2026-07-13T04:35:58.332106+00:00,48883343,25,"I love LLMs, I hate hype",366,229
+2026-07-13T04:35:58.332106+00:00,48884618,26,Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels,31,1
+2026-07-13T04:35:58.332106+00:00,48883090,27,Mechanistic interpretability researchers applying causality theory to LLMs,92,66
+2026-07-13T04:35:58.332106+00:00,48852718,28,Calculix: A Free Software Three-Dimensional Structural Finite Element Program,10,1
+2026-07-13T04:35:58.332106+00:00,48877371,29,What xAI's Grok build CLI sends to xAI: A wire-level analysis,425,163
+2026-07-13T04:35:58.332106+00:00,48879504,30,Ghostel.el: Terminal emulator powered by libghostty,268,52
+2026-07-13T04:35:58.332106+00:00,48882056,31,How to read more books,281,160
+2026-07-13T04:35:58.332106+00:00,48880170,32,"Old and new apps, via modern coding agents",422,126
+2026-07-13T04:35:58.332106+00:00,48881874,33,The shingles vaccine may reduce the risk of dementia,221,183
+2026-07-13T04:35:58.332106+00:00,48879902,34,Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media,120,141
+2026-07-13T04:35:58.332106+00:00,48883415,35,The One-Step Trap (In AI Research),47,10
+2026-07-13T04:35:58.332106+00:00,48887714,36,DVD-Audio,4,0
+2026-07-13T04:35:58.332106+00:00,48882097,37,Why study Diophantine equations?,67,27
+2026-07-13T04:35:58.332106+00:00,48881830,38,Don't you mean extinct?,187,120
+2026-07-13T04:35:58.332106+00:00,48886040,39,Circular Obstacle Pathfinding (2017),11,1
+2026-07-13T04:35:58.332106+00:00,48885708,40,Architecture Description Languages [pdf],26,1
+2026-07-13T04:35:58.332106+00:00,48884853,41,"Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",381,177
+2026-07-13T04:35:58.332106+00:00,48880499,42,Understanding the Odin programming language,149,92
+2026-07-13T04:35:58.332106+00:00,48885500,43,Show HN: Codebase Posters – turn any Git repo into generative poster art,12,1
+2026-07-13T04:35:58.332106+00:00,48884663,44,Show HN: Zen Mode – a global focus mode for macOS,21,9
+2026-07-13T04:35:58.332106+00:00,48882034,45,Croc: Securely transfer files and folders between two computers,39,19
+2026-07-13T04:35:58.332106+00:00,48884647,46,The State of MCP Security [pdf],23,2
+2026-07-13T04:35:58.332106+00:00,48845321,47,The Seed Beneath the Snow,17,1
+2026-07-13T04:35:58.332106+00:00,48880406,48,Unauthenticated RCE in Motorola's MR2600 Router,78,25
+2026-07-13T04:35:58.332106+00:00,48886311,49,"MacKenzie Scott's giving, in quality-adjusted life years",57,28
+2026-07-13T04:35:58.332106+00:00,48878682,50,Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase,151,62
