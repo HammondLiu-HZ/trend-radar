@@ -13472,3 +13472,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-14T06:19:14.288907+00:00,48900140,48,"Cdbx.ai – AI-powered browser IDE to describe, build, and publish apps",15,3
 2026-07-14T06:19:14.288907+00:00,48868417,49,The Origins of Heikki's Garden of Flowers,30,3
 2026-07-14T06:19:14.288907+00:00,48900287,50,Estimating the heights of New Yorkers from their scuff marks,11,2
+2026-07-14T09:10:38.870195+00:00,48901569,1,Japan develops a method to recover up to 90% of lithium from used EV batteries,437,109
+2026-07-14T09:10:38.870195+00:00,48903715,2,Alternative(s) to run CUDA on non-Nvidia hardware,19,4
+2026-07-14T09:10:38.870195+00:00,48901010,3,The git history command,280,160
+2026-07-14T09:10:38.870195+00:00,48902026,4,YouTrackDB is a general-use object-oriented graph database,113,32
+2026-07-14T09:10:38.870195+00:00,48903777,5,"European ""age verification"" ""app"" forcing everyone to use Android or iOS",50,10
+2026-07-14T09:10:38.870195+00:00,48902320,6,Australian energy retailers must provide three hours of free daytime electricity,68,89
+2026-07-14T09:10:38.870195+00:00,48901454,7,Fundamentals of Wireless Communication (2005),127,5
+2026-07-14T09:10:38.870195+00:00,48903082,8,Indian scientists produce most detailed 3D atlas of the human brainstem,19,0
+2026-07-14T09:10:38.870195+00:00,48872833,9,How to build a circular LCD clock,76,29
+2026-07-14T09:10:38.870195+00:00,48896665,10,Building and shipping Mac and iOS apps without opening Xcode,463,198
+2026-07-14T09:10:38.870195+00:00,48901224,11,The Economics of Recursive Self-Improvement [pdf],93,30
+2026-07-14T09:10:38.870195+00:00,48872965,12,Zero Knowledge Tolstoyan Art,14,4
+2026-07-14T09:10:38.870195+00:00,48901235,13,Is x86 ready to ACE it?,76,12
+2026-07-14T09:10:38.870195+00:00,48900191,14,An Englishwoman who sketched India before photography took hold,145,43
+2026-07-14T09:10:38.870195+00:00,48901356,15,Satellite Tracker – Live Map of Starlink and 30k Satellites,80,35
+2026-07-14T09:10:38.870195+00:00,48872791,16,Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster,14,1
+2026-07-14T09:10:38.870195+00:00,48901126,17,MorphoHDL: A minimalistic language for growing circuits,65,8
+2026-07-14T09:10:38.870195+00:00,48853146,18,World-First 'Super Alloy' Could Transform the Way Metals Are Made,62,33
+2026-07-14T09:10:38.870195+00:00,48845999,19,Writing a bindless GPU abstraction layer,46,2
+2026-07-14T09:10:38.870195+00:00,48897104,20,The infinite scroll may become endangered if controversial Calif. law passes,161,281
+2026-07-14T09:10:38.870195+00:00,48901645,21,Our Amish Language,44,22
+2026-07-14T09:10:38.870195+00:00,48855045,22,Two Case Studies of NaN,12,2
+2026-07-14T09:10:38.870195+00:00,48892709,23,Nokia’s years of mobile-phone supremacy ended in an afternoon,115,73
+2026-07-14T09:10:38.870195+00:00,48898134,24,"Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",100,83
+2026-07-14T09:10:38.870195+00:00,48900432,25,"What are Forward Deployed Engineers, and why are they so in demand? (2025)",56,65
+2026-07-14T09:10:38.870195+00:00,48902791,26,Just Let Me Write Digits,7,0
+2026-07-14T09:10:38.870195+00:00,48901275,28,Building Food Metadata with LLM Juries,38,9
+2026-07-14T09:10:38.870195+00:00,48896600,29,Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?,129,26
+2026-07-14T09:10:38.870195+00:00,48901292,30,What will be left for us to work on?,131,148
+2026-07-14T09:10:38.870195+00:00,48893446,31,Precursor,184,150
+2026-07-14T09:10:38.870195+00:00,48903190,32,The Anatomy of an Instruction Pipeline Hazard,4,0
+2026-07-14T09:10:38.870195+00:00,48892859,33,"Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",193,152
+2026-07-14T09:10:38.870195+00:00,48897975,34,Show HN: I implemented a neural network in SQL,94,18
+2026-07-14T09:10:38.870195+00:00,48852159,35,Ancient Roman Board Game,124,45
+2026-07-14T09:10:38.870195+00:00,48894752,36,"Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",534,212
+2026-07-14T09:10:38.870195+00:00,48900319,37,Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder,36,31
+2026-07-14T09:10:38.870195+00:00,48894630,38,"Show HN: Jacquard, a programming language for AI-written, human-reviewed code",87,47
+2026-07-14T09:10:38.870195+00:00,48893550,39,"Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",48,43
+2026-07-14T09:10:38.870195+00:00,48903102,40,Show HN: Benchmark your eng team's AI agent maturity in 5 minutes,6,3
+2026-07-14T09:10:38.870195+00:00,48899321,41,A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI,58,37
+2026-07-14T09:10:38.870195+00:00,48897329,42,TFTP Honey Pot Results,81,34
+2026-07-14T09:10:38.870195+00:00,48834309,43,"GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",397,196
+2026-07-14T09:10:38.870195+00:00,48884984,44,Ask HN: What Are You Working On? (July 2026),254,989
+2026-07-14T09:10:38.870195+00:00,48898154,45,Show HN: YouTube Guitar Tab Parser,101,63
+2026-07-14T09:10:38.870195+00:00,48897878,46,Telegram's t.me domain has been suspended,315,229
+2026-07-14T09:10:38.870195+00:00,48892638,47,Benchmarking 15 “E-Waste” GPUs with Modern Workloads,130,50
+2026-07-14T09:10:38.870195+00:00,48900231,48,The AI Whale Fall and Open Source,30,17
+2026-07-14T09:10:38.870195+00:00,48902143,49,Why is LinkedIn enumerating my browser extensions?,7,1
+2026-07-14T09:10:38.870195+00:00,48891267,50,"Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",145,36
