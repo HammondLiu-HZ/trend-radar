@@ -13570,3 +13570,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-14T11:37:55.701677+00:00,48900319,48,Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder,39,31
 2026-07-14T11:37:55.701677+00:00,48904934,49,Can humans hibernate their way to Mars?,3,0
 2026-07-14T11:37:55.701677+00:00,48903190,50,The Anatomy of an Instruction Pipeline Hazard,5,0
+2026-07-14T14:03:20.705965+00:00,48905028,1,Codex starts encrypting sub-agent prompts,231,148
+2026-07-14T14:03:20.705965+00:00,48905091,2,Codex scraped the ICM website and discovered 2026 Fields Medal winner list,87,63
+2026-07-14T14:03:20.705965+00:00,48906125,3,Proof of Care in the Age of A.I,38,13
+2026-07-14T14:03:20.705965+00:00,48905914,4,Beautiful Type Erasure with C++26 Reflection,27,8
+2026-07-14T14:03:20.705965+00:00,48905919,5,Show HN: I RL-trained an agent that trains models with RL (for –$1.3k),31,11
+2026-07-14T14:03:20.705965+00:00,48870217,6,Kids (With Phones) Are Alright,24,9
+2026-07-14T14:03:20.705965+00:00,48906123,7,Tensor Is the Might,13,5
+2026-07-14T14:03:20.705965+00:00,48905764,8,Coding agents think ahead of time,32,24
+2026-07-14T14:03:20.705965+00:00,48901569,9,Japan develops a method to recover up to 90% of lithium from used EV batteries,635,169
+2026-07-14T14:03:20.705965+00:00,48905118,10,Punch Yourself in the Face with Reality,56,27
+2026-07-14T14:03:20.705965+00:00,48904902,11,Actegories,28,4
+2026-07-14T14:03:20.705965+00:00,48903715,12,Alternative(s) to run CUDA on non-Nvidia hardware,87,43
+2026-07-14T14:03:20.705965+00:00,48902320,13,Australian energy retailers must provide three hours of free daytime electricity,169,258
+2026-07-14T14:03:20.705965+00:00,48905290,14,Germany set to restrict its Freedom of Information Act,106,60
+2026-07-14T14:03:20.705965+00:00,48905667,15,Differentiable Fortran with LFortran and Enzyme,14,1
+2026-07-14T14:03:20.705965+00:00,48903082,16,Indian scientists produce most detailed 3D atlas of the human brainstem,115,14
+2026-07-14T14:03:20.705965+00:00,48901010,17,The git history command,367,242
+2026-07-14T14:03:20.705965+00:00,48904905,18,The Future Worth Building Is Human,67,43
+2026-07-14T14:03:20.705965+00:00,48869989,19,Your 'App' Could Have Been a Webpage (so I fixed it for you),168,132
+2026-07-14T14:03:20.705965+00:00,48845527,20,Notable Knot Index (2016),42,6
+2026-07-14T14:03:20.705965+00:00,48902791,21,Just Let Me Write Digits,106,38
+2026-07-14T14:03:20.705965+00:00,48902026,22,YouTrackDB is a general-use object-oriented graph database,150,47
+2026-07-14T14:03:20.705965+00:00,48904855,23,The great digital fatigue: How digital burnout is changing social media use,63,56
+2026-07-14T14:03:20.705965+00:00,48901454,24,Fundamentals of Wireless Communication (2005),156,10
+2026-07-14T14:03:20.705965+00:00,48904912,25,Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps,17,0
+2026-07-14T14:03:20.705965+00:00,48872833,26,How to build a circular LCD clock,112,52
+2026-07-14T14:03:20.705965+00:00,48900191,27,An Englishwoman who sketched India before photography took hold,194,58
+2026-07-14T14:03:20.705965+00:00,48901356,28,Satellite Tracker – Live Map of Starlink and 30k Satellites,122,61
+2026-07-14T14:03:20.705965+00:00,48901224,29,The Economics of Recursive Self-Improvement [pdf],126,64
+2026-07-14T14:03:20.705965+00:00,48901235,30,Is x86 ready to ACE it?,97,21
+2026-07-14T14:03:20.705965+00:00,48897104,31,The infinite scroll may become endangered if controversial Calif. law passes,205,347
+2026-07-14T14:03:20.705965+00:00,48901126,32,MorphoHDL: A minimalistic language for growing circuits,91,8
+2026-07-14T14:03:20.705965+00:00,48853146,34,World-First 'Super Alloy' Could Transform the Way Metals Are Made,83,51
+2026-07-14T14:03:20.705965+00:00,48892709,35,Nokia’s years of mobile-phone supremacy ended in an afternoon,148,126
+2026-07-14T14:03:20.705965+00:00,48872965,36,Zero Knowledge Tolstoyan Art,35,17
+2026-07-14T14:03:20.705965+00:00,48855045,37,Two Case Studies of NaN,29,13
+2026-07-14T14:03:20.705965+00:00,48898134,38,"Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",116,112
+2026-07-14T14:03:20.705965+00:00,48900432,39,"What are Forward Deployed Engineers, and why are they so in demand? (2025)",86,84
+2026-07-14T14:03:20.705965+00:00,48845999,40,Writing a bindless GPU abstraction layer,64,10
+2026-07-14T14:03:20.705965+00:00,48905714,41,Argentina court recognizes two goldfish as sentient beings with rights,12,0
+2026-07-14T14:03:20.705965+00:00,48905105,42,No Spanish Reading Crisis?,35,50
+2026-07-14T14:03:20.705965+00:00,48896665,43,Building and shipping Mac and iOS apps without opening Xcode,518,221
+2026-07-14T14:03:20.705965+00:00,48896600,44,Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?,139,31
+2026-07-14T14:03:20.705965+00:00,48906132,45,U of Chicago law school bans laptops from classes amid AI backlash,10,3
+2026-07-14T14:03:20.705965+00:00,48892859,46,"Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",208,153
+2026-07-14T14:03:20.705965+00:00,48906740,47,The Rise and Fall of Commercial Smalltalk (2020),3,1
+2026-07-14T14:03:20.705965+00:00,48905806,48,Human rabies despite PEP: review of breakthrough cases after zoonotic exposures,6,0
+2026-07-14T14:03:20.705965+00:00,48893446,49,Precursor,191,152
+2026-07-14T14:03:20.705965+00:00,48872791,50,Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster,25,1
