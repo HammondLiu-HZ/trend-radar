@@ -13521,3 +13521,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-14T09:10:38.870195+00:00,48900231,48,The AI Whale Fall and Open Source,30,17
 2026-07-14T09:10:38.870195+00:00,48902143,49,Why is LinkedIn enumerating my browser extensions?,7,1
 2026-07-14T09:10:38.870195+00:00,48891267,50,"Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",145,36
+2026-07-14T11:37:55.701677+00:00,48905028,1,"Codex starts encrypting prompts, uses ciphertext for inference instead",41,9
+2026-07-14T11:37:55.701677+00:00,48904905,2,The Future Worth Building Is Human – Thinking Machines Lab,15,1
+2026-07-14T11:37:55.701677+00:00,48869989,3,Your 'App' Could Have Been a Webpage (so I fixed it for you),41,8
+2026-07-14T11:37:55.701677+00:00,48901569,4,Japan develops a method to recover up to 90% of lithium from used EV batteries,548,142
+2026-07-14T11:37:55.701677+00:00,48903715,5,Alternative(s) to run CUDA on non-Nvidia hardware,65,33
+2026-07-14T11:37:55.701677+00:00,48905030,6,Show HN: Beautiful QR Codes,13,1
+2026-07-14T11:37:55.701677+00:00,48904855,7,The great digital fatigue: How digital burnout is changing social media use,14,2
+2026-07-14T11:37:55.701677+00:00,48904902,8,Actegories,5,0
+2026-07-14T11:37:55.701677+00:00,48901010,9,The git history command,334,196
+2026-07-14T11:37:55.701677+00:00,48902320,10,Australian energy retailers must provide three hours of free daytime electricity,128,202
+2026-07-14T11:37:55.701677+00:00,48903082,11,Indian scientists produce most detailed 3D atlas of the human brainstem,73,6
+2026-07-14T11:37:55.701677+00:00,48845527,12,Notable Knot Index (2016),20,3
+2026-07-14T11:37:55.701677+00:00,48902026,13,YouTrackDB is a general-use object-oriented graph database,136,43
+2026-07-14T11:37:55.701677+00:00,48904912,14,Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps,4,0
+2026-07-14T11:37:55.701677+00:00,48896665,15,Building and shipping Mac and iOS apps without opening Xcode,497,211
+2026-07-14T11:37:55.701677+00:00,48901454,16,Fundamentals of Wireless Communication (2005),143,6
+2026-07-14T11:37:55.701677+00:00,48902791,17,Just Let Me Write Digits,56,17
+2026-07-14T11:37:55.701677+00:00,48872833,18,How to build a circular LCD clock,88,35
+2026-07-14T11:37:55.701677+00:00,48901224,19,The Economics of Recursive Self-Improvement [pdf],107,45
+2026-07-14T11:37:55.701677+00:00,48900191,20,An Englishwoman who sketched India before photography took hold,171,52
+2026-07-14T11:37:55.701677+00:00,48901235,21,Is x86 ready to ACE it?,87,15
+2026-07-14T11:37:55.701677+00:00,48872965,22,Zero Knowledge Tolstoyan Art,26,11
+2026-07-14T11:37:55.701677+00:00,48901126,23,MorphoHDL: A minimalistic language for growing circuits,79,8
+2026-07-14T11:37:55.701677+00:00,48901356,24,Satellite Tracker – Live Map of Starlink and 30k Satellites,98,55
+2026-07-14T11:37:55.701677+00:00,48853146,26,World-First 'Super Alloy' Could Transform the Way Metals Are Made,73,46
+2026-07-14T11:37:55.701677+00:00,48897104,27,The infinite scroll may become endangered if controversial Calif. law passes,183,303
+2026-07-14T11:37:55.701677+00:00,48855045,28,Two Case Studies of NaN,24,8
+2026-07-14T11:37:55.701677+00:00,48845999,29,Writing a bindless GPU abstraction layer,61,7
+2026-07-14T11:37:55.701677+00:00,48892709,30,Nokia’s years of mobile-phone supremacy ended in an afternoon,136,103
+2026-07-14T11:37:55.701677+00:00,48900432,31,"What are Forward Deployed Engineers, and why are they so in demand? (2025)",75,81
+2026-07-14T11:37:55.701677+00:00,48898134,32,"Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",109,104
+2026-07-14T11:37:55.701677+00:00,48872791,33,Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster,22,2
+2026-07-14T11:37:55.701677+00:00,48896600,34,Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?,136,29
+2026-07-14T11:37:55.701677+00:00,48892859,35,"Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",206,153
+2026-07-14T11:37:55.701677+00:00,48893446,36,Precursor,189,151
+2026-07-14T11:37:55.701677+00:00,48894752,37,"Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",542,217
+2026-07-14T11:37:55.701677+00:00,48852159,38,Ancient Roman Board Game,128,49
+2026-07-14T11:37:55.701677+00:00,48897975,39,Show HN: I implemented a neural network in SQL,99,18
+2026-07-14T11:37:55.701677+00:00,48827176,40,Understanding the Go Runtime: Profiling,14,7
+2026-07-14T11:37:55.701677+00:00,48901275,41,Building Food Metadata with LLM Juries,41,10
+2026-07-14T11:37:55.701677+00:00,48894630,42,"Show HN: Jacquard, a programming language for AI-written, human-reviewed code",91,49
+2026-07-14T11:37:55.701677+00:00,48901292,43,What will be left for us to work on?,141,187
+2026-07-14T11:37:55.701677+00:00,48834309,44,"GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",397,196
+2026-07-14T11:37:55.701677+00:00,48884984,45,Ask HN: What Are You Working On? (July 2026),255,994
+2026-07-14T11:37:55.701677+00:00,48897329,46,TFTP Honey Pot Results,84,34
+2026-07-14T11:37:55.701677+00:00,48893550,47,"Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",51,43
+2026-07-14T11:37:55.701677+00:00,48900319,48,Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder,39,31
+2026-07-14T11:37:55.701677+00:00,48904934,49,Can humans hibernate their way to Mars?,3,0
+2026-07-14T11:37:55.701677+00:00,48903190,50,The Anatomy of an Instruction Pipeline Hazard,5,0
