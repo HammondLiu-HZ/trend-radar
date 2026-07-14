@@ -13815,3 +13815,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-14T22:05:40.427918+00:00,48911803,48,I also filed the corners off my MacBook,10,0
 2026-07-14T22:05:40.427918+00:00,48904902,49,Actegories,44,9
 2026-07-14T22:05:40.427918+00:00,48909768,50,S&P Global has lowered Oracle’s creditworthiness from BBB to BBB-,299,292
+2026-07-14T23:59:05.924526+00:00,48910545,1,Bonsai 27B: A 27B-Class model that runs on a phone,369,140
+2026-07-14T23:59:05.924526+00:00,48913050,2,Dependabot version updates introduce default package cooldown,67,41
+2026-07-14T23:59:05.924526+00:00,48913443,3,Financing the AI boom: from cash flows to debt [pdf],52,10
+2026-07-14T23:59:05.924526+00:00,48909785,4,The Tower Keeps Rising,309,151
+2026-07-14T23:59:05.924526+00:00,48910676,5,Cursor 0day: When Full Disclosure Becomes the Only Protection Left,214,89
+2026-07-14T23:59:05.924526+00:00,48912175,6,How I use HTMX with Go,85,16
+2026-07-14T23:59:05.924526+00:00,48869989,7,Your 'app' could have been a webpage (so I fixed it for you),682,424
+2026-07-14T23:59:05.924526+00:00,48905183,8,Mathematical texts from a Maya site in Guatemala identify an ancient astronomer,20,1
+2026-07-14T23:59:05.924526+00:00,48872401,9,"The largest available Minecraft world, totalling 15 TB",142,45
+2026-07-14T23:59:05.924526+00:00,48899473,10,The Estranged Worlds of J. G. Ballard,30,6
+2026-07-14T23:59:05.924526+00:00,48905248,11,How to stop Claude from saying load-bearing,407,468
+2026-07-14T23:59:05.924526+00:00,48906041,12,Guardian Angels: LLM Personalization for Productivity and Security,50,4
+2026-07-14T23:59:05.924526+00:00,48866848,13,Unlocking the PSP's Dual Core Setup,19,0
+2026-07-14T23:59:05.924526+00:00,48913763,14,LeMario: Training a JEPA World Model on Super Mario Bros,15,0
+2026-07-14T23:59:05.924526+00:00,48913910,15,Casio FX-870P Emulator,5,0
+2026-07-14T23:59:05.924526+00:00,48908214,16,I'm a USB-C Maximalist,138,230
+2026-07-14T23:59:05.924526+00:00,48874190,17,The Second Life of Sanskrit,47,34
+2026-07-14T23:59:05.924526+00:00,48865001,18,The zero-cost fallacy: open-source software in the agentic era,94,76
+2026-07-14T23:59:05.924526+00:00,48870217,19,The kids with phones are alright,105,64
+2026-07-14T23:59:05.924526+00:00,48913953,21,Linear is always a lagging indicator,7,3
+2026-07-14T23:59:05.924526+00:00,48908178,22,Are we offloading too much of our thinking to AI?,356,357
+2026-07-14T23:59:05.924526+00:00,48908271,23,Show HN: Opening lines of famous literary works,140,78
+2026-07-14T23:59:05.924526+00:00,48908950,24,Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations,37,25
+2026-07-14T23:59:05.924526+00:00,48900541,25,Human Canaries: Remembering the Munitionettes,9,0
+2026-07-14T23:59:05.924526+00:00,48883305,26,"Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",163,77
+2026-07-14T23:59:05.924526+00:00,48909424,27,"Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",337,216
+2026-07-14T23:59:05.924526+00:00,48913190,28,Microsoft Patches a Record 570 Security Flaws,8,0
+2026-07-14T23:59:05.924526+00:00,48912100,29,"StubHub, CEO hit with ‘deceptive practices’ class action over mass scalping",95,48
+2026-07-14T23:59:05.924526+00:00,48861098,30,Banter,14,2
+2026-07-14T23:59:05.924526+00:00,48858541,31,Accretive Editing,15,9
+2026-07-14T23:59:05.924526+00:00,48905118,32,Punch yourself in the face with reality,203,102
+2026-07-14T23:59:05.924526+00:00,48913936,33,The politics of air conditioning in Switzerland,6,2
+2026-07-14T23:59:05.924526+00:00,48913926,34,Sets of Overlapping Circles,4,0
+2026-07-14T23:59:05.924526+00:00,48907672,35,The Agentic Loop: Three loops in a trench coat,69,15
+2026-07-14T23:59:05.924526+00:00,48903777,36,"European ""age verification"" ""app"" forcing everyone to use Android or iOS",472,320
+2026-07-14T23:59:05.924526+00:00,48907290,37,Agnes Callard’s theory of the uni-context,88,92
+2026-07-14T23:59:05.924526+00:00,48904095,38,Demis Hassabis has a plan to harness AI safely,134,175
+2026-07-14T23:59:05.924526+00:00,48913457,39,Probably check on your smart appliances,6,0
+2026-07-14T23:59:05.924526+00:00,48876809,40,How the FSF sysadmins block botnets with reaction,152,61
+2026-07-14T23:59:05.924526+00:00,48902320,41,Australian energy retailers must offer three hours of free daytime electricity,262,346
+2026-07-14T23:59:05.924526+00:00,48905919,42,Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k),95,42
+2026-07-14T23:59:05.924526+00:00,48912947,43,"Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight",9,2
+2026-07-14T23:59:05.924526+00:00,48863336,44,Superoptimizer – A Look at the Smallest Program (1987) [pdf],58,9
+2026-07-14T23:59:05.924526+00:00,48911803,45,I also filed the corners off my MacBook,24,3
+2026-07-14T23:59:05.924526+00:00,48913540,46,OpenAI's first hardware device will be a portable desktop robot,4,2
+2026-07-14T23:59:05.924526+00:00,48905914,47,Show HN: Beautiful Type Erasure with C++26 Reflection,109,46
+2026-07-14T23:59:05.924526+00:00,48913246,48,House passes bill to enact year-round Daylight Saving Time across the country,28,33
+2026-07-14T23:59:05.924526+00:00,48912254,49,"Pg_re2: Postgres extension for fast, RE2-powered regular expressions in Postgres",11,1
+2026-07-14T23:59:05.924526+00:00,48901645,50,Our Amish Language,97,71
