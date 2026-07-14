@@ -13717,3 +13717,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-14T18:10:27.609707+00:00,48901224,48,The Economics of Recursive Self-Improvement [pdf],132,73
 2026-07-14T18:10:27.609707+00:00,48908919,49,FDA authorized Zyn nicotine pouches without knowing what they were made of,16,0
 2026-07-14T18:10:27.609707+00:00,48897104,50,The infinite scroll may become endangered if controversial Calif. law passes,212,410
+2026-07-14T20:18:51.898661+00:00,48909785,1,The Tower Keeps Rising,194,76
+2026-07-14T20:18:51.898661+00:00,48910545,2,Bonsai 27B: A 27B-Class Model that runs on a phone,127,34
+2026-07-14T20:18:51.898661+00:00,48869989,3,Your 'app' could have been a webpage (so I fixed it for you),563,383
+2026-07-14T20:18:51.898661+00:00,48872401,4,"The largest available Minecraft world, totalling 15 TB",59,12
+2026-07-14T20:18:51.898661+00:00,48905248,5,How to stop Claude from saying load-bearing,304,397
+2026-07-14T20:18:51.898661+00:00,48865001,6,The zero-cost fallacy: open-source software in the agentic era,62,43
+2026-07-14T20:18:51.898661+00:00,48909424,7,"Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",292,164
+2026-07-14T20:18:51.898661+00:00,48908271,8,Show HN: Opening lines of famous literary works,113,73
+2026-07-14T20:18:51.898661+00:00,48908178,9,Are we offloading too much of our thinking to AI?,277,264
+2026-07-14T20:18:51.898661+00:00,48910676,10,Cursor 0day: When Full Disclosure Becomes the Only Protection Left,40,12
+2026-07-14T20:18:51.898661+00:00,48908950,11,Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations,26,9
+2026-07-14T20:18:51.898661+00:00,48847943,12,A tiny cell that broke a big rule of biology,123,18
+2026-07-14T20:18:51.898661+00:00,48904095,14,Demis Hassabis has a plan to harness AI safely,106,134
+2026-07-14T20:18:51.898661+00:00,48907290,15,Agnes Callard’s theory of the uni-context,77,75
+2026-07-14T20:18:51.898661+00:00,48883305,16,"Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",117,72
+2026-07-14T20:18:51.898661+00:00,48907672,17,The Agentic Loop: Three loops in a trench coat,47,11
+2026-07-14T20:18:51.898661+00:00,48863336,18,Superoptimizer – A Look at the Smallest Program,47,7
+2026-07-14T20:18:51.898661+00:00,48905118,19,Punch yourself in the face with reality,168,85
+2026-07-14T20:18:51.898661+00:00,48908214,20,I'm a USB-C Maximalist,48,90
+2026-07-14T20:18:51.898661+00:00,48876809,21,How the FSF sysadmins block botnets with reaction,144,51
+2026-07-14T20:18:51.898661+00:00,48906041,22,Guardian Angels: LLM Personalization for Productivity and Security,6,0
+2026-07-14T20:18:51.898661+00:00,48850688,23,Paxos Made Simple (2001) [pdf],61,6
+2026-07-14T20:18:51.898661+00:00,48905914,24,Show HN: Beautiful Type Erasure with C++26 Reflection,97,40
+2026-07-14T20:18:51.898661+00:00,48903777,25,"European ""age verification"" ""app"" forcing everyone to use Android or iOS",387,263
+2026-07-14T20:18:51.898661+00:00,48905919,26,Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k),81,37
+2026-07-14T20:18:51.898661+00:00,48902320,27,Australian energy retailers must offer three hours of free daytime electricity,246,321
+2026-07-14T20:18:51.898661+00:00,48843120,28,Building a High-Performance C++ Backtesting Framework,6,1
+2026-07-14T20:18:51.898661+00:00,48887810,29,A metallurgist's doubts about self-replicating probes,135,64
+2026-07-14T20:18:51.898661+00:00,48901645,30,Our Amish Language,93,62
+2026-07-14T20:18:51.898661+00:00,48912100,31,"StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal",10,0
+2026-07-14T20:18:51.898661+00:00,48903715,32,Alternative(s) to run CUDA on non-Nvidia hardware,121,67
+2026-07-14T20:18:51.898661+00:00,48905105,33,No Spanish reading crisis?,72,115
+2026-07-14T20:18:51.898661+00:00,48903082,34,Indian scientists produce most detailed 3D atlas of the human brainstem,183,20
+2026-07-14T20:18:51.898661+00:00,48905667,35,Differentiable Fortran with LFortran and Enzyme,47,17
+2026-07-14T20:18:51.898661+00:00,48901356,36,Satellite Tracker – Live Map of Starlink and 30k Satellites,150,84
+2026-07-14T20:18:51.898661+00:00,48909768,37,S&P Global has lowered Oracle’s creditworthiness from BBB to BBB-,279,254
+2026-07-14T20:18:51.898661+00:00,48900796,38,What did SFFA vs. Harvard reveal about admissions?,59,120
+2026-07-14T20:18:51.898661+00:00,48906123,39,Tensor Is the Might,42,23
+2026-07-14T20:18:51.898661+00:00,48904902,40,Actegories,42,9
+2026-07-14T20:18:51.898661+00:00,48902791,41,Just Let Me Write Digits,140,73
+2026-07-14T20:18:51.898661+00:00,48907398,42,The Death of the Creator Middle Class,20,7
+2026-07-14T20:18:51.898661+00:00,48905028,43,Codex starts encrypting sub-agent prompts,395,234
+2026-07-14T20:18:51.898661+00:00,48901454,44,Fundamentals of Wireless Communication (2005),169,11
+2026-07-14T20:18:51.898661+00:00,48902026,45,YouTrackDB is a general-use object-oriented graph database,165,59
+2026-07-14T20:18:51.898661+00:00,48906893,46,The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game,17,2
+2026-07-14T20:18:51.898661+00:00,48905091,47,Codex scraped the ICM website and discovered 2026 Fields Medal winner list,144,102
+2026-07-14T20:18:51.898661+00:00,48845527,48,Notable Knot Index (2016),60,13
+2026-07-14T20:18:51.898661+00:00,48872833,49,How to build a circular LCD clock,134,62
+2026-07-14T20:18:51.898661+00:00,48904905,50,The Future Worth Building Is Human,100,59
