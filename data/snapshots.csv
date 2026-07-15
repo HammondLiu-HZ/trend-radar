@@ -14207,3 +14207,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-15T18:13:55.336740+00:00,48913190,48,Microsoft has released software updates to plug at least 570 security holes,184,108
 2026-07-15T18:13:55.336740+00:00,48917055,49,Who's running all those tiny RPKI servers?,69,16
 2026-07-15T18:13:55.336740+00:00,48870217,50,The kids with phones are alright,250,341
+2026-07-15T20:15:39.586070+00:00,48924912,1,Inkling: Our Open-Weights Model,224,66
+2026-07-15T20:15:39.586070+00:00,48915953,2,Stripe and Advent have made a joint offer to acquire PayPal – sources,179,88
+2026-07-15T20:15:39.586070+00:00,48925888,3,"Duskers, the scary command line game, is getting a sequel",23,2
+2026-07-15T20:15:39.586070+00:00,48922434,4,Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU,165,92
+2026-07-15T20:15:39.586070+00:00,48923380,5,Collection of Digital Clock Designs,87,25
+2026-07-15T20:15:39.586070+00:00,48920475,6,Mysteries of Telegram Data Centers (2022),199,88
+2026-07-15T20:15:39.586070+00:00,48922838,7,Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios),97,35
+2026-07-15T20:15:39.586070+00:00,48926053,8,Voxatron,9,3
+2026-07-15T20:15:39.586070+00:00,48919198,9,"Prioritize mental health, and why communication is so important",230,168
+2026-07-15T20:15:39.586070+00:00,48921077,10,Towards a harness that can do anything,125,66
+2026-07-15T20:15:39.586070+00:00,48922706,11,Launch HN: Coasty (YC S26) – An API for computer-use agents,25,3
+2026-07-15T20:15:39.586070+00:00,48919363,13,Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023),587,293
+2026-07-15T20:15:39.586070+00:00,48921303,14,"My midlife crisis Corolla is fast, furious, and modded",115,249
+2026-07-15T20:15:39.586070+00:00,48923079,15,Codex Micro,210,179
+2026-07-15T20:15:39.586070+00:00,48923111,16,"Open-source memory for coding agents, synced over SSH",77,17
+2026-07-15T20:15:39.586070+00:00,48912013,17,The Memory Heist,64,7
+2026-07-15T20:15:39.586070+00:00,48884903,18,Show HN: Capn-hook for coding agents – don't grep the same mystery twice,11,1
+2026-07-15T20:15:39.586070+00:00,48883578,19,"Today I Rescued 7,234 Old GIFs",52,4
+2026-07-15T20:15:39.586070+00:00,48919869,20,Briar is in maintenance mode,116,82
+2026-07-15T20:15:39.586070+00:00,48921461,21,OpenAI loses trademark dispute at EU court,183,120
+2026-07-15T20:15:39.586070+00:00,48923109,22,Unsolved Problems in MLOps,28,4
+2026-07-15T20:15:39.586070+00:00,48892647,23,Editing React components that never rendered,11,2
+2026-07-15T20:15:39.586070+00:00,48920432,24,The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence,144,180
+2026-07-15T20:15:39.586070+00:00,48921121,25,The well-calibrated Bayesian [pdf] (1982),45,18
+2026-07-15T20:15:39.586070+00:00,48918534,26,Telegram Serverless,149,85
+2026-07-15T20:15:39.586070+00:00,48906893,27,The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game,80,14
+2026-07-15T20:15:39.586070+00:00,48922487,28,When A.I. is a member of the family,49,65
+2026-07-15T20:15:39.586070+00:00,48923412,29,A General Goal-Conditioned Minecraft Model,29,10
+2026-07-15T20:15:39.586070+00:00,48919013,30,Weathergotchi – an E-Paper Climate Logger,103,23
+2026-07-15T20:15:39.586070+00:00,48874518,31,What Every Python Developer Should Know About the CPython ABI,47,4
+2026-07-15T20:15:39.586070+00:00,48923209,32,What designing computer science cards taught me about graphic design,28,12
+2026-07-15T20:15:39.586070+00:00,48915709,33,Jurassic Park computers in excruciating detail,838,218
+2026-07-15T20:15:39.586070+00:00,48923363,34,FreeBSD 16 Retires the Last of Its GPL Code from Its Base System,76,21
+2026-07-15T20:15:39.586070+00:00,48925271,35,Why I Left Google DeepMind,208,109
+2026-07-15T20:15:39.586070+00:00,48922185,36,DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety,72,150
+2026-07-15T20:15:39.586070+00:00,48918194,37,The Great Automatic Grammatizator (1954) [pdf],9,2
+2026-07-15T20:15:39.586070+00:00,48919874,38,Germany maybe found a new source of renewable energy,50,67
+2026-07-15T20:15:39.586070+00:00,48919967,39,What's the most popular number in Hacker News titles?,41,22
+2026-07-15T20:15:39.586070+00:00,48918270,40,Using Go for Mobile Apps,46,17
+2026-07-15T20:15:39.586070+00:00,48926017,41,Dark patterns in Windows are steering users to Edge: Mozilla-commissioned report,5,1
+2026-07-15T20:15:39.586070+00:00,48920811,42,Show HN: 18KB ls alternative in no_std rust and Libc,16,4
+2026-07-15T20:15:39.586070+00:00,48923842,43,Show HN: Painterly – Turn pictures into digital paintings without generative AI,11,2
+2026-07-15T20:15:39.586070+00:00,48919617,44,Richard Feynman and the Connection Machine (1989),37,18
+2026-07-15T20:15:39.586070+00:00,48919242,45,Why do people hate the tech industry? (2023),44,120
+2026-07-15T20:15:39.586070+00:00,48898032,46,Bootstrapping GDC with DMD,22,2
+2026-07-15T20:15:39.586070+00:00,48918575,47,DSLs Enable Reliable Use of LLMs,104,69
+2026-07-15T20:15:39.586070+00:00,48904766,48,C3 0.8.2 a Modest Improvement,20,3
+2026-07-15T20:15:39.586070+00:00,48919489,49,Show HN: Make senders work to get into your inbox,40,64
+2026-07-15T20:15:39.586070+00:00,48922803,50,J-space comparisons across open models,17,5
