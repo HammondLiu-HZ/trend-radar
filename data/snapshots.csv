@@ -14158,3 +14158,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-15T16:39:00.719042+00:00,48922717,48,Ask HN: Does it still make sense to write code by hand?,4,9
 2026-07-15T16:39:00.719042+00:00,48920995,49,AI Lays Bare the Authoritarianism of Modern Work. Time to Rethink Education,20,0
 2026-07-15T16:39:00.719042+00:00,48910545,50,Bonsai 27B: A 27B-Class model that runs on a phone,664,236
+2026-07-15T18:13:55.336740+00:00,48922434,1,Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU,95,50
+2026-07-15T18:13:55.336740+00:00,48920475,2,Mysteries of Telegram Data Centers,169,50
+2026-07-15T18:13:55.336740+00:00,48922838,3,Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios),61,15
+2026-07-15T18:13:55.336740+00:00,48923111,4,"Open-source memory for coding agents, synced over SSH",48,11
+2026-07-15T18:13:55.336740+00:00,48923380,5,Collection of Digital Clock Designs,37,7
+2026-07-15T18:13:55.336740+00:00,48915709,6,Jurassic Park computers in excruciating detail,817,211
+2026-07-15T18:13:55.336740+00:00,48922706,7,Launch HN: Coasty (YC S26) – An API for computer-use agents,19,0
+2026-07-15T18:13:55.336740+00:00,48919363,9,Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023),558,276
+2026-07-15T18:13:55.336740+00:00,48921077,10,Towards a Harness That Can Do Anything,97,56
+2026-07-15T18:13:55.336740+00:00,48921303,11,"My midlife crisis Corolla is fast, furious, and modded",69,136
+2026-07-15T18:13:55.336740+00:00,48919198,12,"Prioritize mental health, and why communication is so important",203,128
+2026-07-15T18:13:55.336740+00:00,48923412,13,A General Goal-Conditioned Minecraft Model,16,7
+2026-07-15T18:13:55.336740+00:00,48912013,14,The Memory Heist,46,3
+2026-07-15T18:13:55.336740+00:00,48922487,15,When A.I. Is a Member of the Family,32,31
+2026-07-15T18:13:55.336740+00:00,48921121,16,The well-calibrated Bayesian [pdf] (1982),39,11
+2026-07-15T18:13:55.336740+00:00,48923109,17,Unsolved Problems in MLOps,16,3
+2026-07-15T18:13:55.336740+00:00,48920432,18,The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence,124,159
+2026-07-15T18:13:55.336740+00:00,48921461,19,OpenAI loses trademark dispute at EU court,126,102
+2026-07-15T18:13:55.336740+00:00,48883578,20,"Today I Rescued 7,234 Old GIFs",26,1
+2026-07-15T18:13:55.336740+00:00,48906893,21,The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game,62,10
+2026-07-15T18:13:55.336740+00:00,48919013,22,Weathergotchi – an open-source climate Tamagotchi,94,22
+2026-07-15T18:13:55.336740+00:00,48923209,23,What designing 54 computer science cards taught me about graphic design,14,3
+2026-07-15T18:13:55.336740+00:00,48874518,24,What Every Python Developer Should Know About the CPython ABI,31,4
+2026-07-15T18:13:55.336740+00:00,48920181,25,SpaceX bond worth 10% less than issue price – heading for junk bond status,467,402
+2026-07-15T18:13:55.336740+00:00,48922185,26,DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety,62,120
+2026-07-15T18:13:55.336740+00:00,48923363,27,FreeBSD 16 Retires the Last of Its GPL Code from Its Base System,35,0
+2026-07-15T18:13:55.336740+00:00,48919869,28,Briar Is in Maintenance Mode,107,73
+2026-07-15T18:13:55.336740+00:00,48920811,29,Show HN: 18KB ls alternative in no_std rust and Libc,14,4
+2026-07-15T18:13:55.336740+00:00,48919967,30,What's the most popular number in Hacker News titles?,39,21
+2026-07-15T18:13:55.336740+00:00,48919874,31,Germany maybe found a new source of renewable energy,45,61
+2026-07-15T18:13:55.336740+00:00,48898032,32,Bootstrapping GDC with DMD,20,2
+2026-07-15T18:13:55.336740+00:00,48922277,33,SendLang: A DSL for Email Automation,12,9
+2026-07-15T18:13:55.336740+00:00,48919617,34,Richard Feynman and the Connection Machine (1989),34,16
+2026-07-15T18:13:55.336740+00:00,48918270,35,Using Go for Mobile Apps,40,15
+2026-07-15T18:13:55.336740+00:00,48918534,36,Telegram Serverless,126,76
+2026-07-15T18:13:55.336740+00:00,48922625,37,Nat Slipstreaming v2.0 allows an attacker to remotely access any TCP/UDP service,8,2
+2026-07-15T18:13:55.336740+00:00,48896513,38,Latent Space as a New Medium,42,8
+2026-07-15T18:13:55.336740+00:00,48922469,39,The age of the Universe from a large sample of the oldest Galactic stars,7,1
+2026-07-15T18:13:55.336740+00:00,48904766,40,C3 0.8.2 a Modest Improvement,14,3
+2026-07-15T18:13:55.336740+00:00,48901083,41,A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS,50,9
+2026-07-15T18:13:55.336740+00:00,48923343,42,SpaceX stock sinks below $135 IPO price for the first time,20,3
+2026-07-15T18:13:55.336740+00:00,48920338,43,Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled,81,39
+2026-07-15T18:13:55.336740+00:00,48920698,44,"Ask HN: Is it just me, or is software buggier across the board?",64,75
+2026-07-15T18:13:55.336740+00:00,48922144,45,Museum of the Human Web,4,0
+2026-07-15T18:13:55.336740+00:00,48922870,46,Treating generic drugs as something special can wreck affordability,4,1
+2026-07-15T18:13:55.336740+00:00,48923079,47,Codex Micro,69,71
+2026-07-15T18:13:55.336740+00:00,48913190,48,Microsoft has released software updates to plug at least 570 security holes,184,108
+2026-07-15T18:13:55.336740+00:00,48917055,49,Who's running all those tiny RPKI servers?,69,16
+2026-07-15T18:13:55.336740+00:00,48870217,50,The kids with phones are alright,250,341
