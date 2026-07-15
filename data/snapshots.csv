@@ -14109,3 +14109,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-15T14:00:38.042522+00:00,48896672,48,"The bread paradox: why convenience always wins, and why SaaS isn't doomed",112,104
 2026-07-15T14:00:38.042522+00:00,48918616,49,Boss – Dependency Manager for Delphi and Lazarus,6,0
 2026-07-15T14:00:38.042522+00:00,48905183,50,Mathematical texts from a Maya site in Guatemala identify an ancient astronomer,103,25
+2026-07-15T16:39:00.719042+00:00,48919363,1,Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023),501,246
+2026-07-15T16:39:00.719042+00:00,48920475,2,Mysteries of Telegram Data Centers,127,31
+2026-07-15T16:39:00.719042+00:00,48922803,3,J-space comparisons across open models,17,1
+2026-07-15T16:39:00.719042+00:00,48919198,4,"Prioritize mental health, and why communication is so important",157,88
+2026-07-15T16:39:00.719042+00:00,48922185,5,DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety,44,54
+2026-07-15T16:39:00.719042+00:00,48923079,6,Codex Micro,15,1
+2026-07-15T16:39:00.719042+00:00,48922838,7,Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios),9,0
+2026-07-15T16:39:00.719042+00:00,48915709,8,Jurassic Park computers in excruciating detail,756,194
+2026-07-15T16:39:00.719042+00:00,48922434,9,Running Gemma 4 26B at 5 tokens/SEC on a 13-year-old Xeon with no GPU,14,4
+2026-07-15T16:39:00.719042+00:00,48921121,10,The well-calibrated Bayesian [pdf] (1982),35,8
+2026-07-15T16:39:00.719042+00:00,48923111,11,"Open-source memory for coding agents, synced over SSH",6,3
+2026-07-15T16:39:00.719042+00:00,48922487,12,When A.I. Is a Member of the Family,6,1
+2026-07-15T16:39:00.719042+00:00,48919013,13,Weathergotchi – an open-source climate Tamagotchi,76,22
+2026-07-15T16:39:00.719042+00:00,48920181,14,SpaceX bond worth 10% less than issue price – heading for junk bond status,393,335
+2026-07-15T16:39:00.719042+00:00,48912013,16,The Memory Heist,22,2
+2026-07-15T16:39:00.719042+00:00,48874518,17,What Every Python Developer Should Know About the CPython ABI,22,2
+2026-07-15T16:39:00.719042+00:00,48921077,18,Towards a Harness That Can Do Anything,70,42
+2026-07-15T16:39:00.719042+00:00,48906893,19,The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game,44,5
+2026-07-15T16:39:00.719042+00:00,48921422,20,CVE-2026-59208: Cross-Issuer Account Takeover in n8n,14,1
+2026-07-15T16:39:00.719042+00:00,48919869,21,Briar Is in Maintenance Mode,91,64
+2026-07-15T16:39:00.719042+00:00,48922469,22,The age of the Universe from a large sample of the oldest Galactic stars,5,0
+2026-07-15T16:39:00.719042+00:00,48904766,23,C3 0.8.2 a Modest Improvement,5,3
+2026-07-15T16:39:00.719042+00:00,48920811,24,Show HN: 18KB ls alternative in no_std rust and Libc,11,2
+2026-07-15T16:39:00.719042+00:00,48919967,25,What's the most popular number in Hacker News titles?,32,17
+2026-07-15T16:39:00.719042+00:00,48901083,26,A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS,49,9
+2026-07-15T16:39:00.719042+00:00,48898032,27,Bootstrapping GDC with DMD,18,1
+2026-07-15T16:39:00.719042+00:00,48922625,28,Nat Slipstreaming v2.0 allows an attacker to remotely access any TCP/UDP service,4,2
+2026-07-15T16:39:00.719042+00:00,48920432,29,The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence,105,125
+2026-07-15T16:39:00.719042+00:00,48918270,30,Using Go for Mobile Apps,37,12
+2026-07-15T16:39:00.719042+00:00,48896513,31,Latent Space as a New Medium,40,8
+2026-07-15T16:39:00.719042+00:00,48920338,32,Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled,74,30
+2026-07-15T16:39:00.719042+00:00,48922277,33,SendLang: A DSL for Email Automation,7,1
+2026-07-15T16:39:00.719042+00:00,48922144,34,Museum of the Human Web,3,0
+2026-07-15T16:39:00.719042+00:00,48918534,35,Telegram Serverless,116,74
+2026-07-15T16:39:00.719042+00:00,48919617,36,Richard Feynman and the Connection Machine (1989),27,12
+2026-07-15T16:39:00.719042+00:00,48920681,37,"Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agents",10,2
+2026-07-15T16:39:00.719042+00:00,48921461,38,OpenAI loses trademark dispute at EU court,78,71
+2026-07-15T16:39:00.719042+00:00,48917055,39,Who's running all those tiny RPKI servers?,66,14
+2026-07-15T16:39:00.719042+00:00,48913190,40,Microsoft has released software updates to plug at least 570 security holes,181,107
+2026-07-15T16:39:00.719042+00:00,48920650,41,Show HN: Goku – WASM (wllama)-powered LLM inference and model manager,4,2
+2026-07-15T16:39:00.719042+00:00,48916975,42,"I tricked Claude into leaking your deepest, darkest secrets",538,253
+2026-07-15T16:39:00.719042+00:00,48876329,43,Combinatorial Games in Lean,35,3
+2026-07-15T16:39:00.719042+00:00,48921210,44,Ignoring OS files (like .DS_Store) in Git inside dev containers,3,0
+2026-07-15T16:39:00.719042+00:00,48920504,45,We compiled our TypeScript parser to WASM,7,0
+2026-07-15T16:39:00.719042+00:00,48923038,46,Kilo Code has been acquired by Anaconda,6,0
+2026-07-15T16:39:00.719042+00:00,48870217,47,The kids with phones are alright,247,338
+2026-07-15T16:39:00.719042+00:00,48922717,48,Ask HN: Does it still make sense to write code by hand?,4,9
+2026-07-15T16:39:00.719042+00:00,48920995,49,AI Lays Bare the Authoritarianism of Modern Work. Time to Rethink Education,20,0
+2026-07-15T16:39:00.719042+00:00,48910545,50,Bonsai 27B: A 27B-Class model that runs on a phone,664,236
