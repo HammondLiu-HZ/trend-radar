@@ -14256,3 +14256,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-15T20:15:39.586070+00:00,48904766,48,C3 0.8.2 a Modest Improvement,20,3
 2026-07-15T20:15:39.586070+00:00,48919489,49,Show HN: Make senders work to get into your inbox,40,64
 2026-07-15T20:15:39.586070+00:00,48922803,50,J-space comparisons across open models,17,5
+2026-07-15T22:08:25.109116+00:00,48924912,1,Inkling: Our Open-Weights Model,454,109
+2026-07-15T22:08:25.109116+00:00,48926590,2,Grok Build,104,111
+2026-07-15T22:08:25.109116+00:00,48915953,3,Stripe and Advent have made a joint offer to acquire PayPal – sources,277,148
+2026-07-15T22:08:25.109116+00:00,48926939,4,Show HN: Firefox in WebAssembly,36,15
+2026-07-15T22:08:25.109116+00:00,48927409,5,"Speculative Growth and the AI ""Bubble"" [pdf]",15,5
+2026-07-15T22:08:25.109116+00:00,48922434,6,Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU,200,119
+2026-07-15T22:08:25.109116+00:00,48925888,7,"Duskers, the scary command line game, is getting a sequel",68,12
+2026-07-15T22:08:25.109116+00:00,48927373,8,We don't use AI in any of our design or production processes,16,7
+2026-07-15T22:08:25.109116+00:00,48926085,9,"Brainless: Shadcn components that look like Claude Code, Codex and Grok",52,6
+2026-07-15T22:08:25.109116+00:00,48926053,10,Voxatron,35,12
+2026-07-15T22:08:25.109116+00:00,48927095,11,Must actively fund open source AI [pdf],12,0
+2026-07-15T22:08:25.109116+00:00,48923380,12,Collection of Digital Clock Designs,136,32
+2026-07-15T22:08:25.109116+00:00,48920475,13,Mysteries of Telegram Data Centers (2022),222,113
+2026-07-15T22:08:25.109116+00:00,48892273,14,"MITS: Rockets, Calculators, and Personal Computers",16,0
+2026-07-15T22:08:25.109116+00:00,48922838,15,Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios),116,38
+2026-07-15T22:08:25.109116+00:00,48927136,17,The End of Creativity,12,14
+2026-07-15T22:08:25.109116+00:00,48894874,18,Designing APIs for Agents,23,6
+2026-07-15T22:08:25.109116+00:00,48919198,19,"Prioritize mental health, and why communication is so important",260,212
+2026-07-15T22:08:25.109116+00:00,48913653,20,Book prizes don't work how you think,19,1
+2026-07-15T22:08:25.109116+00:00,48907681,21,Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22),16,2
+2026-07-15T22:08:25.109116+00:00,48881064,22,Command Line Interface Guidelines,17,0
+2026-07-15T22:08:25.109116+00:00,48921077,23,Towards a harness that can do anything,150,77
+2026-07-15T22:08:25.109116+00:00,48913642,24,"Twain Town, USA",11,0
+2026-07-15T22:08:25.109116+00:00,48858703,25,Show HN: Microcosm Industries – Simulation toys and software microcosms,7,1
+2026-07-15T22:08:25.109116+00:00,48923111,26,"Open-source memory for coding agents, synced over SSH",94,20
+2026-07-15T22:08:25.109116+00:00,48883578,27,"Today I Rescued 7,234 Old GIFs",76,5
+2026-07-15T22:08:25.109116+00:00,48919363,28,Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023),619,313
+2026-07-15T22:08:25.109116+00:00,48921303,29,"My midlife crisis Corolla is fast, furious, and modded",144,303
+2026-07-15T22:08:25.109116+00:00,48919869,30,Briar is in maintenance mode,134,89
+2026-07-15T22:08:25.109116+00:00,48912013,31,The Memory Heist,84,9
+2026-07-15T22:08:25.109116+00:00,48922706,32,Launch HN: Coasty (YC S26) – An API for computer-use agents,27,5
+2026-07-15T22:08:25.109116+00:00,48884903,33,Show HN: Capn-hook for coding agents – don't grep the same mystery twice,24,5
+2026-07-15T22:08:25.109116+00:00,48923079,34,Codex Micro,243,208
+2026-07-15T22:08:25.109116+00:00,48923109,35,Unsolved Problems in MLOps,41,4
+2026-07-15T22:08:25.109116+00:00,48921461,36,OpenAI loses trademark dispute at EU court,201,139
+2026-07-15T22:08:25.109116+00:00,48906893,37,The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game,92,16
+2026-07-15T22:08:25.109116+00:00,48922487,38,When A.I. is a member of the family,62,84
+2026-07-15T22:08:25.109116+00:00,48922631,39,"Show HN: SirixDB 1.0 Beta – Git-Like Versioning, Diffs, Time-Travel Queries",9,1
+2026-07-15T22:08:25.109116+00:00,48918534,40,Telegram Serverless,169,92
+2026-07-15T22:08:25.109116+00:00,48920432,41,The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence,158,208
+2026-07-15T22:08:25.109116+00:00,48923412,42,A General Goal-Conditioned Minecraft Model,34,15
+2026-07-15T22:08:25.109116+00:00,48919013,43,Weathergotchi – an E-Paper Climate Logger,107,24
+2026-07-15T22:08:25.109116+00:00,48921121,44,The well-calibrated Bayesian [pdf] (1982),46,24
+2026-07-15T22:08:25.109116+00:00,48915709,45,Jurassic Park computers in excruciating detail,856,226
+2026-07-15T22:08:25.109116+00:00,48874518,46,What Every Python Developer Should Know About the CPython ABI,54,5
+2026-07-15T22:08:25.109116+00:00,48892647,47,Editing React components that never rendered,13,5
+2026-07-15T22:08:25.109116+00:00,48925420,48,Making 768 servers look like 1,9,3
+2026-07-15T22:08:25.109116+00:00,48925342,49,Three governments agree on something the AI industry doesn't want to hear,7,1
+2026-07-15T22:08:25.109116+00:00,48926017,50,Dark patterns in Windows are steering users to Edge: Mozilla-commissioned report,24,1
