@@ -14011,3 +14011,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-15T09:16:33.644955+00:00,48876809,48,How the FSF sysadmins block botnets with reaction,162,71
 2026-07-15T09:16:33.644955+00:00,48901356,49,Satellite Tracker – Live Map of Starlink and 30k Satellites,160,97
 2026-07-15T09:16:33.644955+00:00,48903082,50,Indian scientists produce most detailed 3D atlas of the human brainstem,205,21
+2026-07-15T11:41:11.330007+00:00,48915709,1,Jurassic Park computers in excruciating detail,538,125
+2026-07-15T11:41:11.330007+00:00,48914644,2,Vancouver PD website features Quick Escape button that wipes itself from history,295,120
+2026-07-15T11:41:11.330007+00:00,48910545,3,Bonsai 27B: A 27B-Class model that runs on a phone,623,217
+2026-07-15T11:41:11.330007+00:00,48915004,4,TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access,166,95
+2026-07-15T11:41:11.330007+00:00,48917055,5,Who's running all those tiny RPKI servers?,48,3
+2026-07-15T11:41:11.330007+00:00,48919004,6,Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor,3,0
+2026-07-15T11:41:11.330007+00:00,48916975,7,"I tricked Claude into leaking your deepest, darkest secrets",386,177
+2026-07-15T11:41:11.330007+00:00,48909785,8,The Tower Keeps Rising,485,227
+2026-07-15T11:41:11.330007+00:00,48910676,9,Cursor 0day: When Full Disclosure Becomes the Only Protection Left,386,181
+2026-07-15T11:41:11.330007+00:00,48913050,10,Dependabot version updates introduce default package cooldown,184,116
+2026-07-15T11:41:11.330007+00:00,48912175,11,How I use HTMX with Go,264,76
+2026-07-15T11:41:11.330007+00:00,48877485,12,Neverclick: Desktop application for performing mouse actions with your keyboard,15,14
+2026-07-15T11:41:11.330007+00:00,48916805,13,RISC-V Is Inevitable: State of the Union Keynote Argues,83,73
+2026-07-15T11:41:11.330007+00:00,48876329,14,Combinatorial Games in Lean,16,2
+2026-07-15T11:41:11.330007+00:00,48875188,15,Andon (manufacturing),59,21
+2026-07-15T11:41:11.330007+00:00,48887175,16,Show HN: Web App Uses RTL-SDR to Align HDTV Antenna,10,0
+2026-07-15T11:41:11.330007+00:00,48905248,17,How to stop Claude from saying load-bearing,549,567
+2026-07-15T11:41:11.330007+00:00,48913190,18,Microsoft has released software updates to plug at least 570 security holes,145,95
+2026-07-15T11:41:11.330007+00:00,48908214,19,I'm a USB-C Maximalist,299,394
+2026-07-15T11:41:11.330007+00:00,48870217,20,The kids with phones are alright,225,254
+2026-07-15T11:41:11.330007+00:00,48860897,21,Surprising lessons from my research scientist job search,20,1
+2026-07-15T11:41:11.330007+00:00,48872401,22,"The largest available Minecraft world, totalling 15 TB",227,73
+2026-07-15T11:41:11.330007+00:00,48913763,23,LeMario: Training a JEPA World Model on Super Mario Bros,116,13
+2026-07-15T11:41:11.330007+00:00,48905183,24,Mathematical texts from a Maya site in Guatemala identify an ancient astronomer,100,23
+2026-07-15T11:41:11.330007+00:00,48896672,25,"The bread paradox: why convenience always wins, and why SaaS isn't doomed",96,89
+2026-07-15T11:41:11.330007+00:00,48908950,26,Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations,79,43
+2026-07-15T11:41:11.330007+00:00,48914646,27,Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel,142,81
+2026-07-15T11:41:11.330007+00:00,48913457,28,Probably check on your smart appliances,79,28
+2026-07-15T11:41:11.330007+00:00,48899473,29,The Estranged Worlds of J. G. Ballard,69,15
+2026-07-15T11:41:11.330007+00:00,48883305,30,"Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",250,107
+2026-07-15T11:41:11.330007+00:00,48869989,31,Your 'app' could have been a webpage (so I fixed it for you),829,497
+2026-07-15T11:41:11.330007+00:00,48908178,32,Are we offloading too much of our thinking to AI?,486,437
+2026-07-15T11:41:11.330007+00:00,48905118,33,Punch yourself in the face with reality,230,112
+2026-07-15T11:41:11.330007+00:00,48902320,34,Australian energy retailers must offer three hours of free daytime electricity,275,378
+2026-07-15T11:41:11.330007+00:00,48903777,35,"European ""age verification"" ""app"" forcing everyone to use Android or iOS",543,387
+2026-07-15T11:41:11.330007+00:00,48906041,36,Guardian Angels: LLM Personalization for Productivity and Security,87,15
+2026-07-15T11:41:11.330007+00:00,48908271,37,Show HN: Opening lines of famous literary works,169,97
+2026-07-15T11:41:11.330007+00:00,48862351,38,An unusual way for your DHCP server to run out of dynamic IPs,73,16
+2026-07-15T11:41:11.330007+00:00,48874190,40,The Second Life of Sanskrit,61,56
+2026-07-15T11:41:11.330007+00:00,48904095,41,Demis Hassabis has a plan to harness AI safely,149,195
+2026-07-15T11:41:11.330007+00:00,48873275,42,C++20 Improved the For-Loop Syntax,42,69
+2026-07-15T11:41:11.330007+00:00,48866848,43,Unlocking the PSP's Dual Core Setup,60,5
+2026-07-15T11:41:11.330007+00:00,48907290,44,Agnes Callard’s theory of the uni-context,95,97
+2026-07-15T11:41:11.330007+00:00,48909424,45,"Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",377,251
+2026-07-15T11:41:11.330007+00:00,48865001,46,The zero-cost fallacy: open-source software in the agentic era,149,119
+2026-07-15T11:41:11.330007+00:00,48907672,47,The Agentic Loop: Three loops in a trench coat,83,22
+2026-07-15T11:41:11.330007+00:00,48901356,48,Satellite Tracker – Live Map of Starlink and 30k Satellites,161,98
+2026-07-15T11:41:11.330007+00:00,48903082,49,Indian scientists produce most detailed 3D atlas of the human brainstem,207,22
+2026-07-15T11:41:11.330007+00:00,48882608,50,The Trade in Looted Antiquities Endures for One Reason: Demand,19,8
