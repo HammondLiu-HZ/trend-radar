@@ -13864,3 +13864,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-14T23:59:05.924526+00:00,48913246,48,House passes bill to enact year-round Daylight Saving Time across the country,28,33
 2026-07-14T23:59:05.924526+00:00,48912254,49,"Pg_re2: Postgres extension for fast, RE2-powered regular expressions in Postgres",11,1
 2026-07-14T23:59:05.924526+00:00,48901645,50,Our Amish Language,97,71
+2026-07-15T03:25:23.370134+00:00,48914644,1,Vancouver PD website features Quick Escape button that wipes itself from history,149,57
+2026-07-15T03:25:23.370134+00:00,48915004,2,TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access,62,24
+2026-07-15T03:25:23.370134+00:00,48915244,3,Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning,51,30
+2026-07-15T03:25:23.370134+00:00,48910545,4,Bonsai 27B: A 27B-Class model that runs on a phone,471,174
+2026-07-15T03:25:23.370134+00:00,48914646,5,Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel,50,13
+2026-07-15T03:25:23.370134+00:00,48913050,6,Dependabot version updates introduce default package cooldown,116,70
+2026-07-15T03:25:23.370134+00:00,48909785,7,The Tower Keeps Rising,368,173
+2026-07-15T03:25:23.370134+00:00,48913443,8,Financing the AI boom: from cash flows to debt [pdf],107,56
+2026-07-15T03:25:23.370134+00:00,48910676,9,Cursor 0day: When Full Disclosure Becomes the Only Protection Left,272,125
+2026-07-15T03:25:23.370134+00:00,48869989,10,Your 'app' could have been a webpage (so I fixed it for you),750,455
+2026-07-15T03:25:23.370134+00:00,48913763,11,LeMario: Training a JEPA World Model on Super Mario Bros,63,8
+2026-07-15T03:25:23.370134+00:00,48905183,12,Mathematical texts from a Maya site in Guatemala identify an ancient astronomer,51,9
+2026-07-15T03:25:23.370134+00:00,48912175,13,How I use HTMX with Go,135,30
+2026-07-15T03:25:23.370134+00:00,48914683,14,Data centers have hiked electricity prices on the public by $23B,90,46
+2026-07-15T03:25:23.370134+00:00,48905248,15,How to stop Claude from saying load-bearing,454,514
+2026-07-15T03:25:23.370134+00:00,48862351,16,An unusual way for your DHCP server to run out of dynamic IPs,28,3
+2026-07-15T03:25:23.370134+00:00,48913190,17,Microsoft Patches a Record 570 Security Flaws,48,23
+2026-07-15T03:25:23.370134+00:00,48908214,18,I'm a USB-C Maximalist,187,292
+2026-07-15T03:25:23.370134+00:00,48872401,19,"The largest available Minecraft world, totalling 15 TB",173,58
+2026-07-15T03:25:23.370134+00:00,48870217,20,The kids with phones are alright,142,99
+2026-07-15T03:25:23.370134+00:00,48899473,21,The Estranged Worlds of J. G. Ballard,41,7
+2026-07-15T03:25:23.370134+00:00,48865001,22,The zero-cost fallacy: open-source software in the agentic era,113,94
+2026-07-15T03:25:23.370134+00:00,48906041,23,Guardian Angels: LLM Personalization for Productivity and Security,64,11
+2026-07-15T03:25:23.370134+00:00,48866848,24,Unlocking the PSP's Dual Core Setup,49,4
+2026-07-15T03:25:23.370134+00:00,48908178,25,Are we offloading too much of our thinking to AI?,394,392
+2026-07-15T03:25:23.370134+00:00,48883305,27,"Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",193,81
+2026-07-15T03:25:23.370134+00:00,48908271,28,Show HN: Opening lines of famous literary works,145,87
+2026-07-15T03:25:23.370134+00:00,48854431,29,Ambient Website Background Clouds,7,1
+2026-07-15T03:25:23.370134+00:00,48913457,30,Probably check on your smart appliances,30,12
+2026-07-15T03:25:23.370134+00:00,48908950,31,Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations,47,34
+2026-07-15T03:25:23.370134+00:00,48905118,32,Punch yourself in the face with reality,213,106
+2026-07-15T03:25:23.370134+00:00,48909424,33,"Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",351,227
+2026-07-15T03:25:23.370134+00:00,48903777,34,"European ""age verification"" ""app"" forcing everyone to use Android or iOS",490,335
+2026-07-15T03:25:23.370134+00:00,48902320,35,Australian energy retailers must offer three hours of free daytime electricity,269,357
+2026-07-15T03:25:23.370134+00:00,48907672,36,The Agentic Loop: Three loops in a trench coat,75,21
+2026-07-15T03:25:23.370134+00:00,48907290,37,Agnes Callard’s theory of the uni-context,91,95
+2026-07-15T03:25:23.370134+00:00,48904095,38,Demis Hassabis has a plan to harness AI safely,138,186
+2026-07-15T03:25:23.370134+00:00,48913162,39,Cyberstalkers Are Exploiting Chrome Sync to Spy on Victims,11,0
+2026-07-15T03:25:23.370134+00:00,48912100,40,"StubHub, CEO hit with ‘deceptive practices’ class action over mass scalping",125,65
+2026-07-15T03:25:23.370134+00:00,48876809,41,How the FSF sysadmins block botnets with reaction,157,68
+2026-07-15T03:25:23.370134+00:00,48911803,42,I also filed the corners off my MacBook,35,7
+2026-07-15T03:25:23.370134+00:00,48900541,43,Human Canaries: Remembering the Munitionettes,14,0
+2026-07-15T03:25:23.370134+00:00,48913910,44,Casio FX-870P Emulator,17,2
+2026-07-15T03:25:23.370134+00:00,48905919,45,Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k),97,42
+2026-07-15T03:25:23.370134+00:00,48914917,46,House Votes for Permanent Daylight Saving Time,13,4
+2026-07-15T03:25:23.370134+00:00,48914472,47,"Legal AI, not a coding agent with scaffolding",7,0
+2026-07-15T03:25:23.370134+00:00,48858541,48,Accretive Editing,20,10
+2026-07-15T03:25:23.370134+00:00,48913677,49,What to know about 'explosive diarrhoea' parasite outbreak in US,10,0
+2026-07-15T03:25:23.370134+00:00,48914385,50,We Demand Perfect Machines yet Tolerate Human Carnage,7,3
