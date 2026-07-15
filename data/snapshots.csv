@@ -13962,3 +13962,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-15T06:22:51.320316+00:00,48901356,48,Satellite Tracker – Live Map of Starlink and 30k Satellites,158,94
 2026-07-15T06:22:51.320316+00:00,48903082,49,Indian scientists produce most detailed 3D atlas of the human brainstem,202,21
 2026-07-15T06:22:51.320316+00:00,48901645,50,Our Amish Language,101,78
+2026-07-15T09:16:33.644955+00:00,48915709,1,Jurassic Park computers in excruciating detail,411,101
+2026-07-15T09:16:33.644955+00:00,48916805,2,RISC-V Is Inevitable: State of the Union Keynote Argues,52,35
+2026-07-15T09:16:33.644955+00:00,48916975,3,"I tricked Claude into leaking your deepest, darkest secrets",246,107
+2026-07-15T09:16:33.644955+00:00,48914644,4,Vancouver PD website features Quick Escape button that wipes itself from history,261,104
+2026-07-15T09:16:33.644955+00:00,48915004,5,TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access,147,71
+2026-07-15T09:16:33.644955+00:00,48910545,6,Bonsai 27B: A 27B-Class model that runs on a phone,585,209
+2026-07-15T09:16:33.644955+00:00,48861184,7,Never argue with your boss (2009),26,21
+2026-07-15T09:16:33.644955+00:00,48875188,8,Andon (manufacturing),51,12
+2026-07-15T09:16:33.644955+00:00,48909785,9,The Tower Keeps Rising,461,221
+2026-07-15T09:16:33.644955+00:00,48917055,10,Who's running all those tiny RPKI servers?,17,0
+2026-07-15T09:16:33.644955+00:00,48913050,11,Dependabot version updates introduce default package cooldown,172,111
+2026-07-15T09:16:33.644955+00:00,48910676,12,Cursor 0day: When Full Disclosure Becomes the Only Protection Left,357,167
+2026-07-15T09:16:33.644955+00:00,48912175,13,How I use HTMX with Go,241,66
+2026-07-15T09:16:33.644955+00:00,48913190,14,Microsoft has released software updates to plug at least 570 security holes,126,71
+2026-07-15T09:16:33.644955+00:00,48914646,15,Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel,132,59
+2026-07-15T09:16:33.644955+00:00,48905248,16,How to stop Claude from saying load-bearing,525,552
+2026-07-15T09:16:33.644955+00:00,48908214,17,I'm a USB-C Maximalist,282,371
+2026-07-15T09:16:33.644955+00:00,48896672,18,"The bread paradox: why convenience always wins, and why SaaS isn't doomed",74,61
+2026-07-15T09:16:33.644955+00:00,48905183,19,Mathematical texts from a Maya site in Guatemala identify an ancient astronomer,90,21
+2026-07-15T09:16:33.644955+00:00,48870217,20,The kids with phones are alright,203,183
+2026-07-15T09:16:33.644955+00:00,48860897,21,Surprising lessons from my research scientist job search,10,1
+2026-07-15T09:16:33.644955+00:00,48872401,22,"The largest available Minecraft world, totalling 15 TB",218,71
+2026-07-15T09:16:33.644955+00:00,48913763,23,LeMario: Training a JEPA World Model on Super Mario Bros,95,13
+2026-07-15T09:16:33.644955+00:00,48908950,24,Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations,77,40
+2026-07-15T09:16:33.644955+00:00,48913457,25,Probably check on your smart appliances,65,22
+2026-07-15T09:16:33.644955+00:00,48899473,26,The Estranged Worlds of J. G. Ballard,61,13
+2026-07-15T09:16:33.644955+00:00,48869989,27,Your 'app' could have been a webpage (so I fixed it for you),807,477
+2026-07-15T09:16:33.644955+00:00,48908178,28,Are we offloading too much of our thinking to AI?,465,430
+2026-07-15T09:16:33.644955+00:00,48883305,29,"Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",231,103
+2026-07-15T09:16:33.644955+00:00,48865001,30,The zero-cost fallacy: open-source software in the agentic era,148,113
+2026-07-15T09:16:33.644955+00:00,48905118,31,Punch yourself in the face with reality,226,110
+2026-07-15T09:16:33.644955+00:00,48906041,32,Guardian Angels: LLM Personalization for Productivity and Security,84,13
+2026-07-15T09:16:33.644955+00:00,48908271,33,Show HN: Opening lines of famous literary works,166,92
+2026-07-15T09:16:33.644955+00:00,48902320,35,Australian energy retailers must offer three hours of free daytime electricity,274,374
+2026-07-15T09:16:33.644955+00:00,48918078,36,America pays workers just 27% of what its wealth allows – the worst in the OECD,4,0
+2026-07-15T09:16:33.644955+00:00,48903777,37,"European ""age verification"" ""app"" forcing everyone to use Android or iOS",528,370
+2026-07-15T09:16:33.644955+00:00,48882608,38,The Trade in Looted Antiquities Endures for One Reason: Demand,18,8
+2026-07-15T09:16:33.644955+00:00,48873275,39,C++20 Improved the For-Loop Syntax,41,55
+2026-07-15T09:16:33.644955+00:00,48874190,40,The Second Life of Sanskrit,55,51
+2026-07-15T09:16:33.644955+00:00,48862351,41,An unusual way for your DHCP server to run out of dynamic IPs,68,16
+2026-07-15T09:16:33.644955+00:00,48909424,42,"Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",371,240
+2026-07-15T09:16:33.644955+00:00,48904095,43,Demis Hassabis has a plan to harness AI safely,145,193
+2026-07-15T09:16:33.644955+00:00,48866848,44,Unlocking the PSP's Dual Core Setup,57,4
+2026-07-15T09:16:33.644955+00:00,48907290,45,Agnes Callard’s theory of the uni-context,95,97
+2026-07-15T09:16:33.644955+00:00,48917518,46,Why Are Japanese Retail Traders Shorting the US Dollar?,6,0
+2026-07-15T09:16:33.644955+00:00,48907672,47,The Agentic Loop: Three loops in a trench coat,81,22
+2026-07-15T09:16:33.644955+00:00,48876809,48,How the FSF sysadmins block botnets with reaction,162,71
+2026-07-15T09:16:33.644955+00:00,48901356,49,Satellite Tracker – Live Map of Starlink and 30k Satellites,160,97
+2026-07-15T09:16:33.644955+00:00,48903082,50,Indian scientists produce most detailed 3D atlas of the human brainstem,205,21
