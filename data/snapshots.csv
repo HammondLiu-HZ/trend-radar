@@ -14060,3 +14060,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-15T11:41:11.330007+00:00,48901356,48,Satellite Tracker – Live Map of Starlink and 30k Satellites,161,98
 2026-07-15T11:41:11.330007+00:00,48903082,49,Indian scientists produce most detailed 3D atlas of the human brainstem,207,22
 2026-07-15T11:41:11.330007+00:00,48882608,50,The Trade in Looted Antiquities Endures for One Reason: Demand,19,8
+2026-07-15T14:00:38.042522+00:00,48919363,1,Sleep regularity is a stronger predictor of mortality risk than sleep duration,231,93
+2026-07-15T14:00:38.042522+00:00,48920432,2,The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence,20,14
+2026-07-15T14:00:38.042522+00:00,48920475,3,Mysteries of Telegram Data Centers,23,2
+2026-07-15T14:00:38.042522+00:00,48915709,4,Jurassic Park computers in excruciating detail,657,163
+2026-07-15T14:00:38.042522+00:00,48920443,5,Privacy Incidents – Real-world examples of why your photos need protection,25,1
+2026-07-15T14:00:38.042522+00:00,48919198,6,"Prioritize mental health, and why communication is so important",72,54
+2026-07-15T14:00:38.042522+00:00,48920181,7,SpaceX bond worth 10% less than issue price – heading for junk bond status,83,20
+2026-07-15T14:00:38.042522+00:00,48919869,8,Briar Is in Maintenance Mode,18,0
+2026-07-15T14:00:38.042522+00:00,48919191,9,"Show HN: For 10 World Cups, my model's 2 favorites had the champion every time",29,36
+2026-07-15T14:00:38.042522+00:00,48918575,11,DSLs Enable Reliable Use of LLMs,68,39
+2026-07-15T14:00:38.042522+00:00,48919013,12,Weathergotchi – an open-source climate Tamagotchi,40,12
+2026-07-15T14:00:38.042522+00:00,48901083,13,A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS,32,1
+2026-07-15T14:00:38.042522+00:00,48918956,14,Societal Impacts: Claude's values across models and languages,27,29
+2026-07-15T14:00:38.042522+00:00,48920156,15,What `for x in y` hides from you – From Scratch Code,7,4
+2026-07-15T14:00:38.042522+00:00,48920537,16,Show HN: Grepathy – Claude made a decision nobody approved,4,4
+2026-07-15T14:00:38.042522+00:00,48910545,17,Bonsai 27B: A 27B-Class model that runs on a phone,651,230
+2026-07-15T14:00:38.042522+00:00,48914644,18,Vancouver PD website features Quick Escape button that wipes itself from history,317,127
+2026-07-15T14:00:38.042522+00:00,48877485,19,Neverclick: Desktop application for performing mouse actions with your keyboard,37,37
+2026-07-15T14:00:38.042522+00:00,48918534,20,Telegram Serverless,65,43
+2026-07-15T14:00:38.042522+00:00,48915004,21,TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access,187,112
+2026-07-15T14:00:38.042522+00:00,48920698,22,"Ask HN: Is it just me, or is software buggier across the board?",5,1
+2026-07-15T14:00:38.042522+00:00,48919874,23,Germany maybe found a new source of renewable energy,9,3
+2026-07-15T14:00:38.042522+00:00,48896513,24,Latent Space as a New Medium,21,3
+2026-07-15T14:00:38.042522+00:00,48918270,25,Using Go for Mobile Apps,17,6
+2026-07-15T14:00:38.042522+00:00,48907871,26,Show HN: I built a smart proxy so your coding agent can run loose,5,3
+2026-07-15T14:00:38.042522+00:00,48909785,27,The Tower Keeps Rising,517,239
+2026-07-15T14:00:38.042522+00:00,48919967,28,What's the most popular number in Hacker News titles?,5,2
+2026-07-15T14:00:38.042522+00:00,48917055,29,Who's running all those tiny RPKI servers?,58,8
+2026-07-15T14:00:38.042522+00:00,48913050,30,Dependabot version updates introduce default package cooldown,198,124
+2026-07-15T14:00:38.042522+00:00,48912175,31,How I use HTMX with Go,292,93
+2026-07-15T14:00:38.042522+00:00,48898032,32,Bootstrapping GDC with DMD,4,0
+2026-07-15T14:00:38.042522+00:00,48910676,33,Cursor 0day: When Full Disclosure Becomes the Only Protection Left,413,194
+2026-07-15T14:00:38.042522+00:00,48919832,34,The $110/month self-improving pipeline,3,0
+2026-07-15T14:00:38.042522+00:00,48876329,35,Combinatorial Games in Lean,25,3
+2026-07-15T14:00:38.042522+00:00,48905248,36,How to stop Claude from saying load-bearing,570,585
+2026-07-15T14:00:38.042522+00:00,48919617,37,Richard Feynman and the Connection Machine,4,1
+2026-07-15T14:00:38.042522+00:00,48908214,38,I'm a USB-C Maximalist,323,415
+2026-07-15T14:00:38.042522+00:00,48913190,39,Microsoft has released software updates to plug at least 570 security holes,165,103
+2026-07-15T14:00:38.042522+00:00,48916975,40,"I tricked Claude into leaking your deepest, darkest secrets",473,226
+2026-07-15T14:00:38.042522+00:00,48875188,41,Andon (manufacturing),64,29
+2026-07-15T14:00:38.042522+00:00,48870217,42,The kids with phones are alright,238,317
+2026-07-15T14:00:38.042522+00:00,48887175,43,Show HN: Web App Uses RTL-SDR to Align HDTV Antenna,19,3
+2026-07-15T14:00:38.042522+00:00,48872401,44,"The largest available Minecraft world, totalling 15 TB",235,76
+2026-07-15T14:00:38.042522+00:00,48920545,45,The Purge: How the White House Broke the NSC and How to Fix It – Lawfare,4,0
+2026-07-15T14:00:38.042522+00:00,48916805,46,RISC-V Is Inevitable: State of the Union Keynote Argues,96,94
+2026-07-15T14:00:38.042522+00:00,48913763,47,LeMario: Training a JEPA World Model on Super Mario Bros,121,15
+2026-07-15T14:00:38.042522+00:00,48896672,48,"The bread paradox: why convenience always wins, and why SaaS isn't doomed",112,104
+2026-07-15T14:00:38.042522+00:00,48918616,49,Boss – Dependency Manager for Delphi and Lazarus,6,0
+2026-07-15T14:00:38.042522+00:00,48905183,50,Mathematical texts from a Maya site in Guatemala identify an ancient astronomer,103,25
