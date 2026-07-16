@@ -14354,3 +14354,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-16T00:04:20.695296+00:00,48923079,48,Codex Micro,257,220
 2026-07-16T00:04:20.695296+00:00,48921461,49,OpenAI loses trademark dispute at EU court,212,143
 2026-07-16T00:04:20.695296+00:00,48884903,50,Show HN: Capn-hook for coding agents – don't grep the same mystery twice,26,5
+2026-07-16T04:14:10.669523+00:00,48924912,1,Inkling: Our Open-Weights Model,792,202
+2026-07-16T04:14:10.669523+00:00,48928135,2,SQLite should have (Rust-style) editions,155,65
+2026-07-16T04:14:10.669523+00:00,48930011,3,Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign,20,1
+2026-07-16T04:14:10.669523+00:00,48926590,4,Grok Build is open source,322,361
+2026-07-16T04:14:10.669523+00:00,48871721,5,"G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",58,19
+2026-07-16T04:14:10.669523+00:00,48915393,6,High-Bandwidth Flash offers efficient storage for model weights,13,1
+2026-07-16T04:14:10.669523+00:00,48929351,7,Bluesky Trademarks ATProto,36,10
+2026-07-16T04:14:10.669523+00:00,48927095,8,"Governments, companies, nonprofits should invest in free, open source AI [pdf]",122,48
+2026-07-16T04:14:10.669523+00:00,48929587,9,The Tokio/Rayon Trap and Why Async/Await Fails Concurrency,15,11
+2026-07-16T04:14:10.669523+00:00,48930160,10,An Interactive Map of AI,4,2
+2026-07-16T04:14:10.669523+00:00,48915953,11,Stripe and Advent have made a joint offer to acquire PayPal – sources,389,218
+2026-07-16T04:14:10.669523+00:00,48930136,12,"If you want to create a button from scratch, you must first create the universe",5,0
+2026-07-16T04:14:10.669523+00:00,48862644,13,"CatchCat – Pokémon Go for Cats, IRL",24,5
+2026-07-16T04:14:10.669523+00:00,48927915,14,LLM Networking with MikroTik,64,24
+2026-07-16T04:14:10.669523+00:00,48929870,15,"Open Source, Free Tier Capable Whispr Using Cloudflare AI",5,1
+2026-07-16T04:14:10.669523+00:00,48928313,16,"Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",45,10
+2026-07-16T04:14:10.669523+00:00,48903733,17,Job queues are deceptively tricky,45,10
+2026-07-16T04:14:10.669523+00:00,48922434,18,Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU,254,167
+2026-07-16T04:14:10.669523+00:00,48928402,19,Show HN: One More Letter,56,33
+2026-07-16T04:14:10.669523+00:00,48881064,20,Command Line Interface Guidelines,91,16
+2026-07-16T04:14:10.669523+00:00,48925888,21,"Duskers, the scary command line game, is getting a sequel",104,29
+2026-07-16T04:14:10.669523+00:00,48929804,22,Accelerating Block Low-Rank Foundation Model Inference on MemoryConstrained GPUs,4,0
+2026-07-16T04:14:10.669523+00:00,48928343,23,Nul Characters in Strings in SQLite,38,11
+2026-07-16T04:14:10.669523+00:00,48926085,24,"Brainless: Shadcn components that look like Claude Code, Codex and Grok",112,22
+2026-07-16T04:14:10.669523+00:00,48913653,25,Book prizes don't work how you think,96,55
+2026-07-16T04:14:10.669523+00:00,48920475,26,Mysteries of Telegram Data Centers (2022),247,133
+2026-07-16T04:14:10.669523+00:00,48926053,27,Voxatron,76,19
+2026-07-16T04:14:10.669523+00:00,48923380,29,Collection of Digital Clock Designs,203,36
+2026-07-16T04:14:10.669523+00:00,48929660,30,Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers,5,0
+2026-07-16T04:14:10.669523+00:00,48929856,31,Fleet: Hierarchical Task-Based Abstraction for Megakernels on Multi-Die GPUs,7,1
+2026-07-16T04:14:10.669523+00:00,48927900,32,P2P local file transfer based on WebRTC,43,17
+2026-07-16T04:14:10.669523+00:00,48883578,33,"Today I Rescued 7,234 Old GIFs",122,15
+2026-07-16T04:14:10.669523+00:00,48926939,34,Show HN: Firefox in WebAssembly,159,86
+2026-07-16T04:14:10.669523+00:00,48921077,35,Towards a harness that can do anything,182,93
+2026-07-16T04:14:10.669523+00:00,48894874,36,Designing APIs for Agents,62,33
+2026-07-16T04:14:10.669523+00:00,48863891,37,Show HN: E-- – A language you dial between English and Python,19,14
+2026-07-16T04:14:10.669523+00:00,48922838,38,Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios),139,40
+2026-07-16T04:14:10.669523+00:00,48892273,39,"MITS: Rockets, Calculators, and Personal Computers",39,3
+2026-07-16T04:14:10.669523+00:00,48919363,40,Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023),673,350
+2026-07-16T04:14:10.669523+00:00,48930125,41,French parliament approves landmark assisted-dying bill,5,0
+2026-07-16T04:14:10.669523+00:00,48921303,42,"My midlife crisis Corolla is fast, furious, and modded",169,364
+2026-07-16T04:14:10.669523+00:00,48919869,43,Briar is in maintenance mode,154,96
+2026-07-16T04:14:10.669523+00:00,48928002,44,"Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",18,0
+2026-07-16T04:14:10.669523+00:00,48929571,45,Landscape of Consciousness,4,0
+2026-07-16T04:14:10.669523+00:00,48923111,46,"Open-source memory for coding agents, synced over SSH",116,29
+2026-07-16T04:14:10.669523+00:00,48928703,47,"11,700 Free Photos from John Margolies' Archive of Americana Architecture",10,1
+2026-07-16T04:14:10.669523+00:00,48912013,48,The Memory Heist,91,9
+2026-07-16T04:14:10.669523+00:00,48929515,49,Kilo Code has been acquired by Anaconda,5,0
+2026-07-16T04:14:10.669523+00:00,48929236,50,"ArcBrush 1.5 – Node-based image editor (OCIO, OpenEXR, 97 nodes)",4,0
