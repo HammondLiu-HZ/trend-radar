@@ -14648,3 +14648,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-16T17:26:14.464194+00:00,48930075,48,Making 768 servers look like 1,137,65
 2026-07-16T17:26:14.464194+00:00,48929351,49,Bluesky Trademarks ATProto,169,122
 2026-07-16T17:26:14.464194+00:00,48911803,50,I also filed the corners off my MacBook,279,190
+2026-07-16T19:23:33.342432+00:00,48935342,1,Kimi K3 is now live,586,308
+2026-07-16T19:23:33.342432+00:00,48936426,2,Microsoft Comic Chat is now open source,261,71
+2026-07-16T19:23:33.342432+00:00,48936584,3,Decoy Font,159,62
+2026-07-16T19:23:33.342432+00:00,48936880,4,Detecting LLM-Generated Texts with “Classical” Machine Learning,77,45
+2026-07-16T19:23:33.342432+00:00,48936451,5,NotebookLM is now Gemini Notebook,99,68
+2026-07-16T19:23:33.342432+00:00,48932539,6,OnePlus halts operations in USA and Europe,452,252
+2026-07-16T19:23:33.342432+00:00,48935951,7,Immersive Linear Algebra Book with Interactive Figures (2015),73,7
+2026-07-16T19:23:33.342432+00:00,48934286,8,Goes-19 weather satellite enters Safe Hold mode,119,57
+2026-07-16T19:23:33.342432+00:00,48930454,9,The lost joy of music piracy,714,476
+2026-07-16T19:23:33.342432+00:00,48933149,10,How Our Rust-to-Zig Rewrite Is Going,284,149
+2026-07-16T19:23:33.342432+00:00,48935687,12,How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM,55,35
+2026-07-16T19:23:33.342432+00:00,48937020,13,Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps,15,6
+2026-07-16T19:23:33.342432+00:00,48936389,14,Show HN: Leaves – A text-UI disk usage treemap visualizer,34,10
+2026-07-16T19:23:33.342432+00:00,48935510,15,Guide to data tools landscape for developers,65,20
+2026-07-16T19:23:33.342432+00:00,48933419,16,Sony deletes more movies from the accounts of people who ‘bought’ them,436,271
+2026-07-16T19:23:33.342432+00:00,48933303,17,Let's Build PlanetScale from Scratch: Infrastructure,119,16
+2026-07-16T19:23:33.342432+00:00,48932697,18,Ente – Opening Our Books,186,68
+2026-07-16T19:23:33.342432+00:00,48896649,19,Optimizing Lua string literals to save 400 bytes,7,0
+2026-07-16T19:23:33.342432+00:00,48878266,20,Cottage Computer Programming (1984),18,3
+2026-07-16T19:23:33.342432+00:00,48936534,21,Agent-talk: Enabling coding agents to work together,21,9
+2026-07-16T19:23:33.342432+00:00,48935905,22,Schema Harness Achieves ~99% on Arc‑AGI‑3 Public,39,8
+2026-07-16T19:23:33.342432+00:00,48877151,23,GC shape stenciling in Go generics,34,6
+2026-07-16T19:23:33.342432+00:00,48937756,24,"German AI consortium releases Soofi S, an open 30B model that tops benchmarks",43,4
+2026-07-16T19:23:33.342432+00:00,48936657,25,"56,000 lines of DOOM, in a language I made up",27,18
+2026-07-16T19:23:33.342432+00:00,48937288,26,42% of adults rely on their parents for financial support,90,97
+2026-07-16T19:23:33.342432+00:00,48936554,27,Show HN: A modern port of Linux to a ten-year-old QWERTY phone,22,3
+2026-07-16T19:23:33.342432+00:00,48929945,28,"1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",223,45
+2026-07-16T19:23:33.342432+00:00,48936803,29,Show HN: Galois connections for composable numeric casts in Rust,13,1
+2026-07-16T19:23:33.342432+00:00,48883036,30,Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't,187,86
+2026-07-16T19:23:33.342432+00:00,48898215,31,Accidental Anonymity,40,7
+2026-07-16T19:23:33.342432+00:00,48936654,32,Photos of items from families in different countries with different incomes,75,38
+2026-07-16T19:23:33.342432+00:00,48930136,33,"If you want to create a button from scratch, you must first create the universe",214,109
+2026-07-16T19:23:33.342432+00:00,48935176,34,Show HN: QBasic Gorillas (Repeeled),11,8
+2026-07-16T19:23:33.342432+00:00,48938107,35,California authorizes its DMV to join a national ID database,9,0
+2026-07-16T19:23:33.342432+00:00,48935487,36,We're Building Postgres in Rust. Using the LLVM of Databases,29,6
+2026-07-16T19:23:33.342432+00:00,48930397,37,Reynard: A real Firefox web browser for iOS 13 or later,139,44
+2026-07-16T19:23:33.342432+00:00,48856746,38,Let's build a simple interpreter for APL – part 1,37,1
+2026-07-16T19:23:33.342432+00:00,48871001,39,World-War-Ⅱ-era telephone line still in use in Upper Tanana Valley Alaska (2021),27,5
+2026-07-16T19:23:33.342432+00:00,48924912,40,Inkling: Our Open-Weights Model,1163,280
+2026-07-16T19:23:33.342432+00:00,48933370,41,The Act and the Outcome of Creation,27,6
+2026-07-16T19:23:33.342432+00:00,48903110,42,Helicone allows users to write SQL directly to a shared ClickHouse,9,3
+2026-07-16T19:23:33.342432+00:00,48884312,43,Panel meter calculator with floating point,33,9
+2026-07-16T19:23:33.342432+00:00,48933581,44,Introduction to KizunaShelf: A shelf for everything you love,23,4
+2026-07-16T19:23:33.342432+00:00,48936049,45,"Yann LeCun on AMI Labs, JEPA, and the AI World of 2030",7,1
+2026-07-16T19:23:33.342432+00:00,48935944,46,ArsDigita University: Five Years Later (2006),4,0
+2026-07-16T19:23:33.342432+00:00,48936407,47,800 Canadian wildfires burning as air quality alerts extend to US,21,5
+2026-07-16T19:23:33.342432+00:00,48935163,48,"Show HN: Algotrek – Algorithms visualized, problem shape shifting and a tutor",9,2
+2026-07-16T19:23:33.342432+00:00,48936348,49,The rate at which Earth is absorbing energy is alarming climate scientists,20,6
+2026-07-16T19:23:33.342432+00:00,48930075,50,Making 768 servers look like 1,140,74
