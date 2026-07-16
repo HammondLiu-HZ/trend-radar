@@ -14305,3 +14305,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-15T22:08:25.109116+00:00,48925420,48,Making 768 servers look like 1,9,3
 2026-07-15T22:08:25.109116+00:00,48925342,49,Three governments agree on something the AI industry doesn't want to hear,7,1
 2026-07-15T22:08:25.109116+00:00,48926017,50,Dark patterns in Windows are steering users to Edge: Mozilla-commissioned report,24,1
+2026-07-16T00:04:20.695296+00:00,48924912,1,Inkling: Our Open-Weights Model,585,143
+2026-07-16T00:04:20.695296+00:00,48928135,2,SQLite should have (Rust-style) editions,54,27
+2026-07-16T00:04:20.695296+00:00,48926590,3,Grok Build is open source,196,234
+2026-07-16T00:04:20.695296+00:00,48928313,4,"Metal-Organic Frameworks, Chemistry's New Miracle Materials",19,5
+2026-07-16T00:04:20.695296+00:00,48928234,5,The Anti-Mac User Interface (1996),29,4
+2026-07-16T00:04:20.695296+00:00,48927095,6,"Governments, companies, nonprofits should invest in free, open source AI [pdf]",53,14
+2026-07-16T00:04:20.695296+00:00,48915953,7,Stripe and Advent have made a joint offer to acquire PayPal – sources,318,190
+2026-07-16T00:04:20.695296+00:00,48927915,8,LLM Networking with MikroTik,20,4
+2026-07-16T00:04:20.695296+00:00,48927900,9,P2P local file transfer based on WebRTC,18,10
+2026-07-16T00:04:20.695296+00:00,48928343,10,Nul Characters in Strings in SQLite,10,0
+2026-07-16T00:04:20.695296+00:00,48922434,11,Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU,219,140
+2026-07-16T00:04:20.695296+00:00,48925888,12,"Duskers, the scary command line game, is getting a sequel",84,13
+2026-07-16T00:04:20.695296+00:00,48913653,13,Book prizes don't work how you think,51,23
+2026-07-16T00:04:20.695296+00:00,48928402,14,Show HN: One More Letter,11,5
+2026-07-16T00:04:20.695296+00:00,48926085,15,"Brainless: Shadcn components that look like Claude Code, Codex and Grok",77,14
+2026-07-16T00:04:20.695296+00:00,48881064,16,Command Line Interface Guidelines,44,2
+2026-07-16T00:04:20.695296+00:00,48863891,17,Show HN: E-- – A language you dial between English and Python,6,6
+2026-07-16T00:04:20.695296+00:00,48920475,18,Mysteries of Telegram Data Centers (2022),238,123
+2026-07-16T00:04:20.695296+00:00,48923380,19,Collection of Digital Clock Designs,164,34
+2026-07-16T00:04:20.695296+00:00,48926939,21,Show HN: Firefox in WebAssembly,107,56
+2026-07-16T00:04:20.695296+00:00,48926053,22,Voxatron,51,15
+2026-07-16T00:04:20.695296+00:00,48919198,23,"Prioritize mental health, and why communication is so important",278,238
+2026-07-16T00:04:20.695296+00:00,48894874,24,Designing APIs for Agents,36,18
+2026-07-16T00:04:20.695296+00:00,48892273,25,"MITS: Rockets, Calculators, and Personal Computers",26,1
+2026-07-16T00:04:20.695296+00:00,48922838,26,Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios),125,39
+2026-07-16T00:04:20.695296+00:00,48907681,27,Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22),24,3
+2026-07-16T00:04:20.695296+00:00,48921077,28,Towards a harness that can do anything,163,82
+2026-07-16T00:04:20.695296+00:00,48927409,29,"Speculative Growth and the AI ""Bubble"" [pdf]",47,42
+2026-07-16T00:04:20.695296+00:00,48883578,30,"Today I Rescued 7,234 Old GIFs",90,8
+2026-07-16T00:04:20.695296+00:00,48907259,31,Tambara Equipment,7,0
+2026-07-16T00:04:20.695296+00:00,48919363,32,Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023),643,331
+2026-07-16T00:04:20.695296+00:00,48928324,33,Can AI Do RCA?,3,1
+2026-07-16T00:04:20.695296+00:00,48858703,34,Show HN: Microcosm Industries – Simulation toys and software microcosms,15,2
+2026-07-16T00:04:20.695296+00:00,48923111,35,"Open-source memory for coding agents, synced over SSH",103,27
+2026-07-16T00:04:20.695296+00:00,48927198,36,Odin 2 Portal Exploded,11,2
+2026-07-16T00:04:20.695296+00:00,48928270,37,LeetCode in Your Terminal,3,0
+2026-07-16T00:04:20.695296+00:00,48919869,38,Briar is in maintenance mode,143,93
+2026-07-16T00:04:20.695296+00:00,48913642,39,"Twain Town, USA",13,2
+2026-07-16T00:04:20.695296+00:00,48921303,40,"My midlife crisis Corolla is fast, furious, and modded",153,334
+2026-07-16T00:04:20.695296+00:00,48927373,41,We don't use AI in any of our design or production processes,84,80
+2026-07-16T00:04:20.695296+00:00,48912013,42,The Memory Heist,88,9
+2026-07-16T00:04:20.695296+00:00,48928133,43,Concurrent JavaScript: It can work (2017),3,0
+2026-07-16T00:04:20.695296+00:00,48922706,44,Launch HN: Coasty (YC S26) – An API for computer-use agents,29,7
+2026-07-16T00:04:20.695296+00:00,48927508,45,Rzk: A Proof Assistant for Synthetic ∞-Categories,4,0
+2026-07-16T00:04:20.695296+00:00,48928002,46,"Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",3,0
+2026-07-16T00:04:20.695296+00:00,48927999,47,Fuse – an open source MCP/CLI tool to speed up Claude Code on C# codebases,5,1
+2026-07-16T00:04:20.695296+00:00,48923079,48,Codex Micro,257,220
+2026-07-16T00:04:20.695296+00:00,48921461,49,OpenAI loses trademark dispute at EU court,212,143
+2026-07-16T00:04:20.695296+00:00,48884903,50,Show HN: Capn-hook for coding agents – don't grep the same mystery twice,26,5
