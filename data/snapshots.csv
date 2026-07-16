@@ -14403,3 +14403,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-16T04:14:10.669523+00:00,48912013,48,The Memory Heist,91,9
 2026-07-16T04:14:10.669523+00:00,48929515,49,Kilo Code has been acquired by Anaconda,5,0
 2026-07-16T04:14:10.669523+00:00,48929236,50,"ArcBrush 1.5 – Node-based image editor (OCIO, OpenEXR, 97 nodes)",4,0
+2026-07-16T07:26:56.171179+00:00,48930454,1,The lost joy of music piracy,152,71
+2026-07-16T07:26:56.171179+00:00,48924912,2,Inkling: Our Open-Weights Model,907,222
+2026-07-16T07:26:56.171179+00:00,48930136,3,"If you want to create a button from scratch, you must first create the universe",74,34
+2026-07-16T07:26:56.171179+00:00,48928135,4,SQLite should have (Rust-style) editions,230,82
+2026-07-16T07:26:56.171179+00:00,48929945,5,"1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",53,7
+2026-07-16T07:26:56.171179+00:00,48883036,6,Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't,20,1
+2026-07-16T07:26:56.171179+00:00,48926590,7,Grok Build is open source,400,425
+2026-07-16T07:26:56.171179+00:00,48927095,8,"Governments, companies, nonprofits should invest in free, open source AI [pdf]",161,58
+2026-07-16T07:26:56.171179+00:00,48930075,9,Making 768 servers look like 1,49,9
+2026-07-16T07:26:56.171179+00:00,48929351,10,Bluesky Trademarks ATProto,77,31
+2026-07-16T07:26:56.171179+00:00,48929660,11,Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers,33,3
+2026-07-16T07:26:56.171179+00:00,48915953,12,Stripe and Advent have made a joint offer to acquire PayPal – sources,423,229
+2026-07-16T07:26:56.171179+00:00,48871721,13,"G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",83,46
+2026-07-16T07:26:56.171179+00:00,48915393,14,High-Bandwidth Flash offers efficient storage for model weights,33,10
+2026-07-16T07:26:56.171179+00:00,48911803,15,I also filed the corners off my MacBook,137,36
+2026-07-16T07:26:56.171179+00:00,48903015,16,The Last Picture Show: A Conversation with George Lucas,15,2
+2026-07-16T07:26:56.171179+00:00,48930397,17,Reynard: A real Firefox web browser for iOS 13 or later,7,0
+2026-07-16T07:26:56.171179+00:00,48922434,18,Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU,274,179
+2026-07-16T07:26:56.171179+00:00,48922706,19,Launch HN: Coasty (YC S26) – An API for computer-use agents,32,7
+2026-07-16T07:26:56.171179+00:00,48930363,20,Stop saying that AI is just a tool and it only matters how it is used,65,42
+2026-07-16T07:26:56.171179+00:00,48903733,21,Job queues are deceptively tricky,68,18
+2026-07-16T07:26:56.171179+00:00,48927915,22,LLM Networking with MikroTik,78,35
+2026-07-16T07:26:56.171179+00:00,48929587,23,The Tokio/Rayon Trap and Why Async/Await Fails Concurrency,43,33
+2026-07-16T07:26:56.171179+00:00,48930713,24,Netstrings (1997),8,5
+2026-07-16T07:26:56.171179+00:00,48881064,25,Command Line Interface Guidelines,111,24
+2026-07-16T07:26:56.171179+00:00,48928313,26,"Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",50,12
+2026-07-16T07:26:56.171179+00:00,48925888,27,"Duskers, the scary command line game, is getting a sequel",116,34
+2026-07-16T07:26:56.171179+00:00,48872031,28,"Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",14,7
+2026-07-16T07:26:56.171179+00:00,48928402,29,Show HN: One More Letter,65,43
+2026-07-16T07:26:56.171179+00:00,48923380,30,Collection of Digital Clock Designs,226,40
+2026-07-16T07:26:56.171179+00:00,48926939,31,Show HN: Firefox in WebAssembly,185,97
+2026-07-16T07:26:56.171179+00:00,48926053,32,Voxatron,83,22
+2026-07-16T07:26:56.171179+00:00,48926085,34,"Brainless: Shadcn components that look like Claude Code, Codex and Grok",121,24
+2026-07-16T07:26:56.171179+00:00,48929870,35,"Open Source, Free Tier Capable Whispr Using Cloudflare AI",12,7
+2026-07-16T07:26:56.171179+00:00,48883578,36,"Today I Rescued 7,234 Old GIFs",126,21
+2026-07-16T07:26:56.171179+00:00,48928343,37,Nul Characters in Strings in SQLite,44,18
+2026-07-16T07:26:56.171179+00:00,48921077,38,Towards a harness that can do anything,190,96
+2026-07-16T07:26:56.171179+00:00,48922838,39,Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios),143,41
+2026-07-16T07:26:56.171179+00:00,48928002,40,"Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",31,3
+2026-07-16T07:26:56.171179+00:00,48919363,41,Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023),685,361
+2026-07-16T07:26:56.171179+00:00,48894874,42,Designing APIs for Agents,66,39
+2026-07-16T07:26:56.171179+00:00,48862644,43,"CatchCat – Pokémon Go for Cats, IRL",41,8
+2026-07-16T07:26:56.171179+00:00,48928703,44,"11,700 Free Photos from John Margolies' Archive of Americana Architecture",18,1
+2026-07-16T07:26:56.171179+00:00,48919869,45,Briar is in maintenance mode,158,99
+2026-07-16T07:26:56.171179+00:00,48927900,46,P2P local file transfer based on WebRTC,46,18
+2026-07-16T07:26:56.171179+00:00,48921303,47,"My midlife crisis Corolla is fast, furious, and modded",173,376
+2026-07-16T07:26:56.171179+00:00,48892273,48,"MITS: Rockets, Calculators, and Personal Computers",39,5
+2026-07-16T07:26:56.171179+00:00,48863891,49,Show HN: E-- – A language you dial between English and Python,22,14
+2026-07-16T07:26:56.171179+00:00,48913653,50,Book prizes don't work how you think,109,67
