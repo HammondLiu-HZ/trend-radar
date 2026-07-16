@@ -14550,3 +14550,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-16T12:24:52.483056+00:00,48933232,48,Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 – TechEBlog,3,0
 2026-07-16T12:24:52.483056+00:00,48922838,49,Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios),148,46
 2026-07-16T12:24:52.483056+00:00,48883467,50,Dense Arena Interning: The Engine of Compiler Performance,9,3
+2026-07-16T15:08:28.303689+00:00,48935342,1,Kimi K3 is now live,31,3
+2026-07-16T15:08:28.303689+00:00,48932539,2,OnePlus halts operations in USA and Europe,312,171
+2026-07-16T15:08:28.303689+00:00,48934286,3,Goes-19 weather satellite enters Safe Hold mode,53,26
+2026-07-16T15:08:28.303689+00:00,48933303,4,Let's Build PlanetScale from Scratch: Infrastructure,71,12
+2026-07-16T15:08:28.303689+00:00,48931588,5,"Where are YC founders now? OpenAI and Anthropic, mostly",221,115
+2026-07-16T15:08:28.303689+00:00,48933464,6,Teen hackers who live streamed cyber-attack on TfL jailed,40,30
+2026-07-16T15:08:28.303689+00:00,48932697,7,Ente – Opening Our Books,109,33
+2026-07-16T15:08:28.303689+00:00,48933419,8,Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them,165,78
+2026-07-16T15:08:28.303689+00:00,48933149,9,How Our Rust-to-Zig Rewrite Is Going,50,3
+2026-07-16T15:08:28.303689+00:00,48930454,10,The lost joy of music piracy,567,369
+2026-07-16T15:08:28.303689+00:00,48934092,11,Show HN: I've built a words game based on binary search,20,21
+2026-07-16T15:08:28.303689+00:00,48924912,12,Inkling: Our Open-Weights Model,1116,274
+2026-07-16T15:08:28.303689+00:00,48933370,13,The Act and the Outcome of Creation,22,3
+2026-07-16T15:08:28.303689+00:00,48898215,14,Accidental Anonymity,8,0
+2026-07-16T15:08:28.303689+00:00,48884068,15,A Beautiful Theory Falls to Ugly Data,59,37
+2026-07-16T15:08:28.303689+00:00,48883036,16,Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't,146,66
+2026-07-16T15:08:28.303689+00:00,48929945,17,"1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",174,30
+2026-07-16T15:08:28.303689+00:00,48856746,18,Let's build a simple interpreter for APL – part 1,27,0
+2026-07-16T15:08:28.303689+00:00,48932784,19,Track your workout from the iPhone Lock Screen,27,19
+2026-07-16T15:08:28.303689+00:00,48884312,20,Panel meter calculator with floating point,21,1
+2026-07-16T15:08:28.303689+00:00,48926590,21,Grok Build is open source,534,564
+2026-07-16T15:08:28.303689+00:00,48927095,22,"Governments, companies, nonprofits should invest in free, open source AI [pdf]",250,93
+2026-07-16T15:08:28.303689+00:00,48930136,23,"If you want to create a button from scratch, you must first create the universe",198,93
+2026-07-16T15:08:28.303689+00:00,48928135,24,SQLite should have (Rust-style) editions,324,150
+2026-07-16T15:08:28.303689+00:00,48930397,25,Reynard: A real Firefox web browser for iOS 13 or later,114,31
+2026-07-16T15:08:28.303689+00:00,48934046,26,Generative AI Is an Engineering Disaster,31,4
+2026-07-16T15:08:28.303689+00:00,48933581,27,Introduction to KizunaShelf: A shelf for everything you love,13,1
+2026-07-16T15:08:28.303689+00:00,48933310,28,The LLM Critics Are Right. I Use LLMs Anyway,113,127
+2026-07-16T15:08:28.303689+00:00,48871001,29,World-War-Ⅱ-era telephone line still in use in Upper Tanana Valley Alaska (2021),11,2
+2026-07-16T15:08:28.303689+00:00,48929351,30,Bluesky Trademarks ATProto,160,109
+2026-07-16T15:08:28.303689+00:00,48930075,31,Making 768 servers look like 1,120,52
+2026-07-16T15:08:28.303689+00:00,48922434,32,Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU,308,197
+2026-07-16T15:08:28.303689+00:00,48911803,33,I also filed the corners off my MacBook,267,181
+2026-07-16T15:08:28.303689+00:00,48933067,34,Umuganda,39,4
+2026-07-16T15:08:28.303689+00:00,48915393,35,High-Bandwidth Flash offers efficient storage for model weights,66,24
+2026-07-16T15:08:28.303689+00:00,48903733,36,Job queues are deceptively tricky,112,40
+2026-07-16T15:08:28.303689+00:00,48881064,37,Command Line Interface Guidelines,158,48
+2026-07-16T15:08:28.303689+00:00,48922706,39,Launch HN: Coasty (YC S26) – An API for computer-use agents,41,15
+2026-07-16T15:08:28.303689+00:00,48926939,40,Show HN: Firefox in WebAssembly,227,109
+2026-07-16T15:08:28.303689+00:00,48927915,41,LLM Networking with MikroTik,97,47
+2026-07-16T15:08:28.303689+00:00,48925888,42,"Duskers, the scary command line game, is getting a sequel",142,40
+2026-07-16T15:08:28.303689+00:00,48923380,43,Collection of Digital Clock Designs,266,48
+2026-07-16T15:08:28.303689+00:00,48933199,44,Show HN: I Built an Accent Changer App,3,4
+2026-07-16T15:08:28.303689+00:00,48915953,45,Stripe and Advent have made a joint offer to acquire PayPal – sources,472,277
+2026-07-16T15:08:28.303689+00:00,48926053,46,Voxatron,99,24
+2026-07-16T15:08:28.303689+00:00,48928313,47,"Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",63,14
+2026-07-16T15:08:28.303689+00:00,48929660,48,Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers,76,21
+2026-07-16T15:08:28.303689+00:00,48934317,49,Beyond Red vs. Blue: the US Political Typology,6,2
+2026-07-16T15:08:28.303689+00:00,48883578,50,"Today I Rescued 7,234 Old GIFs",141,23
