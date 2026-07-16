@@ -14746,3 +14746,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-16T21:10:40.561819+00:00,48856746,48,Let's build a simple interpreter for APL – part 1,40,3
 2026-07-16T21:10:40.561819+00:00,48939878,49,Ferrari Creates a Fake Manual Transmission,5,0
 2026-07-16T21:10:40.561819+00:00,48924912,50,Inkling: Our Open-Weights Model,1170,280
+2026-07-16T23:04:02.918372+00:00,48935342,1,Kimi K3: Open Frontier Intelligence,990,609
+2026-07-16T23:04:02.918372+00:00,48941129,2,"My car's OTA update broke Android Auto, and it's a indictment of modern software",31,14
+2026-07-16T23:04:02.918372+00:00,48939662,3,LM Studio Bionic: the AI agent for open models,94,31
+2026-07-16T23:04:02.918372+00:00,48936426,4,Microsoft Comic Chat is now open source,456,103
+2026-07-16T23:04:02.918372+00:00,48941056,5,FIFA World Cup 2026 Data Portraits,24,11
+2026-07-16T23:04:02.918372+00:00,48936584,6,Decoy Font,338,86
+2026-07-16T23:04:02.918372+00:00,48939896,7,Mathematics of Data Science,58,1
+2026-07-16T23:04:02.918372+00:00,48940603,8,Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning,14,0
+2026-07-16T23:04:02.918372+00:00,48936451,9,NotebookLM is now Gemini Notebook,201,113
+2026-07-16T23:04:02.918372+00:00,48939742,10,Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone,42,7
+2026-07-16T23:04:02.918372+00:00,48940833,11,'Likweli': A new monkey species discovered in the Congo Basin,16,1
+2026-07-16T23:04:02.918372+00:00,48936880,12,Detecting LLM-Generated Texts with “Classical” Machine Learning,131,94
+2026-07-16T23:04:02.918372+00:00,48941104,13,The Little Book of Reinforcement Learning,7,0
+2026-07-16T23:04:02.918372+00:00,48935951,14,Immersive Linear Algebra Book with Interactive Figures (2015),139,24
+2026-07-16T23:04:02.918372+00:00,48932539,15,OnePlus halts operations in USA and Europe,510,303
+2026-07-16T23:04:02.918372+00:00,48939641,16,The privacy problems hidden in your period tracker,54,24
+2026-07-16T23:04:02.918372+00:00,48932722,17,Abstracting Effects with Continuations,24,0
+2026-07-16T23:04:02.918372+00:00,48871547,19,Show HN: Clx – Compile Lua to Native Executables Through C++20,69,0
+2026-07-16T23:04:02.918372+00:00,48941051,20,Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection,5,0
+2026-07-16T23:04:02.918372+00:00,48908886,21,Pseudpocalypse,56,31
+2026-07-16T23:04:02.918372+00:00,48934286,22,Goes-19 weather satellite enters Safe Hold mode,142,73
+2026-07-16T23:04:02.918372+00:00,48939764,23,Timeline Scan – AI fixes the dates on your scanned photos,14,19
+2026-07-16T23:04:02.918372+00:00,48939710,24,Show HN: Libretto PR agents – Automatically fix failing playwright scripts,11,0
+2026-07-16T23:04:02.918372+00:00,48935687,25,How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM,83,52
+2026-07-16T23:04:02.918372+00:00,48941123,26,Show HN: Mojibake – a low-level Unicode library written in C,7,0
+2026-07-16T23:04:02.918372+00:00,48940801,27,Just Do Things,7,2
+2026-07-16T23:04:02.918372+00:00,48933149,28,How Our Rust-to-Zig Rewrite Is Going,372,206
+2026-07-16T23:04:02.918372+00:00,48937020,29,Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps,21,10
+2026-07-16T23:04:02.918372+00:00,48936271,30,Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow,17,4
+2026-07-16T23:04:02.918372+00:00,48933310,31,The LLM Critics Are Right. I Use LLMs Anyway,170,177
+2026-07-16T23:04:02.918372+00:00,48932697,32,Ente – Opening Our Books,223,87
+2026-07-16T23:04:02.918372+00:00,48935510,33,Guide to data tools landscape for developers,104,31
+2026-07-16T23:04:02.918372+00:00,48940895,34,CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV,9,0
+2026-07-16T23:04:02.918372+00:00,48933419,35,Sony deletes more movies from the accounts of people who ‘bought’ them,569,354
+2026-07-16T23:04:02.918372+00:00,48896649,36,Optimizing Lua string literals to save 400 bytes,29,4
+2026-07-16T23:04:02.918372+00:00,48939524,37,$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol,85,84
+2026-07-16T23:04:02.918372+00:00,48936389,38,Show HN: Leaves – A text-UI disk usage treemap visualizer,61,22
+2026-07-16T23:04:02.918372+00:00,48938372,39,"AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes",26,16
+2026-07-16T23:04:02.918372+00:00,48933303,40,Let's Build PlanetScale from Scratch: Infrastructure,129,18
+2026-07-16T23:04:02.918372+00:00,48933371,41,British Steel taken into public ownership to protect 'vital' UK supply,97,182
+2026-07-16T23:04:02.918372+00:00,48940976,42,Ask HN: cybersecurity refusal for turning a jailbroken kindle into a monitor,7,2
+2026-07-16T23:04:02.918372+00:00,48936534,43,Agent-talk: Enabling coding agents to work together,39,17
+2026-07-16T23:04:02.918372+00:00,48930454,44,The lost joy of music piracy,762,513
+2026-07-16T23:04:02.918372+00:00,48937756,45,"German AI consortium releases Soofi S, an open 30B model that tops benchmarks",112,25
+2026-07-16T23:04:02.918372+00:00,48939019,46,"Kimi K3 is now #1 in the Front end Code Arena with 1679 pts, surpassing Fable 5",49,0
+2026-07-16T23:04:02.918372+00:00,48939030,47,"As a musician, I prefer illegal downloading over Spotify (2011)",48,29
+2026-07-16T23:04:02.918372+00:00,48878266,48,Cottage Computer Programming (1984),32,7
+2026-07-16T23:04:02.918372+00:00,48938524,49,Show HN: Be the ChatBOT,22,9
+2026-07-16T23:04:02.918372+00:00,48940231,50,Scaling to 1M concurrent sandboxes in seconds,7,1
