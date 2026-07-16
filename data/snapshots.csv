@@ -14697,3 +14697,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-16T19:23:33.342432+00:00,48935163,48,"Show HN: Algotrek – Algorithms visualized, problem shape shifting and a tutor",9,2
 2026-07-16T19:23:33.342432+00:00,48936348,49,The rate at which Earth is absorbing energy is alarming climate scientists,20,6
 2026-07-16T19:23:33.342432+00:00,48930075,50,Making 768 servers look like 1,140,74
+2026-07-16T21:10:40.561819+00:00,48935342,1,Kimi K3: Open Frontier Intelligence,766,461
+2026-07-16T21:10:40.561819+00:00,48936426,2,Microsoft Comic Chat is now open source,383,87
+2026-07-16T21:10:40.561819+00:00,48936584,3,Decoy Font,261,75
+2026-07-16T21:10:40.561819+00:00,48936451,4,NotebookLM is now Gemini Notebook,161,97
+2026-07-16T21:10:40.561819+00:00,48939662,5,LM Studio Bionic: the AI agent for open models,16,0
+2026-07-16T21:10:40.561819+00:00,48939641,6,The privacy problems hidden in your period tracker,23,5
+2026-07-16T21:10:40.561819+00:00,48939524,7,$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol,15,13
+2026-07-16T21:10:40.561819+00:00,48939742,8,Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone,10,0
+2026-07-16T21:10:40.561819+00:00,48932539,9,OnePlus halts operations in USA and Europe,486,274
+2026-07-16T21:10:40.561819+00:00,48936880,10,Detecting LLM-Generated Texts with “Classical” Machine Learning,109,79
+2026-07-16T21:10:40.561819+00:00,48935951,11,Immersive Linear Algebra Book with Interactive Figures (2015),108,21
+2026-07-16T21:10:40.561819+00:00,48934286,12,Goes-19 weather satellite enters Safe Hold mode,137,67
+2026-07-16T21:10:40.561819+00:00,48933149,13,How Our Rust-to-Zig Rewrite Is Going,330,181
+2026-07-16T21:10:40.561819+00:00,48937020,15,Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps,17,8
+2026-07-16T21:10:40.561819+00:00,48908886,16,Pseudpocalypse,22,8
+2026-07-16T21:10:40.561819+00:00,48935687,17,How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM,71,49
+2026-07-16T21:10:40.561819+00:00,48939764,18,Timeline Scan – AI fixes the dates on your scanned photos,4,8
+2026-07-16T21:10:40.561819+00:00,48896649,19,Optimizing Lua string literals to save 400 bytes,21,3
+2026-07-16T21:10:40.561819+00:00,48935510,20,Guide to data tools landscape for developers,95,29
+2026-07-16T21:10:40.561819+00:00,48932697,21,Ente – Opening Our Books,208,78
+2026-07-16T21:10:40.561819+00:00,48933419,22,Sony deletes more movies from the accounts of people who ‘bought’ them,523,318
+2026-07-16T21:10:40.561819+00:00,48938372,23,"AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes",19,9
+2026-07-16T21:10:40.561819+00:00,48936389,24,Show HN: Leaves – A text-UI disk usage treemap visualizer,51,17
+2026-07-16T21:10:40.561819+00:00,48937398,25,CD sales growth outpaced vinyl in the first half of 2026,24,24
+2026-07-16T21:10:40.561819+00:00,48933303,26,Let's Build PlanetScale from Scratch: Infrastructure,126,18
+2026-07-16T21:10:40.561819+00:00,48937756,27,"German AI consortium releases Soofi S, an open 30B model that tops benchmarks",95,20
+2026-07-16T21:10:40.561819+00:00,48939030,28,"As a musician, I prefer illegal downloading over Spotify (2011)",28,17
+2026-07-16T21:10:40.561819+00:00,48936534,29,Agent-talk: Enabling coding agents to work together,34,11
+2026-07-16T21:10:40.561819+00:00,48930454,30,The lost joy of music piracy,748,501
+2026-07-16T21:10:40.561819+00:00,48936803,31,Show HN: Galois connections for composable numeric casts in Rust,23,2
+2026-07-16T21:10:40.561819+00:00,48935905,32,Schema Harness Achieves ~99% on Arc‑AGI‑3 Public,72,48
+2026-07-16T21:10:40.561819+00:00,48877151,33,GC shape stenciling in Go generics,42,11
+2026-07-16T21:10:40.561819+00:00,48878266,34,Cottage Computer Programming (1984),27,7
+2026-07-16T21:10:40.561819+00:00,48936554,35,Show HN: A modern port of Linux to a ten-year-old QWERTY phone,29,6
+2026-07-16T21:10:40.561819+00:00,48938524,36,Show HN: Be the ChatBOT,9,5
+2026-07-16T21:10:40.561819+00:00,48935487,37,We're Building Postgres in Rust. Using the LLVM of Databases,43,9
+2026-07-16T21:10:40.561819+00:00,48883036,38,Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't,199,92
+2026-07-16T21:10:40.561819+00:00,48939019,39,"Kimi K3 is now #1 in the Front end Code Arena with 1679 pts, surpassing Fable 5",23,0
+2026-07-16T21:10:40.561819+00:00,48930136,40,"If you want to create a button from scratch, you must first create the universe",223,114
+2026-07-16T21:10:40.561819+00:00,48936657,41,"56,000 lines of DOOM, in a language I made up",32,22
+2026-07-16T21:10:40.561819+00:00,48935176,42,Show HN: QBasic Gorillas (Repeeled),16,16
+2026-07-16T21:10:40.561819+00:00,48898215,43,Accidental Anonymity,44,13
+2026-07-16T21:10:40.561819+00:00,48930397,44,Reynard: A real Firefox web browser for iOS 13 or later,141,45
+2026-07-16T21:10:40.561819+00:00,48871001,45,World-War-Ⅱ-era telephone line still in use in Upper Tanana Valley Alaska (2021),31,5
+2026-07-16T21:10:40.561819+00:00,48937889,46,Switzerland turned its train tracks into solar power plants,7,2
+2026-07-16T21:10:40.561819+00:00,48938107,47,California authorizes its DMV to join a national ID database,23,5
+2026-07-16T21:10:40.561819+00:00,48856746,48,Let's build a simple interpreter for APL – part 1,40,3
+2026-07-16T21:10:40.561819+00:00,48939878,49,Ferrari Creates a Fake Manual Transmission,5,0
+2026-07-16T21:10:40.561819+00:00,48924912,50,Inkling: Our Open-Weights Model,1170,280
