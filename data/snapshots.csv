@@ -14501,3 +14501,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-16T10:18:29.939038+00:00,48862644,48,"CatchCat – Pokémon Go for Cats, IRL",43,10
 2026-07-16T10:18:29.939038+00:00,48906893,49,The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game,105,16
 2026-07-16T10:18:29.939038+00:00,48930605,50,GSAP – A robust JavaScript animation library built for professionals,5,0
+2026-07-16T12:24:52.483056+00:00,48932539,1,OnePlus halts operations in USA and Europe,120,58
+2026-07-16T12:24:52.483056+00:00,48933371,2,British Steel taken into public ownership to protect 'vital' UK supply,14,0
+2026-07-16T12:24:52.483056+00:00,48930454,3,The lost joy of music piracy,444,274
+2026-07-16T12:24:52.483056+00:00,48933310,4,The LLM Critics Are Right. I Use LLMs Anyway,9,0
+2026-07-16T12:24:52.483056+00:00,48931588,5,"Where are YC founders now? OpenAI and Anthropic, mostly",106,28
+2026-07-16T12:24:52.483056+00:00,48924912,6,Inkling: Our Open-Weights Model,1045,260
+2026-07-16T12:24:52.483056+00:00,48884068,7,A Beautiful Theory Falls to Ugly Data,37,13
+2026-07-16T12:24:52.483056+00:00,48933370,8,The Act and the Outcome of Creation,4,0
+2026-07-16T12:24:52.483056+00:00,48933303,9,Let's Build PlanetScale from Scratch: Infrastructure,6,0
+2026-07-16T12:24:52.483056+00:00,48930136,10,"If you want to create a button from scratch, you must first create the universe",173,79
+2026-07-16T12:24:52.483056+00:00,48883036,11,Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't,98,40
+2026-07-16T12:24:52.483056+00:00,48929945,12,"1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",133,24
+2026-07-16T12:24:52.483056+00:00,48927095,13,"Governments, companies, nonprofits should invest in free, open source AI [pdf]",227,80
+2026-07-16T12:24:52.483056+00:00,48926590,14,Grok Build is open source,488,532
+2026-07-16T12:24:52.483056+00:00,48928135,15,SQLite should have (Rust-style) editions,303,135
+2026-07-16T12:24:52.483056+00:00,48915953,16,Stripe and Advent have made a joint offer to acquire PayPal – sources,457,272
+2026-07-16T12:24:52.483056+00:00,48933344,17,SpaceX stock erases all its gains and slides below IPO price in intraday trading,10,0
+2026-07-16T12:24:52.483056+00:00,48856746,18,Let's build a simple interpreter for APL – part 1,8,0
+2026-07-16T12:24:52.483056+00:00,48930397,19,Reynard: A real Firefox web browser for iOS 13 or later,79,25
+2026-07-16T12:24:52.483056+00:00,48932697,20,Ente – Opening Our Books,8,0
+2026-07-16T12:24:52.483056+00:00,48911803,21,I also filed the corners off my MacBook,227,120
+2026-07-16T12:24:52.483056+00:00,48929351,22,Bluesky Trademarks ATProto,120,75
+2026-07-16T12:24:52.483056+00:00,48930075,23,Making 768 servers look like 1,97,32
+2026-07-16T12:24:52.483056+00:00,48932784,24,Track your workout from the iPhone Lock Screen,3,1
+2026-07-16T12:24:52.483056+00:00,48922434,25,Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU,297,194
+2026-07-16T12:24:52.483056+00:00,48915393,26,High-Bandwidth Flash offers efficient storage for model weights,55,20
+2026-07-16T12:24:52.483056+00:00,48929660,27,Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers,66,20
+2026-07-16T12:24:52.483056+00:00,48903733,28,Job queues are deceptively tricky,102,32
+2026-07-16T12:24:52.483056+00:00,48922706,30,Launch HN: Coasty (YC S26) – An API for computer-use agents,39,15
+2026-07-16T12:24:52.483056+00:00,48881064,31,Command Line Interface Guidelines,143,31
+2026-07-16T12:24:52.483056+00:00,48927915,32,LLM Networking with MikroTik,96,42
+2026-07-16T12:24:52.483056+00:00,48926939,33,Show HN: Firefox in WebAssembly,220,108
+2026-07-16T12:24:52.483056+00:00,48923380,34,Collection of Digital Clock Designs,262,47
+2026-07-16T12:24:52.483056+00:00,48925888,35,"Duskers, the scary command line game, is getting a sequel",136,39
+2026-07-16T12:24:52.483056+00:00,48933067,36,Umuganda,5,0
+2026-07-16T12:24:52.483056+00:00,48928313,37,"Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",61,14
+2026-07-16T12:24:52.483056+00:00,48930713,38,Netstrings (1997),27,12
+2026-07-16T12:24:52.483056+00:00,48926053,39,Voxatron,95,23
+2026-07-16T12:24:52.483056+00:00,48929587,40,The Tokio/Rayon Trap and Why Async/Await Fails Concurrency,82,51
+2026-07-16T12:24:52.483056+00:00,48883578,41,"Today I Rescued 7,234 Old GIFs",135,22
+2026-07-16T12:24:52.483056+00:00,48903015,42,The Last Picture Show: A Conversation with George Lucas,18,2
+2026-07-16T12:24:52.483056+00:00,48933299,43,Physicists create first room-temperature quantum material,3,0
+2026-07-16T12:24:52.483056+00:00,48921077,44,Towards a harness that can do anything,201,98
+2026-07-16T12:24:52.483056+00:00,48871721,45,"G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",106,80
+2026-07-16T12:24:52.483056+00:00,48919363,46,Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023),707,378
+2026-07-16T12:24:52.483056+00:00,48928402,47,Show HN: One More Letter,77,50
+2026-07-16T12:24:52.483056+00:00,48933232,48,Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 – TechEBlog,3,0
+2026-07-16T12:24:52.483056+00:00,48922838,49,Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios),148,46
+2026-07-16T12:24:52.483056+00:00,48883467,50,Dense Arena Interning: The Engine of Compiler Performance,9,3
