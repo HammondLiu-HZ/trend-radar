@@ -14599,3 +14599,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-16T15:08:28.303689+00:00,48929660,48,Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers,76,21
 2026-07-16T15:08:28.303689+00:00,48934317,49,Beyond Red vs. Blue: the US Political Typology,6,2
 2026-07-16T15:08:28.303689+00:00,48883578,50,"Today I Rescued 7,234 Old GIFs",141,23
+2026-07-16T17:26:14.464194+00:00,48935342,1,Kimi K3 is now live,404,205
+2026-07-16T17:26:14.464194+00:00,48936426,2,Microsoft Comic Chat is now open source,124,31
+2026-07-16T17:26:14.464194+00:00,48936584,3,Decoy Font,60,29
+2026-07-16T17:26:14.464194+00:00,48936880,4,"Detecting LLM-Generated Texts with ""Classical"" Machine Learning",33,9
+2026-07-16T17:26:14.464194+00:00,48932539,5,OnePlus halts operations in USA and Europe,406,223
+2026-07-16T17:26:14.464194+00:00,48934286,6,Goes-19 weather satellite enters Safe Hold mode,98,47
+2026-07-16T17:26:14.464194+00:00,48936451,8,NotebookLM is now Gemini Notebook,26,6
+2026-07-16T17:26:14.464194+00:00,48936657,9,"56,000 lines of DOOM, in a language I made up",11,9
+2026-07-16T17:26:14.464194+00:00,48933149,10,How Our Rust-to-Zig Rewrite Is Going,206,105
+2026-07-16T17:26:14.464194+00:00,48930454,11,The lost joy of music piracy,637,435
+2026-07-16T17:26:14.464194+00:00,48937020,12,Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps,5,1
+2026-07-16T17:26:14.464194+00:00,48935951,13,Immersive Linear Algebra Book with Interactive Figures,19,0
+2026-07-16T17:26:14.464194+00:00,48935510,14,Guide to data tools landscape for developers,45,11
+2026-07-16T17:26:14.464194+00:00,48933419,15,Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them,356,202
+2026-07-16T17:26:14.464194+00:00,48935687,16,How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM,25,18
+2026-07-16T17:26:14.464194+00:00,48877151,17,GC shape stenciling in Go generics,24,2
+2026-07-16T17:26:14.464194+00:00,48933303,18,Let's Build PlanetScale from Scratch: Infrastructure,97,16
+2026-07-16T17:26:14.464194+00:00,48932697,19,Ente – Opening Our Books,158,48
+2026-07-16T17:26:14.464194+00:00,48935984,20,Show HN: Sentinel – open-source QA agent that reads your code before it clicks,11,1
+2026-07-16T17:26:14.464194+00:00,48936803,21,Show HN: Galois connections for composable numeric casts in Rust,4,0
+2026-07-16T17:26:14.464194+00:00,48936389,22,Show HN: Leaves – a text-UI disk usage treemap visualizer,8,2
+2026-07-16T17:26:14.464194+00:00,48935541,23,Kimi K3 Is Live,11,1
+2026-07-16T17:26:14.464194+00:00,48937007,24,Someone Used AI to Write an Unauthorized Biography of Me,3,2
+2026-07-16T17:26:14.464194+00:00,48936554,25,Show HN: A modern port of Linux to a ten-year-old QWERTY phone,8,1
+2026-07-16T17:26:14.464194+00:00,48936534,26,Agent-talk: Enabling coding agents to work together,9,0
+2026-07-16T17:26:14.464194+00:00,48898215,27,Accidental Anonymity,29,4
+2026-07-16T17:26:14.464194+00:00,48936654,28,Photos of items from families in different countries with different incomes,34,2
+2026-07-16T17:26:14.464194+00:00,48929945,29,"1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",200,37
+2026-07-16T17:26:14.464194+00:00,48883036,30,Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't,171,78
+2026-07-16T17:26:14.464194+00:00,48903110,31,Helicone allows users to write SQL directly to a shared ClickHouse,7,2
+2026-07-16T17:26:14.464194+00:00,48936049,32,"Yann LeCun on AMI Labs, JEPA, and the AI World of 2030",4,0
+2026-07-16T17:26:14.464194+00:00,48935176,33,Show HN: QBasic Gorillas (Repeeled),7,4
+2026-07-16T17:26:14.464194+00:00,48936491,34,"Show HN: Ratel, give agents unlimited tools and skills without context bloat",11,8
+2026-07-16T17:26:14.464194+00:00,48856746,35,Let's build a simple interpreter for APL – part 1,35,1
+2026-07-16T17:26:14.464194+00:00,48871001,36,World-War-Ⅱ-era telephone line still in use in Upper Tanana Valley Alaska (2021),25,4
+2026-07-16T17:26:14.464194+00:00,48932784,37,Track your workout from the iPhone Lock Screen,34,30
+2026-07-16T17:26:14.464194+00:00,48933370,38,The Act and the Outcome of Creation,24,6
+2026-07-16T17:26:14.464194+00:00,48930397,39,Reynard: A real Firefox web browser for iOS 13 or later,132,38
+2026-07-16T17:26:14.464194+00:00,48930136,40,"If you want to create a button from scratch, you must first create the universe",209,105
+2026-07-16T17:26:14.464194+00:00,48884312,41,Panel meter calculator with floating point,31,9
+2026-07-16T17:26:14.464194+00:00,48935944,42,ArsDigita University: Five Years Later (2006),3,0
+2026-07-16T17:26:14.464194+00:00,48933581,43,Introduction to KizunaShelf: A shelf for everything you love,21,4
+2026-07-16T17:26:14.464194+00:00,48934290,44,My Homepage Has a Pulse,12,2
+2026-07-16T17:26:14.464194+00:00,48935905,45,Schema Harness Achieves ~99% on Arc‑AGI‑3 Public,7,0
+2026-07-16T17:26:14.464194+00:00,48924912,46,Inkling: Our Open-Weights Model,1154,279
+2026-07-16T17:26:14.464194+00:00,48935163,47,"Show HN: Algotrek – Algorithms visualized, problem shape shifting and a tutor",6,0
+2026-07-16T17:26:14.464194+00:00,48930075,48,Making 768 servers look like 1,137,65
+2026-07-16T17:26:14.464194+00:00,48929351,49,Bluesky Trademarks ATProto,169,122
+2026-07-16T17:26:14.464194+00:00,48911803,50,I also filed the corners off my MacBook,279,190
