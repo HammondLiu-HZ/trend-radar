@@ -15138,3 +15138,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-17T17:18:38.327389+00:00,48946872,48,US Corporate Insiders Are Selling Stocks at a Near Record Pace,28,7
 2026-07-17T17:18:38.327389+00:00,48947798,49,"US manufacturing employment is down, but each state has its own story",18,2
 2026-07-17T17:18:38.327389+00:00,48940833,50,'Likweli': A new monkey species discovered in the Congo Basin,105,27
+2026-07-17T19:21:48.506984+00:00,48945241,1,AWS: Inaccurate Estimated Billing Data – $1.7 billion,776,435
+2026-07-17T19:21:48.506984+00:00,48947560,2,First atmosphere found on Earth-like planet in habitable zone of distant star,229,154
+2026-07-17T19:21:48.506984+00:00,48947825,3,Mozilla: The state of open source AI,267,177
+2026-07-17T19:21:48.506984+00:00,48947717,4,"Kimi K3, and what we can still learn from the pelican benchmark",143,84
+2026-07-17T19:21:48.506984+00:00,48950122,5,Learning a few things about running SQLite,27,2
+2026-07-17T19:21:48.506984+00:00,48948597,6,Frame – the first Linux Assembly X server,74,43
+2026-07-17T19:21:48.506984+00:00,48947490,7,Three ways people respond to a problem (other than solving it),127,61
+2026-07-17T19:21:48.506984+00:00,48947455,8,A Road to Lisp: Which Lisp,124,78
+2026-07-17T19:21:48.506984+00:00,48887102,9,Frank Lloyd Wright's First Home,34,18
+2026-07-17T19:21:48.506984+00:00,48947714,10,AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM,60,0
+2026-07-17T19:21:48.506984+00:00,48949184,11,Designing emoji for the way we communicate today,27,34
+2026-07-17T19:21:48.506984+00:00,48947548,12,Show HN: Watch bots interact with an SSH honeypot in real time,105,40
+2026-07-17T19:21:48.506984+00:00,48948693,13,Show HN: Explore the Workspaces of Modern Creators,37,29
+2026-07-17T19:21:48.506984+00:00,48947201,14,More Bounce to the Ounce,68,19
+2026-07-17T19:21:48.506984+00:00,48943745,15,EEG shows brain can simultaneous encode two speech streams,232,149
+2026-07-17T19:21:48.506984+00:00,48950774,16,Show HN: A zoomable timeline of 4M Wikipedia events,6,0
+2026-07-17T19:21:48.506984+00:00,48910579,17,MoonBASIC: A modern BASIC for building 2D and 3D games,6,0
+2026-07-17T19:21:48.506984+00:00,48946303,19,Apple targets dozens of OpenAI employees with legal letters,302,247
+2026-07-17T19:21:48.506984+00:00,48943174,20,Pebble Mega Update – July 2026,236,155
+2026-07-17T19:21:48.506984+00:00,48878996,21,Faster binary search: from compiled code to mechanical sympathy,43,11
+2026-07-17T19:21:48.506984+00:00,48948435,22,Short sellers notch $8.7B profit as SpaceX shares dip to IPO price,84,51
+2026-07-17T19:21:48.506984+00:00,48896513,23,Latent Space as a New Medium,54,18
+2026-07-17T19:21:48.506984+00:00,48854988,24,Camera Chase Vehicle,162,18
+2026-07-17T19:21:48.506984+00:00,48949240,25,Homomorphically encrypted CIFAR-10 inference in 200ms,12,8
+2026-07-17T19:21:48.506984+00:00,48936584,26,Decoy Font,672,151
+2026-07-17T19:21:48.506984+00:00,48935342,27,Kimi K3: Open Frontier Intelligence,1951,1135
+2026-07-17T19:21:48.506984+00:00,48943142,28,"How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",248,192
+2026-07-17T19:21:48.506984+00:00,48950667,29,A Year On: The DOGE Disaster,11,0
+2026-07-17T19:21:48.506984+00:00,48946692,30,VulnHunter: Capital One's agentic AI code security tool,44,27
+2026-07-17T19:21:48.506984+00:00,48908691,31,Show HN: Simulator for a custom 8-bit discreet logic computer,13,3
+2026-07-17T19:21:48.506984+00:00,48950620,32,Fear of humanoid robots spurs human workers to strike at Hyundai auto factory,15,1
+2026-07-17T19:21:48.506984+00:00,48907263,33,Tannakian Reconstruction,24,2
+2026-07-17T19:21:48.506984+00:00,48947184,34,PennyLane is an open-source quantum software platform for quantum,37,5
+2026-07-17T19:21:48.506984+00:00,48862165,35,An Engineer's Guide to USB Typе-С (2024),274,62
+2026-07-17T19:21:48.506984+00:00,48939524,36,$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol,371,500
+2026-07-17T19:21:48.506984+00:00,48950580,37,SpaceX stock drops to a new low and loses $1T in value in a month,11,6
+2026-07-17T19:21:48.506984+00:00,48939662,38,LM Studio Bionic: the AI agent for open models,314,115
+2026-07-17T19:21:48.506984+00:00,48936451,39,NotebookLM is now Gemini Notebook,356,176
+2026-07-17T19:21:48.506984+00:00,48900686,40,Turn your singing voice into printable notes (in the browser),83,24
+2026-07-17T19:21:48.506984+00:00,48941104,41,The Little Book of Reinforcement Learning,194,24
+2026-07-17T19:21:48.506984+00:00,48946010,42,Evidence of inconsistencies in evaluation process and selection of winners,418,257
+2026-07-17T19:21:48.506984+00:00,48895199,43,Solod: Go can be a better C,194,132
+2026-07-17T19:21:48.506984+00:00,48935951,44,Immersive Linear Algebra Book with Interactive Figures (2015),275,30
+2026-07-17T19:21:48.506984+00:00,48937398,45,CD sales growth outpaced vinyl in the first half of 2026,167,192
+2026-07-17T19:21:48.506984+00:00,48947776,46,Claude Code: Anatomy of a Misfeature,123,100
+2026-07-17T19:21:48.506984+00:00,48876811,47,Starlink from 1984,63,28
+2026-07-17T19:21:48.506984+00:00,48949290,48,Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal,14,0
+2026-07-17T19:21:48.506984+00:00,48946688,49,Alzheimer's trial results lend momentum to strategies targeting tau,9,5
+2026-07-17T19:21:48.506984+00:00,48936880,50,Detecting LLM-Generated Texts with “Classical” Machine Learning,231,172
