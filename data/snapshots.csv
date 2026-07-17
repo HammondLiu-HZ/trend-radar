@@ -15089,3 +15089,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-17T15:20:17.494938+00:00,48879529,48,In Praise of Exhaustive Destructuring,40,7
 2026-07-17T15:20:17.494938+00:00,48946872,49,US Corporate Insiders Are Selling Stocks at a Near Record Pace,12,2
 2026-07-17T15:20:17.494938+00:00,48871547,50,Show HN: Clx – Compile Lua to Native Executables Through C++20,130,30
+2026-07-17T17:18:38.327389+00:00,48945241,1,AWS: Inaccurate Estimated Billing Data – $1.7 billion,592,352
+2026-07-17T17:18:38.327389+00:00,48947825,2,Mozilla: The state of open source AI,184,119
+2026-07-17T17:18:38.327389+00:00,48947560,3,First atmosphere found on Earth-like planet in habitable zone of distant star,121,96
+2026-07-17T17:18:38.327389+00:00,48947455,4,A Road to Lisp: Which Lisp,86,43
+2026-07-17T17:18:38.327389+00:00,48947717,5,"Kimi K3, and what we can still learn from the pelican benchmark",66,29
+2026-07-17T17:18:38.327389+00:00,48947490,6,Three ways people respond to a problem (other than solving it),77,28
+2026-07-17T17:18:38.327389+00:00,48947714,7,AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM,51,0
+2026-07-17T17:18:38.327389+00:00,48947548,8,Show HN: Watch bots interact with an SSH honeypot in real time,73,27
+2026-07-17T17:18:38.327389+00:00,48947201,9,More Bounce to the Ounce,46,7
+2026-07-17T17:18:38.327389+00:00,48948597,10,Frame – the first Linux Assembly X server,13,4
+2026-07-17T17:18:38.327389+00:00,48948693,11,Show HN: Explore the Workspaces of Modern Creators,24,15
+2026-07-17T17:18:38.327389+00:00,48943745,12,EEG shows brain can simultaneous encode two speech streams,212,135
+2026-07-17T17:18:38.327389+00:00,48947776,13,Claude Code: Anatomy of a Misfeature,103,69
+2026-07-17T17:18:38.327389+00:00,48949255,15,"CO2 overload, detected in human blood, suggests toxic atmosphere within 50 years",41,35
+2026-07-17T17:18:38.327389+00:00,48943174,16,Pebble Mega Update – July 2026,222,133
+2026-07-17T17:18:38.327389+00:00,48947184,17,PennyLane is an open-source quantum software platform for quantum,29,3
+2026-07-17T17:18:38.327389+00:00,48946692,18,VulnHunter: Capital One's agentic AI code security tool,30,19
+2026-07-17T17:18:38.327389+00:00,48878996,19,Faster binary search: from compiled code to mechanical sympathy,30,9
+2026-07-17T17:18:38.327389+00:00,48936426,20,Microsoft Comic Chat is now open source,765,162
+2026-07-17T17:18:38.327389+00:00,48946303,21,Apple targets dozens of OpenAI employees with legal letters,247,196
+2026-07-17T17:18:38.327389+00:00,48947754,22,Show HN: On-chain bond market where the issuers are AI agents,11,13
+2026-07-17T17:18:38.327389+00:00,48854988,23,Camera Chase Vehicle,130,14
+2026-07-17T17:18:38.327389+00:00,48887102,24,Frank Lloyd Wright's First Home,5,0
+2026-07-17T17:18:38.327389+00:00,48943142,25,"How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",227,179
+2026-07-17T17:18:38.327389+00:00,48936584,26,Decoy Font,648,146
+2026-07-17T17:18:38.327389+00:00,48935342,27,Kimi K3: Open Frontier Intelligence,1911,1121
+2026-07-17T17:18:38.327389+00:00,48908691,28,Show HN: Simulator for a custom 8-bit discreet logic computer,6,0
+2026-07-17T17:18:38.327389+00:00,48907263,29,Tannakian Reconstruction,17,1
+2026-07-17T17:18:38.327389+00:00,48862165,30,An Engineer's Guide to USB Typе-С (2024),257,53
+2026-07-17T17:18:38.327389+00:00,48939524,31,$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol,362,479
+2026-07-17T17:18:38.327389+00:00,48946010,32,Evidence of inconsistencies in evaluation process and selection of winners,408,249
+2026-07-17T17:18:38.327389+00:00,48939662,33,LM Studio Bionic: the AI agent for open models,311,112
+2026-07-17T17:18:38.327389+00:00,48900686,34,Turn your singing voice into printable notes (in the browser),82,23
+2026-07-17T17:18:38.327389+00:00,48948435,35,Short sellers notch $8.7B profit as SpaceX shares dip to IPO price,17,1
+2026-07-17T17:18:38.327389+00:00,48936451,36,NotebookLM is now Gemini Notebook,350,172
+2026-07-17T17:18:38.327389+00:00,48895199,37,Solod: Go can be a better C,191,125
+2026-07-17T17:18:38.327389+00:00,48941104,38,The Little Book of Reinforcement Learning,191,23
+2026-07-17T17:18:38.327389+00:00,48876811,39,Starlink from 1984,63,28
+2026-07-17T17:18:38.327389+00:00,48935951,40,Immersive Linear Algebra Book with Interactive Figures (2015),273,30
+2026-07-17T17:18:38.327389+00:00,48946783,41,Minikotlin,98,28
+2026-07-17T17:18:38.327389+00:00,48937398,42,CD sales growth outpaced vinyl in the first half of 2026,162,182
+2026-07-17T17:18:38.327389+00:00,48936880,43,Detecting LLM-Generated Texts with “Classical” Machine Learning,229,170
+2026-07-17T17:18:38.327389+00:00,48939896,44,Mathematics of Data Science,195,11
+2026-07-17T17:18:38.327389+00:00,48939742,45,Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone,138,47
+2026-07-17T17:18:38.327389+00:00,48945681,46,Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars,190,96
+2026-07-17T17:18:38.327389+00:00,48933310,47,The LLM Critics Are Right. I Use LLMs Anyway,275,281
+2026-07-17T17:18:38.327389+00:00,48946872,48,US Corporate Insiders Are Selling Stocks at a Near Record Pace,28,7
+2026-07-17T17:18:38.327389+00:00,48947798,49,"US manufacturing employment is down, but each state has its own story",18,2
+2026-07-17T17:18:38.327389+00:00,48940833,50,'Likweli': A new monkey species discovered in the Congo Basin,105,27
