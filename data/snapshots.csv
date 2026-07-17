@@ -15187,3 +15187,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-17T19:21:48.506984+00:00,48949290,48,Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal,14,0
 2026-07-17T19:21:48.506984+00:00,48946688,49,Alzheimer's trial results lend momentum to strategies targeting tau,9,5
 2026-07-17T19:21:48.506984+00:00,48936880,50,Detecting LLM-Generated Texts with “Classical” Machine Learning,231,172
+2026-07-17T21:03:28.242702+00:00,48951461,1,The Zilog Z80 has turned 50,66,13
+2026-07-17T21:03:28.242702+00:00,48945241,2,AWS: Inaccurate Estimated Billing Data – $1.7 billion,895,485
+2026-07-17T21:03:28.242702+00:00,48947560,3,First atmosphere found on Earth-like planet in habitable zone of distant star,286,200
+2026-07-17T21:03:28.242702+00:00,48950122,4,Learning a few things about running SQLite,88,20
+2026-07-17T21:03:28.242702+00:00,48948597,5,Frame – Linux X server in Assembly,112,66
+2026-07-17T21:03:28.242702+00:00,48947717,6,"Kimi K3, and what we can still learn from the pelican benchmark",204,118
+2026-07-17T21:03:28.242702+00:00,48947490,7,Three ways people respond to a problem (other than solving it),152,79
+2026-07-17T21:03:28.242702+00:00,48947825,8,The state of open source AI,315,218
+2026-07-17T21:03:28.242702+00:00,48950774,9,Show HN: A zoomable timeline of 4M Wikipedia events,23,13
+2026-07-17T21:03:28.242702+00:00,48887102,10,Frank Lloyd Wright’s first home,49,29
+2026-07-17T21:03:28.242702+00:00,48947714,11,AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM,73,0
+2026-07-17T21:03:28.242702+00:00,48947548,12,Show HN: Watch bots interact with an SSH honeypot in real time,122,47
+2026-07-17T21:03:28.242702+00:00,48947455,13,A Road to Lisp: Which Lisp,149,97
+2026-07-17T21:03:28.242702+00:00,48947201,14,More Bounce to the Ounce,90,30
+2026-07-17T21:03:28.242702+00:00,48948693,15,Workspaces – Explore the workspaces of modern creators,50,41
+2026-07-17T21:03:28.242702+00:00,48943745,16,EEG shows brain can simultaneous encode two speech streams,240,156
+2026-07-17T21:03:28.242702+00:00,48900287,17,Estimating the heights of New Yorkers from their scuff marks,23,6
+2026-07-17T21:03:28.242702+00:00,48943174,18,Pebble Mega Update – July 2026,250,162
+2026-07-17T21:03:28.242702+00:00,48878996,20,Faster binary search: from compiled code to mechanical sympathy,55,11
+2026-07-17T21:03:28.242702+00:00,48910579,21,MoonBASIC: A modern BASIC for building 2D and 3D games,17,4
+2026-07-17T21:03:28.242702+00:00,48896513,22,Latent Space as a New Medium,66,20
+2026-07-17T21:03:28.242702+00:00,48951014,23,ICE Flight Monitor Interactive Dashboard,35,4
+2026-07-17T21:03:28.242702+00:00,48946303,24,Apple targets dozens of OpenAI employees with legal letters,342,289
+2026-07-17T21:03:28.242702+00:00,48950518,25,Lego building instructions through time,7,1
+2026-07-17T21:03:28.242702+00:00,48949240,26,Homomorphically encrypted CIFAR-10 inference in 200ms,27,28
+2026-07-17T21:03:28.242702+00:00,48854988,27,Camera Chase Vehicle,186,19
+2026-07-17T21:03:28.242702+00:00,48936584,28,Decoy Font,684,153
+2026-07-17T21:03:28.242702+00:00,48935342,29,Kimi K3: Open Frontier Intelligence,1980,1152
+2026-07-17T21:03:28.242702+00:00,48951773,30,How to Make a Triode Yourself,6,0
+2026-07-17T21:03:28.242702+00:00,48862165,31,An Engineer's Guide to USB Typе-С (2024),275,69
+2026-07-17T21:03:28.242702+00:00,48939524,32,$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol,375,507
+2026-07-17T21:03:28.242702+00:00,48948435,33,Short sellers notch $8.7B profit as SpaceX shares dip to IPO price,137,116
+2026-07-17T21:03:28.242702+00:00,48946692,34,VulnHunter: Capital One's agentic AI code security tool,51,29
+2026-07-17T21:03:28.242702+00:00,48939662,35,LM Studio Bionic: the AI agent for open models,314,121
+2026-07-17T21:03:28.242702+00:00,48908691,36,Show HN: Simulator for a custom 8-bit discreet logic computer,18,5
+2026-07-17T21:03:28.242702+00:00,48943142,37,"How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",252,208
+2026-07-17T21:03:28.242702+00:00,48907263,38,Tannakian Reconstruction,26,3
+2026-07-17T21:03:28.242702+00:00,48936451,39,NotebookLM is now Gemini Notebook,358,178
+2026-07-17T21:03:28.242702+00:00,48947184,40,PennyLane is an open-source quantum software platform for quantum,37,6
+2026-07-17T21:03:28.242702+00:00,48950620,41,Fear of humanoid robots spurs human workers to strike at Hyundai auto factory,24,3
+2026-07-17T21:03:28.242702+00:00,48951595,42,Flock CEO Apologizes for Calling Activists 'Terrorists',54,30
+2026-07-17T21:03:28.242702+00:00,48895199,43,Solod: Go can be a better C,202,133
+2026-07-17T21:03:28.242702+00:00,48941104,44,The Little Book of Reinforcement Learning,197,25
+2026-07-17T21:03:28.242702+00:00,48900686,45,Turn your singing voice into printable notes (in the browser),85,26
+2026-07-17T21:03:28.242702+00:00,48946688,46,Alzheimer's trial results lend momentum to strategies targeting tau,12,5
+2026-07-17T21:03:28.242702+00:00,48935951,47,Immersive Linear Algebra Book with Interactive Figures (2015),277,30
+2026-07-17T21:03:28.242702+00:00,48937398,48,CD sales growth outpaced vinyl in the first half of 2026,169,196
+2026-07-17T21:03:28.242702+00:00,48936880,49,Detecting LLM-Generated Texts with “Classical” Machine Learning,233,173
+2026-07-17T21:03:28.242702+00:00,48951536,50,"Flock Safety had a car journalist stalked, wrongly accused, and detained",24,0
