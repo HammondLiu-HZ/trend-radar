@@ -15726,3 +15726,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-18T17:05:18.734063+00:00,48950518,48,Lego building instructions through time,149,37
 2026-07-18T17:05:18.734063+00:00,48941315,49,"Battery packs: Let's talk about crates, baby",41,28
 2026-07-18T17:05:18.734063+00:00,48952067,50,Topcoat: The full full-stack framework for Rust,106,42
+2026-07-18T19:15:19.953501+00:00,48960607,1,"REO Trucks I4 4WD Pickup Truck Starts at $21,500",42,36
+2026-07-18T19:15:19.953501+00:00,48957779,2,GPT-5.6 used a prompt to close a 30-year gap in convex optimization,367,214
+2026-07-18T19:15:19.953501+00:00,48959143,3,Gleam Is Now on Tangled,116,67
+2026-07-18T19:15:19.953501+00:00,48960155,4,"Goodbye, and Thanks for All the Bikesheds",93,79
+2026-07-18T19:15:19.953501+00:00,48960218,5,The Kimi K3 Moment,29,15
+2026-07-18T19:15:19.953501+00:00,48959090,6,"If You Build It, They Will Come",78,28
+2026-07-18T19:15:19.953501+00:00,48959042,7,Elixir-lang.org has a new design,92,58
+2026-07-18T19:15:19.953501+00:00,48959297,8,Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind,34,17
+2026-07-18T19:15:19.953501+00:00,48916044,9,Is this the end of the once-mighty GoPro?,142,235
+2026-07-18T19:15:19.953501+00:00,48956879,10,Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?,166,84
+2026-07-18T19:15:19.953501+00:00,48959392,11,"Setting up your spare Mac for Claude Code to control, a step-by-step guide",96,68
+2026-07-18T19:15:19.953501+00:00,48954851,12,Regressive JPEGs,591,62
+2026-07-18T19:15:19.953501+00:00,48956688,13,LG monitors silently install software through Windows Update without consent,794,399
+2026-07-18T19:15:19.953501+00:00,48951756,14,Tech note: making your own V-I plots at home,45,6
+2026-07-18T19:15:19.953501+00:00,48958854,15,Show HN: Q3Edit – Edit and play Quake 3 maps in the browser,33,8
+2026-07-18T19:15:19.953501+00:00,48895763,16,A Second-Grade Teacher Revived a Beloved Video Game,38,16
+2026-07-18T19:15:19.953501+00:00,48960551,17,Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey,13,9
+2026-07-18T19:15:19.953501+00:00,48956949,18,What AI did to stackoverflow in a graph,297,344
+2026-07-18T19:15:19.953501+00:00,48852151,19,How GitHub gave every repository a durable owner,33,5
+2026-07-18T19:15:19.953501+00:00,48926594,20,GTX 1080s: Testing a Legend,49,16
+2026-07-18T19:15:19.953501+00:00,48949551,21,Thanks HN for 15 years of support and helping me find my life's work,763,97
+2026-07-18T19:15:19.953501+00:00,48956231,22,The Computer at the Bottom of a Canal,117,25
+2026-07-18T19:15:19.953501+00:00,48907063,23,Reviving a 15-year-old netbook with Arch Linux,197,134
+2026-07-18T19:15:19.953501+00:00,48959355,24,Fake food delivery site for the dopamine,57,20
+2026-07-18T19:15:19.953501+00:00,48958269,25,EU ban on destruction of unsold clothes and shoes enters into application,203,188
+2026-07-18T19:15:19.953501+00:00,48956307,26,Qubes OS Security in the Public Record,64,9
+2026-07-18T19:15:19.953501+00:00,48959302,27,No link between acetaminophen use during pregnancy and adverse birth outcomes,41,22
+2026-07-18T19:15:19.953501+00:00,48958814,28,British runner Josh Kerr breaks world record for mile which stood for 27 years,69,47
+2026-07-18T19:15:19.953501+00:00,48959102,29,"The Fermi Paradox, Percolation, and Inbreeding",15,23
+2026-07-18T19:15:19.953501+00:00,48951461,30,The Zilog Z80 has turned 50,262,105
+2026-07-18T19:15:19.953501+00:00,48952565,31,TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years,198,81
+2026-07-18T19:15:19.953501+00:00,48950122,32,Learning a few things about running SQLite,313,79
+2026-07-18T19:15:19.953501+00:00,48880258,33,"Waldi: A quiet place to write, and to be read",55,27
+2026-07-18T19:15:19.953501+00:00,48945241,34,AWS: Inaccurate Estimated Billing Data – $1.7 billion,1255,729
+2026-07-18T19:15:19.953501+00:00,48942603,35,In-toto: A framework to secure the integrity of software supply chains,56,13
+2026-07-18T19:15:19.953501+00:00,48954149,36,I started a “dirt notebook”,98,86
+2026-07-18T19:15:19.953501+00:00,48893081,37,Revisiting Yliluoma's ordered dither algorithm,32,8
+2026-07-18T19:15:19.953501+00:00,48955042,39,Show HN: IKEA Complexity Index,131,74
+2026-07-18T19:15:19.953501+00:00,48951898,40,Static search trees: 40x faster than binary search (2024),170,13
+2026-07-18T19:15:19.953501+00:00,48960836,41,Animals Were Righties Long Before Hands Even Evolved,3,0
+2026-07-18T19:15:19.953501+00:00,48953981,42,Stenchill: 3D Printable Solder Paste Stencil Generator,74,24
+2026-07-18T19:15:19.953501+00:00,48923929,43,Funny item co-occurrences in 3.2M Instacart orders,43,81
+2026-07-18T19:15:19.953501+00:00,48960435,44,Freya 0.4 – Rust GUI library,5,0
+2026-07-18T19:15:19.953501+00:00,48960118,45,Overtraining as the path to human-like AI,7,2
+2026-07-18T19:15:19.953501+00:00,48952135,46,Open Book Touch: open-source e-reader,155,52
+2026-07-18T19:15:19.953501+00:00,48947560,47,First atmosphere found on Earth-like planet in habitable zone of distant star,508,292
+2026-07-18T19:15:19.953501+00:00,48951780,48,Painting the sides of railroad rails white to reduce derailment,130,82
+2026-07-18T19:15:19.953501+00:00,48960358,49,British runner Josh Kerr smashes 27-year-old men's mile record,5,0
+2026-07-18T19:15:19.953501+00:00,48960051,50,AI's new political donor class is outspending Big Tech's last one,8,0
