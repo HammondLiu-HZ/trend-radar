@@ -15873,3 +15873,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-18T22:02:06.772182+00:00,48960607,48,"REO Trucks I4 4WD Pickup Truck Starts at $21,500",73,119
 2026-07-18T22:02:06.772182+00:00,48952135,49,Open Book Touch: open-source e-reader,157,53
 2026-07-18T22:02:06.772182+00:00,48923929,50,Funny item co-occurrences in 3.2M Instacart orders,43,87
+2026-07-18T23:59:52.848422+00:00,48963465,1,Codex Resets,29,21
+2026-07-18T23:59:52.848422+00:00,48911793,2,Speech Recognition and TTS in less than 500kb,200,25
+2026-07-18T23:59:52.848422+00:00,48962838,3,"Classic Amiga titles, free to download",20,4
+2026-07-18T23:59:52.848422+00:00,48962893,4,Judge a book by its first pages,27,23
+2026-07-18T23:59:52.848422+00:00,48957779,5,GPT-5.6 used a prompt to close a 30-year gap in convex optimization,481,311
+2026-07-18T23:59:52.848422+00:00,48959090,6,"If You Build It, They Will Come",230,83
+2026-07-18T23:59:52.848422+00:00,48962758,7,Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day,51,41
+2026-07-18T23:59:52.848422+00:00,48961504,8,"Typing Speed Test, but for Developers",77,47
+2026-07-18T23:59:52.848422+00:00,48959143,9,Gleam Is Now on Tangled,191,125
+2026-07-18T23:59:52.848422+00:00,48892021,10,"I'm Making Strandfall, a Solarpunk Orienteering Larp",78,13
+2026-07-18T23:59:52.848422+00:00,48962944,11,Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf],16,3
+2026-07-18T23:59:52.848422+00:00,48962983,12,Mayor Mamdani Says Landlords Can't Use AI Images to Advertise,90,35
+2026-07-18T23:59:52.848422+00:00,48916044,13,Is this the end of the once-mighty GoPro?,181,383
+2026-07-18T23:59:52.848422+00:00,48956879,14,Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?,205,102
+2026-07-18T23:59:52.848422+00:00,48962429,15,Co-evolution of self-replication and function in a digital primordial soup,10,3
+2026-07-18T23:59:52.848422+00:00,48959297,16,Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind,60,21
+2026-07-18T23:59:52.848422+00:00,48956688,17,LG monitors silently install software through Windows Update without consent,968,499
+2026-07-18T23:59:52.848422+00:00,48959392,18,"Setting up your spare Mac for Claude Code to control, a step-by-step guide",166,125
+2026-07-18T23:59:52.848422+00:00,48958854,19,Show HN: Q3Edit – Edit and play Quake 3 maps in the browser,64,12
+2026-07-18T23:59:52.848422+00:00,48959042,20,Elixir-lang.org has a new design,156,97
+2026-07-18T23:59:52.848422+00:00,48895763,21,A Second-Grade Teacher Revived a Beloved Video Game,62,25
+2026-07-18T23:59:52.848422+00:00,48886040,22,Circular Obstacle Pathfinding (2017),18,2
+2026-07-18T23:59:52.848422+00:00,48926594,23,GTX 1080s: Testing a Legend,83,37
+2026-07-18T23:59:52.848422+00:00,48915977,24,From Sawdust to Paw Patrol: The Spin Master Story (With Ronnen Harary) [audio],4,0
+2026-07-18T23:59:52.848422+00:00,48956949,25,What AI did to stackoverflow in a graph,351,408
+2026-07-18T23:59:52.848422+00:00,48852151,26,How GitHub gave every repository a durable owner,62,23
+2026-07-18T23:59:52.848422+00:00,48960218,27,The Kimi K3 Moment,257,283
+2026-07-18T23:59:52.848422+00:00,48951756,28,Tech note: making your own V-I plots at home,62,9
+2026-07-18T23:59:52.848422+00:00,48963019,29,Gap in Mochizuki's proof of ABC confirmed by Lean,14,1
+2026-07-18T23:59:52.848422+00:00,48960155,30,"Goodbye, and Thanks for All the Bikesheds",175,183
+2026-07-18T23:59:52.848422+00:00,48956231,31,The Computer at the Bottom of a Canal,139,37
+2026-07-18T23:59:52.848422+00:00,48954851,32,Regressive JPEGs,649,65
+2026-07-18T23:59:52.848422+00:00,48951461,33,The Zilog Z80 has turned 50,272,108
+2026-07-18T23:59:52.848422+00:00,48952565,34,TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years,217,87
+2026-07-18T23:59:52.848422+00:00,48956307,35,Qubes OS Security in the Public Record,77,15
+2026-07-18T23:59:52.848422+00:00,48907063,36,Reviving a 15-year-old netbook with Arch Linux,209,153
+2026-07-18T23:59:52.848422+00:00,48963484,37,Popular sugar substitutes linked to faster brain aging,4,1
+2026-07-18T23:59:52.848422+00:00,48962922,38,curl can be used to send emails with SMTP,12,0
+2026-07-18T23:59:52.848422+00:00,48945241,39,AWS: Inaccurate Estimated Billing Data – $1.7 billion,1268,732
+2026-07-18T23:59:52.848422+00:00,48961864,40,SpaceX and the myth of independent Wall St research,38,36
+2026-07-18T23:59:52.848422+00:00,48962718,42,Pico W firmware creates driverless USB WiFi bridge (Layer-2),12,1
+2026-07-18T23:59:52.848422+00:00,48959355,43,Fake food delivery site for the dopamine,92,59
+2026-07-18T23:59:52.848422+00:00,48963108,44,Even Microsoft couldn't make Windows 11 work well on 8GB of RAM,6,3
+2026-07-18T23:59:52.848422+00:00,48942603,45,In-toto: A framework to secure the integrity of software supply chains,60,13
+2026-07-18T23:59:52.848422+00:00,48880258,46,"Waldi: A quiet place to write, and to be read",58,30
+2026-07-18T23:59:52.848422+00:00,48954149,47,I started a “dirt notebook”,105,87
+2026-07-18T23:59:52.848422+00:00,48955042,48,Show HN: IKEA Complexity Index,141,79
+2026-07-18T23:59:52.848422+00:00,48958814,49,British runner Josh Kerr breaks world record for mile which stood for 27 years,105,59
+2026-07-18T23:59:52.848422+00:00,48951898,50,Static search trees: 40x faster than binary search (2024),176,15
