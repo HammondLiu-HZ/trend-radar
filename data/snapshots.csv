@@ -15628,3 +15628,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-18T13:41:55.516556+00:00,48947714,48,AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM,97,6
 2026-07-18T13:41:55.516556+00:00,48952439,49,"FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",182,109
 2026-07-18T13:41:55.516556+00:00,48954175,50,"Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",59,16
+2026-07-18T15:02:56.508338+00:00,48957779,1,GPT-5.6 used a prompt to close a 30-year gap in convex optimization,168,84
+2026-07-18T15:02:56.508338+00:00,48956879,2,Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?,100,37
+2026-07-18T15:02:56.508338+00:00,48916044,3,Is this the end of the once-mighty GoPro?,51,70
+2026-07-18T15:02:56.508338+00:00,48951756,4,Tech note: making your own V-I plots at home,16,0
+2026-07-18T15:02:56.508338+00:00,48956688,5,LG monitors silently install software through Windows Update without consent,520,268
+2026-07-18T15:02:56.508338+00:00,48954851,6,Regressive JPEGs,517,50
+2026-07-18T15:02:56.508338+00:00,48956949,7,What AI did to stackoverflow in a graph,158,178
+2026-07-18T15:02:56.508338+00:00,48956231,8,The Computer at the Bottom of a Canal,78,13
+2026-07-18T15:02:56.508338+00:00,48945241,9,AWS: Inaccurate Estimated Billing Data – $1.7 billion,1241,721
+2026-07-18T15:02:56.508338+00:00,48907063,10,Reviving a 15-year-old netbook with Arch Linux,172,107
+2026-07-18T15:02:56.508338+00:00,48949551,11,Thanks HN for 15 years of support and helping me find my life's work,709,83
+2026-07-18T15:02:56.508338+00:00,48956307,12,Qubes OS Security in the Public Record,45,6
+2026-07-18T15:02:56.508338+00:00,48958269,13,EU ban on destruction of unsold clothes and shoes enters into application,13,3
+2026-07-18T15:02:56.508338+00:00,48947560,14,First atmosphere found on Earth-like planet in habitable zone of distant star,485,288
+2026-07-18T15:02:56.508338+00:00,48923929,15,Funny item co-occurrences in 3.2M Instacart orders,31,55
+2026-07-18T15:02:56.508338+00:00,48956852,16,Steam Machine: Between 12k and 15k Units Sold per week,73,53
+2026-07-18T15:02:56.508338+00:00,48951461,17,The Zilog Z80 has turned 50,248,99
+2026-07-18T15:02:56.508338+00:00,48958273,18,LG ThinQ Terms of Use,14,4
+2026-07-18T15:02:56.508338+00:00,48952565,19,TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years,175,61
+2026-07-18T15:02:56.508338+00:00,48955042,20,Show HN: IKEA Complexity Index,110,60
+2026-07-18T15:02:56.508338+00:00,48950122,21,Learning a few things about running SQLite,289,75
+2026-07-18T15:02:56.508338+00:00,48880258,22,"Waldi: A quiet place to write, and to be read",41,19
+2026-07-18T15:02:56.508338+00:00,48942603,23,In-toto: A framework to secure the integrity of software supply chains,50,8
+2026-07-18T15:02:56.508338+00:00,48947717,24,"Kimi K3, and what we can still learn from the pelican benchmark",373,199
+2026-07-18T15:02:56.508338+00:00,48870816,25,Engineering Peace,7,2
+2026-07-18T15:02:56.508338+00:00,48954149,26,I started a “dirt notebook”,90,78
+2026-07-18T15:02:56.508338+00:00,48951898,27,Static search trees: 40x faster than binary search (2024),158,12
+2026-07-18T15:02:56.508338+00:00,48953981,29,Stenchill: 3D Printable Solder Paste Stencil Generator,67,19
+2026-07-18T15:02:56.508338+00:00,48893081,30,Revisiting Yliluoma's ordered dither algorithm,18,2
+2026-07-18T15:02:56.508338+00:00,48952135,31,Open Book Touch: open-source e-reader,149,48
+2026-07-18T15:02:56.508338+00:00,48956924,32,Why do AI company logos look like buttholes? (2025),351,117
+2026-07-18T15:02:56.508338+00:00,48896149,33,Vāgdhenu: A Sanskrit Chanting TTS System,201,49
+2026-07-18T15:02:56.508338+00:00,48906171,34,An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead),64,5
+2026-07-18T15:02:56.508338+00:00,48941315,35,"Battery packs: Let's talk about crates, baby",41,27
+2026-07-18T15:02:56.508338+00:00,48951780,36,Painting the sides of railroad rails white to reduce derailment,124,72
+2026-07-18T15:02:56.508338+00:00,48950518,37,Lego building instructions through time,148,37
+2026-07-18T15:02:56.508338+00:00,48952067,38,Topcoat: The full full-stack framework for Rust,105,42
+2026-07-18T15:02:56.508338+00:00,48935342,39,Kimi K3: Open Frontier Intelligence,2048,1182
+2026-07-18T15:02:56.508338+00:00,48917755,40,"Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",51,9
+2026-07-18T15:02:56.508338+00:00,48947490,41,Three ways people respond to a problem (other than solving it),261,152
+2026-07-18T15:02:56.508338+00:00,48950774,42,Show HN: A zoomable timeline of 4M Wikipedia events,102,38
+2026-07-18T15:02:56.508338+00:00,48947825,43,The state of open source AI,464,339
+2026-07-18T15:02:56.508338+00:00,48887102,44,Frank Lloyd Wright’s first home,106,56
+2026-07-18T15:02:56.508338+00:00,48947548,45,Show HN: Watch bots interact with an SSH honeypot in real time,164,58
+2026-07-18T15:02:56.508338+00:00,48952880,46,"Kaiser nurses say AI, surveillance are making their jobs and patient care worse",528,353
+2026-07-18T15:02:56.508338+00:00,48947201,47,More Bounce to the Ounce,132,54
+2026-07-18T15:02:56.508338+00:00,48854988,48,Camera Chase Vehicle,237,22
+2026-07-18T15:02:56.508338+00:00,48946010,49,Evidence of inconsistencies in evaluation process and selection of winners,462,294
+2026-07-18T15:02:56.508338+00:00,48948693,50,Workspaces – Explore the workspaces of modern creators,87,67
