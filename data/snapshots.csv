@@ -15824,3 +15824,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-18T20:59:42.047740+00:00,48906171,48,An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead),66,5
 2026-07-18T20:59:42.047740+00:00,48952135,49,Open Book Touch: open-source e-reader,156,53
 2026-07-18T20:59:42.047740+00:00,48952067,50,Topcoat: The full full-stack framework for Rust,112,43
+2026-07-18T22:02:06.772182+00:00,48911793,1,Speech Recognition and TTS in less than 500kb,100,12
+2026-07-18T22:02:06.772182+00:00,48957779,2,GPT-5.6 used a prompt to close a 30-year gap in convex optimization,461,294
+2026-07-18T22:02:06.772182+00:00,48961504,3,"Typing Speed Test, but for Developers",53,25
+2026-07-18T22:02:06.772182+00:00,48959090,4,"If You Build It, They Will Come",176,63
+2026-07-18T22:02:06.772182+00:00,48892021,5,"I'm Making Strandfall, a Solarpunk Orienteering Larp",53,11
+2026-07-18T22:02:06.772182+00:00,48916044,6,Is this the end of the once-mighty GoPro?,165,327
+2026-07-18T22:02:06.772182+00:00,48959143,7,Gleam Is Now on Tangled,167,113
+2026-07-18T22:02:06.772182+00:00,48959392,8,"Setting up your spare Mac for Claude Code to control, a step-by-step guide",148,105
+2026-07-18T22:02:06.772182+00:00,48956879,9,Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?,193,99
+2026-07-18T22:02:06.772182+00:00,48954851,10,Regressive JPEGs,634,64
+2026-07-18T22:02:06.772182+00:00,48960218,11,The Kimi K3 Moment,211,225
+2026-07-18T22:02:06.772182+00:00,48959042,12,Elixir-lang.org has a new design,136,87
+2026-07-18T22:02:06.772182+00:00,48959297,13,Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind,50,21
+2026-07-18T22:02:06.772182+00:00,48956688,14,LG monitors silently install software through Windows Update without consent,907,457
+2026-07-18T22:02:06.772182+00:00,48958854,15,Show HN: Q3Edit – Edit and play Quake 3 maps in the browser,51,11
+2026-07-18T22:02:06.772182+00:00,48895763,16,A Second-Grade Teacher Revived a Beloved Video Game,57,23
+2026-07-18T22:02:06.772182+00:00,48904912,17,Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps,32,6
+2026-07-18T22:02:06.772182+00:00,48852151,18,How GitHub gave every repository a durable owner,58,17
+2026-07-18T22:02:06.772182+00:00,48956949,19,What AI did to stackoverflow in a graph,333,392
+2026-07-18T22:02:06.772182+00:00,48926594,20,GTX 1080s: Testing a Legend,70,28
+2026-07-18T22:02:06.772182+00:00,48960155,21,"Goodbye, and Thanks for All the Bikesheds",155,162
+2026-07-18T22:02:06.772182+00:00,48951756,22,Tech note: making your own V-I plots at home,53,8
+2026-07-18T22:02:06.772182+00:00,48956231,23,The Computer at the Bottom of a Canal,127,31
+2026-07-18T22:02:06.772182+00:00,48961864,24,SpaceX and the myth of independent Wall St research,25,3
+2026-07-18T22:02:06.772182+00:00,48951461,25,The Zilog Z80 has turned 50,270,105
+2026-07-18T22:02:06.772182+00:00,48959355,26,Fake food delivery site for the dopamine,85,44
+2026-07-18T22:02:06.772182+00:00,48956307,27,Qubes OS Security in the Public Record,74,11
+2026-07-18T22:02:06.772182+00:00,48907063,28,Reviving a 15-year-old netbook with Arch Linux,206,146
+2026-07-18T22:02:06.772182+00:00,48952565,29,TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years,212,87
+2026-07-18T22:02:06.772182+00:00,48959102,30,"The Fermi Paradox, Percolation, and Inbreeding",28,39
+2026-07-18T22:02:06.772182+00:00,48945241,31,AWS: Inaccurate Estimated Billing Data – $1.7 billion,1263,730
+2026-07-18T22:02:06.772182+00:00,48958269,32,EU ban on destruction of unsold clothes and shoes enters into application,256,253
+2026-07-18T22:02:06.772182+00:00,48880258,33,"Waldi: A quiet place to write, and to be read",58,29
+2026-07-18T22:02:06.772182+00:00,48959302,34,No link between acetaminophen use during pregnancy and adverse birth outcomes,57,35
+2026-07-18T22:02:06.772182+00:00,48942603,35,In-toto: A framework to secure the integrity of software supply chains,59,13
+2026-07-18T22:02:06.772182+00:00,48958814,36,British runner Josh Kerr breaks world record for mile which stood for 27 years,93,55
+2026-07-18T22:02:06.772182+00:00,48954149,37,I started a “dirt notebook”,102,87
+2026-07-18T22:02:06.772182+00:00,48955042,38,Show HN: IKEA Complexity Index,137,78
+2026-07-18T22:02:06.772182+00:00,48949551,39,Thanks HN for 15 years of support and helping me find my life's work,783,99
+2026-07-18T22:02:06.772182+00:00,48951898,40,Static search trees: 40x faster than binary search (2024),172,15
+2026-07-18T22:02:06.772182+00:00,48893081,41,Revisiting Yliluoma's ordered dither algorithm,35,8
+2026-07-18T22:02:06.772182+00:00,48953981,43,Stenchill: 3D Printable Solder Paste Stencil Generator,77,26
+2026-07-18T22:02:06.772182+00:00,48961991,44,Supplement that binds to microplastics may remove them from our body,4,1
+2026-07-18T22:02:06.772182+00:00,48951780,45,Painting the sides of railroad rails white to reduce derailment,134,84
+2026-07-18T22:02:06.772182+00:00,48947560,46,First atmosphere found on Earth-like planet in habitable zone of distant star,514,300
+2026-07-18T22:02:06.772182+00:00,48935342,47,Kimi K3: Open Frontier Intelligence,2060,1187
+2026-07-18T22:02:06.772182+00:00,48960607,48,"REO Trucks I4 4WD Pickup Truck Starts at $21,500",73,119
+2026-07-18T22:02:06.772182+00:00,48952135,49,Open Book Touch: open-source e-reader,157,53
+2026-07-18T22:02:06.772182+00:00,48923929,50,Funny item co-occurrences in 3.2M Instacart orders,43,87
