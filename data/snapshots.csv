@@ -15432,3 +15432,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-18T06:11:36.772973+00:00,48900287,48,Estimating the heights of New Yorkers from their scuff marks,38,9
 2026-07-18T06:11:36.772973+00:00,48881912,49,Show HN: Instrumation a PYPI library for Instruments,5,1
 2026-07-18T06:11:36.772973+00:00,48947455,50,A Road to Lisp: Which Lisp,183,135
+2026-07-18T08:53:47.807729+00:00,48954851,1,Regressive JPEGs,277,18
+2026-07-18T08:53:47.807729+00:00,48945241,2,AWS: Inaccurate Estimated Billing Data – $1.7 billion,1167,698
+2026-07-18T08:53:47.807729+00:00,48949551,3,Thanks HN for 15 years of support and helping me find my life's work,563,54
+2026-07-18T08:53:47.807729+00:00,48907063,4,Reviving a 15-year-old netbook with Arch Linux,96,56
+2026-07-18T08:53:47.807729+00:00,48947560,5,First atmosphere found on Earth-like planet in habitable zone of distant star,448,262
+2026-07-18T08:53:47.807729+00:00,48951461,6,The Zilog Z80 has turned 50,218,75
+2026-07-18T08:53:47.807729+00:00,48952565,7,TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years,117,29
+2026-07-18T08:53:47.807729+00:00,48917755,8,"Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",16,1
+2026-07-18T08:53:47.807729+00:00,48950122,9,Learning a few things about running SQLite,242,63
+2026-07-18T08:53:47.807729+00:00,48954149,10,I started a “dirt notebook”,58,49
+2026-07-18T08:53:47.807729+00:00,48953981,11,Stenchill: 3D Printable Solder Paste Stencil Generator,47,10
+2026-07-18T08:53:47.807729+00:00,48942603,12,In-toto: A framework to secure the integrity of software supply chains,16,0
+2026-07-18T08:53:47.807729+00:00,48947717,13,"Kimi K3, and what we can still learn from the pelican benchmark",332,173
+2026-07-18T08:53:47.807729+00:00,48955042,14,Show HN: IKEA Complexity Index,19,12
+2026-07-18T08:53:47.807729+00:00,48896149,15,Vāgdhenu: A Sanskrit Chanting TTS System,157,39
+2026-07-18T08:53:47.807729+00:00,48906171,16,An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead),43,2
+2026-07-18T08:53:47.807729+00:00,48951898,17,Static search trees: 40x faster than binary search (2024),113,6
+2026-07-18T08:53:47.807729+00:00,48950518,18,Lego building instructions through time,119,26
+2026-07-18T08:53:47.807729+00:00,48941315,20,"Battery packs: Let's talk about crates, baby",16,7
+2026-07-18T08:53:47.807729+00:00,48874347,21,Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld,43,13
+2026-07-18T08:53:47.807729+00:00,48953406,22,The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold,72,6
+2026-07-18T08:53:47.807729+00:00,48951780,23,Painting the sides of railroad rails white to reduce derailment,92,46
+2026-07-18T08:53:47.807729+00:00,48952135,24,Open Book Touch: open-source e-reader,109,36
+2026-07-18T08:53:47.807729+00:00,48947825,25,The state of open source AI,431,307
+2026-07-18T08:53:47.807729+00:00,48955740,26,Show HN: Find someone in the dark – light them or light yourself? (Three.js),4,0
+2026-07-18T08:53:47.807729+00:00,48886236,27,Quintile – keyboard N×M grid tiling for macOS,5,2
+2026-07-18T08:53:47.807729+00:00,48952880,28,"Kaiser nurses say AI, surveillance are making their jobs and patient care worse",497,318
+2026-07-18T08:53:47.807729+00:00,48950774,29,Show HN: A zoomable timeline of 4M Wikipedia events,90,32
+2026-07-18T08:53:47.807729+00:00,48887102,30,Frank Lloyd Wright’s first home,100,51
+2026-07-18T08:53:47.807729+00:00,48954175,31,"Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",54,14
+2026-07-18T08:53:47.807729+00:00,48952067,32,Topcoat: The full full-stack framework for Rust,75,40
+2026-07-18T08:53:47.807729+00:00,48947490,33,Three ways people respond to a problem (other than solving it),235,134
+2026-07-18T08:53:47.807729+00:00,48947548,34,Show HN: Watch bots interact with an SSH honeypot in real time,159,57
+2026-07-18T08:53:47.807729+00:00,48935342,35,Kimi K3: Open Frontier Intelligence,2026,1179
+2026-07-18T08:53:47.807729+00:00,48952439,36,"FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",173,97
+2026-07-18T08:53:47.807729+00:00,48947201,37,More Bounce to the Ounce,128,53
+2026-07-18T08:53:47.807729+00:00,48948693,38,Workspaces – Explore the workspaces of modern creators,85,64
+2026-07-18T08:53:47.807729+00:00,48949184,39,Designing emoji for the way we communicate today,65,80
+2026-07-18T08:53:47.807729+00:00,48946010,40,Evidence of inconsistencies in evaluation process and selection of winners,458,282
+2026-07-18T08:53:47.807729+00:00,48899847,41,Lobste.rs is now running on SQLite,188,154
+2026-07-18T08:53:47.807729+00:00,48947714,42,AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM,93,6
+2026-07-18T08:53:47.807729+00:00,48854988,43,Camera Chase Vehicle,227,22
+2026-07-18T08:53:47.807729+00:00,48896513,44,Latent Space as a New Medium,101,31
+2026-07-18T08:53:47.807729+00:00,48953519,45,Claude Code(Fable) refused my slow down instruction,18,8
+2026-07-18T08:53:47.807729+00:00,48910579,46,MoonBASIC: A modern BASIC for building 2D and 3D games,66,20
+2026-07-18T08:53:47.807729+00:00,48949240,47,Homomorphically encrypted CIFAR-10 inference in 200ms,77,34
+2026-07-18T08:53:47.807729+00:00,48946303,48,Apple targets dozens of OpenAI employees with legal letters,392,339
+2026-07-18T08:53:47.807729+00:00,48878996,49,Faster binary search: from compiled code to mechanical sympathy,68,15
+2026-07-18T08:53:47.807729+00:00,48952939,50,Texas wins court order to suspend domain name for violating age-verification law,173,201
