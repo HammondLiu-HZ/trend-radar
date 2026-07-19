@@ -16121,3 +16121,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-19T11:15:08.749011+00:00,48961504,47,"Typing Speed Test, but for Developers",97,69
 2026-07-19T11:15:08.749011+00:00,48964536,48,FDA approves new kind of cholesterol pill,87,49
 2026-07-19T11:15:08.749011+00:00,48959297,50,Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind,77,23
+2026-07-19T13:41:25.706338+00:00,48966190,1,Qwen 3.8 Max Preview,174,87
+2026-07-19T13:41:25.706338+00:00,48966713,2,"What I learned selling 2,500 MIDI recorders: Hardware is not so hard",109,58
+2026-07-19T13:41:25.706338+00:00,48967256,3,Minecraft: Java Edition now uses SDL3,34,8
+2026-07-19T13:41:25.706338+00:00,48911021,4,Blender 5.2 LTS,117,47
+2026-07-19T13:41:25.706338+00:00,48967355,5,I burned all my tokens researching how to save tokens,33,10
+2026-07-19T13:41:25.706338+00:00,48966769,6,The death and rebirth of my home server,35,12
+2026-07-19T13:41:25.706338+00:00,48963879,7,Transcribe.cpp,598,129
+2026-07-19T13:41:25.706338+00:00,48965850,8,OpenAI reduces Codex Model Context Size from 372k to 272k,80,35
+2026-07-19T13:41:25.706338+00:00,48966120,9,Qwen3.8 is launching and going open-weight soon,297,155
+2026-07-19T13:41:25.706338+00:00,48911793,10,Speech Recognition and TTS in less than 500kb,483,67
+2026-07-19T13:41:25.706338+00:00,48966984,11,"I joined the IndieWeb, here's what I learned",14,5
+2026-07-19T13:41:25.706338+00:00,48960218,12,The Kimi K3 Moment,496,493
+2026-07-19T13:41:25.706338+00:00,48965914,13,The Mighty Big Array of Finn Jensen LA8YB,19,4
+2026-07-19T13:41:25.706338+00:00,48963465,14,Codex Resets,224,151
+2026-07-19T13:41:25.706338+00:00,48964015,15,Better and Cheaper Than IPTV,246,68
+2026-07-19T13:41:25.706338+00:00,48895861,16,Mathematicians still don't know the fastest way to multiply numbers,141,87
+2026-07-19T13:41:25.706338+00:00,48903717,17,"Infinities, impossibilities, and the man in the white linen suit",3,1
+2026-07-19T13:41:25.706338+00:00,48962758,18,Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day,194,164
+2026-07-19T13:41:25.706338+00:00,48965161,19,Scrying the AMD GFX1250 LLVM Tea Leaves,39,0
+2026-07-19T13:41:25.706338+00:00,48875738,20,Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf],22,3
+2026-07-19T13:41:25.706338+00:00,48920328,21,Searchable field-level encryption on Supabase with CipherStash,42,36
+2026-07-19T13:41:25.706338+00:00,48962838,22,"Classic Amiga titles, free to download",139,19
+2026-07-19T13:41:25.706338+00:00,48905836,23,Using self-hosted Umami for iOS app analytics,29,3
+2026-07-19T13:41:25.706338+00:00,48966139,24,Half a Second – a book about the XZ backdoor,41,35
+2026-07-19T13:41:25.706338+00:00,48904269,25,Making Software: How to make a font,59,10
+2026-07-19T13:41:25.706338+00:00,48877124,26,A Visual Catalog of Retro Macintosh Software,60,6
+2026-07-19T13:41:25.706338+00:00,48960155,27,"Goodbye, and Thanks for All the Bikesheds",240,224
+2026-07-19T13:41:25.706338+00:00,48896558,28,How the Elite See Rome,35,33
+2026-07-19T13:41:25.706338+00:00,48962983,29,NYC may require landlords and realtors to disclose the use of AI in listings,508,222
+2026-07-19T13:41:25.706338+00:00,48965719,30,The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf],17,1
+2026-07-19T13:41:25.706338+00:00,48964185,31,AI Mania Is Eviscerating Global Decision-Making,287,128
+2026-07-19T13:41:25.706338+00:00,48964215,32,Deepsec,47,5
+2026-07-19T13:41:25.706338+00:00,48957779,33,GPT-5.6 used a prompt to close a 30-year gap in convex optimization,572,369
+2026-07-19T13:41:25.706338+00:00,48964424,34,I built a browser-based P2P file transfer tool using WebRTC,32,16
+2026-07-19T13:41:25.706338+00:00,48965880,35,Ollama: All Aboard Open Models,18,3
+2026-07-19T13:41:25.706338+00:00,48967616,36,The Attention-Span Class Divide,6,1
+2026-07-19T13:41:25.706338+00:00,48966569,37,Claude Code uses Bun written in Rust now,130,173
+2026-07-19T13:41:25.706338+00:00,48961157,38,What's the deal with all the random weekly quota resets for agents lately?,59,67
+2026-07-19T13:41:25.706338+00:00,48960607,39,"REO Trucks I4 4WD Pickup Truck Starts at $21,500",94,175
+2026-07-19T13:41:25.706338+00:00,48962429,40,Co-evolution of self-replication and function in a digital primordial soup,79,19
+2026-07-19T13:41:25.706338+00:00,48966219,41,Dumber Mini: A Nokia-Style Phone with WhatsApp and Maps,25,5
+2026-07-19T13:41:25.706338+00:00,48959090,42,"If You Build It, They Will Come",427,145
+2026-07-19T13:41:25.706338+00:00,48916541,43,Developing an Intuitive Sense of Scale,30,7
+2026-07-19T13:41:25.706338+00:00,48965918,44,Mirror your GitHub repos to tangled.org automatically,9,2
+2026-07-19T13:41:25.706338+00:00,48964243,45,IceCream – Never use print() to debug again,26,8
+2026-07-19T13:41:25.706338+00:00,48919562,46,"Show HN: LoopGain – Stop agent loops with control theory, not max_iterations",15,8
+2026-07-19T13:41:25.706338+00:00,48867701,47,Parsoid,24,1
+2026-07-19T13:41:25.706338+00:00,48958854,48,Show HN: Q3Edit – Edit and play Quake 3 maps in the browser,88,26
+2026-07-19T13:41:25.706338+00:00,48895763,49,A Second-Grade Teacher Revived a Beloved Video Game,90,30
+2026-07-19T13:41:25.706338+00:00,48965736,50,Order of Magnitude Physics a Textbook with Applications to the Retinal Rod(1998) [pdf],5,0
