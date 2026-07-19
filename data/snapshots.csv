@@ -16022,3 +16022,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-19T06:38:00.584382+00:00,48960218,48,The Kimi K3 Moment,320,357
 2026-07-19T06:38:00.584382+00:00,48956307,49,Qubes OS Security in the Public Record,86,15
 2026-07-19T06:38:00.584382+00:00,48960155,50,"Goodbye, and Thanks for All the Bikesheds",203,204
+2026-07-19T09:09:50.238629+00:00,48963879,1,Transcribe.cpp,497,98
+2026-07-19T09:09:50.238629+00:00,48966120,2,Qwen3.8 is launching and going open-weight soon,40,4
+2026-07-19T09:09:50.238629+00:00,48911793,3,Speech Recognition and TTS in less than 500kb,445,59
+2026-07-19T09:09:50.238629+00:00,48920328,4,Searchable field-level encryption on Supabase with CipherStash,35,13
+2026-07-19T09:09:50.238629+00:00,48963465,5,Codex Resets,173,127
+2026-07-19T09:09:50.238629+00:00,48964015,6,Better and Cheaper Than IPTV,186,48
+2026-07-19T09:09:50.238629+00:00,48895861,7,Mathematicians still don't know the fastest way to multiply numbers,96,64
+2026-07-19T09:09:50.238629+00:00,48960218,8,The Kimi K3 Moment,383,418
+2026-07-19T09:09:50.238629+00:00,48957779,9,GPT-5.6 used a prompt to close a 30-year gap in convex optimization,559,358
+2026-07-19T09:09:50.238629+00:00,48965161,10,Scrying the AMD GFX1250 LLVM Tea Leaves,22,0
+2026-07-19T09:09:50.238629+00:00,48962758,11,Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day,156,99
+2026-07-19T09:09:50.238629+00:00,48959090,12,"If You Build It, They Will Come",400,137
+2026-07-19T09:09:50.238629+00:00,48905836,13,Using self-hosted Umami for iOS app analytics,14,1
+2026-07-19T09:09:50.238629+00:00,48965886,14,Perforce charges $500 for training training videos.. and it's AI narrated,4,4
+2026-07-19T09:09:50.238629+00:00,48904269,15,Making Software: How to make a font,38,6
+2026-07-19T09:09:50.238629+00:00,48962838,16,"Classic Amiga titles, free to download",112,16
+2026-07-19T09:09:50.238629+00:00,48877124,17,A Visual Catalog of Retro Macintosh Software,37,5
+2026-07-19T09:09:50.238629+00:00,48959392,18,"Setting up your spare Mac for Claude Code to control, a step-by-step guide",227,156
+2026-07-19T09:09:50.238629+00:00,48892021,19,"I'm Making Strandfall, a Solarpunk Orienteering Larp",150,19
+2026-07-19T09:09:50.238629+00:00,48960155,20,"Goodbye, and Thanks for All the Bikesheds",212,209
+2026-07-19T09:09:50.238629+00:00,48962983,21,NYC may require landlords and realtors to disclose the use of AI in listings,464,204
+2026-07-19T09:09:50.238629+00:00,48959042,22,Elixir-lang.org has a new design,227,128
+2026-07-19T09:09:50.238629+00:00,48964185,23,AI Mania Is Eviscerating Global Decision-Making,196,76
+2026-07-19T09:09:50.238629+00:00,48959143,24,Gleam Is Now on Tangled,233,146
+2026-07-19T09:09:50.238629+00:00,48896558,25,How the Elite See Rome,4,2
+2026-07-19T09:09:50.238629+00:00,48964215,26,Deepsec,29,2
+2026-07-19T09:09:50.238629+00:00,48964424,27,I built a browser-based P2P file transfer tool using WebRTC,19,11
+2026-07-19T09:09:50.238629+00:00,48956879,28,Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?,240,116
+2026-07-19T09:09:50.238629+00:00,48916044,29,Is this the end of the once-mighty GoPro?,216,478
+2026-07-19T09:09:50.238629+00:00,48960607,30,"REO Trucks I4 4WD Pickup Truck Starts at $21,500",89,146
+2026-07-19T09:09:50.238629+00:00,48916541,31,Developing an Intuitive Sense of Scale,29,5
+2026-07-19T09:09:50.238629+00:00,48961157,32,What's the deal with all the random weekly quota resets for agents lately?,55,58
+2026-07-19T09:09:50.238629+00:00,48962429,33,Co-evolution of self-replication and function in a digital primordial soup,73,14
+2026-07-19T09:09:50.238629+00:00,48956688,34,LG monitors silently install software through Windows Update without consent,1120,573
+2026-07-19T09:09:50.238629+00:00,48964243,35,IceCream – Never use print() to debug again,21,4
+2026-07-19T09:09:50.238629+00:00,48867701,36,Parsoid,20,1
+2026-07-19T09:09:50.238629+00:00,48958854,37,Show HN: Q3Edit – Edit and play Quake 3 maps in the browser,84,24
+2026-07-19T09:09:50.238629+00:00,48964536,38,FDA approves new kind of cholesterol pill,81,46
+2026-07-19T09:09:50.238629+00:00,48895763,39,A Second-Grade Teacher Revived a Beloved Video Game,86,28
+2026-07-19T09:09:50.238629+00:00,48961504,40,"Typing Speed Test, but for Developers",95,69
+2026-07-19T09:09:50.238629+00:00,48907063,41,Reviving a 15-year-old netbook with Arch Linux,217,157
+2026-07-19T09:09:50.238629+00:00,48962944,42,Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf],52,14
+2026-07-19T09:09:50.238629+00:00,48959297,43,Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind,77,23
+2026-07-19T09:09:50.238629+00:00,48965174,44,Inside the Secret Math Society Known Simply as Nicolas Bourbaki,4,0
+2026-07-19T09:09:50.238629+00:00,48963483,45,Harness Engineering,63,23
+2026-07-19T09:09:50.238629+00:00,48956949,46,What AI did to stackoverflow in a graph,407,495
+2026-07-19T09:09:50.238629+00:00,48951461,47,The Zilog Z80 has turned 50,279,114
+2026-07-19T09:09:50.238629+00:00,48962893,48,Judge a book by its first pages,58,40
+2026-07-19T09:09:50.238629+00:00,48964585,49,LLM-Integrated Multivariable Calculus Course,30,42
+2026-07-19T09:09:50.238629+00:00,48951756,50,Tech note: making your own V-I plots at home,78,10
