@@ -16221,3 +16221,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-19T15:04:01.446043+00:00,48867701,48,Parsoid,25,1
 2026-07-19T15:04:01.446043+00:00,48968149,49,What Did We Lose When We Lost the Stars,4,1
 2026-07-19T15:04:01.446043+00:00,48961504,50,"Typing Speed Test, but for Developers",102,69
+2026-07-19T17:07:16.551893+00:00,48966120,1,Qwen 3.8,499,355
+2026-07-19T17:07:16.551893+00:00,48967256,2,Minecraft: Java Edition now uses SDL3,161,104
+2026-07-19T17:07:16.551893+00:00,48966713,3,"What I learned selling 2,500 MIDI recorders: Hardware is not so hard",258,116
+2026-07-19T17:07:16.551893+00:00,48968063,4,Bananas sprout in Rayleigh Garden UK after 15 years,52,29
+2026-07-19T17:07:16.551893+00:00,48966569,5,Claude Code uses Bun written in Rust now,208,301
+2026-07-19T17:07:16.551893+00:00,48911021,6,Blender 5.2 LTS,214,83
+2026-07-19T17:07:16.551893+00:00,48962600,7,UnifiedIR for Julia,26,2
+2026-07-19T17:07:16.551893+00:00,48965850,8,OpenAI reduces Codex Model Context Size from 372k to 272k,179,89
+2026-07-19T17:07:16.551893+00:00,48860719,9,Cagire: Live Coding in Forth,21,3
+2026-07-19T17:07:16.551893+00:00,48963879,10,Transcribe.cpp,656,139
+2026-07-19T17:07:16.551893+00:00,48966984,11,"I joined the IndieWeb, here's what I learned",78,46
+2026-07-19T17:07:16.551893+00:00,48903717,12,"Infinities, impossibilities, and the man in the white linen suit",31,24
+2026-07-19T17:07:16.551893+00:00,48891334,13,"Land Atlas – soil, farmability, and crop analysis for land listings",23,6
+2026-07-19T17:07:16.551893+00:00,48968949,14,C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8),5,0
+2026-07-19T17:07:16.551893+00:00,48968515,15,Terence McKenna's Mega Bad Trip,9,2
+2026-07-19T17:07:16.551893+00:00,48966769,16,The death and rebirth of my home server,77,46
+2026-07-19T17:07:16.551893+00:00,48911793,17,Speech Recognition and TTS in less than 500kb,516,74
+2026-07-19T17:07:16.551893+00:00,48908433,18,Dupes (product clones) took over the world,14,4
+2026-07-19T17:07:16.551893+00:00,48963465,19,Codex Resets,251,168
+2026-07-19T17:07:16.551893+00:00,48895861,20,Mathematicians still don't know the fastest way to multiply numbers,174,97
+2026-07-19T17:07:16.551893+00:00,48964015,21,Better and Cheaper Than IPTV,269,89
+2026-07-19T17:07:16.551893+00:00,48962758,22,Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day,217,176
+2026-07-19T17:07:16.551893+00:00,48968348,23,"Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",38,13
+2026-07-19T17:07:16.551893+00:00,48965880,24,Ollama: All Aboard Open Models,47,24
+2026-07-19T17:07:16.551893+00:00,48965914,25,The Mighty Big Array of Finn Jensen LA8YB,26,6
+2026-07-19T17:07:16.551893+00:00,48875738,26,Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf],32,3
+2026-07-19T17:07:16.551893+00:00,48965161,27,Scrying the AMD GFX1250 LLVM Tea Leaves,51,2
+2026-07-19T17:07:16.551893+00:00,48905836,28,Using self-hosted Umami for iOS app analytics,48,6
+2026-07-19T17:07:16.551893+00:00,48965719,29,The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf],42,3
+2026-07-19T17:07:16.551893+00:00,48962838,30,"Classic Amiga titles, free to download",162,21
+2026-07-19T17:07:16.551893+00:00,48904269,31,Making Software: How to make a font,80,13
+2026-07-19T17:07:16.551893+00:00,48960155,32,"Goodbye, and Thanks for All the Bikesheds",266,237
+2026-07-19T17:07:16.551893+00:00,48877124,33,A Visual Catalog of Retro Macintosh Software,71,7
+2026-07-19T17:07:16.551893+00:00,48960218,34,The Kimi K3 Moment,559,525
+2026-07-19T17:07:16.551893+00:00,48962983,35,NYC may require landlords and realtors to disclose the use of AI in listings,551,242
+2026-07-19T17:07:16.551893+00:00,48966044,36,Anthropic runs large-scale code migrations with Claude Code,10,5
+2026-07-19T17:07:16.551893+00:00,48968690,37,Data center opponents stage 142 protests across 42 US states,11,1
+2026-07-19T17:07:16.551893+00:00,48961157,38,What's the deal with all the random weekly quota resets for agents lately?,69,74
+2026-07-19T17:07:16.551893+00:00,48964185,39,AI Mania Is Eviscerating Global Decision-Making,335,180
+2026-07-19T17:07:16.551893+00:00,48957779,40,GPT-5.6 used a prompt to close a 30-year gap in convex optimization,578,377
+2026-07-19T17:07:16.551893+00:00,48960607,41,"REO Trucks I4 4WD Pickup Truck Starts at $21,500",99,193
+2026-07-19T17:07:16.551893+00:00,48964424,42,I built a browser-based P2P file transfer tool using WebRTC,36,16
+2026-07-19T17:07:16.551893+00:00,48959090,43,"If You Build It, They Will Come",437,176
+2026-07-19T17:07:16.551893+00:00,48962429,44,Co-evolution of self-replication and function in a digital primordial soup,82,23
+2026-07-19T17:07:16.551893+00:00,48967406,45,Study: Single-crystal nanowires of niobium arsenide may replace copper wires,3,1
+2026-07-19T17:07:16.551893+00:00,48964243,46,IceCream – Never use print() to debug again,28,10
+2026-07-19T17:07:16.551893+00:00,48958854,47,Show HN: Q3Edit – Edit and play Quake 3 maps in the browser,88,26
+2026-07-19T17:07:16.551893+00:00,48895763,48,A Second-Grade Teacher Revived a Beloved Video Game,91,33
+2026-07-19T17:07:16.551893+00:00,48916541,49,Developing an Intuitive Sense of Scale,30,8
+2026-07-19T17:07:16.551893+00:00,48967355,50,I burned all my tokens researching how to save tokens,74,105
