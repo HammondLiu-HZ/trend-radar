@@ -16271,3 +16271,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-19T17:07:16.551893+00:00,48895763,48,A Second-Grade Teacher Revived a Beloved Video Game,91,33
 2026-07-19T17:07:16.551893+00:00,48916541,49,Developing an Intuitive Sense of Scale,30,8
 2026-07-19T17:07:16.551893+00:00,48967355,50,I burned all my tokens researching how to save tokens,74,105
+2026-07-19T19:17:13.237688+00:00,48966120,1,Qwen 3.8,618,449
+2026-07-19T19:17:13.237688+00:00,48968606,2,"Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",303,26
+2026-07-19T19:17:13.237688+00:00,48969983,3,HMD Touch 4G,31,33
+2026-07-19T19:17:13.237688+00:00,48966713,4,"What I learned selling 2,500 MIDI recorders: Hardware is not so hard",327,150
+2026-07-19T19:17:13.237688+00:00,48966569,5,Claude Code uses Bun written in Rust now,292,378
+2026-07-19T19:17:13.237688+00:00,48968063,6,Bananas sprout in Rayleigh Garden UK after 15 years,73,56
+2026-07-19T19:17:13.237688+00:00,48967256,7,Minecraft: Java Edition now uses SDL3,194,139
+2026-07-19T19:17:13.237688+00:00,48911021,8,Blender 5.2 LTS,271,105
+2026-07-19T19:17:13.237688+00:00,48965850,9,OpenAI reduces Codex Model Context Size from 372k to 272k,238,105
+2026-07-19T19:17:13.237688+00:00,48860719,10,Cagire: Live Coding in Forth,49,8
+2026-07-19T19:17:13.237688+00:00,48962600,11,UnifiedIR for Julia,48,12
+2026-07-19T19:17:13.237688+00:00,48968515,12,Terence McKenna's Mega Bad Trip,51,38
+2026-07-19T19:17:13.237688+00:00,48968949,13,C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8),26,0
+2026-07-19T19:17:13.237688+00:00,48963879,14,Transcribe.cpp,683,140
+2026-07-19T19:17:13.237688+00:00,48969635,15,The Last MPEG-4 Visual Patent Has Expired,53,12
+2026-07-19T19:17:13.237688+00:00,48907390,16,The Zen of Parallel Programming,5,0
+2026-07-19T19:17:13.237688+00:00,48891334,17,"Land Atlas – soil, farmability, and crop analysis for land listings",31,11
+2026-07-19T19:17:13.237688+00:00,48903717,18,"Infinities, impossibilities, and the man in the white linen suit",44,35
+2026-07-19T19:17:13.237688+00:00,48969291,19,Moonshot AI suspends new subscriptions due to Kimi K3 demand,76,19
+2026-07-19T19:17:13.237688+00:00,48911793,20,Speech Recognition and TTS in less than 500kb,535,77
+2026-07-19T19:17:13.237688+00:00,48969582,21,Texas Police Spent $4.5M on Four Chevy Tahoes,61,32
+2026-07-19T19:17:13.237688+00:00,48970039,22,Neither GCC nor Clang are compliant with standard C++,19,11
+2026-07-19T19:17:13.237688+00:00,48970372,23,Less Is More: Why Audio on SoundCloud Looks Different,13,2
+2026-07-19T19:17:13.237688+00:00,48908433,24,Dupes (product clones) took over the world,25,22
+2026-07-19T19:17:13.237688+00:00,48963465,25,Codex Resets,263,174
+2026-07-19T19:17:13.237688+00:00,48895861,26,Mathematicians still don't know the fastest way to multiply numbers,195,107
+2026-07-19T19:17:13.237688+00:00,48966984,27,"I joined the IndieWeb, here's what I learned",96,64
+2026-07-19T19:17:13.237688+00:00,48964015,28,Better and Cheaper Than IPTV,295,91
+2026-07-19T19:17:13.237688+00:00,48966769,29,The death and rebirth of my home server,87,63
+2026-07-19T19:17:13.237688+00:00,48962758,30,Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day,229,183
+2026-07-19T19:17:13.237688+00:00,48965719,31,The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf],60,3
+2026-07-19T19:17:13.237688+00:00,48968701,32,Natural experiments prove phytoplankton carbon removal works,7,1
+2026-07-19T19:17:13.237688+00:00,48968348,33,"Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",56,20
+2026-07-19T19:17:13.237688+00:00,48965161,34,Scrying the AMD GFX1250 LLVM Tea Leaves,58,5
+2026-07-19T19:17:13.237688+00:00,48875738,35,Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf],36,3
+2026-07-19T19:17:13.237688+00:00,48905836,36,Using self-hosted Umami for iOS app analytics,55,8
+2026-07-19T19:17:13.237688+00:00,48962838,37,"Classic Amiga titles, free to download",170,21
+2026-07-19T19:17:13.237688+00:00,48904269,38,Making Software: How to make a font,86,13
+2026-07-19T19:17:13.237688+00:00,48965914,39,The Mighty Big Array of Finn Jensen LA8YB,29,7
+2026-07-19T19:17:13.237688+00:00,48960155,40,"Goodbye, and Thanks for All the Bikesheds",271,245
+2026-07-19T19:17:13.237688+00:00,48877124,41,A Visual Catalog of Retro Macintosh Software,74,7
+2026-07-19T19:17:13.237688+00:00,48960218,42,The Kimi K3 Moment,571,547
+2026-07-19T19:17:13.237688+00:00,48970228,43,Z80 turns 50 as an open-source drop-in replacement nears DIP40 silicon,4,0
+2026-07-19T19:17:13.237688+00:00,48966044,44,Anthropic runs large-scale code migrations with Claude Code,17,18
+2026-07-19T19:17:13.237688+00:00,48962983,45,NYC may require landlords and realtors to disclose the use of AI in listings,554,256
+2026-07-19T19:17:13.237688+00:00,48968690,46,Data center opponents stage 142 protests across 42 US states,22,9
+2026-07-19T19:17:13.237688+00:00,48961157,47,What's the deal with all the random weekly quota resets for agents lately?,71,77
+2026-07-19T19:17:13.237688+00:00,48970374,48,Self-Hosted Dynamic DNS,4,0
+2026-07-19T19:17:13.237688+00:00,48967406,49,Study: Single-crystal nanowires of niobium arsenide may replace copper wires,5,1
+2026-07-19T19:17:13.237688+00:00,48957779,50,GPT-5.6 used a prompt to close a 30-year gap in convex optimization,580,380
