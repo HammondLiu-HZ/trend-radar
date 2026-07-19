@@ -15972,3 +15972,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-19T03:45:21.173083+00:00,48955042,48,Show HN: IKEA Complexity Index,147,80
 2026-07-19T03:45:21.173083+00:00,48962922,49,curl can be used to send emails with SMTP,28,2
 2026-07-19T03:45:21.173083+00:00,48951898,50,Static search trees: 40x faster than binary search (2024),180,15
+2026-07-19T06:38:00.584382+00:00,48963879,1,Transcribe.cpp,347,59
+2026-07-19T06:38:00.584382+00:00,48911793,2,Speech Recognition and TTS in less than 500kb,389,41
+2026-07-19T06:38:00.584382+00:00,48964015,3,Better and Cheaper Than IPTV,131,35
+2026-07-19T06:38:00.584382+00:00,48964536,4,FDA approves new kind of cholesterol pill,61,35
+2026-07-19T06:38:00.584382+00:00,48895861,5,Mathematicians still don't know the fastest way to multiply numbers,61,40
+2026-07-19T06:38:00.584382+00:00,48959090,6,"If You Build It, They Will Come",354,126
+2026-07-19T06:38:00.584382+00:00,48962838,7,"Classic Amiga titles, free to download",97,13
+2026-07-19T06:38:00.584382+00:00,48965161,8,Scrying the AMD GFX1250 LLVM Tea Leaves,5,0
+2026-07-19T06:38:00.584382+00:00,48957779,9,GPT-5.6 used a prompt to close a 30-year gap in convex optimization,543,346
+2026-07-19T06:38:00.584382+00:00,48877124,10,A Visual Catalog of Retro Macintosh Software,26,5
+2026-07-19T06:38:00.584382+00:00,48904269,11,Making Software: How to make a font,19,2
+2026-07-19T06:38:00.584382+00:00,48962758,12,Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day,130,85
+2026-07-19T06:38:00.584382+00:00,48892021,13,"I'm Making Strandfall, a Solarpunk Orienteering Larp",132,18
+2026-07-19T06:38:00.584382+00:00,48962983,14,Mayor Mamdani Says Landlords Can't Use AI Images to Advertise,402,179
+2026-07-19T06:38:00.584382+00:00,48964185,15,AI Mania Is Eviscerating Global Decision-Making,141,55
+2026-07-19T06:38:00.584382+00:00,48964215,16,Deepsec,16,0
+2026-07-19T06:38:00.584382+00:00,48920328,17,Supabase just announced searchable encryption,5,0
+2026-07-19T06:38:00.584382+00:00,48916044,18,Is this the end of the once-mighty GoPro?,212,454
+2026-07-19T06:38:00.584382+00:00,48962429,19,Co-evolution of self-replication and function in a digital primordial soup,56,7
+2026-07-19T06:38:00.584382+00:00,48964424,20,I built a browser-based P2P file transfer tool using WebRTC,12,10
+2026-07-19T06:38:00.584382+00:00,48956879,21,Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?,233,111
+2026-07-19T06:38:00.584382+00:00,48867701,22,Parsoid,16,0
+2026-07-19T06:38:00.584382+00:00,48959392,23,"Setting up your spare Mac for Claude Code to control, a step-by-step guide",214,142
+2026-07-19T06:38:00.584382+00:00,48959143,24,Gleam Is Now on Tangled,227,142
+2026-07-19T06:38:00.584382+00:00,48916541,25,Developing an Intuitive Sense of Scale,19,4
+2026-07-19T06:38:00.584382+00:00,48956688,26,LG monitors silently install software through Windows Update without consent,1084,552
+2026-07-19T06:38:00.584382+00:00,48959042,27,Elixir-lang.org has a new design,211,122
+2026-07-19T06:38:00.584382+00:00,48958854,28,Show HN: Q3Edit – Edit and play Quake 3 maps in the browser,80,18
+2026-07-19T06:38:00.584382+00:00,48895763,29,A Second-Grade Teacher Revived a Beloved Video Game,85,28
+2026-07-19T06:38:00.584382+00:00,48963465,30,Codex Resets,127,95
+2026-07-19T06:38:00.584382+00:00,48962944,31,Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf],50,11
+2026-07-19T06:38:00.584382+00:00,48964243,32,IceCream – Never use print() to debug again,12,0
+2026-07-19T06:38:00.584382+00:00,48959297,33,Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind,77,23
+2026-07-19T06:38:00.584382+00:00,48956949,34,What AI did to stackoverflow in a graph,396,488
+2026-07-19T06:38:00.584382+00:00,48951756,35,Tech note: making your own V-I plots at home,76,10
+2026-07-19T06:38:00.584382+00:00,48852151,36,How GitHub gave every repository a durable owner,81,25
+2026-07-19T06:38:00.584382+00:00,48951461,37,The Zilog Z80 has turned 50,277,111
+2026-07-19T06:38:00.584382+00:00,48956231,38,The Computer at the Bottom of a Canal,154,38
+2026-07-19T06:38:00.584382+00:00,48963483,39,Harness Engineering,56,22
+2026-07-19T06:38:00.584382+00:00,48926594,40,GTX 1080s: Testing a Legend,96,44
+2026-07-19T06:38:00.584382+00:00,48954851,41,Regressive JPEGs,671,67
+2026-07-19T06:38:00.584382+00:00,48952565,42,TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years,224,88
+2026-07-19T06:38:00.584382+00:00,48946286,43,Advances in Real Time Rendering in Games,12,2
+2026-07-19T06:38:00.584382+00:00,48965012,44,"Google's Gemini delay: Coding stumbles, clashing teams and frustrated engineers",7,1
+2026-07-19T06:38:00.584382+00:00,48965130,45,Impro is a handbook for running a cult,7,1
+2026-07-19T06:38:00.584382+00:00,48945241,46,AWS: Inaccurate Estimated Billing Data – $1.7 billion,1280,745
+2026-07-19T06:38:00.584382+00:00,48907063,47,Reviving a 15-year-old netbook with Arch Linux,216,155
+2026-07-19T06:38:00.584382+00:00,48960218,48,The Kimi K3 Moment,320,357
+2026-07-19T06:38:00.584382+00:00,48956307,49,Qubes OS Security in the Public Record,86,15
+2026-07-19T06:38:00.584382+00:00,48960155,50,"Goodbye, and Thanks for All the Bikesheds",203,204
