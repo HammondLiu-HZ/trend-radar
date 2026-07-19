@@ -16072,3 +16072,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-19T09:09:50.238629+00:00,48962893,48,Judge a book by its first pages,58,40
 2026-07-19T09:09:50.238629+00:00,48964585,49,LLM-Integrated Multivariable Calculus Course,30,42
 2026-07-19T09:09:50.238629+00:00,48951756,50,Tech note: making your own V-I plots at home,78,10
+2026-07-19T11:15:08.749011+00:00,48966569,1,Claude Code uses Bun written in Rust now,61,33
+2026-07-19T11:15:08.749011+00:00,48966190,2,Qwen 3.8 Max Preview,37,9
+2026-07-19T11:15:08.749011+00:00,48966120,3,Qwen3.8 is launching and going open-weight soon,212,100
+2026-07-19T11:15:08.749011+00:00,48963879,4,Transcribe.cpp,554,118
+2026-07-19T11:15:08.749011+00:00,48911021,5,Blender 5.2 LTS,27,14
+2026-07-19T11:15:08.749011+00:00,48966139,6,Half a Second – a book about the XZ backdoor,17,4
+2026-07-19T11:15:08.749011+00:00,48965850,7,OpenAI reduces Codex Model Context Size from 372k to 272k,23,4
+2026-07-19T11:15:08.749011+00:00,48911793,8,Speech Recognition and TTS in less than 500kb,468,62
+2026-07-19T11:15:08.749011+00:00,48964015,9,Better and Cheaper Than IPTV,216,54
+2026-07-19T11:15:08.749011+00:00,48963465,10,Codex Resets,200,141
+2026-07-19T11:15:08.749011+00:00,48960218,11,The Kimi K3 Moment,439,452
+2026-07-19T11:15:08.749011+00:00,48895861,12,Mathematicians still don't know the fastest way to multiply numbers,124,77
+2026-07-19T11:15:08.749011+00:00,48920328,13,Searchable field-level encryption on Supabase with CipherStash,38,27
+2026-07-19T11:15:08.749011+00:00,48962758,14,Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day,177,121
+2026-07-19T11:15:08.749011+00:00,48875738,15,Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf],14,2
+2026-07-19T11:15:08.749011+00:00,48965161,16,Scrying the AMD GFX1250 LLVM Tea Leaves,30,0
+2026-07-19T11:15:08.749011+00:00,48965914,17,The Mighty Big Array of Finn Jensen LA8YB,4,0
+2026-07-19T11:15:08.749011+00:00,48904269,18,Making Software: How to make a font,49,9
+2026-07-19T11:15:08.749011+00:00,48965886,19,Perforce charges $500 for training training videos.. and it's AI narrated,36,52
+2026-07-19T11:15:08.749011+00:00,48905836,20,Using self-hosted Umami for iOS app analytics,20,3
+2026-07-19T11:15:08.749011+00:00,48877124,21,A Visual Catalog of Retro Macintosh Software,49,6
+2026-07-19T11:15:08.749011+00:00,48962838,22,"Classic Amiga titles, free to download",123,16
+2026-07-19T11:15:08.749011+00:00,48896558,23,How the Elite See Rome,18,16
+2026-07-19T11:15:08.749011+00:00,48960155,24,"Goodbye, and Thanks for All the Bikesheds",225,214
+2026-07-19T11:15:08.749011+00:00,48962983,25,NYC may require landlords and realtors to disclose the use of AI in listings,483,212
+2026-07-19T11:15:08.749011+00:00,48964185,26,AI Mania Is Eviscerating Global Decision-Making,232,84
+2026-07-19T11:15:08.749011+00:00,48964424,27,I built a browser-based P2P file transfer tool using WebRTC,29,14
+2026-07-19T11:15:08.749011+00:00,48965736,28,Order of Magnitude Physics a Textbook with Applications to the Retinal Rod(1998) [pdf],4,0
+2026-07-19T11:15:08.749011+00:00,48965719,29,The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf],4,0
+2026-07-19T11:15:08.749011+00:00,48965983,30,Show HN: OfflineTTS — Free browser-based TTS & STT that runs locally,5,2
+2026-07-19T11:15:08.749011+00:00,48964215,31,Deepsec,35,4
+2026-07-19T11:15:08.749011+00:00,48965918,32,Mirror your GitHub repos to tangled.org automatically,5,0
+2026-07-19T11:15:08.749011+00:00,48957779,33,GPT-5.6 used a prompt to close a 30-year gap in convex optimization,567,364
+2026-07-19T11:15:08.749011+00:00,48960607,34,"REO Trucks I4 4WD Pickup Truck Starts at $21,500",91,154
+2026-07-19T11:15:08.749011+00:00,48916541,35,Developing an Intuitive Sense of Scale,30,7
+2026-07-19T11:15:08.749011+00:00,48961157,36,What's the deal with all the random weekly quota resets for agents lately?,55,62
+2026-07-19T11:15:08.749011+00:00,48965880,37,Ollama: All Aboard Open Models,5,2
+2026-07-19T11:15:08.749011+00:00,48962429,38,Co-evolution of self-replication and function in a digital primordial soup,75,17
+2026-07-19T11:15:08.749011+00:00,48964243,39,IceCream – Never use print() to debug again,23,6
+2026-07-19T11:15:08.749011+00:00,48867701,40,Parsoid,23,1
+2026-07-19T11:15:08.749011+00:00,48959090,41,"If You Build It, They Will Come",419,142
+2026-07-19T11:15:08.749011+00:00,48966219,42,Dumber Mini: A Nokia-Style Phone with WhatsApp and Maps,8,0
+2026-07-19T11:15:08.749011+00:00,48958854,43,Show HN: Q3Edit – Edit and play Quake 3 maps in the browser,86,24
+2026-07-19T11:15:08.749011+00:00,48895763,44,A Second-Grade Teacher Revived a Beloved Video Game,89,28
+2026-07-19T11:15:08.749011+00:00,48965174,45,Inside the Secret Math Society Known Simply as Nicolas Bourbaki,8,1
+2026-07-19T11:15:08.749011+00:00,48965687,46,"Show HN: PilotCite – Get your brand cited by ChatGPT, Gemini, and more",4,0
+2026-07-19T11:15:08.749011+00:00,48961504,47,"Typing Speed Test, but for Developers",97,69
+2026-07-19T11:15:08.749011+00:00,48964536,48,FDA approves new kind of cholesterol pill,87,49
+2026-07-19T11:15:08.749011+00:00,48959297,50,Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind,77,23
