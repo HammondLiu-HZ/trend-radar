@@ -16821,3 +16821,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-20T20:37:11.243145+00:00,48984021,48,Mark Cuban: fight inequality by giving all workers company stock,10,4
 2026-07-20T20:37:11.243145+00:00,48982583,49,An Empirical Study: AI Agent Rules Need Context and Layered Enforcement,15,2
 2026-07-20T20:37:11.243145+00:00,48983728,50,Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused,10,2
+2026-07-20T22:07:33.114260+00:00,48979269,1,China’s open-weights AI strategy is winning,813,669
+2026-07-20T22:07:33.114260+00:00,48981703,2,Kimi Work,268,131
+2026-07-20T22:07:33.114260+00:00,48981620,3,Jelly UI: Soft-body physics for native HTML form controls,241,98
+2026-07-20T22:07:33.114260+00:00,48983382,4,Human mathematicians are being outcounterexampled,97,26
+2026-07-20T22:07:33.114260+00:00,48978605,5,Hacker wipes Romania's land registry database,522,288
+2026-07-20T22:07:33.114260+00:00,48982681,6,Nativ: Run frontier open models locally on your Mac,114,44
+2026-07-20T22:07:33.114260+00:00,48977128,7,Who's Afraid of Chinese Models?,30,10
+2026-07-20T22:07:33.114260+00:00,48982535,8,Agent swarms and the new model economics,71,32
+2026-07-20T22:07:33.114260+00:00,48981206,9,"How we measured AI writing across arXiv, and where the measurement breaks",177,130
+2026-07-20T22:07:33.114260+00:00,48976846,10,Airport Simulator,617,119
+2026-07-20T22:07:33.114260+00:00,48984555,11,The creepiest 'sales demo' of all time,16,5
+2026-07-20T22:07:33.114260+00:00,48978350,12,LEDs’ potential to save our night skies,189,137
+2026-07-20T22:07:33.114260+00:00,48979931,13,Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012),138,55
+2026-07-20T22:07:33.114260+00:00,48984231,14,The Power of Awareness: Overcoming Surveillance Capitalism,16,0
+2026-07-20T22:07:33.114260+00:00,48981136,15,Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12,46,71
+2026-07-20T22:07:33.114260+00:00,48947739,16,85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core,29,12
+2026-07-20T22:07:33.114260+00:00,48916512,17,You only need the frontier model for one single edit,29,4
+2026-07-20T22:07:33.114260+00:00,48984270,18,I wrote an bash enumerator because I was sick of xargs,11,3
+2026-07-20T22:07:33.114260+00:00,48984254,19,"Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",14,0
+2026-07-20T22:07:33.114260+00:00,48864176,20,My two year old taught me constraint solving,5,0
+2026-07-20T22:07:33.114260+00:00,48979120,21,Perfection is not over-engineering,165,80
+2026-07-20T22:07:33.114260+00:00,48982011,22,Hyprland 0.55 announced the switch to Lua for its config files,105,86
+2026-07-20T22:07:33.114260+00:00,48985249,23,Donation Controversy,3,2
+2026-07-20T22:07:33.114260+00:00,48980019,24,"Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",250,247
+2026-07-20T22:07:33.114260+00:00,48978792,25,Shinjuku Station in 3D,115,23
+2026-07-20T22:07:33.114260+00:00,48980053,26,The Voice of Google,135,66
+2026-07-20T22:07:33.114260+00:00,48975665,27,Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25,366,206
+2026-07-20T22:07:33.114260+00:00,48982578,28,The drivers behind software delivery inefficiency,35,17
+2026-07-20T22:07:33.114260+00:00,48985140,29,My falling-out with the rationalist community,4,0
+2026-07-20T22:07:33.114260+00:00,48980404,30,Cross sectioning insects in an electron microscope with a femtosecond laser [video],56,2
+2026-07-20T22:07:33.114260+00:00,48980238,31,Mythologizing AI makes it more likely that we’ll fail to operate it well (2023),52,87
+2026-07-20T22:07:33.114260+00:00,48978835,32,"Firefox 153 available with support for Vulkan video decoding, JPEG-XL",220,52
+2026-07-20T22:07:33.114260+00:00,48969530,33,ECC and DDR5,110,98
+2026-07-20T22:07:33.114260+00:00,48983108,34,Safety and alignment in an era of long-horizon models,18,4
+2026-07-20T22:07:33.114260+00:00,48980506,35,"Ziggity – A terminal UI for Git, written in Zig",60,42
+2026-07-20T22:07:33.114260+00:00,48980520,36,I Stopped “Creating Content”,137,105
+2026-07-20T22:07:33.114260+00:00,48974454,37,Xiaomi-Robotics-1,439,291
+2026-07-20T22:07:33.114260+00:00,48979475,38,Controlling Reasoning Effort in LLMs,58,3
+2026-07-20T22:07:33.114260+00:00,48977711,39,The EU is about to sell our most sensitive data to the US for visa-free travel,459,259
+2026-07-20T22:07:33.114260+00:00,48982374,40,That post never existed. Stop listening to that thing,110,109
+2026-07-20T22:07:33.114260+00:00,48978192,41,Soofi – Sovereign Open Source Foundation Models,46,14
+2026-07-20T22:07:33.114260+00:00,48982411,42,"AI, Vim, and the Illusion of Flow",14,2
+2026-07-20T22:07:33.114260+00:00,48978388,43,Inertia-1: An Open Exploration to a Unified Motion Foundation Model,45,1
+2026-07-20T22:07:33.114260+00:00,48972970,44,Moonshine: Lets you stream games from your PC to any device running Moonlight,319,135
+2026-07-20T22:07:33.114260+00:00,48979823,45,NYC Subway Signals: A Complete Guide (2012),37,8
+2026-07-20T22:07:33.114260+00:00,48952713,46,What does the Riemann zeta function have to do with the distribution of primes?,113,30
+2026-07-20T22:07:33.114260+00:00,48983076,47,Making ASCII Art in Vim,14,0
+2026-07-20T22:07:33.114260+00:00,48973455,48,Satan's 19th-Century Bank Note (2017),41,6
+2026-07-20T22:07:33.114260+00:00,48980779,49,Kimi K3: The open-weights escalation,17,1
+2026-07-20T22:07:33.114260+00:00,48982807,50,Build a Game That Fits on a Single Floppy Disk: 1.44MB Game Development Contest,6,2
