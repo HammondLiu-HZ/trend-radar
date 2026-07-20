@@ -16571,3 +16571,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-20T08:12:32.592797+00:00,48975145,48,Britain: A Cautionary Tale for America,5,1
 2026-07-20T08:12:32.592797+00:00,48974563,49,New Mexico Denies Gas Pipeline Permit for Oracle Data Center,14,1
 2026-07-20T08:12:32.592797+00:00,48903717,50,"Infinities, impossibilities, and the man in the white linen suit",78,50
+2026-07-20T11:52:53.081662+00:00,48975665,1,Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25,170,85
+2026-07-20T11:52:53.081662+00:00,48968606,2,"Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",2455,267
+2026-07-20T11:52:53.081662+00:00,48972970,3,Moonshine: Lets you stream games from your PC to any device running Moonlight,220,91
+2026-07-20T11:52:53.081662+00:00,48976682,4,Airbus Takes Flight from AWS,53,35
+2026-07-20T11:52:53.081662+00:00,48974325,5,LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques,97,17
+2026-07-20T11:52:53.081662+00:00,48966569,6,Claude Code uses Bun written in Rust now,545,725
+2026-07-20T11:52:53.081662+00:00,48908884,7,Eliminating Go bounds checks with unsafe,22,14
+2026-07-20T11:52:53.081662+00:00,48952713,8,What does the Riemann zeta function have to do with the distribution of primes?,17,2
+2026-07-20T11:52:53.081662+00:00,48970894,9,Orion Browser by Kagi,226,157
+2026-07-20T11:52:53.081662+00:00,48974454,10,Xiaomi-Robotics-1,267,191
+2026-07-20T11:52:53.081662+00:00,48966713,11,"What I learned selling 2,500 MIDI recorders: Hardware is not so hard",509,232
+2026-07-20T11:52:53.081662+00:00,48861496,12,Self-Powered Trailers Promise Leaner Freight Runs,50,27
+2026-07-20T11:52:53.081662+00:00,48976781,13,"GitHub's 2FA is to become mandatory on September 2, 2026",9,1
+2026-07-20T11:52:53.081662+00:00,48977270,14,Why is it so hard for the U.S. to win wars?,6,0
+2026-07-20T11:52:53.081662+00:00,48967256,15,Minecraft: Java Edition now uses SDL3,328,213
+2026-07-20T11:52:53.081662+00:00,48917906,16,Sealed tomb filled with paintings and inscriptions discovered in Egypt,56,45
+2026-07-20T11:52:53.081662+00:00,48907390,17,The Zen of Parallel Programming,172,24
+2026-07-20T11:52:53.081662+00:00,48974292,18,When can a power company take your land for data center infrastructure?,120,91
+2026-07-20T11:52:53.081662+00:00,48968063,19,Bananas sprout in Rayleigh Garden UK after 15 years,164,127
+2026-07-20T11:52:53.081662+00:00,48966120,20,Qwen 3.8,895,624
+2026-07-20T11:52:53.081662+00:00,48928703,21,"11,700 Free Photos from John Margolies' Archive of Americana Architecture",77,3
+2026-07-20T11:52:53.081662+00:00,48970772,22,HomeLab #1: MikroTik as a Home Router,133,105
+2026-07-20T11:52:53.081662+00:00,48966984,23,"I joined the IndieWeb, here's what I learned",217,112
+2026-07-20T11:52:53.081662+00:00,48936994,24,1-Bit LLM in the Browser,49,19
+2026-07-20T11:52:53.081662+00:00,48974476,25,How proprietary formats have become Microsoft’s main tool for lock-in,121,84
+2026-07-20T11:52:53.081662+00:00,48973869,26,Claude Fable produced a counterexample to the Jacobian Conjecture,467,295
+2026-07-20T11:52:53.081662+00:00,48967355,27,I burned all my tokens researching how to save tokens,141,189
+2026-07-20T11:52:53.081662+00:00,48913656,28,Who Is America's Homer?,88,184
+2026-07-20T11:52:53.081662+00:00,48969983,29,HMD Touch 4G,82,92
+2026-07-20T11:52:53.081662+00:00,48968949,30,C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8),77,6
+2026-07-20T11:52:53.081662+00:00,48908433,31,Dupes took over the world,100,96
+2026-07-20T11:52:53.081662+00:00,48860719,32,Cagire: Live Coding in Forth,100,14
+2026-07-20T11:52:53.081662+00:00,48920597,33,Talk: The Art of Braiding Algorithms,46,1
+2026-07-20T11:52:53.081662+00:00,48968515,34,Terence McKenna's Mega Bad Trip (2025),101,90
+2026-07-20T11:52:53.081662+00:00,48971938,35,Biggest Probabilistic Computer Turns Noise into Answers,75,13
+2026-07-20T11:52:53.081662+00:00,48907564,36,Korg PS-3300 is back,56,53
+2026-07-20T11:52:53.081662+00:00,48971566,37,A new Intel Itanium (IA-64) emulator that boots Windows,80,71
+2026-07-20T11:52:53.081662+00:00,48911021,38,Blender 5.2 LTS,401,167
+2026-07-20T11:52:53.081662+00:00,48968701,39,Natural experiments prove phytoplankton carbon removal works,67,28
+2026-07-20T11:52:53.081662+00:00,48962600,40,UnifiedIR for Julia,96,17
+2026-07-20T11:52:53.081662+00:00,48965850,41,OpenAI reduces Codex Model Context Size from 372k to 272k,350,159
+2026-07-20T11:52:53.081662+00:00,48891334,42,"Land Atlas – soil, farmability, and crop analysis for land listings",67,18
+2026-07-20T11:52:53.081662+00:00,48973541,43,LLMs aren't remotely like compilers or power tools,19,10
+2026-07-20T11:52:53.081662+00:00,48969291,44,Moonshot AI suspends new subscriptions due to Kimi K3 demand,267,108
+2026-07-20T11:52:53.081662+00:00,48975419,45,Nolan's Odyssey – A technical analysis by a nitpicky Classics student,19,4
+2026-07-20T11:52:53.081662+00:00,48966769,46,The death and rebirth of my home server,135,99
+2026-07-20T11:52:53.081662+00:00,48963879,47,Transcribe.cpp,745,157
+2026-07-20T11:52:53.081662+00:00,48969635,48,The Last MPEG-4 Visual Patent Has Expired,214,62
+2026-07-20T11:52:53.081662+00:00,48971738,49,AI advice made people less accurate but more confident – sudy,343,194
+2026-07-20T11:52:53.081662+00:00,48926307,50,Ise Jingu and the Pyramid of Enabling Technologies (2021),15,5
