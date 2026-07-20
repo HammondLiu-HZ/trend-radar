@@ -16471,3 +16471,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-20T00:06:18.279266+00:00,48969051,48,Show HN: Bribes.fyi – Built something to report bribes,15,16
 2026-07-20T00:06:18.279266+00:00,48968348,49,"Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",73,26
 2026-07-20T00:06:18.279266+00:00,48877124,50,A Visual Catalog of Retro Macintosh Software,75,7
+2026-07-20T04:41:52.965470+00:00,48968606,1,"Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",1808,192
+2026-07-20T04:41:52.965470+00:00,48973869,2,Claude Fable produced a counterexample to the Jacobian Conjecture,123,51
+2026-07-20T04:41:52.965470+00:00,48966569,3,Claude Code uses Bun written in Rust now,433,597
+2026-07-20T04:41:52.965470+00:00,48972970,4,Moonshine: Lets you stream games from your PC to any device running Moonlight,30,13
+2026-07-20T04:41:52.965470+00:00,48966713,5,"What I learned selling 2,500 MIDI recorders: Hardware is not so hard",438,205
+2026-07-20T04:41:52.965470+00:00,48907390,6,The Zen of Parallel Programming,131,15
+2026-07-20T04:41:52.965470+00:00,48970894,7,Orion Browser by Kagi,101,80
+2026-07-20T04:41:52.965470+00:00,48967256,8,Minecraft: Java Edition now uses SDL3,286,191
+2026-07-20T04:41:52.965470+00:00,48971938,9,Biggest Probabilistic Computer Turns Noise into Answers,53,9
+2026-07-20T04:41:52.965470+00:00,48913656,10,Who Is America's Homer?,54,128
+2026-07-20T04:41:52.965470+00:00,48968063,11,Bananas sprout in Rayleigh Garden UK after 15 years,138,100
+2026-07-20T04:41:52.965470+00:00,48928703,12,"11,700 Free Photos from John Margolies' Archive of Americana Architecture",43,2
+2026-07-20T04:41:52.965470+00:00,48966120,13,Qwen 3.8,814,568
+2026-07-20T04:41:52.965470+00:00,48920597,14,Talk: The Art of Braiding Algorithms,28,0
+2026-07-20T04:41:52.965470+00:00,48970772,15,HomeLab #1: MikroTik as a Home Router,81,71
+2026-07-20T04:41:52.965470+00:00,48968949,16,C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8),64,4
+2026-07-20T04:41:52.965470+00:00,48974292,17,Power companies are using eminent domain to seize land for data centers,5,0
+2026-07-20T04:41:52.965470+00:00,48969983,18,HMD Touch 4G,62,66
+2026-07-20T04:41:52.965470+00:00,48966984,19,"I joined the IndieWeb, here's what I learned",172,88
+2026-07-20T04:41:52.965470+00:00,48860719,20,Cagire: Live Coding in Forth,82,11
+2026-07-20T04:41:52.965470+00:00,48908433,21,Dupes took over the world,74,65
+2026-07-20T04:41:52.965470+00:00,48971566,22,A new Intel Itanium (IA-64) emulator that boots Windows,63,54
+2026-07-20T04:41:52.965470+00:00,48920945,23,The Chickens and the Bulls (2012),3,0
+2026-07-20T04:41:52.965470+00:00,48967355,24,I burned all my tokens researching how to save tokens,105,143
+2026-07-20T04:41:52.965470+00:00,48971738,25,AI advice made people less accurate but more confident – sudy,307,173
+2026-07-20T04:41:52.965470+00:00,48965880,26,Ollama: All Aboard Open Models,126,50
+2026-07-20T04:41:52.965470+00:00,48968701,27,Natural experiments prove phytoplankton carbon removal works,53,24
+2026-07-20T04:41:52.965470+00:00,48894681,28,World GeoHistoGram,8,0
+2026-07-20T04:41:52.965470+00:00,48968515,29,Terence McKenna's Mega Bad Trip (2025),80,75
+2026-07-20T04:41:52.965470+00:00,48926307,30,Ise Jingu and the Pyramid of Enabling Technologies (2021),11,4
+2026-07-20T04:41:52.965470+00:00,48962600,31,UnifiedIR for Julia,88,17
+2026-07-20T04:41:52.965470+00:00,48973782,32,Big Tech Is Now Targeting Native American Land for Data Centers,13,2
+2026-07-20T04:41:52.965470+00:00,48969291,33,Moonshot AI suspends new subscriptions due to Kimi K3 demand,243,102
+2026-07-20T04:41:52.965470+00:00,48891334,34,"Land Atlas – soil, farmability, and crop analysis for land listings",64,18
+2026-07-20T04:41:52.965470+00:00,48911021,35,Blender 5.2 LTS,380,154
+2026-07-20T04:41:52.965470+00:00,48966769,36,The death and rebirth of my home server,127,83
+2026-07-20T04:41:52.965470+00:00,48973697,37,US health agency says cyclospora finding at produce company was false positive,14,5
+2026-07-20T04:41:52.965470+00:00,48972062,38,We want Texans to know their rights,160,53
+2026-07-20T04:41:52.965470+00:00,48969635,39,The Last MPEG-4 Visual Patent Has Expired,188,54
+2026-07-20T04:41:52.965470+00:00,48965850,40,OpenAI reduces Codex Model Context Size from 372k to 272k,330,156
+2026-07-20T04:41:52.965470+00:00,48948800,41,Building an Arch Linux Aarch64 Port for Holo Core,36,6
+2026-07-20T04:41:52.965470+00:00,48973715,42,Delete Your Data with Drop,14,3
+2026-07-20T04:41:52.965470+00:00,48971847,43,Show HN: A canvas-based note taking and organizer app,45,12
+2026-07-20T04:41:52.965470+00:00,48893346,44,From Muon to Gradient Clipping: Some Thoughts on QK Stability,24,0
+2026-07-20T04:41:52.965470+00:00,48903717,45,"Infinities, impossibilities, and the man in the white linen suit",74,49
+2026-07-20T04:41:52.965470+00:00,48963879,46,Transcribe.cpp,728,156
+2026-07-20T04:41:52.965470+00:00,48970991,47,Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV,88,17
+2026-07-20T04:41:52.965470+00:00,48973293,48,The Anti-Palantir Manifesto,33,12
+2026-07-20T04:41:52.965470+00:00,48965719,49,The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf],74,3
+2026-07-20T04:41:52.965470+00:00,48973821,50,The 2000s called. They want their digital camera back,6,5
