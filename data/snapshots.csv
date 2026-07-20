@@ -16671,3 +16671,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-20T14:25:17.336045+00:00,48968701,48,Natural experiments prove phytoplankton carbon removal works,72,29
 2026-07-20T14:25:17.336045+00:00,48971938,49,Biggest Probabilistic Computer Turns Noise into Answers,78,14
 2026-07-20T14:25:17.336045+00:00,48911021,50,Blender 5.2 LTS,408,171
+2026-07-20T16:38:20.657122+00:00,48979931,1,Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012),83,28
+2026-07-20T16:38:20.657122+00:00,48978605,2,Hacker wipes Romania's land registry database,301,172
+2026-07-20T16:38:20.657122+00:00,48979269,3,American AI is locked down and proprietary. It's losing,144,128
+2026-07-20T16:38:20.657122+00:00,48980238,4,Jaron Lanier: there is no AI (2023),21,13
+2026-07-20T16:38:20.657122+00:00,48976846,5,Airport Simulator,362,96
+2026-07-20T16:38:20.657122+00:00,48978350,6,We're Squandering LEDs' Potential to Save Our Night Skies,114,74
+2026-07-20T16:38:20.657122+00:00,48979825,7,I Tracked 997 Chrome Extensions That Changed Their Titles,24,0
+2026-07-20T16:38:20.657122+00:00,48979120,8,Perfection Is Not Over-Engineering,76,44
+2026-07-20T16:38:20.657122+00:00,48981136,9,Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12,2,0
+2026-07-20T16:38:20.657122+00:00,48978835,10,Firefox Merges Support for Vulkan Video Decoding,83,17
+2026-07-20T16:38:20.657122+00:00,48975665,11,Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25,319,168
+2026-07-20T16:38:20.657122+00:00,48980019,12,"Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",89,90
+2026-07-20T16:38:20.657122+00:00,48977711,13,The EU is about to sell our most sensitive data to the US for visa-free travel,323,174
+2026-07-20T16:38:20.657122+00:00,48978792,14,Shinjuku Station in 3D,31,9
+2026-07-20T16:38:20.657122+00:00,48979823,15,NYC Subway Signals: A Complete Guide,13,4
+2026-07-20T16:38:20.657122+00:00,48980053,16,The Voice of Google,14,5
+2026-07-20T16:38:20.657122+00:00,48978388,17,Inertia-1: An Open Exploration to a Unified Motion Foundation Model,31,1
+2026-07-20T16:38:20.657122+00:00,48973455,18,Satan's 19th-Century Bank Note (2017),28,1
+2026-07-20T16:38:20.657122+00:00,48978192,19,Soofi – Sovereign Open Source Foundation Models,21,8
+2026-07-20T16:38:20.657122+00:00,48980167,20,Show HN: Wheesper – Start an anonymous discussion with a link,8,5
+2026-07-20T16:38:20.657122+00:00,48978112,21,Annoying and alarming things about OpenCode,296,201
+2026-07-20T16:38:20.657122+00:00,48979010,22,Tested Kimi K3 for Coding,17,5
+2026-07-20T16:38:20.657122+00:00,48969530,23,ECC and DDR5,71,60
+2026-07-20T16:38:20.657122+00:00,48953189,24,Sensing warm and cool: how the body detects temperature changes,31,4
+2026-07-20T16:38:20.657122+00:00,48972970,25,Moonshine: Lets you stream games from your PC to any device running Moonlight,304,123
+2026-07-20T16:38:20.657122+00:00,48952713,26,What does the Riemann zeta function have to do with the distribution of primes?,75,16
+2026-07-20T16:38:20.657122+00:00,48917906,27,Sealed tomb filled with paintings and inscriptions discovered in Egypt,110,74
+2026-07-20T16:38:20.657122+00:00,48940641,28,We rewrote our custom visualisation renderers from SVG to be in Canvas,10,0
+2026-07-20T16:38:20.657122+00:00,48977849,29,The footprints of every building in NYC – updated weekly,19,2
+2026-07-20T16:38:20.657122+00:00,48979475,30,Controlling Reasoning Effort in LLMs,7,0
+2026-07-20T16:38:20.657122+00:00,48979822,31,Caffeine and Cardiovascular Disease: AHA Scientific Statement,29,10
+2026-07-20T16:38:20.657122+00:00,48899449,32,"Primate 0.40: Route pages, store enums, async schemas and events",9,5
+2026-07-20T16:38:20.657122+00:00,48980909,33,FCC pays $340k/year to keep 100's of empty Alaska buildings wired for internet,6,1
+2026-07-20T16:38:20.657122+00:00,48933948,34,Moist Towelette Museum,63,15
+2026-07-20T16:38:20.657122+00:00,48936994,35,1-Bit LLM in the Browser,100,42
+2026-07-20T16:38:20.657122+00:00,48979990,36,AliExpress hit with record $629M fine for counterfeit and illegal goods,23,5
+2026-07-20T16:38:20.657122+00:00,48974325,37,LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques,127,24
+2026-07-20T16:38:20.657122+00:00,48979734,38,The ACLU Is Arming Lawyers to Expose State Surveillance Secrets,13,0
+2026-07-20T16:38:20.657122+00:00,48908884,39,Eliminating Go bounds checks with unsafe,42,19
+2026-07-20T16:38:20.657122+00:00,48979263,40,Model 4: Our best model yet for local dictation and cleanup on Mac,6,0
+2026-07-20T16:38:20.657122+00:00,48968606,41,"Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",2734,315
+2026-07-20T16:38:20.657122+00:00,48921578,42,Show HN: Stacks – an hourly card solitaire about building four gardens,13,6
+2026-07-20T16:38:20.657122+00:00,48978961,43,Show HN: A Pipeline for Making 10-minute AI Movies with Claude Code and Seedance,6,1
+2026-07-20T16:38:20.657122+00:00,48978942,44,Visualizing the Artemis II Mission,3,0
+2026-07-20T16:38:20.657122+00:00,48980119,45,Trial Lawyers Lobby Against Autonomous Vehicles,9,2
+2026-07-20T16:38:20.657122+00:00,48978145,46,The Reverse Information Paradox (Satya Nadella),4,0
+2026-07-20T16:38:20.657122+00:00,48978026,47,Programming the Amiga and Atari ST in C: Reading Keyboard Input,6,0
+2026-07-20T16:38:20.657122+00:00,48974454,48,Xiaomi-Robotics-1,385,269
+2026-07-20T16:38:20.657122+00:00,48978331,49,Codex is wearing out our devices,50,30
+2026-07-20T16:38:20.657122+00:00,48980359,50,A 600-acre AI data center could cost some Wisconsin residents their land,5,1
