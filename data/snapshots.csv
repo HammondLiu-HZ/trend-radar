@@ -16771,3 +16771,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-20T18:59:11.520975+00:00,48974325,48,LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques,134,25
 2026-07-20T18:59:11.520975+00:00,48933948,49,Moist Towelette Museum,67,17
 2026-07-20T18:59:11.520975+00:00,48981789,50,Fable is now included on Max plans (up to 50% of weekly limit),10,15
+2026-07-20T20:37:11.243145+00:00,48979269,1,China's open-weights AI strategy is winning,659,572
+2026-07-20T20:37:11.243145+00:00,48981703,2,Kimi Work,172,90
+2026-07-20T20:37:11.243145+00:00,48981620,3,Jelly UI: Soft-body physics for native HTML form controls,165,59
+2026-07-20T20:37:11.243145+00:00,48978605,4,Hacker wipes Romania's land registry database,484,264
+2026-07-20T20:37:11.243145+00:00,48983382,5,Human mathematicians are being outcounterexampled,36,4
+2026-07-20T20:37:11.243145+00:00,48982681,6,Nativ: Run frontier open models locally on your Mac,59,24
+2026-07-20T20:37:11.243145+00:00,48981206,7,"How we measured AI writing across arXiv, and where the measurement breaks",164,119
+2026-07-20T20:37:11.243145+00:00,48979931,8,Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012),127,47
+2026-07-20T20:37:11.243145+00:00,48976846,9,Airport Simulator,553,114
+2026-07-20T20:37:11.243145+00:00,48982535,10,Agent swarms and the new model economics,34,13
+2026-07-20T20:37:11.243145+00:00,48981136,11,Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12,38,62
+2026-07-20T20:37:11.243145+00:00,48982011,12,Hyprland 0.55 announced the switch to Lua for its config files,86,69
+2026-07-20T20:37:11.243145+00:00,48978835,13,Firefox Merges Support for Vulkan Video Decoding,199,47
+2026-07-20T20:37:11.243145+00:00,48979120,14,Perfection Is Not Over-Engineering,147,69
+2026-07-20T20:37:11.243145+00:00,48947739,15,85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core,15,6
+2026-07-20T20:37:11.243145+00:00,48980019,16,"Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",216,229
+2026-07-20T20:37:11.243145+00:00,48980506,17,"Ziggity – A terminal UI for Git, written in Zig",51,34
+2026-07-20T20:37:11.243145+00:00,48980053,18,The Voice of Google,107,41
+2026-07-20T20:37:11.243145+00:00,48978350,19,LEDs' Potential to Save Our Night Skies,174,126
+2026-07-20T20:37:11.243145+00:00,48980404,20,Cross sectioning insects in an electron microscope with a femtosecond laser [video],46,2
+2026-07-20T20:37:11.243145+00:00,48978792,21,Shinjuku Station in 3D,95,18
+2026-07-20T20:37:11.243145+00:00,48975665,22,Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25,355,202
+2026-07-20T20:37:11.243145+00:00,48983108,23,Safety and alignment in an era of long-horizon models,14,2
+2026-07-20T20:37:11.243145+00:00,48982578,24,The drivers behind software delivery inefficiency,23,9
+2026-07-20T20:37:11.243145+00:00,48980520,25,"I Stopped ""Creating Content""",115,82
+2026-07-20T20:37:11.243145+00:00,48969530,26,ECC and DDR5,98,94
+2026-07-20T20:37:11.243145+00:00,48977711,27,The EU is about to sell our most sensitive data to the US for visa-free travel,434,245
+2026-07-20T20:37:11.243145+00:00,48979475,28,Controlling Reasoning Effort in LLMs,50,2
+2026-07-20T20:37:11.243145+00:00,48982374,29,That post never existed. Stop listening to that thing,89,77
+2026-07-20T20:37:11.243145+00:00,48979823,30,NYC Subway Signals: A Complete Guide (2012),35,7
+2026-07-20T20:37:11.243145+00:00,48978192,31,Soofi – Sovereign Open Source Foundation Models,43,14
+2026-07-20T20:37:11.243145+00:00,48978388,32,Inertia-1: An Open Exploration to a Unified Motion Foundation Model,45,1
+2026-07-20T20:37:11.243145+00:00,48983076,33,Making ASCII Art in Vim,8,0
+2026-07-20T20:37:11.243145+00:00,48982411,34,"AI, Vim, and the Illusion of Flow",10,1
+2026-07-20T20:37:11.243145+00:00,48982807,35,Build a Game That Fits on a Single Floppy Disk: 1.44MB Game Development Contest,4,0
+2026-07-20T20:37:11.243145+00:00,48973455,36,Satan's 19th-Century Bank Note (2017),41,6
+2026-07-20T20:37:11.243145+00:00,48952713,37,What does the Riemann zeta function have to do with the distribution of primes?,109,29
+2026-07-20T20:37:11.243145+00:00,48972970,38,Moonshine: Lets you stream games from your PC to any device running Moonlight,316,135
+2026-07-20T20:37:11.243145+00:00,48983284,39,Those Who Wear Red,4,0
+2026-07-20T20:37:11.243145+00:00,48980779,40,Kimi K3: The open-weights escalation,12,1
+2026-07-20T20:37:11.243145+00:00,48980167,41,Show HN: Wheesper – Start an anonymous discussion with a link,23,22
+2026-07-20T20:37:11.243145+00:00,48982322,42,Show HN: GPU Accelerated Desktop Screen Flash Filter (Photosensitive Epilepsy),6,1
+2026-07-20T20:37:11.243145+00:00,48917906,43,Sealed tomb filled with paintings and inscriptions discovered in Egypt,118,83
+2026-07-20T20:37:11.243145+00:00,48953189,44,Sensing warm and cool: how the body detects temperature changes,36,7
+2026-07-20T20:37:11.243145+00:00,48982800,45,What Bad Bases Are Good For,4,0
+2026-07-20T20:37:11.243145+00:00,48980425,46,There are no lossless transformations of natural-language text,10,4
+2026-07-20T20:37:11.243145+00:00,48978112,47,Annoying and alarming things about OpenCode,354,233
+2026-07-20T20:37:11.243145+00:00,48984021,48,Mark Cuban: fight inequality by giving all workers company stock,10,4
+2026-07-20T20:37:11.243145+00:00,48982583,49,An Empirical Study: AI Agent Rules Need Context and Layered Enforcement,15,2
+2026-07-20T20:37:11.243145+00:00,48983728,50,Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused,10,2
