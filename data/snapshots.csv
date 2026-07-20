@@ -16521,3 +16521,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-20T04:41:52.965470+00:00,48973293,48,The Anti-Palantir Manifesto,33,12
 2026-07-20T04:41:52.965470+00:00,48965719,49,The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf],74,3
 2026-07-20T04:41:52.965470+00:00,48973821,50,The 2000s called. They want their digital camera back,6,5
+2026-07-20T08:12:32.592797+00:00,48975428,1,I'm Done with Mullvad,14,2
+2026-07-20T08:12:32.592797+00:00,48974454,2,Xiaomi-Robotics-1,133,68
+2026-07-20T08:12:32.592797+00:00,48974325,3,LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques,53,6
+2026-07-20T08:12:32.592797+00:00,48968606,4,"Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",2166,228
+2026-07-20T08:12:32.592797+00:00,48972970,5,Moonshine: Lets you stream games from your PC to any device running Moonlight,144,62
+2026-07-20T08:12:32.592797+00:00,48861496,6,Self-Powered Trailers Promise Leaner Freight Runs,24,11
+2026-07-20T08:12:32.592797+00:00,48936994,7,1-Bit LLM in the Browser,11,0
+2026-07-20T08:12:32.592797+00:00,48966569,8,Claude Code uses Bun written in Rust now,498,666
+2026-07-20T08:12:32.592797+00:00,48970894,9,Orion Browser by Kagi,183,119
+2026-07-20T08:12:32.592797+00:00,48917906,10,Sealed tomb filled with paintings and inscriptions discovered in Egypt,14,7
+2026-07-20T08:12:32.592797+00:00,48966713,11,"What I learned selling 2,500 MIDI recorders: Hardware is not so hard",475,215
+2026-07-20T08:12:32.592797+00:00,48907390,12,The Zen of Parallel Programming,153,19
+2026-07-20T08:12:32.592797+00:00,48967256,13,Minecraft: Java Edition now uses SDL3,303,201
+2026-07-20T08:12:32.592797+00:00,48973869,14,Claude Fable produced a counterexample to the Jacobian Conjecture,345,193
+2026-07-20T08:12:32.592797+00:00,48974476,15,How proprietary formats have become Microsoft’s main tool for lock-in,56,18
+2026-07-20T08:12:32.592797+00:00,48907564,16,Korg PS-3300 is back,44,40
+2026-07-20T08:12:32.592797+00:00,48968063,17,Bananas sprout in Rayleigh Garden UK after 15 years,154,114
+2026-07-20T08:12:32.592797+00:00,48970772,18,HomeLab #1: MikroTik as a Home Router,106,91
+2026-07-20T08:12:32.592797+00:00,48966120,19,Qwen 3.8,867,589
+2026-07-20T08:12:32.592797+00:00,48928703,20,"11,700 Free Photos from John Margolies' Archive of Americana Architecture",55,2
+2026-07-20T08:12:32.592797+00:00,48974292,21,Power companies are using eminent domain to seize land for data centers,87,41
+2026-07-20T08:12:32.592797+00:00,48913656,22,Who Is America's Homer?,68,162
+2026-07-20T08:12:32.592797+00:00,48971938,23,Biggest Probabilistic Computer Turns Noise into Answers,65,12
+2026-07-20T08:12:32.592797+00:00,48971566,24,A new Intel Itanium (IA-64) emulator that boots Windows,76,64
+2026-07-20T08:12:32.592797+00:00,48966984,25,"I joined the IndieWeb, here's what I learned",194,95
+2026-07-20T08:12:32.592797+00:00,48967355,26,I burned all my tokens researching how to save tokens,128,160
+2026-07-20T08:12:32.592797+00:00,48969983,27,HMD Touch 4G,72,71
+2026-07-20T08:12:32.592797+00:00,48968949,28,C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8),70,5
+2026-07-20T08:12:32.592797+00:00,48920597,29,Talk: The Art of Braiding Algorithms,38,0
+2026-07-20T08:12:32.592797+00:00,48908433,30,Dupes took over the world,87,83
+2026-07-20T08:12:32.592797+00:00,48860719,31,Cagire: Live Coding in Forth,92,12
+2026-07-20T08:12:32.592797+00:00,48968515,32,Terence McKenna's Mega Bad Trip (2025),92,84
+2026-07-20T08:12:32.592797+00:00,48968701,33,Natural experiments prove phytoplankton carbon removal works,62,27
+2026-07-20T08:12:32.592797+00:00,48962600,34,UnifiedIR for Julia,92,17
+2026-07-20T08:12:32.592797+00:00,48911021,35,Blender 5.2 LTS,389,156
+2026-07-20T08:12:32.592797+00:00,48926307,36,Ise Jingu and the Pyramid of Enabling Technologies (2021),13,5
+2026-07-20T08:12:32.592797+00:00,48971738,37,AI advice made people less accurate but more confident – sudy,333,187
+2026-07-20T08:12:32.592797+00:00,48891334,38,"Land Atlas – soil, farmability, and crop analysis for land listings",66,18
+2026-07-20T08:12:32.592797+00:00,48966769,39,The death and rebirth of my home server,131,84
+2026-07-20T08:12:32.592797+00:00,48969291,40,Moonshot AI suspends new subscriptions due to Kimi K3 demand,253,105
+2026-07-20T08:12:32.592797+00:00,48965850,41,OpenAI reduces Codex Model Context Size from 372k to 272k,338,159
+2026-07-20T08:12:32.592797+00:00,48975245,42,EU Exempts Apple Watch and AirPods from Battery Removal Requirements,6,3
+2026-07-20T08:12:32.592797+00:00,48969635,43,The Last MPEG-4 Visual Patent Has Expired,202,58
+2026-07-20T08:12:32.592797+00:00,48973541,44,LLMs aren't remotely like compilers or power tools,7,3
+2026-07-20T08:12:32.592797+00:00,48963879,45,Transcribe.cpp,740,156
+2026-07-20T08:12:32.592797+00:00,48973293,46,The Anti-Palantir Manifesto,52,18
+2026-07-20T08:12:32.592797+00:00,48972062,47,We want Texans to know their rights,178,61
+2026-07-20T08:12:32.592797+00:00,48975145,48,Britain: A Cautionary Tale for America,5,1
+2026-07-20T08:12:32.592797+00:00,48974563,49,New Mexico Denies Gas Pipeline Permit for Oracle Data Center,14,1
+2026-07-20T08:12:32.592797+00:00,48903717,50,"Infinities, impossibilities, and the man in the white linen suit",78,50
