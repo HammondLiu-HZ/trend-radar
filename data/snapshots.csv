@@ -16721,3 +16721,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-20T16:38:20.657122+00:00,48974454,48,Xiaomi-Robotics-1,385,269
 2026-07-20T16:38:20.657122+00:00,48978331,49,Codex is wearing out our devices,50,30
 2026-07-20T16:38:20.657122+00:00,48980359,50,A 600-acre AI data center could cost some Wisconsin residents their land,5,1
+2026-07-20T18:59:11.520975+00:00,48979269,1,China's open-weights AI strategy is winning,472,398
+2026-07-20T18:59:11.520975+00:00,48978605,2,Hacker wipes Romania's land registry database,425,233
+2026-07-20T18:59:11.520975+00:00,48982011,3,Hyprland 0.55 announced the switch to Lua for its config files,53,29
+2026-07-20T18:59:11.520975+00:00,48981206,4,Over 30% of new ArXiv submissions now read as AI-written,125,90
+2026-07-20T18:59:11.520975+00:00,48981703,5,Kimi Work,70,32
+2026-07-20T18:59:11.520975+00:00,48981620,6,Jelly UI: Soft-body physics for native HTML form controls,76,27
+2026-07-20T18:59:11.520975+00:00,48979931,7,Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012),111,39
+2026-07-20T18:59:11.520975+00:00,48976846,8,Airport Simulator,496,108
+2026-07-20T18:59:11.520975+00:00,48978835,9,Firefox Merges Support for Vulkan Video Decoding,165,40
+2026-07-20T18:59:11.520975+00:00,48981136,10,Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12,23,51
+2026-07-20T18:59:11.520975+00:00,48979120,11,Perfection Is Not Over-Engineering,121,53
+2026-07-20T18:59:11.520975+00:00,48978350,12,We're Squandering LEDs' Potential to Save Our Night Skies,157,106
+2026-07-20T18:59:11.520975+00:00,48982681,13,Nativ: Run frontier open models locally on your Mac,5,0
+2026-07-20T18:59:11.520975+00:00,48980404,14,Cross sectioning insects in an electron microscope with a femtosecond laser [video],28,2
+2026-07-20T18:59:11.520975+00:00,48980053,15,The Voice of Google,75,33
+2026-07-20T18:59:11.520975+00:00,48982578,16,The drivers behind software delivery inefficiency,8,1
+2026-07-20T18:59:11.520975+00:00,48980506,17,"Ziggity – A terminal UI for Git, written in Zig",32,20
+2026-07-20T18:59:11.520975+00:00,48975665,18,Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25,341,192
+2026-07-20T18:59:11.520975+00:00,48978792,19,Shinjuku Station in 3D,74,16
+2026-07-20T18:59:11.520975+00:00,48936658,20,What I Learned from Reimplementing 40 Multi-Agent LLM Papers,5,0
+2026-07-20T18:59:11.520975+00:00,48982583,21,An Empirical Study: AI Agent Rules Need Context and Layered Enforcement,5,0
+2026-07-20T18:59:11.520975+00:00,48982374,22,That post never existed. Stop listening to that thing,57,30
+2026-07-20T18:59:11.520975+00:00,48980019,23,"Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",178,180
+2026-07-20T18:59:11.520975+00:00,48979475,24,Controlling Reasoning Effort in LLMs,33,1
+2026-07-20T18:59:11.520975+00:00,48977711,25,The EU is about to sell our most sensitive data to the US for visa-free travel,406,219
+2026-07-20T18:59:11.520975+00:00,48980520,26,"I Stopped ""Creating Content""",71,58
+2026-07-20T18:59:11.520975+00:00,48902611,27,I turned my bearblog into a text based adventure,9,2
+2026-07-20T18:59:11.520975+00:00,48978388,28,Inertia-1: An Open Exploration to a Unified Motion Foundation Model,41,1
+2026-07-20T18:59:11.520975+00:00,48979823,29,NYC Subway Signals: A Complete Guide,29,7
+2026-07-20T18:59:11.520975+00:00,48982535,30,Agent swarms and the new model economics,4,0
+2026-07-20T18:59:11.520975+00:00,48978192,31,Soofi – Sovereign Open Source Foundation Models,36,12
+2026-07-20T18:59:11.520975+00:00,48973455,32,Satan's 19th-Century Bank Note (2017),38,5
+2026-07-20T18:59:11.520975+00:00,48980167,33,Show HN: Wheesper – Start an anonymous discussion with a link,20,21
+2026-07-20T18:59:11.520975+00:00,48952713,34,What does the Riemann zeta function have to do with the distribution of primes?,104,23
+2026-07-20T18:59:11.520975+00:00,48972970,35,Moonshine: Lets you stream games from your PC to any device running Moonlight,310,133
+2026-07-20T18:59:11.520975+00:00,48980425,36,There are no lossless transformations of natural-language text,8,0
+2026-07-20T18:59:11.520975+00:00,48978112,37,Annoying and alarming things about OpenCode,342,230
+2026-07-20T18:59:11.520975+00:00,48917906,38,Sealed tomb filled with paintings and inscriptions discovered in Egypt,115,82
+2026-07-20T18:59:11.520975+00:00,48980700,39,Czechia moves to ban mobile phones in schools from September 2027,126,71
+2026-07-20T18:59:11.520975+00:00,48953189,40,Sensing warm and cool: how the body detects temperature changes,33,7
+2026-07-20T18:59:11.520975+00:00,48940641,41,We rewrote our custom visualisation renderers from SVG to be in Canvas,20,2
+2026-07-20T18:59:11.520975+00:00,48969530,42,ECC and DDR5,90,84
+2026-07-20T18:59:11.520975+00:00,48982155,43,Inhaling high-dose CO2 clears Alzheimer's proteins from the brain,13,2
+2026-07-20T18:59:11.520975+00:00,48977849,44,The footprints of every building in NYC – updated weekly,21,2
+2026-07-20T18:59:11.520975+00:00,48979734,45,The ACLU Is Arming Lawyers to Expose State Surveillance Secrets,33,6
+2026-07-20T18:59:11.520975+00:00,48936994,46,1-Bit LLM in the Browser,106,43
+2026-07-20T18:59:11.520975+00:00,48968606,47,"Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",2765,323
+2026-07-20T18:59:11.520975+00:00,48974325,48,LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques,134,25
+2026-07-20T18:59:11.520975+00:00,48933948,49,Moist Towelette Museum,67,17
+2026-07-20T18:59:11.520975+00:00,48981789,50,Fable is now included on Max plans (up to 50% of weekly limit),10,15
