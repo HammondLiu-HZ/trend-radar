@@ -16971,3 +16971,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-21T04:20:44.005516+00:00,48987373,48,New York blocks large data centers for a year,15,1
 2026-07-21T04:20:44.005516+00:00,48978841,49,Show HN: OTP Inspired actor supervisor based full stack templates,10,1
 2026-07-21T04:20:44.005516+00:00,48977711,50,The EU is about to sell our most sensitive data to the US for visa-free travel,483,290
+2026-07-21T07:37:43.518661+00:00,48987822,1,Incremental – A library for incremental computations,134,19
+2026-07-21T07:37:43.518661+00:00,48977128,2,Who's afraid of Chinese models?,564,380
+2026-07-21T07:37:43.518661+00:00,48987846,3,Running Doom on Our Custom CPU and Going Viral,44,8
+2026-07-21T07:37:43.518661+00:00,48987831,4,A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste,26,20
+2026-07-21T07:37:43.518661+00:00,48981703,5,Kimi Work,512,216
+2026-07-21T07:37:43.518661+00:00,48987863,6,Five US tech giants' hidden debts soar to $1.65T on opaque AI funding,214,87
+2026-07-21T07:37:43.518661+00:00,48981620,7,Jelly UI: Soft-body physics for native HTML form controls,452,147
+2026-07-21T07:37:43.518661+00:00,48983382,8,Human mathematicians are being outcounterexampled,315,122
+2026-07-21T07:37:43.518661+00:00,48988158,9,Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts,22,8
+2026-07-21T07:37:43.518661+00:00,48982681,10,Nativ: Run frontier open models locally on your Mac,256,86
+2026-07-21T07:37:43.518661+00:00,48986731,11,"Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",355,85
+2026-07-21T07:37:43.518661+00:00,48984254,12,"Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",149,31
+2026-07-21T07:37:43.518661+00:00,48909784,13,Tensor Notation in Mathup,7,1
+2026-07-21T07:37:43.518661+00:00,48988793,14,"Linux kernel will support $ORIGIN, sort of",5,2
+2026-07-21T07:37:43.518661+00:00,48982535,15,Agent swarms and the new model economics,179,82
+2026-07-21T07:37:43.518661+00:00,48981136,16,Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12,83,85
+2026-07-21T07:37:43.518661+00:00,48984270,17,I wrote an bash enumerator because I was sick of xargs,118,93
+2026-07-21T07:37:43.518661+00:00,48979269,18,China’s open-weights AI strategy is winning,1077,827
+2026-07-21T07:37:43.518661+00:00,48923130,19,The Psychology of Software Teams,83,20
+2026-07-21T07:37:43.518661+00:00,48986091,20,Jellyfin founder Andrew leaves team,223,156
+2026-07-21T07:37:43.518661+00:00,48916512,21,You only need the frontier model for one single edit,122,37
+2026-07-21T07:37:43.518661+00:00,48937703,22,Flight Planning with Little Navmap,11,4
+2026-07-21T07:37:43.518661+00:00,48984231,23,The Power of Awareness: Overcoming Surveillance Capitalism,97,15
+2026-07-21T07:37:43.518661+00:00,48864176,24,My two year old taught me constraint solving,66,26
+2026-07-21T07:37:43.518661+00:00,48978792,25,Shinjuku Station in 3D,206,44
+2026-07-21T07:37:43.518661+00:00,48979931,26,Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012),163,68
+2026-07-21T07:37:43.518661+00:00,48978605,27,Hacker wipes Romania's land registry database,634,347
+2026-07-21T07:37:43.518661+00:00,48981206,28,"How we measured AI writing across arXiv, and where the measurement breaks",215,152
+2026-07-21T07:37:43.518661+00:00,48979120,29,Perfection is not over-engineering,230,99
+2026-07-21T07:37:43.518661+00:00,48973869,30,Claude Fable produced a counterexample to the Jacobian Conjecture,734,469
+2026-07-21T07:37:43.518661+00:00,48985956,31,"Opaque, Interoperable Passkey Records (and a Go API)",37,6
+2026-07-21T07:37:43.518661+00:00,48947739,32,85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core,76,18
+2026-07-21T07:37:43.518661+00:00,48974454,33,Xiaomi-Robotics-1,475,311
+2026-07-21T07:37:43.518661+00:00,48987347,34,A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm,19,4
+2026-07-21T07:37:43.518661+00:00,48980019,35,"Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",333,305
+2026-07-21T07:37:43.518661+00:00,48926731,36,The Rise of Grocery Tourism,11,0
+2026-07-21T07:37:43.518661+00:00,48982578,37,The drivers behind software delivery inefficiency,75,43
+2026-07-21T07:37:43.518661+00:00,48887043,38,What most histories get wrong about MUMPS's first standard,14,9
+2026-07-21T07:37:43.518661+00:00,48980053,39,The Voice of Google,199,112
+2026-07-21T07:37:43.518661+00:00,48980404,40,Cross sectioning insects in an electron microscope with a femtosecond laser [video],96,5
+2026-07-21T07:37:43.518661+00:00,48945465,41,GTFO VR Mod Postmortem,8,1
+2026-07-21T07:37:43.518661+00:00,48976846,42,Airport Simulator,781,153
+2026-07-21T07:37:43.518661+00:00,48987775,43,VTubing: How a Japanese Phenomenon Is Going Worldwide,8,0
+2026-07-21T07:37:43.518661+00:00,48980238,44,Mythologizing AI makes it more likely that we’ll fail to operate it well (2023),69,108
+2026-07-21T07:37:43.518661+00:00,48969530,45,ECC and DDR5,127,126
+2026-07-21T07:37:43.518661+00:00,48948578,46,A Mathematical Tribute to the Soccer Ball,10,4
+2026-07-21T07:37:43.518661+00:00,48978835,47,"Firefox 153 available with support for Vulkan video decoding, JPEG-XL",261,59
+2026-07-21T07:37:43.518661+00:00,48879242,48,Atomic Physics in Pure Anglo-Saxon,22,6
+2026-07-21T07:37:43.518661+00:00,48972970,49,Moonshine: Lets you stream games from your PC to any device running Moonlight,339,144
+2026-07-21T07:37:43.518661+00:00,48982011,50,Hyprland 0.55 announced the switch to Lua for its config files,135,116
