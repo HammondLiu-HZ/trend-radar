@@ -17021,3 +17021,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-21T07:37:43.518661+00:00,48879242,48,Atomic Physics in Pure Anglo-Saxon,22,6
 2026-07-21T07:37:43.518661+00:00,48972970,49,Moonshine: Lets you stream games from your PC to any device running Moonlight,339,144
 2026-07-21T07:37:43.518661+00:00,48982011,50,Hyprland 0.55 announced the switch to Lua for its config files,135,116
+2026-07-21T10:32:45.412850+00:00,48989701,1,"Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",100,52
+2026-07-21T10:32:45.412850+00:00,48987822,2,Incremental – A library for incremental computations,212,36
+2026-07-21T10:32:45.412850+00:00,48977128,3,Who's afraid of Chinese models?,664,467
+2026-07-21T10:32:45.412850+00:00,48954668,4,Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects,19,2
+2026-07-21T10:32:45.412850+00:00,48988793,5,"Linux kernel will support $ORIGIN, sort of",54,29
+2026-07-21T10:32:45.412850+00:00,48981703,6,Kimi Work,568,240
+2026-07-21T10:32:45.412850+00:00,48987846,7,Running Doom on Our Custom CPU and Going Viral,77,16
+2026-07-21T10:32:45.412850+00:00,48981620,8,Jelly UI: Soft-body physics for native HTML form controls,502,157
+2026-07-21T10:32:45.412850+00:00,48983382,9,Human mathematicians are being outcounterexampled,353,147
+2026-07-21T10:32:45.412850+00:00,48912812,10,How to pack ternary numbers in 8-bit bytes,15,8
+2026-07-21T10:32:45.412850+00:00,48987831,11,A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste,36,31
+2026-07-21T10:32:45.412850+00:00,48982681,12,Nativ: Run frontier open models locally on your Mac,284,93
+2026-07-21T10:32:45.412850+00:00,48987775,13,VTubing: How a Japanese Phenomenon Is Going Worldwide,33,15
+2026-07-21T10:32:45.412850+00:00,48984254,14,"Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",172,42
+2026-07-21T10:32:45.412850+00:00,48984270,15,I wrote an bash enumerator because I was sick of xargs,137,110
+2026-07-21T10:32:45.412850+00:00,48988158,16,Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts,37,22
+2026-07-21T10:32:45.412850+00:00,48982535,17,Agent swarms and the new model economics,201,89
+2026-07-21T10:32:45.412850+00:00,48923130,18,The Psychology of Software Teams,99,29
+2026-07-21T10:32:45.412850+00:00,48981136,19,Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12,89,89
+2026-07-21T10:32:45.412850+00:00,48979269,20,China’s open-weights AI strategy is winning,1116,843
+2026-07-21T10:32:45.412850+00:00,48968474,21,Postmortem of a British Startup: Tract,3,4
+2026-07-21T10:32:45.412850+00:00,48916512,22,You only need the frontier model for one single edit,154,48
+2026-07-21T10:32:45.412850+00:00,48978792,23,Shinjuku Station in 3D,228,52
+2026-07-21T10:32:45.412850+00:00,48864176,24,My two year old taught me constraint solving,80,27
+2026-07-21T10:32:45.412850+00:00,48980520,25,I Stopped “Creating Content”,178,146
+2026-07-21T10:32:45.412850+00:00,48979120,26,Perfection is not over-engineering,242,103
+2026-07-21T10:32:45.412850+00:00,48984231,27,The Power of Awareness: Overcoming Surveillance Capitalism,114,19
+2026-07-21T10:32:45.412850+00:00,48986091,28,Jellyfin founder Andrew leaves team,252,197
+2026-07-21T10:32:45.412850+00:00,48981206,29,"How we measured AI writing across arXiv, and where the measurement breaks",226,155
+2026-07-21T10:32:45.412850+00:00,48978605,30,Hacker wipes Romania's land registry database,649,363
+2026-07-21T10:32:45.412850+00:00,48979931,31,Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012),170,72
+2026-07-21T10:32:45.412850+00:00,48974454,32,Xiaomi-Robotics-1,483,315
+2026-07-21T10:32:45.412850+00:00,48985956,33,"Opaque, Interoperable Passkey Records (and a Go API)",42,8
+2026-07-21T10:32:45.412850+00:00,48947739,34,85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core,78,19
+2026-07-21T10:32:45.412850+00:00,48989791,35,The Space Force is now seeking to buy up to $30B in rocket launches,7,0
+2026-07-21T10:32:45.412850+00:00,48909784,36,Tensor Notation in Mathup,15,1
+2026-07-21T10:32:45.412850+00:00,48980019,37,"Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",338,312
+2026-07-21T10:32:45.412850+00:00,48989518,38,Judge halts Paramount's $111B purchase of Warner Bros. in win for US states,15,12
+2026-07-21T10:32:45.412850+00:00,48980053,39,The Voice of Google,208,115
+2026-07-21T10:32:45.412850+00:00,48988651,40,Modula-3 History Collection on Computer History Museum,5,0
+2026-07-21T10:32:45.412850+00:00,48980404,41,Cross sectioning insects in an electron microscope with a femtosecond laser [video],101,5
+2026-07-21T10:32:45.412850+00:00,48976846,42,Airport Simulator,798,154
+2026-07-21T10:32:45.412850+00:00,48969530,43,ECC and DDR5,129,126
+2026-07-21T10:32:45.412850+00:00,48972970,44,Moonshine: Lets you stream games from your PC to any device running Moonlight,342,145
+2026-07-21T10:32:45.412850+00:00,48978835,45,"Firefox 153 available with support for Vulkan video decoding, JPEG-XL",275,65
+2026-07-21T10:32:45.412850+00:00,48980238,46,Mythologizing AI makes it more likely that we’ll fail to operate it well (2023),72,113
+2026-07-21T10:32:45.412850+00:00,48982578,47,The drivers behind software delivery inefficiency,78,46
+2026-07-21T10:32:45.412850+00:00,48879242,48,Atomic Physics in Pure Anglo-Saxon,25,8
+2026-07-21T10:32:45.412850+00:00,48977711,49,The EU is about to sell our most sensitive data to the US for visa-free travel,510,306
+2026-07-21T10:32:45.412850+00:00,48945465,50,GTFO VR Mod Postmortem,9,4
