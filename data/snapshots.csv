@@ -17269,3 +17269,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-21T19:43:16.702961+00:00,48995671,48,Show HN: Language Model Builder (an app to learn about and build models),4,1
 2026-07-21T19:43:16.702961+00:00,48995030,49,Yubikey 5.8: Verified Authorization for the New Era of Identity and AI,7,2
 2026-07-21T19:43:16.702961+00:00,48968408,50,Show HN: Explore 6048 YC companies as an interactive galaxy,33,18
+2026-07-21T21:19:32.564825+00:00,48997548,1,OpenAI and Hugging Face address security incident during model evaluation,242,119
+2026-07-21T21:19:32.564825+00:00,48996318,2,FreeInk: Open ecosystem for e-readers,243,57
+2026-07-21T21:19:32.564825+00:00,48993414,3,"Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",520,414
+2026-07-21T21:19:32.564825+00:00,48993816,4,"Long presumed dead, a thriving coral reef is discovered in West Africa",244,42
+2026-07-21T21:19:32.564825+00:00,48995213,5,"Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",153,141
+2026-07-21T21:19:32.564825+00:00,48992870,6,Apple defeats liability for not scanning iCloud for CSAM,272,234
+2026-07-21T21:19:32.564825+00:00,48997221,7,"'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",143,17
+2026-07-21T21:19:32.564825+00:00,48995796,8,Apple Private Cloud Compute SoC 3 audit reports,61,17
+2026-07-21T21:19:32.564825+00:00,48989701,9,"Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",512,206
+2026-07-21T21:19:32.564825+00:00,48995261,10,Laguna S 2.1,134,29
+2026-07-21T21:19:32.564825+00:00,48992323,11,PCjs Machines,166,18
+2026-07-21T21:19:32.564825+00:00,48996187,12,Show HN: A self-running space economy SIM in Rust and Bevy,51,14
+2026-07-21T21:19:32.564825+00:00,48994116,13,France's Anssi Will Block PQC-Free Products from Certification Starting 2027,74,32
+2026-07-21T21:19:32.564825+00:00,48995074,14,Meta's AI models are powering the first wave of Genesis Mission projects,75,50
+2026-07-21T21:19:32.564825+00:00,48946738,16,Show HN: Justif – Knuth-Plass justification and microtypography for the web,16,3
+2026-07-21T21:19:32.564825+00:00,48994178,17,"The World's 2,400 Castles",146,104
+2026-07-21T21:19:32.564825+00:00,48974862,18,My USB Drive Has a Hidden Encrypted Vault,117,74
+2026-07-21T21:19:32.564825+00:00,48996325,19,Slater – Low-memory graphdb designed for read-heavy graphs,20,7
+2026-07-21T21:19:32.564825+00:00,48996571,20,Advertise in ChatGPT,203,208
+2026-07-21T21:19:32.564825+00:00,48996035,21,Measuring reward-seeking by instilling contrastive beliefs,6,1
+2026-07-21T21:19:32.564825+00:00,48996236,22,AI Agent – TRMNL,26,16
+2026-07-21T21:19:32.564825+00:00,48960582,23,The unreasonable difficulty of time series forecasting,93,33
+2026-07-21T21:19:32.564825+00:00,48996364,24,The Price of Happiness (2024),26,9
+2026-07-21T21:19:32.564825+00:00,48977628,25,"Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day",12,8
+2026-07-21T21:19:32.564825+00:00,48995181,26,Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations,31,12
+2026-07-21T21:19:32.564825+00:00,48998082,27,Mickey Mouse Sells a Bundle,5,1
+2026-07-21T21:19:32.564825+00:00,48994716,28,Roblox Officially Supports GrapheneOS,30,2
+2026-07-21T21:19:32.564825+00:00,48995149,29,Uhubctl – Control USB power per-port on smart USB hubs,34,12
+2026-07-21T21:19:32.564825+00:00,48996128,30,Cheap self-hosted Kubernetes on Hetzner cloud (2025),53,27
+2026-07-21T21:19:32.564825+00:00,48995444,31,Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac,46,18
+2026-07-21T21:19:32.564825+00:00,48995814,32,Greedy is optimal for single-pass semi-streaming matching,14,0
+2026-07-21T21:19:32.564825+00:00,48957321,33,Zero-dependency streaming tar parser and writer for JavaScript,7,0
+2026-07-21T21:19:32.564825+00:00,48997676,34,Unified power-user environment and knowledge-representation in Common Lisp,3,0
+2026-07-21T21:19:32.564825+00:00,48996652,35,Judge approves $1.5B Anthropic settlement for pirated books used to train Claude,46,36
+2026-07-21T21:19:32.564825+00:00,48992315,36,Why Are There No Empires in Age of Empires? (2019),76,59
+2026-07-21T21:19:32.564825+00:00,48918140,37,Python 3.15’s Ultra-Low Overhead Interpreter Profiling Mode,140,12
+2026-07-21T21:19:32.564825+00:00,48995304,38,Show HN: Word in Web – Near MS Word Parity Docx Editor in Web,14,2
+2026-07-21T21:19:32.564825+00:00,48987822,39,Incremental – A library for incremental computations,323,63
+2026-07-21T21:19:32.564825+00:00,48996211,40,Apple has decided to compete for creativity app users,61,47
+2026-07-21T21:19:32.564825+00:00,48995409,41,Firefox Containers Preview,109,44
+2026-07-21T21:19:32.564825+00:00,48992699,42,"Show HN: Anypost – transactional and broadcast email API, 8¢ per 1k",3,0
+2026-07-21T21:19:32.564825+00:00,48996197,43,AI makes programming differently difficult,122,101
+2026-07-21T21:19:32.564825+00:00,48996760,44,"Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",26,3
+2026-07-21T21:19:32.564825+00:00,48942065,45,"Shanay-Timpishka, a boiling hot river 700km from the nearest active volcano",49,12
+2026-07-21T21:19:32.564825+00:00,48997495,46,It was OpenAI that accidentally breached Hugging Face,14,5
+2026-07-21T21:19:32.564825+00:00,48995671,47,Show HN: Language Model Builder (an app to learn about and build models),11,2
+2026-07-21T21:19:32.564825+00:00,48954326,48,Recreating the Bell Labs Cafeteria,22,9
+2026-07-21T21:19:32.564825+00:00,48983382,49,Human mathematicians are being outcounterexampled,459,231
+2026-07-21T21:19:32.564825+00:00,48995030,50,Yubikey 5.8: Verified Authorization for the New Era of Identity and AI,14,6
