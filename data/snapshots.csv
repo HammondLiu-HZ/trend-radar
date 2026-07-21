@@ -17220,3 +17220,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-21T17:37:47.371004+00:00,48979931,48,Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012),187,90
 2026-07-21T17:37:47.371004+00:00,48988158,49,Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts,50,33
 2026-07-21T17:37:47.371004+00:00,48981206,50,"How we measured AI writing across arXiv, and where the measurement breaks",236,161
+2026-07-21T19:43:16.702961+00:00,48993414,1,"Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",448,359
+2026-07-21T19:43:16.702961+00:00,48996318,2,FreeInk: Open ecosystem for e-readers,67,12
+2026-07-21T19:43:16.702961+00:00,48993816,3,"Long presumed dead, a thriving coral reef is discovered in West Africa",208,32
+2026-07-21T19:43:16.702961+00:00,48995213,4,"Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",77,77
+2026-07-21T19:43:16.702961+00:00,48996211,5,Apple has decided to compete for creativity app users,28,6
+2026-07-21T19:43:16.702961+00:00,48995796,6,Apple Private Cloud Compute SoC 3 audit reports,35,2
+2026-07-21T19:43:16.702961+00:00,48996571,7,Advertise in ChatGPT,114,117
+2026-07-21T19:43:16.702961+00:00,48996197,8,AI makes programming differently difficult,81,41
+2026-07-21T19:43:16.702961+00:00,48989701,9,"Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",496,203
+2026-07-21T19:43:16.702961+00:00,48992323,10,PCjs Machines,148,13
+2026-07-21T19:43:16.702961+00:00,48995074,12,Meta's AI models are powering the first wave of Genesis Mission projects,61,42
+2026-07-21T19:43:16.702961+00:00,48996187,13,Show HN: A self-running space economy SIM in Rust and Bevy,22,3
+2026-07-21T19:43:16.702961+00:00,48994116,14,France's Anssi Will Block PQC-Free Products from Certification Starting 2027,61,16
+2026-07-21T19:43:16.702961+00:00,48996128,15,Cheap self-hosted Kubernetes on Hetzner cloud (2025),42,18
+2026-07-21T19:43:16.702961+00:00,48960582,16,The unreasonable difficulty of time series forecasting,70,22
+2026-07-21T19:43:16.702961+00:00,48994178,17,"The World's 2,400 Castles",124,93
+2026-07-21T19:43:16.702961+00:00,48996236,18,AI Agent – TRMNL,10,6
+2026-07-21T19:43:16.702961+00:00,48995181,19,Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations,19,8
+2026-07-21T19:43:16.702961+00:00,48995444,20,Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac,34,8
+2026-07-21T19:43:16.702961+00:00,48996364,21,The Price of Happiness,9,1
+2026-07-21T19:43:16.702961+00:00,48995261,22,Laguna S 2.1,57,5
+2026-07-21T19:43:16.702961+00:00,48995814,23,Greedy is optimal for single-pass semi-streaming matching,7,0
+2026-07-21T19:43:16.702961+00:00,48995149,24,Uhubctl – control USB power per-port on smart USB hubs,23,7
+2026-07-21T19:43:16.702961+00:00,48974862,25,My USB Drive Has a Hidden Encrypted Vault,83,57
+2026-07-21T19:43:16.702961+00:00,48996325,26,Slater – Low-memory graphdb designed for read-heavy graphs,7,3
+2026-07-21T19:43:16.702961+00:00,48995134,27,I built a page that tells you what AI model your laptop can run,10,9
+2026-07-21T19:43:16.702961+00:00,48918140,28,Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog,132,11
+2026-07-21T19:43:16.702961+00:00,48995409,29,Firefox Containers Preview,72,34
+2026-07-21T19:43:16.702961+00:00,48992870,30,Apple Defeats Liability for Not Scanning iCloud for CSAM,223,192
+2026-07-21T19:43:16.702961+00:00,48995923,31,YouTube System Design for Robotics Data Infrastructure,6,2
+2026-07-21T19:43:16.702961+00:00,48987822,32,Incremental – A library for incremental computations,321,63
+2026-07-21T19:43:16.702961+00:00,48954326,33,Recreating the Bell Labs Cafeteria,18,5
+2026-07-21T19:43:16.702961+00:00,48942065,34,"Shanay-Timpishka, a boiling hot river 700km from the nearest active volcano",47,11
+2026-07-21T19:43:16.702961+00:00,48993637,35,Apple Fixes Hide My Email Vulnerability After 404 Media Coverage,97,15
+2026-07-21T19:43:16.702961+00:00,48996652,36,Judge approves $1.5B Anthropic settlement for pirated books used to train Claude,12,5
+2026-07-21T19:43:16.702961+00:00,48994716,37,Roblox Officially Supports GrapheneOS,10,0
+2026-07-21T19:43:16.702961+00:00,48996035,38,Measuring Reward-Seeking by Instilling Contrastive Beliefs,3,0
+2026-07-21T19:43:16.702961+00:00,48995507,39,Show HN: DocCharm – The help center that keeps itself up to date,5,0
+2026-07-21T19:43:16.702961+00:00,48994984,40,Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents,17,1
+2026-07-21T19:43:16.702961+00:00,48995935,41,"Show HN: Edky, a CLI to convert Ed25519 public keys from one encoding to another",5,2
+2026-07-21T19:43:16.702961+00:00,48983382,42,Human mathematicians are being outcounterexampled,458,229
+2026-07-21T19:43:16.702961+00:00,48995304,43,Show HN: Word in Web – Near MS Word Parity Docx Editor in Web,5,0
+2026-07-21T19:43:16.702961+00:00,48996515,44,The Amazon tactics that hiked prices across the internet,9,1
+2026-07-21T19:43:16.702961+00:00,48996693,45,Meta Used A.I. To Ban Accounts on Facebook and Instagram,7,1
+2026-07-21T19:43:16.702961+00:00,48912812,46,How to pack ternary numbers in 8-bit bytes,94,46
+2026-07-21T19:43:16.702961+00:00,48970357,47,(Ab)Using Overload Sets to Create Ad-Hoc Template APIs in D,8,2
+2026-07-21T19:43:16.702961+00:00,48995671,48,Show HN: Language Model Builder (an app to learn about and build models),4,1
+2026-07-21T19:43:16.702961+00:00,48995030,49,Yubikey 5.8: Verified Authorization for the New Era of Identity and AI,7,2
+2026-07-21T19:43:16.702961+00:00,48968408,50,Show HN: Explore 6048 YC companies as an interactive galaxy,33,18
