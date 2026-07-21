@@ -17318,3 +17318,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-21T21:19:32.564825+00:00,48954326,48,Recreating the Bell Labs Cafeteria,22,9
 2026-07-21T21:19:32.564825+00:00,48983382,49,Human mathematicians are being outcounterexampled,459,231
 2026-07-21T21:19:32.564825+00:00,48995030,50,Yubikey 5.8: Verified Authorization for the New Era of Identity and AI,14,6
+2026-07-21T23:04:20.983998+00:00,48997548,1,OpenAI and Hugging Face address security incident during model evaluation,491,316
+2026-07-21T23:04:20.983998+00:00,48999291,2,Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA,46,9
+2026-07-21T23:04:20.983998+00:00,48996318,3,FreeInk: Open ecosystem for e-readers,327,75
+2026-07-21T23:04:20.983998+00:00,48998362,4,A digestion of the Jacobian conjecture counterexample,85,23
+2026-07-21T23:04:20.983998+00:00,48993414,5,"Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",566,454
+2026-07-21T23:04:20.983998+00:00,48993816,6,"Long presumed dead, a thriving coral reef is discovered in West Africa",273,49
+2026-07-21T23:04:20.983998+00:00,48998404,7,"""Drawing"" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",46,14
+2026-07-21T23:04:20.983998+00:00,48995213,8,"Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",195,186
+2026-07-21T23:04:20.983998+00:00,48953468,9,The Birth of Prolog (1996),47,3
+2026-07-21T23:04:20.983998+00:00,48997221,10,"'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",274,46
+2026-07-21T23:04:20.983998+00:00,48992870,11,Apple defeats liability for not scanning iCloud for CSAM,305,263
+2026-07-21T23:04:20.983998+00:00,48995261,12,Laguna S 2.1,193,41
+2026-07-21T23:04:20.983998+00:00,48995796,13,Apple Private Cloud Compute SoC 3 audit reports,80,34
+2026-07-21T23:04:20.983998+00:00,48989701,14,"Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",528,209
+2026-07-21T23:04:20.983998+00:00,48946738,15,Show HN: Justif – Knuth-Plass justification and microtypography for the web,55,8
+2026-07-21T23:04:20.983998+00:00,48992323,16,PCjs Machines,182,21
+2026-07-21T23:04:20.983998+00:00,48998828,17,"Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",9,4
+2026-07-21T23:04:20.983998+00:00,48974862,19,My USB Drive Has a Hidden Encrypted Vault,132,86
+2026-07-21T23:04:20.983998+00:00,48994116,20,France's Anssi Will Block PQC-Free Products from Certification Starting 2027,81,39
+2026-07-21T23:04:20.983998+00:00,48977628,21,"Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day",28,26
+2026-07-21T23:04:20.983998+00:00,48998606,22,"Gemini last models: temperature, top_p, and top_k are deprecated and ignored",8,1
+2026-07-21T23:04:20.983998+00:00,48996187,23,Show HN: A self-running space economy SIM in Rust and Bevy,68,23
+2026-07-21T23:04:20.983998+00:00,48934468,24,"Celestrak adds catalog digit, fixes Y2K bug",7,1
+2026-07-21T23:04:20.983998+00:00,48996364,25,The Price of Happiness (2024),45,17
+2026-07-21T23:04:20.983998+00:00,48960582,26,The unreasonable difficulty of time series forecasting,106,42
+2026-07-21T23:04:20.983998+00:00,48994716,27,Roblox Officially Supports GrapheneOS,69,10
+2026-07-21T23:04:20.983998+00:00,48995074,28,Meta's AI models are powering the first wave of Genesis Mission projects,87,62
+2026-07-21T23:04:20.983998+00:00,48996325,29,Slater – Low-memory graphdb designed for read-heavy graphs,34,9
+2026-07-21T23:04:20.983998+00:00,48996571,30,Advertise in ChatGPT,243,237
+2026-07-21T23:04:20.983998+00:00,48995181,31,Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations,41,13
+2026-07-21T23:04:20.983998+00:00,48996236,32,AI Agent – TRMNL,38,20
+2026-07-21T23:04:20.983998+00:00,48998262,33,Show HN: Browser Tools SDK – an optimal browser harness for agents,7,1
+2026-07-21T23:04:20.983998+00:00,48995149,34,Uhubctl – Control USB power per-port on smart USB hubs,44,14
+2026-07-21T23:04:20.983998+00:00,48996035,35,Measuring reward-seeking by instilling contrastive beliefs,9,1
+2026-07-21T23:04:20.983998+00:00,48995444,36,Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac,51,20
+2026-07-21T23:04:20.983998+00:00,48994178,37,"The World's 2,400 Castles",161,127
+2026-07-21T23:04:20.983998+00:00,48997941,38,Show HN: Orate – On-device neural text-to-speech queue for Mac,9,3
+2026-07-21T23:04:20.983998+00:00,48998307,39,"Nvidia Vera Rubin Driving Performance per Watt, Lowest Token Cost for Partners",5,0
+2026-07-21T23:04:20.983998+00:00,48995814,40,Greedy is optimal for single-pass semi-streaming matching,16,0
+2026-07-21T23:04:20.983998+00:00,48992315,41,Why Are There No Empires in Age of Empires? (2019),85,64
+2026-07-21T23:04:20.983998+00:00,48957321,42,Zero-dependency streaming tar parser and writer for JavaScript,12,0
+2026-07-21T23:04:20.983998+00:00,48996128,43,Cheap self-hosted Kubernetes on Hetzner cloud (2025),56,27
+2026-07-21T23:04:20.983998+00:00,48999068,44,"US pauses $1B in Medicaid payments to California, Minnesota",16,4
+2026-07-21T23:04:20.983998+00:00,48987822,45,Incremental – A library for incremental computations,325,65
+2026-07-21T23:04:20.983998+00:00,48918140,46,Python 3.15’s Ultra-Low Overhead Interpreter Profiling Mode,141,12
+2026-07-21T23:04:20.983998+00:00,48992699,47,"Show HN: Anypost – transactional and broadcast email API, 8¢ per 1k",9,2
+2026-07-21T23:04:20.983998+00:00,48995304,48,Show HN: Word in Web – Near MS Word Parity Docx Editor in Web,21,2
+2026-07-21T23:04:20.983998+00:00,48997676,49,Unified power-user environment and knowledge-representation in Common Lisp,6,0
+2026-07-21T23:04:20.983998+00:00,48942065,50,"Shanay-Timpishka, a boiling hot river 700km from the nearest active volcano",53,12
