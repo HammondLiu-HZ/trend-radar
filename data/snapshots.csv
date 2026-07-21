@@ -17071,3 +17071,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-21T10:32:45.412850+00:00,48879242,48,Atomic Physics in Pure Anglo-Saxon,25,8
 2026-07-21T10:32:45.412850+00:00,48977711,49,The EU is about to sell our most sensitive data to the US for visa-free travel,510,306
 2026-07-21T10:32:45.412850+00:00,48945465,50,GTFO VR Mod Postmortem,9,4
+2026-07-21T12:41:14.768075+00:00,48989701,1,"Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",224,104
+2026-07-21T12:41:14.768075+00:00,48991139,2,New US homeownership measure puts people first,22,10
+2026-07-21T12:41:14.768075+00:00,48987822,3,Incremental – A library for incremental computations,254,48
+2026-07-21T12:41:14.768075+00:00,48977128,4,Who's afraid of Chinese models?,734,543
+2026-07-21T12:41:14.768075+00:00,48981620,5,Jelly UI: Soft-body physics for native HTML form controls,551,164
+2026-07-21T12:41:14.768075+00:00,48981703,6,Kimi Work,599,250
+2026-07-21T12:41:14.768075+00:00,48954668,7,Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects,34,13
+2026-07-21T12:41:14.768075+00:00,48983382,8,Human mathematicians are being outcounterexampled,379,173
+2026-07-21T12:41:14.768075+00:00,48918140,9,Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog,15,0
+2026-07-21T12:41:14.768075+00:00,48987846,10,Running Doom on Our Custom CPU and Going Viral,91,20
+2026-07-21T12:41:14.768075+00:00,48912812,11,How to pack ternary numbers in 8-bit bytes,40,25
+2026-07-21T12:41:14.768075+00:00,48982681,12,Nativ: Run frontier open models locally on your Mac,305,102
+2026-07-21T12:41:14.768075+00:00,48984254,13,"Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",198,44
+2026-07-21T12:41:14.768075+00:00,48987775,14,VTubing: How a Japanese Phenomenon Is Going Worldwide,52,34
+2026-07-21T12:41:14.768075+00:00,48984270,15,I wrote an bash enumerator because I was sick of xargs,153,136
+2026-07-21T12:41:14.768075+00:00,48987831,16,A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste,43,36
+2026-07-21T12:41:14.768075+00:00,48982535,17,Agent swarms and the new model economics,221,100
+2026-07-21T12:41:14.768075+00:00,48923130,18,The Psychology of Software Teams,115,34
+2026-07-21T12:41:14.768075+00:00,48979269,19,China’s open-weights AI strategy is winning,1144,863
+2026-07-21T12:41:14.768075+00:00,48981136,20,Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12,90,93
+2026-07-21T12:41:14.768075+00:00,48988158,21,Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts,38,25
+2026-07-21T12:41:14.768075+00:00,48916512,22,You only need the frontier model for one single edit,177,53
+2026-07-21T12:41:14.768075+00:00,48980520,23,I Stopped “Creating Content”,208,167
+2026-07-21T12:41:14.768075+00:00,48978792,24,Shinjuku Station in 3D,240,55
+2026-07-21T12:41:14.768075+00:00,48937252,25,The Growing Compute Shortage,51,59
+2026-07-21T12:41:14.768075+00:00,48979120,26,Perfection is not over-engineering,253,111
+2026-07-21T12:41:14.768075+00:00,48984231,27,The Power of Awareness: Overcoming Surveillance Capitalism,125,25
+2026-07-21T12:41:14.768075+00:00,48986091,28,Jellyfin founder Andrew leaves team,278,239
+2026-07-21T12:41:14.768075+00:00,48978605,29,Hacker wipes Romania's land registry database,665,372
+2026-07-21T12:41:14.768075+00:00,48979931,30,Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012),179,72
+2026-07-21T12:41:14.768075+00:00,48981206,31,"How we measured AI writing across arXiv, and where the measurement breaks",226,156
+2026-07-21T12:41:14.768075+00:00,48974454,32,Xiaomi-Robotics-1,486,316
+2026-07-21T12:41:14.768075+00:00,48990978,33,Men Walk on Moon,5,0
+2026-07-21T12:41:14.768075+00:00,48864176,34,My two year old taught me constraint solving,85,29
+2026-07-21T12:41:14.768075+00:00,48947739,35,85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core,80,19
+2026-07-21T12:41:14.768075+00:00,48980019,36,"Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",342,313
+2026-07-21T12:41:14.768075+00:00,48988651,37,Modula-3 History Collection on Computer History Museum,9,0
+2026-07-21T12:41:14.768075+00:00,48988793,38,"Linux kernel will support $ORIGIN, sort of",70,46
+2026-07-21T12:41:14.768075+00:00,48985956,39,"Opaque, Interoperable Passkey Records (and a Go API)",44,8
+2026-07-21T12:41:14.768075+00:00,48980053,40,The Voice of Google,210,119
+2026-07-21T12:41:14.768075+00:00,48980404,41,Cross sectioning insects in an electron microscope with a femtosecond laser [video],105,5
+2026-07-21T12:41:14.768075+00:00,48976846,42,Airport Simulator,806,154
+2026-07-21T12:41:14.768075+00:00,48972970,43,Moonshine: Lets you stream games from your PC to any device running Moonlight,346,147
+2026-07-21T12:41:14.768075+00:00,48969530,44,ECC and DDR5,130,133
+2026-07-21T12:41:14.768075+00:00,48989518,45,Judge halts Paramount's $111B purchase of Warner Bros. in win for US states,24,28
+2026-07-21T12:41:14.768075+00:00,48978835,46,"Firefox 153 available with support for Vulkan video decoding, JPEG-XL",279,67
+2026-07-21T12:41:14.768075+00:00,48982578,47,The drivers behind software delivery inefficiency,82,48
+2026-07-21T12:41:14.768075+00:00,48989791,48,The Space Force is now seeking to buy up to $30B in rocket launches,12,6
+2026-07-21T12:41:14.768075+00:00,48980238,49,Mythologizing AI makes it more likely that we’ll fail to operate it well (2023),72,120
+2026-07-21T12:41:14.768075+00:00,48879242,50,Atomic Physics in Pure Anglo-Saxon,29,11
