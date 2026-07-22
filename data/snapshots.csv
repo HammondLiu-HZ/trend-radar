@@ -17661,3 +17661,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-22T16:26:18.767706+00:00,49008558,48,PostgreSQL as a Temporal Database,5,0
 2026-07-22T16:26:18.767706+00:00,48998606,49,"Gemini last models: temperature, top_p, and top_k are deprecated and ignored",122,41
 2026-07-22T16:26:18.767706+00:00,48996571,50,Advertise in ChatGPT,1023,785
+2026-07-22T18:14:38.573455+00:00,49010345,1,Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample,99,32
+2026-07-22T18:14:38.573455+00:00,49008211,2,Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab),361,78
+2026-07-22T18:14:38.573455+00:00,49010167,3,GigaToken: ~1000x faster Language model tokenization,46,7
+2026-07-22T18:14:38.573455+00:00,49008440,4,Making,129,48
+2026-07-22T18:14:38.573455+00:00,49005787,5,The startup's Postgres survival guide,180,84
+2026-07-22T18:14:38.573455+00:00,49008538,6,Can a MUD evaluate LLMs? A $99 proof of concept,45,19
+2026-07-22T18:14:38.573455+00:00,48917135,7,Nobody knows what a used GPU cluster is worth,22,7
+2026-07-22T18:14:38.573455+00:00,49008901,8,Launch HN: Unlayer (YC W22) – Add email and document builders to your app,23,10
+2026-07-22T18:14:38.573455+00:00,49007863,9,Perlin's Noise Algorithm,39,6
+2026-07-22T18:14:38.573455+00:00,48913145,10,Mechanical light bulb from 1675 [video],33,9
+2026-07-22T18:14:38.573455+00:00,49008406,11,"Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",132,32
+2026-07-22T18:14:38.573455+00:00,49007626,12,Ghost Cut – or why Cut and Paste is broken everywhere,42,33
+2026-07-22T18:14:38.573455+00:00,49005329,13,"10 REM""_(C2SLFF4",121,33
+2026-07-22T18:14:38.573455+00:00,49008346,14,Critical Minerals: Reducing U.S. Import Reliance with Substitution and Recycling,29,37
+2026-07-22T18:14:38.573455+00:00,49007831,15,Airbus Full Scale Foldable Wing Extensions,46,34
+2026-07-22T18:14:38.573455+00:00,49007610,16,"""We have information that Moonshot distilled Fable for the development of K3""",82,170
+2026-07-22T18:14:38.573455+00:00,49008143,17,Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids,37,10
+2026-07-22T18:14:38.573455+00:00,48980286,18,Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL,14,10
+2026-07-22T18:14:38.573455+00:00,48969200,19,Introduction to Formal Verification with Lean Part 1,203,38
+2026-07-22T18:14:38.573455+00:00,49007374,20,Passkeys were invented by engineers with zero understanding of consumer brain,250,294
+2026-07-22T18:14:38.573455+00:00,49007581,21,Ethics Is the Skill That Matters Most Now,45,37
+2026-07-22T18:14:38.573455+00:00,49007524,22,OpenNode – Bitcoin Payment Processor,77,66
+2026-07-22T18:14:38.573455+00:00,49009324,23,Show HN: Web swing through midtown NYC,21,9
+2026-07-22T18:14:38.573455+00:00,49007620,24,Hologram works. Elixir runs in the browser,52,7
+2026-07-22T18:14:38.573455+00:00,48961698,25,Intel Starts Shipping High-NA EUV Silicon,210,88
+2026-07-22T18:14:38.573455+00:00,49007249,26,When Is NVLink Worth It?,20,3
+2026-07-22T18:14:38.573455+00:00,48962282,27,Cornell's Interactive Wall of Birds,78,29
+2026-07-22T18:14:38.573455+00:00,49007525,28,"Most Americans say ""not in my backyard"" to AI data centers",86,170
+2026-07-22T18:14:38.573455+00:00,49007671,29,Which streaming service was that on again,21,28
+2026-07-22T18:14:38.573455+00:00,49002166,30,Original Apollo 11 Guidance Computer source code for command and lunar modules,155,49
+2026-07-22T18:14:38.573455+00:00,49007546,31,I Built a Private Genomics Study with Stoffel MPC,21,24
+2026-07-22T18:14:38.573455+00:00,48913633,32,The Music of Destruction,10,0
+2026-07-22T18:14:38.573455+00:00,48997548,33,OpenAI and Hugging Face address security incident during model evaluation,1495,1054
+2026-07-22T18:14:38.573455+00:00,49001127,34,Late.sh – a command-line Clubhouse for computer people,284,107
+2026-07-22T18:14:38.573455+00:00,49009968,35,"It's not a ""rogue AI"" when a badly made security harness executes scripts",11,1
+2026-07-22T18:14:38.573455+00:00,49001472,36,Never Enough,178,76
+2026-07-22T18:14:38.573455+00:00,48956517,37,Beaver who escaped to find mate welcomes first kit,26,8
+2026-07-22T18:14:38.573455+00:00,49008512,38,A Zipper Patent Sat in a Garage for 40 Years. Now It's Real,47,16
+2026-07-22T18:14:38.573455+00:00,49007839,39,The Pillars of an API Platform,5,0
+2026-07-22T18:14:38.573455+00:00,48999291,40,Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA,831,427
+2026-07-22T18:14:38.573455+00:00,48999825,41,It's a shame what's happened to radio,198,244
+2026-07-22T18:14:38.573455+00:00,49009913,42,Emails Reveal Why a Town Put Bags over Its Flock Cameras,11,0
+2026-07-22T18:14:38.573455+00:00,48945804,43,ScreenWall – Turn old phones into synced widgets for your space,87,37
+2026-07-22T18:14:38.573455+00:00,49000600,44,Ten Steps Towards Happiness (2015),204,93
+2026-07-22T18:14:38.573455+00:00,49004663,45,OverpAId – Fire your CEO. Hire the future,609,308
+2026-07-22T18:14:38.573455+00:00,49007801,46,A privacy-first macOS meeting-notes and writing app that runs on-device,5,0
+2026-07-22T18:14:38.573455+00:00,49007607,48,Physical Media vs. Digital Media,8,6
+2026-07-22T18:14:38.573455+00:00,49006862,49,Show HN: Agent in 9 Lines Python,13,6
+2026-07-22T18:14:38.573455+00:00,49008089,50,OpenAI Presence,50,40
