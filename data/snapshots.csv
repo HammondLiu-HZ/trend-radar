@@ -17759,3 +17759,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-22T20:16:54.865433+00:00,49000600,47,Ten Steps Towards Happiness (2015),205,95
 2026-07-22T20:16:54.865433+00:00,49008512,48,A Zipper Patent Sat in a Garage for 40 Years. Now It's Real,52,17
 2026-07-22T20:16:54.865433+00:00,48996571,49,Advertise in ChatGPT,1045,813
+2026-07-22T22:11:37.149966+00:00,49010345,1,Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample,459,255
+2026-07-22T22:11:37.149966+00:00,49010167,2,GigaToken: ~1000x faster Language model tokenization,279,51
+2026-07-22T22:11:37.149966+00:00,49013538,3,"Malleable Computing, Emacs, and You",31,3
+2026-07-22T22:11:37.149966+00:00,49013356,4,Safari Technology Preview 248 Released,35,4
+2026-07-22T22:11:37.149966+00:00,49008211,5,Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab),563,131
+2026-07-22T22:11:37.149966+00:00,49010129,6,Are AI Labs Pelicanmaxxing?,288,118
+2026-07-22T22:11:37.149966+00:00,49007247,7,Quality non-fiction books are the antithesis of AI slop,18,2
+2026-07-22T22:11:37.149966+00:00,49012070,8,John C. Dvorak has died,347,81
+2026-07-22T22:11:37.149966+00:00,49014007,9,Medici family mystery may be solved after more than 400 years,11,0
+2026-07-22T22:11:37.149966+00:00,49010648,10,Everyone Should Know SIMD,156,46
+2026-07-22T22:11:37.149966+00:00,49013995,11,Any text-to-SQL benchmark should address difficulties of real-world data stores,9,0
+2026-07-22T22:11:37.149966+00:00,48917135,12,Nobody knows what a used GPU cluster is worth,131,106
+2026-07-22T22:11:37.149966+00:00,49008440,13,Making,235,97
+2026-07-22T22:11:37.149966+00:00,49013036,14,I Inspected My Take-Home Interview Project. It Was a Whole Operation,165,34
+2026-07-22T22:11:37.149966+00:00,48975395,15,Taking OCaml and Eio for a Spin,23,2
+2026-07-22T22:11:37.149966+00:00,49005787,16,The startup's Postgres survival guide,278,151
+2026-07-22T22:11:37.149966+00:00,49008901,17,Launch HN: Unlayer (YC W22) – Add email and document builders to your app,38,22
+2026-07-22T22:11:37.149966+00:00,48971128,18,Nvidia DGX Spark as a daily driver,59,41
+2026-07-22T22:11:37.149966+00:00,49012777,19,Fairphone 6 wide camera experimental Linux support,19,0
+2026-07-22T22:11:37.149966+00:00,49007626,20,Ghost Cut – or why Cut and Paste is broken everywhere,108,77
+2026-07-22T22:11:37.149966+00:00,49005973,21,Businesses with ugly AI menu redesigns,145,117
+2026-07-22T22:11:37.149966+00:00,49005747,22,So Reddit has decided that plain HTML is unsafe,159,179
+2026-07-22T22:11:37.149966+00:00,49008538,23,Can a MUD evaluate LLMs? A $99 proof of concept,82,50
+2026-07-22T22:11:37.149966+00:00,48984489,24,Why do we love music? (2018),7,0
+2026-07-22T22:11:37.149966+00:00,49006195,25,Back to Kagi,155,142
+2026-07-22T22:11:37.149966+00:00,48913145,26,Mechanical light bulb from 1675 [video],64,34
+2026-07-22T22:11:37.149966+00:00,49008642,27,Does creatine make you smarter?,225,209
+2026-07-22T22:11:37.149966+00:00,49005329,28,"10 REM""_(C2SLFF4",150,42
+2026-07-22T22:11:37.149966+00:00,49007671,29,Which streaming service was that on again?,32,55
+2026-07-22T22:11:37.149966+00:00,49007610,30,“We have information that Moonshot distilled Fable for the development of K3”,191,487
+2026-07-22T22:11:37.149966+00:00,49007831,31,Full Scale Foldable Wing Extensions,58,51
+2026-07-22T22:11:37.149966+00:00,48969200,32,Introduction to Formal Verification with Lean Part 1,218,45
+2026-07-22T22:11:37.149966+00:00,48980286,33,Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL,40,20
+2026-07-22T22:11:37.149966+00:00,49007863,34,Perlin's Noise Algorithm (2023),58,13
+2026-07-22T22:11:37.149966+00:00,49009324,35,Show HN: Web swing through midtown NYC,59,24
+2026-07-22T22:11:37.149966+00:00,49007374,36,Passkeys were invented by engineers with zero understanding of consumer brain,413,558
+2026-07-22T22:11:37.149966+00:00,49008346,37,Critical Minerals: Reducing U.S. import reliance with substitution and recycling,46,72
+2026-07-22T22:11:37.149966+00:00,49000864,38,LG to ban residential proxies from smart TV apps,381,400
+2026-07-22T22:11:37.149966+00:00,49008406,39,"Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",170,37
+2026-07-22T22:11:37.149966+00:00,48961698,40,Intel Starts Shipping High-NA EUV Silicon,230,106
+2026-07-22T22:11:37.149966+00:00,49013160,41,ISPs' long nightmare of having to list all the fees they charge is finally over,20,1
+2026-07-22T22:11:37.149966+00:00,49007524,42,OpenNode – Bitcoin Payment Processor,105,86
+2026-07-22T22:11:37.149966+00:00,49007620,43,Hologram Works. Sponsor What Comes Next,87,19
+2026-07-22T22:11:37.149966+00:00,49008143,44,Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids,51,15
+2026-07-22T22:11:37.149966+00:00,49012337,45,Teardown: The BMW / Harman IDC23H Infotainment Unit (B423),6,1
+2026-07-22T22:11:37.149966+00:00,48945804,46,ScreenWall – Turn old phones into synced widgets for your space,124,44
+2026-07-22T22:11:37.149966+00:00,48859309,47,Why do you suck at juggling now?,92,57
+2026-07-22T22:11:37.149966+00:00,49007249,48,When is NVLink worth it?,46,8
+2026-07-22T22:11:37.149966+00:00,48962282,49,Cornell's Interactive Wall of Birds,93,32
+2026-07-22T22:11:37.149966+00:00,49002166,50,Original Apollo 11 Guidance Computer source code for command and lunar modules,168,51
