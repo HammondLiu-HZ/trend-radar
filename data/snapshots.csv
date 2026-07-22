@@ -17416,3 +17416,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-22T03:30:15.084567+00:00,48992315,48,Why Are There No Empires in Age of Empires? (2019),97,69
 2026-07-22T03:30:15.084567+00:00,49000089,49,OSS-SEC: 432 Linux kernel CVEs (in less than 32 hours),10,6
 2026-07-22T03:30:15.084567+00:00,48999323,50,"Furtex: Post-exploitation, rootkit and evasion research toolkit for Linux",10,2
+2026-07-22T06:37:24.852217+00:00,48997548,1,OpenAI and Hugging Face address security incident during model evaluation,972,670
+2026-07-22T06:37:24.852217+00:00,48999291,2,Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA,509,282
+2026-07-22T06:37:24.852217+00:00,49001930,3,Kimi K3: second only to Fable 5 on AA-Briefcase,56,5
+2026-07-22T06:37:24.852217+00:00,49002166,4,Original Apollo 11 Guidance Computer source code for command and lunar modules,24,4
+2026-07-22T06:37:24.852217+00:00,49000864,5,LG to ban residential proxies from smart TV apps,193,149
+2026-07-22T06:37:24.852217+00:00,48996571,6,Advertise in ChatGPT,616,437
+2026-07-22T06:37:24.852217+00:00,48996318,7,FreeInk: Open ecosystem for e-readers,499,113
+2026-07-22T06:37:24.852217+00:00,49001127,8,Late.sh – a command-line Clubhouse for computer people,75,23
+2026-07-22T06:37:24.852217+00:00,48993414,9,"Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",663,513
+2026-07-22T06:37:24.852217+00:00,48998362,10,A digestion of the Jacobian conjecture counterexample,234,79
+2026-07-22T06:37:24.852217+00:00,48996652,11,Judge approves $1.5B Anthropic settlement for pirated books used to train Claude,270,192
+2026-07-22T06:37:24.852217+00:00,49000600,12,Ten Steps Towards Happiness (2015),98,22
+2026-07-22T06:37:24.852217+00:00,48998404,13,"""Drawing"" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",170,57
+2026-07-22T06:37:24.852217+00:00,48993816,14,"Long presumed dead, a thriving coral reef is discovered in West Africa",334,69
+2026-07-22T06:37:24.852217+00:00,48995213,15,"Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",298,253
+2026-07-22T06:37:24.852217+00:00,48992870,16,Apple defeats liability for not scanning iCloud for CSAM,401,363
+2026-07-22T06:37:24.852217+00:00,48999825,17,It's a shame what's happened to radio,79,72
+2026-07-22T06:37:24.852217+00:00,48961698,18,Intel Starts Shipping High-NA EUV Silicon,4,0
+2026-07-22T06:37:24.852217+00:00,49002344,19,"Show HN: ReadKinetic – a free, local-first speed reader for your own books",8,1
+2026-07-22T06:37:24.852217+00:00,48994178,20,Map of the world's great castles and fortresses,230,154
+2026-07-22T06:37:24.852217+00:00,49002276,21,Show HN: A new kind of FPS aim trainer,4,0
+2026-07-22T06:37:24.852217+00:00,48998606,22,"Gemini last models: temperature, top_p, and top_k are deprecated and ignored",69,22
+2026-07-22T06:37:24.852217+00:00,48904202,23,Ask HN: US Equivalent of Anabin?,8,3
+2026-07-22T06:37:24.852217+00:00,48995261,24,Laguna S 2.1,281,50
+2026-07-22T06:37:24.852217+00:00,48997221,25,"'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",487,80
+2026-07-22T06:37:24.852217+00:00,48953468,26,The Birth of Prolog (1996),90,8
+2026-07-22T06:37:24.852217+00:00,48962718,27,Pico W firmware creates driverless USB WiFi bridge (Layer-2),32,2
+2026-07-22T06:37:24.852217+00:00,48946738,28,Show HN: Justif – Knuth-Plass justification and microtypography for the web,130,22
+2026-07-22T06:37:24.852217+00:00,48974862,29,My USB Drive Has a Hidden Encrypted Vault,212,111
+2026-07-22T06:37:24.852217+00:00,48994716,31,Roblox Officially Supports GrapheneOS,163,33
+2026-07-22T06:37:24.852217+00:00,48995796,32,Apple Private Cloud Compute SoC 3 audit reports,123,49
+2026-07-22T06:37:24.852217+00:00,49000250,33,A flaky test exposed a Redis client use-after-free,40,12
+2026-07-22T06:37:24.852217+00:00,48947820,34,The Miso That Went to Space,14,1
+2026-07-22T06:37:24.852217+00:00,48998828,35,"Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",38,22
+2026-07-22T06:37:24.852217+00:00,48938395,36,Recreating the math behind the first stealth aircraft,52,24
+2026-07-22T06:37:24.852217+00:00,48960582,37,The unreasonable difficulty of time series forecasting,141,53
+2026-07-22T06:37:24.852217+00:00,48994116,38,France's Anssi Will Block PQC-Free Products from Certification Starting 2027,92,49
+2026-07-22T06:37:24.852217+00:00,48996187,39,Show HN: A self-running space economy SIM in Rust and Bevy,97,28
+2026-07-22T06:37:24.852217+00:00,49002170,40,Samsung in talks to invest in Mistral at €20B valuation,9,0
+2026-07-22T06:37:24.852217+00:00,48994186,41,Show HN: An MCP server that turns async-work practices into tools,17,5
+2026-07-22T06:37:24.852217+00:00,49001708,42,Tesla Balance Bike,4,1
+2026-07-22T06:37:24.852217+00:00,48987822,43,Incremental – A library for incremental computations,334,67
+2026-07-22T06:37:24.852217+00:00,48996364,44,The Price of Happiness (2024),74,37
+2026-07-22T06:37:24.852217+00:00,48989701,45,"Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",554,211
+2026-07-22T06:37:24.852217+00:00,48963122,46,Juggling for Blind People,14,4
+2026-07-22T06:37:24.852217+00:00,49001636,47,"Apply Tracker, Free AI CV, Cover Letter and Job Tracker",3,0
+2026-07-22T06:37:24.852217+00:00,49001591,48,A simple API for offering your coding agent a smoke break,3,0
+2026-07-22T06:37:24.852217+00:00,48995149,49,Uhubctl – Control USB power per-port on smart USB hubs,59,15
+2026-07-22T06:37:24.852217+00:00,48992315,50,Why Are There No Empires in Age of Empires? (2019),105,73
