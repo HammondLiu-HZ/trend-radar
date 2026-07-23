@@ -18109,3 +18109,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-23T15:17:48.126067+00:00,48961698,48,Intel Starts Shipping High-NA EUV Silicon,243,111
 2026-07-23T15:17:48.126067+00:00,48997548,49,OpenAI and Hugging Face address security incident during model evaluation,1593,1121
 2026-07-23T15:17:48.126067+00:00,49005329,50,"10 REM""_(C2SLFF4",173,50
+2026-07-23T17:39:35.006511+00:00,49022152,1,Writing by hand is good for your brain,409,183
+2026-07-23T17:39:35.006511+00:00,49022038,2,Software rendering in 500 lines of bare C++,126,24
+2026-07-23T17:39:35.006511+00:00,49024691,3,What happened to TheNumbers.com,46,3
+2026-07-23T17:39:35.006511+00:00,49021783,4,Astronomers may have found the first exomoon,136,52
+2026-07-23T17:39:35.006511+00:00,49024620,5,Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording,19,9
+2026-07-23T17:39:35.006511+00:00,49022634,6,"Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",78,39
+2026-07-23T17:39:35.006511+00:00,49023016,7,Startup founders urge U.S. government not to shut off Chinese open weight AI,315,322
+2026-07-23T17:39:35.006511+00:00,49023809,8,JEP 540: Simple JSON API (Now in Incubator),35,18
+2026-07-23T17:39:35.006511+00:00,49023019,9,Why Software Factories Fail (or: harness engineering is not enough),18,1
+2026-07-23T17:39:35.006511+00:00,49024643,10,The Arguments Against Open Source AI Are Very Bad,8,0
+2026-07-23T17:39:35.006511+00:00,49023486,11,Free way to get your data out of ChatGPT Business accounts,36,3
+2026-07-23T17:39:35.006511+00:00,49021868,12,Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency,48,30
+2026-07-23T17:39:35.006511+00:00,49022663,13,Learn WebGPU for C++,31,4
+2026-07-23T17:39:35.006511+00:00,49023427,14,Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents,18,11
+2026-07-23T17:39:35.006511+00:00,49022911,15,Show HN: Palmier Pro – open-source macOS video editor built for AI,19,5
+2026-07-23T17:39:35.006511+00:00,49020999,16,AI Companies Are Trying to Hide a Staggering Amount of Debt,367,169
+2026-07-23T17:39:35.006511+00:00,49022284,17,Show HN: Remux – an open-source tmux workspace designed for iPhone,43,13
+2026-07-23T17:39:35.006511+00:00,49022668,18,"Encryption and Globalization 15 Years Later: E2EE and the ""Going Dark"" Debate",28,10
+2026-07-23T17:39:35.006511+00:00,48968010,19,OpenStreetMap: Admin_level for All Countries,53,8
+2026-07-23T17:39:35.006511+00:00,48970844,20,How to Sell a Kettle,23,9
+2026-07-23T17:39:35.006511+00:00,49022371,21,Show HN: Whetuu – a zero-config cross-shell prompt written in Zig,27,8
+2026-07-23T17:39:35.006511+00:00,49021786,22,Emacs Is a Lispboard,31,9
+2026-07-23T17:39:35.006511+00:00,49021569,23,What happens when the information runs out,31,9
+2026-07-23T17:39:35.006511+00:00,49021880,24,You can now run same OCI images as containers or Firecracker microVMs,25,7
+2026-07-23T17:39:35.006511+00:00,48945139,25,Scanning for Pangram Errors,60,35
+2026-07-23T17:39:35.006511+00:00,49015639,26,OpenAI’s accidental attack against Hugging Face is science fiction that happened,237,200
+2026-07-23T17:39:35.006511+00:00,49022790,27,NerdLens: Mirror your computer with cardboard VR,17,6
+2026-07-23T17:39:35.006511+00:00,49022137,28,Fields Medals 2026,29,7
+2026-07-23T17:39:35.006511+00:00,48919004,29,Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor,9,3
+2026-07-23T17:39:35.006511+00:00,48995712,30,The Unity CLI: manage Unity from your terminal,74,22
+2026-07-23T17:39:35.006511+00:00,49021647,31,Brow6el: A full-featured web browser for the terminal using Chromium,29,7
+2026-07-23T17:39:35.006511+00:00,48986223,32,The Telegarden (1995-2004),22,2
+2026-07-23T17:39:35.006511+00:00,49023291,33,UK households free to install plug-in balcony solar panels from end of August,50,30
+2026-07-23T17:39:35.006511+00:00,49017344,34,"Cruller: Bun's Zig Runtime, Continued on Zig 0.16",141,100
+2026-07-23T17:39:35.006511+00:00,49022302,35,Show HN: macOS menu-bar manager for SSH port forwards,24,3
+2026-07-23T17:39:35.006511+00:00,49024491,36,I Reported on Flock's Cameras. Now I'm One of the System's Mistakes,14,0
+2026-07-23T17:39:35.006511+00:00,49023039,37,Leaked Document Shows the Surveillance Tech at ICE's Fingertips,29,0
+2026-07-23T17:39:35.006511+00:00,49024436,38,US Government targets Cop City protester over phone operating system,18,6
+2026-07-23T17:39:35.006511+00:00,49021361,39,Silent Replacement of Trusted macOS App Executables,28,6
+2026-07-23T17:39:35.006511+00:00,49022990,40,Ask HN: Is there a website that tracks excessive writes to SSDs in OS/app betas?,23,18
+2026-07-23T17:39:35.006511+00:00,49023070,41,"Fourth Circuit: Border Agents Can Search Your Phone by Hand, No Suspicion Needed",29,2
+2026-07-23T17:39:35.006511+00:00,49021856,42,I Regret Migrating to Codeberg,115,65
+2026-07-23T17:39:35.006511+00:00,49021961,43,Show HN: I built a zero-latency developer tool suite in pure Vanilla JavaScript,9,4
+2026-07-23T17:39:35.006511+00:00,49021756,44,Log is non-monotonic in PHP and Lua,7,2
+2026-07-23T17:39:35.006511+00:00,49025089,45,Fedora 45 Atomic Desktops Look to Allow for Web-Based Remote Installations,5,0
+2026-07-23T17:39:35.006511+00:00,48989006,46,"ANSI escape injection in MCP servers: Hidden from humans, visible to AI",47,25
+2026-07-23T17:39:35.006511+00:00,49022412,47,How much energy do data centers and artificial intelligence use?,55,56
+2026-07-23T17:39:35.006511+00:00,48990219,48,Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot,125,106
+2026-07-23T17:39:35.006511+00:00,49022167,49,Sorcery in the open: is generated code still source code?,5,0
+2026-07-23T17:39:35.006511+00:00,49010345,50,Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample,1052,595
