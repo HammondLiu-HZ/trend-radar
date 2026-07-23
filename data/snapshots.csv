@@ -17909,3 +17909,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-23T04:21:51.027417+00:00,49015866,48,Map of Every Clean Water Act (Npdes) Discharge Violation in the US,6,1
 2026-07-23T04:21:51.027417+00:00,49015852,49,"Show HN: AgentNest, self-hosted sandboxes for AI agents",6,2
 2026-07-23T04:21:51.027417+00:00,49007671,50,Which streaming service was that on again?,45,70
+2026-07-23T07:39:16.722878+00:00,48991882,1,git's –end-of-options Flag,109,47
+2026-07-23T07:39:16.722878+00:00,49010345,2,Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample,811,474
+2026-07-23T07:39:16.722878+00:00,49007247,3,Quality non-fiction books are the antithesis of AI slop,311,106
+2026-07-23T07:39:16.722878+00:00,48990219,4,Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot,14,0
+2026-07-23T07:39:16.722878+00:00,49010167,5,GigaToken: ~1000x faster Language model tokenization,469,95
+2026-07-23T07:39:16.722878+00:00,49008211,6,Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab),779,176
+2026-07-23T07:39:16.722878+00:00,49017344,7,"Cruller: Bun's Zig Runtime, Continued on Zig 0.16",12,2
+2026-07-23T07:39:16.722878+00:00,49010648,8,Everyone should know SIMD,384,127
+2026-07-23T07:39:16.722878+00:00,49017265,9,Amiga 1000: Ten years ahead of its time,40,15
+2026-07-23T07:39:16.722878+00:00,49010129,10,Are AI labs pelicanmaxxing?,491,190
+2026-07-23T07:39:16.722878+00:00,48983076,11,Making ASCII Art in Vim,54,4
+2026-07-23T07:39:16.722878+00:00,49010782,12,Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong,120,16
+2026-07-23T07:39:16.722878+00:00,49005747,13,So Reddit has decided that plain HTML is unsafe,416,399
+2026-07-23T07:39:16.722878+00:00,49008440,14,Making,336,131
+2026-07-23T07:39:16.722878+00:00,49014007,15,Medici family mystery may be solved after more than 400 years,109,29
+2026-07-23T07:39:16.722878+00:00,49016099,16,Restructuring GitHub's bug bounty program,40,16
+2026-07-23T07:39:16.722878+00:00,48984534,17,ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS),36,4
+2026-07-23T07:39:16.722878+00:00,49005787,18,The startup's Postgres survival guide,389,185
+2026-07-23T07:39:16.722878+00:00,49012070,19,John C. Dvorak has died,710,228
+2026-07-23T07:39:16.722878+00:00,48977463,20,Why malloc always does more than I asked for?,19,11
+2026-07-23T07:39:16.722878+00:00,49013538,21,"Malleable Computing, Emacs, and You",96,29
+2026-07-23T07:39:16.722878+00:00,49012777,22,Fairphone 6 wide camera experimental Linux support,105,19
+2026-07-23T07:39:16.722878+00:00,49005973,23,Businesses with ugly AI menu redesigns,258,172
+2026-07-23T07:39:16.722878+00:00,48917135,24,Nobody knows what a used GPU cluster is worth,217,192
+2026-07-23T07:39:16.722878+00:00,49013924,25,All 253 Patterns from Christopher Alexander's a Pattern Language Summarized,64,10
+2026-07-23T07:39:16.722878+00:00,49006195,26,Back to Kagi,252,192
+2026-07-23T07:39:16.722878+00:00,49015735,27,"Petals: Run LLMs at home, BitTorrent-style",101,31
+2026-07-23T07:39:16.722878+00:00,49013995,28,Any text-to-SQL benchmark should address difficulties of real-world data stores,50,17
+2026-07-23T07:39:16.722878+00:00,49015588,29,Codeberg Bans Cryptocurrency Projects,256,348
+2026-07-23T07:39:16.722878+00:00,49007626,30,Ghost Cut – Or why Cut and Paste is broken everywhere,154,102
+2026-07-23T07:39:16.722878+00:00,48958266,31,What Rose Petals Teach Us about Induction,33,5
+2026-07-23T07:39:16.722878+00:00,49008901,32,Launch HN: Unlayer (YC W22) – Add email and document builders to your app,52,33
+2026-07-23T07:39:16.722878+00:00,49015878,33,"Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",16,0
+2026-07-23T07:39:16.722878+00:00,48975395,34,Taking OCaml and Eio for a Spin,53,6
+2026-07-23T07:39:16.722878+00:00,49015635,35,Protecting our FLOSS commons from LLMs,20,2
+2026-07-23T07:39:16.722878+00:00,49000864,36,LG to ban residential proxies from smart TV apps,423,428
+2026-07-23T07:39:16.722878+00:00,48969200,37,Introduction to Formal Verification with Lean Part 1,230,50
+2026-07-23T07:39:16.722878+00:00,49013036,38,I Inspected My Take-Home Interview Project. It Was a Whole Operation,359,95
+2026-07-23T07:39:16.722878+00:00,49005329,39,"10 REM""_(C2SLFF4",166,47
+2026-07-23T07:39:16.722878+00:00,48961698,40,Intel Starts Shipping High-NA EUV Silicon,239,109
+2026-07-23T07:39:16.722878+00:00,48945804,41,ScreenWall – Turn old phones into synced widgets for your space,135,49
+2026-07-23T07:39:16.722878+00:00,49013822,42,Men That Don't Fit In (1911),46,21
+2026-07-23T07:39:16.722878+00:00,49014779,43,Amorality and greed at Silicon Valley's favourite university,29,5
+2026-07-23T07:39:16.722878+00:00,48950562,44,How we made our LeRobot video reader up to 15× faster,24,0
+2026-07-23T07:39:16.722878+00:00,48997548,45,OpenAI and Hugging Face address security incident during model evaluation,1574,1100
+2026-07-23T07:39:16.722878+00:00,49008642,46,Does creatine make you smarter?,291,236
+2026-07-23T07:39:16.722878+00:00,49017277,47,French President Macron backs effort to ban kids under 15 from social media,15,10
+2026-07-23T07:39:16.722878+00:00,48967506,48,MemoryPack: Zero encoding extreme performance binary serializer for C#,27,4
+2026-07-23T07:39:16.722878+00:00,49007610,49,“We have information that Moonshot distilled Fable for the development of K3”,236,606
+2026-07-23T07:39:16.722878+00:00,48922144,50,Museum of the Human Web,22,5
