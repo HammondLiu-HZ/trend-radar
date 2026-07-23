@@ -18159,3 +18159,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-23T17:39:35.006511+00:00,48990219,48,Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot,125,106
 2026-07-23T17:39:35.006511+00:00,49022167,49,Sorcery in the open: is generated code still source code?,5,0
 2026-07-23T17:39:35.006511+00:00,49010345,50,Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample,1052,595
+2026-07-23T19:37:30.343560+00:00,49022152,1,Writing by hand is good for your brain,618,308
+2026-07-23T19:37:30.343560+00:00,49024691,2,What happened to TheNumbers.com,155,58
+2026-07-23T19:37:30.343560+00:00,49025984,3,Building on ATProto,51,15
+2026-07-23T19:37:30.343560+00:00,49026810,4,Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models,10,0
+2026-07-23T19:37:30.343560+00:00,49022038,5,Software rendering in 500 lines of bare C++,177,30
+2026-07-23T19:37:30.343560+00:00,49023016,6,Startup founders urge U.S. government not to shut off Chinese open weight AI,477,467
+2026-07-23T19:37:30.343560+00:00,49025831,7,A solid-state “atomic channel” for separating rare earth elements,23,0
+2026-07-23T19:37:30.343560+00:00,49022634,8,"Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",120,70
+2026-07-23T19:37:30.343560+00:00,49021783,9,Astronomers may have found the first exomoon,156,56
+2026-07-23T19:37:30.343560+00:00,49024620,10,Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents,30,34
+2026-07-23T19:37:30.343560+00:00,49022911,11,Show HN: Palmier Pro – Open-source macOS video editor built for AI,52,12
+2026-07-23T19:37:30.343560+00:00,49023019,12,Why Software Factories Fail (or: harness engineering is not enough),95,68
+2026-07-23T19:37:30.343560+00:00,49023809,13,JEP 540: Simple JSON API (Now in Incubator),62,43
+2026-07-23T19:37:30.343560+00:00,49024643,14,The arguments against open source AI are bad,87,58
+2026-07-23T19:37:30.343560+00:00,49021597,15,"DARPA, U.S. Air Force fly AI-controlled F-16",80,73
+2026-07-23T19:37:30.343560+00:00,49022663,16,Learn WebGPU for C++,49,9
+2026-07-23T19:37:30.343560+00:00,48984760,17,Converting Files into Minecraft Worlds,10,0
+2026-07-23T19:37:30.343560+00:00,49023427,18,Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents,46,19
+2026-07-23T19:37:30.343560+00:00,49007574,19,"Show HN: Trifle – Open-source analytics that stores answers, not events",10,0
+2026-07-23T19:37:30.343560+00:00,49026059,20,From Evaluation to Guardrails: What We Brought to ACM FAccT 2026,6,0
+2026-07-23T19:37:30.343560+00:00,49021868,21,Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency,67,48
+2026-07-23T19:37:30.343560+00:00,49025812,22,Geekbench 7,16,8
+2026-07-23T19:37:30.343560+00:00,49020999,23,AI Companies Are Trying to Hide a Staggering Amount of Debt,441,210
+2026-07-23T19:37:30.343560+00:00,49022284,24,Show HN: Remux – an open-source tmux workspace designed for iPhone,63,24
+2026-07-23T19:37:30.343560+00:00,49024882,25,Show HN: Claude-thermos – keeps your Claude session warm for you,26,19
+2026-07-23T19:37:30.343560+00:00,49023486,26,Free way to get your data out of ChatGPT Business accounts,59,6
+2026-07-23T19:37:30.343560+00:00,48968010,27,OpenStreetMap: Admin_level for All Countries,76,14
+2026-07-23T19:37:30.343560+00:00,48978989,28,Meta Garbage Collection: Using OCaml's GC to GC Rust,13,0
+2026-07-23T19:37:30.343560+00:00,49021786,29,Emacs Is a Lispboard,53,13
+2026-07-23T19:37:30.343560+00:00,49022668,30,"Encryption and Globalization 15 Years Later: E2EE and the ""Going Dark"" Debate",41,16
+2026-07-23T19:37:30.343560+00:00,49022137,31,Fields Medals 2026,60,19
+2026-07-23T19:37:30.343560+00:00,49015639,32,OpenAI’s accidental attack against Hugging Face is science fiction that happened,292,255
+2026-07-23T19:37:30.343560+00:00,49021569,33,What happens when the information runs out,49,18
+2026-07-23T19:37:30.343560+00:00,49022371,34,Show HN: Whetuu – a zero-config cross-shell prompt written in Zig,36,22
+2026-07-23T19:37:30.343560+00:00,48945139,35,Scanning for Pangram Errors,68,36
+2026-07-23T19:37:30.343560+00:00,49021647,36,Brow6el: A full-featured web browser for the terminal using Chromium,35,13
+2026-07-23T19:37:30.343560+00:00,48995712,37,The Unity CLI: manage Unity from your terminal,77,24
+2026-07-23T19:37:30.343560+00:00,49025754,38,"AI bet goes awry: Oracle fires 21,000 employees",21,1
+2026-07-23T19:37:30.343560+00:00,48986223,39,The Telegarden (1995-2004),24,2
+2026-07-23T19:37:30.343560+00:00,49022302,40,Show HN: macOS menu-bar manager for SSH port forwards,29,3
+2026-07-23T19:37:30.343560+00:00,49025766,41,Why Sony Can't Bring Back Its Classic Walkman Models,21,6
+2026-07-23T19:37:30.343560+00:00,49017344,42,"Cruller: Bun's Zig Runtime, Continued on Zig 0.16",144,107
+2026-07-23T19:37:30.343560+00:00,49024436,43,US Government targets Cop City protester over phone operating system,43,25
+2026-07-23T19:37:30.343560+00:00,49023291,44,UK households free to install plug-in balcony solar panels from end of August,63,39
+2026-07-23T19:37:30.343560+00:00,49021880,45,You can now run same OCI images as containers or Firecracker microVMs,47,17
+2026-07-23T19:37:30.343560+00:00,49026276,46,Waymo's driverless cars crash less often than people,9,1
+2026-07-23T19:37:30.343560+00:00,49026214,47,"ChatGPT medical advice brought man 'to brink of death', lawsuit alleges",9,1
+2026-07-23T19:37:30.343560+00:00,49025890,48,AMD's 256-core Epyc 9996 'Venice' claims up to a 3.4x jump over Intel Xeon,9,3
+2026-07-23T19:37:30.343560+00:00,49024491,49,I Reported on Flock's Cameras. Now I'm One of the System's Mistakes,31,6
+2026-07-23T19:37:30.343560+00:00,49026563,50,California-bought cars can be hijacked via Bluetooth,6,0
