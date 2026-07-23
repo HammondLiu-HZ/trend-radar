@@ -18209,3 +18209,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-23T19:37:30.343560+00:00,49025890,48,AMD's 256-core Epyc 9996 'Venice' claims up to a 3.4x jump over Intel Xeon,9,3
 2026-07-23T19:37:30.343560+00:00,49024491,49,I Reported on Flock's Cameras. Now I'm One of the System's Mistakes,31,6
 2026-07-23T19:37:30.343560+00:00,49026563,50,California-bought cars can be hijacked via Bluetooth,6,0
+2026-07-23T21:14:25.541605+00:00,49022152,1,Writing by hand is good for your brain,761,383
+2026-07-23T21:14:25.541605+00:00,49026810,2,Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models,104,48
+2026-07-23T21:14:25.541605+00:00,49024691,3,What happened to TheNumbers.com,208,88
+2026-07-23T21:14:25.541605+00:00,49007221,4,The Beam Engine,23,8
+2026-07-23T21:14:25.541605+00:00,49025984,5,Building on ATProto,86,38
+2026-07-23T21:14:25.541605+00:00,49023016,6,Startup founders urge U.S. government not to shut off Chinese open weight AI,579,549
+2026-07-23T21:14:25.541605+00:00,49025831,7,A solid-state “atomic channel” for separating rare earth elements,48,5
+2026-07-23T21:14:25.541605+00:00,49022038,8,Software rendering in 500 lines of bare C++,205,36
+2026-07-23T21:14:25.541605+00:00,49022634,9,"Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",143,77
+2026-07-23T21:14:25.541605+00:00,48984760,10,Converting Files into Minecraft Worlds,30,4
+2026-07-23T21:14:25.541605+00:00,49021783,11,Astronomers may have found the first exomoon,171,66
+2026-07-23T21:14:25.541605+00:00,49022911,12,Show HN: Palmier Pro – Open-source macOS video editor built for AI,80,15
+2026-07-23T21:14:25.541605+00:00,49021597,13,"DARPA, U.S. Air Force fly AI-controlled F-16",130,125
+2026-07-23T21:14:25.541605+00:00,49024620,14,Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents,40,45
+2026-07-23T21:14:25.541605+00:00,49024643,15,The arguments against open source AI are bad,131,97
+2026-07-23T21:14:25.541605+00:00,49025812,16,Geekbench 7,29,26
+2026-07-23T21:14:25.541605+00:00,49022663,17,Learn WebGPU for C++,64,10
+2026-07-23T21:14:25.541605+00:00,49007574,18,"Show HN: Trifle – Open-source analytics that stores answers, not events",22,2
+2026-07-23T21:14:25.541605+00:00,49026482,19,"Selfie for sign-in: a new, easy way to access your Google Account",26,20
+2026-07-23T21:14:25.541605+00:00,49023427,20,Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents,58,24
+2026-07-23T21:14:25.541605+00:00,48989065,21,Escape Analysis in Go: Stack vs. Heap Allocations Explained,11,2
+2026-07-23T21:14:25.541605+00:00,49024882,22,Show HN: Claude-thermos – keeps your Claude session warm for you,41,27
+2026-07-23T21:14:25.541605+00:00,49023809,23,JEP 540: Simple JSON API (Now in Incubator),77,61
+2026-07-23T21:14:25.541605+00:00,49020999,24,AI Companies Are Trying to Hide a Staggering Amount of Debt,505,243
+2026-07-23T21:14:25.541605+00:00,49022137,25,Fields Medals 2026,92,36
+2026-07-23T21:14:25.541605+00:00,49022284,26,Show HN: Remux – an open-source tmux workspace designed for iPhone,73,29
+2026-07-23T21:14:25.541605+00:00,49021868,27,Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency,76,68
+2026-07-23T21:14:25.541605+00:00,49021786,28,Emacs Is a Lispboard,72,29
+2026-07-23T21:14:25.541605+00:00,48978989,29,Meta Garbage Collection: Using OCaml's GC to GC Rust,22,0
+2026-07-23T21:14:25.541605+00:00,48968010,30,OpenStreetMap: Admin_level for All Countries,88,21
+2026-07-23T21:14:25.541605+00:00,49023486,31,Free way to get your data out of ChatGPT Business accounts,70,6
+2026-07-23T21:14:25.541605+00:00,49028037,32,Namecheap Gave My Account to an Unverified Third Party Just Because They Asked,7,0
+2026-07-23T21:14:25.541605+00:00,49015639,33,OpenAI’s accidental attack against Hugging Face is science fiction that happened,314,264
+2026-07-23T21:14:25.541605+00:00,49026059,34,From Evaluation to Guardrails: What We Brought to ACM FAccT 2026,9,0
+2026-07-23T21:14:25.541605+00:00,49023019,35,Why Software Factories Fail (or: harness engineering is not enough),124,109
+2026-07-23T21:14:25.541605+00:00,49022668,36,"Encryption and Globalization 15 Years Later: E2EE and the ""Going Dark"" Debate",43,17
+2026-07-23T21:14:25.541605+00:00,49022371,37,Show HN: Whetuu – a zero-config cross-shell prompt written in Zig,42,25
+2026-07-23T21:14:25.541605+00:00,49021569,38,What happens when the information runs out,57,20
+2026-07-23T21:14:25.541605+00:00,49025754,39,"AI bet goes awry: Oracle fires 21,000 employees",40,7
+2026-07-23T21:14:25.541605+00:00,48945139,40,Scanning for Pangram Errors,70,38
+2026-07-23T21:14:25.541605+00:00,49021647,41,Brow6el: A full-featured web browser for the terminal using Chromium,40,15
+2026-07-23T21:14:25.541605+00:00,48995712,42,The Unity CLI: manage Unity from your terminal,79,26
+2026-07-23T21:14:25.541605+00:00,49017344,43,"Cruller: Bun's Zig Runtime, Continued on Zig 0.16",146,109
+2026-07-23T21:14:25.541605+00:00,48986223,44,The Telegarden (1995-2004),26,3
+2026-07-23T21:14:25.541605+00:00,49025766,45,Why Sony Can't Bring Back Its Classic Walkman Models,35,17
+2026-07-23T21:14:25.541605+00:00,49024436,46,US Government targets Cop City protester over phone operating system,60,34
+2026-07-23T21:14:25.541605+00:00,49022302,47,Show HN: macOS menu-bar manager for SSH port forwards,36,5
+2026-07-23T21:14:25.541605+00:00,49027985,48,Stripe in talks to buy OpenRouter for ~10B,4,0
+2026-07-23T21:14:25.541605+00:00,49010345,49,Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample,1074,609
+2026-07-23T21:14:25.541605+00:00,49026276,50,Waymo's driverless cars crash less often than people,17,14
