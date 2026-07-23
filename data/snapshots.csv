@@ -17959,3 +17959,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-23T07:39:16.722878+00:00,48967506,48,MemoryPack: Zero encoding extreme performance binary serializer for C#,27,4
 2026-07-23T07:39:16.722878+00:00,49007610,49,“We have information that Moonshot distilled Fable for the development of K3”,236,606
 2026-07-23T07:39:16.722878+00:00,48922144,50,Museum of the Human Web,22,5
+2026-07-23T10:31:28.005175+00:00,48990219,1,Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot,68,31
+2026-07-23T10:31:28.005175+00:00,49010345,2,Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample,894,518
+2026-07-23T10:31:28.005175+00:00,49017344,3,"Cruller: Bun's Zig Runtime, Continued on Zig 0.16",61,27
+2026-07-23T10:31:28.005175+00:00,49007247,4,Quality non-fiction books are the antithesis of AI slop,367,126
+2026-07-23T10:31:28.005175+00:00,48991882,5,git's –end-of-options Flag,150,75
+2026-07-23T10:31:28.005175+00:00,49010167,6,GigaToken: ~1000x faster Language model tokenization,514,107
+2026-07-23T10:31:28.005175+00:00,48989006,7,"ANSI escape injection in MCP servers: Hidden from humans, visible to AI",20,6
+2026-07-23T10:31:28.005175+00:00,49008211,8,Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab),853,190
+2026-07-23T10:31:28.005175+00:00,49010648,9,Everyone should know SIMD,442,159
+2026-07-23T10:31:28.005175+00:00,49010129,10,Are AI labs pelicanmaxxing?,549,211
+2026-07-23T10:31:28.005175+00:00,49017265,11,Amiga 1000: Ten years ahead of its time,86,57
+2026-07-23T10:31:28.005175+00:00,49005747,12,So Reddit has decided that plain HTML is unsafe,479,483
+2026-07-23T10:31:28.005175+00:00,48983076,13,Making ASCII Art in Vim,68,6
+2026-07-23T10:31:28.005175+00:00,49010782,14,Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong,141,29
+2026-07-23T10:31:28.005175+00:00,49008440,15,Making,365,143
+2026-07-23T10:31:28.005175+00:00,49005787,16,The startup's Postgres survival guide,415,193
+2026-07-23T10:31:28.005175+00:00,49015635,17,Protecting our FLOSS commons from LLMs,67,16
+2026-07-23T10:31:28.005175+00:00,49014007,18,Medici family mystery may be solved after more than 400 years,125,36
+2026-07-23T10:31:28.005175+00:00,48977463,19,Why malloc always does more than I asked for?,38,26
+2026-07-23T10:31:28.005175+00:00,49012070,20,John C. Dvorak has died,761,252
+2026-07-23T10:31:28.005175+00:00,49013538,21,"Malleable Computing, Emacs, and You",112,31
+2026-07-23T10:31:28.005175+00:00,49005973,22,Businesses with ugly AI menu redesigns,307,207
+2026-07-23T10:31:28.005175+00:00,49012777,23,Fairphone 6 wide camera experimental Linux support,125,33
+2026-07-23T10:31:28.005175+00:00,48979000,24,Frequently Asked Questions on Expertise,5,0
+2026-07-23T10:31:28.005175+00:00,48917135,25,Nobody knows what a used GPU cluster is worth,236,214
+2026-07-23T10:31:28.005175+00:00,48931348,26,Computing Camera Rays,5,0
+2026-07-23T10:31:28.005175+00:00,48984534,27,ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS),45,8
+2026-07-23T10:31:28.005175+00:00,49016099,28,Restructuring GitHub's bug bounty program,46,21
+2026-07-23T10:31:28.005175+00:00,49006195,29,Back to Kagi,276,202
+2026-07-23T10:31:28.005175+00:00,49007626,30,Ghost Cut – Or why Cut and Paste is broken everywhere,171,118
+2026-07-23T10:31:28.005175+00:00,49013924,31,All 253 Patterns from Christopher Alexander's a Pattern Language Summarized,75,13
+2026-07-23T10:31:28.005175+00:00,49000864,32,LG to ban residential proxies from smart TV apps,429,438
+2026-07-23T10:31:28.005175+00:00,49008901,33,Launch HN: Unlayer (YC W22) – Add email and document builders to your app,53,34
+2026-07-23T10:31:28.005175+00:00,49015735,34,"Petals: Run LLMs at home, BitTorrent-style",116,35
+2026-07-23T10:31:28.005175+00:00,48975395,35,Taking OCaml and Eio for a Spin,56,6
+2026-07-23T10:31:28.005175+00:00,48969200,36,Introduction to Formal Verification with Lean Part 1,233,51
+2026-07-23T10:31:28.005175+00:00,49015588,37,Codeberg Bans Cryptocurrency Projects,292,466
+2026-07-23T10:31:28.005175+00:00,48958266,38,What Rose Petals Teach Us about Induction,34,6
+2026-07-23T10:31:28.005175+00:00,49013995,39,Any text-to-SQL benchmark should address difficulties of real-world data stores,55,17
+2026-07-23T10:31:28.005175+00:00,49005329,40,"10 REM""_(C2SLFF4",169,47
+2026-07-23T10:31:28.005175+00:00,48961698,41,Intel Starts Shipping High-NA EUV Silicon,242,109
+2026-07-23T10:31:28.005175+00:00,49013036,42,I Inspected My Take-Home Interview Project. It Was a Whole Operation,384,109
+2026-07-23T10:31:28.005175+00:00,49015878,43,"Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",21,0
+2026-07-23T10:31:28.005175+00:00,48945804,44,ScreenWall – Turn old phones into synced widgets for your space,136,50
+2026-07-23T10:31:28.005175+00:00,48997548,45,OpenAI and Hugging Face address security incident during model evaluation,1581,1105
+2026-07-23T10:31:28.005175+00:00,49015866,46,Map of Every Clean Water Act (Npdes) Discharge Violation in the US,14,1
+2026-07-23T10:31:28.005175+00:00,49014779,47,Amorality and greed at Silicon Valley's favourite university,36,5
+2026-07-23T10:31:28.005175+00:00,49013822,48,Men That Don't Fit In (1911),55,23
+2026-07-23T10:31:28.005175+00:00,49008642,49,Does creatine make you smarter?,298,243
+2026-07-23T10:31:28.005175+00:00,49002166,50,Original Apollo 11 Guidance Computer source code for command and lunar modules,180,55
