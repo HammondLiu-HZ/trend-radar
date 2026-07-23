@@ -17809,3 +17809,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-22T22:11:37.149966+00:00,49007249,48,When is NVLink worth it?,46,8
 2026-07-22T22:11:37.149966+00:00,48962282,49,Cornell's Interactive Wall of Birds,93,32
 2026-07-22T22:11:37.149966+00:00,49002166,50,Original Apollo 11 Guidance Computer source code for command and lunar modules,168,51
+2026-07-23T00:08:28.952582+00:00,49007247,1,Quality non-fiction books are the antithesis of AI slop,82,48
+2026-07-23T00:08:28.952582+00:00,49014007,2,Medici family mystery may be solved after more than 400 years,61,12
+2026-07-23T00:08:28.952582+00:00,49010167,3,GigaToken: ~1000x faster Language model tokenization,335,63
+2026-07-23T00:08:28.952582+00:00,49008211,4,Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab),609,143
+2026-07-23T00:08:28.952582+00:00,49013538,5,"Malleable Computing, Emacs, and You",59,7
+2026-07-23T00:08:28.952582+00:00,49010345,6,Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample,545,344
+2026-07-23T00:08:28.952582+00:00,49010129,7,Are AI Labs Pelicanmaxxing?,352,139
+2026-07-23T00:08:28.952582+00:00,49013356,8,Safari Technology Preview 248 Released,66,26
+2026-07-23T00:08:28.952582+00:00,49010782,9,Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong,38,6
+2026-07-23T00:08:28.952582+00:00,49010648,10,Everyone Should Know SIMD,212,67
+2026-07-23T00:08:28.952582+00:00,49012070,11,John C. Dvorak has died,472,153
+2026-07-23T00:08:28.952582+00:00,49013995,12,Any text-to-SQL benchmark should address difficulties of real-world data stores,24,4
+2026-07-23T00:08:28.952582+00:00,49012777,13,Fairphone 6 wide camera experimental Linux support,50,2
+2026-07-23T00:08:28.952582+00:00,48917135,14,Nobody knows what a used GPU cluster is worth,154,136
+2026-07-23T00:08:28.952582+00:00,49008440,15,Making,260,103
+2026-07-23T00:08:28.952582+00:00,49005787,16,The startup's Postgres survival guide,299,163
+2026-07-23T00:08:28.952582+00:00,48967506,17,MemoryPack: Zero encoding extreme performance binary serializer for C#,6,0
+2026-07-23T00:08:28.952582+00:00,49008901,18,Launch HN: Unlayer (YC W22) – Add email and document builders to your app,43,24
+2026-07-23T00:08:28.952582+00:00,49005747,19,So Reddit has decided that plain HTML is unsafe,228,240
+2026-07-23T00:08:28.952582+00:00,49013036,20,I Inspected My Take-Home Interview Project. It Was a Whole Operation,234,53
+2026-07-23T00:08:28.952582+00:00,48971128,21,Nvidia DGX Spark as a daily driver,79,61
+2026-07-23T00:08:28.952582+00:00,49014537,22,Anthropomorphism in Children's Interactions with LLM Chatbots,7,0
+2026-07-23T00:08:28.952582+00:00,49005973,23,Businesses with ugly AI menu redesigns,169,134
+2026-07-23T00:08:28.952582+00:00,49011687,24,"Clarity didn't work, trying mysterianism",7,0
+2026-07-23T00:08:28.952582+00:00,48975395,25,Taking OCaml and Eio for a Spin,28,4
+2026-07-23T00:08:28.952582+00:00,48922144,26,Museum of the Human Web,11,2
+2026-07-23T00:08:28.952582+00:00,49006195,27,Back to Kagi,182,152
+2026-07-23T00:08:28.952582+00:00,49007626,28,Ghost Cut – or why Cut and Paste is broken everywhere,117,83
+2026-07-23T00:08:28.952582+00:00,48950562,29,How we made our LeRobot video reader up to 15× faster,8,0
+2026-07-23T00:08:28.952582+00:00,49014798,30,Why I'm building a note taking app without AI,3,1
+2026-07-23T00:08:28.952582+00:00,48970650,31,Designing a 4D Digital Archive for Ikebana,5,0
+2026-07-23T00:08:28.952582+00:00,49014143,32,Fretboard Memorisation with Modular Arithmetic,7,4
+2026-07-23T00:08:28.952582+00:00,48984489,33,Why do we love music? (2018),15,3
+2026-07-23T00:08:28.952582+00:00,49008538,34,Can a MUD evaluate LLMs? A $99 proof of concept,97,63
+2026-07-23T00:08:28.952582+00:00,49008642,35,Does creatine make you smarter?,259,220
+2026-07-23T00:08:28.952582+00:00,48913145,36,Mechanical light bulb from 1675 [video],76,41
+2026-07-23T00:08:28.952582+00:00,49005329,37,"10 REM""_(C2SLFF4",156,46
+2026-07-23T00:08:28.952582+00:00,49014246,38,Show HN: ValuePair – a friendship app that cares about values first,5,4
+2026-07-23T00:08:28.952582+00:00,49013924,39,All 253 Patterns from Christopher Alexander's a Pattern Language Summarized,6,1
+2026-07-23T00:08:28.952582+00:00,49007671,40,Which streaming service was that on again?,41,61
+2026-07-23T00:08:28.952582+00:00,48969200,41,Introduction to Formal Verification with Lean Part 1,221,46
+2026-07-23T00:08:28.952582+00:00,49007610,42,“We have information that Moonshot distilled Fable for the development of K3”,213,546
+2026-07-23T00:08:28.952582+00:00,49007831,43,Full Scale Foldable Wing Extensions,60,52
+2026-07-23T00:08:28.952582+00:00,49000864,44,LG to ban residential proxies from smart TV apps,392,404
+2026-07-23T00:08:28.952582+00:00,49014479,45,The Human Kintsugi,3,0
+2026-07-23T00:08:28.952582+00:00,49007863,46,Perlin's Noise Algorithm (2023),61,13
+2026-07-23T00:08:28.952582+00:00,48980286,47,Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL,44,22
+2026-07-23T00:08:28.952582+00:00,48961698,48,Intel Starts Shipping High-NA EUV Silicon,233,106
+2026-07-23T00:08:28.952582+00:00,49013958,49,bundlephobia,4,0
+2026-07-23T00:08:28.952582+00:00,49014398,50,Type-Aware Linting Stable,4,0
