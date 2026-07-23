@@ -18259,3 +18259,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-23T21:14:25.541605+00:00,49027985,48,Stripe in talks to buy OpenRouter for ~10B,4,0
 2026-07-23T21:14:25.541605+00:00,49010345,49,Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample,1074,609
 2026-07-23T21:14:25.541605+00:00,49026276,50,Waymo's driverless cars crash less often than people,17,14
+2026-07-23T23:04:31.736615+00:00,49027892,1,Couple pay >$800k for a gene-editing therapy for their daughter. She died.,199,94
+2026-07-23T23:04:31.736615+00:00,49022152,2,Writing by hand is good for your brain,863,434
+2026-07-23T23:04:31.736615+00:00,49026810,3,Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models,169,82
+2026-07-23T23:04:31.736615+00:00,49028037,4,Namecheap Gave My Account to an Unverified Third Party Just Because They Asked,257,83
+2026-07-23T23:04:31.736615+00:00,49007221,5,The Beam Engine,85,34
+2026-07-23T23:04:31.736615+00:00,49024691,6,What happened to TheNumbers.com,245,116
+2026-07-23T23:04:31.736615+00:00,49023016,7,Startup founders urge U.S. government not to shut off Chinese open weight AI,645,598
+2026-07-23T23:04:31.736615+00:00,49025984,8,Building on ATProto,110,50
+2026-07-23T23:04:31.736615+00:00,49022038,9,Software rendering in 500 lines of bare C++,222,40
+2026-07-23T23:04:31.736615+00:00,49022634,10,"Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",163,90
+2026-07-23T23:04:31.736615+00:00,49025831,11,A solid-state “atomic channel” for separating rare earth elements,60,11
+2026-07-23T23:04:31.736615+00:00,49022911,12,Show HN: Palmier Pro – Open-source macOS video editor built for AI,105,17
+2026-07-23T23:04:31.736615+00:00,49021783,13,Astronomers may have found the first exomoon,188,73
+2026-07-23T23:04:31.736615+00:00,49021597,14,"DARPA, U.S. Air Force fly AI-controlled F-16",151,166
+2026-07-23T23:04:31.736615+00:00,48984760,15,Converting Files into Minecraft Worlds,42,10
+2026-07-23T23:04:31.736615+00:00,49024620,16,Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents,50,49
+2026-07-23T23:04:31.736615+00:00,49025812,17,Geekbench 7,44,31
+2026-07-23T23:04:31.736615+00:00,48952392,18,Interview with Matheus Moreira about Lone Lisp and Linux Kernel,16,5
+2026-07-23T23:04:31.736615+00:00,49024643,19,The arguments against open source AI are bad,167,120
+2026-07-23T23:04:31.736615+00:00,49028922,20,Building watchable digital twins of 64 World Cup games,3,0
+2026-07-23T23:04:31.736615+00:00,49007574,21,"Show HN: Trifle – Open-source analytics that stores answers, not events",33,3
+2026-07-23T23:04:31.736615+00:00,49022663,22,Learn WebGPU for C++,76,10
+2026-07-23T23:04:31.736615+00:00,48989065,23,Escape Analysis in Go: Stack vs. Heap Allocations Explained,24,5
+2026-07-23T23:04:31.736615+00:00,49023809,24,JEP 540: Simple JSON API (Now in Incubator),89,66
+2026-07-23T23:04:31.736615+00:00,49022137,25,Fields Medals 2026,115,52
+2026-07-23T23:04:31.736615+00:00,48978989,26,Meta Garbage Collection: Using OCaml's GC to GC Rust,38,0
+2026-07-23T23:04:31.736615+00:00,48984312,27,Hitchcock and Herrmann: The Friendship and Film Scores That Changed Cinema,8,1
+2026-07-23T23:04:31.736615+00:00,49020999,28,AI Companies Are Trying to Hide a Staggering Amount of Debt,561,272
+2026-07-23T23:04:31.736615+00:00,49023427,29,Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents,68,26
+2026-07-23T23:04:31.736615+00:00,49021786,30,Emacs Is a Lispboard,88,36
+2026-07-23T23:04:31.736615+00:00,49015639,31,OpenAI’s accidental attack against Hugging Face is science fiction that happened,349,288
+2026-07-23T23:04:31.736615+00:00,48968010,32,OpenStreetMap: Admin_level for All Countries,91,22
+2026-07-23T23:04:31.736615+00:00,49022284,33,Show HN: Remux – an open-source tmux workspace designed for iPhone,80,29
+2026-07-23T23:04:31.736615+00:00,49023486,34,Free way to get your data out of ChatGPT Business accounts,73,7
+2026-07-23T23:04:31.736615+00:00,49028306,35,Show HN: Connecting my dumb garage and car's homelink buttons to Home Assistant,3,0
+2026-07-23T23:04:31.736615+00:00,49021868,36,Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency,80,76
+2026-07-23T23:04:31.736615+00:00,49026482,37,"Selfie for sign-in: a new, easy way to access your Google Account",61,57
+2026-07-23T23:04:31.736615+00:00,49022371,38,Show HN: Whetuu – a zero-config cross-shell prompt written in Zig,44,27
+2026-07-23T23:04:31.736615+00:00,49021569,39,What happens when the information runs out,62,23
+2026-07-23T23:04:31.736615+00:00,49027985,40,Stripe in talks to buy OpenRouter for ~10B,31,5
+2026-07-23T23:04:31.736615+00:00,49022668,41,"Encryption and Globalization 15 Years Later: E2EE and the ""Going Dark"" Debate",46,17
+2026-07-23T23:04:31.736615+00:00,49023019,42,Why Software Factories Fail (or: harness engineering is not enough),136,124
+2026-07-23T23:04:31.736615+00:00,48945139,43,Scanning for Pangram Errors,70,39
+2026-07-23T23:04:31.736615+00:00,48995712,44,The Unity CLI: manage Unity from your terminal,82,27
+2026-07-23T23:04:31.736615+00:00,49026059,45,From Evaluation to Guardrails: What We Brought to ACM FAccT 2026,10,0
+2026-07-23T23:04:31.736615+00:00,49021647,46,Brow6el: A full-featured web browser for the terminal using Chromium,42,17
+2026-07-23T23:04:31.736615+00:00,49028235,47,FDA reports new outbreak of explosive diarrhea with 72 cases identified,13,2
+2026-07-23T23:04:31.736615+00:00,49025754,48,"AI bet goes awry: Oracle fires 21,000 employees",60,8
+2026-07-23T23:04:31.736615+00:00,49024882,49,Show HN: Claude-thermos – keeps your Claude session warm for you,51,44
+2026-07-23T23:04:31.736615+00:00,49017344,50,"Cruller: Bun's Zig Runtime, Continued on Zig 0.16",149,110
