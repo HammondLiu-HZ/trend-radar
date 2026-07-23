@@ -17859,3 +17859,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-23T00:08:28.952582+00:00,48961698,48,Intel Starts Shipping High-NA EUV Silicon,233,106
 2026-07-23T00:08:28.952582+00:00,49013958,49,bundlephobia,4,0
 2026-07-23T00:08:28.952582+00:00,49014398,50,Type-Aware Linting Stable,4,0
+2026-07-23T04:21:51.027417+00:00,49010345,1,Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample,696,409
+2026-07-23T04:21:51.027417+00:00,49007247,2,Quality non-fiction books are the antithesis of AI slop,225,92
+2026-07-23T04:21:51.027417+00:00,48991882,3,git's –end-of-options Flag,18,0
+2026-07-23T04:21:51.027417+00:00,49010167,4,GigaToken: ~1000x faster Language model tokenization,408,81
+2026-07-23T04:21:51.027417+00:00,49008211,5,Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab),709,160
+2026-07-23T04:21:51.027417+00:00,49014007,6,Medici family mystery may be solved after more than 400 years,96,23
+2026-07-23T04:21:51.027417+00:00,49010648,7,Everyone should know SIMD,310,97
+2026-07-23T04:21:51.027417+00:00,49010129,8,Are AI labs pelicanmaxxing?,426,164
+2026-07-23T04:21:51.027417+00:00,48984534,9,ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS),14,2
+2026-07-23T04:21:51.027417+00:00,49016099,10,Restructuring GitHub's bug bounty program,16,8
+2026-07-23T04:21:51.027417+00:00,49010782,11,Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong,91,14
+2026-07-23T04:21:51.027417+00:00,49012070,12,John C. Dvorak has died,637,205
+2026-07-23T04:21:51.027417+00:00,49013538,13,"Malleable Computing, Emacs, and You",82,23
+2026-07-23T04:21:51.027417+00:00,49015735,14,"Petals: Run LLMs at home, BitTorrent-style",76,25
+2026-07-23T04:21:51.027417+00:00,49008440,15,Making,306,117
+2026-07-23T04:21:51.027417+00:00,49005747,16,So Reddit has decided that plain HTML is unsafe,330,334
+2026-07-23T04:21:51.027417+00:00,49012777,17,Fairphone 6 wide camera experimental Linux support,88,10
+2026-07-23T04:21:51.027417+00:00,49005787,18,The startup's Postgres survival guide,344,175
+2026-07-23T04:21:51.027417+00:00,49015588,19,Codeberg Bans Cryptocurrency Projects,166,206
+2026-07-23T04:21:51.027417+00:00,48917135,20,Nobody knows what a used GPU cluster is worth,193,176
+2026-07-23T04:21:51.027417+00:00,48958266,21,What Rose Petals Teach Us about Induction,27,2
+2026-07-23T04:21:51.027417+00:00,49013995,22,Any text-to-SQL benchmark should address difficulties of real-world data stores,42,13
+2026-07-23T04:21:51.027417+00:00,49005973,23,Businesses with ugly AI menu redesigns,211,160
+2026-07-23T04:21:51.027417+00:00,49011687,24,"Clarity didn't work, trying mysterianism (2012)",54,15
+2026-07-23T04:21:51.027417+00:00,49008901,25,Launch HN: Unlayer (YC W22) – Add email and document builders to your app,47,33
+2026-07-23T04:21:51.027417+00:00,49006195,26,Back to Kagi,222,171
+2026-07-23T04:21:51.027417+00:00,49007626,27,Ghost Cut – or why Cut and Paste is broken everywhere,141,95
+2026-07-23T04:21:51.027417+00:00,48975395,28,Taking OCaml and Eio for a Spin,44,6
+2026-07-23T04:21:51.027417+00:00,49013036,29,I Inspected My Take-Home Interview Project. It Was a Whole Operation,316,85
+2026-07-23T04:21:51.027417+00:00,49013924,30,All 253 Patterns from Christopher Alexander's a Pattern Language Summarized,37,3
+2026-07-23T04:21:51.027417+00:00,49015878,31,"Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",6,0
+2026-07-23T04:21:51.027417+00:00,48967506,32,MemoryPack: Zero encoding extreme performance binary serializer for C#,24,3
+2026-07-23T04:21:51.027417+00:00,49014537,33,Anthropomorphism in Children's Interactions with LLM Chatbots,28,22
+2026-07-23T04:21:51.027417+00:00,49000864,34,LG to ban residential proxies from smart TV apps,410,416
+2026-07-23T04:21:51.027417+00:00,48950562,35,How we made our LeRobot video reader up to 15× faster,19,0
+2026-07-23T04:21:51.027417+00:00,49015534,36,Mage-Flow: Efficient Native-Resolution Foundation Model for Image Generation,6,1
+2026-07-23T04:21:51.027417+00:00,48969200,37,Introduction to Formal Verification with Lean Part 1,227,49
+2026-07-23T04:21:51.027417+00:00,49005329,38,"10 REM""_(C2SLFF4",163,47
+2026-07-23T04:21:51.027417+00:00,49015639,39,OpenAI’s accidental attack against Hugging Face is science fiction that happened,67,58
+2026-07-23T04:21:51.027417+00:00,49013356,40,Safari Technology Preview 248 Released,87,65
+2026-07-23T04:21:51.027417+00:00,49013822,41,Men That Don't Fit In (1911),37,17
+2026-07-23T04:21:51.027417+00:00,48922144,42,Museum of the Human Web,19,4
+2026-07-23T04:21:51.027417+00:00,48961698,43,Intel Starts Shipping High-NA EUV Silicon,236,108
+2026-07-23T04:21:51.027417+00:00,49008642,44,Does creatine make you smarter?,278,231
+2026-07-23T04:21:51.027417+00:00,49014779,45,Amorality and greed at Silicon Valley's favourite university,19,1
+2026-07-23T04:21:51.027417+00:00,49007610,46,“We have information that Moonshot distilled Fable for the development of K3”,226,589
+2026-07-23T04:21:51.027417+00:00,48945804,47,ScreenWall – Turn old phones into synced widgets for your space,130,49
+2026-07-23T04:21:51.027417+00:00,49015866,48,Map of Every Clean Water Act (Npdes) Discharge Violation in the US,6,1
+2026-07-23T04:21:51.027417+00:00,49015852,49,"Show HN: AgentNest, self-hosted sandboxes for AI agents",6,2
+2026-07-23T04:21:51.027417+00:00,49007671,50,Which streaming service was that on again?,45,70
