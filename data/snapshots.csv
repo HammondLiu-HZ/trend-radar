@@ -18059,3 +18059,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-23T12:44:25.418436+00:00,48958266,48,What Rose Petals Teach Us about Induction,37,6
 2026-07-23T12:44:25.418436+00:00,49013036,49,I Inspected My Take-Home Interview Project. It Was a Whole Operation,400,110
 2026-07-23T12:44:25.418436+00:00,49013995,50,Any text-to-SQL benchmark should address difficulties of real-world data stores,56,20
+2026-07-23T15:17:48.126067+00:00,49021783,1,Astronomers may have found the first exomoon,81,36
+2026-07-23T15:17:48.126067+00:00,49021571,2,Private healthcare makes industries less innovative. It's time for change,95,60
+2026-07-23T15:17:48.126067+00:00,49022038,3,Software rendering in 500 lines of bare C++,31,7
+2026-07-23T15:17:48.126067+00:00,49020999,4,AI Companies Are Trying to Hide a Staggering Amount of Debt,185,88
+2026-07-23T15:17:48.126067+00:00,49022152,5,Writing by Hand is Good for your Brain,49,2
+2026-07-23T15:17:48.126067+00:00,48945139,6,Scanning for Pangram Errors,40,24
+2026-07-23T15:17:48.126067+00:00,49010345,7,Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample,1024,587
+2026-07-23T15:17:48.126067+00:00,48986223,8,The Telegarden (1995-2004),15,2
+2026-07-23T15:17:48.126067+00:00,49017344,9,"Cruller: Bun's Zig Runtime, Continued on Zig 0.16",125,86
+2026-07-23T15:17:48.126067+00:00,48995712,10,The Unity CLI: manage Unity from your terminal,52,15
+2026-07-23T15:17:48.126067+00:00,49007247,11,Quality non-fiction books are the antithesis of AI slop,454,220
+2026-07-23T15:17:48.126067+00:00,49010648,12,Everyone should know SIMD,555,203
+2026-07-23T15:17:48.126067+00:00,49008211,13,Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab),944,217
+2026-07-23T15:17:48.126067+00:00,49021006,14,Alphabet's cash burn raises alarm for Big Tech as AI spending climbs,191,184
+2026-07-23T15:17:48.126067+00:00,49010167,15,GigaToken: ~1000x faster Language model tokenization,584,116
+2026-07-23T15:17:48.126067+00:00,48990219,16,Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot,118,96
+2026-07-23T15:17:48.126067+00:00,49010129,17,Are AI labs pelicanmaxxing?,635,237
+2026-07-23T15:17:48.126067+00:00,48968010,18,OpenStreetMap: Admin_level for All Countries,4,0
+2026-07-23T15:17:48.126067+00:00,49015635,19,Protecting our FLOSS commons from LLMs,155,97
+2026-07-23T15:17:48.126067+00:00,48989006,20,"ANSI escape injection in MCP servers: Hidden from humans, visible to AI",42,23
+2026-07-23T15:17:48.126067+00:00,48928909,21,Test-time training 3D reconstruction,22,2
+2026-07-23T15:17:48.126067+00:00,49008440,22,Making,417,169
+2026-07-23T15:17:48.126067+00:00,49021856,23,I Regret Migrating to Codeberg,49,28
+2026-07-23T15:17:48.126067+00:00,49005787,24,The startup's Postgres survival guide,478,206
+2026-07-23T15:17:48.126067+00:00,49017265,25,Amiga 1000: Ten years ahead of its time,139,125
+2026-07-23T15:17:48.126067+00:00,48979000,26,Frequently Asked Questions on Expertise,30,3
+2026-07-23T15:17:48.126067+00:00,49010782,27,Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong,170,37
+2026-07-23T15:17:48.126067+00:00,49012070,28,John C. Dvorak has died,867,287
+2026-07-23T15:17:48.126067+00:00,48983076,29,Making ASCII Art in Vim,105,14
+2026-07-23T15:17:48.126067+00:00,49013538,30,"Malleable Computing, Emacs, and You",137,41
+2026-07-23T15:17:48.126067+00:00,49005973,31,Businesses with ugly AI menu redesigns,354,278
+2026-07-23T15:17:48.126067+00:00,48917135,32,Nobody knows what a used GPU cluster is worth,268,240
+2026-07-23T15:17:48.126067+00:00,49014007,33,Medici family mystery may be solved after more than 400 years,142,45
+2026-07-23T15:17:48.126067+00:00,49012777,34,Fairphone 6 wide camera experimental Linux support,147,53
+2026-07-23T15:17:48.126067+00:00,48991882,35,git's –end-of-options Flag,176,111
+2026-07-23T15:17:48.126067+00:00,49006195,36,Back to Kagi,302,232
+2026-07-23T15:17:48.126067+00:00,49020868,37,OpenAI and Anthropic unite against open-weight AI risks to their bottom line,225,262
+2026-07-23T15:17:48.126067+00:00,49000864,38,LG to ban residential proxies from smart TV apps,448,468
+2026-07-23T15:17:48.126067+00:00,49007626,39,Ghost Cut – Or why Cut and Paste is broken everywhere,183,129
+2026-07-23T15:17:48.126067+00:00,49019220,40,EU fines Google €890M for competition breaches over search and apps,143,152
+2026-07-23T15:17:48.126067+00:00,48984534,41,ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS),54,10
+2026-07-23T15:17:48.126067+00:00,49013924,42,All 253 Patterns from Christopher Alexander's a Pattern Language Summarized,89,16
+2026-07-23T15:17:48.126067+00:00,49016099,43,Restructuring GitHub's bug bounty program,51,33
+2026-07-23T15:17:48.126067+00:00,49005747,44,So Reddit has decided that plain HTML is unsafe,567,580
+2026-07-23T15:17:48.126067+00:00,48969200,45,Introduction to Formal Verification with Lean Part 1,234,51
+2026-07-23T15:17:48.126067+00:00,49008901,46,Launch HN: Unlayer (YC W22) – Add email and document builders to your app,54,38
+2026-07-23T15:17:48.126067+00:00,49019958,47,Publishers consider opting out of Google as search traffic declines,26,17
+2026-07-23T15:17:48.126067+00:00,48961698,48,Intel Starts Shipping High-NA EUV Silicon,243,111
+2026-07-23T15:17:48.126067+00:00,48997548,49,OpenAI and Hugging Face address security incident during model evaluation,1593,1121
+2026-07-23T15:17:48.126067+00:00,49005329,50,"10 REM""_(C2SLFF4",173,50
