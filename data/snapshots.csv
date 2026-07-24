@@ -18509,3 +18509,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-24T11:48:13.544479+00:00,49029538,48,The Visual 6502,98,22
 2026-07-24T11:48:13.544479+00:00,49022663,49,Learn WebGPU for C++,103,13
 2026-07-24T11:48:13.544479+00:00,48973071,50,Freeze-Casting,27,6
+2026-07-24T14:02:03.594961+00:00,49034292,1,My security camera shipped a GitHub admin token in its login page,53,15
+2026-07-24T14:02:03.594961+00:00,49033127,2,Flux 3 X Mimic: The Next Generation of Video-Action Models,201,26
+2026-07-24T14:02:03.594961+00:00,49032660,3,It's getting harder to focus every day,318,160
+2026-07-24T14:02:03.594961+00:00,49031796,4,Flux 3,428,110
+2026-07-24T14:02:03.594961+00:00,48973835,5,India's first privately-developed rocket reaches orbit on dramatic debut launch,47,5
+2026-07-24T14:02:03.594961+00:00,49033240,6,IRGC Claims It Destroyed Amazon's Bahrain Data Center,53,20
+2026-07-24T14:02:03.594961+00:00,49034948,7,Patreon laying off 20% of staff,91,112
+2026-07-24T14:02:03.594961+00:00,49033099,8,"Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",108,73
+2026-07-24T14:02:03.594961+00:00,49033916,9,"The IBM PC, Part 1: Arrival",27,6
+2026-07-24T14:02:03.594961+00:00,49033004,10,Nothing works and everyone is euphoric,190,147
+2026-07-24T14:02:03.594961+00:00,49034673,11,Programming language file extensions that match ISO 3166-1 alpha-2 country code,17,6
+2026-07-24T14:02:03.594961+00:00,49031409,12,Claude Cookbook,168,82
+2026-07-24T14:02:03.594961+00:00,49034468,13,"Why is programming so captivating, yet so agonizing?",15,7
+2026-07-24T14:02:03.594961+00:00,49033412,14,Game of Trees – Git-based version control from OpenBSD folks,26,1
+2026-07-24T14:02:03.594961+00:00,48996119,15,"Computational chemistry, Locally? My rant on SSH",27,16
+2026-07-24T14:02:03.594961+00:00,49026810,16,Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models,421,203
+2026-07-24T14:02:03.594961+00:00,49033388,17,How Do We Stop Vibe Coding?,18,15
+2026-07-24T14:02:03.594961+00:00,49034747,18,Em dashes are fucking amazing,67,63
+2026-07-24T14:02:03.594961+00:00,49001498,19,Tangleflow: Converts GitHub Actions workflows to tangled workflows and back,18,7
+2026-07-24T14:02:03.594961+00:00,48991320,20,The story behind APC-2,5,0
+2026-07-24T14:02:03.594961+00:00,49034342,21,I Tried Building a Real App with AI. It Took a Year,52,45
+2026-07-24T14:02:03.594961+00:00,49032756,22,The Book Prize Index,38,3
+2026-07-24T14:02:03.594961+00:00,49032072,23,AMD's Instinct MI455X: Aiming for the Sun,46,23
+2026-07-24T14:02:03.594961+00:00,49022152,24,Writing by hand is good for your brain,1374,624
+2026-07-24T14:02:03.594961+00:00,49035314,25,"Oracle fires 21,000 employees to fund AI spending",11,2
+2026-07-24T14:02:03.594961+00:00,49033087,26,Hetzner is working on LLM Inference,94,42
+2026-07-24T14:02:03.594961+00:00,49033001,27,The day Steve Jobs dissed me in a keynote (2010),152,38
+2026-07-24T14:02:03.594961+00:00,49023016,28,Startup founders urge U.S. government not to shut off Chinese open weight AI,1008,815
+2026-07-24T14:02:03.594961+00:00,49021856,29,I regret migrating to Codeberg,412,321
+2026-07-24T14:02:03.594961+00:00,49024691,30,What happened to TheNumbers.com,395,186
+2026-07-24T14:02:03.594961+00:00,49023019,31,Why Software Factories Fail (or: harness engineering is not enough),353,252
+2026-07-24T14:02:03.594961+00:00,49025766,32,Why Sony can't bring back its classic Walkman models,174,173
+2026-07-24T14:02:03.594961+00:00,48959008,33,What else do people draw on gradient.horse?,155,34
+2026-07-24T14:02:03.594961+00:00,49033302,34,"Show HN: Audio Player with ""Binaural Beats"" tuned to the same key as your music",11,1
+2026-07-24T14:02:03.594961+00:00,49035303,35,Microsoft – Open Weights and American AI Leadership,9,0
+2026-07-24T14:02:03.594961+00:00,49022137,36,Fields Medals 2026,200,97
+2026-07-24T14:02:03.594961+00:00,49022911,37,Show HN: Palmier Pro – Open-source macOS video editor built for AI,178,26
+2026-07-24T14:02:03.594961+00:00,49028927,38,98.css,506,113
+2026-07-24T14:02:03.594961+00:00,49034864,39,The Collapse at Netflix Signals the End of Audience Capture,9,6
+2026-07-24T14:02:03.594961+00:00,49034860,40,Controlled Burns Have Saved Giant Sequoias,7,0
+2026-07-24T14:02:03.594961+00:00,49007221,41,The Beam Engine,446,91
+2026-07-24T14:02:03.594961+00:00,48986703,42,Quickly rewrite Git repository history,57,10
+2026-07-24T14:02:03.594961+00:00,49034231,43,AWS us-west-2 connectivity issues affecting multiple services,13,1
+2026-07-24T14:02:03.594961+00:00,48982321,44,I could do that in a weekend (2016),15,2
+2026-07-24T14:02:03.594961+00:00,49024620,45,Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents,79,60
+2026-07-24T14:02:03.594961+00:00,49025984,46,Building on ATProto,172,85
+2026-07-24T14:02:03.594961+00:00,49034217,47,The case for MUDs in modern times,48,41
+2026-07-24T14:02:03.594961+00:00,48984715,48,Projects every RC live races and results,19,0
+2026-07-24T14:02:03.594961+00:00,49027052,49,Mourning Dan Williams,84,1
+2026-07-24T14:02:03.594961+00:00,49034854,50,Why hasn't AI increased unemployment?,7,8
