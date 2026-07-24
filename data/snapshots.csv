@@ -18409,3 +18409,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-24T06:34:06.364945+00:00,49026482,48,Introducing selfie for sign-in: a new way to access your Google Account,100,79
 2026-07-24T06:34:06.364945+00:00,49031416,49,Tech workers fear they're sinking fast,5,3
 2026-07-24T06:34:06.364945+00:00,49028922,50,Building watchable digital twins of 64 World Cup games,20,4
+2026-07-24T09:26:49.574438+00:00,49031796,1,Flux 3,225,54
+2026-07-24T09:26:49.574438+00:00,49032095,2,The PImpl idiom and the C++26 std:indirect type,40,36
+2026-07-24T09:26:49.574438+00:00,49022152,3,Writing by hand is good for your brain,1299,586
+2026-07-24T09:26:49.574438+00:00,49023016,4,Startup founders urge U.S. government not to shut off Chinese open weight AI,927,768
+2026-07-24T09:26:49.574438+00:00,49026810,5,Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models,379,179
+2026-07-24T09:26:49.574438+00:00,49007221,6,The Beam Engine,378,74
+2026-07-24T09:26:49.574438+00:00,49031409,7,Claude Cookbook,39,4
+2026-07-24T09:26:49.574438+00:00,49024691,8,What happened to TheNumbers.com,370,167
+2026-07-24T09:26:49.574438+00:00,49023019,9,Why Software Factories Fail (or: harness engineering is not enough),314,227
+2026-07-24T09:26:49.574438+00:00,48959008,10,What else do people draw on gradient.horse?,133,22
+2026-07-24T09:26:49.574438+00:00,49022634,11,"Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",243,119
+2026-07-24T09:26:49.574438+00:00,48984715,12,Projects every RC live races and results,10,0
+2026-07-24T09:26:49.574438+00:00,49021856,13,I regret migrating to Codeberg,289,184
+2026-07-24T09:26:49.574438+00:00,48986703,14,Quickly rewrite Git repository history,41,1
+2026-07-24T09:26:49.574438+00:00,49025766,15,Why Sony can't bring back its classic Walkman models,122,133
+2026-07-24T09:26:49.574438+00:00,49022038,16,Software rendering in 500 lines of bare C++,283,64
+2026-07-24T09:26:49.574438+00:00,49021597,17,"DARPA, U.S. Air Force fly AI-controlled F-16",241,270
+2026-07-24T09:26:49.574438+00:00,49028927,18,98.css,470,108
+2026-07-24T09:26:49.574438+00:00,49022911,19,Show HN: Palmier Pro – Open-source macOS video editor built for AI,155,25
+2026-07-24T09:26:49.574438+00:00,49025984,20,Building on ATProto,158,80
+2026-07-24T09:26:49.574438+00:00,49015639,21,OpenAI’s accidental attack against Hugging Face is science fiction that happened,518,397
+2026-07-24T09:26:49.574438+00:00,49021783,22,Astronomers may have found the first exomoon,219,82
+2026-07-24T09:26:49.574438+00:00,49022137,23,Fields Medals 2026,177,90
+2026-07-24T09:26:49.574438+00:00,49024620,24,Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents,74,53
+2026-07-24T09:26:49.574438+00:00,48988651,25,Modula-3 History Collection on Computer History Museum,25,4
+2026-07-24T09:26:49.574438+00:00,49024643,26,The arguments against open source AI are bad,274,190
+2026-07-24T09:26:49.574438+00:00,49025831,27,A solid-state “atomic channel” for separating rare earth elements,90,25
+2026-07-24T09:26:49.574438+00:00,49027052,28,Mourning Dan Williams,71,1
+2026-07-24T09:26:49.574438+00:00,49029538,29,The Visual 6502,95,22
+2026-07-24T09:26:49.574438+00:00,49023427,30,Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents,97,30
+2026-07-24T09:26:49.574438+00:00,48973071,31,Freeze-Casting,26,5
+2026-07-24T09:26:49.574438+00:00,49023809,32,JEP 540: Simple JSON API (Now in Incubator),99,73
+2026-07-24T09:26:49.574438+00:00,49033001,33,The day Steve Jobs dissed me in a keynote (2010),4,0
+2026-07-24T09:26:49.574438+00:00,49022663,34,Learn WebGPU for C++,100,13
+2026-07-24T09:26:49.574438+00:00,49027892,35,Couple pay >$800k for a gene-editing therapy for their daughter. She died.,329,201
+2026-07-24T09:26:49.574438+00:00,49020999,36,AI Companies Are Trying to Hide a Staggering Amount of Debt,648,342
+2026-07-24T09:26:49.574438+00:00,48978989,37,Meta Garbage Collection: Using OCaml's GC to GC Rust,71,1
+2026-07-24T09:26:49.574438+00:00,49024882,38,Show HN: Claude-thermos keeps your Claude session warm for you,99,81
+2026-07-24T09:26:49.574438+00:00,48989145,39,Visualizing the Artemis II Mission,5,0
+2026-07-24T09:26:49.574438+00:00,49021786,40,Emacs Is a Lispboard,107,54
+2026-07-24T09:26:49.574438+00:00,49025812,41,Geekbench 7,59,47
+2026-07-24T09:26:49.574438+00:00,49030100,42,Show HN: A factory simulator game built on Spreadsheets,14,2
+2026-07-24T09:26:49.574438+00:00,49007574,43,"Show HN: Trifle – Open-source analytics that stores answers, not events",45,11
+2026-07-24T09:26:49.574438+00:00,48984760,44,Converting Files into Minecraft Worlds,63,18
+2026-07-24T09:26:49.574438+00:00,49022284,45,Show HN: Remux – an open-source tmux workspace designed for iPhone,92,31
+2026-07-24T09:26:49.574438+00:00,49024938,46,Kimi K3 exploited the latest Redis server,59,10
+2026-07-24T09:26:49.574438+00:00,49030117,47,Technology is a slippery slope to the bottom,15,1
+2026-07-24T09:26:49.574438+00:00,48989065,48,Escape Analysis in Go: Stack vs. Heap Allocations Explained,42,7
+2026-07-24T09:26:49.574438+00:00,49026669,49,Don't put your name to bot-written content,30,6
+2026-07-24T09:26:49.574438+00:00,49010345,50,Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample,1100,628
