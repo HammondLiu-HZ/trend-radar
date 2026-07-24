@@ -18709,3 +18709,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-24T20:25:36.565484+00:00,49039831,48,"SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",18,19
 2026-07-24T20:25:36.565484+00:00,49033412,49,Game of Trees – Git-based version control from OpenBSD folks,57,12
 2026-07-24T20:25:36.565484+00:00,49021856,50,I regret migrating to Codeberg,491,483
+2026-07-24T22:12:01.113709+00:00,49038433,1,Claude Opus 5,1102,588
+2026-07-24T22:12:01.113709+00:00,49040296,2,Postgres LISTEN/NOTIFY actually scales,126,23
+2026-07-24T22:12:01.113709+00:00,49034292,3,My security camera shipped a GitHub admin token in its login page,460,162
+2026-07-24T22:12:01.113709+00:00,48973835,4,India's first privately-developed rocket reaches orbit on debut launch,418,131
+2026-07-24T22:12:01.113709+00:00,49035303,5,"Nvidia, Microsoft, Meta warn against overregulating open-weight models",404,199
+2026-07-24T22:12:01.113709+00:00,48985182,6,Designing an Ethernet Switch ASIC,35,5
+2026-07-24T22:12:01.113709+00:00,49026933,7,"Fil-C: Garbage In, Memory Safety Out [video]",76,62
+2026-07-24T22:12:01.113709+00:00,49039395,8,Gsxui – Shadcn-style components for Go,45,4
+2026-07-24T22:12:01.113709+00:00,49008512,9,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",74,20
+2026-07-24T22:12:01.113709+00:00,48997998,10,The Secret Origins of Amazon's Alexa,20,2
+2026-07-24T22:12:01.113709+00:00,49034868,11,Half-Life 2 running natively on HaikuOS,237,42
+2026-07-24T22:12:01.113709+00:00,49020545,12,Show HN: I simulated closing the Strait of Hormuz on real oil trade data,14,5
+2026-07-24T22:12:01.113709+00:00,49004464,13,Marimo now runs in PyCharm,46,8
+2026-07-24T22:12:01.113709+00:00,49033004,14,"If coding has been solved, why does software keep getting worse?",359,300
+2026-07-24T22:12:01.113709+00:00,49024938,15,Kimi K3 exploited the latest Redis server,89,23
+2026-07-24T22:12:01.113709+00:00,48995409,16,Firefox Containers Preview,170,65
+2026-07-24T22:12:01.113709+00:00,49038045,17,Unitree As2-W,75,33
+2026-07-24T22:12:01.113709+00:00,49038060,18,Be skeptical of OpenAI's rogue hacker agent story,346,183
+2026-07-24T22:12:01.113709+00:00,49036086,19,Preventing line breaks in <code> elements,11,18
+2026-07-24T22:12:01.113709+00:00,49034673,20,Programming language file extensions that match ISO 3166-1 alpha-2 country codes,27,14
+2026-07-24T22:12:01.113709+00:00,48987422,21,So Bright the Vision (1956) – a story about machines writing instead of humans [pdf],13,1
+2026-07-24T22:12:01.113709+00:00,49039448,22,I got into YC Startup School by hacking it,83,55
+2026-07-24T22:12:01.113709+00:00,48977849,23,The footprints of every building in NYC,31,3
+2026-07-24T22:12:01.113709+00:00,49038298,24,Don't Take the Black Pill [video],84,51
+2026-07-24T22:12:01.113709+00:00,49036433,25,Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey,320,239
+2026-07-24T22:12:01.113709+00:00,49033127,26,Flux 3 X Mimic: The Next Generation of Video-Action Models,300,47
+2026-07-24T22:12:01.113709+00:00,48978942,27,Visualizing the Artemis II Mission,5,0
+2026-07-24T22:12:01.113709+00:00,49020751,28,Self-host your mail server,83,80
+2026-07-24T22:12:01.113709+00:00,48984312,29,Hitchcock and Herrmann: The friendship and film scores that changed cinema,15,0
+2026-07-24T22:12:01.113709+00:00,49033240,30,IRGC claims it destroyed Amazon's Bahrain data center,206,260
+2026-07-24T22:12:01.113709+00:00,49033110,31,Future euro banknote design proposals,94,97
+2026-07-24T22:12:01.113709+00:00,49032126,32,The hardest way to make a GIF,40,11
+2026-07-24T22:12:01.113709+00:00,49031796,33,Flux 3,546,128
+2026-07-24T22:12:01.113709+00:00,49038977,34,"The small, real, original web",38,16
+2026-07-24T22:12:01.113709+00:00,49034217,35,The case for MUDs in modern times (2018),62,61
+2026-07-24T22:12:01.113709+00:00,49041546,36,Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live,6,0
+2026-07-24T22:12:01.113709+00:00,48974056,37,"The Brick Game, Through the Ages",5,0
+2026-07-24T22:12:01.113709+00:00,49037031,38,"The front end framework for correctness: built on Effect, architected like Elm",75,41
+2026-07-24T22:12:01.113709+00:00,48977014,39,Reporting Web 3D Capabilities on a Budget of $3 a Month,10,0
+2026-07-24T22:12:01.113709+00:00,49038481,40,DuckPGQ – A DuckDB community extension for graph workloads,38,6
+2026-07-24T22:12:01.113709+00:00,48998589,41,Extending Polars with Rust Expression Plugins,46,0
+2026-07-24T22:12:01.113709+00:00,49033099,42,"Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",217,153
+2026-07-24T22:12:01.113709+00:00,49040741,43,Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard,9,4
+2026-07-24T22:12:01.113709+00:00,49038059,44,Proving a human wrote something,43,54
+2026-07-24T22:12:01.113709+00:00,49040989,45,What if we made advertising illegal?,38,28
+2026-07-24T22:12:01.113709+00:00,49034747,46,Em dashes are amazing,315,272
+2026-07-24T22:12:01.113709+00:00,49039490,47,BGP ORIGIN attribute manipulation and its impact on the Internet,24,7
+2026-07-24T22:12:01.113709+00:00,49036765,48,Codeberg Divides,103,147
+2026-07-24T22:12:01.113709+00:00,49038181,49,The rise and fall of language diversity through the Holocene,56,13
+2026-07-24T22:12:01.113709+00:00,49040810,50,Chrome's Breaking and Entering,7,1
