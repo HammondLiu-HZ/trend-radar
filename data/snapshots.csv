@@ -18759,3 +18759,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-24T22:12:01.113709+00:00,49036765,48,Codeberg Divides,103,147
 2026-07-24T22:12:01.113709+00:00,49038181,49,The rise and fall of language diversity through the Holocene,56,13
 2026-07-24T22:12:01.113709+00:00,49040810,50,Chrome's Breaking and Entering,7,1
+2026-07-25T00:10:47.858140+00:00,49038433,1,Claude Opus 5,1222,667
+2026-07-25T00:10:47.858140+00:00,49040296,2,Postgres LISTEN/NOTIFY actually scales,177,29
+2026-07-25T00:10:47.858140+00:00,49042528,3,SpaceX Starship Flight 13 livestream [video],54,42
+2026-07-25T00:10:47.858140+00:00,49040741,4,Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard,86,37
+2026-07-25T00:10:47.858140+00:00,49034292,5,My security camera shipped a GitHub admin token in its login page,491,168
+2026-07-25T00:10:47.858140+00:00,49020545,6,Show HN: I simulated closing the Strait of Hormuz on real oil trade data,59,30
+2026-07-25T00:10:47.858140+00:00,48973835,7,India's first privately-developed rocket reaches orbit on debut launch,468,137
+2026-07-25T00:10:47.858140+00:00,48985182,8,Designing an Ethernet Switch ASIC,80,21
+2026-07-25T00:10:47.858140+00:00,49035303,9,"Nvidia, Microsoft, Meta warn against overregulating open-weight models",467,219
+2026-07-25T00:10:47.858140+00:00,49008512,10,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",105,27
+2026-07-25T00:10:47.858140+00:00,49033004,11,"If coding has been solved, why does software keep getting worse?",453,373
+2026-07-25T00:10:47.858140+00:00,49042354,12,AIs don't do what you want. This is bad,18,7
+2026-07-25T00:10:47.858140+00:00,49004464,13,Marimo now runs in PyCharm,69,15
+2026-07-25T00:10:47.858140+00:00,48986560,14,"The road to epsilon-zero: Nim always ends, even with infinite ordinals",5,0
+2026-07-25T00:10:47.858140+00:00,49026933,15,"Fil-C: Garbage In, Memory Safety Out [video]",90,93
+2026-07-25T00:10:47.858140+00:00,49039395,16,Gsxui – Shadcn-style components for Go,54,8
+2026-07-25T00:10:47.858140+00:00,49024938,17,Kimi K3 exploited the latest Redis server,123,37
+2026-07-25T00:10:47.858140+00:00,49034868,18,Half-Life 2 running natively on HaikuOS,251,47
+2026-07-25T00:10:47.858140+00:00,48995409,19,Firefox Containers Preview,203,72
+2026-07-25T00:10:47.858140+00:00,49038298,20,Don't Take the Black Pill [video],109,74
+2026-07-25T00:10:47.858140+00:00,49033127,21,Flux 3 X Mimic: The Next Generation of Video-Action Models,308,48
+2026-07-25T00:10:47.858140+00:00,49033240,22,IRGC claims it destroyed Amazon's Bahrain data center,231,288
+2026-07-25T00:10:47.858140+00:00,49038060,23,Be skeptical of OpenAI's rogue hacker agent story,388,213
+2026-07-25T00:10:47.858140+00:00,49033110,24,Future euro banknote design proposals,114,110
+2026-07-25T00:10:47.858140+00:00,48977849,25,The footprints of every building in NYC,41,5
+2026-07-25T00:10:47.858140+00:00,49038045,26,Unitree As2-W,88,40
+2026-07-25T00:10:47.858140+00:00,49036433,27,Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey,353,264
+2026-07-25T00:10:47.858140+00:00,49034673,28,Programming language file extensions that match ISO 3166-1 alpha-2 country codes,34,20
+2026-07-25T00:10:47.858140+00:00,49041546,29,Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live,15,0
+2026-07-25T00:10:47.858140+00:00,49042751,30,"Sperm Whales blow bubbles to achieve restful, vertical sleep",8,1
+2026-07-25T00:10:47.858140+00:00,49034217,31,The case for MUDs in modern times (2018),67,64
+2026-07-25T00:10:47.858140+00:00,49033099,32,"Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",219,158
+2026-07-25T00:10:47.858140+00:00,49017054,33,How to Write a Quine,10,2
+2026-07-25T00:10:47.858140+00:00,49038977,34,"The small, real, original web",40,20
+2026-07-25T00:10:47.858140+00:00,49039448,35,I got into YC Startup School by hacking it,95,62
+2026-07-25T00:10:47.858140+00:00,49020751,36,Self-host your mail server,91,102
+2026-07-25T00:10:47.858140+00:00,49037031,37,"The front end framework for correctness: built on Effect, architected like Elm",75,43
+2026-07-25T00:10:47.858140+00:00,48998589,38,Extending Polars with Rust Expression Plugins,48,0
+2026-07-25T00:10:47.858140+00:00,49036086,39,Preventing line breaks in <code> elements,12,18
+2026-07-25T00:10:47.858140+00:00,49032126,40,The hardest way to make a GIF,41,11
+2026-07-25T00:10:47.858140+00:00,49038059,41,Proving a human wrote something,46,58
+2026-07-25T00:10:47.858140+00:00,48987422,42,So Bright the Vision (1956) – a story about machines writing instead of humans [pdf],14,1
+2026-07-25T00:10:47.858140+00:00,48984312,43,Hitchcock and Herrmann: The friendship and film scores that changed cinema,16,0
+2026-07-25T00:10:47.858140+00:00,49038481,44,DuckPGQ – A DuckDB community extension for graph workloads,39,6
+2026-07-25T00:10:47.858140+00:00,49034747,45,Em dashes are amazing,323,277
+2026-07-25T00:10:47.858140+00:00,49036765,46,Codeberg Divides,110,158
+2026-07-25T00:10:47.858140+00:00,48978942,47,Visualizing the Artemis II Mission,7,0
+2026-07-25T00:10:47.858140+00:00,49040810,48,Chrome's Breaking and Entering,14,1
+2026-07-25T00:10:47.858140+00:00,49041347,49,AMD and Cerebras Launch AI Inference Solution,11,3
+2026-07-25T00:10:47.858140+00:00,49031409,50,Claude Cookbook,285,154
