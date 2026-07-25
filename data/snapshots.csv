@@ -19205,3 +19205,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-25T19:19:48.356582+00:00,49047351,48,The Rust on ESP Book,7,1
 2026-07-25T19:19:48.356582+00:00,49046917,49,What if the RAM/GPU shortage is deliberate?,10,4
 2026-07-25T19:19:48.356582+00:00,49048903,50,"The Chuwi MiniBook X N150, One Year Later",11,5
+2026-07-25T21:01:34.129395+00:00,48976262,1,Stolen Buttons,429,97
+2026-07-25T21:01:34.129395+00:00,49050735,2,"Producing ammonia and fertiliser using wind power in Morris, Minnesota",46,16
+2026-07-25T21:01:34.129395+00:00,49045159,3,Android May Soon Restrict On-Device ADB,804,384
+2026-07-25T21:01:34.129395+00:00,49048034,4,Open-weight AI is having its Kubernetes moment,239,173
+2026-07-25T21:01:34.129395+00:00,49039868,5,Show HN: I made some transistor animations,57,5
+2026-07-25T21:01:34.129395+00:00,49049693,6,"Show HN: Brolly, a plain-text weather forecast site",52,11
+2026-07-25T21:01:34.129395+00:00,49047365,7,Bitchat is now on Radicle,167,103
+2026-07-25T21:01:34.129395+00:00,49050824,8,Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network,21,9
+2026-07-25T21:01:34.129395+00:00,49048689,9,Bringing PyTorch Monarch to AMD GPUs,46,6
+2026-07-25T21:01:34.129395+00:00,49006096,10,How My Images Are Dithered,188,67
+2026-07-25T21:01:34.129395+00:00,49008396,11,"Zero roadkill as Amazon canopy bridges secure 15,000 crossings",204,62
+2026-07-25T21:01:34.129395+00:00,49050058,12,Memory Safety Absolutists,16,2
+2026-07-25T21:01:34.129395+00:00,49050538,13,The growing vigilante movement to knock out Flock surveillance cameras,76,18
+2026-07-25T21:01:34.129395+00:00,49046525,14,The Fedora 45 Sausage Factory,115,35
+2026-07-25T21:01:34.129395+00:00,49048681,15,The Dark Night of Mathematics,104,91
+2026-07-25T21:01:34.129395+00:00,49010993,16,Building a Tiny 3D Renderer for a Tiny Handheld,210,16
+2026-07-25T21:01:34.129395+00:00,49007018,17,Spatial languages: Writing code in 2D,86,32
+2026-07-25T21:01:34.129395+00:00,49001278,18,Starveling Rabblement,3,0
+2026-07-25T21:01:34.129395+00:00,49008434,19,Show HN: Yorishiro – a macOS terminal where AI agents live,4,2
+2026-07-25T21:01:34.129395+00:00,49050152,20,Tile's security is so bad it's a feature for stalkers,87,29
+2026-07-25T21:01:34.129395+00:00,48991984,21,GDID Windows – Cut the tracker that follows you even under VPN,77,58
+2026-07-25T21:01:34.129395+00:00,49047516,22,"My web version of Mars MIPS, now has built-in C compiler",28,6
+2026-07-25T21:01:34.129395+00:00,49005722,24,"Pkgxray – inspect what gets installed, not what executes",5,0
+2026-07-25T21:01:34.129395+00:00,49049066,25,Rauno's Field Notes #2,19,1
+2026-07-25T21:01:34.129395+00:00,49047563,26,The Silurian Hypothesis (2020),48,87
+2026-07-25T21:01:34.129395+00:00,49045446,27,MouthPad: A Tongue-Controlled Touchpad,147,28
+2026-07-25T21:01:34.129395+00:00,48979836,28,NYC Apartment Aquaponics,176,74
+2026-07-25T21:01:34.129395+00:00,49048212,29,Engineering management after the cost of code collapsed,85,131
+2026-07-25T21:01:34.129395+00:00,49014034,30,Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico,91,21
+2026-07-25T21:01:34.129395+00:00,49047707,31,Scanwheel is a drum style mechanical television you can build yourself,53,12
+2026-07-25T21:01:34.129395+00:00,49047884,32,Task-centered iproute2 user guide,27,3
+2026-07-25T21:01:34.129395+00:00,49012337,33,Teardown: The BMW / Harman IDC23H Infotainment Unit (B423),19,21
+2026-07-25T21:01:34.129395+00:00,48981665,34,GC and Exceptions in Wasmtime,147,34
+2026-07-25T21:01:34.129395+00:00,49044492,35,UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities,122,38
+2026-07-25T21:01:34.129395+00:00,49007291,36,PyPI Blog: Releases now reject new files after 14 days,79,46
+2026-07-25T21:01:34.129395+00:00,49044874,37,Extinct Media Museum Tokyo,104,25
+2026-07-25T21:01:34.129395+00:00,49047449,38,Harddrive Is Probably Full,33,23
+2026-07-25T21:01:34.129395+00:00,49043724,39,Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach,547,94
+2026-07-25T21:01:34.129395+00:00,49008512,40,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",266,46
+2026-07-25T21:01:34.129395+00:00,49050173,41,Silicon Valley has a science fiction problem,17,5
+2026-07-25T21:01:34.129395+00:00,49047526,42,The AI Productivity Illusion,21,5
+2026-07-25T21:01:34.129395+00:00,49045040,43,ARC-AGI Leaderboard,166,133
+2026-07-25T21:01:34.129395+00:00,49051233,44,Google Search Distilled Yahoo and Microsoft,6,2
+2026-07-25T21:01:34.129395+00:00,49048120,45,Prosecutor Investigating U.S. Boat Strikes Was Murdered in Ecuador,60,3
+2026-07-25T21:01:34.129395+00:00,49048645,46,"Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",51,41
+2026-07-25T21:01:34.129395+00:00,49038433,47,Claude Opus 5,1728,1248
+2026-07-25T21:01:34.129395+00:00,49046917,48,What if the RAM/GPU shortage is deliberate?,17,8
+2026-07-25T21:01:34.129395+00:00,49049796,49,Ask HN: Which Jabber clients support SCRAM+ and XEP-0474,7,0
+2026-07-25T21:01:34.129395+00:00,49047351,50,The Rust on ESP Book,10,1
