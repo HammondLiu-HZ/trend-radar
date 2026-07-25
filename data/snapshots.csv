@@ -19107,3 +19107,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-25T15:11:37.337032+00:00,48977849,48,The footprints of every building in NYC,70,10
 2026-07-25T15:11:37.337032+00:00,49038060,49,Be skeptical of OpenAI's rogue hacker agent story,511,282
 2026-07-25T15:11:37.337032+00:00,49047488,50,"Stripe in talks to acquire OpenRouter in potential $10B deal, WSJ reports",8,3
+2026-07-25T17:08:56.928353+00:00,49048819,1,"Wind turbine is being used to produce zero-carbon ""green ammonia"" fertilizer",46,24
+2026-07-25T17:08:56.928353+00:00,48976262,2,Stolen Buttons,138,36
+2026-07-25T17:08:56.928353+00:00,49045159,3,Android May Soon Restrict On-Device ADB,678,301
+2026-07-25T17:08:56.928353+00:00,49048034,4,Open-weight AI is having its Kubernetes moment. Let's not ruin it,44,13
+2026-07-25T17:08:56.928353+00:00,49048212,5,Engineering management after the cost of code collapsed,37,31
+2026-07-25T17:08:56.928353+00:00,49047365,6,Bitchat Is Now on Radicle,73,27
+2026-07-25T17:08:56.928353+00:00,49049066,7,Rauno's Field Notes #2,6,1
+2026-07-25T17:08:56.928353+00:00,49006096,8,My Images Are Dithered,135,51
+2026-07-25T17:08:56.928353+00:00,49007018,9,Spatial languages: Writing code in 2D,61,21
+2026-07-25T17:08:56.928353+00:00,49046525,10,The Fedora 45 Sausage Factory,83,24
+2026-07-25T17:08:56.928353+00:00,49043724,11,Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach,484,80
+2026-07-25T17:08:56.928353+00:00,49048689,12,Bringing PyTorch Monarch to AMD GPUs,7,3
+2026-07-25T17:08:56.928353+00:00,49010993,13,Building a Tiny 3D Renderer for a Tiny Handheld,167,12
+2026-07-25T17:08:56.928353+00:00,49008396,14,"Zero roadkill as Amazon canopy bridges secure 15,000 crossings",75,8
+2026-07-25T17:08:56.928353+00:00,49049015,15,Amen Break,20,3
+2026-07-25T17:08:56.928353+00:00,48979836,17,NYC Apartment Aquaponics,142,60
+2026-07-25T17:08:56.928353+00:00,49014034,18,Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico,79,14
+2026-07-25T17:08:56.928353+00:00,49047707,19,Scanwheel is a drum style mechanical television you can build yourself,13,5
+2026-07-25T17:08:56.928353+00:00,49045040,20,ARC-AGI Leaderboard,158,126
+2026-07-25T17:08:56.928353+00:00,48991984,21,GDID Windows – Cut the tracker that follows you even under VPN,4,0
+2026-07-25T17:08:56.928353+00:00,49007291,22,PyPI Blog: Releases now reject new files after 14 days,66,31
+2026-07-25T17:08:56.928353+00:00,49048681,23,The Dark Night of Mathematics,29,12
+2026-07-25T17:08:56.928353+00:00,49048645,24,"Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",21,3
+2026-07-25T17:08:56.928353+00:00,49047516,25,"My web version of Mars MIPS, now have builtin C compiler",12,4
+2026-07-25T17:08:56.928353+00:00,49047884,26,Task-centered iproute2 user guide,10,0
+2026-07-25T17:08:56.928353+00:00,48981665,27,GC and Exceptions in Wasmtime,140,24
+2026-07-25T17:08:56.928353+00:00,49044492,28,UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities,110,35
+2026-07-25T17:08:56.928353+00:00,49045446,29,MouthPad: A Tongue-Controlled Touchpad,98,22
+2026-07-25T17:08:56.928353+00:00,49044874,30,Extinct Media Museum Tokyo,93,20
+2026-07-25T17:08:56.928353+00:00,49049241,31,Apple Is the King of AI and Nobody Knows It,6,2
+2026-07-25T17:08:56.928353+00:00,49008512,32,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",256,45
+2026-07-25T17:08:56.928353+00:00,49048996,33,Politician reads AI prompt during assembly,8,1
+2026-07-25T17:08:56.928353+00:00,49048120,34,Prosecutor Investigating U.S. Boat Strikes Was Murdered in Ecuador,19,1
+2026-07-25T17:08:56.928353+00:00,49048901,35,Writing a (valid) C program without main(),12,4
+2026-07-25T17:08:56.928353+00:00,49047449,36,Harddrive Is Probably Full,8,0
+2026-07-25T17:08:56.928353+00:00,49038433,37,Claude Opus 5,1719,1201
+2026-07-25T17:08:56.928353+00:00,49048573,38,"Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",14,2
+2026-07-25T17:08:56.928353+00:00,49012604,39,Book Corners: Community map of neighborhood book exchange spots,48,35
+2026-07-25T17:08:56.928353+00:00,49047676,40,Introduction to Multiparty Computation Tutorials,4,0
+2026-07-25T17:08:56.928353+00:00,49048903,41,"The Chuwi MiniBook X N150, One Year Later",5,2
+2026-07-25T17:08:56.928353+00:00,48991945,42,PartialString – A finite-difference time-domain physical modelling synthesiser,41,9
+2026-07-25T17:08:56.928353+00:00,49047201,43,"Show HN: Jargo, a Go port of Pipecat for building realtime voice agents",7,1
+2026-07-25T17:08:56.928353+00:00,49026933,44,"Fil-C: Garbage In, Memory Safety Out [video]",166,169
+2026-07-25T17:08:56.928353+00:00,49038298,45,Don't Take the Black Pill [video],228,199
+2026-07-25T17:08:56.928353+00:00,49047526,46,The AI Productivity Illusion,5,1
+2026-07-25T17:08:56.928353+00:00,49049043,47,Gattaca and the quiet Doomsday of genetic determinism,4,0
+2026-07-25T17:08:56.928353+00:00,49048805,48,Zig by Example,5,0
+2026-07-25T17:08:56.928353+00:00,49035303,49,"Nvidia, Microsoft, Meta warn against overregulating open-weight models",643,297
+2026-07-25T17:08:56.928353+00:00,49040741,50,Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard,361,211
