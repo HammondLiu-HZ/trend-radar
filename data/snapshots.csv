@@ -19254,3 +19254,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-25T21:01:34.129395+00:00,49046917,48,What if the RAM/GPU shortage is deliberate?,17,8
 2026-07-25T21:01:34.129395+00:00,49049796,49,Ask HN: Which Jabber clients support SCRAM+ and XEP-0474,7,0
 2026-07-25T21:01:34.129395+00:00,49047351,50,The Rust on ESP Book,10,1
+2026-07-25T23:01:46.497230+00:00,49051947,1,GM Backs Sodium Ion Batteries for U.S. Grid Storage,58,13
+2026-07-25T23:01:46.497230+00:00,49051120,2,Did They Ghost You?,115,44
+2026-07-25T23:01:46.497230+00:00,49051361,3,The new rules of context engineering for Claude 5 generation models,98,46
+2026-07-25T23:01:46.497230+00:00,48976262,4,Stolen Buttons,500,117
+2026-07-25T23:01:46.497230+00:00,49052074,5,Kimi K3 built a Windows XP in browser,18,11
+2026-07-25T23:01:46.497230+00:00,49013464,6,SIMD for Collision,19,4
+2026-07-25T23:01:46.497230+00:00,49050735,7,"Producing ammonia and fertiliser using wind power in Morris, Minnesota",67,33
+2026-07-25T23:01:46.497230+00:00,49051463,8,Multicast TV Distribution on My Home Network,18,3
+2026-07-25T23:01:46.497230+00:00,49039868,9,Show HN: I made some transistor animations,97,9
+2026-07-25T23:01:46.497230+00:00,49049693,10,"Show HN: Brolly, a plain-text weather forecast site",92,31
+2026-07-25T23:01:46.497230+00:00,49052025,11,Digital Intelligence: Why Humanity Created What It Does Not Understand,6,3
+2026-07-25T23:01:46.497230+00:00,49051505,12,Who does Anubis actually stop?,24,27
+2026-07-25T23:01:46.497230+00:00,49051369,13,Fly.io CEO Kurt Mackey is stepping down,109,60
+2026-07-25T23:01:46.497230+00:00,49048034,14,Open-weight AI is having its Kubernetes moment,279,228
+2026-07-25T23:01:46.497230+00:00,49052406,15,We Need a National Ballroom,8,1
+2026-07-25T23:01:46.497230+00:00,49047365,16,Bitchat is now on Radicle,189,116
+2026-07-25T23:01:46.497230+00:00,49008396,17,"Zero roadkill as Amazon canopy bridges secure 15,000 crossings",244,79
+2026-07-25T23:01:46.497230+00:00,49006096,18,How My Images Are Dithered,207,73
+2026-07-25T23:01:46.497230+00:00,49050859,19,General Resolution: LLM Usage in Debian,20,7
+2026-07-25T23:01:46.497230+00:00,49050803,20,Show HN: Minesweeper Raycasted,11,7
+2026-07-25T23:01:46.497230+00:00,49045159,21,Android May Soon Restrict On-Device ADB,855,402
+2026-07-25T23:01:46.497230+00:00,49008434,22,Show HN: Yorishiro – a macOS terminal where AI agents live,23,6
+2026-07-25T23:01:46.497230+00:00,49048689,23,Bringing PyTorch Monarch to AMD GPUs,57,6
+2026-07-25T23:01:46.497230+00:00,49048681,24,The Dark Night of Mathematics,140,167
+2026-07-25T23:01:46.497230+00:00,49050538,25,The growing vigilante movement to knock out Flock surveillance cameras,143,66
+2026-07-25T23:01:46.497230+00:00,49010993,26,Building a Tiny 3D Renderer for a Tiny Handheld,228,18
+2026-07-25T23:01:46.497230+00:00,49051130,27,"Show HN: Writemark, a dependency free web component for inline Markdown editing",11,5
+2026-07-25T23:01:46.497230+00:00,49007018,29,Spatial languages: Writing code in 2D,98,37
+2026-07-25T23:01:46.497230+00:00,49046525,30,The Fedora 45 Sausage Factory,127,37
+2026-07-25T23:01:46.497230+00:00,49050512,31,Running a 28.9M parameter LLM on an $8 microcontroller,13,0
+2026-07-25T23:01:46.497230+00:00,49050152,32,Tile's security is so bad it's a feature for stalkers,123,40
+2026-07-25T23:01:46.497230+00:00,49047516,33,"My web version of Mars MIPS, now has built-in C compiler",32,6
+2026-07-25T23:01:46.497230+00:00,48979836,34,NYC Apartment Aquaponics,185,76
+2026-07-25T23:01:46.497230+00:00,49051043,35,"Show HN: Awsmux – Multi-account AWS CLI, up to 5.4x faster, 7.4x fewer tokens",6,0
+2026-07-25T23:01:46.497230+00:00,49047563,36,The Silurian Hypothesis (2020),55,102
+2026-07-25T23:01:46.497230+00:00,49045446,37,MouthPad: A Tongue-Controlled Touchpad,156,31
+2026-07-25T23:01:46.497230+00:00,49014034,38,Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico,96,21
+2026-07-25T23:01:46.497230+00:00,49051282,39,Apple seeks U.S. approval to buy memory chips from blacklisted CXMT,18,0
+2026-07-25T23:01:46.497230+00:00,49048212,40,Engineering management after the cost of code collapsed,104,163
+2026-07-25T23:01:46.497230+00:00,49047884,41,Task-centered iproute2 user guide,32,3
+2026-07-25T23:01:46.497230+00:00,49047707,42,Scanwheel is a drum style mechanical television you can build yourself,61,13
+2026-07-25T23:01:46.497230+00:00,49049066,43,Rauno's Field Notes #2,19,1
+2026-07-25T23:01:46.497230+00:00,49052366,44,Susumu Tonegawa Dies at 86; Nobel Laureate Showed How Antibodies Fight Infection,7,4
+2026-07-25T23:01:46.497230+00:00,48981665,45,GC and Exceptions in Wasmtime,150,35
+2026-07-25T23:01:46.497230+00:00,49044492,46,UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities,122,39
+2026-07-25T23:01:46.497230+00:00,49008512,47,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",270,46
+2026-07-25T23:01:46.497230+00:00,49049814,48,California Historical Radio Society,6,2
+2026-07-25T23:01:46.497230+00:00,49047449,49,Harddrive Is Probably Full,40,27
+2026-07-25T23:01:46.497230+00:00,49044874,50,Extinct Media Museum Tokyo,109,26
