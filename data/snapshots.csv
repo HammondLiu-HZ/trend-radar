@@ -18859,3 +18859,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-25T04:16:58.876010+00:00,49039448,48,I got into YC Startup School by hacking it,101,66
 2026-07-25T04:16:58.876010+00:00,49026810,49,Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models,452,216
 2026-07-25T04:16:58.876010+00:00,49040810,50,Chrome's Breaking and Entering,24,4
+2026-07-25T07:23:10.017196+00:00,49045040,1,ARC-AGI Leaderboard,25,10
+2026-07-25T07:23:10.017196+00:00,49038433,2,Claude Opus 5,1484,818
+2026-07-25T07:23:10.017196+00:00,48981665,3,GC and Exceptions in Wasmtime,61,0
+2026-07-25T07:23:10.017196+00:00,49043724,4,Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach,96,17
+2026-07-25T07:23:10.017196+00:00,49044492,5,UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities,33,8
+2026-07-25T07:23:10.017196+00:00,49040296,6,Postgres LISTEN/NOTIFY actually scales,285,52
+2026-07-25T07:23:10.017196+00:00,49040741,7,Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard,251,145
+2026-07-25T07:23:10.017196+00:00,48973835,8,India's first privately-developed rocket reaches orbit on debut launch,575,165
+2026-07-25T07:23:10.017196+00:00,49034292,9,My security camera shipped a GitHub admin token in its login page,568,188
+2026-07-25T07:23:10.017196+00:00,49042751,10,"Sperm Whales blow bubbles to achieve restful, vertical sleep",83,11
+2026-07-25T07:23:10.017196+00:00,49044074,11,Taylor Farms Called White House to Try to Delay Cyclospora Recall,186,75
+2026-07-25T07:23:10.017196+00:00,48991945,12,PartialString – A finite-difference time-domain physical modelling synthesiser,5,0
+2026-07-25T07:23:10.017196+00:00,49020545,13,Show HN: I simulated closing the Strait of Hormuz on real oil trade data,153,80
+2026-07-25T07:23:10.017196+00:00,49008512,14,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",178,36
+2026-07-25T07:23:10.017196+00:00,48985182,15,Designing an Ethernet Switch ASIC,165,43
+2026-07-25T07:23:10.017196+00:00,49012604,16,Book Corners: Community map of neighborhood book exchange spots,9,3
+2026-07-25T07:23:10.017196+00:00,49024938,17,Kimi K3 exploited the latest Redis server,197,55
+2026-07-25T07:23:10.017196+00:00,48995409,18,Firefox Containers Preview,292,94
+2026-07-25T07:23:10.017196+00:00,49035303,19,"Nvidia, Microsoft, Meta warn against overregulating open-weight models",582,259
+2026-07-25T07:23:10.017196+00:00,49044874,20,Extinct Media Museum Tokyo,3,0
+2026-07-25T07:23:10.017196+00:00,49034868,21,Half-Life 2 running natively on HaikuOS,292,54
+2026-07-25T07:23:10.017196+00:00,49038298,22,Don't Take the Black Pill [video],164,141
+2026-07-25T07:23:10.017196+00:00,49033240,23,IRGC claims it destroyed Amazon's Bahrain data center,279,343
+2026-07-25T07:23:10.017196+00:00,49026933,24,"Fil-C: Garbage In, Memory Safety Out [video]",128,125
+2026-07-25T07:23:10.017196+00:00,48992539,25,A concrete explanation of how a cache works,23,2
+2026-07-25T07:23:10.017196+00:00,49033110,26,Future euro banknote design proposals,167,141
+2026-07-25T07:23:10.017196+00:00,49004464,27,Marimo now runs in PyCharm,97,27
+2026-07-25T07:23:10.017196+00:00,49034217,28,The case for MUDs in modern times (2018),95,73
+2026-07-25T07:23:10.017196+00:00,49033099,29,"Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",260,172
+2026-07-25T07:23:10.017196+00:00,49038045,30,Unitree As2-W,116,51
+2026-07-25T07:23:10.017196+00:00,49036433,31,Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey,451,333
+2026-07-25T07:23:10.017196+00:00,49008618,32,Re: Bye Bye Gravatar,36,16
+2026-07-25T07:23:10.017196+00:00,49033004,33,"If coding has been solved, why does software keep getting worse?",724,545
+2026-07-25T07:23:10.017196+00:00,48977849,34,The footprints of every building in NYC,65,6
+2026-07-25T07:23:10.017196+00:00,49038060,35,Be skeptical of OpenAI's rogue hacker agent story,478,279
+2026-07-25T07:23:10.017196+00:00,49039395,36,Gsxui – Shadcn-style components for Go,62,11
+2026-07-25T07:23:10.017196+00:00,49034673,37,Programming language file extensions that match ISO 3166-1 alpha-2 country codes,48,21
+2026-07-25T07:23:10.017196+00:00,49031409,38,Claude Cookbook,309,157
+2026-07-25T07:23:10.017196+00:00,49044501,39,An Introduction to Formal Logic(2020) [pdf],6,0
+2026-07-25T07:23:10.017196+00:00,49034747,40,Em dashes are amazing,346,287
+2026-07-25T07:23:10.017196+00:00,49037031,41,"The front end framework for correctness: built on Effect, architected like Elm",85,46
+2026-07-25T07:23:10.017196+00:00,49038481,42,DuckPGQ – A DuckDB community extension for graph workloads,52,9
+2026-07-25T07:23:10.017196+00:00,49038977,43,"The small, real, original web",51,26
+2026-07-25T07:23:10.017196+00:00,49026810,44,Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models,455,217
+2026-07-25T07:23:10.017196+00:00,49036765,45,Codeberg Divides,122,176
+2026-07-25T07:23:10.017196+00:00,48998589,46,Extending Polars with Rust Expression Plugins,54,0
+2026-07-25T07:23:10.017196+00:00,49022152,47,Writing by hand is good for your brain,1440,652
+2026-07-25T07:23:10.017196+00:00,49021856,48,I regret migrating to Codeberg,511,508
+2026-07-25T07:23:10.017196+00:00,49032095,49,The PImpl idiom and the C++26 std:indirect type,67,81
+2026-07-25T07:23:10.017196+00:00,49038059,50,Proving a human wrote something,52,65
