@@ -18959,3 +18959,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-25T09:56:35.893482+00:00,49032095,48,The PImpl idiom and the C++26 std:indirect type,68,90
 2026-07-25T09:56:35.893482+00:00,49037031,49,"The front end framework for correctness: built on Effect, architected like Elm",85,47
 2026-07-25T09:56:35.893482+00:00,49038977,50,"The small, real, original web",54,30
+2026-07-25T11:19:32.083934+00:00,49045159,1,Android May Soon Restrict On-Device ADB,289,145
+2026-07-25T11:19:32.083934+00:00,49038433,2,Claude Opus 5,1587,934
+2026-07-25T11:19:32.083934+00:00,49043724,3,Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach,268,42
+2026-07-25T11:19:32.083934+00:00,49010993,4,Building a Tiny 3D Renderer for a Tiny Handheld,58,2
+2026-07-25T11:19:32.083934+00:00,49045040,5,ARC-AGI Leaderboard,96,73
+2026-07-25T11:19:32.083934+00:00,48981665,6,GC and Exceptions in Wasmtime,111,8
+2026-07-25T11:19:32.083934+00:00,48979836,7,NYC Apartment Aquaponics,61,19
+2026-07-25T11:19:32.083934+00:00,49044492,8,UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities,74,18
+2026-07-25T11:19:32.083934+00:00,49014034,9,Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico,16,3
+2026-07-25T11:19:32.083934+00:00,49040296,10,Postgres LISTEN/NOTIFY actually scales,317,60
+2026-07-25T11:19:32.083934+00:00,49044874,11,Extinct Media Museum Tokyo,43,7
+2026-07-25T11:19:32.083934+00:00,49040741,12,Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard,305,171
+2026-07-25T11:19:32.083934+00:00,48973835,13,India's first privately-developed rocket reaches orbit on debut launch,619,177
+2026-07-25T11:19:32.083934+00:00,49034292,14,My security camera shipped a GitHub admin token in its login page,597,202
+2026-07-25T11:19:32.083934+00:00,49012604,15,Book Corners: Community map of neighborhood book exchange spots,32,8
+2026-07-25T11:19:32.083934+00:00,49008512,16,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",210,41
+2026-07-25T11:19:32.083934+00:00,49042751,17,"Sperm Whales blow bubbles to achieve restful, vertical sleep",100,21
+2026-07-25T11:19:32.083934+00:00,48995409,18,Firefox Containers Preview,359,103
+2026-07-25T11:19:32.083934+00:00,49020545,19,Show HN: I simulated closing the Strait of Hormuz on real oil trade data,192,90
+2026-07-25T11:19:32.083934+00:00,49045446,20,MouthPad: A Tongue-Controlled Touchpad,20,5
+2026-07-25T11:19:32.083934+00:00,49024938,21,Kimi K3 exploited the latest Redis server,230,67
+2026-07-25T11:19:32.083934+00:00,48985182,22,Designing an Ethernet Switch ASIC,188,46
+2026-07-25T11:19:32.083934+00:00,48991945,23,PartialString – A finite-difference time-domain physical modelling synthesiser,25,4
+2026-07-25T11:19:32.083934+00:00,49034868,24,Half-Life 2 running natively on HaikuOS,308,57
+2026-07-25T11:19:32.083934+00:00,49044074,25,Taylor Farms Called White House to Try to Delay Cyclospora Recall,232,108
+2026-07-25T11:19:32.083934+00:00,49033240,26,IRGC claims it destroyed Amazon's Bahrain data center,302,364
+2026-07-25T11:19:32.083934+00:00,49033110,27,Future euro banknote design proposals,213,199
+2026-07-25T11:19:32.083934+00:00,49026933,28,"Fil-C: Garbage In, Memory Safety Out [video]",149,149
+2026-07-25T11:19:32.083934+00:00,49038298,29,Don't Take the Black Pill [video],198,171
+2026-07-25T11:19:32.083934+00:00,49035303,30,"Nvidia, Microsoft, Meta warn against overregulating open-weight models",618,271
+2026-07-25T11:19:32.083934+00:00,49004464,31,Marimo now runs in PyCharm,114,31
+2026-07-25T11:19:32.083934+00:00,49033099,32,"Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",282,182
+2026-07-25T11:19:32.083934+00:00,49034217,33,The case for MUDs in modern times (2018),100,73
+2026-07-25T11:19:32.083934+00:00,49046514,34,The OpenAI Models That Hacked Hugging Face Were 'Active on the Internet' for Da,4,0
+2026-07-25T11:19:32.083934+00:00,49033004,35,"If coding has been solved, why does software keep getting worse?",758,580
+2026-07-25T11:19:32.083934+00:00,49036433,36,Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey,473,346
+2026-07-25T11:19:32.083934+00:00,49038045,37,Unitree As2-W,127,55
+2026-07-25T11:19:32.083934+00:00,48992539,38,A concrete explanation of how a cache works,27,4
+2026-07-25T11:19:32.083934+00:00,49031409,39,Claude Cookbook,315,159
+2026-07-25T11:19:32.083934+00:00,48977849,40,The footprints of every building in NYC,67,6
+2026-07-25T11:19:32.083934+00:00,49038060,41,Be skeptical of OpenAI's rogue hacker agent story,492,282
+2026-07-25T11:19:32.083934+00:00,49039395,42,Gsxui – Shadcn-style components for Go,66,12
+2026-07-25T11:19:32.083934+00:00,49034673,43,Programming language file extensions that match ISO 3166-1 alpha-2 country codes,48,24
+2026-07-25T11:19:32.083934+00:00,49034747,44,Em dashes are amazing,358,297
+2026-07-25T11:19:32.083934+00:00,49026810,45,Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models,459,218
+2026-07-25T11:19:32.083934+00:00,49022152,46,Writing by hand is good for your brain,1450,654
+2026-07-25T11:19:32.083934+00:00,49021856,47,I regret migrating to Codeberg,520,525
+2026-07-25T11:19:32.083934+00:00,49036765,48,Codeberg Divides,127,186
+2026-07-25T11:19:32.083934+00:00,49046303,49,ID requirement to halt freedom of information in Germany,5,0
+2026-07-25T11:19:32.083934+00:00,49038481,50,DuckPGQ – A DuckDB community extension for graph workloads,54,9
