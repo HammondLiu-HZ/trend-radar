@@ -19401,3 +19401,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-26T06:43:26.515916+00:00,49008512,48,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",274,46
 2026-07-26T06:43:26.515916+00:00,49053385,49,Git rebase -I is not that scary,49,45
 2026-07-26T06:43:26.515916+00:00,49014034,50,Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico,101,23
+2026-07-26T09:20:22.534624+00:00,49047453,1,A shell colon does nothing. Use it anyway,162,59
+2026-07-26T09:20:22.534624+00:00,49055169,2,GrapheneOS protections against data extraction from locked devices,53,11
+2026-07-26T09:20:22.534624+00:00,49054107,3,An ESP32 based plane radar for my desk,140,27
+2026-07-26T09:20:22.534624+00:00,49051361,4,The new rules of context engineering for Claude 5 generation models,316,202
+2026-07-26T09:20:22.534624+00:00,49054010,5,Show HN: I mapped every US golf course,124,63
+2026-07-26T09:20:22.534624+00:00,49034777,6,Stinkpot: SQLite-backed shell history,52,14
+2026-07-26T09:20:22.534624+00:00,49053375,7,Inflect-Micro-v2: complete voice in 9.36M parameters,125,11
+2026-07-26T09:20:22.534624+00:00,49052912,8,DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf],144,101
+2026-07-26T09:20:22.534624+00:00,48997828,9,Some more things about Django I've been enjoying,35,11
+2026-07-26T09:20:22.534624+00:00,49052564,10,Cloudflare's new AI traffic options for customers,115,81
+2026-07-26T09:20:22.534624+00:00,49053708,11,Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home,64,17
+2026-07-26T09:20:22.534624+00:00,49024980,12,Rethinking Legal Education in the AI Era,74,37
+2026-07-26T09:20:22.534624+00:00,49050512,13,Running a 28.9M parameter LLM on an $8 microcontroller,182,39
+2026-07-26T09:20:22.534624+00:00,49002762,14,"DskDitto: Ultra-fast, parallel duplicate-file detector",15,3
+2026-07-26T09:20:22.534624+00:00,49054224,15,JetZero,194,155
+2026-07-26T09:20:22.534624+00:00,49053385,16,Git rebase -I is not that scary,63,64
+2026-07-26T09:20:22.534624+00:00,49052628,17,Clinical failure rates over the decades: yikes,100,76
+2026-07-26T09:20:22.534624+00:00,49005197,18,Overloaded Overloading,4,0
+2026-07-26T09:20:22.534624+00:00,49050859,19,LLM Usage in Debian: Three Proposals,150,135
+2026-07-26T09:20:22.534624+00:00,49053382,20,Systems and Delays,59,14
+2026-07-26T09:20:22.534624+00:00,49052570,21,What is happening to jobs? Separating AI hype from reality,86,100
+2026-07-26T09:20:22.534624+00:00,49013464,22,SIMD for Collision,94,27
+2026-07-26T09:20:22.534624+00:00,49054697,23,W4ME Station – a WASM-4 runtime for Java ME phones,18,3
+2026-07-26T09:20:22.534624+00:00,49051947,24,GM Backs Sodium Ion Batteries for U.S. Grid Storage,174,75
+2026-07-26T09:20:22.534624+00:00,49049693,25,"Show HN: Brolly, a plain-text weather forecast site",188,64
+2026-07-26T09:20:22.534624+00:00,49039868,26,Show HN: I made some transistor animations,182,21
+2026-07-26T09:20:22.534624+00:00,49050735,27,"Producing ammonia and fertiliser using wind power in Morris, Minnesota",119,86
+2026-07-26T09:20:22.534624+00:00,49045159,28,Android may soon restrict on-device ADB,927,453
+2026-07-26T09:20:22.534624+00:00,49050058,29,Memory safety absolutists,99,142
+2026-07-26T09:20:22.534624+00:00,49051369,30,Turn And Face The Strange,200,127
+2026-07-26T09:20:22.534624+00:00,49048034,31,Open-weight AI is having its Kubernetes moment,375,290
+2026-07-26T09:20:22.534624+00:00,49015898,32,"Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",23,9
+2026-07-26T09:20:22.534624+00:00,49047365,33,Bitchat is now on Radicle,239,129
+2026-07-26T09:20:22.534624+00:00,49006096,34,How My Images Are Dithered,233,76
+2026-07-26T09:20:22.534624+00:00,49051120,35,Did they ghost you?,398,173
+2026-07-26T09:20:22.534624+00:00,49054307,36,Humans haven't stopped evolving,61,76
+2026-07-26T09:20:22.534624+00:00,49002235,37,Librrd Playground,6,2
+2026-07-26T09:20:22.534624+00:00,49051463,38,Multicast TV Distribution on My Home Network,52,13
+2026-07-26T09:20:22.534624+00:00,49054561,39,"Kimi K3 after a week of real project use: what works, what doesn't",12,1
+2026-07-26T09:20:22.534624+00:00,49051130,40,"Show HN: Writemark, a dependency free web component for inline Markdown editing",41,16
+2026-07-26T09:20:22.534624+00:00,49048689,41,Bringing PyTorch Monarch to AMD GPUs,74,6
+2026-07-26T09:20:22.534624+00:00,49051707,42,Becoming a Research Engineer at a Big LLM Lab,31,12
+2026-07-26T09:20:22.534624+00:00,49008001,43,Retry Storm Lab,9,0
+2026-07-26T09:20:22.534624+00:00,49049638,44,Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window,35,8
+2026-07-26T09:20:22.534624+00:00,49046525,45,The Fedora 45 Sausage Factory,144,39
+2026-07-26T09:20:22.534624+00:00,49054594,47,95CSS: A Windows 95-style CSS framework,6,1
+2026-07-26T09:20:22.534624+00:00,49007018,48,Spatial languages: Writing code in 2D,109,40
+2026-07-26T09:20:22.534624+00:00,49029215,49,Negative Resistance,13,5
+2026-07-26T09:20:22.534624+00:00,49008512,50,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",276,46
