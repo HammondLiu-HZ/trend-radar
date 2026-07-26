@@ -19450,3 +19450,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-26T09:20:22.534624+00:00,49007018,48,Spatial languages: Writing code in 2D,109,40
 2026-07-26T09:20:22.534624+00:00,49029215,49,Negative Resistance,13,5
 2026-07-26T09:20:22.534624+00:00,49008512,50,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",276,46
+2026-07-26T11:24:13.726524+00:00,49056112,1,Ruff v0.16.0 – Significant new updates – 413 default rules up from 59,81,37
+2026-07-26T11:24:13.726524+00:00,49056194,2,Elevated Errors for Opus 5,28,29
+2026-07-26T11:24:13.726524+00:00,49055169,3,GrapheneOS protections against data extraction from locked devices,110,50
+2026-07-26T11:24:13.726524+00:00,49047453,4,A shell colon does nothing. Use it anyway,228,91
+2026-07-26T11:24:13.726524+00:00,49054107,5,An ESP32 based plane radar for my desk,167,35
+2026-07-26T11:24:13.726524+00:00,49051361,6,The new rules of context engineering for Claude 5 generation models,350,244
+2026-07-26T11:24:13.726524+00:00,49052912,7,DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf],171,120
+2026-07-26T11:24:13.726524+00:00,49054010,8,Show HN: I mapped every US golf course,142,79
+2026-07-26T11:24:13.726524+00:00,49053375,9,Inflect-Micro-v2: complete voice in 9.36M parameters,144,11
+2026-07-26T11:24:13.726524+00:00,49034777,10,Stinkpot: SQLite-backed shell history,73,22
+2026-07-26T11:24:13.726524+00:00,49005197,11,Overloaded Overloading,19,5
+2026-07-26T11:24:13.726524+00:00,49052564,12,Cloudflare's new AI traffic options for customers,133,108
+2026-07-26T11:24:13.726524+00:00,49053708,13,Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home,79,22
+2026-07-26T11:24:13.726524+00:00,49024980,14,Rethinking Legal Education in the AI Era,83,48
+2026-07-26T11:24:13.726524+00:00,49050512,15,Running a 28.9M parameter LLM on an $8 microcontroller,203,48
+2026-07-26T11:24:13.726524+00:00,48997828,16,Some more things about Django I've been enjoying,52,25
+2026-07-26T11:24:13.726524+00:00,49053385,17,Git rebase -I is not that scary,76,89
+2026-07-26T11:24:13.726524+00:00,49056351,18,Systemd Linger,3,0
+2026-07-26T11:24:13.726524+00:00,49015286,19,German Peasants' War,3,2
+2026-07-26T11:24:13.726524+00:00,49002762,20,"DskDitto: Ultra-fast, parallel duplicate-file detector",25,4
+2026-07-26T11:24:13.726524+00:00,49028169,21,Pip install Postgres – no Docker/Brew/apt,9,3
+2026-07-26T11:24:13.726524+00:00,49052570,22,What is happening to jobs? Separating AI hype from reality,107,125
+2026-07-26T11:24:13.726524+00:00,49050859,23,LLM Usage in Debian: Three Proposals,167,151
+2026-07-26T11:24:13.726524+00:00,49054224,24,JetZero,210,173
+2026-07-26T11:24:13.726524+00:00,49052628,25,Clinical failure rates over the decades: yikes,108,86
+2026-07-26T11:24:13.726524+00:00,49056424,26,"No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",16,11
+2026-07-26T11:24:13.726524+00:00,49013464,27,SIMD for Collision,102,27
+2026-07-26T11:24:13.726524+00:00,49053382,28,Systems and Delays,64,14
+2026-07-26T11:24:13.726524+00:00,49039868,29,Show HN: I made some transistor animations,191,24
+2026-07-26T11:24:13.726524+00:00,49051947,30,GM Backs Sodium Ion Batteries for U.S. Grid Storage,182,82
+2026-07-26T11:24:13.726524+00:00,49049693,31,"Show HN: Brolly, a plain-text weather forecast site",201,70
+2026-07-26T11:24:13.726524+00:00,49045159,32,Android may soon restrict on-device ADB,941,461
+2026-07-26T11:24:13.726524+00:00,49050058,33,Memory safety absolutists,110,165
+2026-07-26T11:24:13.726524+00:00,49050735,34,"Producing ammonia and fertiliser using wind power in Morris, Minnesota",125,90
+2026-07-26T11:24:13.726524+00:00,49048034,35,Open-weight AI is having its Kubernetes moment,380,295
+2026-07-26T11:24:13.726524+00:00,49051369,36,Turn And Face The Strange,209,130
+2026-07-26T11:24:13.726524+00:00,49006096,37,How My Images Are Dithered,235,76
+2026-07-26T11:24:13.726524+00:00,49056808,38,An OpenAI model left notes about how to evade containment; we need more details,3,0
+2026-07-26T11:24:13.726524+00:00,49047365,39,Bitchat is now on Radicle,241,133
+2026-07-26T11:24:13.726524+00:00,49054697,40,W4ME Station – a WASM-4 runtime for Java ME phones,19,3
+2026-07-26T11:24:13.726524+00:00,49051120,41,Did they ghost you?,411,183
+2026-07-26T11:24:13.726524+00:00,49051463,42,Multicast TV Distribution on My Home Network,55,15
+2026-07-26T11:24:13.726524+00:00,49015898,43,"Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",24,8
+2026-07-26T11:24:13.726524+00:00,49054307,44,Humans haven't stopped evolving,65,84
+2026-07-26T11:24:13.726524+00:00,49056022,45,Claude Code has a hardcoded instruction telling Opus 5 not to use subagents,12,5
+2026-07-26T11:24:13.726524+00:00,49048689,46,Bringing PyTorch Monarch to AMD GPUs,75,6
+2026-07-26T11:24:13.726524+00:00,49046525,48,The Fedora 45 Sausage Factory,146,39
+2026-07-26T11:24:13.726524+00:00,49051707,49,Becoming a Research Engineer at a Big LLM Lab,34,13
+2026-07-26T11:24:13.726524+00:00,49008512,50,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",279,46
