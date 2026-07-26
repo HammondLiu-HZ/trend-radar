@@ -19499,3 +19499,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-26T11:24:13.726524+00:00,49046525,48,The Fedora 45 Sausage Factory,146,39
 2026-07-26T11:24:13.726524+00:00,49051707,49,Becoming a Research Engineer at a Big LLM Lab,34,13
 2026-07-26T11:24:13.726524+00:00,49008512,50,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",279,46
+2026-07-26T13:45:41.260110+00:00,49056112,1,Ruff v0.16.0 – Significant new updates – 413 default rules up from 59,178,100
+2026-07-26T13:45:41.260110+00:00,49057248,2,Third Drone Shot Down in Three Days in Romanian Territory,110,70
+2026-07-26T13:45:41.260110+00:00,49057398,3,Go Analysis Framework: modular static analysis by go team,26,1
+2026-07-26T13:45:41.260110+00:00,49057574,4,"Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",56,22
+2026-07-26T13:45:41.260110+00:00,49047453,5,A shell colon does nothing. Use it anyway,288,119
+2026-07-26T13:45:41.260110+00:00,49055169,6,GrapheneOS protections against data extraction from locked devices,185,106
+2026-07-26T13:45:41.260110+00:00,49056351,7,Systemd Linger,34,29
+2026-07-26T13:45:41.260110+00:00,49054107,8,An ESP32 based plane radar for my desk,195,40
+2026-07-26T13:45:41.260110+00:00,49051361,9,The new rules of context engineering for Claude 5 generation models,384,278
+2026-07-26T13:45:41.260110+00:00,49053375,10,Inflect-Micro-v2: complete voice in 9.36M parameters,168,12
+2026-07-26T13:45:41.260110+00:00,49052912,11,DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf],194,151
+2026-07-26T13:45:41.260110+00:00,49053708,12,Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home,102,35
+2026-07-26T13:45:41.260110+00:00,49056194,13,Elevated Errors for Opus 5,55,49
+2026-07-26T13:45:41.260110+00:00,49054010,14,Show HN: I mapped every US golf course,164,102
+2026-07-26T13:45:41.260110+00:00,49034777,15,Stinkpot: SQLite-backed shell history,89,26
+2026-07-26T13:45:41.260110+00:00,49052564,16,Cloudflare's new AI traffic options for customers,146,125
+2026-07-26T13:45:41.260110+00:00,49052570,17,What is happening to jobs? Separating AI hype from reality,140,194
+2026-07-26T13:45:41.260110+00:00,49023243,18,"I wouldn't say Pangram is broken, but I would say that it's brittle",25,4
+2026-07-26T13:45:41.260110+00:00,49050512,19,Running a 28.9M parameter LLM on an $8 microcontroller,232,55
+2026-07-26T13:45:41.260110+00:00,49024980,20,Rethinking Legal Education in the AI Era,105,58
+2026-07-26T13:45:41.260110+00:00,49022355,21,"I learned PCB design, 3D printing and C just to listen to music",10,1
+2026-07-26T13:45:41.260110+00:00,49002762,22,"DskDitto: Ultra-fast, parallel duplicate-file detector",39,7
+2026-07-26T13:45:41.260110+00:00,49050859,23,LLM Usage in Debian: Three Proposals,185,161
+2026-07-26T13:45:41.260110+00:00,49028169,24,Pip install Postgres – no Docker/Brew/apt,17,4
+2026-07-26T13:45:41.260110+00:00,49053385,25,Git rebase -I is not that scary,95,112
+2026-07-26T13:45:41.260110+00:00,49005197,26,Overloaded Overloading,29,7
+2026-07-26T13:45:41.260110+00:00,49052628,27,Clinical failure rates over the decades: yikes,115,98
+2026-07-26T13:45:41.260110+00:00,49056424,28,"No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",46,36
+2026-07-26T13:45:41.260110+00:00,48997828,29,Some more things about Django I've been enjoying,78,37
+2026-07-26T13:45:41.260110+00:00,49054224,30,JetZero,221,207
+2026-07-26T13:45:41.260110+00:00,49013464,31,SIMD for Collision,116,30
+2026-07-26T13:45:41.260110+00:00,49053382,32,Systems and Delays,67,15
+2026-07-26T13:45:41.260110+00:00,49045159,33,Android may soon restrict on-device ADB,948,467
+2026-07-26T13:45:41.260110+00:00,49051947,34,GM Backs Sodium Ion Batteries for U.S. Grid Storage,189,91
+2026-07-26T13:45:41.260110+00:00,49049693,35,"Show HN: Brolly, a plain-text weather forecast site",207,75
+2026-07-26T13:45:41.260110+00:00,49039868,36,Show HN: I made some transistor animations,200,26
+2026-07-26T13:45:41.260110+00:00,49050058,37,Memory safety absolutists,115,202
+2026-07-26T13:45:41.260110+00:00,49050735,38,"Producing ammonia and fertiliser using wind power in Morris, Minnesota",127,90
+2026-07-26T13:45:41.260110+00:00,49006096,39,How My Images Are Dithered,237,76
+2026-07-26T13:45:41.260110+00:00,49047365,40,Bitchat is now on Radicle,244,134
+2026-07-26T13:45:41.260110+00:00,49048034,41,Open-weight AI is having its Kubernetes moment,384,299
+2026-07-26T13:45:41.260110+00:00,49051369,42,Turn And Face The Strange,211,135
+2026-07-26T13:45:41.260110+00:00,49015286,43,German Peasants' War,44,47
+2026-07-26T13:45:41.260110+00:00,49051120,44,Did they ghost you?,418,189
+2026-07-26T13:45:41.260110+00:00,49056340,45,France and Spain wildfires: more than 300k people displaced,19,0
+2026-07-26T13:45:41.260110+00:00,49051463,46,Multicast TV Distribution on My Home Network,58,17
+2026-07-26T13:45:41.260110+00:00,49054697,47,W4ME Station – a WASM-4 runtime for Java ME phones,22,4
+2026-07-26T13:45:41.260110+00:00,49015898,48,"Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",25,8
+2026-07-26T13:45:41.260110+00:00,49008512,50,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",280,46
