@@ -19548,3 +19548,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-26T13:45:41.260110+00:00,49054697,47,W4ME Station – a WASM-4 runtime for Java ME phones,22,4
 2026-07-26T13:45:41.260110+00:00,49015898,48,"Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",25,8
 2026-07-26T13:45:41.260110+00:00,49008512,50,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",280,46
+2026-07-26T15:11:41.066407+00:00,49057398,1,Go Analysis Framework: modular static analysis by go team,76,6
+2026-07-26T15:11:41.066407+00:00,49056112,2,Ruff v0.16.0 – Significant new updates – 413 default rules up from 59,226,128
+2026-07-26T15:11:41.066407+00:00,49057574,3,"Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",155,81
+2026-07-26T15:11:41.066407+00:00,49055169,4,GrapheneOS protections against data extraction from locked devices,236,119
+2026-07-26T15:11:41.066407+00:00,49022355,5,"I learned PCB design, 3D printing and C just to listen to music",56,6
+2026-07-26T15:11:41.066407+00:00,49058669,6,Park by Robot at London Gatwick Airport,6,0
+2026-07-26T15:11:41.066407+00:00,49006049,7,What's Under Your Feet in New York City?,38,2
+2026-07-26T15:11:41.066407+00:00,49047453,8,A shell colon does nothing. Use it anyway,311,127
+2026-07-26T15:11:41.066407+00:00,49057248,9,Third Drone Shot Down in Three Days in Romanian Territory,152,146
+2026-07-26T15:11:41.066407+00:00,49051361,10,The new rules of context engineering for Claude 5 generation models,407,298
+2026-07-26T15:11:41.066407+00:00,49054107,11,An ESP32 based plane radar for my desk,212,42
+2026-07-26T15:11:41.066407+00:00,49052912,12,DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf],208,159
+2026-07-26T15:11:41.066407+00:00,49053375,13,Inflect-Micro-v2: complete voice in 9.36M parameters,175,14
+2026-07-26T15:11:41.066407+00:00,49053708,14,Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home,122,41
+2026-07-26T15:11:41.066407+00:00,49054010,15,Show HN: I mapped every US golf course,177,112
+2026-07-26T15:11:41.066407+00:00,49052570,16,What is happening to jobs? Separating AI hype from reality,170,227
+2026-07-26T15:11:41.066407+00:00,49052564,17,Cloudflare's new AI traffic options for customers,158,132
+2026-07-26T15:11:41.066407+00:00,49057972,18,Ask HN: What are the most promising RL fields for a new master student?,18,8
+2026-07-26T15:11:41.066407+00:00,49034777,19,Stinkpot: SQLite-backed shell history,98,29
+2026-07-26T15:11:41.066407+00:00,49057877,20,The New AI Superpowers: Focus and Followthrough,3,0
+2026-07-26T15:11:41.066407+00:00,49050512,21,Running a 28.9M parameter LLM on an $8 microcontroller,245,65
+2026-07-26T15:11:41.066407+00:00,49002762,22,"DskDitto: Ultra-fast, parallel duplicate-file detector",44,11
+2026-07-26T15:11:41.066407+00:00,49023243,23,"I wouldn't say Pangram is broken, but I would say that it's brittle",40,19
+2026-07-26T15:11:41.066407+00:00,49057666,24,Show HN: Reverse Minesweeper,7,2
+2026-07-26T15:11:41.066407+00:00,49024980,25,Rethinking Legal Education in the AI Era,112,69
+2026-07-26T15:11:41.066407+00:00,49056194,26,Elevated Errors for Opus 5,62,56
+2026-07-26T15:11:41.066407+00:00,49028169,27,Pip install Postgres – no Docker/Brew/apt,24,7
+2026-07-26T15:11:41.066407+00:00,49050859,28,LLM Usage in Debian: Three Proposals,191,173
+2026-07-26T15:11:41.066407+00:00,49053385,29,Git rebase -I is not that scary,100,121
+2026-07-26T15:11:41.066407+00:00,49052628,30,Clinical failure rates over the decades: yikes,119,107
+2026-07-26T15:11:41.066407+00:00,49005197,31,Overloaded Overloading,31,8
+2026-07-26T15:11:41.066407+00:00,49056917,32,"Pizza, pasta, potatoes, protein – how Italian children became so overweight",6,1
+2026-07-26T15:11:41.066407+00:00,49057298,33,"Show HN: QueryTuner – SQL diagnostics across 5 DBs, no database connection",4,0
+2026-07-26T15:11:41.066407+00:00,49057241,34,"Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",5,0
+2026-07-26T15:11:41.066407+00:00,49057200,35,You don't hire juniors to do menial chores,3,0
+2026-07-26T15:11:41.066407+00:00,49013464,36,SIMD for Collision,122,32
+2026-07-26T15:11:41.066407+00:00,49053382,37,Systems and Delays,69,16
+2026-07-26T15:11:41.066407+00:00,49057175,38,Kill The Cookie Banner,3,0
+2026-07-26T15:11:41.066407+00:00,49045159,39,Android may soon restrict on-device ADB,956,470
+2026-07-26T15:11:41.066407+00:00,49058547,40,"Hallmark – Anti-AI-Slop Design Skill for Claude Code, Cursor, and Codex",3,2
+2026-07-26T15:11:41.066407+00:00,49049693,41,"Show HN: Brolly, a plain-text weather forecast site",215,77
+2026-07-26T15:11:41.066407+00:00,49054224,42,JetZero,234,221
+2026-07-26T15:11:41.066407+00:00,49039868,43,Show HN: I made some transistor animations,201,26
+2026-07-26T15:11:41.066407+00:00,49051947,44,GM Backs Sodium Ion Batteries for U.S. Grid Storage,191,92
+2026-07-26T15:11:41.066407+00:00,49050058,45,Memory safety absolutists,118,210
+2026-07-26T15:11:41.066407+00:00,49058593,47,The hacker who humiliated spyware makers and was never caught,3,2
+2026-07-26T15:11:41.066407+00:00,49047365,48,Bitchat is now on Radicle,247,135
+2026-07-26T15:11:41.066407+00:00,49006096,49,How My Images Are Dithered,237,77
+2026-07-26T15:11:41.066407+00:00,49048034,50,Open-weight AI is having its Kubernetes moment,388,307
