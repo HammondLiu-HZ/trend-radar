@@ -19696,3 +19696,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-26T19:22:48.346606+00:00,49060355,48,How Arsonists used cats to spread Italy's wildfires,7,4
 2026-07-26T19:22:48.346606+00:00,49053385,49,Git rebase -I is not that scary,105,126
 2026-07-26T19:22:48.346606+00:00,49052628,50,Clinical failure rates over the decades: yikes,124,118
+2026-07-26T21:05:11.045204+00:00,49060856,1,"Decker, a platform that builds on the legacy of Hypercard and classic macOS",98,20
+2026-07-26T21:05:11.045204+00:00,49059367,2,Design is compromise,135,64
+2026-07-26T21:05:11.045204+00:00,49060724,3,Introduction to Data-Oriented Design [pdf],42,10
+2026-07-26T21:05:11.045204+00:00,49060592,4,It's not empowering to hand off the details,28,7
+2026-07-26T21:05:11.045204+00:00,49059398,5,"Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",67,15
+2026-07-26T21:05:11.045204+00:00,49057241,6,"Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",249,80
+2026-07-26T21:05:11.045204+00:00,49060945,7,How to Block Some of the Bots,48,31
+2026-07-26T21:05:11.045204+00:00,49058993,8,The relay market powering token resellers and fraud,120,59
+2026-07-26T21:05:11.045204+00:00,49060295,9,How to Write English Prose,35,13
+2026-07-26T21:05:11.045204+00:00,48997008,10,Jimothy the raccoon has a rare spinal condition. Here's what that means,78,33
+2026-07-26T21:05:11.045204+00:00,49057398,11,Go Analysis Framework: modular static analysis by go team,158,27
+2026-07-26T21:05:11.045204+00:00,49008834,12,Building the Grace Cathedral experience,16,3
+2026-07-26T21:05:11.045204+00:00,49059977,13,Using ThinkPad T480 as a mobile phone,67,26
+2026-07-26T21:05:11.045204+00:00,49057877,14,The New AI Superpowers: Focus and Followthrough,90,31
+2026-07-26T21:05:11.045204+00:00,49022355,15,"I learned PCB design, 3D printing and C just to listen to music",142,31
+2026-07-26T21:05:11.045204+00:00,49057175,16,Kill The Cookie Banner,659,315
+2026-07-26T21:05:11.045204+00:00,49060978,17,The Strongest El Niño Ever,163,103
+2026-07-26T21:05:11.045204+00:00,49058669,18,London Gatwick has launched a robotic airport parking service,248,204
+2026-07-26T21:05:11.045204+00:00,49061769,19,What does GitHub's security team even do?,53,11
+2026-07-26T21:05:11.045204+00:00,49006049,20,What's Under Your Feet in New York City?,130,24
+2026-07-26T21:05:11.045204+00:00,49057666,21,Show HN: Reverse Minesweeper,98,32
+2026-07-26T21:05:11.045204+00:00,49016917,22,Using sed to make indexes for books (1997),27,6
+2026-07-26T21:05:11.045204+00:00,49055169,23,GrapheneOS protections against data extraction from locked devices,332,207
+2026-07-26T21:05:11.045204+00:00,49061879,24,Show HN: Infinite Jigsaw Game,4,2
+2026-07-26T21:05:11.045204+00:00,48997828,25,Some more things about Django I've been enjoying,104,53
+2026-07-26T21:05:11.045204+00:00,49057574,26,"Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",289,233
+2026-07-26T21:05:11.045204+00:00,49060509,27,How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster,9,0
+2026-07-26T21:05:11.045204+00:00,49009582,28,Thoughts on Integers (2023),5,2
+2026-07-26T21:05:11.045204+00:00,49047453,29,A shell colon does nothing. Use it anyway,368,155
+2026-07-26T21:05:11.045204+00:00,49024980,30,Rethinking legal education in the AI era,129,86
+2026-07-26T21:05:11.045204+00:00,49020647,31,Sum of Cubes via Difference Tables,15,2
+2026-07-26T21:05:11.045204+00:00,49056620,32,Terence Tao: Mathematics in the Age of AI [pdf],85,42
+2026-07-26T21:05:11.045204+00:00,49060495,33,French firefighters face 'pyrocumulonimbus' for first time,83,40
+2026-07-26T21:05:11.045204+00:00,49054107,34,An ESP32 based plane radar for my desk,255,54
+2026-07-26T21:05:11.045204+00:00,49052912,35,DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf],240,184
+2026-07-26T21:05:11.045204+00:00,49053375,36,Inflect-Micro-v2: complete voice in 9.36M parameters,195,24
+2026-07-26T21:05:11.045204+00:00,49052570,37,What is happening to jobs? Separating AI hype from reality,230,304
+2026-07-26T21:05:11.045204+00:00,49060407,38,"SP/1.0: deterministic, reproducible verdicts for AI-agent decisions",6,0
+2026-07-26T21:05:11.045204+00:00,49056112,39,Ruff v0.16.0 – Significant new updates – 413 default rules up from 59,327,212
+2026-07-26T21:05:11.045204+00:00,49056351,40,Systemd Linger,50,66
+2026-07-26T21:05:11.045204+00:00,49053708,41,Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home,160,58
+2026-07-26T21:05:11.045204+00:00,49052564,42,Cloudflare's new AI traffic options for customers,183,142
+2026-07-26T21:05:11.045204+00:00,49056194,43,Elevated Errors for Opus 5,90,70
+2026-07-26T21:05:11.045204+00:00,49056917,44,"Pizza, pasta, potatoes, protein – how Italian children became so overweight",30,26
+2026-07-26T21:05:11.045204+00:00,49002762,45,"DskDitto: Ultra-fast, parallel duplicate-file detector",63,15
+2026-07-26T21:05:11.045204+00:00,49059418,46,Make an Origami Circuit Board,23,3
+2026-07-26T21:05:11.045204+00:00,49034777,47,Stinkpot: SQLite-backed shell history,113,37
+2026-07-26T21:05:11.045204+00:00,49054010,48,Show HN: I mapped every US golf course,198,137
+2026-07-26T21:05:11.045204+00:00,49060422,49,Independent PHA Asteroid Notability Scoring by Astrophyzix Observatory,4,0
+2026-07-26T21:05:11.045204+00:00,49057248,50,Third Drone Shot Down in Three Days in Romanian Territory,215,265
