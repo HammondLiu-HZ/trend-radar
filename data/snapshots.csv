@@ -19303,3 +19303,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-25T23:01:46.497230+00:00,49049814,48,California Historical Radio Society,6,2
 2026-07-25T23:01:46.497230+00:00,49047449,49,Harddrive Is Probably Full,40,27
 2026-07-25T23:01:46.497230+00:00,49044874,50,Extinct Media Museum Tokyo,109,26
+2026-07-26T03:42:06.184154+00:00,49054224,1,JetZero,52,33
+2026-07-26T03:42:06.184154+00:00,49054010,2,"Show HN: I mapped every US golf course – 16k+ courses, free, no signup",27,4
+2026-07-26T03:42:06.184154+00:00,48976262,3,Stolen Buttons,630,153
+2026-07-26T03:42:06.184154+00:00,49054107,4,An ESP32 based plane radar for my desk,16,5
+2026-07-26T03:42:06.184154+00:00,49052628,5,Clinical failure rates over the decades: yikes,63,35
+2026-07-26T03:42:06.184154+00:00,49053382,6,Systems and Delays,32,7
+2026-07-26T03:42:06.184154+00:00,49053375,7,Inflect-Micro-v2: complete voice in 9.36M parameters,36,3
+2026-07-26T03:42:06.184154+00:00,49052564,8,Cloudflare's new AI traffic options for customers,57,35
+2026-07-26T03:42:06.184154+00:00,49053385,9,Git rebase -I is not that scary,30,26
+2026-07-26T03:42:06.184154+00:00,49051361,10,The new rules of context engineering for Claude 5 generation models,194,131
+2026-07-26T03:42:06.184154+00:00,49051947,11,GM Backs Sodium Ion Batteries for U.S. Grid Storage,147,57
+2026-07-26T03:42:06.184154+00:00,49013464,12,SIMD for Collision,69,21
+2026-07-26T03:42:06.184154+00:00,48989304,13,What if they are all wrong? (2020),7,2
+2026-07-26T03:42:06.184154+00:00,49050512,14,Running a 28.9M parameter LLM on an $8 microcontroller,102,20
+2026-07-26T03:42:06.184154+00:00,49024980,15,Rethinking Legal Education in the AI Era,17,1
+2026-07-26T03:42:06.184154+00:00,49048034,16,Open-weight AI is having its Kubernetes moment,329,265
+2026-07-26T03:42:06.184154+00:00,49050735,17,"Producing ammonia and fertiliser using wind power in Morris, Minnesota",105,69
+2026-07-26T03:42:06.184154+00:00,49050859,18,LLM Usage in Debian: Three Proposals,98,91
+2026-07-26T03:42:06.184154+00:00,49039868,19,Show HN: I made some transistor animations,142,15
+2026-07-26T03:42:06.184154+00:00,48991984,20,GDID Windows – Cut the tracker that follows you even under VPN,120,85
+2026-07-26T03:42:06.184154+00:00,49051369,21,Turn And Face The Strange,156,116
+2026-07-26T03:42:06.184154+00:00,49050058,22,Memory Safety Absolutists,65,85
+2026-07-26T03:42:06.184154+00:00,49008396,23,"Zero roadkill as Amazon canopy bridges secure 15,000 crossings",309,96
+2026-07-26T03:42:06.184154+00:00,49049693,24,"Show HN: Brolly, a plain-text weather forecast site",141,45
+2026-07-26T03:42:06.184154+00:00,49051120,25,Did They Ghost You?,325,144
+2026-07-26T03:42:06.184154+00:00,49051463,26,Multicast TV Distribution on My Home Network,46,12
+2026-07-26T03:42:06.184154+00:00,49052912,27,DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf],100,65
+2026-07-26T03:42:06.184154+00:00,49053986,28,Show HN: What 180k words look like as a temporal knowledge graph (Oz series),5,0
+2026-07-26T03:42:06.184154+00:00,49047365,29,Bitchat is now on Radicle,219,128
+2026-07-26T03:42:06.184154+00:00,49045159,30,Android May Soon Restrict On-Device ADB,888,428
+2026-07-26T03:42:06.184154+00:00,49051130,31,"Show HN: Writemark, a dependency free web component for inline Markdown editing",34,13
+2026-07-26T03:42:06.184154+00:00,49006096,32,How My Images Are Dithered,222,74
+2026-07-26T03:42:06.184154+00:00,49049638,33,Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window,28,7
+2026-07-26T03:42:06.184154+00:00,49053805,35,Show HN: ZWPlayer – Free player with interactive annotations and subtitle search,3,0
+2026-07-26T03:42:06.184154+00:00,49051707,36,Becoming a Research Engineer at a Big LLM Lab,24,9
+2026-07-26T03:42:06.184154+00:00,49048689,37,Bringing PyTorch Monarch to AMD GPUs,71,6
+2026-07-26T03:42:06.184154+00:00,49053708,38,Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home,3,0
+2026-07-26T03:42:06.184154+00:00,49053603,39,Possible invasive species superspreader event near Strait of Hormuz,28,8
+2026-07-26T03:42:06.184154+00:00,49048681,40,The Dark Night of Mathematics,177,211
+2026-07-26T03:42:06.184154+00:00,49046525,41,The Fedora 45 Sausage Factory,138,40
+2026-07-26T03:42:06.184154+00:00,49053543,42,Show HN: Axtary – Content Authorization for AI Agents,3,0
+2026-07-26T03:42:06.184154+00:00,49007018,43,Spatial languages: Writing code in 2D,107,39
+2026-07-26T03:42:06.184154+00:00,49050538,44,The growing vigilante movement to knock out Flock surveillance cameras,207,125
+2026-07-26T03:42:06.184154+00:00,49053520,45,"I scanned my AI agent framework for destructive/consequential actions, and wow",4,0
+2026-07-26T03:42:06.184154+00:00,48979836,46,NYC Apartment Aquaponics,193,76
+2026-07-26T03:42:06.184154+00:00,49053465,47,Collective Intelligence: The Next Frontier of AI,4,0
+2026-07-26T03:42:06.184154+00:00,49045446,48,MouthPad: A Tongue-Controlled Touchpad,170,37
+2026-07-26T03:42:06.184154+00:00,49053255,49,"GNU Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more",29,7
+2026-07-26T03:42:06.184154+00:00,49047516,50,"My web version of Mars MIPS, now has built-in C compiler",36,7
