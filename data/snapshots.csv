@@ -19352,3 +19352,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-26T03:42:06.184154+00:00,49045446,48,MouthPad: A Tongue-Controlled Touchpad,170,37
 2026-07-26T03:42:06.184154+00:00,49053255,49,"GNU Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more",29,7
 2026-07-26T03:42:06.184154+00:00,49047516,50,"My web version of Mars MIPS, now has built-in C compiler",36,7
+2026-07-26T06:43:26.515916+00:00,49047453,1,A shell colon does nothing. Use it anyway,59,16
+2026-07-26T06:43:26.515916+00:00,49054107,2,An ESP32 based plane radar for my desk,91,16
+2026-07-26T06:43:26.515916+00:00,49054224,3,JetZero,155,107
+2026-07-26T06:43:26.515916+00:00,49054010,4,Show HN: I mapped every US golf course,98,44
+2026-07-26T06:43:26.515916+00:00,49051361,5,The new rules of context engineering for Claude 5 generation models,268,168
+2026-07-26T06:43:26.515916+00:00,49053375,6,Inflect-Micro-v2: complete voice in 9.36M parameters,83,6
+2026-07-26T06:43:26.515916+00:00,49024980,7,Rethinking Legal Education in the AI Era,57,16
+2026-07-26T06:43:26.515916+00:00,49052628,8,Clinical failure rates over the decades: yikes,87,49
+2026-07-26T06:43:26.515916+00:00,49053708,9,Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home,39,9
+2026-07-26T06:43:26.515916+00:00,49034777,10,Stinkpot: SQLite-backed shell history,17,1
+2026-07-26T06:43:26.515916+00:00,49053382,11,Systems and Delays,53,13
+2026-07-26T06:43:26.515916+00:00,49054697,12,W4ME Station – a WASM-4 runtime for Java ME phones,12,2
+2026-07-26T06:43:26.515916+00:00,49050512,13,Running a 28.9M parameter LLM on an $8 microcontroller,146,29
+2026-07-26T06:43:26.515916+00:00,49002235,14,Librrd Playground,4,2
+2026-07-26T06:43:26.515916+00:00,49050859,15,LLM Usage in Debian: Three Proposals,129,112
+2026-07-26T06:43:26.515916+00:00,49048034,16,Open-weight AI is having its Kubernetes moment,362,283
+2026-07-26T06:43:26.515916+00:00,49051947,17,GM Backs Sodium Ion Batteries for U.S. Grid Storage,164,67
+2026-07-26T06:43:26.515916+00:00,49013464,18,SIMD for Collision,82,26
+2026-07-26T06:43:26.515916+00:00,49008396,19,"Zero roadkill as Amazon canopy bridges secure 15,000 crossings",343,98
+2026-07-26T06:43:26.515916+00:00,49015898,20,"Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",19,6
+2026-07-26T06:43:26.515916+00:00,49039868,21,Show HN: I made some transistor animations,155,20
+2026-07-26T06:43:26.515916+00:00,49050735,22,"Producing ammonia and fertiliser using wind power in Morris, Minnesota",115,80
+2026-07-26T06:43:26.515916+00:00,49052564,23,Cloudflare's new AI traffic options for customers,91,68
+2026-07-26T06:43:26.515916+00:00,49049693,24,"Show HN: Brolly, a plain-text weather forecast site",169,50
+2026-07-26T06:43:26.515916+00:00,49051369,25,Turn And Face The Strange,188,126
+2026-07-26T06:43:26.515916+00:00,49008001,26,Retry Storm Lab,6,0
+2026-07-26T06:43:26.515916+00:00,49050058,27,Memory Safety Absolutists,81,118
+2026-07-26T06:43:26.515916+00:00,49054307,28,Humans haven't stopped evolving,54,52
+2026-07-26T06:43:26.515916+00:00,49045159,29,Android May Soon Restrict On-Device ADB,905,446
+2026-07-26T06:43:26.515916+00:00,49051120,30,Did They Ghost You?,362,163
+2026-07-26T06:43:26.515916+00:00,49047365,31,Bitchat is now on Radicle,231,128
+2026-07-26T06:43:26.515916+00:00,49029215,32,Negative Resistance,12,5
+2026-07-26T06:43:26.515916+00:00,49006096,33,How My Images Are Dithered,229,74
+2026-07-26T06:43:26.515916+00:00,49051463,34,Multicast TV Distribution on My Home Network,50,13
+2026-07-26T06:43:26.515916+00:00,49052912,35,DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf],121,88
+2026-07-26T06:43:26.515916+00:00,49049638,36,Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window,35,8
+2026-07-26T06:43:26.515916+00:00,49053986,37,Show HN: What 180k words look like as a temporal knowledge graph (Oz series),15,9
+2026-07-26T06:43:26.515916+00:00,49054268,38,"Agentic test processes, LLM benchmarks, and other notes on agentic coding",11,0
+2026-07-26T06:43:26.515916+00:00,49051130,39,"Show HN: Writemark, a dependency free web component for inline Markdown editing",38,15
+2026-07-26T06:43:26.515916+00:00,49048689,41,Bringing PyTorch Monarch to AMD GPUs,73,6
+2026-07-26T06:43:26.515916+00:00,49051707,42,Becoming a Research Engineer at a Big LLM Lab,28,12
+2026-07-26T06:43:26.515916+00:00,49046525,43,The Fedora 45 Sausage Factory,141,39
+2026-07-26T06:43:26.515916+00:00,49007018,44,Spatial languages: Writing code in 2D,109,39
+2026-07-26T06:43:26.515916+00:00,49048681,45,The Dark Night of Mathematics,188,240
+2026-07-26T06:43:26.515916+00:00,49050538,46,The growing vigilante movement to knock out Flock surveillance cameras,225,133
+2026-07-26T06:43:26.515916+00:00,49045446,47,MouthPad: A Tongue-Controlled Touchpad,173,38
+2026-07-26T06:43:26.515916+00:00,49008512,48,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",274,46
+2026-07-26T06:43:26.515916+00:00,49053385,49,Git rebase -I is not that scary,49,45
+2026-07-26T06:43:26.515916+00:00,49014034,50,Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico,101,23
