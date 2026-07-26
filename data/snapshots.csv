@@ -19597,3 +19597,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-26T15:11:41.066407+00:00,49047365,48,Bitchat is now on Radicle,247,135
 2026-07-26T15:11:41.066407+00:00,49006096,49,How My Images Are Dithered,237,77
 2026-07-26T15:11:41.066407+00:00,49048034,50,Open-weight AI is having its Kubernetes moment,388,307
+2026-07-26T17:10:07.731411+00:00,49058669,1,Park by Robot at London Gatwick Airport,132,69
+2026-07-26T17:10:07.731411+00:00,49059367,2,Design Is Compromise,48,14
+2026-07-26T17:10:07.731411+00:00,49057175,3,Kill The Cookie Banner,207,119
+2026-07-26T17:10:07.731411+00:00,49059398,4,"Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",19,3
+2026-07-26T17:10:07.731411+00:00,49056112,5,Ruff v0.16.0 – Significant new updates – 413 default rules up from 59,271,167
+2026-07-26T17:10:07.731411+00:00,49058993,6,An Inside Look at the Token Reseller Market,44,17
+2026-07-26T17:10:07.731411+00:00,49057398,7,Go Analysis Framework: modular static analysis by go team,112,7
+2026-07-26T17:10:07.731411+00:00,49022355,8,"I learned PCB design, 3D printing and C just to listen to music",100,10
+2026-07-26T17:10:07.731411+00:00,49057241,9,"Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",105,25
+2026-07-26T17:10:07.731411+00:00,49057877,10,The New AI Superpowers: Focus and Followthrough,41,11
+2026-07-26T17:10:07.731411+00:00,48997008,11,Jimothy the raccoon has a rare spinal condition. Here's what that means,16,0
+2026-07-26T17:10:07.731411+00:00,49006049,12,What's Under Your Feet in New York City?,77,10
+2026-07-26T17:10:07.731411+00:00,49055169,13,GrapheneOS protections against data extraction from locked devices,277,167
+2026-07-26T17:10:07.731411+00:00,49057574,14,"Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",217,148
+2026-07-26T17:10:07.731411+00:00,49059418,15,Make an Origami Circuit Board,7,0
+2026-07-26T17:10:07.731411+00:00,49047453,16,A shell colon does nothing. Use it anyway,335,144
+2026-07-26T17:10:07.731411+00:00,49059660,17,What if LLMs escape through inferences itself? This is fiction. For now,5,1
+2026-07-26T17:10:07.731411+00:00,49057248,18,Third Drone Shot Down in Three Days in Romanian Territory,192,194
+2026-07-26T17:10:07.731411+00:00,49057666,19,Show HN: Reverse Minesweeper,39,19
+2026-07-26T17:10:07.731411+00:00,49051361,20,The new rules of context engineering for Claude 5 generation models,426,325
+2026-07-26T17:10:07.731411+00:00,49054107,21,An ESP32 based plane radar for my desk,229,49
+2026-07-26T17:10:07.731411+00:00,49052912,22,DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf],221,173
+2026-07-26T17:10:07.731411+00:00,49053375,23,Inflect-Micro-v2: complete voice in 9.36M parameters,186,19
+2026-07-26T17:10:07.731411+00:00,49056194,24,Elevated Errors for Opus 5,78,64
+2026-07-26T17:10:07.731411+00:00,49052570,25,What is happening to jobs? Separating AI hype from reality,195,264
+2026-07-26T17:10:07.731411+00:00,49052564,26,Cloudflare's new AI traffic options for customers,170,135
+2026-07-26T17:10:07.731411+00:00,49056620,27,Terence Tao: Mathematics in the Age of AI [pdf],24,2
+2026-07-26T17:10:07.731411+00:00,49053708,28,Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home,140,51
+2026-07-26T17:10:07.731411+00:00,49054010,29,Show HN: I mapped every US golf course,192,115
+2026-07-26T17:10:07.731411+00:00,49034777,30,Stinkpot: SQLite-backed shell history,108,32
+2026-07-26T17:10:07.731411+00:00,49002762,31,"DskDitto: Ultra-fast, parallel duplicate-file detector",51,13
+2026-07-26T17:10:07.731411+00:00,49056917,32,"Pizza, pasta, potatoes, protein – how Italian children became so overweight",15,8
+2026-07-26T17:10:07.731411+00:00,49013583,33,"Capra, Cribl's Design System",7,2
+2026-07-26T17:10:07.731411+00:00,49057972,34,Ask HN: What are the most promising RL fields for a new master student?,27,11
+2026-07-26T17:10:07.731411+00:00,49023243,35,"I wouldn't say Pangram is broken, but I would say that it's brittle",47,29
+2026-07-26T17:10:07.731411+00:00,49057985,36,Show HN: Managing on-premise servers without Kubernetes,13,3
+2026-07-26T17:10:07.731411+00:00,49050859,37,LLM Usage in Debian: Three Proposals,198,185
+2026-07-26T17:10:07.731411+00:00,49058396,38,Show HN: A browser-based video editor that renders videos directly with FFmpeg,5,1
+2026-07-26T17:10:07.731411+00:00,49053385,39,Git rebase -I is not that scary,102,124
+2026-07-26T17:10:07.731411+00:00,49052628,40,Clinical failure rates over the decades: yikes,122,110
+2026-07-26T17:10:07.731411+00:00,49024980,41,Rethinking Legal Education in the AI Era,116,78
+2026-07-26T17:10:07.731411+00:00,49028169,42,Pip install Postgres – no Docker/Brew/apt,27,7
+2026-07-26T17:10:07.731411+00:00,49013464,43,SIMD for Collision,125,34
+2026-07-26T17:10:07.731411+00:00,49045159,44,Android may soon restrict on-device ADB,960,475
+2026-07-26T17:10:07.731411+00:00,49049693,45,"Show HN: Brolly, a plain-text weather forecast site",219,79
+2026-07-26T17:10:07.731411+00:00,49053382,46,Systems and Delays,71,16
+2026-07-26T17:10:07.731411+00:00,49039868,47,Show HN: I made some transistor animations,203,26
+2026-07-26T17:10:07.731411+00:00,49005197,48,Overloaded Overloading,31,8
+2026-07-26T17:10:07.731411+00:00,49059386,49,We Are Not Special (2021),4,0
+2026-07-26T17:10:07.731411+00:00,49051947,50,GM Backs Sodium Ion Batteries for U.S. Grid Storage,195,94
