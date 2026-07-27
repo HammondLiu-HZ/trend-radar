@@ -19796,3 +19796,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-26T23:04:23.637090+00:00,49002762,48,"DskDitto: Ultra-fast, parallel duplicate-file detector",64,15
 2026-07-26T23:04:23.637090+00:00,49054010,49,Show HN: I mapped every US golf course,200,138
 2026-07-26T23:04:23.637090+00:00,49034777,50,Stinkpot: SQLite-backed shell history,117,38
+2026-07-27T03:52:10.344511+00:00,49063754,1,PGSimCity - How PostgreSQL Works,218,32
+2026-07-27T03:52:10.344511+00:00,49021270,2,Show HN: Physically accurate black hole you can put in your room,105,23
+2026-07-27T03:52:10.344511+00:00,49060856,3,"Decker, a platform that builds on the legacy of Hypercard and classic macOS",252,63
+2026-07-27T03:52:10.344511+00:00,49011210,4,Jacobian Conjecture for Baby,21,1
+2026-07-27T03:52:10.344511+00:00,49060495,5,French firefighters face 'pyrocumulonimbus' for first time,215,124
+2026-07-27T03:52:10.344511+00:00,49063175,6,"Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",50,24
+2026-07-27T03:52:10.344511+00:00,49062291,7,We have proof automation now,107,16
+2026-07-27T03:52:10.344511+00:00,49063022,8,US citizen charged after GrapheneOS phone wipes during airport search,339,215
+2026-07-27T03:52:10.344511+00:00,49060724,9,Introduction to Data-Oriented Design [pdf],131,38
+2026-07-27T03:52:10.344511+00:00,49057241,10,"Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",379,127
+2026-07-27T03:52:10.344511+00:00,49063523,11,Fonts In Use – Find out where a font is used,29,1
+2026-07-27T03:52:10.344511+00:00,49059367,12,Design is compromise,208,76
+2026-07-27T03:52:10.344511+00:00,49061887,13,Simulate cassette tape audio profiles using FFmpeg,94,42
+2026-07-27T03:52:10.344511+00:00,49062700,14,Teaching Kids Forth,65,20
+2026-07-27T03:52:10.344511+00:00,49059398,15,"Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",117,22
+2026-07-27T03:52:10.344511+00:00,49060295,16,How to Write English Prose,90,47
+2026-07-27T03:52:10.344511+00:00,49062120,17,Plasma Tunnels Reveal How Dying Satellites Fall to Earth,50,26
+2026-07-27T03:52:10.344511+00:00,49057398,18,Go Analysis Framework: modular static analysis by go team,187,44
+2026-07-27T03:52:10.344511+00:00,49038035,19,History of John Backus's functional programming project [draft],16,1
+2026-07-27T03:52:10.344511+00:00,49020842,20,The Usefulness of Useless Knowledge (1939) [pdf],34,2
+2026-07-27T03:52:10.344511+00:00,49058993,21,The relay market powering token resellers and fraud,167,99
+2026-07-27T03:52:10.344511+00:00,49060945,22,How to Block Some of the Bots,88,99
+2026-07-27T03:52:10.344511+00:00,49057877,23,The New AI Superpowers: Focus and Followthrough,167,49
+2026-07-27T03:52:10.344511+00:00,49022355,24,"I learned PCB design, 3D printing and C just to listen to music",187,35
+2026-07-27T03:52:10.344511+00:00,49057175,25,Kill The Cookie Banner,863,424
+2026-07-27T03:52:10.344511+00:00,49063648,26,Show HN: Port Zero – how I learned to stop worrying and love PORT=0,14,6
+2026-07-27T03:52:10.344511+00:00,49057666,27,Show HN: Reverse Minesweeper,164,54
+2026-07-27T03:52:10.344511+00:00,48997828,28,Some more things about Django I've been enjoying,138,85
+2026-07-27T03:52:10.344511+00:00,49016917,29,Using sed to make indexes for books (1997),53,9
+2026-07-27T03:52:10.344511+00:00,49006049,30,What's Under Your Feet in New York City?,170,36
+2026-07-27T03:52:10.344511+00:00,48997008,31,Jimothy the raccoon has a rare spinal condition. Here's what that means,109,55
+2026-07-27T03:52:10.344511+00:00,49024980,32,Rethinking legal education in the AI era,142,88
+2026-07-27T03:52:10.344511+00:00,49058669,33,London Gatwick has launched a robotic airport parking service,272,233
+2026-07-27T03:52:10.344511+00:00,49064392,34,New Jersey governor signs law banning surveillance pricing to protect shoppers,13,2
+2026-07-27T03:52:10.344511+00:00,49062259,35,Multiway Turing Machines (2021 pre-ai),20,3
+2026-07-27T03:52:10.344511+00:00,49056620,36,Terence Tao: Mathematics in the Age of AI [pdf],110,48
+2026-07-27T03:52:10.344511+00:00,49063570,37,Visualizing the Artemis II Mission,8,0
+2026-07-27T03:52:10.344511+00:00,49060978,38,The Strongest El Niño Ever,220,232
+2026-07-27T03:52:10.344511+00:00,49060592,39,It's not empowering to hand off the details,188,109
+2026-07-27T03:52:10.344511+00:00,49063757,40,How the Atmos clock functions,10,2
+2026-07-27T03:52:10.344511+00:00,49008834,41,Building the Grace Cathedral experience,30,5
+2026-07-27T03:52:10.344511+00:00,49020219,42,I wanted a clock that never needed setting. Things escalated,60,60
+2026-07-27T03:52:10.344511+00:00,49052570,43,What is happening to jobs? Separating AI hype from reality,250,320
+2026-07-27T03:52:10.344511+00:00,49055169,44,GrapheneOS protections against data extraction from locked devices,398,223
+2026-07-27T03:52:10.344511+00:00,49053708,45,Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home,168,62
+2026-07-27T03:52:10.344511+00:00,49063668,46,Open-source 3D-printed portable MRI machine built for under $70k,16,2
+2026-07-27T03:52:10.344511+00:00,49063397,47,Wattage: A token-spend profiler and cost-regression gate for AI agents,4,1
+2026-07-27T03:52:10.344511+00:00,49018302,48,Private mission launches to extend life of out-of-gas communication satellites,10,5
+2026-07-27T03:52:10.344511+00:00,49063853,49,The US is charging an American citizen for wiping his phone at the border,18,4
+2026-07-27T03:52:10.344511+00:00,49061879,50,Show HN: Infinite Jigsaw Game,23,20
