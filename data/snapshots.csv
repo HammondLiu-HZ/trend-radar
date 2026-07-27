@@ -19896,3 +19896,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-27T07:41:05.915807+00:00,49062259,48,Multiway Turing Machines (2021 pre-ai),21,3
 2026-07-27T07:41:05.915807+00:00,49063757,49,How the Atmos clock functions,14,4
 2026-07-27T07:41:05.915807+00:00,49063397,50,Wattage: A token-spend profiler and cost-regression gate for AI agents,6,1
+2026-07-27T11:33:46.607719+00:00,49065752,1,Kimi-K3 Releases on HuggingFace 7/27,426,187
+2026-07-27T11:33:46.607719+00:00,49067690,2,The Birth of the American 12-string Guitar,10,2
+2026-07-27T11:33:46.607719+00:00,49063754,3,PGSimCity - How PostgreSQL Works,670,66
+2026-07-27T11:33:46.607719+00:00,49009706,4,"Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",70,20
+2026-07-27T11:33:46.607719+00:00,49021270,5,Show HN: Physically accurate black hole you can put in your room,356,105
+2026-07-27T11:33:46.607719+00:00,49067352,6,Libsm64: Mario 64 as a library for use in external game engines,19,4
+2026-07-27T11:33:46.607719+00:00,49066928,7,VLC for Unity now supported on Linux,23,4
+2026-07-27T11:33:46.607719+00:00,49066962,8,Chinese chipmaker shares surge 470%,67,45
+2026-07-27T11:33:46.607719+00:00,49063175,9,"Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",206,106
+2026-07-27T11:33:46.607719+00:00,49060495,10,French firefighters face 'pyrocumulonimbus' for first time,402,276
+2026-07-27T11:33:46.607719+00:00,49067556,11,"If digital computers are conscious, they are conscious at the hardware level",3,0
+2026-07-27T11:33:46.607719+00:00,49060856,12,"Decker, a platform that builds on the legacy of Hypercard and classic macOS",326,75
+2026-07-27T11:33:46.607719+00:00,49007852,13,Building a Fast Lock-Free Queue in Modern C++ from Scratch,4,0
+2026-07-27T11:33:46.607719+00:00,49063022,14,US citizen charged after GrapheneOS phone wipes during airport search,853,639
+2026-07-27T11:33:46.607719+00:00,49066639,15,Modern email can be built from borrowed parts,13,2
+2026-07-27T11:33:46.607719+00:00,49066591,16,Elevated errors on Claude Opus 5,10,4
+2026-07-27T11:33:46.607719+00:00,49067043,17,Shay Locomotives,7,0
+2026-07-27T11:33:46.607719+00:00,49062291,18,We have proof automation now,184,70
+2026-07-27T11:33:46.607719+00:00,49057241,19,"Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",466,156
+2026-07-27T11:33:46.607719+00:00,49020219,20,I wanted a clock that never needed setting. Things escalated,123,109
+2026-07-27T11:33:46.607719+00:00,49066750,21,How Unix spell ran in 64 kB of RAM,41,3
+2026-07-27T11:33:46.607719+00:00,49013671,22,Boox Go 10.3 (gen II) Lumi: First impressions,13,4
+2026-07-27T11:33:46.607719+00:00,49067285,23,Why I Left Google DeepMind,19,1
+2026-07-27T11:33:46.607719+00:00,49060724,24,Introduction to Data-Oriented Design [pdf],186,51
+2026-07-27T11:33:46.607719+00:00,49063523,25,Fonts In Use – Find out where a font is used,80,9
+2026-07-27T11:33:46.607719+00:00,49033522,26,Measuring developer productivity with the DX Core 4,24,20
+2026-07-27T11:33:46.607719+00:00,49061887,27,Simulate cassette tape audio profiles using FFmpeg,140,58
+2026-07-27T11:33:46.607719+00:00,49059367,28,Design is compromise,264,88
+2026-07-27T11:33:46.607719+00:00,49020842,29,The Usefulness of Useless Knowledge (1939) [pdf],87,4
+2026-07-27T11:33:46.607719+00:00,49016303,30,8086 Emulator Inside Scratch,10,1
+2026-07-27T11:33:46.607719+00:00,49059398,31,"Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",131,27
+2026-07-27T11:33:46.607719+00:00,49057666,32,Show HN: Reverse Minesweeper,229,79
+2026-07-27T11:33:46.607719+00:00,49057398,33,Go Analysis Framework: modular static analysis by go team,212,78
+2026-07-27T11:33:46.607719+00:00,49057175,34,Kill The Cookie Banner,1066,522
+2026-07-27T11:33:46.607719+00:00,49067283,35,"""Please just use plain English, I don't understand what you're saying.""",13,1
+2026-07-27T11:33:46.607719+00:00,49066083,36,"Show HN: Watch 14-Byte AI ""brains"" attempt to solve a 2D maze (Its hard)",6,2
+2026-07-27T11:33:46.607719+00:00,49058993,37,The relay market powering token resellers and fraud,197,126
+2026-07-27T11:33:46.607719+00:00,49022355,38,"I learned PCB design, 3D printing and C just to listen to music",221,49
+2026-07-27T11:33:46.607719+00:00,49060295,39,How to write English prose (2023),122,64
+2026-07-27T11:33:46.607719+00:00,49057877,40,The New AI Superpowers: Focus and Followthrough,204,71
+2026-07-27T11:33:46.607719+00:00,49065956,41,ASD-STE100 Simplified Technical English for LLMs,4,2
+2026-07-27T11:33:46.607719+00:00,49062700,42,Teaching Kids Forth,91,42
+2026-07-27T11:33:46.607719+00:00,49066412,43,"Keigo Higashino, author of The Devotion of Suspect X, dies at 68",5,0
+2026-07-27T11:33:46.607719+00:00,49060945,44,How to Block Some of the Bots,105,137
+2026-07-27T11:33:46.607719+00:00,49006049,45,What's Under Your Feet in New York City?,189,47
+2026-07-27T11:33:46.607719+00:00,49066187,46,Could a Neuroscientist Understand a Microprocessor?(2017),3,0
+2026-07-27T11:33:46.607719+00:00,49066836,47,The Indie Hacker Economy Is a Pyramid Scheme,10,0
+2026-07-27T11:33:46.607719+00:00,49038035,48,History of John Backus's functional programming project (draft),31,2
+2026-07-27T11:33:46.607719+00:00,49016917,49,Using sed to make indexes for books (1997),63,11
+2026-07-27T11:33:46.607719+00:00,49067335,50,The Odyssey Leaked on X: Bootleg Seen by Millions in Hours Before Takedown,7,3
