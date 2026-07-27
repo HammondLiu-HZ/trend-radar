@@ -20045,3 +20045,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-27T17:04:25.355416+00:00,49066591,48,Elevated errors on Claude Opus 5,42,23
 2026-07-27T17:04:25.355416+00:00,49066187,49,Could a Neuroscientist Understand a Microprocessor?(2017),15,0
 2026-07-27T17:04:25.355416+00:00,49066750,50,How Unix spell ran in 64 kB of RAM (2025),70,5
+2026-07-27T19:46:06.821598+00:00,49045474,1,Watching Go's new garbage collector move through the heap,58,3
+2026-07-27T19:46:06.821598+00:00,49072310,2,Decathlon Germany adds Wero payment option to decathlon.de website,181,131
+2026-07-27T19:46:06.821598+00:00,49065752,3,Kimi-K3 on HuggingFace,1166,462
+2026-07-27T19:46:06.821598+00:00,49073942,4,Self-contained highly-portable Python distributions,25,2
+2026-07-27T19:46:06.821598+00:00,49020993,5,Glue bonds to nonstick surfaces and wipes clean with ethanol,96,43
+2026-07-27T19:46:06.821598+00:00,49072361,6,MAI-Cyber-1-Flash inside MDASH,174,87
+2026-07-27T19:46:06.821598+00:00,49012309,7,The computer that helped win World War II,109,51
+2026-07-27T19:46:06.821598+00:00,49070756,8,Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles,60,12
+2026-07-27T19:46:06.821598+00:00,49073665,9,Bytecode-to-Source Mapping,12,0
+2026-07-27T19:46:06.821598+00:00,49072462,10,Show HN: FeyNoBg – Automatic background removal model and training library,40,12
+2026-07-27T19:46:06.821598+00:00,49067301,12,Removing React.js from the codebase and adapting Htmx for UI interactivity (2023),179,126
+2026-07-27T19:46:06.821598+00:00,49070138,13,Paged Out #9 [pdf],94,13
+2026-07-27T19:46:06.821598+00:00,49073513,14,Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped,48,9
+2026-07-27T19:46:06.821598+00:00,49021007,15,Ray tracing massive amounts of animated geometry using tetrahedral cages,4,0
+2026-07-27T19:46:06.821598+00:00,49067352,16,Libsm64: Mario 64 as a library for use in external game engines,139,16
+2026-07-27T19:46:06.821598+00:00,49014937,17,"If Scrubs Hurt, Your ZFS Design Is Broken",19,8
+2026-07-27T19:46:06.821598+00:00,49026755,18,First Robotic Satellite Servicer Launched,62,31
+2026-07-27T19:46:06.821598+00:00,49067854,19,How is the Bun Rewrite in Rust going?,376,288
+2026-07-27T19:46:06.821598+00:00,49071915,20,Show HN: Infrawrench – A tool to manage cloud and svcs with workflows and chat,14,0
+2026-07-27T19:46:06.821598+00:00,49066639,21,Modern email can be built from borrowed parts,139,65
+2026-07-27T19:46:06.821598+00:00,49069132,22,Should you wash your solar panels?,186,166
+2026-07-27T19:46:06.821598+00:00,49066928,23,VLC for Unity now supported on Linux,121,36
+2026-07-27T19:46:06.821598+00:00,49071190,24,How real are real numbers? (2004),11,0
+2026-07-27T19:46:06.821598+00:00,49073785,25,The Artist Who Colored Ghibli,19,1
+2026-07-27T19:46:06.821598+00:00,49033114,26,Towards a Theory of Bugs: The Ruliology of the Unexpected,50,25
+2026-07-27T19:46:06.821598+00:00,49070985,27,Kimi-K3 Technical Report [pdf],339,134
+2026-07-27T19:46:06.821598+00:00,49067043,28,Shay Locomotives,63,16
+2026-07-27T19:46:06.821598+00:00,49067690,29,The Birth of the American 12-string Guitar (2013),64,39
+2026-07-27T19:46:06.821598+00:00,49063754,30,PGSimCity - How PostgreSQL Works,862,82
+2026-07-27T19:46:06.821598+00:00,49069939,31,AI companies spend record sums on Washington lobbying,234,123
+2026-07-27T19:46:06.821598+00:00,49070805,32,"Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",7,0
+2026-07-27T19:46:06.821598+00:00,49071365,33,"Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",7,2
+2026-07-27T19:46:06.821598+00:00,49068029,34,Elevated errors on Claude Opus 5,85,62
+2026-07-27T19:46:06.821598+00:00,49020219,35,I wanted a clock that never needed setting. Things escalated,163,150
+2026-07-27T19:46:06.821598+00:00,49021270,36,Show HN: Physically accurate black hole you can put in your room,457,168
+2026-07-27T19:46:06.821598+00:00,49067919,37,"Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",70,45
+2026-07-27T19:46:06.821598+00:00,49016303,38,8086 Emulator Inside Scratch,33,1
+2026-07-27T19:46:06.821598+00:00,49068738,39,AI companies are shredding rare books,687,434
+2026-07-27T19:46:06.821598+00:00,49073525,40,Why Agentic Systems Need Ontologies [video],9,0
+2026-07-27T19:46:06.821598+00:00,49073691,41,Exercise works for depression. So why isn't it treated like real medicine?,56,60
+2026-07-27T19:46:06.821598+00:00,49020842,42,The Usefulness of Useless Knowledge (1939) [pdf],110,8
+2026-07-27T19:46:06.821598+00:00,49063523,43,Fonts In Use – Find out where a font is used,95,12
+2026-07-27T19:46:06.821598+00:00,49066962,44,Chinese chipmaker shares surge 470%,185,164
+2026-07-27T19:46:06.821598+00:00,49069791,45,DIY Home Solar System for under $5000 (2025),36,14
+2026-07-27T19:46:06.821598+00:00,49070811,46,"Show HN: multiaes – hardware-accelerated, constant-time AES, two-file drop-in",4,0
+2026-07-27T19:46:06.821598+00:00,49073382,47,Read More. Read Often. Read Every Day,9,0
+2026-07-27T19:46:06.821598+00:00,49063175,48,"Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",260,151
+2026-07-27T19:46:06.821598+00:00,49060495,49,French firefighters face 'pyrocumulonimbus' for first time,434,349
+2026-07-27T19:46:06.821598+00:00,49019271,50,Show HN: Running PrismML's Bonsai inside DRAM by breaking DDR4 timing rules,20,6
