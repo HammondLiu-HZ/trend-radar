@@ -19946,3 +19946,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-27T11:33:46.607719+00:00,49038035,48,History of John Backus's functional programming project (draft),31,2
 2026-07-27T11:33:46.607719+00:00,49016917,49,Using sed to make indexes for books (1997),63,11
 2026-07-27T11:33:46.607719+00:00,49067335,50,The Odyssey Leaked on X: Bootleg Seen by Millions in Hours Before Takedown,7,3
+2026-07-27T14:53:46.798831+00:00,49065752,1,Kimi-K3 Releases on HuggingFace 7/27,712,320
+2026-07-27T14:53:46.798831+00:00,49067854,2,How is the Bun Rewrite in Rust going?,253,169
+2026-07-27T14:53:46.798831+00:00,49069132,3,Should you wash your solar panels?,76,57
+2026-07-27T14:53:46.798831+00:00,49068738,4,AI companies are shredding rare books,379,220
+2026-07-27T14:53:46.798831+00:00,49067301,5,Removing React.js from the codebase and adapting Htmx for UI interactivity (2023),88,48
+2026-07-27T14:53:46.798831+00:00,49067352,6,Libsm64: Mario 64 as a library for use in external game engines,74,11
+2026-07-27T14:53:46.798831+00:00,49063754,7,PGSimCity - How PostgreSQL Works,776,71
+2026-07-27T14:53:46.798831+00:00,49007852,8,Building a Fast Lock-Free Queue in Modern C++ from Scratch,46,15
+2026-07-27T14:53:46.798831+00:00,49009706,9,"Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",161,66
+2026-07-27T14:53:46.798831+00:00,49012309,10,The Computer That Helped Win World War II,8,0
+2026-07-27T14:53:46.798831+00:00,49066928,11,VLC for Unity now supported on Linux,72,18
+2026-07-27T14:53:46.798831+00:00,49021270,12,Show HN: Physically accurate black hole you can put in your room,406,148
+2026-07-27T14:53:46.798831+00:00,49033114,13,Towards a Theory of Bugs: The Ruliology of the Unexpected,30,2
+2026-07-27T14:53:46.798831+00:00,49026755,14,First Robotic Satellite Servicer Launched,19,4
+2026-07-27T14:53:46.798831+00:00,49067690,15,The Birth of the American 12-string Guitar,41,22
+2026-07-27T14:53:46.798831+00:00,49066639,16,Modern email can be built from borrowed parts,73,28
+2026-07-27T14:53:46.798831+00:00,49067043,17,Shay Locomotives,36,7
+2026-07-27T14:53:46.798831+00:00,49068029,18,Elevated errors on Claude Opus 5,60,49
+2026-07-27T14:53:46.798831+00:00,49068711,19,The Proof Machine (2016),15,1
+2026-07-27T14:53:46.798831+00:00,49063175,20,"Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",231,123
+2026-07-27T14:53:46.798831+00:00,49069447,21,We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles,35,17
+2026-07-27T14:53:46.798831+00:00,49060856,22,"Decker, a platform that builds on the legacy of Hypercard and classic macOS",346,79
+2026-07-27T14:53:46.798831+00:00,49063022,23,US citizen charged after GrapheneOS phone wipes during airport search,1039,797
+2026-07-27T14:53:46.798831+00:00,49067919,24,"Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",36,15
+2026-07-27T14:53:46.798831+00:00,49068707,25,Worse on Purpose,89,55
+2026-07-27T14:53:46.798831+00:00,49062291,26,We have proof automation now,206,87
+2026-07-27T14:53:46.798831+00:00,49060724,27,Introduction to Data-Oriented Design [pdf],218,57
+2026-07-27T14:53:46.798831+00:00,49016303,28,8086 Emulator Inside Scratch,24,1
+2026-07-27T14:53:46.798831+00:00,49069939,29,AI companies spend record sums on Washington lobbying,5,1
+2026-07-27T14:53:46.798831+00:00,49020219,30,I wanted a clock that never needed setting. Things escalated,148,126
+2026-07-27T14:53:46.798831+00:00,49066962,31,Chinese chipmaker shares surge 470%,149,136
+2026-07-27T14:53:46.798831+00:00,49070073,32,The Glass Famine,4,0
+2026-07-27T14:53:46.798831+00:00,49061887,33,Simulate cassette tape audio profiles using FFmpeg,157,68
+2026-07-27T14:53:46.798831+00:00,49020842,34,The Usefulness of Useless Knowledge (1939) [pdf],103,6
+2026-07-27T14:53:46.798831+00:00,49065779,35,"Show HN: Descript wanted $24/mo, I built an open-source alternative in a weekend",22,6
+2026-07-27T14:53:46.798831+00:00,49033522,36,Measuring developer productivity with the DX Core 4,39,30
+2026-07-27T14:53:46.798831+00:00,49063523,37,Fonts In Use – Find out where a font is used,88,11
+2026-07-27T14:53:46.798831+00:00,49066750,38,How Unix spell ran in 64 kB of RAM (2025),66,4
+2026-07-27T14:53:46.798831+00:00,49060495,39,French firefighters face 'pyrocumulonimbus' for first time,419,311
+2026-07-27T14:53:46.798831+00:00,49066187,40,Could a Neuroscientist Understand a Microprocessor?(2017),12,0
+2026-07-27T14:53:46.798831+00:00,49068718,41,"Work out daily? OK, but how socially fit are you? (2023)",16,2
+2026-07-27T14:53:46.798831+00:00,49066083,42,"Show HN: Watch 14-Byte AI ""brains"" attempt to solve a 2D maze (Its hard)",16,3
+2026-07-27T14:53:46.798831+00:00,49067632,43,Show HN: Dozenal – A Game of Spatial Arithmetic,11,5
+2026-07-27T14:53:46.798831+00:00,49060945,44,How to Block Some of the Bots,114,139
+2026-07-27T14:53:46.798831+00:00,49068728,45,Microsoft is using TPM chips to crack down on pirated Windows activations,12,6
+2026-07-27T14:53:46.798831+00:00,49066591,46,Elevated errors on Claude Opus 5,38,22
+2026-07-27T14:53:46.798831+00:00,49067285,47,Why I Left Google DeepMind,106,32
+2026-07-27T14:53:46.798831+00:00,49062700,48,Teaching Kids Forth,94,43
+2026-07-27T14:53:46.798831+00:00,49006049,49,What's Under Your Feet in New York City?,193,51
+2026-07-27T14:53:46.798831+00:00,49057241,50,"Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",479,164
