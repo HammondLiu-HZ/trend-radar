@@ -20094,3 +20094,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-27T19:46:06.821598+00:00,49063175,48,"Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",260,151
 2026-07-27T19:46:06.821598+00:00,49060495,49,French firefighters face 'pyrocumulonimbus' for first time,434,349
 2026-07-27T19:46:06.821598+00:00,49019271,50,Show HN: Running PrismML's Bonsai inside DRAM by breaking DDR4 timing rules,20,6
+2026-07-27T21:18:52.702507+00:00,49045474,1,Watching Go's new garbage collector move through the heap,103,7
+2026-07-27T21:18:52.702507+00:00,49074817,2,Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals,27,4
+2026-07-27T21:18:52.702507+00:00,49073942,3,Self-contained highly-portable Python distributions,63,12
+2026-07-27T21:18:52.702507+00:00,49020993,4,Glue bonds to nonstick surfaces and wipes clean with ethanol,117,59
+2026-07-27T21:18:52.702507+00:00,49012309,5,The computer that helped win World War II,137,60
+2026-07-27T21:18:52.702507+00:00,49021007,6,Ray tracing massive amounts of animated geometry using tetrahedral cages,21,3
+2026-07-27T21:18:52.702507+00:00,49070756,7,Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles,97,28
+2026-07-27T21:18:52.702507+00:00,49073513,8,Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped,141,49
+2026-07-27T21:18:52.702507+00:00,49073665,9,Bytecode-to-Source Mapping,21,1
+2026-07-27T21:18:52.702507+00:00,49072462,10,Show HN: FeyNoBg – Automatic background removal model and training library,61,15
+2026-07-27T21:18:52.702507+00:00,49072361,11,MAI-Cyber-1-Flash inside MDASH,196,103
+2026-07-27T21:18:52.702507+00:00,49065752,12,Kimi-K3 on HuggingFace,1247,482
+2026-07-27T21:18:52.702507+00:00,49067301,13,Removing React.js from the codebase and adapting Htmx for UI interactivity (2023),193,139
+2026-07-27T21:18:52.702507+00:00,49070138,14,Paged Out #9 [pdf],126,18
+2026-07-27T21:18:52.702507+00:00,49021024,16,Securing Services with Rootless Containers,8,4
+2026-07-27T21:18:52.702507+00:00,49074680,17,Professor's invisible prompt trap catches 32/35 students cheating with AI,64,46
+2026-07-27T21:18:52.702507+00:00,49067352,18,Libsm64: Mario 64 as a library for use in external game engines,155,19
+2026-07-27T21:18:52.702507+00:00,49071365,19,"Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",41,20
+2026-07-27T21:18:52.702507+00:00,49067854,20,How is the Bun Rewrite in Rust going?,403,307
+2026-07-27T21:18:52.702507+00:00,49026755,21,First Robotic Satellite Servicer Launched,68,37
+2026-07-27T21:18:52.702507+00:00,49070805,22,"Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",22,0
+2026-07-27T21:18:52.702507+00:00,49071190,23,How real are real numbers? (2004),27,16
+2026-07-27T21:18:52.702507+00:00,49066928,24,VLC for Unity now supported on Linux,133,37
+2026-07-27T21:18:52.702507+00:00,49066639,25,Modern email can be built from borrowed parts,153,83
+2026-07-27T21:18:52.702507+00:00,49073785,26,The Artist Who Colored Ghibli,58,3
+2026-07-27T21:18:52.702507+00:00,49033114,27,Towards a Theory of Bugs: The Ruliology of the Unexpected,55,29
+2026-07-27T21:18:52.702507+00:00,49072310,28,Decathlon Germany adds Wero payment option to decathlon.de website,275,181
+2026-07-27T21:18:52.702507+00:00,49069132,29,Should you wash your solar panels?,207,196
+2026-07-27T21:18:52.702507+00:00,49067043,30,Shay Locomotives,67,18
+2026-07-27T21:18:52.702507+00:00,49070985,31,Kimi-K3 Technical Report [pdf],350,152
+2026-07-27T21:18:52.702507+00:00,49074991,32,Forth,7,0
+2026-07-27T21:18:52.702507+00:00,49063754,33,PGSimCity - How PostgreSQL Works,873,85
+2026-07-27T21:18:52.702507+00:00,49074939,34,Yudkowsky and Soares' Book Is Lacking (2025),6,2
+2026-07-27T21:18:52.702507+00:00,49014937,35,"If Scrubs Hurt, Your ZFS Design Is Broken",24,13
+2026-07-27T21:18:52.702507+00:00,49067690,36,The Birth of the American 12-string Guitar (2013),64,41
+2026-07-27T21:18:52.702507+00:00,49068029,37,Elevated errors on Claude Opus 5,92,62
+2026-07-27T21:18:52.702507+00:00,49069939,38,AI companies spend record sums on Washington lobbying,244,136
+2026-07-27T21:18:52.702507+00:00,49020219,39,I wanted a clock that never needed setting. Things escalated,164,153
+2026-07-27T21:18:52.702507+00:00,49074693,40,The Author of Clean Code No Longer Reviews AI-Generated Code,10,6
+2026-07-27T21:18:52.702507+00:00,49021270,41,Show HN: Physically accurate black hole you can put in your room,463,177
+2026-07-27T21:18:52.702507+00:00,49016303,42,8086 Emulator Inside Scratch,36,1
+2026-07-27T21:18:52.702507+00:00,49067919,43,"Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",72,45
+2026-07-27T21:18:52.702507+00:00,49063523,44,Fonts In Use – Find out where a font is used,102,12
+2026-07-27T21:18:52.702507+00:00,49070811,45,"Show HN: multiaes – hardware-accelerated, constant-time AES, two-file drop-in",5,1
+2026-07-27T21:18:52.702507+00:00,49068738,46,AI companies are shredding rare books,705,449
+2026-07-27T21:18:52.702507+00:00,49071915,47,Show HN: Infrawrench – A tool to manage cloud and svcs with workflows and chat,17,0
+2026-07-27T21:18:52.702507+00:00,49020842,48,The Usefulness of Useless Knowledge (1939) [pdf],114,8
+2026-07-27T21:18:52.702507+00:00,49063175,49,"Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",262,151
+2026-07-27T21:18:52.702507+00:00,49060495,50,French firefighters face 'pyrocumulonimbus' for first time,439,352
