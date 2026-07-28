@@ -20586,3 +20586,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-28T21:15:28.220862+00:00,49089171,48,DEF CON bans Meta-style 'pervert glasses',17,5
 2026-07-28T21:15:28.220862+00:00,49040650,49,Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser,70,30
 2026-07-28T21:15:28.220862+00:00,49085236,50,GrapheneOS Defends Data-Wiping Function That Blocked US Border Search,132,155
+2026-07-28T23:08:25.424385+00:00,49089755,1,OpenAI just open-sourced Codex Security,245,47
+2026-07-28T23:08:25.424385+00:00,49089814,2,Half-Life ported to Mac OS 9,78,25
+2026-07-28T23:08:25.424385+00:00,49086788,3,"Substack writers, you need a website",360,192
+2026-07-28T23:08:25.424385+00:00,49090867,4,"Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn",32,19
+2026-07-28T23:08:25.424385+00:00,49090607,5,"Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",21,11
+2026-07-28T23:08:25.424385+00:00,49086971,6,Steel Bank Common Lisp version 2.6.7,177,71
+2026-07-28T23:08:25.424385+00:00,49090083,7,Anthropic publishes a practical key-recovery attack on HAWK-256,37,3
+2026-07-28T23:08:25.424385+00:00,49085698,8,Kimi K3 Architecture Overview and Notes,260,33
+2026-07-28T23:08:25.424385+00:00,49085731,9,Delayed Gratification – Proud to Be 'Last to Breaking News',215,120
+2026-07-28T23:08:25.424385+00:00,49087306,10,The iPhone Upgrade Program is being replaced by Apple Upgrade,115,203
+2026-07-28T23:08:25.424385+00:00,49085666,11,Zig's Incremental Compilation Internals,169,126
+2026-07-28T23:08:25.424385+00:00,49089240,12,Pacing the frontier,51,33
+2026-07-28T23:08:25.424385+00:00,49036460,13,The Fabled Flatbreads of Uzbekistan (2015),59,40
+2026-07-28T23:08:25.424385+00:00,49088058,14,MCP 2026-07-28 Specification: transport going stateless,91,29
+2026-07-28T23:08:25.424385+00:00,49090233,15,Running Kimi K3 on a M1 Max,62,40
+2026-07-28T23:08:25.424385+00:00,49087091,16,Discovering Cryptographic Weaknesses with Claude,154,81
+2026-07-28T23:08:25.424385+00:00,49028358,17,Show HN: How far do I have to go to run into 100k people?,27,20
+2026-07-28T23:08:25.424385+00:00,49077040,18,Interview with Boris Cherny [video],28,17
+2026-07-28T23:08:25.424385+00:00,49089600,19,Toolcraft,24,5
+2026-07-28T23:08:25.424385+00:00,49083314,20,New HIV vaccine shows unprecedented success in preclinical study,523,230
+2026-07-28T23:08:25.424385+00:00,49058956,21,Robotics development made dead simple (open source),10,4
+2026-07-28T23:08:25.424385+00:00,49085811,22,How Do I Profile eBPF Code?,103,6
+2026-07-28T23:08:25.424385+00:00,49085798,23,"Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",104,40
+2026-07-28T23:08:25.424385+00:00,49046983,24,Type checker may be wrong – Lean and the Curry-Howard correspondence,6,2
+2026-07-28T23:08:25.424385+00:00,49084813,25,"Una GPS smart watch – Repairable, USB-C charging, developer-friendly",121,80
+2026-07-28T23:08:25.424385+00:00,49082022,26,"Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",261,114
+2026-07-28T23:08:25.424385+00:00,49089045,27,"Hulios: An eBPF-powered, transparent Tor gateway for Linux",24,2
+2026-07-28T23:08:25.424385+00:00,49085280,28,Harmony Explained: Progress Towards a Scientific Theory of Music (2012),85,72
+2026-07-28T23:08:25.424385+00:00,49084989,29,"Anthropeum – Where in the world, and when, does this human artifact belong?",130,40
+2026-07-28T23:08:25.424385+00:00,49036068,30,How to survive boiling water,427,98
+2026-07-28T23:08:25.424385+00:00,49086890,31,WOFF 1.0: a milestone on W3C's journey of fonts on the web,59,4
+2026-07-28T23:08:25.424385+00:00,49084938,32,Stop Killing the Internet: No Digital ID and No Age Verification,477,169
+2026-07-28T23:08:25.424385+00:00,49081783,33,DMARC has been public since 2012 but most company domains still don't enforce it,171,105
+2026-07-28T23:08:25.424385+00:00,49088595,34,What if useful AI is a fantasy?,19,16
+2026-07-28T23:08:25.424385+00:00,49088887,35,Uv 0.12.0,106,39
+2026-07-28T23:08:25.424385+00:00,49080664,36,7.1 Earthquake in Japan,763,200
+2026-07-28T23:08:25.424385+00:00,49085509,37,"So, you want to make a game engine (2023)",58,33
+2026-07-28T23:08:25.424385+00:00,49084987,38,Now Is the Time to Give LLMs Access to the ACM Digital Library,102,86
+2026-07-28T23:08:25.424385+00:00,49089026,39,Granola for Apple Watch,18,6
+2026-07-28T23:08:25.424385+00:00,49085909,40,A walk through of the DeltaNet family of linear attention variants,278,115
+2026-07-28T23:08:25.424385+00:00,49081555,41,About the security content of macOS Tahoe 26.6,190,131
+2026-07-28T23:08:25.424385+00:00,49039904,42,The most advanced robotic servicing satellite–that we know about,33,2
+2026-07-28T23:08:25.424385+00:00,49081644,43,Google's Beyond Zero: Enterprise Security for the AI Era,140,73
+2026-07-28T23:08:25.424385+00:00,49083634,44,VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines,72,39
+2026-07-28T23:08:25.424385+00:00,49082857,45,I'm 38 and I Can't Support Myself Anymore,184,304
+2026-07-28T23:08:25.424385+00:00,49078454,46,A $500 RL fine-tune of a 9B open model beat frontier models on catalog review,306,116
+2026-07-28T23:08:25.424385+00:00,49089156,47,`bun init` automatically creates a Claude.md file by default,10,10
+2026-07-28T23:08:25.424385+00:00,49089626,48,OpenReviewer: A Specialized LLM for Generating Critical Scientific Paper Reviews,6,0
+2026-07-28T23:08:25.424385+00:00,49083239,49,"Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",104,44
+2026-07-28T23:08:25.424385+00:00,49075264,50,Solving Fermat: Andrew Wiles,71,32
