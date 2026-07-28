@@ -20290,3 +20290,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-28T06:34:34.531419+00:00,49078625,48,Show HN: SeaTicket – AI agent that resolve GitHub and Discord issues,6,2
 2026-07-28T06:34:34.531419+00:00,49067854,49,How is the Bun rewrite in Rust going?,463,364
 2026-07-28T06:34:34.531419+00:00,49079363,50,Day 0 Kimi-K3 Inference Deployment with Atom on AMD Instinct MI355X GPUs,7,0
+2026-07-28T09:41:26.640011+00:00,49080664,1,7.1 Earthquake in Japan,184,43
+2026-07-28T09:41:26.640011+00:00,49076057,2,Our position on open-weights models,901,1314
+2026-07-28T09:41:26.640011+00:00,49078454,3,A $500 RL fine-tune of a 9B open model beat frontier models on catalog review,179,47
+2026-07-28T09:41:26.640011+00:00,49079727,4,Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts,60,9
+2026-07-28T09:41:26.640011+00:00,49076391,5,Benchmarking Opus 5 on SlopCodeBench,285,62
+2026-07-28T09:41:26.640011+00:00,49077999,6,Vehicle Motion Cues,110,51
+2026-07-28T09:41:26.640011+00:00,49078583,7,Using an open model feels surprisingly good,275,97
+2026-07-28T09:41:26.640011+00:00,49079490,8,Neutrino-1 8B,78,21
+2026-07-28T09:41:26.640011+00:00,49041256,9,RTX 2080 Ti Memory Upgrade to 22 GB,108,70
+2026-07-28T09:41:26.640011+00:00,49045474,10,Watching Go's new garbage collector move through the heap,223,27
+2026-07-28T09:41:26.640011+00:00,49079454,11,PyTorch: A Reference Language,30,3
+2026-07-28T09:41:26.640011+00:00,49034534,12,Programming Languages Are Authoring Tools for Platforms,18,2
+2026-07-28T09:41:26.640011+00:00,49014622,13,TWC Classics,9,0
+2026-07-28T09:41:26.640011+00:00,49076505,14,Kimi K3 Now Available via Telnyx Inference API,85,40
+2026-07-28T09:41:26.640011+00:00,49076840,15,DConf 2026 in London,90,40
+2026-07-28T09:41:26.640011+00:00,49078463,16,EYG: A Programming Language for Humans,68,39
+2026-07-28T09:41:26.640011+00:00,49073834,17,Show HN: Yap – OSS on-device voice dictation for macOS with no model to download,69,24
+2026-07-28T09:41:26.640011+00:00,49074817,18,Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals,71,31
+2026-07-28T09:41:26.640011+00:00,49076791,19,C/C++ projects packaged for Zig,60,35
+2026-07-28T09:41:26.640011+00:00,49021007,20,Ray tracing massive amounts of animated geometry using tetrahedral cages,105,13
+2026-07-28T09:41:26.640011+00:00,49073942,21,Self-contained highly-portable Python distributions,145,31
+2026-07-28T09:41:26.640011+00:00,49049724,22,Some combinatorial applications of spacefilling curves,51,5
+2026-07-28T09:41:26.640011+00:00,49021024,23,Securing Services with Rootless Containers,98,28
+2026-07-28T09:41:26.640011+00:00,49070138,24,Paged Out #9 [pdf],235,25
+2026-07-28T09:41:26.640011+00:00,49071190,25,How real are real numbers? (2004),79,57
+2026-07-28T09:41:26.640011+00:00,49076923,26,Netflix employee fired for sharing personal details in retreat trust exercise,328,288
+2026-07-28T09:41:26.640011+00:00,49070756,27,Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles,155,51
+2026-07-28T09:41:26.640011+00:00,49076116,28,A missing underscore sent innocent man to prison for 18 months,298,169
+2026-07-28T09:41:26.640011+00:00,49031322,29,A Dying Art: The last of the morticians,30,2
+2026-07-28T09:41:26.640011+00:00,49077443,30,Don't ask an LLM for a confidence score,29,1
+2026-07-28T09:41:26.640011+00:00,49073513,31,Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped,310,123
+2026-07-28T09:41:26.640011+00:00,49072462,32,Show HN: FeyNoBg – Automatic background removal model and training library,106,25
+2026-07-28T09:41:26.640011+00:00,49077209,33,The Burau representation of the braid group is faithful for n = 4,30,12
+2026-07-28T09:41:26.640011+00:00,49066928,34,VLC for Unity now supported on Linux,163,51
+2026-07-28T09:41:26.640011+00:00,49079175,35,Why do we think we understand the world more than we actually do?,67,56
+2026-07-28T09:41:26.640011+00:00,49066639,36,Modern email can be built from borrowed parts,188,114
+2026-07-28T09:41:26.640011+00:00,49080775,38,Tell HN: Our paid Claude AI subscription unavailable >1 week and no support,5,5
+2026-07-28T09:41:26.640011+00:00,49080345,39,Microsoft unveils AI security tools it says outperform competing platforms,7,2
+2026-07-28T09:41:26.640011+00:00,49080217,40,News outlet killed story on plagiarism after Cambridge prof hired law firm,16,2
+2026-07-28T09:41:26.640011+00:00,49079146,41,"The age of token efficiency, the age of libraries",29,3
+2026-07-28T09:41:26.640011+00:00,49074991,42,Forth,182,40
+2026-07-28T09:41:26.640011+00:00,49020993,43,Glue bonds to nonstick surfaces and wipes clean with ethanol,169,95
+2026-07-28T09:41:26.640011+00:00,49076978,44,Show HN: Trylle – The Next-Gen Git Platform for Modern Teams,13,7
+2026-07-28T09:41:26.640011+00:00,49072361,45,MAI-Cyber-1-Flash inside MDASH,232,109
+2026-07-28T09:41:26.640011+00:00,49067854,46,How is the Bun rewrite in Rust going?,469,369
+2026-07-28T09:41:26.640011+00:00,49076176,47,OpenAI's rogue model attack is just the beginning,22,1
+2026-07-28T09:41:26.640011+00:00,49079244,48,eBay and former execs will pay $56M to settle harassment of Natick couple,22,0
+2026-07-28T09:41:26.640011+00:00,49065752,49,Kimi-K3 on HuggingFace,1341,530
+2026-07-28T09:41:26.640011+00:00,49033114,50,Towards a Theory of Bugs: The Ruliology of the Unexpected,66,38
