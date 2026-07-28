@@ -20388,3 +20388,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-28T12:03:02.458389+00:00,49050021,48,Three Theses on the Literacy Crisis,51,42
 2026-07-28T12:03:02.458389+00:00,49063754,49,PGSimCity - How PostgreSQL Works,910,89
 2026-07-28T12:03:02.458389+00:00,49079244,50,eBay and former execs will pay $56M to settle harassment of Natick couple,30,1
+2026-07-28T15:27:19.779353+00:00,49080664,1,7.1 Earthquake in Japan,581,119
+2026-07-28T15:27:19.779353+00:00,49083314,2,New HIV vaccine shows unprecedented success in preclinical study,218,95
+2026-07-28T15:27:19.779353+00:00,49082022,3,"Kimi Linear: An Expressive, Efficient Attention Architecture",114,35
+2026-07-28T15:27:19.779353+00:00,49083389,4,"Show HN: tale.fyi, we deserve a home for fiction",49,34
+2026-07-28T15:27:19.779353+00:00,49083239,5,"Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",61,22
+2026-07-28T15:27:19.779353+00:00,49075264,6,Solving Fermat: Andrew Wiles,31,13
+2026-07-28T15:27:19.779353+00:00,49081783,7,DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It,69,51
+2026-07-28T15:27:19.779353+00:00,49076057,8,Our position on open-weights models,1079,1552
+2026-07-28T15:27:19.779353+00:00,49081644,9,Google's Beyond Zero: Enterprise Security for the AI Era,82,51
+2026-07-28T15:27:19.779353+00:00,49036068,10,How to Survive Boiling Water,230,36
+2026-07-28T15:27:19.779353+00:00,49083132,11,What AI developers could learn from Charles Bukowski?,35,26
+2026-07-28T15:27:19.779353+00:00,49082550,12,Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings),37,20
+2026-07-28T15:27:19.779353+00:00,49081555,13,About the security content of macOS Tahoe 26.6,159,106
+2026-07-28T15:27:19.779353+00:00,49040650,14,Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser,47,11
+2026-07-28T15:27:19.779353+00:00,49078454,15,A $500 RL fine-tune of a 9B open model beat frontier models on catalog review,271,90
+2026-07-28T15:27:19.779353+00:00,49082695,16,Mondragon Corporation – a federation of co-operatives,119,19
+2026-07-28T15:27:19.779353+00:00,49083336,17,Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs,41,5
+2026-07-28T15:27:19.779353+00:00,49084404,18,"Ask HN: Crooked Timber showed showed me a virus captcha, What now?",24,14
+2026-07-28T15:27:19.779353+00:00,49081862,19,Usenet Archive Toolkit – process Usenet messages into a searchable archive,21,0
+2026-07-28T15:27:19.779353+00:00,49042438,20,Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules,27,11
+2026-07-28T15:27:19.779353+00:00,49076391,21,Benchmarking Opus 5 on SlopCodeBench,361,100
+2026-07-28T15:27:19.779353+00:00,49083634,22,VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines,4,1
+2026-07-28T15:27:19.779353+00:00,49082779,23,"Show HN: Segue – Save context in one AI, load it in another by a short handle",15,6
+2026-07-28T15:27:19.779353+00:00,49085236,24,GrapheneOS Defends Data-Wiping Function That Blocked US Border Search,6,0
+2026-07-28T15:27:19.779353+00:00,49038292,25,The Origins of Modern Mathematics in Russia,20,3
+2026-07-28T15:27:19.779353+00:00,49079727,26,Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts,97,31
+2026-07-28T15:27:19.779353+00:00,49077999,27,Vehicle Motion Cues,178,94
+2026-07-28T15:27:19.779353+00:00,49079454,28,PyTorch: A Reference Language,66,7
+2026-07-28T15:27:19.779353+00:00,49045474,29,Watching Go's new garbage collector move through the heap,254,38
+2026-07-28T15:27:19.779353+00:00,49014622,30,TWC Classics,33,3
+2026-07-28T15:27:19.779353+00:00,49076505,31,Kimi K3 Now Available via Telnyx Inference API,124,73
+2026-07-28T15:27:19.779353+00:00,49034534,32,Programming Languages Are Authoring Tools for Platforms,42,10
+2026-07-28T15:27:19.779353+00:00,49077443,33,Don't ask an LLM for a confidence score,73,24
+2026-07-28T15:27:19.779353+00:00,49076840,34,DConf 2026 in London,111,51
+2026-07-28T15:27:19.779353+00:00,49074817,35,Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals,82,36
+2026-07-28T15:27:19.779353+00:00,49073834,36,Show HN: Yap – OSS on-device voice dictation for macOS with no model to download,89,32
+2026-07-28T15:27:19.779353+00:00,49021007,37,Ray tracing massive amounts of animated geometry using tetrahedral cages,120,15
+2026-07-28T15:27:19.779353+00:00,49083752,39,Apple Just Became a $5T Company,8,1
+2026-07-28T15:27:19.779353+00:00,49083197,40,Private Claude Chats Exposed in Google and Bing Search Results,14,2
+2026-07-28T15:27:19.779353+00:00,49073942,41,Self-contained highly-portable Python distributions,157,35
+2026-07-28T15:27:19.779353+00:00,49081241,42,Show HN: BrowserAct: Browser Layer for Your AI Agent,8,1
+2026-07-28T15:27:19.779353+00:00,49049724,43,Some combinatorial applications of spacefilling curves,64,16
+2026-07-28T15:27:19.779353+00:00,49080905,44,"If AI Writes All the Code, What Do the Programmers Do?",17,18
+2026-07-28T15:27:19.779353+00:00,49021024,45,Securing Services with Rootless Containers,109,33
+2026-07-28T15:27:19.779353+00:00,49081887,46,Show HN: Open-source Cloudflare deployed agent native task management and wiki,9,0
+2026-07-28T15:27:19.779353+00:00,49041256,47,RTX 2080 Ti Memory Upgrade to 22 GB,143,124
+2026-07-28T15:27:19.779353+00:00,49071190,48,How real are real numbers? (2004),91,75
+2026-07-28T15:27:19.779353+00:00,49076791,49,C/C++ projects packaged for Zig,70,40
+2026-07-28T15:27:19.779353+00:00,49031322,50,A Dying Art: The last of the morticians,48,14
