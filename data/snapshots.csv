@@ -20192,3 +20192,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-27T23:12:21.870669+00:00,49016303,48,8086 Emulator Inside Scratch,39,1
 2026-07-27T23:12:21.870669+00:00,49063523,49,Fonts In Use – Find out where a font is used,104,12
 2026-07-27T23:12:21.870669+00:00,49014937,50,"If Scrubs Hurt, Your ZFS Design Is Broken",27,18
+2026-07-28T03:23:01.560816+00:00,49076057,1,Our position on open-weights models,545,766
+2026-07-28T03:23:01.560816+00:00,49078583,2,Using an open model feels surprisingly good,27,9
+2026-07-28T03:23:01.560816+00:00,49078454,3,A $500 RL fine-tune of a 9B open model beat frontier models on catalog review,19,4
+2026-07-28T03:23:01.560816+00:00,49076391,4,Benchmarking Opus 5 on SlopCodeBench,166,40
+2026-07-28T03:23:01.560816+00:00,49076900,5,Astronauts describe persistent 'observer' sensation after 6 month missions,102,46
+2026-07-28T03:23:01.560816+00:00,49041256,6,RTX 2080 Ti Memory Upgrade to 22 GB,41,24
+2026-07-28T03:23:01.560816+00:00,49076840,7,DConf 2026 in London,56,25
+2026-07-28T03:23:01.560816+00:00,49078463,8,EYG: A Programming Language for Humans,17,5
+2026-07-28T03:23:01.560816+00:00,49045474,9,Watching Go's new garbage collector move through the heap,180,17
+2026-07-28T03:23:01.560816+00:00,49073834,10,Show HN: Yap – OSS on-device voice dictation for macOS with no model to download,30,2
+2026-07-28T03:23:01.560816+00:00,49076791,11,C/C++ projects packaged for Zig,33,22
+2026-07-28T03:23:01.560816+00:00,49050021,12,Three Theses on the Literacy Crisis,27,18
+2026-07-28T03:23:01.560816+00:00,49077209,13,The Burau representation of the braid group is faithful for n = 4,25,8
+2026-07-28T03:23:01.560816+00:00,49073942,14,Self-contained highly-portable Python distributions,123,27
+2026-07-28T03:23:01.560816+00:00,49074817,15,Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals,61,24
+2026-07-28T03:23:01.560816+00:00,49021024,16,Securing Services with Rootless Containers,74,24
+2026-07-28T03:23:01.560816+00:00,49020993,17,Glue bonds to nonstick surfaces and wipes clean with ethanol,157,89
+2026-07-28T03:23:01.560816+00:00,49021007,18,Ray tracing massive amounts of animated geometry using tetrahedral cages,82,10
+2026-07-28T03:23:01.560816+00:00,49076923,19,Netflix employee fired for sharing personal details in retreat trust exercise,192,128
+2026-07-28T03:23:01.560816+00:00,49076116,20,A missing underscore sent innocent man to prison for 18 months,182,91
+2026-07-28T03:23:01.560816+00:00,49049724,21,Some combinatorial applications of spacefilling curves,20,1
+2026-07-28T03:23:01.560816+00:00,49071190,22,How real are real numbers? (2004),56,47
+2026-07-28T03:23:01.560816+00:00,49076978,23,Show HN: Trylle – The Next-Gen Git Platform for Modern Teams,10,6
+2026-07-28T03:23:01.560816+00:00,49070138,24,Paged Out #9 [pdf],188,22
+2026-07-28T03:23:01.560816+00:00,49012309,25,The computer that helped win World War II,179,72
+2026-07-28T03:23:01.560816+00:00,49070756,26,Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles,140,46
+2026-07-28T03:23:01.560816+00:00,49077999,28,Vehicle Motion Cues,15,6
+2026-07-28T03:23:01.560816+00:00,49073513,29,Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped,282,105
+2026-07-28T03:23:01.560816+00:00,49078266,30,Residential Proxies Are a National Security Threat,7,0
+2026-07-28T03:23:01.560816+00:00,49072462,31,Show HN: FeyNoBg – Automatic background removal model and training library,97,22
+2026-07-28T03:23:01.560816+00:00,49076505,32,Kimi K3 Now Available via Telnyx Inference API,27,12
+2026-07-28T03:23:01.560816+00:00,49074991,33,Forth,147,30
+2026-07-28T03:23:01.560816+00:00,49077443,34,Don't ask an LLM for a confidence score,8,0
+2026-07-28T03:23:01.560816+00:00,49072361,35,MAI-Cyber-1-Flash inside MDASH,221,108
+2026-07-28T03:23:01.560816+00:00,49077305,36,"Offgrid, solar powered fridge, with no battery bank",6,0
+2026-07-28T03:23:01.560816+00:00,49073665,37,Bytecode-to-Source Mapping,39,2
+2026-07-28T03:23:01.560816+00:00,49066928,38,VLC for Unity now supported on Linux,158,48
+2026-07-28T03:23:01.560816+00:00,49078318,39,Internet is no longer accessible?,15,8
+2026-07-28T03:23:01.560816+00:00,49077193,40,"Measured LLM inference speeds on Apple Silicon, with raw data (CC BY 4.0)",5,0
+2026-07-28T03:23:01.560816+00:00,49067854,41,How is the Bun rewrite in Rust going?,457,355
+2026-07-28T03:23:01.560816+00:00,49078371,42,Gemini Distillation Service,12,1
+2026-07-28T03:23:01.560816+00:00,49076176,43,OpenAI's rogue model attack is just the beginning,5,0
+2026-07-28T03:23:01.560816+00:00,49027989,44,Colorblind: Checking figure accessibility for colour blind people,11,12
+2026-07-28T03:23:01.560816+00:00,49078092,45,S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries,8,3
+2026-07-28T03:23:01.560816+00:00,49066639,46,Modern email can be built from borrowed parts,176,107
+2026-07-28T03:23:01.560816+00:00,49075639,47,AMD Advancing AI 2026: Talking CDNA5 with AMD's Alan Smith,9,0
+2026-07-28T03:23:01.560816+00:00,49078283,48,Norway Salmon,6,0
+2026-07-28T03:23:01.560816+00:00,49071365,49,"Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",73,29
+2026-07-28T03:23:01.560816+00:00,49065752,50,Kimi-K3 on HuggingFace,1319,521
