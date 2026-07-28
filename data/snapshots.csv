@@ -20437,3 +20437,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-28T15:27:19.779353+00:00,49071190,48,How real are real numbers? (2004),91,75
 2026-07-28T15:27:19.779353+00:00,49076791,49,C/C++ projects packaged for Zig,70,40
 2026-07-28T15:27:19.779353+00:00,49031322,50,A Dying Art: The last of the morticians,48,14
+2026-07-28T17:41:42.602414+00:00,49085909,1,You Could Have Come Up with Kimi Delta Attention,137,36
+2026-07-28T17:41:42.602414+00:00,49086788,2,"Substack writers, you need a website",36,23
+2026-07-28T17:41:42.602414+00:00,49085731,3,Delayed Gratification – Proud to Be 'Last to Breaking News',69,36
+2026-07-28T17:41:42.602414+00:00,49085811,4,How Do I Profile eBPF Code?,54,3
+2026-07-28T17:41:42.602414+00:00,49085666,5,Zig's Incremental Compilation Internals,72,26
+2026-07-28T17:41:42.602414+00:00,49085698,6,Kimi K3 Architecture Overview and Notes,63,6
+2026-07-28T17:41:42.602414+00:00,49080664,7,7.1 Earthquake in Japan,705,175
+2026-07-28T17:41:42.602414+00:00,49085798,8,"Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",44,19
+2026-07-28T17:41:42.602414+00:00,49086971,9,Steel Bank Common Lisp version 2.6.7,12,1
+2026-07-28T17:41:42.602414+00:00,49086987,10,Scientific computing in the age of agentic AI,10,1
+2026-07-28T17:41:42.602414+00:00,49087091,11,Discovering Cryptographic Weaknesses with Claude,16,1
+2026-07-28T17:41:42.602414+00:00,49083314,12,New HIV vaccine shows unprecedented success in preclinical study,358,172
+2026-07-28T17:41:42.602414+00:00,49085280,13,Harmony Explained: Progress Towards a Scientific Theory of Music (2012),49,42
+2026-07-28T17:41:42.602414+00:00,49082022,14,"Kimi Linear: An Expressive, Efficient Attention Architecture",204,75
+2026-07-28T17:41:42.602414+00:00,49086890,15,WOFF 1.0: a milestone on W3C's journey of fonts on the web,8,0
+2026-07-28T17:41:42.602414+00:00,49086871,16,Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code,6,0
+2026-07-28T17:41:42.602414+00:00,49084987,17,Now Is the Time to Give LLMs Access to the ACM Digital Library,25,9
+2026-07-28T17:41:42.602414+00:00,49086059,18,Xenharmlib (music theory library) adds support for Just Intonation,9,0
+2026-07-28T17:41:42.602414+00:00,49081783,19,DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It,116,82
+2026-07-28T17:41:42.602414+00:00,49036068,20,How to Survive Boiling Water,320,62
+2026-07-28T17:41:42.602414+00:00,49085509,21,"So, you want to make a game engine (2023)",20,14
+2026-07-28T17:41:42.602414+00:00,49083239,22,"Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",89,38
+2026-07-28T17:41:42.602414+00:00,49084938,23,Stop Killing the Internet: No Digital ID and No Age Verification,125,36
+2026-07-28T17:41:42.602414+00:00,49084989,24,Anthropeum,42,10
+2026-07-28T17:41:42.602414+00:00,49085503,25,Show HN: Flashpaper – Self-destructing secret sharing with no database,13,2
+2026-07-28T17:41:42.602414+00:00,49083634,26,VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines,40,23
+2026-07-28T17:41:42.602414+00:00,49081644,27,Google's Beyond Zero: Enterprise Security for the AI Era,110,62
+2026-07-28T17:41:42.602414+00:00,49084813,28,"Una Watch: Garmin watch competitor but repairable, open ecosystem and USB-C",21,11
+2026-07-28T17:41:42.602414+00:00,49075264,29,Solving Fermat: Andrew Wiles,47,21
+2026-07-28T17:41:42.602414+00:00,49040650,30,Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser,66,26
+2026-07-28T17:41:42.602414+00:00,49085449,31,Setup Script Should Support Git Worktrees,15,4
+2026-07-28T17:41:42.602414+00:00,49078454,32,A $500 RL fine-tune of a 9B open model beat frontier models on catalog review,290,103
+2026-07-28T17:41:42.602414+00:00,49042438,33,Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules,54,23
+2026-07-28T17:41:42.602414+00:00,49086633,34,Citizen of the Galaxy (full text) by Robert Heinlein,4,0
+2026-07-28T17:41:42.602414+00:00,49082550,35,Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings),50,32
+2026-07-28T17:41:42.602414+00:00,49086558,36,Show HN: Cynative – Read-only CLI in Go that explains your live infrastructure,4,1
+2026-07-28T17:41:42.602414+00:00,49084787,37,I'd not buy a LG monitor,20,7
+2026-07-28T17:41:42.602414+00:00,49081555,38,About the security content of macOS Tahoe 26.6,176,121
+2026-07-28T17:41:42.602414+00:00,49081862,39,Usenet Archive Toolkit – process Usenet messages into a searchable archive,30,4
+2026-07-28T17:41:42.602414+00:00,49082695,40,Mondragon Corporation – a federation of co-operatives,154,29
+2026-07-28T17:41:42.602414+00:00,49086065,41,Ubuntu's TPM encryption switches to snap kernel that blocks deb kernel packages,5,1
+2026-07-28T17:41:42.602414+00:00,49086041,42,"""Uncensored"" open LLMs are measurably more optimistic than their base models",6,1
+2026-07-28T17:41:42.602414+00:00,49085369,43,Rear center fuel tank adds roughly 20k liters and extends range by 1k NM,8,4
+2026-07-28T17:41:42.602414+00:00,49086026,44,WebKit Features for Safari 26.6,3,0
+2026-07-28T17:41:42.602414+00:00,49076057,45,Our position on open-weights models,1117,1630
+2026-07-28T17:41:42.602414+00:00,49082779,47,"Show HN: Segue – Save context in one AI, load it in another by a short handle",22,19
+2026-07-28T17:41:42.602414+00:00,49084091,48,Italy Blocks Reproductive Health Websites Women on Web and Women Help Women,96,92
+2026-07-28T17:41:42.602414+00:00,49024766,49,A Deep Logo Study,11,4
+2026-07-28T17:41:42.602414+00:00,49085050,50,PostgreSQL's MVCC is bad. So is everyone else's,11,0
