@@ -20339,3 +20339,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-28T09:41:26.640011+00:00,49079244,48,eBay and former execs will pay $56M to settle harassment of Natick couple,22,0
 2026-07-28T09:41:26.640011+00:00,49065752,49,Kimi-K3 on HuggingFace,1341,530
 2026-07-28T09:41:26.640011+00:00,49033114,50,Towards a Theory of Bugs: The Ruliology of the Unexpected,66,38
+2026-07-28T12:03:02.458389+00:00,49080664,1,7.1 Earthquake in Japan,308,67
+2026-07-28T12:03:02.458389+00:00,49081555,2,About the security content of macOS Tahoe 26.6,75,32
+2026-07-28T12:03:02.458389+00:00,49081644,3,Google's Beyond Zero: Enterprise Security for the AI Era,25,8
+2026-07-28T12:03:02.458389+00:00,49076057,4,Our position on open-weights models,972,1404
+2026-07-28T12:03:02.458389+00:00,49036068,5,How to Survive Boiling Water,69,12
+2026-07-28T12:03:02.458389+00:00,49078454,6,A $500 RL fine-tune of a 9B open model beat frontier models on catalog review,221,64
+2026-07-28T12:03:02.458389+00:00,49039555,7,Golang Maps: how Swiss Tables replaced the old bucket design,18,0
+2026-07-28T12:03:02.458389+00:00,49079727,8,Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts,74,15
+2026-07-28T12:03:02.458389+00:00,49076391,9,Benchmarking Opus 5 on SlopCodeBench,319,72
+2026-07-28T12:03:02.458389+00:00,49077999,10,Vehicle Motion Cues,137,65
+2026-07-28T12:03:02.458389+00:00,49079490,11,Neutrino-1 8B,100,35
+2026-07-28T12:03:02.458389+00:00,49045474,12,Watching Go's new garbage collector move through the heap,237,31
+2026-07-28T12:03:02.458389+00:00,49079454,13,PyTorch: A Reference Language,42,3
+2026-07-28T12:03:02.458389+00:00,49014622,14,TWC Classics,17,1
+2026-07-28T12:03:02.458389+00:00,49076505,15,Kimi K3 Now Available via Telnyx Inference API,98,53
+2026-07-28T12:03:02.458389+00:00,49034534,16,Programming Languages Are Authoring Tools for Platforms,24,6
+2026-07-28T12:03:02.458389+00:00,49073834,17,Show HN: Yap – OSS on-device voice dictation for macOS with no model to download,77,27
+2026-07-28T12:03:02.458389+00:00,49030552,18,Which Odyssey translation wins a blind reading test?,7,2
+2026-07-28T12:03:02.458389+00:00,49076840,19,DConf 2026 in London,104,46
+2026-07-28T12:03:02.458389+00:00,49074817,20,Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals,75,31
+2026-07-28T12:03:02.458389+00:00,49021007,21,Ray tracing massive amounts of animated geometry using tetrahedral cages,113,15
+2026-07-28T12:03:02.458389+00:00,49041256,22,RTX 2080 Ti Memory Upgrade to 22 GB,122,92
+2026-07-28T12:03:02.458389+00:00,49070138,23,Paged Out #9 [pdf],254,29
+2026-07-28T12:03:02.458389+00:00,49073942,24,Self-contained highly-portable Python distributions,152,32
+2026-07-28T12:03:02.458389+00:00,49049724,25,Some combinatorial applications of spacefilling curves,59,9
+2026-07-28T12:03:02.458389+00:00,49076791,26,C/C++ projects packaged for Zig,67,35
+2026-07-28T12:03:02.458389+00:00,49021024,27,Securing Services with Rootless Containers,104,32
+2026-07-28T12:03:02.458389+00:00,49031322,28,A Dying Art: The last of the morticians,41,5
+2026-07-28T12:03:02.458389+00:00,49077443,29,Don't ask an LLM for a confidence score,46,5
+2026-07-28T12:03:02.458389+00:00,49071190,30,How real are real numbers? (2004),84,63
+2026-07-28T12:03:02.458389+00:00,49076116,31,A missing underscore sent innocent man to prison for 18 months,327,189
+2026-07-28T12:03:02.458389+00:00,49076923,32,Netflix employee fired for sharing personal details in retreat trust exercise,358,366
+2026-07-28T12:03:02.458389+00:00,49070756,33,Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles,160,52
+2026-07-28T12:03:02.458389+00:00,49072462,34,Show HN: FeyNoBg – Automatic background removal model and training library,113,28
+2026-07-28T12:03:02.458389+00:00,49073513,35,Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped,318,134
+2026-07-28T12:03:02.458389+00:00,49078463,36,EYG: A Programming Language for Humans,72,48
+2026-07-28T12:03:02.458389+00:00,49066928,37,VLC for Unity now supported on Linux,166,52
+2026-07-28T12:03:02.458389+00:00,49077209,38,The Burau representation of the braid group is faithful for n = 4,31,12
+2026-07-28T12:03:02.458389+00:00,49076176,39,OpenAI's rogue model attack is just the beginning,32,10
+2026-07-28T12:03:02.458389+00:00,49080217,41,News outlet killed story on plagiarism after Cambridge prof hired law firm,30,6
+2026-07-28T12:03:02.458389+00:00,49077699,42,Private Credit Backstop: How Private Equity Socializes Risk Through Insurance,18,3
+2026-07-28T12:03:02.458389+00:00,49074991,43,Forth,188,45
+2026-07-28T12:03:02.458389+00:00,49067854,44,How is the Bun rewrite in Rust going?,472,373
+2026-07-28T12:03:02.458389+00:00,49072361,45,MAI-Cyber-1-Flash inside MDASH,234,109
+2026-07-28T12:03:02.458389+00:00,49020993,46,Glue bonds to nonstick surfaces and wipes clean with ethanol,171,97
+2026-07-28T12:03:02.458389+00:00,49065752,47,Kimi-K3 on HuggingFace,1348,533
+2026-07-28T12:03:02.458389+00:00,49050021,48,Three Theses on the Literacy Crisis,51,42
+2026-07-28T12:03:02.458389+00:00,49063754,49,PGSimCity - How PostgreSQL Works,910,89
+2026-07-28T12:03:02.458389+00:00,49079244,50,eBay and former execs will pay $56M to settle harassment of Natick couple,30,1
