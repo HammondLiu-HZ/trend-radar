@@ -20935,3 +20935,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-29T17:22:35.398360+00:00,49097289,48,Cooking for Engineers,11,1
 2026-07-29T17:22:35.398360+00:00,49091379,49,ReFrame – The EPaper Camera,198,44
 2026-07-29T17:22:35.398360+00:00,49097958,50,We built an MCP server for your SRE agent,6,0
+2026-07-29T19:35:05.636938+00:00,49098510,1,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,457,159
+2026-07-29T19:35:05.636938+00:00,49089500,2,Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident,117,62
+2026-07-29T19:35:05.636938+00:00,49098965,3,Superlogical,317,224
+2026-07-29T19:35:05.636938+00:00,49099715,4,Keychron announces first open-source firmware for gaming mice,130,61
+2026-07-29T19:35:05.636938+00:00,49095865,5,KOReader,573,184
+2026-07-29T19:35:05.636938+00:00,49101852,6,Kimi K3-256k,14,0
+2026-07-29T19:35:05.636938+00:00,49096969,7,Handbook.md shows that long policy documents do not reliably govern agents,241,155
+2026-07-29T19:35:05.636938+00:00,49101460,8,Austerity Breeds Financial Protectionism,11,2
+2026-07-29T19:35:05.636938+00:00,49096188,9,Document-borne AI worms can self-propagate through Copilot for Word,279,208
+2026-07-29T19:35:05.636938+00:00,49099804,10,Some thoughts about Anthropic's new cryptanalysis results,52,26
+2026-07-29T19:35:05.636938+00:00,49098198,12,A.I. companies are recruiting electricians and carpenters by the thousands,108,162
+2026-07-29T19:35:05.636938+00:00,49101371,13,The motion-sickness cure hidden in iPhone settings,10,16
+2026-07-29T19:35:05.636938+00:00,49101198,14,Turning a Dumb AC Unit Smart (Without Losing My Security Deposit),10,3
+2026-07-29T19:35:05.636938+00:00,49047351,15,The Rust on ESP Book,65,9
+2026-07-29T19:35:05.636938+00:00,49100043,16,Show HN: CheapFoodMap – A map of good meals under $10,44,40
+2026-07-29T19:35:05.636938+00:00,49096654,17,Darktable,208,107
+2026-07-29T19:35:05.636938+00:00,49065785,18,Hamburg's Stadtpark: A Park Built to Be Used,69,15
+2026-07-29T19:35:05.636938+00:00,49099143,19,Launch HN: Tokenless (YC S26) – Automatic model switching to save money,38,36
+2026-07-29T19:35:05.636938+00:00,49098130,20,"Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",72,29
+2026-07-29T19:35:05.636938+00:00,49101351,21,"How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",8,1
+2026-07-29T19:35:05.636938+00:00,49096811,22,Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem,93,5
+2026-07-29T19:35:05.636938+00:00,49061947,23,PGSimCity – an explorable 3D model that shows how Postgres works,12,2
+2026-07-29T19:35:05.636938+00:00,49101529,24,"Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",8,9
+2026-07-29T19:35:05.636938+00:00,49098260,25,Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon,44,14
+2026-07-29T19:35:05.636938+00:00,49036404,26,Learning Musical Multitasking,23,11
+2026-07-29T19:35:05.636938+00:00,49093569,27,More Tailscale tricks for your jailbroken Kindle,369,106
+2026-07-29T19:35:05.636938+00:00,49098388,28,"GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",60,12
+2026-07-29T19:35:05.636938+00:00,49099434,29,Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite,40,11
+2026-07-29T19:35:05.636938+00:00,49101655,30,How much can you delegate to agents?,6,0
+2026-07-29T19:35:05.636938+00:00,49093434,31,User Interfaces of the Demo Scene,370,67
+2026-07-29T19:35:05.636938+00:00,49095511,32,Amiga Graphics Archive,138,24
+2026-07-29T19:35:05.636938+00:00,49101197,33,Why has the display control panel pointer truncation bug gone unfixed for long?,4,0
+2026-07-29T19:35:05.636938+00:00,49063983,34,Hunter-gatherers introduced fish to a mountain lake 7000 years ago,111,88
+2026-07-29T19:35:05.636938+00:00,49098599,35,"Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",33,14
+2026-07-29T19:35:05.636938+00:00,49096427,36,Disrupting supply chain attacks on NPM and GitHub Actions,77,29
+2026-07-29T19:35:05.636938+00:00,49101360,37,The Growing Threat of Docusign Phishing Attacks,3,4
+2026-07-29T19:35:05.636938+00:00,49101334,38,A field day for Gleam's language server – Gleam v1.18.0 release,3,0
+2026-07-29T19:35:05.636938+00:00,49101226,39,"Axiom Foundation launches to publish law as open, verifiable code",5,3
+2026-07-29T19:35:05.636938+00:00,49094346,40,"SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",214,67
+2026-07-29T19:35:05.636938+00:00,49060363,41,Lisp moving Forth moving Lisp,110,26
+2026-07-29T19:35:05.636938+00:00,49101030,42,"Show HN: Dreeve, a self-hosted dashboard for your sports and fitness data",3,0
+2026-07-29T19:35:05.636938+00:00,49095628,43,SpecForge – A Platform for Authoring Formal Specifications,67,8
+2026-07-29T19:35:05.636938+00:00,49098953,44,Baseload Is a Myth (2024),19,28
+2026-07-29T19:35:05.636938+00:00,49097908,45,CipherX applies painless permanent tattoos with dissolving microneedle patches,21,29
+2026-07-29T19:35:05.636938+00:00,49091404,46,Watch out for missed warnings on vendor C++ toolchains,10,0
+2026-07-29T19:35:05.636938+00:00,49012754,47,Ancient Rome's version of Google Maps: how long to reach the beach,64,51
+2026-07-29T19:35:05.636938+00:00,49097081,48,Small Portable Weather Radar,19,4
+2026-07-29T19:35:05.636938+00:00,49101364,49,Anthropic Doesn't Want Open Weight Models Banned. Just All That Makes Them Good,10,0
+2026-07-29T19:35:05.636938+00:00,49101215,50,Ads-STE100: Simplified Technical English,10,2
