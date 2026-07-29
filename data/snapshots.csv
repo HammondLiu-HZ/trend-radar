@@ -20786,3 +20786,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-29T09:44:09.574655+00:00,49084938,48,Stop Killing the Internet: No Digital ID and No Age Verification,597,211
 2026-07-29T09:44:09.574655+00:00,49078454,49,A $500 RL fine-tune of a 9B open model beat frontier models on catalog review,321,124
 2026-07-29T09:44:09.574655+00:00,49081555,50,About the security content of macOS Tahoe 26.6,205,135
+2026-07-29T12:08:18.177229+00:00,49095865,1,KOReader,31,4
+2026-07-29T12:08:18.177229+00:00,49093569,2,More Tailscale tricks for your jailbroken Kindle,249,84
+2026-07-29T12:08:18.177229+00:00,49095714,3,National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf],35,35
+2026-07-29T12:08:18.177229+00:00,49095511,4,Amiga Graphics Archive,34,5
+2026-07-29T12:08:18.177229+00:00,49095628,5,SpecForge – A Platform for Authoring Formal Specifications,25,1
+2026-07-29T12:08:18.177229+00:00,49096188,6,Document-borne AI worms can self-propagate through Copilot for Word,11,4
+2026-07-29T12:08:18.177229+00:00,49093434,7,User Interfaces of the Demo Scene,252,40
+2026-07-29T12:08:18.177229+00:00,49094346,8,"SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",100,40
+2026-07-29T12:08:18.177229+00:00,49060363,9,Lisp moving Forth moving Lisp,46,16
+2026-07-29T12:08:18.177229+00:00,49089755,10,Codex Security,525,191
+2026-07-29T12:08:18.177229+00:00,49096043,11,They Stole Your Attention,8,4
+2026-07-29T12:08:18.177229+00:00,49090607,12,"Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",336,100
+2026-07-29T12:08:18.177229+00:00,49012754,13,Ancient Rome's version of Google Maps: how long to reach the beach,28,21
+2026-07-29T12:08:18.177229+00:00,49086788,14,"Substack writers, you need a website",569,304
+2026-07-29T12:08:18.177229+00:00,49089814,15,Half-Life ported to Mac OS 9,262,125
+2026-07-29T12:08:18.177229+00:00,49095143,16,Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels,13,9
+2026-07-29T12:08:18.177229+00:00,49095823,17,Starling: The first real desktop written by AI,7,2
+2026-07-29T12:08:18.177229+00:00,49085698,18,Kimi K3 Architecture Overview and Notes,454,98
+2026-07-29T12:08:18.177229+00:00,49095787,19,We Hardened an AI Security Platform Against 16 Critical Vulnerabilities,6,0
+2026-07-29T12:08:18.177229+00:00,49092499,20,LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences,217,134
+2026-07-29T12:08:18.177229+00:00,49091379,21,ReFrame – The EPaper Camera,155,33
+2026-07-29T12:08:18.177229+00:00,49093435,22,Cracking Windows Open: Porting RADV to Win32,56,19
+2026-07-29T12:08:18.177229+00:00,49086971,23,Steel Bank Common Lisp version 2.6.7,247,114
+2026-07-29T12:08:18.177229+00:00,49091730,24,Hubble: Open-source notetaking app for you and your agents,126,57
+2026-07-29T12:08:18.177229+00:00,49055816,25,Teach yourself programming in ten years (1998),162,95
+2026-07-29T12:08:18.177229+00:00,49085731,26,Delayed Gratification – Proud to Be 'Last to Breaking News',309,176
+2026-07-29T12:08:18.177229+00:00,49076450,27,"60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",27,9
+2026-07-29T12:08:18.177229+00:00,49093232,28,Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design,57,6
+2026-07-29T12:08:18.177229+00:00,49092754,29,Hooray for the Sockets Interface,45,26
+2026-07-29T12:08:18.177229+00:00,49084813,30,"Una GPS smart watch – Repairable, USB-C charging, developer-friendly",238,147
+2026-07-29T12:08:18.177229+00:00,49085666,31,Zig's Incremental Compilation Internals,252,182
+2026-07-29T12:08:18.177229+00:00,49087306,32,The iPhone Upgrade Program is being replaced by Apple Upgrade,189,337
+2026-07-29T12:08:18.177229+00:00,49095361,33,The only road in London where you have to drive on the right,5,3
+2026-07-29T12:08:18.177229+00:00,49084987,34,Now is the time to give LLMs access to the ACM digital library,176,147
+2026-07-29T12:08:18.177229+00:00,49078196,35,PostgreSQL's MVCC is bad. So is everyone else's,12,4
+2026-07-29T12:08:18.177229+00:00,49077040,36,Interview with Boris Cherny [video],64,68
+2026-07-29T12:08:18.177229+00:00,49036182,37,Mag Computer: A Mag History of RAM (1960–2025),26,3
+2026-07-29T12:08:18.177229+00:00,49092112,38,Multiple Mouse Cursors in Wayland,142,97
+2026-07-29T12:08:18.177229+00:00,49087091,39,Discovering Cryptographic Weaknesses with Claude,221,163
+2026-07-29T12:08:18.177229+00:00,49096290,40,French musician Kavinsky found dead,5,0
+2026-07-29T12:08:18.177229+00:00,49081783,41,DMARC has been public since 2012 but most company domains still don't enforce it,192,143
+2026-07-29T12:08:18.177229+00:00,49084989,42,"Anthropeum – Where in the world, and when, does this human artifact belong?",169,46
+2026-07-29T12:08:18.177229+00:00,49080664,43,7.1 Earthquake in Japan,788,217
+2026-07-29T12:08:18.177229+00:00,49036460,44,The Fabled Flatbreads of Uzbekistan (2015),98,77
+2026-07-29T12:08:18.177229+00:00,49084787,45,I'd not buy a LG monitor,150,81
+2026-07-29T12:08:18.177229+00:00,49094932,46,CodeCrucible: A blueprint for LLM-driven SAST,3,0
+2026-07-29T12:08:18.177229+00:00,49094931,47,The Shape of Data (2022),5,0
+2026-07-29T12:08:18.177229+00:00,49091895,48,Lightweight Spring Boot Monitoring Without Prometheus and Grafana,28,3
+2026-07-29T12:08:18.177229+00:00,49088058,49,MCP 2026-07-28 Specification: transport going stateless,119,37
+2026-07-29T12:08:18.177229+00:00,49085798,50,"Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",126,46
