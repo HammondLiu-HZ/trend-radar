@@ -20636,3 +20636,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-28T23:08:25.424385+00:00,49089626,48,OpenReviewer: A Specialized LLM for Generating Critical Scientific Paper Reviews,6,0
 2026-07-28T23:08:25.424385+00:00,49083239,49,"Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",104,44
 2026-07-28T23:08:25.424385+00:00,49075264,50,Solving Fermat: Andrew Wiles,71,32
+2026-07-29T03:25:01.648218+00:00,49089755,1,Codex Security,381,115
+2026-07-29T03:25:01.648218+00:00,49092499,2,LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences,42,27
+2026-07-29T03:25:01.648218+00:00,49090607,3,"Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",170,55
+2026-07-29T03:25:01.648218+00:00,49089814,4,Half-Life ported to Mac OS 9,174,86
+2026-07-29T03:25:01.648218+00:00,49092549,5,Chip stocks slide in US and Asia as AI jitters rattle investors,17,3
+2026-07-29T03:25:01.648218+00:00,49086788,6,"Substack writers, you need a website",438,215
+2026-07-29T03:25:01.648218+00:00,49069033,7,Truth is not a direction: a Tarski attack on LLM probes,33,7
+2026-07-29T03:25:01.648218+00:00,49055816,8,Teach yourself programming in ten years (1998),66,23
+2026-07-29T03:25:01.648218+00:00,49091730,9,Hubble: Open-source notetaking app for you and your agents,55,10
+2026-07-29T03:25:01.648218+00:00,49092112,10,Multiple Mouse Cursors in Wayland,30,12
+2026-07-29T03:25:01.648218+00:00,49091379,11,ReFrame – The EPaper Camera,49,13
+2026-07-29T03:25:01.648218+00:00,49092781,12,Does every question mark deserve a Betteridge?,6,5
+2026-07-29T03:25:01.648218+00:00,49086971,13,Steel Bank Common Lisp version 2.6.7,206,85
+2026-07-29T03:25:01.648218+00:00,49092754,14,Hooray for the Sockets Interface,6,3
+2026-07-29T03:25:01.648218+00:00,49085698,15,Kimi K3 Architecture Overview and Notes,335,51
+2026-07-29T03:25:01.648218+00:00,49085731,16,Delayed Gratification – Proud to Be 'Last to Breaking News',250,146
+2026-07-29T03:25:01.648218+00:00,49077040,17,Interview with Boris Cherny [video],42,41
+2026-07-29T03:25:01.648218+00:00,49091895,18,Lightweight Spring Boot Monitoring Without Prometheus and Grafana,16,1
+2026-07-29T03:25:01.648218+00:00,49092730,19,Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects,5,0
+2026-07-29T03:25:01.648218+00:00,49087306,20,The iPhone Upgrade Program is being replaced by Apple Upgrade,148,285
+2026-07-29T03:25:01.648218+00:00,49091738,21,The Difference Between a Button and a Link,46,18
+2026-07-29T03:25:01.648218+00:00,49073357,22,Beyond Greece and Rome,5,0
+2026-07-29T03:25:01.648218+00:00,49091703,23,Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU,31,10
+2026-07-29T03:25:01.648218+00:00,49085666,24,Zig's Incremental Compilation Internals,206,142
+2026-07-29T03:25:01.648218+00:00,49087091,25,Discovering Cryptographic Weaknesses with Claude,190,132
+2026-07-29T03:25:01.648218+00:00,49089240,26,Pacing the frontier,98,92
+2026-07-29T03:25:01.648218+00:00,49036460,27,The Fabled Flatbreads of Uzbekistan (2015),85,63
+2026-07-29T03:25:01.648218+00:00,49082022,28,"Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",290,123
+2026-07-29T03:25:01.648218+00:00,49083314,29,New HIV vaccine shows unprecedented success in preclinical study,586,246
+2026-07-29T03:25:01.648218+00:00,49084813,30,"Una GPS smart watch – Repairable, USB-C charging, developer-friendly",148,96
+2026-07-29T03:25:01.648218+00:00,49084987,31,Now is the time to give LLMs access to the ACM digital library,125,106
+2026-07-29T03:25:01.648218+00:00,49028358,32,Show HN: How far do I have to go to run into 100k people?,55,40
+2026-07-29T03:25:01.648218+00:00,49091994,33,Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf],8,2
+2026-07-29T03:25:01.648218+00:00,49088058,34,MCP 2026-07-28 Specification: transport going stateless,109,36
+2026-07-29T03:25:01.648218+00:00,49085811,35,How Do I Profile eBPF Code?,112,6
+2026-07-29T03:25:01.648218+00:00,49085798,36,"Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",114,42
+2026-07-29T03:25:01.648218+00:00,49084989,37,"Anthropeum – Where in the world, and when, does this human artifact belong?",151,46
+2026-07-29T03:25:01.648218+00:00,49030140,38,Lockless MPSC FIFO queues for io_uring,8,0
+2026-07-29T03:25:01.648218+00:00,49081783,39,DMARC has been public since 2012 but most company domains still don't enforce it,178,110
+2026-07-29T03:25:01.648218+00:00,49090233,40,Running Kimi K3 on a M1 Max,107,74
+2026-07-29T03:25:01.648218+00:00,49092151,41,Show HN: Learning Rust by writing a Markdown to HTML compiler,11,3
+2026-07-29T03:25:01.648218+00:00,49092471,42,Autoclaw,4,1
+2026-07-29T03:25:01.648218+00:00,49084938,43,Stop Killing the Internet: No Digital ID and No Age Verification,537,193
+2026-07-29T03:25:01.648218+00:00,49080664,44,7.1 Earthquake in Japan,776,208
+2026-07-29T03:25:01.648218+00:00,49090867,45,"Underwater oxygen loss threatens earth's stability, researchers warn",132,76
+2026-07-29T03:25:01.648218+00:00,49085280,46,Harmony Explained: Progress Towards a Scientific Theory of Music (2012),96,87
+2026-07-29T03:25:01.648218+00:00,49089600,47,Toolcraft,41,9
+2026-07-29T03:25:01.648218+00:00,49046983,48,An introduction to formal proof verification and the Curry-Howard Correspondence,23,3
+2026-07-29T03:25:01.648218+00:00,49084787,49,I'd not buy a LG monitor,102,53
+2026-07-29T03:25:01.648218+00:00,49086890,50,WOFF 1.0: a milestone on W3C's journey of fonts on the web,61,5
