@@ -20836,3 +20836,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-29T12:08:18.177229+00:00,49091895,48,Lightweight Spring Boot Monitoring Without Prometheus and Grafana,28,3
 2026-07-29T12:08:18.177229+00:00,49088058,49,MCP 2026-07-28 Specification: transport going stateless,119,37
 2026-07-29T12:08:18.177229+00:00,49085798,50,"Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",126,46
+2026-07-29T15:12:54.418253+00:00,49095865,1,KOReader,368,128
+2026-07-29T15:12:54.418253+00:00,49096969,2,Handbook.md shows that long policy documents do not reliably govern agents,110,68
+2026-07-29T15:12:54.418253+00:00,49097730,3,Choose DuckDB rather than SQLite,59,33
+2026-07-29T15:12:54.418253+00:00,49097003,4,TokenTown: A visual way to understand how LLMs work,37,5
+2026-07-29T15:12:54.418253+00:00,49096654,5,Darktable,70,27
+2026-07-29T15:12:54.418253+00:00,49096811,6,Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem,23,0
+2026-07-29T15:12:54.418253+00:00,49093569,7,More Tailscale tricks for your jailbroken Kindle,324,100
+2026-07-29T15:12:54.418253+00:00,49096188,8,Document-borne AI worms can self-propagate through Copilot for Word,177,158
+2026-07-29T15:12:54.418253+00:00,49095511,9,Amiga Graphics Archive,94,16
+2026-07-29T15:12:54.418253+00:00,49063983,10,Hunter-gatherers introduced fish to a mountain lake 7000 years ago,35,25
+2026-07-29T15:12:54.418253+00:00,49096427,11,Disrupting supply chain attacks on NPM and GitHub Actions,39,10
+2026-07-29T15:12:54.418253+00:00,49093434,12,User Interfaces of the Demo Scene,321,54
+2026-07-29T15:12:54.418253+00:00,49095628,13,SpecForge – A Platform for Authoring Formal Specifications,54,3
+2026-07-29T15:12:54.418253+00:00,49096742,14,A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT),24,2
+2026-07-29T15:12:54.418253+00:00,49023076,15,"Show HN: Write, simulate and synthesize VHDL/Verilog in the browser",6,3
+2026-07-29T15:12:54.418253+00:00,49094346,16,"SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",170,53
+2026-07-29T15:12:54.418253+00:00,49060363,17,Lisp moving Forth moving Lisp,80,21
+2026-07-29T15:12:54.418253+00:00,49089755,18,Codex Security,568,207
+2026-07-29T15:12:54.418253+00:00,49097727,19,"Show HN: A verification browser for AI agents – 13ms windows, one-call checks",7,1
+2026-07-29T15:12:54.418253+00:00,49096290,20,French musician Kavinsky found dead,217,51
+2026-07-29T15:12:54.418253+00:00,49012754,21,Ancient Rome's version of Google Maps: how long to reach the beach,56,33
+2026-07-29T15:12:54.418253+00:00,49097591,22,Valve Sponsors Work Bringing Open-Source RADV Driver to Windows,28,6
+2026-07-29T15:12:54.418253+00:00,49096767,23,Show HN: Echologue – the private AI voice journal I built for myself,20,9
+2026-07-29T15:12:54.418253+00:00,49051355,24,ALP: Adaptive lossless floating-point compression,22,2
+2026-07-29T15:12:54.418253+00:00,49096885,25,San Francisco: Don't Fall for Industry Defense of Surveillance Pricing,44,3
+2026-07-29T15:12:54.418253+00:00,49098198,26,A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands,12,1
+2026-07-29T15:12:54.418253+00:00,49090607,27,"Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",390,105
+2026-07-29T15:12:54.418253+00:00,49095361,28,The only road in London where you have to drive on the right,30,37
+2026-07-29T15:12:54.418253+00:00,49089814,29,Half-Life ported to Mac OS 9,290,139
+2026-07-29T15:12:54.418253+00:00,49097209,30,Kalshi attacks a Wisconsin law banning election bets as 'voter suppression',39,8
+2026-07-29T15:12:54.418253+00:00,49091379,31,ReFrame – The EPaper Camera,195,43
+2026-07-29T15:12:54.418253+00:00,49093435,32,Cracking Windows Open: Porting RADV to Win32,80,22
+2026-07-29T15:12:54.418253+00:00,49086971,33,Steel Bank Common Lisp version 2.6.7,256,128
+2026-07-29T15:12:54.418253+00:00,49092499,34,LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences,240,153
+2026-07-29T15:12:54.418253+00:00,49096917,35,Show HN: Bullshit Detector – agent skills that fact-check videos and articles,51,48
+2026-07-29T15:12:54.418253+00:00,49096914,36,Show HN: A Persistent AI RPG Engine Built with React SPA and Supabase,4,0
+2026-07-29T15:12:54.418253+00:00,49084813,37,"Una GPS smart watch – Repairable, USB-C charging, developer-friendly",262,168
+2026-07-29T15:12:54.418253+00:00,49091730,38,Hubble: Open-source notetaking app for you and your agents,138,64
+2026-07-29T15:12:54.418253+00:00,49093232,39,Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design,69,8
+2026-07-29T15:12:54.418253+00:00,49087306,40,The iPhone Upgrade Program is being replaced by Apple Upgrade,197,362
+2026-07-29T15:12:54.418253+00:00,49085666,41,Zig's Incremental Compilation Internals,262,205
+2026-07-29T15:12:54.418253+00:00,49084987,42,Now is the time to give LLMs access to the ACM digital library,185,162
+2026-07-29T15:12:54.418253+00:00,49076450,43,"60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",34,20
+2026-07-29T15:12:54.418253+00:00,49096599,44,"Show HN: Free weather map with 25 model layers, live lightning and storm cells",4,0
+2026-07-29T15:12:54.418253+00:00,49092754,45,Hooray for the Sockets Interface,52,34
+2026-07-29T15:12:54.418253+00:00,49096841,46,Google DeepMind dismantles AlphaFold team,25,9
+2026-07-29T15:12:54.418253+00:00,49095601,47,Ask HN: Anyone else tired of brands discontinuing your favorite everyday items?,28,20
+2026-07-29T15:12:54.418253+00:00,49086788,48,"Substack writers, you need a website",613,320
+2026-07-29T15:12:54.418253+00:00,49077040,49,Interview with Boris Cherny [video],67,71
+2026-07-29T15:12:54.418253+00:00,49097401,50,Does Your Home or Classroom Need an Air Purifier? Make a Corsi-Rosenthal Box,13,1
