@@ -20736,3 +20736,53 @@ captured_at,story_id,rank,title,score,comments
 2026-07-29T06:39:50.978895+00:00,49081644,48,Google's Beyond Zero: Enterprise Security for the AI Era,148,75
 2026-07-29T06:39:50.978895+00:00,49090233,49,Running Kimi K3 on a M1 Max,118,85
 2026-07-29T06:39:50.978895+00:00,49091994,50,Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf],10,2
+2026-07-29T09:44:09.574655+00:00,49093569,1,More Tailscale tricks for your jailbroken Kindle,175,52
+2026-07-29T09:44:09.574655+00:00,49093434,2,User Interfaces of the Demo Scene,181,29
+2026-07-29T09:44:09.574655+00:00,49094346,3,"SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",42,8
+2026-07-29T09:44:09.574655+00:00,49060363,4,Lisp moving Forth moving Lisp,20,1
+2026-07-29T09:44:09.574655+00:00,49089755,5,Codex Security,498,167
+2026-07-29T09:44:09.574655+00:00,49090607,6,"Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",313,81
+2026-07-29T09:44:09.574655+00:00,49086788,7,"Substack writers, you need a website",541,272
+2026-07-29T09:44:09.574655+00:00,49089814,8,Half-Life ported to Mac OS 9,241,115
+2026-07-29T09:44:09.574655+00:00,49093435,9,Cracking Windows Open: Porting RADV to Win32,44,12
+2026-07-29T09:44:09.574655+00:00,49092499,10,LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences,182,109
+2026-07-29T09:44:09.574655+00:00,49091379,11,ReFrame – The EPaper Camera,128,26
+2026-07-29T09:44:09.574655+00:00,49085698,12,Kimi K3 Architecture Overview and Notes,419,84
+2026-07-29T09:44:09.574655+00:00,49091730,13,Hubble: Open-source notetaking app for you and your agents,110,41
+2026-07-29T09:44:09.574655+00:00,49055816,14,Teach yourself programming in ten years (1998),138,83
+2026-07-29T09:44:09.574655+00:00,49093232,15,Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design,51,3
+2026-07-29T09:44:09.574655+00:00,49069033,16,Truth is not a direction: a Tarski attack on LLM probes,94,43
+2026-07-29T09:44:09.574655+00:00,49086971,17,Steel Bank Common Lisp version 2.6.7,232,101
+2026-07-29T09:44:09.574655+00:00,49085731,18,Delayed Gratification – Proud to Be 'Last to Breaking News',295,165
+2026-07-29T09:44:09.574655+00:00,49092754,19,Hooray for the Sockets Interface,37,19
+2026-07-29T09:44:09.574655+00:00,49076450,20,"60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",17,5
+2026-07-29T09:44:09.574655+00:00,49036182,21,Mag Computer: A Mag History of RAM (1960–2025),22,2
+2026-07-29T09:44:09.574655+00:00,49085666,22,Zig's Incremental Compilation Internals,244,168
+2026-07-29T09:44:09.574655+00:00,49021756,23,Log is non-monotonic in PHP and Lua,54,33
+2026-07-29T09:44:09.574655+00:00,49084813,24,"Una GPS smart watch – Repairable, USB-C charging, developer-friendly",214,136
+2026-07-29T09:44:09.574655+00:00,49087306,25,The iPhone Upgrade Program is being replaced by Apple Upgrade,181,328
+2026-07-29T09:44:09.574655+00:00,49073357,26,Beyond Greece and Rome,34,31
+2026-07-29T09:44:09.574655+00:00,49077040,27,Interview with Boris Cherny [video],56,62
+2026-07-29T09:44:09.574655+00:00,49084987,28,Now is the time to give LLMs access to the ACM digital library,159,129
+2026-07-29T09:44:09.574655+00:00,49092112,29,Multiple Mouse Cursors in Wayland,129,89
+2026-07-29T09:44:09.574655+00:00,49021447,30,Fixing a bug with byte order marks,6,6
+2026-07-29T09:44:09.574655+00:00,49087091,31,Discovering Cryptographic Weaknesses with Claude,218,158
+2026-07-29T09:44:09.574655+00:00,49091895,32,Lightweight Spring Boot Monitoring Without Prometheus and Grafana,28,3
+2026-07-29T09:44:09.574655+00:00,49089240,33,Pacing the frontier,127,148
+2026-07-29T09:44:09.574655+00:00,49081783,34,DMARC has been public since 2012 but most company domains still don't enforce it,188,116
+2026-07-29T09:44:09.574655+00:00,49094320,35,eBay agrees $56M settlement with bloggers over harassment case,20,3
+2026-07-29T09:44:09.574655+00:00,49084989,36,"Anthropeum – Where in the world, and when, does this human artifact belong?",165,46
+2026-07-29T09:44:09.574655+00:00,49093163,37,Good CLI Design Is Mostly Silence,15,4
+2026-07-29T09:44:09.574655+00:00,49036460,38,The Fabled Flatbreads of Uzbekistan (2015),96,75
+2026-07-29T09:44:09.574655+00:00,49088058,39,MCP 2026-07-28 Specification: transport going stateless,117,37
+2026-07-29T09:44:09.574655+00:00,49080664,40,7.1 Earthquake in Japan,788,215
+2026-07-29T09:44:09.574655+00:00,49085798,41,"Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",124,46
+2026-07-29T09:44:09.574655+00:00,49028358,42,Show HN: How far do I have to go to run into 100k people?,67,43
+2026-07-29T09:44:09.574655+00:00,49085811,43,How Do I Profile eBPF Code?,115,7
+2026-07-29T09:44:09.574655+00:00,49094996,44,ChatGPT claims rogue AI attacked more companies,5,0
+2026-07-29T09:44:09.574655+00:00,49084787,45,I'd not buy a LG monitor,136,71
+2026-07-29T09:44:09.574655+00:00,49092730,46,Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects,14,2
+2026-07-29T09:44:09.574655+00:00,49093528,47,Show HN: Firemaps Spain – Live wildfire map with wind flow for ES and PT,8,2
+2026-07-29T09:44:09.574655+00:00,49084938,48,Stop Killing the Internet: No Digital ID and No Age Verification,597,211
+2026-07-29T09:44:09.574655+00:00,49078454,49,A $500 RL fine-tune of a 9B open model beat frontier models on catalog review,321,124
+2026-07-29T09:44:09.574655+00:00,49081555,50,About the security content of macOS Tahoe 26.6,205,135
