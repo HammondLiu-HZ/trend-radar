@@ -20886,3 +20886,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-29T15:12:54.418253+00:00,49086788,48,"Substack writers, you need a website",613,320
 2026-07-29T15:12:54.418253+00:00,49077040,49,Interview with Boris Cherny [video],67,71
 2026-07-29T15:12:54.418253+00:00,49097401,50,Does Your Home or Classroom Need an Air Purifier? Make a Corsi-Rosenthal Box,13,1
+2026-07-29T17:22:35.398360+00:00,49098510,1,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,263,70
+2026-07-29T17:22:35.398360+00:00,49099015,2,Superlogical – Mitchell Hashimoto,124,29
+2026-07-29T17:22:35.398360+00:00,49095865,3,KOReader,509,164
+2026-07-29T17:22:35.398360+00:00,49098965,4,Mitchellh starts a new company: Superlogical,109,46
+2026-07-29T17:22:35.398360+00:00,49096969,5,Handbook.md shows that long policy documents do not reliably govern agents,193,129
+2026-07-29T17:22:35.398360+00:00,49099715,6,Keychron announces first open-source firmware for gaming mice,24,11
+2026-07-29T17:22:35.398360+00:00,49098466,8,Hugging Face: Anatomy of a frontier-lab agent intrusion,64,20
+2026-07-29T17:22:35.398360+00:00,49099143,9,Launch HN: Tokenless (YC S26) – Automatic model switching to save money,23,20
+2026-07-29T17:22:35.398360+00:00,49065785,10,Hamburg's Stadtpark: A Park Built to Be Used,38,5
+2026-07-29T17:22:35.398360+00:00,49096811,11,Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem,71,0
+2026-07-29T17:22:35.398360+00:00,49096188,12,Document-borne AI worms can self-propagate through Copilot for Word,231,182
+2026-07-29T17:22:35.398360+00:00,49098130,13,"Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",36,11
+2026-07-29T17:22:35.398360+00:00,49063983,14,Hunter-gatherers introduced fish to a mountain lake 7000 years ago,88,60
+2026-07-29T17:22:35.398360+00:00,49098599,15,"Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",26,5
+2026-07-29T17:22:35.398360+00:00,49100035,16,Infrastructure Patterns for Agentic Applications,15,1
+2026-07-29T17:22:35.398360+00:00,49098388,17,"GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",35,6
+2026-07-29T17:22:35.398360+00:00,49047351,18,The Rust on ESP Book,19,1
+2026-07-29T17:22:35.398360+00:00,49093569,19,More Tailscale tricks for your jailbroken Kindle,357,103
+2026-07-29T17:22:35.398360+00:00,49098260,20,Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon,25,4
+2026-07-29T17:22:35.398360+00:00,49096654,21,Darktable,157,85
+2026-07-29T17:22:35.398360+00:00,49095511,22,Amiga Graphics Archive,117,20
+2026-07-29T17:22:35.398360+00:00,49093434,23,User Interfaces of the Demo Scene,351,59
+2026-07-29T17:22:35.398360+00:00,49096427,24,Disrupting supply chain attacks on NPM and GitHub Actions,67,21
+2026-07-29T17:22:35.398360+00:00,49099434,25,Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite,15,3
+2026-07-29T17:22:35.398360+00:00,49094346,26,"SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",198,63
+2026-07-29T17:22:35.398360+00:00,49095628,27,SpecForge – A Platform for Authoring Formal Specifications,65,7
+2026-07-29T17:22:35.398360+00:00,49099021,28,Ask HN: My domain registrar (Hover) rug-pulled me for $3000,44,33
+2026-07-29T17:22:35.398360+00:00,49097908,29,CipherX applies painless permanent tattoos with dissolving microneedle patches,14,9
+2026-07-29T17:22:35.398360+00:00,49060363,30,Lisp moving Forth moving Lisp,97,23
+2026-07-29T17:22:35.398360+00:00,49098375,31,Google shuts down Nobel Prize winning AlphaFold,61,14
+2026-07-29T17:22:35.398360+00:00,49098953,32,Baseload Is a Myth (2024),10,12
+2026-07-29T17:22:35.398360+00:00,49012754,33,Ancient Rome's version of Google Maps: how long to reach the beach,64,51
+2026-07-29T17:22:35.398360+00:00,49096742,34,A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT),30,4
+2026-07-29T17:22:35.398360+00:00,49097833,35,"Show HN: The Federalist Papers, typeset as the 1787 newspapers they ran in",16,0
+2026-07-29T17:22:35.398360+00:00,49023076,36,"Show HN: Write, simulate and synthesize VHDL/Verilog in the browser",15,4
+2026-07-29T17:22:35.398360+00:00,49096885,37,San Francisco: Don't Fall for Industry Defense of Surveillance Pricing,103,54
+2026-07-29T17:22:35.398360+00:00,49097003,38,TokenTown: A visual way to understand how LLMs work,61,19
+2026-07-29T17:22:35.398360+00:00,49097081,39,Small Portable Weather Radar,12,2
+2026-07-29T17:22:35.398360+00:00,49051355,40,ALP: Adaptive lossless floating-point compression,27,3
+2026-07-29T17:22:35.398360+00:00,49098035,41,Graph Engineering Needs a Compiler,9,1
+2026-07-29T17:22:35.398360+00:00,49096290,42,French musician Kavinsky found dead,291,65
+2026-07-29T17:22:35.398360+00:00,49097591,43,Valve Sponsors Work Bringing Open-Source RADV Driver to Windows,55,17
+2026-07-29T17:22:35.398360+00:00,49097990,44,Teacher arrested for clapping in opposition at an AI data center meeting,33,4
+2026-07-29T17:22:35.398360+00:00,49091404,45,Watch out for missed warnings on vendor C++ toolchains,3,0
+2026-07-29T17:22:35.398360+00:00,49097209,46,Kalshi attacks a Wisconsin law banning election bets as 'voter suppression',72,34
+2026-07-29T17:22:35.398360+00:00,49096767,47,Show HN: Echologue – the private AI voice journal I built for myself,25,11
+2026-07-29T17:22:35.398360+00:00,49097289,48,Cooking for Engineers,11,1
+2026-07-29T17:22:35.398360+00:00,49091379,49,ReFrame – The EPaper Camera,198,44
+2026-07-29T17:22:35.398360+00:00,49097958,50,We built an MCP server for your SRE agent,6,0
