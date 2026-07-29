@@ -21033,3 +21033,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-29T21:04:59.188672+00:00,49101795,48,John Titor,16,2
 2026-07-29T21:04:59.188672+00:00,49101503,49,A New Chapter for Reve,4,1
 2026-07-29T21:04:59.188672+00:00,49061947,50,PGSimCity – an explorable 3D model that shows how Postgres works,28,3
+2026-07-29T23:04:36.315644+00:00,49102774,1,The coolest use for the Vision Pro,240,108
+2026-07-29T23:04:36.315644+00:00,49103285,2,AI's top startups are barely publishing their research,85,59
+2026-07-29T23:04:36.315644+00:00,49098510,3,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,596,209
+2026-07-29T23:04:36.315644+00:00,49098965,4,Superlogical,461,290
+2026-07-29T23:04:36.315644+00:00,49099715,5,Keychron announces first open-source firmware for gaming mice,243,94
+2026-07-29T23:04:36.315644+00:00,49101852,6,Kimi K3-256k,293,87
+2026-07-29T23:04:36.315644+00:00,49089500,7,Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident,248,130
+2026-07-29T23:04:36.315644+00:00,49103089,8,The Cold Email,23,9
+2026-07-29T23:04:36.315644+00:00,49095865,9,KOReader,639,206
+2026-07-29T23:04:36.315644+00:00,49102425,11,A Trampoline,44,22
+2026-07-29T23:04:36.315644+00:00,49101198,12,Turning a dumb AC unit smart (without losing my security deposit),83,70
+2026-07-29T23:04:36.315644+00:00,49048570,13,Staging patches with Git add -p,23,20
+2026-07-29T23:04:36.315644+00:00,49098198,14,A.I. companies are recruiting electricians and carpenters by the thousands,196,240
+2026-07-29T23:04:36.315644+00:00,49062997,15,Refactoring cuisine: how an Iraqi stew sailed to Singapore,11,0
+2026-07-29T23:04:36.315644+00:00,49103910,16,GitHub is the wrong shape for this new world,8,1
+2026-07-29T23:04:36.315644+00:00,49096969,17,Handbook.md shows that long policy documents do not reliably govern agents,279,177
+2026-07-29T23:04:36.315644+00:00,49096188,18,Document-borne AI worms can self-propagate through Copilot for Word,322,244
+2026-07-29T23:04:36.315644+00:00,49101529,19,"Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",46,26
+2026-07-29T23:04:36.315644+00:00,49102150,20,Claude: Elevated errors across all models,246,218
+2026-07-29T23:04:36.315644+00:00,49099143,21,Launch HN: Tokenless (YC S26) – Automatic model switching to save money,46,41
+2026-07-29T23:04:36.315644+00:00,49100043,22,Show HN: CheapFoodMap – A map of good meals under $10,96,119
+2026-07-29T23:04:36.315644+00:00,49099804,23,Some thoughts about Anthropic's new cryptanalysis results,92,50
+2026-07-29T23:04:36.315644+00:00,49096654,24,Darktable,274,134
+2026-07-29T23:04:36.315644+00:00,49101351,25,How to not die by a thousand cuts or how to think about software quality (2023),43,23
+2026-07-29T23:04:36.315644+00:00,49065785,26,Hamburg's Stadtpark: A Park Built to Be Used,107,26
+2026-07-29T23:04:36.315644+00:00,49101655,27,How much can you delegate to agents?,38,1
+2026-07-29T23:04:36.315644+00:00,49047351,28,The Rust on ESP Book,110,9
+2026-07-29T23:04:36.315644+00:00,49098130,29,"Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",116,41
+2026-07-29T23:04:36.315644+00:00,49063983,30,Hunter-gatherers introduced fish to a mountain lake 7000 years ago,134,101
+2026-07-29T23:04:36.315644+00:00,49098388,31,"GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",83,18
+2026-07-29T23:04:36.315644+00:00,49096811,32,Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem,104,11
+2026-07-29T23:04:36.315644+00:00,49102525,33,"Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",27,7
+2026-07-29T23:04:36.315644+00:00,49093434,34,User Interfaces of the Demo Scene,391,68
+2026-07-29T23:04:36.315644+00:00,49098260,35,Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon,71,17
+2026-07-29T23:04:36.315644+00:00,49095511,36,Amiga Graphics Archive,150,24
+2026-07-29T23:04:36.315644+00:00,49101371,37,The motion-sickness cure hidden in iPhone settings,42,29
+2026-07-29T23:04:36.315644+00:00,49103344,38,Engineers have stopped reviewing PRs,5,0
+2026-07-29T23:04:36.315644+00:00,49101360,39,The growing threat of Docusign phishing attacks (2024),13,7
+2026-07-29T23:04:36.315644+00:00,49094346,40,"SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",224,70
+2026-07-29T23:04:36.315644+00:00,49099434,41,Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite,53,16
+2026-07-29T23:04:36.315644+00:00,49103219,42,Dr. Dobb's Journal (articles from 1988 – 2009),5,1
+2026-07-29T23:04:36.315644+00:00,49096427,43,Disrupting supply chain attacks on NPM and GitHub Actions,82,33
+2026-07-29T23:04:36.315644+00:00,49060363,44,Lisp moving Forth moving Lisp,113,28
+2026-07-29T23:04:36.315644+00:00,49101226,45,"Axiom Foundation launches to publish law as open, verifiable code",13,11
+2026-07-29T23:04:36.315644+00:00,49101197,46,Why has the display control panel pointer truncation bug gone unfixed for long?,7,5
+2026-07-29T23:04:36.315644+00:00,49098599,47,"Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",38,14
+2026-07-29T23:04:36.315644+00:00,49095628,48,SpecForge – A Platform for Authoring Formal Specifications,71,10
+2026-07-29T23:04:36.315644+00:00,49045686,49,I'm running a programming contest,14,5
+2026-07-29T23:04:36.315644+00:00,49093569,50,More Tailscale tricks for your jailbroken Kindle,385,108
