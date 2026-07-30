@@ -21425,3 +21425,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-30T18:23:01.770941+00:00,49065874,48,"Concurrency, interactivity, mutability, choose two",55,28
 2026-07-30T18:23:01.770941+00:00,49109026,49,Why don't people use formal methods? (2019),99,82
 2026-07-30T18:23:01.770941+00:00,49050218,50,ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison,55,14
+2026-07-30T20:19:41.668731+00:00,49112744,1,Read this before you buy that TV streaming stick,270,119
+2026-07-30T20:19:41.668731+00:00,49111237,2,Gemini Robotics 2 brings whole body intelligence to robots,357,322
+2026-07-30T20:19:41.668731+00:00,49047839,3,"2x, not 10x: coding with LLMs in 2026",81,38
+2026-07-30T20:19:41.668731+00:00,49112232,4,Stacked PRs are now live on GitHub,214,80
+2026-07-30T20:19:41.668731+00:00,49113913,5,Making Postgres queues scale,57,5
+2026-07-30T20:19:41.668731+00:00,49113801,6,So you want to use plants to reduce CO₂,51,25
+2026-07-30T20:19:41.668731+00:00,49113929,7,UEFA and its national associations will not participate in FIFA competitions,325,207
+2026-07-30T20:19:41.668731+00:00,49113338,8,CodePen 2.0,60,13
+2026-07-30T20:19:41.668731+00:00,49112867,9,Advancing the price-performance frontier with GPT‑5.6,374,243
+2026-07-30T20:19:41.668731+00:00,49111305,10,"Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",123,65
+2026-07-30T20:19:41.668731+00:00,49113059,11,"We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",184,108
+2026-07-30T20:19:41.668731+00:00,49083970,12,"Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",14,1
+2026-07-30T20:19:41.668731+00:00,49111523,14,Solving poker in custom WebGPU kernels,15,1
+2026-07-30T20:19:41.668731+00:00,49111176,15,The Economic Benefit of Refactoring,143,61
+2026-07-30T20:19:41.668731+00:00,49107950,16,Google will expand age checks on Android worldwide till the end of the year,290,358
+2026-07-30T20:19:41.668731+00:00,49113599,17,Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it,21,11
+2026-07-30T20:19:41.668731+00:00,49109721,18,Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools,60,36
+2026-07-30T20:19:41.668731+00:00,49110547,19,Hacker Public Radio,102,20
+2026-07-30T20:19:41.668731+00:00,49063454,20,Show HN: Optimize and serve models with Fable quality at half the cost,51,23
+2026-07-30T20:19:41.668731+00:00,49100518,21,Show HN: Supapool – a Supabase per coding agent in ~400 ms,16,0
+2026-07-30T20:19:41.668731+00:00,49109193,22,Why is everyone trying to build a solid-state battery?,134,161
+2026-07-30T20:19:41.668731+00:00,49108685,23,GCC steering committee announces AI policy,178,207
+2026-07-30T20:19:41.668731+00:00,49109616,24,Upper stage impacting the moon on 2026 August 5,124,36
+2026-07-30T20:19:41.668731+00:00,49112368,25,How Olinia Turns Mexico's EV Ambition into Reality,30,31
+2026-07-30T20:19:41.668731+00:00,49109474,26,RFC 8890 – The Internet is for End Users (2020),106,30
+2026-07-30T20:19:41.668731+00:00,49110308,27,The lost civic life of movie rental stores,63,118
+2026-07-30T20:19:41.668731+00:00,49048728,28,How to Mount a Balcony Awning (2025),43,5
+2026-07-30T20:19:41.668731+00:00,49110348,29,Why DNA damage from smoking and UV rays cause cancer in some but not others,57,74
+2026-07-30T20:19:41.668731+00:00,49113864,30,What would it mean to see a new color?,9,2
+2026-07-30T20:19:41.668731+00:00,49113611,31,Africa Has a High-Speed Train; California Doesn't,7,2
+2026-07-30T20:19:41.668731+00:00,49107246,32,Ron Gilbert started production on Thimbleweed Park 2,221,102
+2026-07-30T20:19:41.668731+00:00,49113543,33,Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents,8,0
+2026-07-30T20:19:41.668731+00:00,49110655,34,"SDL_GPU minimal, single-header, high-performance 2D graphics painting library",51,18
+2026-07-30T20:19:41.668731+00:00,49114264,35,Uefa to boycott FIFA competitions if Infantino's proposal goes through,4,1
+2026-07-30T20:19:41.668731+00:00,49112327,36,Toot.community is shutting down,35,59
+2026-07-30T20:19:41.668731+00:00,49108678,37,Are We Stuck with Lean?,116,57
+2026-07-30T20:19:41.668731+00:00,49114639,38,Agent Skill to Force Docs in ASD-STE100 Simplified Technical English,5,3
+2026-07-30T20:19:41.668731+00:00,49109026,39,Why don't people use formal methods? (2019),102,88
+2026-07-30T20:19:41.668731+00:00,49111006,40,Paging Through a Parquet File in DuckDB: File_row_number or Offset?,36,3
+2026-07-30T20:19:41.668731+00:00,49111019,41,Show HN: Claude-account – switch Claude Code accounts without logging in again,37,22
+2026-07-30T20:19:41.668731+00:00,49108971,42,How old is Ann?,56,59
+2026-07-30T20:19:41.668731+00:00,49108485,43,3D Pinball for Windows (1995),92,42
+2026-07-30T20:19:41.668731+00:00,49074842,44,Building a native C# implementation of CEL engine,48,13
+2026-07-30T20:19:41.668731+00:00,49108048,45,Gpiozero Flow,114,34
+2026-07-30T20:19:41.668731+00:00,49109165,46,OpenJDK Interim Policy on Generative AI,54,75
+2026-07-30T20:19:41.668731+00:00,49103059,47,"RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]",25,5
+2026-07-30T20:19:41.668731+00:00,49089502,48,Azulejo,168,59
+2026-07-30T20:19:41.668731+00:00,49113630,49,"An LLM-assisted security review of GlobaLeaks: 41 findings for $3,140",5,4
+2026-07-30T20:19:41.668731+00:00,49108571,50,Show HN: I made a game where you build a CPU from logic gates,69,61
