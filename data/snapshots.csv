@@ -21131,3 +21131,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-30T03:12:54.853435+00:00,49104272,48,OpenDerm – Open-source robotic 3D skin imaging,8,1
 2026-07-30T03:12:54.853435+00:00,49105190,49,A pharmacy chain in Vermont implemented AI for efficiency,29,40
 2026-07-30T03:12:54.853435+00:00,49094346,50,"SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",231,70
+2026-07-30T06:34:56.116887+00:00,49103285,1,AI's top startups are barely publishing their research,349,195
+2026-07-30T06:34:56.116887+00:00,49102774,2,The coolest use for the Vision Pro,547,229
+2026-07-30T06:34:56.116887+00:00,49098510,3,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,730,256
+2026-07-30T06:34:56.116887+00:00,49098965,4,Superlogical,623,386
+2026-07-30T06:34:56.116887+00:00,49104117,5,LLM Honeypot,161,48
+2026-07-30T06:34:56.116887+00:00,49106384,6,"1,741 ""informed"" consents with one click? GDPR complaint filed",50,11
+2026-07-30T06:34:56.116887+00:00,49104335,7,The Productivity Mirage,161,51
+2026-07-30T06:34:56.116887+00:00,49099715,8,Keychron announces first open-source firmware for gaming mice,344,140
+2026-07-30T06:34:56.116887+00:00,49104937,9,Logic for Programmers,69,4
+2026-07-30T06:34:56.116887+00:00,49103089,10,The Cold Email,163,65
+2026-07-30T06:34:56.116887+00:00,49089500,11,Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident,347,201
+2026-07-30T06:34:56.116887+00:00,49098198,12,A.I. companies are recruiting electricians and carpenters by the thousands,262,322
+2026-07-30T06:34:56.116887+00:00,49105642,13,NSF pilots 4-year PhDs with industry research placements,65,67
+2026-07-30T06:34:56.116887+00:00,49101852,14,Kimi K3-256k,400,116
+2026-07-30T06:34:56.116887+00:00,49061213,15,Angels in Coptic Magic I: Introduction,33,2
+2026-07-30T06:34:56.116887+00:00,49101198,16,Turning a dumb AC unit smart (without losing my security deposit),144,116
+2026-07-30T06:34:56.116887+00:00,49100043,17,Show HN: CheapFoodMap – A map of good meals under $10,175,184
+2026-07-30T06:34:56.116887+00:00,49105563,18,Kuna: Decompiler Development in the Age of Coding Agents,22,5
+2026-07-30T06:34:56.116887+00:00,49099804,19,Some thoughts about Anthropic's new cryptanalysis results,135,69
+2026-07-30T06:34:56.116887+00:00,49104140,20,Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC),39,11
+2026-07-30T06:34:56.116887+00:00,49047351,21,The Rust on ESP Book,145,15
+2026-07-30T06:34:56.116887+00:00,49101529,22,"Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",78,40
+2026-07-30T06:34:56.116887+00:00,49099143,23,Launch HN: Tokenless (YC S26) – Automatic model switching to save money,58,50
+2026-07-30T06:34:56.116887+00:00,49080031,25,"Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",31,7
+2026-07-30T06:34:56.116887+00:00,49062997,26,Refactoring cuisine: how an Iraqi stew sailed to Singapore,47,12
+2026-07-30T06:34:56.116887+00:00,49102425,27,A Trampoline,90,52
+2026-07-30T06:34:56.116887+00:00,49104747,28,Show HN: A local merge queue for parallel Claude Code agents,28,8
+2026-07-30T06:34:56.116887+00:00,49065785,29,Hamburg's Stadtpark: A Park Built to Be Used,137,32
+2026-07-30T06:34:56.116887+00:00,49069345,30,The Royal Order of Operations,3,1
+2026-07-30T06:34:56.116887+00:00,49095865,31,KOReader,698,215
+2026-07-30T06:34:56.116887+00:00,49098130,32,"Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",131,44
+2026-07-30T06:34:56.116887+00:00,49063983,33,Hunter-gatherers introduced fish to a mountain lake 7000 years ago,144,106
+2026-07-30T06:34:56.116887+00:00,49096811,34,Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem,110,16
+2026-07-30T06:34:56.116887+00:00,49054884,35,Thanatos Rising,7,1
+2026-07-30T06:34:56.116887+00:00,49105136,36,Flume Water Monitor 915 MHz Security Is Pretty Good,26,19
+2026-07-30T06:34:56.116887+00:00,49098388,37,"GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",92,19
+2026-07-30T06:34:56.116887+00:00,49105924,38,Why the future is local app,3,0
+2026-07-30T06:34:56.116887+00:00,49095511,39,Amiga Graphics Archive,156,24
+2026-07-30T06:34:56.116887+00:00,49101655,40,How much can you delegate to agents?,48,9
+2026-07-30T06:34:56.116887+00:00,49096188,41,Document-borne AI worms can self-propagate through Copilot for Word,359,279
+2026-07-30T06:34:56.116887+00:00,49096969,42,Handbook.md shows that long policy documents do not reliably govern agents,314,187
+2026-07-30T06:34:56.116887+00:00,49098260,43,Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon,81,17
+2026-07-30T06:34:56.116887+00:00,49103219,44,Dr. Dobb's Journal (articles from 1988 – 2009),22,5
+2026-07-30T06:34:56.116887+00:00,49094346,45,"SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",238,73
+2026-07-30T06:34:56.116887+00:00,49065540,46,Interconverting std::function with copyable_function,15,0
+2026-07-30T06:34:56.116887+00:00,49096654,47,Darktable,335,158
+2026-07-30T06:34:56.116887+00:00,49105076,48,Overengineered Calculator: Zig and QBE,9,0
+2026-07-30T06:34:56.116887+00:00,49103912,49,Three Virtues by Larry Wall,21,3
+2026-07-30T06:34:56.116887+00:00,49104184,50,Enabling two settings tripled our scores on the ARC-AGI-3 benchmark,23,0
