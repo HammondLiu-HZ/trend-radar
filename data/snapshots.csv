@@ -21376,3 +21376,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-30T16:41:56.879473+00:00,49098965,48,Superlogical,746,443
 2026-07-30T16:41:56.879473+00:00,49112294,49,How Donald Trump Silenced the Voice of America,3,0
 2026-07-30T16:41:56.879473+00:00,49104117,50,LLM Honeypot,361,100
+2026-07-30T18:23:01.770941+00:00,49112867,1,Advancing the price-performance frontier with GPT‑5.6,186,100
+2026-07-30T18:23:01.770941+00:00,49112744,2,Read This Before You Buy That TV Streaming Stick,115,41
+2026-07-30T18:23:01.770941+00:00,49111237,3,Gemini Robotics 2 brings whole body intelligence to robots,262,263
+2026-07-30T18:23:01.770941+00:00,49113059,4,"We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",61,33
+2026-07-30T18:23:01.770941+00:00,49111305,5,"Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",91,41
+2026-07-30T18:23:01.770941+00:00,49112232,6,Stacked PRs are now live on GitHub,69,18
+2026-07-30T18:23:01.770941+00:00,49111176,7,The Economic Benefit of Refactoring,114,49
+2026-07-30T18:23:01.770941+00:00,49109193,8,Why is everyone trying to build a solid-state battery?,119,149
+2026-07-30T18:23:01.770941+00:00,49110547,10,Hacker Public Radio,84,14
+2026-07-30T18:23:01.770941+00:00,49112327,11,Toot.community is shutting down,31,36
+2026-07-30T18:23:01.770941+00:00,49109616,12,Upper stage impacting the moon on 2026 August 5,101,31
+2026-07-30T18:23:01.770941+00:00,49112368,13,How Olinia Turns Mexico's EV Ambition into Reality,17,9
+2026-07-30T18:23:01.770941+00:00,49109474,14,RFC 8890 – The Internet is for End Users (2020),89,27
+2026-07-30T18:23:01.770941+00:00,49048728,15,How to Mount a Balcony Awning (2025),25,0
+2026-07-30T18:23:01.770941+00:00,49109721,16,Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools,51,30
+2026-07-30T18:23:01.770941+00:00,49107246,17,Ron Gilbert started production on Thimbleweed Park 2,202,95
+2026-07-30T18:23:01.770941+00:00,49110655,18,"SDL_GPU minimal, single-header, high-performance 2D graphics painting library",42,13
+2026-07-30T18:23:01.770941+00:00,49108678,19,Are We Stuck with Lean?,96,43
+2026-07-30T18:23:01.770941+00:00,49111006,20,Paging Through a Parquet File in DuckDB: File_row_number or Offset?,30,3
+2026-07-30T18:23:01.770941+00:00,49103059,21,"RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]",20,3
+2026-07-30T18:23:01.770941+00:00,49110577,22,Trusted URLs via Cryptographic Signatures,19,12
+2026-07-30T18:23:01.770941+00:00,49108971,23,How old is Ann?,51,52
+2026-07-30T18:23:01.770941+00:00,49111019,24,Show HN: Claude-account – switch Claude Code accounts without logging in again,22,18
+2026-07-30T18:23:01.770941+00:00,49108485,25,3D Pinball for Windows (1995),77,39
+2026-07-30T18:23:01.770941+00:00,49108571,26,Show HN: I made a game where you build a CPU from logic gates,59,53
+2026-07-30T18:23:01.770941+00:00,49108048,27,Gpiozero Flow,112,34
+2026-07-30T18:23:01.770941+00:00,49074842,28,Building a native C# implementation of CEL engine,40,9
+2026-07-30T18:23:01.770941+00:00,49067162,29,The Alice and Bob After Dinner Speech (1984),41,6
+2026-07-30T18:23:01.770941+00:00,49089502,30,Azulejo,161,53
+2026-07-30T18:23:01.770941+00:00,49070073,31,The Glass Famine,105,53
+2026-07-30T18:23:01.770941+00:00,49108963,32,CosmosEscape: Taking over Every Database in Azure Cosmos DB,49,13
+2026-07-30T18:23:01.770941+00:00,49108778,33,"Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",51,14
+2026-07-30T18:23:01.770941+00:00,49112613,34,Delivery workers made $104M more in tips after NYC began enforcing new law,21,5
+2026-07-30T18:23:01.770941+00:00,49108542,35,You can't solve computer use by ignoring the interface,55,35
+2026-07-30T18:23:01.770941+00:00,49057130,36,The first watch featuring computer functions,78,30
+2026-07-30T18:23:01.770941+00:00,49107749,37,"Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",81,68
+2026-07-30T18:23:01.770941+00:00,49108039,38,Atomarine: Nuclear Data Centers at Sea,35,63
+2026-07-30T18:23:01.770941+00:00,49110624,39,Reversing Abstractions: An Existential Crisis,6,0
+2026-07-30T18:23:01.770941+00:00,49103285,40,AI's top startups are barely publishing their research,580,309
+2026-07-30T18:23:01.770941+00:00,49113643,41,Father of Apalachee school shooter has been sentenced to 15 years in prison,3,0
+2026-07-30T18:23:01.770941+00:00,49111687,42,Pgtestdb's template cloning approach to testing is fast,12,2
+2026-07-30T18:23:01.770941+00:00,49113313,43,Bryan Johnson: I've taken longevity too far,7,0
+2026-07-30T18:23:01.770941+00:00,49107950,44,Google will expand age checks on Android worldwide till the end of the year,283,341
+2026-07-30T18:23:01.770941+00:00,49111879,45,Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI,32,8
+2026-07-30T18:23:01.770941+00:00,49104937,46,Logic for Programmers,183,42
+2026-07-30T18:23:01.770941+00:00,49102774,47,The coolest use for the Vision Pro,793,295
+2026-07-30T18:23:01.770941+00:00,49065874,48,"Concurrency, interactivity, mutability, choose two",55,28
+2026-07-30T18:23:01.770941+00:00,49109026,49,Why don't people use formal methods? (2019),99,82
+2026-07-30T18:23:01.770941+00:00,49050218,50,ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison,55,14
