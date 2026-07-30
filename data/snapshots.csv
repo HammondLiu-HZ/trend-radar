@@ -21229,3 +21229,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-30T09:35:12.667598+00:00,49060363,48,Lisp moving Forth moving Lisp,119,31
 2026-07-30T09:35:12.667598+00:00,49103912,49,Three Virtues by Larry Wall,27,3
 2026-07-30T09:35:12.667598+00:00,49065540,50,Interconverting std::function with copyable_function,17,0
+2026-07-30T11:56:57.218280+00:00,49108048,1,Gpiozero Flow,48,11
+2026-07-30T11:56:57.218280+00:00,49089502,2,Azulejo,60,19
+2026-07-30T11:56:57.218280+00:00,49103285,3,AI's top startups are barely publishing their research,512,265
+2026-07-30T11:56:57.218280+00:00,49107713,4,Carolina Cloud pays SOFR on unused prepaid credits,22,4
+2026-07-30T11:56:57.218280+00:00,49102774,5,The coolest use for the Vision Pro,719,275
+2026-07-30T11:56:57.218280+00:00,49107950,6,Google will expand age checks on Android worldwide till the end of the year,108,127
+2026-07-30T11:56:57.218280+00:00,49057130,7,The first watch featuring computer functions,37,9
+2026-07-30T11:56:57.218280+00:00,49098965,8,Superlogical,722,424
+2026-07-30T11:56:57.218280+00:00,49107246,9,Ron Gilbert started production on Thimbleweed Park 2,27,4
+2026-07-30T11:56:57.218280+00:00,49104117,10,LLM Honeypot,292,87
+2026-07-30T11:56:57.218280+00:00,49107749,11,"Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",11,5
+2026-07-30T11:56:57.218280+00:00,49065874,12,"Concurrency, interactivity, mutability, choose two",40,26
+2026-07-30T11:56:57.218280+00:00,49099715,13,Keychron announces first open-source firmware for gaming mice,392,163
+2026-07-30T11:56:57.218280+00:00,49104335,14,The Productivity Mirage,272,116
+2026-07-30T11:56:57.218280+00:00,49089500,15,Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident,405,224
+2026-07-30T11:56:57.218280+00:00,49103089,16,The Cold Email,234,91
+2026-07-30T11:56:57.218280+00:00,49050218,17,ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison,40,10
+2026-07-30T11:56:57.218280+00:00,49070073,18,The Glass Famine,17,0
+2026-07-30T11:56:57.218280+00:00,49104937,19,Logic for Programmers,145,27
+2026-07-30T11:56:57.218280+00:00,49107437,20,The Apple Calculator Language,9,0
+2026-07-30T11:56:57.218280+00:00,49105563,21,Kuna: Decompiler Development in the Age of Coding Agents,53,11
+2026-07-30T11:56:57.218280+00:00,49100043,22,Show HN: CheapFoodMap – A map of good meals under $10,228,204
+2026-07-30T11:56:57.218280+00:00,49101852,23,Kimi K3-256k,455,130
+2026-07-30T11:56:57.218280+00:00,49047692,24,London’s most equidistant pub,55,31
+2026-07-30T11:56:57.218280+00:00,49101198,25,Turning a dumb AC unit smart (without losing my security deposit),179,141
+2026-07-30T11:56:57.218280+00:00,49099804,26,Some thoughts about Anthropic's new cryptanalysis results,168,96
+2026-07-30T11:56:57.218280+00:00,49108556,27,"ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",8,0
+2026-07-30T11:56:57.218280+00:00,49098510,28,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,831,294
+2026-07-30T11:56:57.218280+00:00,49107382,29,Cisco FMC static credential vulnerability exploited as a zero-day,4,2
+2026-07-30T11:56:57.218280+00:00,49047351,30,The Rust on ESP Book,168,19
+2026-07-30T11:56:57.218280+00:00,49061213,31,Angels in Coptic Magic I: Introduction,49,6
+2026-07-30T11:56:57.218280+00:00,49105642,32,NSF pilots 4-year PhDs with industry research placements,76,75
+2026-07-30T11:56:57.218280+00:00,49065785,34,Hamburg's Stadtpark: A Park Built to Be Used,163,53
+2026-07-30T11:56:57.218280+00:00,49099143,35,Launch HN: Tokenless (YC S26) – Automatic model switching to save money,66,56
+2026-07-30T11:56:57.218280+00:00,49080031,36,"Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",52,10
+2026-07-30T11:56:57.218280+00:00,49108359,37,Excessive time spent online linked to stress and worse mood – study,6,1
+2026-07-30T11:56:57.218280+00:00,49104140,38,Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC),52,13
+2026-07-30T11:56:57.218280+00:00,49095865,39,KOReader,717,229
+2026-07-30T11:56:57.218280+00:00,49062997,40,Refactoring cuisine: how an Iraqi stew sailed to Singapore,59,22
+2026-07-30T11:56:57.218280+00:00,49098130,41,"Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",141,45
+2026-07-30T11:56:57.218280+00:00,49105476,42,We discovered a new variant of Super Mario Bros,22,1
+2026-07-30T11:56:57.218280+00:00,49107076,43,Solsticio – a daily sun/moon logic puzzle with a deterministic generator,5,0
+2026-07-30T11:56:57.218280+00:00,49063983,44,Hunter-gatherers introduced fish to a mountain lake 7000 years ago,148,113
+2026-07-30T11:56:57.218280+00:00,49104747,45,Show HN: A local merge queue for parallel Claude Code agents,39,14
+2026-07-30T11:56:57.218280+00:00,49108480,46,'My life's screwed': Korean investors stress out after AI bubble bursts,6,1
+2026-07-30T11:56:57.218280+00:00,49105136,47,Flume Water Monitor 915 MHz Security Is Pretty Good,36,20
+2026-07-30T11:56:57.218280+00:00,49102425,48,A Trampoline,111,70
+2026-07-30T11:56:57.218280+00:00,49096811,49,Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem,112,20
+2026-07-30T11:56:57.218280+00:00,49098198,50,A.I. companies are recruiting electricians and carpenters by the thousands,294,366
