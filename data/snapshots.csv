@@ -21278,3 +21278,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-30T11:56:57.218280+00:00,49102425,48,A Trampoline,111,70
 2026-07-30T11:56:57.218280+00:00,49096811,49,Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem,112,20
 2026-07-30T11:56:57.218280+00:00,49098198,50,A.I. companies are recruiting electricians and carpenters by the thousands,294,366
+2026-07-30T14:25:14.638977+00:00,49109440,1,"'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",211,66
+2026-07-30T14:25:14.638977+00:00,49110085,2,Europe's fires are just the start,27,3
+2026-07-30T14:25:14.638977+00:00,49109193,3,Why Is Everyone Trying to Build a Solid-State Battery?,41,27
+2026-07-30T14:25:14.638977+00:00,49109474,4,RFC 8890 – The Internet is for End Users (2020),31,12
+2026-07-30T14:25:14.638977+00:00,49109026,5,Why Don't People Use Formal Methods?,40,29
+2026-07-30T14:25:14.638977+00:00,49109721,6,Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools,11,2
+2026-07-30T14:25:14.638977+00:00,49108048,7,Gpiozero Flow,93,28
+2026-07-30T14:25:14.638977+00:00,49107246,8,Ron Gilbert started production on Thimbleweed Park 2,124,47
+2026-07-30T14:25:14.638977+00:00,49108971,9,How Old Is Ann?,30,18
+2026-07-30T14:25:14.638977+00:00,49108571,10,I made a game where you build a CPU from logic gates,35,26
+2026-07-30T14:25:14.638977+00:00,49103285,12,AI's top startups are barely publishing their research,562,292
+2026-07-30T14:25:14.638977+00:00,49107749,13,"Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",61,42
+2026-07-30T14:25:14.638977+00:00,49107713,14,Carolina Cloud pays SOFR on unused prepaid credits,51,32
+2026-07-30T14:25:14.638977+00:00,49102774,15,The coolest use for the Vision Pro,769,289
+2026-07-30T14:25:14.638977+00:00,49108778,16,"Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",24,5
+2026-07-30T14:25:14.638977+00:00,49108485,17,3D Pinball for Windows (1995),16,6
+2026-07-30T14:25:14.638977+00:00,49070073,18,The Glass Famine,57,22
+2026-07-30T14:25:14.638977+00:00,49108963,19,CosmosEscape: Taking over Every Database in Azure Cosmos DB,15,6
+2026-07-30T14:25:14.638977+00:00,49108678,20,Are We Stuck with Lean?,18,3
+2026-07-30T14:25:14.638977+00:00,49107950,21,Google will expand age checks on Android worldwide till the end of the year,197,226
+2026-07-30T14:25:14.638977+00:00,49104117,22,LLM Honeypot,342,94
+2026-07-30T14:25:14.638977+00:00,49067162,23,The Alice and Bob After Dinner Speech (1984),4,1
+2026-07-30T14:25:14.638977+00:00,49108542,24,You can't solve computer use by ignoring the interface,20,1
+2026-07-30T14:25:14.638977+00:00,49057130,25,The first watch featuring computer functions,53,24
+2026-07-30T14:25:14.638977+00:00,49108685,26,GCC steering committee announces AI policy,146,162
+2026-07-30T14:25:14.638977+00:00,49104335,27,The Productivity Mirage,309,135
+2026-07-30T14:25:14.638977+00:00,49089502,28,Azulejo,99,33
+2026-07-30T14:25:14.638977+00:00,49089500,29,Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident,436,235
+2026-07-30T14:25:14.638977+00:00,49108556,30,"ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",45,30
+2026-07-30T14:25:14.638977+00:00,49103089,31,The Cold Email,267,102
+2026-07-30T14:25:14.638977+00:00,49109286,32,"Going beneath NTFS: USN Journal, dfir_NTFS, and artefact-driven investigations",4,1
+2026-07-30T14:25:14.638977+00:00,49065874,33,"Concurrency, interactivity, mutability, choose two",52,27
+2026-07-30T14:25:14.638977+00:00,49107437,34,The Apple Calculator Language,25,7
+2026-07-30T14:25:14.638977+00:00,49104937,35,Logic for Programmers,170,34
+2026-07-30T14:25:14.638977+00:00,49109058,36,Is Samsung Pioneering Mass Adoption of USDC?,3,0
+2026-07-30T14:25:14.638977+00:00,49050218,37,ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison,49,12
+2026-07-30T14:25:14.638977+00:00,49108966,38,What it means for an API to be RESTful,20,27
+2026-07-30T14:25:14.638977+00:00,49100043,39,Show HN: CheapFoodMap – A map of good meals under $10,254,214
+2026-07-30T14:25:14.638977+00:00,49109165,40,OpenJDK Interim Policy on Generative AI,48,58
+2026-07-30T14:25:14.638977+00:00,49105563,41,Kuna: Decompiler Development in the Age of Coding Agents,64,13
+2026-07-30T14:25:14.638977+00:00,49101852,42,Kimi K3-256k,473,142
+2026-07-30T14:25:14.638977+00:00,49108299,43,Software Foundations Series,5,0
+2026-07-30T14:25:14.638977+00:00,49101198,44,Turning a dumb AC unit smart (without losing my security deposit),197,155
+2026-07-30T14:25:14.638977+00:00,49063570,45,Visualizing the Artemis II Mission,13,2
+2026-07-30T14:25:14.638977+00:00,49108926,46,"Steam Client Adds HDR Streaming on Steam Deck OLED, AV1 Video Streaming",12,0
+2026-07-30T14:25:14.638977+00:00,49099804,47,Some thoughts about Anthropic's new cryptanalysis results,177,103
+2026-07-30T14:25:14.638977+00:00,49098510,48,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,856,303
+2026-07-30T14:25:14.638977+00:00,49098965,49,Superlogical,741,436
+2026-07-30T14:25:14.638977+00:00,49047351,50,The Rust on ESP Book,171,22
