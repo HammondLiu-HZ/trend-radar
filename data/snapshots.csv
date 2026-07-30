@@ -21180,3 +21180,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-30T06:34:56.116887+00:00,49105076,48,Overengineered Calculator: Zig and QBE,9,0
 2026-07-30T06:34:56.116887+00:00,49103912,49,Three Virtues by Larry Wall,21,3
 2026-07-30T06:34:56.116887+00:00,49104184,50,Enabling two settings tripled our scores on the ARC-AGI-3 benchmark,23,0
+2026-07-30T09:35:12.667598+00:00,49103285,1,AI's top startups are barely publishing their research,458,239
+2026-07-30T09:35:12.667598+00:00,49102774,2,The coolest use for the Vision Pro,655,259
+2026-07-30T09:35:12.667598+00:00,49098510,3,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,792,279
+2026-07-30T09:35:12.667598+00:00,49098965,4,Superlogical,694,409
+2026-07-30T09:35:12.667598+00:00,49104117,5,LLM Honeypot,247,61
+2026-07-30T09:35:12.667598+00:00,49104335,6,The Productivity Mirage,235,90
+2026-07-30T09:35:12.667598+00:00,49099715,7,Keychron announces first open-source firmware for gaming mice,378,152
+2026-07-30T09:35:12.667598+00:00,49089500,8,Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident,383,211
+2026-07-30T09:35:12.667598+00:00,49103089,9,The Cold Email,206,82
+2026-07-30T09:35:12.667598+00:00,49104937,10,Logic for Programmers,119,22
+2026-07-30T09:35:12.667598+00:00,49065874,11,"Concurrency, interactivity, mutability, choose two",18,8
+2026-07-30T09:35:12.667598+00:00,49098198,12,A.I. companies are recruiting electricians and carpenters by the thousands,282,349
+2026-07-30T09:35:12.667598+00:00,49050218,13,ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison,22,4
+2026-07-30T09:35:12.667598+00:00,49101852,14,Kimi K3-256k,432,125
+2026-07-30T09:35:12.667598+00:00,49100043,15,Show HN: CheapFoodMap – A map of good meals under $10,207,192
+2026-07-30T09:35:12.667598+00:00,49105924,16,Why the future is local app,23,18
+2026-07-30T09:35:12.667598+00:00,49061213,17,Angels in Coptic Magic I: Introduction,47,4
+2026-07-30T09:35:12.667598+00:00,49101198,18,Turning a dumb AC unit smart (without losing my security deposit),166,135
+2026-07-30T09:35:12.667598+00:00,49105563,19,Kuna: Decompiler Development in the Age of Coding Agents,34,8
+2026-07-30T09:35:12.667598+00:00,49099804,20,Some thoughts about Anthropic's new cryptanalysis results,155,83
+2026-07-30T09:35:12.667598+00:00,49047351,21,The Rust on ESP Book,157,16
+2026-07-30T09:35:12.667598+00:00,49065785,22,Hamburg's Stadtpark: A Park Built to Be Used,154,44
+2026-07-30T09:35:12.667598+00:00,49099143,23,Launch HN: Tokenless (YC S26) – Automatic model switching to save money,61,57
+2026-07-30T09:35:12.667598+00:00,49104140,24,Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC),48,13
+2026-07-30T09:35:12.667598+00:00,49062997,25,Refactoring cuisine: how an Iraqi stew sailed to Singapore,55,21
+2026-07-30T09:35:12.667598+00:00,49080031,26,"Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",41,10
+2026-07-30T09:35:12.667598+00:00,49102425,28,A Trampoline,107,63
+2026-07-30T09:35:12.667598+00:00,49047692,29,London’s most equidistant pub,38,21
+2026-07-30T09:35:12.667598+00:00,49095865,30,KOReader,710,222
+2026-07-30T09:35:12.667598+00:00,49105642,31,NSF pilots 4-year PhDs with industry research placements,70,75
+2026-07-30T09:35:12.667598+00:00,49098130,32,"Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",139,44
+2026-07-30T09:35:12.667598+00:00,49104747,33,Show HN: A local merge queue for parallel Claude Code agents,36,12
+2026-07-30T09:35:12.667598+00:00,49063983,34,Hunter-gatherers introduced fish to a mountain lake 7000 years ago,145,111
+2026-07-30T09:35:12.667598+00:00,49096811,35,Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem,111,19
+2026-07-30T09:35:12.667598+00:00,49101655,36,How much can you delegate to agents?,55,16
+2026-07-30T09:35:12.667598+00:00,49095511,37,Amiga Graphics Archive,157,24
+2026-07-30T09:35:12.667598+00:00,49103219,38,Dr. Dobb's Journal (articles from 1988 – 2009),29,8
+2026-07-30T09:35:12.667598+00:00,49098388,39,"GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",96,20
+2026-07-30T09:35:12.667598+00:00,49096188,40,Document-borne AI worms can self-propagate through Copilot for Word,366,282
+2026-07-30T09:35:12.667598+00:00,49094346,41,"SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",242,75
+2026-07-30T09:35:12.667598+00:00,49096969,42,Handbook.md shows that long policy documents do not reliably govern agents,314,194
+2026-07-30T09:35:12.667598+00:00,49105136,43,Flume Water Monitor 915 MHz Security Is Pretty Good,31,20
+2026-07-30T09:35:12.667598+00:00,49098260,44,Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon,84,17
+2026-07-30T09:35:12.667598+00:00,49104184,45,Enabling two settings tripled our scores on the ARC-AGI-3 benchmark,28,3
+2026-07-30T09:35:12.667598+00:00,49054884,46,Thanatos Rising,11,1
+2026-07-30T09:35:12.667598+00:00,49096654,47,Darktable,340,161
+2026-07-30T09:35:12.667598+00:00,49060363,48,Lisp moving Forth moving Lisp,119,31
+2026-07-30T09:35:12.667598+00:00,49103912,49,Three Virtues by Larry Wall,27,3
+2026-07-30T09:35:12.667598+00:00,49065540,50,Interconverting std::function with copyable_function,17,0
