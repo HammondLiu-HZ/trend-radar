@@ -21082,3 +21082,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-29T23:04:36.315644+00:00,49095628,48,SpecForge – A Platform for Authoring Formal Specifications,71,10
 2026-07-29T23:04:36.315644+00:00,49045686,49,I'm running a programming contest,14,5
 2026-07-29T23:04:36.315644+00:00,49093569,50,More Tailscale tricks for your jailbroken Kindle,385,108
+2026-07-30T03:12:54.853435+00:00,49103285,1,AI's top startups are barely publishing their research,262,141
+2026-07-30T03:12:54.853435+00:00,49102774,2,The coolest use for the Vision Pro,435,195
+2026-07-30T03:12:54.853435+00:00,49098510,3,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,673,236
+2026-07-30T03:12:54.853435+00:00,49098965,4,Superlogical,550,344
+2026-07-30T03:12:54.853435+00:00,49104117,5,LLM Honeypot,90,37
+2026-07-30T03:12:54.853435+00:00,49104335,6,The Productivity Mirage,68,19
+2026-07-30T03:12:54.853435+00:00,49099715,7,Keychron announces first open-source firmware for gaming mice,302,116
+2026-07-30T03:12:54.853435+00:00,49103089,8,The Cold Email,107,44
+2026-07-30T03:12:54.853435+00:00,49089500,9,Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident,310,183
+2026-07-30T03:12:54.853435+00:00,49095865,10,KOReader,681,214
+2026-07-30T03:12:54.853435+00:00,49101852,11,Kimi K3-256k,357,108
+2026-07-30T03:12:54.853435+00:00,49105642,12,NSF pilots 4-year PhDs with industry research placements,4,0
+2026-07-30T03:12:54.853435+00:00,49098198,13,A.I. companies are recruiting electricians and carpenters by the thousands,231,291
+2026-07-30T03:12:54.853435+00:00,49096188,14,Document-borne AI worms can self-propagate through Copilot for Word,352,271
+2026-07-30T03:12:54.853435+00:00,49096969,15,Handbook.md shows that long policy documents do not reliably govern agents,304,185
+2026-07-30T03:12:54.853435+00:00,49061213,16,Angels in Coptic Magic I: Introduction,12,0
+2026-07-30T03:12:54.853435+00:00,49101198,17,Turning a dumb AC unit smart (without losing my security deposit),117,94
+2026-07-30T03:12:54.853435+00:00,49100043,19,Show HN: CheapFoodMap – A map of good meals under $10,139,167
+2026-07-30T03:12:54.853435+00:00,49102425,20,A Trampoline,75,43
+2026-07-30T03:12:54.853435+00:00,49096654,21,Darktable,308,146
+2026-07-30T03:12:54.853435+00:00,49104747,22,Show HN: A local merge queue for parallel Claude Code agents,17,6
+2026-07-30T03:12:54.853435+00:00,49104937,23,Logic for Programmers by Hillel Wayne,8,0
+2026-07-30T03:12:54.853435+00:00,49101529,24,"Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",63,32
+2026-07-30T03:12:54.853435+00:00,49099804,25,Some thoughts about Anthropic's new cryptanalysis results,114,60
+2026-07-30T03:12:54.853435+00:00,49080031,26,"Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",15,2
+2026-07-30T03:12:54.853435+00:00,49104140,27,Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC),23,9
+2026-07-30T03:12:54.853435+00:00,49099143,28,Launch HN: Tokenless (YC S26) – Automatic model switching to save money,53,48
+2026-07-30T03:12:54.853435+00:00,49062997,29,Refactoring cuisine: how an Iraqi stew sailed to Singapore,27,8
+2026-07-30T03:12:54.853435+00:00,49105136,30,Flume Water Monitor 915 MHz Security Is Pretty Good,17,10
+2026-07-30T03:12:54.853435+00:00,49047351,31,The Rust on ESP Book,128,13
+2026-07-30T03:12:54.853435+00:00,49065785,32,Hamburg's Stadtpark: A Park Built to Be Used,117,30
+2026-07-30T03:12:54.853435+00:00,49101351,33,How to think about software quality (2022),50,34
+2026-07-30T03:12:54.853435+00:00,49098130,34,"Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",125,42
+2026-07-30T03:12:54.853435+00:00,49063983,35,Hunter-gatherers introduced fish to a mountain lake 7000 years ago,142,106
+2026-07-30T03:12:54.853435+00:00,49093434,36,User Interfaces of the Demo Scene,402,69
+2026-07-30T03:12:54.853435+00:00,49103910,37,GitHub is the wrong shape for this new world,48,37
+2026-07-30T03:12:54.853435+00:00,49101655,38,How much can you delegate to agents?,44,4
+2026-07-30T03:12:54.853435+00:00,49096811,39,Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem,109,14
+2026-07-30T03:12:54.853435+00:00,49098388,40,"GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",89,19
+2026-07-30T03:12:54.853435+00:00,49105076,41,Overengineered Calculator: Zig and QBE,6,0
+2026-07-30T03:12:54.853435+00:00,49065540,42,Interconverting std::function with copyable_function,9,0
+2026-07-30T03:12:54.853435+00:00,49103219,43,Dr. Dobb's Journal (articles from 1988 – 2009),18,3
+2026-07-30T03:12:54.853435+00:00,49098260,44,Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon,78,17
+2026-07-30T03:12:54.853435+00:00,49095511,45,Amiga Graphics Archive,152,24
+2026-07-30T03:12:54.853435+00:00,49102525,46,"Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",32,9
+2026-07-30T03:12:54.853435+00:00,49104608,47,Kimi K3's Design Secret May Be in Its Thinking Traces,8,1
+2026-07-30T03:12:54.853435+00:00,49104272,48,OpenDerm – Open-source robotic 3D skin imaging,8,1
+2026-07-30T03:12:54.853435+00:00,49105190,49,A pharmacy chain in Vermont implemented AI for efficiency,29,40
+2026-07-30T03:12:54.853435+00:00,49094346,50,"SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",231,70
