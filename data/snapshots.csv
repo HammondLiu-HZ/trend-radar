@@ -21327,3 +21327,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-30T14:25:14.638977+00:00,49098510,48,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,856,303
 2026-07-30T14:25:14.638977+00:00,49098965,49,Superlogical,741,436
 2026-07-30T14:25:14.638977+00:00,49047351,50,The Rust on ESP Book,171,22
+2026-07-30T16:41:56.879473+00:00,49111237,1,Gemini Robotics 2 brings whole body intelligence to robots,169,122
+2026-07-30T16:41:56.879473+00:00,49111305,2,"Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",46,3
+2026-07-30T16:41:56.879473+00:00,49111176,3,The Economic Benefit of Refactoring,50,23
+2026-07-30T16:41:56.879473+00:00,49110547,4,Hacker Public Radio,57,6
+2026-07-30T16:41:56.879473+00:00,49110655,5,"SDL_GPU minimal, single-header, high-performance 2D graphics painting library",32,10
+2026-07-30T16:41:56.879473+00:00,49109721,6,Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools,43,20
+2026-07-30T16:41:56.879473+00:00,49109474,7,RFC 8890 – The Internet is for End Users (2020),65,20
+2026-07-30T16:41:56.879473+00:00,49103059,8,"RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]",15,1
+2026-07-30T16:41:56.879473+00:00,49109616,9,Upper stage impacting the moon on 2026 August 5,56,13
+2026-07-30T16:41:56.879473+00:00,49111019,10,Show HN: Claude-account – switch Claude Code accounts without logging in again,9,4
+2026-07-30T16:41:56.879473+00:00,49107246,11,Ron Gilbert started production on Thimbleweed Park 2,179,82
+2026-07-30T16:41:56.879473+00:00,49111006,12,Paging Through a Parquet File in DuckDB: File_row_number or Offset?,21,3
+2026-07-30T16:41:56.879473+00:00,49108678,13,Are We Stuck with Lean?,69,25
+2026-07-30T16:41:56.879473+00:00,49074842,14,Building a native C# implementation of CEL engine,32,5
+2026-07-30T16:41:56.879473+00:00,49108048,16,Gpiozero Flow,108,33
+2026-07-30T16:41:56.879473+00:00,49111312,17,Show HN: I think I made my own web version of minimalistic audacity,6,3
+2026-07-30T16:41:56.879473+00:00,49067162,18,The Alice and Bob After Dinner Speech (1984),27,4
+2026-07-30T16:41:56.879473+00:00,49108485,19,3D Pinball for Windows (1995),57,27
+2026-07-30T16:41:56.879473+00:00,49109026,20,Why Don't People Use Formal Methods? (2019),88,61
+2026-07-30T16:41:56.879473+00:00,49108778,21,"Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",44,13
+2026-07-30T16:41:56.879473+00:00,49110577,22,Trusted URLs via Cryptographic Signatures,9,8
+2026-07-30T16:41:56.879473+00:00,49111687,23,Pgtestdb's template cloning approach to testing is fast,7,1
+2026-07-30T16:41:56.879473+00:00,49070073,24,The Glass Famine,86,38
+2026-07-30T16:41:56.879473+00:00,49108963,25,CosmosEscape: Taking over Every Database in Azure Cosmos DB,41,10
+2026-07-30T16:41:56.879473+00:00,49089502,26,Azulejo,135,43
+2026-07-30T16:41:56.879473+00:00,49109193,27,Why Is Everyone Trying to Build a Solid-State Battery?,86,99
+2026-07-30T16:41:56.879473+00:00,49057130,28,The first watch featuring computer functions,72,29
+2026-07-30T16:41:56.879473+00:00,49108542,29,You can't solve computer use by ignoring the interface,44,23
+2026-07-30T16:41:56.879473+00:00,49110308,30,The Lost Civic Life of Movie Rental Stores,52,63
+2026-07-30T16:41:56.879473+00:00,49107950,31,Google will expand age checks on Android worldwide till the end of the year,265,309
+2026-07-30T16:41:56.879473+00:00,49111275,32,Parody Hacker News (2013),22,12
+2026-07-30T16:41:56.879473+00:00,49103285,33,AI's top startups are barely publishing their research,574,304
+2026-07-30T16:41:56.879473+00:00,49107749,34,"Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",80,61
+2026-07-30T16:41:56.879473+00:00,49109286,35,"Going beneath NTFS: USN Journal, dfir_NTFS, and artefact-driven investigations",10,1
+2026-07-30T16:41:56.879473+00:00,49110348,36,Why DNA damage from smoking and UV rays cause cancer in some but not others,47,71
+2026-07-30T16:41:56.879473+00:00,49102774,37,The coolest use for the Vision Pro,787,293
+2026-07-30T16:41:56.879473+00:00,49104937,38,Logic for Programmers,176,40
+2026-07-30T16:41:56.879473+00:00,49065874,39,"Concurrency, interactivity, mutability, choose two",54,27
+2026-07-30T16:41:56.879473+00:00,49050218,40,ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison,53,13
+2026-07-30T16:41:56.879473+00:00,49108556,41,"ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",61,43
+2026-07-30T16:41:56.879473+00:00,49111879,42,Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI,11,1
+2026-07-30T16:41:56.879473+00:00,49107437,43,The Apple Calculator Language,30,7
+2026-07-30T16:41:56.879473+00:00,49105563,44,Kuna: Decompiler Development in the Age of Coding Agents,68,14
+2026-07-30T16:41:56.879473+00:00,49098510,45,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,862,310
+2026-07-30T16:41:56.879473+00:00,49109058,46,Is Samsung Pioneering Mass Adoption of USDC?,6,0
+2026-07-30T16:41:56.879473+00:00,49110453,47,List of 6502 based computers and 6502 history,5,1
+2026-07-30T16:41:56.879473+00:00,49098965,48,Superlogical,746,443
+2026-07-30T16:41:56.879473+00:00,49112294,49,How Donald Trump Silenced the Voice of America,3,0
+2026-07-30T16:41:56.879473+00:00,49104117,50,LLM Honeypot,361,100
