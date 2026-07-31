@@ -21621,3 +21621,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-31T04:29:34.990383+00:00,49073392,48,Fixing miss-aligned monospace text in Android browsers,4,1
 2026-07-31T04:29:34.990383+00:00,49117266,49,Premier league bans gambling sponsors,8,1
 2026-07-31T04:29:34.990383+00:00,49089502,50,Azulejo,180,64
+2026-07-31T07:56:50.162889+00:00,49118781,1,The session you cannot take with you,214,39
+2026-07-31T07:56:50.162889+00:00,49119063,2,JEP 401: Value Objects (Preview) merged to OpenJDK master,66,19
+2026-07-31T07:56:50.162889+00:00,49119559,3,DeepSeek-V4-Flash Update,123,41
+2026-07-31T07:56:50.162889+00:00,49119274,4,Show HN: What should the GUI for AI agents look like?,29,13
+2026-07-31T07:56:50.162889+00:00,49112232,5,Stacked PRs are now live on GitHub,617,204
+2026-07-31T07:56:50.162889+00:00,49077372,6,Where USB Memory Sticks are Born (2013),40,3
+2026-07-31T07:56:50.162889+00:00,49116721,7,I flagged two research papers for fake authors and both were accepted as orals,173,73
+2026-07-31T07:56:50.162889+00:00,49096170,8,The mean means nothing: data visualization to debug a latency problem,24,1
+2026-07-31T07:56:50.162889+00:00,49111237,9,Gemini Robotics 2 brings whole body intelligence to robots,544,436
+2026-07-31T07:56:50.162889+00:00,49119425,10,"Show HN: Gander, an Android file viewer that asks for no permissions at all",20,8
+2026-07-31T07:56:50.162889+00:00,49112744,11,Read this before you buy that TV streaming stick,689,392
+2026-07-31T07:56:50.162889+00:00,49117284,12,The Religion of Speed,122,58
+2026-07-31T07:56:50.162889+00:00,49111305,13,"Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",212,126
+2026-07-31T07:56:50.162889+00:00,49117099,14,The AI Aesthetic,287,125
+2026-07-31T07:56:50.162889+00:00,49111176,15,The Economic Benefit of Refactoring,232,96
+2026-07-31T07:56:50.162889+00:00,49113338,16,CodePen 2.0,164,46
+2026-07-31T07:56:50.162889+00:00,49116272,17,"Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",78,26
+2026-07-31T07:56:50.162889+00:00,49073017,18,The American Grilled Cheese Sandwich Essay (2024),45,33
+2026-07-31T07:56:50.162889+00:00,49071299,19,Bad Apple but It's Traceroute,100,24
+2026-07-31T07:56:50.162889+00:00,49083970,20,"Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",72,10
+2026-07-31T07:56:50.162889+00:00,49108685,21,GCC steering committee announces AI policy,282,312
+2026-07-31T07:56:50.162889+00:00,49113929,22,UEFA and its national associations will not participate in FIFA competitions,974,529
+2026-07-31T07:56:50.162889+00:00,49110308,23,The lost civic life of movie rental stores,161,213
+2026-07-31T07:56:50.162889+00:00,49113599,24,Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it,120,64
+2026-07-31T07:56:50.162889+00:00,49116074,25,Saber-toothed cats became inbred–and struggled to move–before they went extinct,49,19
+2026-07-31T07:56:50.162889+00:00,49112867,26,Advancing the price-performance frontier with GPT‑5.6,566,365
+2026-07-31T07:56:50.162889+00:00,49109193,27,Why is everyone trying to build a solid-state battery?,188,239
+2026-07-31T07:56:50.162889+00:00,49099434,28,Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite,107,20
+2026-07-31T07:56:50.162889+00:00,49113059,29,"We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",357,206
+2026-07-31T07:56:50.162889+00:00,49116922,30,Investigating three real-world incidents in our cybersecurity evaluations,171,136
+2026-07-31T07:56:50.162889+00:00,49109616,31,Upper stage impacting the moon on 2026 August 5,202,64
+2026-07-31T07:56:50.162889+00:00,49047839,33,"2x, not 10x: coding with LLMs in 2026",253,204
+2026-07-31T07:56:50.162889+00:00,49118474,34,"""the very foundation of modern academia has been blown to bits""",11,1
+2026-07-31T07:56:50.162889+00:00,49110547,35,Hacker Public Radio,150,29
+2026-07-31T07:56:50.162889+00:00,49088098,36,Simulating TCP loss and congestion in browser using Go/WASM,6,0
+2026-07-31T07:56:50.162889+00:00,49107246,37,Ron Gilbert started production on Thimbleweed Park 2,239,111
+2026-07-31T07:56:50.162889+00:00,49114639,38,Agent Skill to Force Docs in ASD-STE100 Simplified Technical English,293,105
+2026-07-31T07:56:50.162889+00:00,49118663,39,A California aquifer may have crossed the point of no return,133,110
+2026-07-31T07:56:50.162889+00:00,49109721,40,Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools,70,52
+2026-07-31T07:56:50.162889+00:00,49110348,41,Why DNA damage from smoking and UV rays cause cancer in some but not others,98,101
+2026-07-31T07:56:50.162889+00:00,49117266,42,Premier league bans gambling sponsors,23,4
+2026-07-31T07:56:50.162889+00:00,49068760,43,"Destroying a Community with a Gigantic ""Clogged Vacuum Cleaner""",80,50
+2026-07-31T07:56:50.162889+00:00,49113913,44,Making Postgres queues scale,116,29
+2026-07-31T07:56:50.162889+00:00,49108678,45,Are We Stuck with Lean?,138,64
+2026-07-31T07:56:50.162889+00:00,49109474,46,RFC 8890 – The Internet is for End Users (2020),121,36
+2026-07-31T07:56:50.162889+00:00,49109026,47,Why don't people use formal methods? (2019),119,108
+2026-07-31T07:56:50.162889+00:00,49107950,48,Google will expand age checks on Android worldwide till the end of the year,397,475
+2026-07-31T07:56:50.162889+00:00,49111523,49,Solving poker in custom WebGPU kernels,48,14
+2026-07-31T07:56:50.162889+00:00,49048728,50,How to Mount a Balcony Awning (2025),61,8
