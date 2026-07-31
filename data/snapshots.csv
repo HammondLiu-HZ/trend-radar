@@ -21866,3 +21866,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-31T18:24:53.550720+00:00,49082198,48,I 4x'd a 367x479 stamp-sized photo through 8 upscaling models,10,6
 2026-07-31T18:24:53.550720+00:00,49125615,49,EFF Guide to Recording Law Enforcement,9,0
 2026-07-31T18:24:53.550720+00:00,49124917,50,Online Friends Are Real Friends,23,17
+2026-07-31T20:24:16.676213+00:00,49124218,1,Elevators,627,163
+2026-07-31T20:24:16.676213+00:00,49127306,2,Tailscale didn't stop the Hugging Face intrusion,108,44
+2026-07-31T20:24:16.676213+00:00,49126604,3,qm,194,48
+2026-07-31T20:24:16.676213+00:00,49127031,4,Golang proposal: container/: generic collection types,42,6
+2026-07-31T20:24:16.676213+00:00,49124858,5,Big Food vs. the People,129,84
+2026-07-31T20:24:16.676213+00:00,49125034,6,Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio,87,57
+2026-07-31T20:24:16.676213+00:00,49125971,7,Severance,65,17
+2026-07-31T20:24:16.676213+00:00,49126883,8,Termixer (TUI DJ Mixer),25,16
+2026-07-31T20:24:16.676213+00:00,49126630,9,"Everyone is building LLM routers, we deprecated ours",36,14
+2026-07-31T20:24:16.676213+00:00,49126765,10,"June in Servo: real world compat, media queries, SharedWorker, and more",23,1
+2026-07-31T20:24:16.676213+00:00,49120299,11,"DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",475,260
+2026-07-31T20:24:16.676213+00:00,49119559,12,DeepSeek-V4-Flash Update,629,303
+2026-07-31T20:24:16.676213+00:00,49124658,14,Algorithms on billion-scale graph using 10GB RAM: I love DataFusion,68,18
+2026-07-31T20:24:16.676213+00:00,49126919,15,Using the railway network as a flatbed scanner [video],15,6
+2026-07-31T20:24:16.676213+00:00,49123386,16,Run Kimi K3 using 29 GB of RAM at 0.50 tok/s,78,30
+2026-07-31T20:24:16.676213+00:00,49126943,17,Orca-Bench: How Ready Are Language Model Agents for Oncall?,13,4
+2026-07-31T20:24:16.676213+00:00,49070810,18,How JPEG works: Interactively explore JPEG's lossy compression methods,58,6
+2026-07-31T20:24:16.676213+00:00,49064656,19,Making Referential Stability a Type,11,0
+2026-07-31T20:24:16.676213+00:00,49124496,20,A GTK4 SSH-askpass in Zig,49,16
+2026-07-31T20:24:16.676213+00:00,49122882,21,Anti-fraud tools can't keep pace with robocall scammers,50,67
+2026-07-31T20:24:16.676213+00:00,49121980,22,The End of an Era,360,391
+2026-07-31T20:24:16.676213+00:00,49079837,23,A simple clustering algorithm for lists,4,0
+2026-07-31T20:24:16.676213+00:00,49123789,24,"Show HN: BitBang – Reach machines behind NAT from a browser, no account",57,13
+2026-07-31T20:24:16.676213+00:00,49123208,25,Arch Linux disables AUR package adoption,108,76
+2026-07-31T20:24:16.676213+00:00,49123199,26,The C ``Clockwise/Spiral Rule'',52,39
+2026-07-31T20:24:16.676213+00:00,49124525,27,The Art of Decision-Making (2019),28,2
+2026-07-31T20:24:16.676213+00:00,49124336,28,"13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",31,11
+2026-07-31T20:24:16.676213+00:00,49125187,29,Dario Amodei's stance on open weights is self-serving and short-sighted,19,2
+2026-07-31T20:24:16.676213+00:00,49120120,30,Danube's record low levels force shutdown of Hungary's only nuclear plant,113,120
+2026-07-31T20:24:16.676213+00:00,49124042,31,The most official water costs $120k a gallon,83,61
+2026-07-31T20:24:16.676213+00:00,49120097,32,"Google fixed more Chrome bugs in June than over the past two years, thanks to AI",458,464
+2026-07-31T20:24:16.676213+00:00,49048452,33,IMAX vs. IMAX 70mm: The difference between these two cinema formats,73,114
+2026-07-31T20:24:16.676213+00:00,49116922,34,Investigating three real-world incidents in our cybersecurity evaluations,215,168
+2026-07-31T20:24:16.676213+00:00,49111523,35,Solving poker in custom WebGPU kernels,64,17
+2026-07-31T20:24:16.676213+00:00,49125922,36,"Show HN: Slope remade in HTML5 to load instantly on any browser, any device",26,9
+2026-07-31T20:24:16.676213+00:00,49119274,37,Show HN: What should the GUI for AI agents look like?,96,60
+2026-07-31T20:24:16.676213+00:00,49126652,38,The EU is making the Right to Repair the new standard in Europe,31,4
+2026-07-31T20:24:16.676213+00:00,49127108,39,"Lerd, an open source Herd-like PHP development environment for Linux and macOS",6,1
+2026-07-31T20:24:16.676213+00:00,49049992,40,Winding Down Artichoke Ruby,53,8
+2026-07-31T20:24:16.676213+00:00,49125935,41,The Elevator Button Problem,5,2
+2026-07-31T20:24:16.676213+00:00,49122838,42,Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba,98,55
+2026-07-31T20:24:16.676213+00:00,49121868,43,The Maxwell Conjecture Is False (GPT 5.6 Sol),125,122
+2026-07-31T20:24:16.676213+00:00,49119425,44,"Show HN: Gander, an Android file viewer that asks for no permissions",182,64
+2026-07-31T20:24:16.676213+00:00,49125140,45,Hygon Reveals 512-Thread CPU and AI GPU to Rival Intel Xeon and Nvidia,9,1
+2026-07-31T20:24:16.676213+00:00,49125602,46,Energizing a vacuum-tube flip-flop module from a 1948 IBM system,7,1
+2026-07-31T20:24:16.676213+00:00,49117266,47,Premier league bans gambling sponsors,239,95
+2026-07-31T20:24:16.676213+00:00,49126114,48,"Show HN: Chronos, 2 terminal games through 50 years of hacking history",5,1
+2026-07-31T20:24:16.676213+00:00,49126209,49,AI Is Getting Way Too Expensive,25,5
+2026-07-31T20:24:16.676213+00:00,49126700,50,How to Survive an Infestation of Toxic Caterpillars,8,0
