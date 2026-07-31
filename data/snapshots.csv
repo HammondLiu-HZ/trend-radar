@@ -21915,3 +21915,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-31T20:24:16.676213+00:00,49126114,48,"Show HN: Chronos, 2 terminal games through 50 years of hacking history",5,1
 2026-07-31T20:24:16.676213+00:00,49126209,49,AI Is Getting Way Too Expensive,25,5
 2026-07-31T20:24:16.676213+00:00,49126700,50,How to Survive an Infestation of Toxic Caterpillars,8,0
+2026-07-31T22:11:32.229958+00:00,49127306,1,Tailscale didn't stop the Hugging Face intrusion,267,106
+2026-07-31T22:11:32.229958+00:00,49124218,2,Elevators,728,189
+2026-07-31T22:11:32.229958+00:00,49126604,3,qm,311,71
+2026-07-31T22:11:32.229958+00:00,49083599,4,"Twenty-five years ago it was cryptography, today it's model weights",45,8
+2026-07-31T22:11:32.229958+00:00,49121196,5,Progressive Web Components,31,5
+2026-07-31T22:11:32.229958+00:00,49125971,6,Severance,153,42
+2026-07-31T22:11:32.229958+00:00,49127031,7,Golang proposal: container/: generic collection types,83,43
+2026-07-31T22:11:32.229958+00:00,49124858,9,Big Food vs. the People,164,107
+2026-07-31T22:11:32.229958+00:00,49126765,10,"June in Servo: real world compat, media queries, SharedWorker, and more",63,18
+2026-07-31T22:11:32.229958+00:00,49128323,11,Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena,11,6
+2026-07-31T22:11:32.229958+00:00,49125034,12,Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio,106,68
+2026-07-31T22:11:32.229958+00:00,49120299,13,"DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",499,276
+2026-07-31T22:11:32.229958+00:00,49119270,14,Let's make the worst Htmx,33,8
+2026-07-31T22:11:32.229958+00:00,49126883,15,Termixer (TUI DJ Mixer),40,27
+2026-07-31T22:11:32.229958+00:00,49124042,16,The most official water costs $120k a gallon,102,84
+2026-07-31T22:11:32.229958+00:00,49123386,17,Run Kimi K3 using 29 GB of RAM at 0.50 tok/s,110,44
+2026-07-31T22:11:32.229958+00:00,49126919,18,Using the railway network as a flatbed scanner [video],36,14
+2026-07-31T22:11:32.229958+00:00,49123468,19,"Authorize, don't authenticate",22,4
+2026-07-31T22:11:32.229958+00:00,49126630,20,"Everyone is building LLM routers, we deprecated ours",69,37
+2026-07-31T22:11:32.229958+00:00,49124738,21,Dubious research tied to Red Bull has shaped energy drink policy,84,143
+2026-07-31T22:11:32.229958+00:00,49121849,22,You have been mislead about lightbulbs,4,1
+2026-07-31T22:11:32.229958+00:00,49128826,23,"Show HN: I worked on a new browser for 2 years, today it passed Acid 3",3,0
+2026-07-31T22:11:32.229958+00:00,49119065,24,Just brute force your embeddings,11,10
+2026-07-31T22:11:32.229958+00:00,49124658,25,Algorithms on billion-scale graph using 10GB RAM: I love DataFusion,83,30
+2026-07-31T22:11:32.229958+00:00,49127874,26,Predictive Speculative KV Replication for Bursty LLM Inference,9,0
+2026-07-31T22:11:32.229958+00:00,49070810,27,How JPEG works: Interactively explore JPEG's lossy compression methods,76,8
+2026-07-31T22:11:32.229958+00:00,49128177,28,Show HN: How to build and self-host a code review agent,10,2
+2026-07-31T22:11:32.229958+00:00,49126943,29,Orca-Bench: How Ready Are Language Model Agents for Oncall?,20,6
+2026-07-31T22:11:32.229958+00:00,49124358,30,Is AI reasoning right for the wrong reasons?,92,118
+2026-07-31T22:11:32.229958+00:00,49079837,31,A simple clustering algorithm for lists,17,3
+2026-07-31T22:11:32.229958+00:00,49124496,32,A GTK4 SSH-askpass in Zig,58,19
+2026-07-31T22:11:32.229958+00:00,49123199,33,Clockwise/Spiral Rule (1994),58,44
+2026-07-31T22:11:32.229958+00:00,49122882,34,Anti-fraud tools can't keep pace with robocall scammers,62,77
+2026-07-31T22:11:32.229958+00:00,49121980,35,The End of an Era,377,414
+2026-07-31T22:11:32.229958+00:00,49127573,36,Nano Banana 2 removed from Google Earth,10,5
+2026-07-31T22:11:32.229958+00:00,49123789,37,"Show HN: BitBang – Reach machines behind NAT from a browser, no account",67,18
+2026-07-31T22:11:32.229958+00:00,49124336,38,"13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",39,14
+2026-07-31T22:11:32.229958+00:00,49120120,39,Danube's record low levels force shutdown of Hungary's only nuclear plant,121,129
+2026-07-31T22:11:32.229958+00:00,49123208,40,Arch Linux disables AUR package adoption,125,87
+2026-07-31T22:11:32.229958+00:00,49124525,41,The Art of Decision-Making (2019),36,3
+2026-07-31T22:11:32.229958+00:00,49064656,42,Making Referential Stability a Type,22,1
+2026-07-31T22:11:32.229958+00:00,49048452,43,IMAX vs. IMAX 70mm: The difference between these two cinema formats,78,124
+2026-07-31T22:11:32.229958+00:00,49116922,44,Investigating three real-world incidents in our cybersecurity evaluations,219,172
+2026-07-31T22:11:32.229958+00:00,49119559,45,DeepSeek-V4-Flash Update,658,315
+2026-07-31T22:11:32.229958+00:00,49125237,46,The great wealth transfer reality check,48,77
+2026-07-31T22:11:32.229958+00:00,49120097,47,"Google fixed more Chrome bugs in June than over the past two years, thanks to AI",471,479
+2026-07-31T22:11:32.229958+00:00,49127726,48,OpenAI serves more than one billion active users,9,2
+2026-07-31T22:11:32.229958+00:00,49111523,49,Solving poker in custom WebGPU kernels,64,19
+2026-07-31T22:11:32.229958+00:00,49119274,50,Show HN: What should the GUI for AI agents look like?,101,62
