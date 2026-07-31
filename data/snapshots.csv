@@ -21719,3 +21719,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-31T10:48:10.584351+00:00,49109474,48,RFC 8890 – The Internet is for End Users (2020),122,38
 2026-07-31T10:48:10.584351+00:00,49113913,49,Making Postgres queues scale,117,30
 2026-07-31T10:48:10.584351+00:00,49107950,50,Google will expand age checks on Android worldwide till the end of the year,404,487
+2026-07-31T13:02:13.784437+00:00,49121980,1,The End of an Era,91,77
+2026-07-31T13:02:13.784437+00:00,49120299,2,"DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",121,43
+2026-07-31T13:02:13.784437+00:00,49118781,3,The session you cannot take with you,510,132
+2026-07-31T13:02:13.784437+00:00,49119063,4,JEP 401: Value Objects (Preview) merged to OpenJDK master,162,88
+2026-07-31T13:02:13.784437+00:00,49048452,5,IMAX vs. IMAX 70mm: The difference between these two cinema formats,30,25
+2026-07-31T13:02:13.784437+00:00,49119559,6,DeepSeek-V4-Flash Update,399,202
+2026-07-31T13:02:13.784437+00:00,49120097,7,"Google fixed more Chrome bugs in June than over the past two years, thanks to AI",177,197
+2026-07-31T13:02:13.784437+00:00,49112232,9,Stacked PRs are now live on GitHub,697,242
+2026-07-31T13:02:13.784437+00:00,49119425,10,"Show HN: Gander, an Android file viewer that asks for no permissions at all",106,50
+2026-07-31T13:02:13.784437+00:00,49051890,11,How A Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist,17,11
+2026-07-31T13:02:13.784437+00:00,49111237,12,Gemini Robotics 2 brings whole body intelligence to robots,583,465
+2026-07-31T13:02:13.784437+00:00,49116721,13,I flagged two research papers for fake authors and both were accepted as orals,230,106
+2026-07-31T13:02:13.784437+00:00,49117284,14,The Religion of Speed,208,96
+2026-07-31T13:02:13.784437+00:00,49096170,15,The mean means nothing: data visualization to debug a latency problem,63,14
+2026-07-31T13:02:13.784437+00:00,49112744,16,Read this before you buy that TV streaming stick,747,453
+2026-07-31T13:02:13.784437+00:00,49122105,17,Ruby Central's Destructive Legacy,12,2
+2026-07-31T13:02:13.784437+00:00,49077372,18,Where USB Memory Sticks are Born (2013),69,3
+2026-07-31T13:02:13.784437+00:00,49088098,19,Simulating TCP loss and congestion in browser using Go/WASM,39,1
+2026-07-31T13:02:13.784437+00:00,49111176,20,The Economic Benefit of Refactoring,254,109
+2026-07-31T13:02:13.784437+00:00,49117266,21,Premier league bans gambling sponsors,62,11
+2026-07-31T13:02:13.784437+00:00,49108685,22,GCC steering committee announces AI policy,311,354
+2026-07-31T13:02:13.784437+00:00,49071299,23,Bad Apple but It's Traceroute,136,43
+2026-07-31T13:02:13.784437+00:00,49083970,24,"Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",87,12
+2026-07-31T13:02:13.784437+00:00,49110308,25,The lost civic life of movie rental stores,186,245
+2026-07-31T13:02:13.784437+00:00,49113929,26,UEFA and its national associations will not participate in FIFA competitions,1110,596
+2026-07-31T13:02:13.784437+00:00,49113599,27,Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it,141,69
+2026-07-31T13:02:13.784437+00:00,49117099,28,The AI Aesthetic,331,150
+2026-07-31T13:02:13.784437+00:00,49116272,29,"Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",90,40
+2026-07-31T13:02:13.784437+00:00,49109193,30,Why is everyone trying to build a solid-state battery?,204,261
+2026-07-31T13:02:13.784437+00:00,49113338,31,CodePen 2.0,174,49
+2026-07-31T13:02:13.784437+00:00,49099434,32,Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite,120,21
+2026-07-31T13:02:13.784437+00:00,49116074,33,Saber-toothed cats became inbred–and struggled to move–before they went extinct,63,30
+2026-07-31T13:02:13.784437+00:00,49068229,34,Show HN: A udev implementation in Guile Scheme,16,5
+2026-07-31T13:02:13.784437+00:00,49112867,35,Advancing the price-performance frontier with GPT‑5.6,586,385
+2026-07-31T13:02:13.784437+00:00,49109616,36,Upper stage impacting the moon on 2026 August 5,208,72
+2026-07-31T13:02:13.784437+00:00,49111305,37,"Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",224,159
+2026-07-31T13:02:13.784437+00:00,49113059,38,"We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",373,222
+2026-07-31T13:02:13.784437+00:00,49107246,39,Ron Gilbert started production on Thimbleweed Park 2,244,113
+2026-07-31T13:02:13.784437+00:00,49047839,40,"2x, not 10x: coding with LLMs in 2026",269,216
+2026-07-31T13:02:13.784437+00:00,49087673,41,Obfuscation (Part II): Diamond IO,8,1
+2026-07-31T13:02:13.784437+00:00,49110547,42,Hacker Public Radio,156,29
+2026-07-31T13:02:13.784437+00:00,49109721,43,Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools,72,53
+2026-07-31T13:02:13.784437+00:00,49110348,44,Why DNA damage from smoking and UV rays cause cancer in some but not others,104,105
+2026-07-31T13:02:13.784437+00:00,49116922,45,Investigating three real-world incidents in our cybersecurity evaluations,194,150
+2026-07-31T13:02:13.784437+00:00,49114639,46,Agent Skill to Force Docs in ASD-STE100 Simplified Technical English,308,112
+2026-07-31T13:02:13.784437+00:00,49122153,47,DeepSeek-AI/DeepSeek-V4-Flash-0731,8,0
+2026-07-31T13:02:13.784437+00:00,49119270,48,Let's Make the Worst Htmx,14,1
+2026-07-31T13:02:13.784437+00:00,49121220,49,Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the AI Bubble?,20,5
+2026-07-31T13:02:13.784437+00:00,49108678,50,Are We Stuck with Lean?,143,65
