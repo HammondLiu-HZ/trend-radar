@@ -21572,3 +21572,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-31T00:10:30.398217+00:00,49108971,48,How old is Ann?,60,64
 2026-07-31T00:10:30.398217+00:00,49070073,49,The Glass Famine,115,57
 2026-07-31T00:10:30.398217+00:00,49113543,50,Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents,14,0
+2026-07-31T04:29:34.990383+00:00,49118663,1,A California aquifer may have crossed the point of no return,74,44
+2026-07-31T04:29:34.990383+00:00,49117099,2,The AI Aesthetic,198,105
+2026-07-31T04:29:34.990383+00:00,49112744,3,Read this before you buy that TV streaming stick,624,366
+2026-07-31T04:29:34.990383+00:00,49118933,4,"The AI trade now runs on borrowed money, and the lenders are repricing it",7,0
+2026-07-31T04:29:34.990383+00:00,49116721,5,I flagged two research papers for fake authors and both were accepted as orals,133,57
+2026-07-31T04:29:34.990383+00:00,49112232,6,Stacked PRs are now live on GitHub,523,180
+2026-07-31T04:29:34.990383+00:00,49114639,7,Agent Skill to Force Docs in ASD-STE100 Simplified Technical English,245,86
+2026-07-31T04:29:34.990383+00:00,49111237,8,Gemini Robotics 2 brings whole body intelligence to robots,506,405
+2026-07-31T04:29:34.990383+00:00,49080605,9,Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test,32,24
+2026-07-31T04:29:34.990383+00:00,49118696,10,The bond market isn't buying what Fed Chair Warsh is selling,42,0
+2026-07-31T04:29:34.990383+00:00,49118781,11,The Session You Cannot take with you,6,0
+2026-07-31T04:29:34.990383+00:00,49073017,12,The American Grilled Cheese Sandwich Essay (2024),32,16
+2026-07-31T04:29:34.990383+00:00,49117284,13,The Religion of Speed,48,12
+2026-07-31T04:29:34.990383+00:00,49116922,14,Investigating three real-world incidents in our cybersecurity evaluations,133,94
+2026-07-31T04:29:34.990383+00:00,49116272,15,"Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",59,19
+2026-07-31T04:29:34.990383+00:00,49107950,16,Google will expand age checks on Android worldwide till the end of the year,378,461
+2026-07-31T04:29:34.990383+00:00,49113338,17,CodePen 2.0,147,43
+2026-07-31T04:29:34.990383+00:00,49111305,18,"Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",193,112
+2026-07-31T04:29:34.990383+00:00,49111176,19,The Economic Benefit of Refactoring,213,89
+2026-07-31T04:29:34.990383+00:00,49071299,20,Bad Apple but It's Traceroute,83,21
+2026-07-31T04:29:34.990383+00:00,49113929,21,UEFA and its national associations will not participate in FIFA competitions,863,479
+2026-07-31T04:29:34.990383+00:00,49083970,22,"Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",59,6
+2026-07-31T04:29:34.990383+00:00,49116074,23,Saber-toothed cats became inbred–and struggled to move–before they went extinct,38,15
+2026-07-31T04:29:34.990383+00:00,49108685,25,GCC steering committee announces AI policy,258,300
+2026-07-31T04:29:34.990383+00:00,49112867,26,Advancing the price-performance frontier with GPT‑5.6,528,346
+2026-07-31T04:29:34.990383+00:00,49113599,27,Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it,98,63
+2026-07-31T04:29:34.990383+00:00,49047839,28,"2x, not 10x: coding with LLMs in 2026",233,189
+2026-07-31T04:29:34.990383+00:00,49110308,29,The lost civic life of movie rental stores,143,198
+2026-07-31T04:29:34.990383+00:00,49113059,30,"We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",326,197
+2026-07-31T04:29:34.990383+00:00,49099434,31,Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite,98,20
+2026-07-31T04:29:34.990383+00:00,49109193,32,Why is everyone trying to build a solid-state battery?,181,224
+2026-07-31T04:29:34.990383+00:00,49109616,33,Upper stage impacting the moon on 2026 August 5,198,54
+2026-07-31T04:29:34.990383+00:00,49110547,34,Hacker Public Radio,142,28
+2026-07-31T04:29:34.990383+00:00,49109721,35,Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools,68,48
+2026-07-31T04:29:34.990383+00:00,49107246,36,Ron Gilbert started production on Thimbleweed Park 2,237,111
+2026-07-31T04:29:34.990383+00:00,49110348,37,Why DNA damage from smoking and UV rays cause cancer in some but not others,92,99
+2026-07-31T04:29:34.990383+00:00,49113913,38,Making Postgres queues scale,109,27
+2026-07-31T04:29:34.990383+00:00,49068760,39,"Destroying a Community with a Gigantic ""Clogged Vacuum Cleaner""",73,49
+2026-07-31T04:29:34.990383+00:00,49109474,40,RFC 8890 – The Internet is for End Users (2020),120,34
+2026-07-31T04:29:34.990383+00:00,49111523,41,Solving poker in custom WebGPU kernels,45,13
+2026-07-31T04:29:34.990383+00:00,49108678,42,Are We Stuck with Lean?,134,61
+2026-07-31T04:29:34.990383+00:00,49118113,43,"Exploring the ""Dario and Amanda"" Prompt",27,3
+2026-07-31T04:29:34.990383+00:00,49109026,44,Why don't people use formal methods? (2019),117,105
+2026-07-31T04:29:34.990383+00:00,49048728,45,How to Mount a Balcony Awning (2025),60,8
+2026-07-31T04:29:34.990383+00:00,49063454,46,Show HN: Optimize and serve models with Fable quality at half the cost,62,27
+2026-07-31T04:29:34.990383+00:00,49118769,47,How your software will fail at scale [video],5,0
+2026-07-31T04:29:34.990383+00:00,49073392,48,Fixing miss-aligned monospace text in Android browsers,4,1
+2026-07-31T04:29:34.990383+00:00,49117266,49,Premier league bans gambling sponsors,8,1
+2026-07-31T04:29:34.990383+00:00,49089502,50,Azulejo,180,64
