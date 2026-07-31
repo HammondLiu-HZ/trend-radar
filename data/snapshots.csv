@@ -21817,3 +21817,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-31T16:05:06.838093+00:00,49051890,48,How A Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist,37,22
 2026-07-31T16:05:06.838093+00:00,49116272,49,"Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",95,45
 2026-07-31T16:05:06.838093+00:00,49117099,50,The AI Aesthetic,359,169
+2026-07-31T18:24:53.550720+00:00,49124218,1,Elevators,411,138
+2026-07-31T18:24:53.550720+00:00,49124858,2,Big Food vs. the People,97,39
+2026-07-31T18:24:53.550720+00:00,49125034,3,Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio,50,34
+2026-07-31T18:24:53.550720+00:00,49124658,4,Algorithms on billion-scale graph using 10GB RAM: I love DataFusion,42,9
+2026-07-31T18:24:53.550720+00:00,49120299,5,"DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",442,232
+2026-07-31T18:24:53.550720+00:00,49119559,6,DeepSeek-V4-Flash Update,584,282
+2026-07-31T18:24:53.550720+00:00,49124496,7,A GTK4 SSH-askpass in Zig,37,9
+2026-07-31T18:24:53.550720+00:00,49124042,8,The most official water costs $120k a gallon,51,21
+2026-07-31T18:24:53.550720+00:00,49125237,10,The great wealth transfer reality check,19,5
+2026-07-31T18:24:53.550720+00:00,49123208,11,Arch Linux disables AUR package adoption,80,55
+2026-07-31T18:24:53.550720+00:00,49124336,12,"13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",23,6
+2026-07-31T18:24:53.550720+00:00,49121980,13,The End of an Era,323,365
+2026-07-31T18:24:53.550720+00:00,49126604,14,qm,4,1
+2026-07-31T18:24:53.550720+00:00,49070810,15,How JPEG works: Interactively explore JPEG's lossy compression methods,21,1
+2026-07-31T18:24:53.550720+00:00,49123386,16,Run Kimi K3 using 29 GB of RAM at 0.50 tok/s,35,12
+2026-07-31T18:24:53.550720+00:00,49118781,17,The session you cannot take with you,693,199
+2026-07-31T18:24:53.550720+00:00,49123789,18,"Show HN: BitBang – Reach machines behind NAT from a browser, no account",34,5
+2026-07-31T18:24:53.550720+00:00,49123199,19,The C ``Clockwise/Spiral Rule'',39,21
+2026-07-31T18:24:53.550720+00:00,49124525,20,The Art of Decision-Making (2019),19,2
+2026-07-31T18:24:53.550720+00:00,49122882,21,Anti-fraud tools can't keep pace with scammers exploiting cheap internet calling,35,34
+2026-07-31T18:24:53.550720+00:00,49120097,22,"Google fixed more Chrome bugs in June than over the past two years, thanks to AI",428,424
+2026-07-31T18:24:53.550720+00:00,49120120,23,Danube's record low levels force shutdown of Hungary's only nuclear plant,84,102
+2026-07-31T18:24:53.550720+00:00,49048452,24,IMAX vs. IMAX 70mm: The difference between these two cinema formats,59,82
+2026-07-31T18:24:53.550720+00:00,49119274,25,Show HN: What should the GUI for AI agents look like?,89,55
+2026-07-31T18:24:53.550720+00:00,49111523,26,Solving poker in custom WebGPU kernels,53,14
+2026-07-31T18:24:53.550720+00:00,49116922,27,Investigating three real-world incidents in our cybersecurity evaluations,207,164
+2026-07-31T18:24:53.550720+00:00,49122838,28,Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba,81,53
+2026-07-31T18:24:53.550720+00:00,49049992,29,Winding Down Artichoke Ruby,47,7
+2026-07-31T18:24:53.550720+00:00,49125922,30,"Show HN: Slope remade in HTML5 to load instantly on any browser, any device",6,1
+2026-07-31T18:24:53.550720+00:00,49121868,31,The Maxwell Conjecture Is False (GPT 5.6 Sol),119,115
+2026-07-31T18:24:53.550720+00:00,49124409,32,New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key,48,10
+2026-07-31T18:24:53.550720+00:00,49122994,33,Situational Awareness down 67% in July in AI stock rout,122,115
+2026-07-31T18:24:53.550720+00:00,49119425,34,"Show HN: Gander, an Android file viewer that asks for no permissions",182,64
+2026-07-31T18:24:53.550720+00:00,49124017,35,Show HN: I built a cross-browser extension that controls fingerprinting surfaces,14,8
+2026-07-31T18:24:53.550720+00:00,49126209,36,AI Is Getting Way Too Expensive,12,4
+2026-07-31T18:24:53.550720+00:00,49117266,37,Premier league bans gambling sponsors,229,85
+2026-07-31T18:24:53.550720+00:00,49124898,38,Google Earth's New AI Lets Anyone Fabricate Satellite Images,23,8
+2026-07-31T18:24:53.550720+00:00,49125140,39,Hygon Reveals 512-Thread CPU and AI GPU to Rival Intel Xeon and Nvidia,4,0
+2026-07-31T18:24:53.550720+00:00,49119063,40,JEP 401: Value Objects (Preview) merged to OpenJDK master,217,142
+2026-07-31T18:24:53.550720+00:00,49123867,41,Opkssh integrating single sign-on with SSH (2025),5,0
+2026-07-31T18:24:53.550720+00:00,49123847,42,"Why in Building Protocols, Like Code, Starting over Is Dumb",5,0
+2026-07-31T18:24:53.550720+00:00,49096170,43,The mean means nothing: data visualization to debug a latency problem,104,17
+2026-07-31T18:24:53.550720+00:00,49117284,44,The Religion of Speed,262,134
+2026-07-31T18:24:53.550720+00:00,49059418,45,Make an Origami Circuit Board,25,3
+2026-07-31T18:24:53.550720+00:00,49123372,46,The physics of Docker build caching,10,0
+2026-07-31T18:24:53.550720+00:00,49124358,47,Is AI reasoning right for the wrong reasons?,81,98
+2026-07-31T18:24:53.550720+00:00,49082198,48,I 4x'd a 367x479 stamp-sized photo through 8 upscaling models,10,6
+2026-07-31T18:24:53.550720+00:00,49125615,49,EFF Guide to Recording Law Enforcement,9,0
+2026-07-31T18:24:53.550720+00:00,49124917,50,Online Friends Are Real Friends,23,17
