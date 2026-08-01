@@ -22013,3 +22013,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-01T00:06:54.687492+00:00,49127108,48,"Lerd, an open source Herd-like PHP development environment for Linux and macOS",16,2
 2026-08-01T00:06:54.687492+00:00,49111523,49,Solving poker in custom WebGPU kernels,65,19
 2026-08-01T00:06:54.687492+00:00,49124525,50,The Art of Decision-Making (2019),39,3
+2026-08-01T04:26:06.449247+00:00,49130604,1,Flint: A Visualization Language for the AI Era,30,6
+2026-08-01T04:26:06.449247+00:00,49124218,2,Elevators,1026,245
+2026-08-01T04:26:06.449247+00:00,49130726,3,The development pipeline is a production system,30,10
+2026-08-01T04:26:06.449247+00:00,49129990,4,How to Exist,76,30
+2026-08-01T04:26:06.449247+00:00,49126604,5,qm – Multiplayer agent harness for work,511,107
+2026-08-01T04:26:06.449247+00:00,49096605,6,Software for One,53,25
+2026-08-01T04:26:06.449247+00:00,49130756,7,BMW Spider-Man in-car advertising,73,24
+2026-08-01T04:26:06.449247+00:00,49121196,8,Progressive Web Components,119,17
+2026-08-01T04:26:06.449247+00:00,49130295,9,A Week in Matrix,13,0
+2026-08-01T04:26:06.449247+00:00,49117089,10,The Absurdity of Albert Camus,75,42
+2026-08-01T04:26:06.449247+00:00,49126765,11,"June in Servo: real world compat, media queries, SharedWorker, and more",123,39
+2026-08-01T04:26:06.449247+00:00,49125034,12,Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio,162,91
+2026-08-01T04:26:06.449247+00:00,49124858,13,Big Food vs. the People,209,135
+2026-08-01T04:26:06.449247+00:00,49084005,14,How far can you push the range of Wi-Fi connectivity in an ideal environment?,25,18
+2026-08-01T04:26:06.449247+00:00,49123386,15,Run Kimi K3 using 29 GB of RAM at 0.50 tok/s,187,75
+2026-08-01T04:26:06.449247+00:00,49128323,16,Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena,44,19
+2026-08-01T04:26:06.449247+00:00,49127306,17,Tailscale didn't stop the Hugging Face intrusion,495,192
+2026-08-01T04:26:06.449247+00:00,49077646,18,Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide,3,0
+2026-08-01T04:26:06.449247+00:00,49119270,19,Let's make the worst Htmx,84,23
+2026-08-01T04:26:06.449247+00:00,49127031,20,Golang proposal: container/: generic collection types,138,83
+2026-08-01T04:26:06.449247+00:00,49128826,22,"Show HN: I worked on a new browser for 2 years, today it passed Acid 3",68,21
+2026-08-01T04:26:06.449247+00:00,49124042,23,The most official water costs $120k a gallon,157,131
+2026-08-01T04:26:06.449247+00:00,49096319,24,"The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",34,7
+2026-08-01T04:26:06.449247+00:00,49084645,25,Printing floating point numbers in binary,5,1
+2026-08-01T04:26:06.449247+00:00,49083599,26,"Twenty-five years ago it was cryptography, today it's model weights",206,90
+2026-08-01T04:26:06.449247+00:00,49126883,27,Termixer (TUI DJ Mixer),60,36
+2026-08-01T04:26:06.449247+00:00,49123468,28,"Authorize, don't authenticate",67,23
+2026-08-01T04:26:06.449247+00:00,49124358,29,Is AI reasoning right for the wrong reasons?,133,157
+2026-08-01T04:26:06.449247+00:00,49126919,30,Using the railway network as a flatbed scanner [video],62,26
+2026-08-01T04:26:06.449247+00:00,49124738,31,Dubious research tied to Red Bull has shaped energy drink policy,127,191
+2026-08-01T04:26:06.449247+00:00,49126630,32,"Everyone is building LLM routers, we deprecated ours",106,54
+2026-08-01T04:26:06.449247+00:00,49127874,33,Predictive Speculative KV Replication for Bursty LLM Inference,33,3
+2026-08-01T04:26:06.449247+00:00,49114527,34,A past and future of trade secrets,19,4
+2026-08-01T04:26:06.449247+00:00,49124658,35,Algorithms on billion-scale graph using 10GB RAM: I love DataFusion,113,32
+2026-08-01T04:26:06.449247+00:00,49120120,36,Danube's record low levels force shutdown of Hungary's only nuclear plant,140,136
+2026-08-01T04:26:06.449247+00:00,49099343,37,Archaeopteryx: A Ruby MIDI Generator [video],6,0
+2026-08-01T04:26:06.449247+00:00,49125971,38,Severance,228,72
+2026-08-01T04:26:06.449247+00:00,49116922,39,Investigating three real-world incidents in our cybersecurity evaluations,225,180
+2026-08-01T04:26:06.449247+00:00,49121980,40,The End of an Era,392,426
+2026-08-01T04:26:06.449247+00:00,49130131,41,"AI Visibility Evidence Model: Five Factors, Graded by Evidence",5,1
+2026-08-01T04:26:06.449247+00:00,49122882,42,Anti-fraud tools can't keep pace with robocall scammers,76,107
+2026-08-01T04:26:06.449247+00:00,49130117,43,Looking inside a 1970s PROM chip that stores data in microscopic fuses (2019),7,2
+2026-08-01T04:26:06.449247+00:00,49120299,44,"DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",538,293
+2026-08-01T04:26:06.449247+00:00,49123199,45,Clockwise/Spiral Rule (1994),64,47
+2026-08-01T04:26:06.449247+00:00,49127573,46,Nano Banana 2 removed from Google Earth,29,16
+2026-08-01T04:26:06.449247+00:00,49119559,47,DeepSeek-V4-Flash Update,680,328
+2026-08-01T04:26:06.449247+00:00,49123789,48,"Show HN: BitBang – Reach machines behind NAT from a browser, no account",76,22
+2026-08-01T04:26:06.449247+00:00,49120097,49,"Google fixed more Chrome bugs in June than over the past two years, thanks to AI",489,495
+2026-08-01T04:26:06.449247+00:00,49130583,50,Firefox Local Mode for Web Developers,11,0
