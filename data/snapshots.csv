@@ -22307,3 +22307,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-01T16:06:50.651482+00:00,49120120,48,Danube's record low levels force shutdown of Hungary's only nuclear plant,163,188
 2026-08-01T16:06:50.651482+00:00,49132130,49,"AI doesn't generate working products, that's still your job",228,225
 2026-08-01T16:06:50.651482+00:00,49127306,50,Tailscale didn't stop the Hugging Face intrusion,574,212
+2026-08-01T18:04:31.344816+00:00,49135257,1,Cursor removed cost information from the usage page and CSV export,155,64
+2026-08-01T18:04:31.344816+00:00,49134599,2,The Art of 64-bit Assembly,97,48
+2026-08-01T18:04:31.344816+00:00,49135985,3,Kaisel – Routes as Values. Dart 3 Native Router for Flutter,19,0
+2026-08-01T18:04:31.344816+00:00,49133889,4,RipGrep musl binaries occasionally segfault during very-large searches,187,118
+2026-08-01T18:04:31.344816+00:00,49135245,5,Explorative modeling: Train on the best of K guesses,32,7
+2026-08-01T18:04:31.344816+00:00,49135546,6,Pgtestdb's template cloning approach to testing is fast,27,8
+2026-08-01T18:04:31.344816+00:00,49134694,7,A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention,165,86
+2026-08-01T18:04:31.344816+00:00,49136063,8,A directory of people who love RSS,99,44
+2026-08-01T18:04:31.344816+00:00,49109019,9,Register deprivation: spills and runtime under forced register scarcity,13,1
+2026-08-01T18:04:31.344816+00:00,49134038,10,Charlie Stross – On the non-use of AI in my writing process,96,71
+2026-08-01T18:04:31.344816+00:00,49105331,11,Study uncovers lost 'golden age' of languages,36,29
+2026-08-01T18:04:31.344816+00:00,49085369,12,Rear center fuel tank adds roughly 20k liters and extends range by 1k NM,23,23
+2026-08-01T18:04:31.344816+00:00,49105013,13,"Manual: •.,:;?·",92,19
+2026-08-01T18:04:31.344816+00:00,49130604,14,Flint: A Visualization Language for the AI Era,227,65
+2026-08-01T18:04:31.344816+00:00,49132460,15,RamenHaus,173,84
+2026-08-01T18:04:31.344816+00:00,49126604,16,qm – Multiplayer agent harness for work,634,146
+2026-08-01T18:04:31.344816+00:00,49132083,17,Solid Queue 1.6.0 now supports fiber workers,72,30
+2026-08-01T18:04:31.344816+00:00,49087499,19,Linux on ESP32,49,18
+2026-08-01T18:04:31.344816+00:00,49091614,20,A tiny holdout building in the middle of Macy’s is back in view,160,45
+2026-08-01T18:04:31.344816+00:00,49135184,21,Toast IDE Gets Markdown Spell Checking,5,2
+2026-08-01T18:04:31.344816+00:00,49130726,22,The development pipeline is a production system,138,66
+2026-08-01T18:04:31.344816+00:00,49124218,23,Elevators,1516,382
+2026-08-01T18:04:31.344816+00:00,49096605,24,Software for One,206,209
+2026-08-01T18:04:31.344816+00:00,49123386,25,Run Kimi K3 using 29 GB of RAM at 0.50 tok/s,305,147
+2026-08-01T18:04:31.344816+00:00,49133777,26,Astro Loop,24,6
+2026-08-01T18:04:31.344816+00:00,49129990,27,How to Exist,328,195
+2026-08-01T18:04:31.344816+00:00,49096847,28,"G'mic 4.0: Squaring the Pixel, Easier",74,4
+2026-08-01T18:04:31.344816+00:00,49135511,29,BMW Is Showing Commercials on Their Car's Dash Screens as a Treat,23,10
+2026-08-01T18:04:31.344816+00:00,49132058,30,Ten advances in mathematics and theoretical computer science,343,227
+2026-08-01T18:04:31.344816+00:00,49117089,31,The Absurdity of Albert Camus,163,79
+2026-08-01T18:04:31.344816+00:00,49121196,32,Progressive Web Components,184,51
+2026-08-01T18:04:31.344816+00:00,49125034,33,Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio,219,109
+2026-08-01T18:04:31.344816+00:00,49126765,34,"June in Servo: real world compat, media queries, SharedWorker, and more",190,57
+2026-08-01T18:04:31.344816+00:00,49077646,35,Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide,61,7
+2026-08-01T18:04:31.344816+00:00,49136236,36,Assessment of open AI math results,7,3
+2026-08-01T18:04:31.344816+00:00,49121849,37,Increasing the lifespan of a bulb makes it worse in every other way,147,162
+2026-08-01T18:04:31.344816+00:00,49124858,38,Big Food vs. the People,257,165
+2026-08-01T18:04:31.344816+00:00,49135365,39,"GitHub has alternatives, but no replacement",73,97
+2026-08-01T18:04:31.344816+00:00,49132289,40,How to Do Great Work (2023),80,61
+2026-08-01T18:04:31.344816+00:00,49136104,41,Floundering A.I. 'Nostradamus' Hedge Fund Is Rescued by Rival,8,2
+2026-08-01T18:04:31.344816+00:00,49124042,42,The most official water costs $120k a gallon,217,174
+2026-08-01T18:04:31.344816+00:00,49127031,43,Golang proposal: container/: generic collection types,174,169
+2026-08-01T18:04:31.344816+00:00,49083207,44,The First Idempotency Key,28,5
+2026-08-01T18:04:31.344816+00:00,49124358,45,Is AI reasoning right for the wrong reasons?,189,217
+2026-08-01T18:04:31.344816+00:00,49119270,46,Let's make the worst Htmx,126,57
+2026-08-01T18:04:31.344816+00:00,49133851,47,"Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",8,0
+2026-08-01T18:04:31.344816+00:00,49116922,48,Investigating three real-world incidents in our cybersecurity evaluations,240,192
+2026-08-01T18:04:31.344816+00:00,49128323,49,Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena,59,36
+2026-08-01T18:04:31.344816+00:00,49120120,50,Danube's record low levels force shutdown of Hungary's only nuclear plant,165,190
