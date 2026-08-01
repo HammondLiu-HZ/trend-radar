@@ -21964,3 +21964,52 @@ captured_at,story_id,rank,title,score,comments
 2026-07-31T22:11:32.229958+00:00,49127726,48,OpenAI serves more than one billion active users,9,2
 2026-07-31T22:11:32.229958+00:00,49111523,49,Solving poker in custom WebGPU kernels,64,19
 2026-07-31T22:11:32.229958+00:00,49119274,50,Show HN: What should the GUI for AI agents look like?,101,62
+2026-08-01T00:06:54.687492+00:00,49127306,1,Tailscale didn't stop the Hugging Face intrusion,380,153
+2026-08-01T00:06:54.687492+00:00,49124218,2,Elevators,815,210
+2026-08-01T00:06:54.687492+00:00,49126604,3,qm,394,89
+2026-08-01T00:06:54.687492+00:00,49083599,4,"Twenty-five years ago it was cryptography, today it's model weights",109,37
+2026-08-01T00:06:54.687492+00:00,49117089,5,The Absurdity of Albert Camus,29,12
+2026-08-01T00:06:54.687492+00:00,49121196,6,Progressive Web Components,62,9
+2026-08-01T00:06:54.687492+00:00,49124858,7,Big Food vs. the People,179,121
+2026-08-01T00:06:54.687492+00:00,49126765,8,"June in Servo: real world compat, media queries, SharedWorker, and more",89,29
+2026-08-01T00:06:54.687492+00:00,49128323,9,Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena,24,14
+2026-08-01T00:06:54.687492+00:00,49127031,10,Golang proposal: container/: generic collection types,111,66
+2026-08-01T00:06:54.687492+00:00,49120299,11,"DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",520,287
+2026-08-01T00:06:54.687492+00:00,49096319,13,"The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",13,1
+2026-08-01T00:06:54.687492+00:00,49119270,14,Let's make the worst Htmx,53,13
+2026-08-01T00:06:54.687492+00:00,49123386,15,Run Kimi K3 using 29 GB of RAM at 0.50 tok/s,132,54
+2026-08-01T00:06:54.687492+00:00,49126883,16,Termixer (TUI DJ Mixer),46,32
+2026-08-01T00:06:54.687492+00:00,49070810,17,How JPEG works: Interactively explore JPEG's lossy compression methods,92,11
+2026-08-01T00:06:54.687492+00:00,49125034,18,Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio,120,76
+2026-08-01T00:06:54.687492+00:00,49124042,19,The most official water costs $120k a gallon,124,100
+2026-08-01T00:06:54.687492+00:00,49123468,20,"Authorize, don't authenticate",44,10
+2026-08-01T00:06:54.687492+00:00,49126630,21,"Everyone is building LLM routers, we deprecated ours",83,39
+2026-08-01T00:06:54.687492+00:00,49124738,22,Dubious research tied to Red Bull has shaped energy drink policy,103,161
+2026-08-01T00:06:54.687492+00:00,49127874,23,Predictive Speculative KV Replication for Bursty LLM Inference,20,1
+2026-08-01T00:06:54.687492+00:00,49124358,24,Is AI reasoning right for the wrong reasons?,108,141
+2026-08-01T00:06:54.687492+00:00,49126919,25,Using the railway network as a flatbed scanner [video],43,21
+2026-08-01T00:06:54.687492+00:00,49124658,26,Algorithms on billion-scale graph using 10GB RAM: I love DataFusion,92,31
+2026-08-01T00:06:54.687492+00:00,49094200,27,Britain's New World of Tobacco (2017),7,0
+2026-08-01T00:06:54.687492+00:00,49114527,28,A past and future of trade secrets,7,0
+2026-08-01T00:06:54.687492+00:00,49125971,29,Severance,192,57
+2026-08-01T00:06:54.687492+00:00,49128177,30,Show HN: How to build and self-host a code review agent,16,3
+2026-08-01T00:06:54.687492+00:00,49123199,31,Clockwise/Spiral Rule (1994),60,44
+2026-08-01T00:06:54.687492+00:00,49121980,32,The End of an Era,380,420
+2026-08-01T00:06:54.687492+00:00,49122882,33,Anti-fraud tools can't keep pace with robocall scammers,68,92
+2026-08-01T00:06:54.687492+00:00,49126943,34,Orca-Bench: How Ready Are Language Model Agents for Oncall?,24,11
+2026-08-01T00:06:54.687492+00:00,49127573,35,Nano Banana 2 removed from Google Earth,18,8
+2026-08-01T00:06:54.687492+00:00,49120120,36,Danube's record low levels force shutdown of Hungary's only nuclear plant,130,133
+2026-08-01T00:06:54.687492+00:00,49077723,37,Hope and Defeat: John Berger,6,0
+2026-08-01T00:06:54.687492+00:00,49124496,38,A GTK4 SSH-askpass in Zig,60,19
+2026-08-01T00:06:54.687492+00:00,49123789,39,"Show HN: BitBang – Reach machines behind NAT from a browser, no account",72,20
+2026-08-01T00:06:54.687492+00:00,49079837,40,A simple clustering algorithm for lists,22,3
+2026-08-01T00:06:54.687492+00:00,49119065,41,Just brute force your embeddings,16,10
+2026-08-01T00:06:54.687492+00:00,49116922,42,Investigating three real-world incidents in our cybersecurity evaluations,221,175
+2026-08-01T00:06:54.687492+00:00,49048452,43,IMAX vs. IMAX 70mm: The difference between these two cinema formats,81,127
+2026-08-01T00:06:54.687492+00:00,49119559,44,DeepSeek-V4-Flash Update,666,320
+2026-08-01T00:06:54.687492+00:00,49121849,45,Increasing the lifespan of a bulb makes it worse in every other way,48,59
+2026-08-01T00:06:54.687492+00:00,49124336,46,"13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",41,15
+2026-08-01T00:06:54.687492+00:00,49120097,47,"Google fixed more Chrome bugs in June than over the past two years, thanks to AI",478,485
+2026-08-01T00:06:54.687492+00:00,49127108,48,"Lerd, an open source Herd-like PHP development environment for Linux and macOS",16,2
+2026-08-01T00:06:54.687492+00:00,49111523,49,Solving poker in custom WebGPU kernels,65,19
+2026-08-01T00:06:54.687492+00:00,49124525,50,The Art of Decision-Making (2019),39,3
