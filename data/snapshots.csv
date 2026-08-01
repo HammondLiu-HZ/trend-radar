@@ -22062,3 +22062,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-01T04:26:06.449247+00:00,49123789,48,"Show HN: BitBang – Reach machines behind NAT from a browser, no account",76,22
 2026-08-01T04:26:06.449247+00:00,49120097,49,"Google fixed more Chrome bugs in June than over the past two years, thanks to AI",489,495
 2026-08-01T04:26:06.449247+00:00,49130583,50,Firefox Local Mode for Web Developers,11,0
+2026-08-01T07:32:35.933745+00:00,49124218,1,Elevators,1191,282
+2026-08-01T07:32:35.933745+00:00,49130604,2,Flint: A Visualization Language for the AI Era,88,29
+2026-08-01T07:32:35.933745+00:00,49131367,3,Ten Ways NAS Is Getting Enshitified,37,27
+2026-08-01T07:32:35.933745+00:00,49129990,4,How to Exist,151,75
+2026-08-01T07:32:35.933745+00:00,49126604,5,qm – Multiplayer agent harness for work,539,113
+2026-08-01T07:32:35.933745+00:00,49130726,6,The development pipeline is a production system,62,21
+2026-08-01T07:32:35.933745+00:00,49121196,7,Progressive Web Components,143,24
+2026-08-01T07:32:35.933745+00:00,49117089,8,The Absurdity of Albert Camus,97,50
+2026-08-01T07:32:35.933745+00:00,49077646,9,Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide,16,0
+2026-08-01T07:32:35.933745+00:00,49130295,10,A Week in Matrix,48,28
+2026-08-01T07:32:35.933745+00:00,49123386,11,Run Kimi K3 using 29 GB of RAM at 0.50 tok/s,226,92
+2026-08-01T07:32:35.933745+00:00,49131034,12,What Liberal Arts Education Is for (2024),34,32
+2026-08-01T07:32:35.933745+00:00,49125034,13,Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio,182,94
+2026-08-01T07:32:35.933745+00:00,49126765,14,"June in Servo: real world compat, media queries, SharedWorker, and more",132,44
+2026-08-01T07:32:35.933745+00:00,49091614,15,"By billboards for over 100 years, holdout building by Macy's is back",11,3
+2026-08-01T07:32:35.933745+00:00,49084005,16,How far can you push the range of Wi-Fi connectivity in an ideal environment?,46,28
+2026-08-01T07:32:35.933745+00:00,49124858,17,Big Food vs. the People,223,142
+2026-08-01T07:32:35.933745+00:00,49084215,18,When Internal Memory Fails: A No-Solder Wii U Recovery,6,1
+2026-08-01T07:32:35.933745+00:00,49128323,19,Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena,48,26
+2026-08-01T07:32:35.933745+00:00,49119270,20,Let's make the worst Htmx,92,31
+2026-08-01T07:32:35.933745+00:00,49096605,21,Software for One,83,61
+2026-08-01T07:32:35.933745+00:00,49127306,22,Tailscale didn't stop the Hugging Face intrusion,532,196
+2026-08-01T07:32:35.933745+00:00,49124042,23,The most official water costs $120k a gallon,174,143
+2026-08-01T07:32:35.933745+00:00,49083599,24,"Twenty-five years ago it was cryptography, today it's model weights",229,116
+2026-08-01T07:32:35.933745+00:00,49124358,25,Is AI reasoning right for the wrong reasons?,154,180
+2026-08-01T07:32:35.933745+00:00,49123468,27,"Authorize, don't authenticate",79,30
+2026-08-01T07:32:35.933745+00:00,49096319,28,"The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",41,17
+2026-08-01T07:32:35.933745+00:00,49126919,29,Using the railway network as a flatbed scanner [video],71,31
+2026-08-01T07:32:35.933745+00:00,49120120,30,Danube's record low levels force shutdown of Hungary's only nuclear plant,146,147
+2026-08-01T07:32:35.933745+00:00,49116922,31,Investigating three real-world incidents in our cybersecurity evaluations,227,183
+2026-08-01T07:32:35.933745+00:00,49124738,32,Dubious research tied to Red Bull has shaped energy drink policy,135,200
+2026-08-01T07:32:35.933745+00:00,49124658,33,Algorithms on billion-scale graph using 10GB RAM: I love DataFusion,117,32
+2026-08-01T07:32:35.933745+00:00,49127874,34,Predictive Speculative KV Replication for Bursty LLM Inference,34,4
+2026-08-01T07:32:35.933745+00:00,49121980,35,The End of an Era,400,426
+2026-08-01T07:32:35.933745+00:00,49120299,36,"DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",550,294
+2026-08-01T07:32:35.933745+00:00,49114527,37,A past and future of trade secrets,20,4
+2026-08-01T07:32:35.933745+00:00,49125971,38,Severance,237,77
+2026-08-01T07:32:35.933745+00:00,49119559,39,DeepSeek-V4-Flash Update,690,329
+2026-08-01T07:32:35.933745+00:00,49126883,40,Termixer (TUI DJ Mixer),63,40
+2026-08-01T07:32:35.933745+00:00,49122882,41,Anti-fraud tools can't keep pace with robocall scammers,76,112
+2026-08-01T07:32:35.933745+00:00,49126630,42,"Everyone is building LLM routers, we deprecated ours",116,71
+2026-08-01T07:32:35.933745+00:00,49127031,43,Golang proposal: container/: generic collection types,147,110
+2026-08-01T07:32:35.933745+00:00,49123199,44,Clockwise/Spiral Rule (1994),65,47
+2026-08-01T07:32:35.933745+00:00,49129008,45,Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer,20,2
+2026-08-01T07:32:35.933745+00:00,49119274,46,Show HN: What should the GUI for AI agents look like?,113,65
+2026-08-01T07:32:35.933745+00:00,49120097,47,"Google fixed more Chrome bugs in June than over the past two years, thanks to AI",493,511
+2026-08-01T07:32:35.933745+00:00,49117266,48,Premier league bans gambling sponsors,272,107
+2026-08-01T07:32:35.933745+00:00,49128826,49,"Show HN: I worked on a new browser for 2 years, today it passed Acid 3",113,34
+2026-08-01T07:32:35.933745+00:00,49111523,50,Solving poker in custom WebGPU kernels,71,19
