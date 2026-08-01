@@ -22111,3 +22111,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-01T07:32:35.933745+00:00,49117266,48,Premier league bans gambling sponsors,272,107
 2026-08-01T07:32:35.933745+00:00,49128826,49,"Show HN: I worked on a new browser for 2 years, today it passed Acid 3",113,34
 2026-08-01T07:32:35.933745+00:00,49111523,50,Solving poker in custom WebGPU kernels,71,19
+2026-08-01T10:06:32.003908+00:00,49132460,1,RamenHaus,67,23
+2026-08-01T10:06:32.003908+00:00,49132130,2,"AI doesn't generate working products, that's still your job",50,25
+2026-08-01T10:06:32.003908+00:00,49124218,3,Elevators,1301,318
+2026-08-01T10:06:32.003908+00:00,49130604,4,Flint: A Visualization Language for the AI Era,122,39
+2026-08-01T10:06:32.003908+00:00,49132083,5,Solid Queue 1.6.0 now supports fiber workers,14,1
+2026-08-01T10:06:32.003908+00:00,49126604,6,qm – Multiplayer agent harness for work,574,118
+2026-08-01T10:06:32.003908+00:00,49130726,7,The development pipeline is a production system,84,33
+2026-08-01T10:06:32.003908+00:00,49129990,8,How to Exist,199,115
+2026-08-01T10:06:32.003908+00:00,49132058,9,Ten advances in mathematics and theoretical computer science,98,78
+2026-08-01T10:06:32.003908+00:00,49096605,10,Software for One,114,95
+2026-08-01T10:06:32.003908+00:00,49096847,11,"G'mic 4.0: Squaring the Pixel, Easier",20,2
+2026-08-01T10:06:32.003908+00:00,49132289,12,How to Do Great Work,10,1
+2026-08-01T10:06:32.003908+00:00,49077646,13,Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide,39,0
+2026-08-01T10:06:32.003908+00:00,49091614,14,A tiny holdout building in the middle of Macy’s is back in view,28,9
+2026-08-01T10:06:32.003908+00:00,49083141,15,AWS Secrets Manager Terraform: Least-Privilege Access,7,0
+2026-08-01T10:06:32.003908+00:00,49120097,16,"Google fixed more Chrome bugs in June than over the past two years, thanks to AI",520,535
+2026-08-01T10:06:32.003908+00:00,49117089,17,The Absurdity of Albert Camus,123,54
+2026-08-01T10:06:32.003908+00:00,49131367,18,Ten Ways NAS Is Getting Enshitified,91,83
+2026-08-01T10:06:32.003908+00:00,49123386,19,Run Kimi K3 using 29 GB of RAM at 0.50 tok/s,250,106
+2026-08-01T10:06:32.003908+00:00,49121196,20,Progressive Web Components,155,32
+2026-08-01T10:06:32.003908+00:00,49125034,21,Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio,191,95
+2026-08-01T10:06:32.003908+00:00,49126765,22,"June in Servo: real world compat, media queries, SharedWorker, and more",152,49
+2026-08-01T10:06:32.003908+00:00,49124858,23,Big Food vs. the People,231,146
+2026-08-01T10:06:32.003908+00:00,49121849,24,Increasing the lifespan of a bulb makes it worse in every other way,89,88
+2026-08-01T10:06:32.003908+00:00,49127031,25,Golang proposal: container/: generic collection types,154,126
+2026-08-01T10:06:32.003908+00:00,49084005,26,Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019),54,32
+2026-08-01T10:06:32.003908+00:00,49130295,27,A week in Matrix,73,40
+2026-08-01T10:06:32.003908+00:00,49132341,28,EU will mandate labels on authentic-looking AI content starting August 2,11,0
+2026-08-01T10:06:32.003908+00:00,49124042,29,The most official water costs $120k a gallon,189,148
+2026-08-01T10:06:32.003908+00:00,49128323,31,Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena,51,28
+2026-08-01T10:06:32.003908+00:00,49119270,32,Let's make the worst Htmx,103,32
+2026-08-01T10:06:32.003908+00:00,49127306,33,Tailscale didn't stop the Hugging Face intrusion,551,204
+2026-08-01T10:06:32.003908+00:00,49123468,34,"Authorize, don't authenticate",91,35
+2026-08-01T10:06:32.003908+00:00,49124358,35,Is AI reasoning right for the wrong reasons?,163,193
+2026-08-01T10:06:32.003908+00:00,49083599,36,"Twenty-five years ago it was cryptography, today it's model weights",242,125
+2026-08-01T10:06:32.003908+00:00,49096319,37,"The first transatlantic telegraph cable was a bold, beautiful failure (2019)",43,17
+2026-08-01T10:06:32.003908+00:00,49126630,38,"Everyone is building LLM routers, we deprecated ours",120,72
+2026-08-01T10:06:32.003908+00:00,49120120,39,Danube's record low levels force shutdown of Hungary's only nuclear plant,151,160
+2026-08-01T10:06:32.003908+00:00,49116922,40,Investigating three real-world incidents in our cybersecurity evaluations,231,186
+2026-08-01T10:06:32.003908+00:00,49126919,41,Using the railway network as a flatbed scanner [video],75,31
+2026-08-01T10:06:32.003908+00:00,49131300,42,A 15-day autonomous coding run spent five days building no product code,6,2
+2026-08-01T10:06:32.003908+00:00,49124738,43,Dubious research tied to Red Bull has shaped energy drink policy,139,207
+2026-08-01T10:06:32.003908+00:00,49124658,44,Algorithms on billion-scale graph using 10GB RAM: I love DataFusion,120,37
+2026-08-01T10:06:32.003908+00:00,49121980,45,The End of an Era,410,431
+2026-08-01T10:06:32.003908+00:00,49120299,46,"DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",559,297
+2026-08-01T10:06:32.003908+00:00,49119559,47,DeepSeek-V4-Flash Update,701,332
+2026-08-01T10:06:32.003908+00:00,49122882,48,Anti-fraud tools can't keep pace with robocall scammers,78,116
+2026-08-01T10:06:32.003908+00:00,49114527,49,A past and future of trade secrets,22,4
+2026-08-01T10:06:32.003908+00:00,49127874,50,Predictive Speculative KV Replication for Bursty LLM Inference,38,4
