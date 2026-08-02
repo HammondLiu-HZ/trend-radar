@@ -22454,3 +22454,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-01T22:01:52.872179+00:00,49133851,48,"Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",16,0
 2026-08-01T22:01:52.872179+00:00,49127031,49,Golang proposal: container/: generic collection types,175,174
 2026-08-01T22:01:52.872179+00:00,49124358,50,Is AI reasoning right for the wrong reasons?,195,227
+2026-08-02T04:29:36.953184+00:00,49140633,1,Plug-in solar is coming. Plug-in batteries should follow,56,33
+2026-08-02T04:29:36.953184+00:00,49140218,2,Go 1.27 Interactive Tour,86,21
+2026-08-02T04:29:36.953184+00:00,49140702,3,MkLinux and the pimped-out Apple Workgroup Server 9150,19,1
+2026-08-02T04:29:36.953184+00:00,49138302,4,Seedance 2.5,225,110
+2026-08-02T04:29:36.953184+00:00,49138188,5,Diátaxis,248,33
+2026-08-02T04:29:36.953184+00:00,49140213,6,ASRock BC-250: Building the Budget Steam Machine,31,7
+2026-08-02T04:29:36.953184+00:00,49140599,7,Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific,14,2
+2026-08-02T04:29:36.953184+00:00,49140396,8,"Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",51,14
+2026-08-02T04:29:36.953184+00:00,49139711,9,RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2,43,5
+2026-08-02T04:29:36.953184+00:00,49139102,10,"AI financial advice is surprisingly good, especially if you ask right questions",221,195
+2026-08-02T04:29:36.953184+00:00,49139383,11,Unraveling the mysteries of habit formation,51,18
+2026-08-02T04:29:36.953184+00:00,49137060,12,Postmortem for Kernel Soundness Bug #14576,128,45
+2026-08-02T04:29:36.953184+00:00,49140405,13,When random.bytes() runs but doesn't work,8,0
+2026-08-02T04:29:36.953184+00:00,49137713,14,But can your calculator run Linux?,76,6
+2026-08-02T04:29:36.953184+00:00,49140340,15,Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators,6,2
+2026-08-02T04:29:36.953184+00:00,49140487,16,Four Time Scales for Technology Development and Deployment,14,1
+2026-08-02T04:29:36.953184+00:00,49110319,18,China begins producing advanced chipmaking deep-ultraviolet lithography machines,54,39
+2026-08-02T04:29:36.953184+00:00,49134599,19,The Art of 64-bit Assembly,210,90
+2026-08-02T04:29:36.953184+00:00,49136821,20,How Google helped destroy adoption of RSS feeds (2023),456,159
+2026-08-02T04:29:36.953184+00:00,49117303,21,We accidentally built an LLVM compiler for Jax,23,8
+2026-08-02T04:29:36.953184+00:00,49081851,22,Nyctography: A substituton cypher by Lewis Carroll,60,9
+2026-08-02T04:29:36.953184+00:00,49140696,23,Linux desktop market share has hit over 10% in North America,11,0
+2026-08-02T04:29:36.953184+00:00,49136736,24,NetBSD 11.0,237,107
+2026-08-02T04:29:36.953184+00:00,49135426,25,Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga,117,66
+2026-08-02T04:29:36.953184+00:00,49135245,26,Explorative modeling: Train on the best of K guesses,88,24
+2026-08-02T04:29:36.953184+00:00,49101817,27,The Theater of Sport: Bill Buford Revisits Among the Thugs,9,1
+2026-08-02T04:29:36.953184+00:00,49138897,28,"Atom is better than RSS, in ways that matter",26,3
+2026-08-02T04:29:36.953184+00:00,49137228,29,CISA Alert: Water Sector PLC Targeting,85,60
+2026-08-02T04:29:36.953184+00:00,49085065,30,Glyphs 4 – the leading Mac font editor,67,10
+2026-08-02T04:29:36.953184+00:00,49087499,31,Linux on ESP32,106,37
+2026-08-02T04:29:36.953184+00:00,49139796,32,"Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering",10,2
+2026-08-02T04:29:36.953184+00:00,49139304,33,Anime User Interfaces,134,42
+2026-08-02T04:29:36.953184+00:00,49140174,34,The Prospects for 128 Bit Processors ( John Mashey SGI 1995),5,0
+2026-08-02T04:29:36.953184+00:00,49139232,35,AI opens new era in cognitive studies of wild primates,10,4
+2026-08-02T04:29:36.953184+00:00,49139826,36,The Greenhouse and the Lens: Two Modes of Agentic AI Work,6,4
+2026-08-02T04:29:36.953184+00:00,49134694,37,A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention,280,156
+2026-08-02T04:29:36.953184+00:00,49105013,38,"Manual: •.,:;…!?·",120,29
+2026-08-02T04:29:36.953184+00:00,49135985,39,Kaisel – Routes as Values. Dart 3 Native Router for Flutter,54,8
+2026-08-02T04:29:36.953184+00:00,49124218,40,Show HN: Elevators,1585,388
+2026-08-02T04:29:36.953184+00:00,49139398,41,Art Invented Humanity,10,1
+2026-08-02T04:29:36.953184+00:00,49077209,42,The Burau representation of the braid group is faithful for n = 4,48,18
+2026-08-02T04:29:36.953184+00:00,49105365,43,Show HN: Legionlinuxtui – Control Lenovo legion laptops in the terminal,9,0
+2026-08-02T04:29:36.953184+00:00,49135257,44,Cursor removed cost information from the usage page and CSV export,317,143
+2026-08-02T04:29:36.953184+00:00,49091614,45,The tiny holdout building in the middle of Macy’s is back in view,206,59
+2026-08-02T04:29:36.953184+00:00,49140382,46,Portal: Current Events,7,0
+2026-08-02T04:29:36.953184+00:00,49139573,47,"Kubeside – a Kubernetes client that shows your app, not your cluster",6,0
+2026-08-02T04:29:36.953184+00:00,49139052,48,Drug reverses autism-like brain changes in adult mice within hours,8,3
+2026-08-02T04:29:36.953184+00:00,49120230,49,Just because a game is on disc doesn't mean it will work in the future,103,105
+2026-08-02T04:29:36.953184+00:00,49139402,50,Things I would have done differently (consulting),6,0
