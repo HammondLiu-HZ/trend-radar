@@ -22601,3 +22601,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-02T10:04:39.437988+00:00,49135257,48,Cursor removed cost information from the usage page and CSV export,325,148
 2026-08-02T10:04:39.437988+00:00,49132083,49,Solid Queue 1.6.0 now supports fiber workers,99,39
 2026-08-02T10:04:39.437988+00:00,49134599,50,The Art of 64-bit Assembly,222,104
+2026-08-02T12:09:28.472927+00:00,49143289,1,Generative AI floods and dilutes the market for books,20,8
+2026-08-02T12:09:28.472927+00:00,49143053,2,Is the Industrial Revolution a good precedent for explosive growth today?,32,39
+2026-08-02T12:09:28.472927+00:00,49142569,3,Show HN: Bor – Open-source policy management for Linux desktops,51,10
+2026-08-02T12:09:28.472927+00:00,49143479,4,"Meshdiff – visually compare two STL versions in the browser, client-side",8,0
+2026-08-02T12:09:28.472927+00:00,49143001,5,Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge,30,3
+2026-08-02T12:09:28.472927+00:00,49142794,7,Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores,24,10
+2026-08-02T12:09:28.472927+00:00,49140218,8,Go 1.27 Interactive Tour,245,100
+2026-08-02T12:09:28.472927+00:00,49143414,9,"Wikimedia Foundation refuses union recognition, hires union-busting law firm",27,1
+2026-08-02T12:09:28.472927+00:00,49124051,10,A big win for Android interoperability,145,78
+2026-08-02T12:09:28.472927+00:00,49140396,11,"Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",188,52
+2026-08-02T12:09:28.472927+00:00,49138302,12,Seedance 2.5,370,194
+2026-08-02T12:09:28.472927+00:00,49142130,13,Cyberscript,16,17
+2026-08-02T12:09:28.472927+00:00,49140702,14,MkLinux and the pimped-out Apple Workgroup Server 9150,66,3
+2026-08-02T12:09:28.472927+00:00,49138188,15,Diátaxis,382,48
+2026-08-02T12:09:28.472927+00:00,49123984,16,Maze Toys,17,4
+2026-08-02T12:09:28.472927+00:00,49141073,17,Running Kimi K3 on MI355X at Better Performance per Dollar Than B300,144,58
+2026-08-02T12:09:28.472927+00:00,49140599,18,Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific,62,30
+2026-08-02T12:09:28.472927+00:00,49116917,19,Holocloth,21,6
+2026-08-02T12:09:28.472927+00:00,49141937,20,IBM i (OS/400) the Database Operating System,16,10
+2026-08-02T12:09:28.472927+00:00,49142083,21,Mathematics Without Mathematicians,22,26
+2026-08-02T12:09:28.472927+00:00,49140213,22,ASRock BC-250: Building the Budget Steam Machine,72,32
+2026-08-02T12:09:28.472927+00:00,49140405,23,When random.bytes() runs but doesn't work,57,26
+2026-08-02T12:09:28.472927+00:00,49138897,24,"Atom is better than RSS, in ways that matter",95,51
+2026-08-02T12:09:28.472927+00:00,49109759,25,"Elena, a library for building Progressive Web Components",38,3
+2026-08-02T12:09:28.472927+00:00,49115423,26,Show HN: Logan Basic v2.1 - An online BASIC interpreter.,13,3
+2026-08-02T12:09:28.472927+00:00,49139383,27,Unraveling the mysteries of habit formation,84,31
+2026-08-02T12:09:28.472927+00:00,49139711,28,RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2,65,16
+2026-08-02T12:09:28.472927+00:00,49137060,29,Postmortem for Kernel Soundness Bug #14576,152,58
+2026-08-02T12:09:28.472927+00:00,49141891,30,I don't recommend Tailwind CSS,112,114
+2026-08-02T12:09:28.472927+00:00,49137713,31,But can your calculator run Linux?,99,9
+2026-08-02T12:09:28.472927+00:00,49140174,32,The Prospects for 128 Bit Processors ( John Mashey SGI 1995),26,14
+2026-08-02T12:09:28.472927+00:00,49143188,33,US Treasury undertakes historic intervention in yen market,14,6
+2026-08-02T12:09:28.472927+00:00,49142458,34,The time filter in Google Search broke a few days ago,34,19
+2026-08-02T12:09:28.472927+00:00,49136821,35,How Google helped destroy adoption of RSS feeds (2023),547,191
+2026-08-02T12:09:28.472927+00:00,49139052,36,Drug reverses autism-like brain changes in adult mice within hours,34,29
+2026-08-02T12:09:28.472927+00:00,49107216,37,Instrumenting my espresso machine with OpenTelemetry,20,7
+2026-08-02T12:09:28.472927+00:00,49141828,38,ESP32-C3 SuperMini antenna modification,8,0
+2026-08-02T12:09:28.472927+00:00,49136736,39,NetBSD 11.0,288,132
+2026-08-02T12:09:28.472927+00:00,49085065,40,Glyphs 4 – the leading Mac font editor,85,13
+2026-08-02T12:09:28.472927+00:00,49135426,41,Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga,149,86
+2026-08-02T12:09:28.472927+00:00,49139102,42,"AI financial advice is surprisingly good, especially if you ask right questions",310,309
+2026-08-02T12:09:28.472927+00:00,49143330,43,Impro is a handbook for running a cult,3,0
+2026-08-02T12:09:28.472927+00:00,49117303,44,We accidentally built an LLVM compiler for Jax,48,14
+2026-08-02T12:09:28.472927+00:00,49087499,45,Linux on ESP32,119,44
+2026-08-02T12:09:28.472927+00:00,49124218,46,Show HN: Elevators,1601,395
+2026-08-02T12:09:28.472927+00:00,49081851,47,Nyctography: A substituton cypher by Lewis Carroll,75,13
+2026-08-02T12:09:28.472927+00:00,49141562,48,Sizeof is surprisingly difficult to parse in C,5,0
+2026-08-02T12:09:28.472927+00:00,49142768,49,US bank places trust in ransomware crew that promised to delete its data,7,0
+2026-08-02T12:09:28.472927+00:00,49141849,50,Agent4Lease,3,0
