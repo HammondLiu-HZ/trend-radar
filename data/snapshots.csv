@@ -22699,3 +22699,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-02T14:41:10.237191+00:00,49081851,48,Nyctography: A substituton cypher by Lewis Carroll,78,15
 2026-08-02T14:41:10.237191+00:00,49141521,49,Why are all the amounts values negative?,9,0
 2026-08-02T14:41:10.237191+00:00,49143330,50,Impro is a handbook for running a cult,17,3
+2026-08-02T16:07:48.037875+00:00,49143967,1,Twenty Years of RISC OS Open,82,13
+2026-08-02T16:07:48.037875+00:00,49143925,2,F*: A general-purpose proof-oriented programming language,61,21
+2026-08-02T16:07:48.037875+00:00,49143479,3,"Meshdiff – visually compare two STL versions in the browser, client-side",115,13
+2026-08-02T16:07:48.037875+00:00,49094151,4,Fasttracker II clone in C using SDL 2,40,8
+2026-08-02T16:07:48.037875+00:00,49142569,5,Show HN: Bor – Open-source policy management for Linux desktops,121,17
+2026-08-02T16:07:48.037875+00:00,49093845,6,Folding Paper Globes,61,7
+2026-08-02T16:07:48.037875+00:00,49143001,7,Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge,82,22
+2026-08-02T16:07:48.037875+00:00,49145590,8,How the words we teach English language learners changed,3,0
+2026-08-02T16:07:48.037875+00:00,49145201,9,A Rant About “Technology” (2005),78,29
+2026-08-02T16:07:48.037875+00:00,49143412,10,Show HN: Fuse – statically typed functional programming language,54,9
+2026-08-02T16:07:48.037875+00:00,49140218,11,Go 1.27 Interactive Tour,297,146
+2026-08-02T16:07:48.037875+00:00,49140396,12,"Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",247,79
+2026-08-02T16:07:48.037875+00:00,49078283,13,Norway Salmon,38,4
+2026-08-02T16:07:48.037875+00:00,49116917,15,Holocloth,85,17
+2026-08-02T16:07:48.037875+00:00,49143096,16,Rust All Hands 2026 Retrospective,34,11
+2026-08-02T16:07:48.037875+00:00,49138188,17,Diátaxis,439,50
+2026-08-02T16:07:48.037875+00:00,49142794,18,Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores,57,21
+2026-08-02T16:07:48.037875+00:00,49140702,19,MkLinux and the pimped-out Apple Workgroup Server 9150,84,8
+2026-08-02T16:07:48.037875+00:00,49143188,20,US Treasury undertakes historic intervention in yen market,135,84
+2026-08-02T16:07:48.037875+00:00,49138302,21,Seedance 2.5,403,223
+2026-08-02T16:07:48.037875+00:00,49143179,22,Show HN: Katharos Functional programming and CSP-style concurrency for Python,22,3
+2026-08-02T16:07:48.037875+00:00,49141828,23,ESP32-C3 SuperMini antenna modification,36,6
+2026-08-02T16:07:48.037875+00:00,49143414,24,"Wikimedia Foundation refuses union recognition, hires union-busting law firm",248,214
+2026-08-02T16:07:48.037875+00:00,49141073,25,Running Kimi K3 on MI355X at Better Performance per Dollar Than B300,175,90
+2026-08-02T16:07:48.037875+00:00,49140213,26,ASRock BC-250: Building the Budget Steam Machine,95,39
+2026-08-02T16:07:48.037875+00:00,49109759,27,"Elena, a library for building Progressive Web Components",62,7
+2026-08-02T16:07:48.037875+00:00,49140599,28,Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific,88,43
+2026-08-02T16:07:48.037875+00:00,49139383,29,Unraveling the mysteries of habit formation,101,43
+2026-08-02T16:07:48.037875+00:00,49140405,30,When random.bytes() runs but doesn't work,83,41
+2026-08-02T16:07:48.037875+00:00,49142130,31,Cyberscript,41,42
+2026-08-02T16:07:48.037875+00:00,49137060,32,Postmortem for Kernel Soundness Bug #14576,160,59
+2026-08-02T16:07:48.037875+00:00,49139711,33,RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2,72,17
+2026-08-02T16:07:48.037875+00:00,49137713,34,But can your calculator run Linux?,105,9
+2026-08-02T16:07:48.037875+00:00,49124051,35,A big win for Android interoperability,195,159
+2026-08-02T16:07:48.037875+00:00,49145395,36,Mozilla's Inaugural 'State of Open Source AI' Report Is Here,5,0
+2026-08-02T16:07:48.037875+00:00,49141562,37,Sizeof is surprisingly difficult to parse in C,17,4
+2026-08-02T16:07:48.037875+00:00,49136821,38,How Google helped destroy adoption of RSS feeds (2023),569,203
+2026-08-02T16:07:48.037875+00:00,49140174,39,The Prospects for 128 Bit Processors ( John Mashey SGI 1995),31,19
+2026-08-02T16:07:48.037875+00:00,49085065,40,Glyphs 4 – the leading Mac font editor,91,13
+2026-08-02T16:07:48.037875+00:00,49124218,41,Show HN: Elevators,1612,397
+2026-08-02T16:07:48.037875+00:00,49135426,42,Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga,154,92
+2026-08-02T16:07:48.037875+00:00,49087499,43,Linux on ESP32,123,45
+2026-08-02T16:07:48.037875+00:00,49138897,44,"Atom is better than RSS, in ways that matter",115,81
+2026-08-02T16:07:48.037875+00:00,49136736,45,NetBSD 11.0,298,143
+2026-08-02T16:07:48.037875+00:00,49081851,46,Nyctography: A substituton cypher by Lewis Carroll,78,15
+2026-08-02T16:07:48.037875+00:00,49117303,47,We accidentally built an LLVM compiler for Jax,53,18
+2026-08-02T16:07:48.037875+00:00,49115423,48,Show HN: Logan Basic v2.1 - An online BASIC interpreter.,21,3
+2026-08-02T16:07:48.037875+00:00,49143719,49,GPUs could explode to multiple TB with new storage-inspired memory tech,20,4
+2026-08-02T16:07:48.037875+00:00,49141891,50,I don't recommend Tailwind CSS,137,142
