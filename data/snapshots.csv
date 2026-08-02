@@ -22846,3 +22846,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-02T20:14:28.457114+00:00,49145463,48,"Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",5,1
 2026-08-02T20:14:28.457114+00:00,49137713,49,But can your calculator run Linux?,109,11
 2026-08-02T20:14:28.457114+00:00,49139711,50,RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2,76,18
+2026-08-02T22:01:42.971695+00:00,49140998,1,Karpathy’s Pelican,315,255
+2026-08-02T22:01:42.971695+00:00,49145937,2,Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM,131,33
+2026-08-02T22:01:42.971695+00:00,49084324,3,Note-Taking and Personal Knowledge Management,63,17
+2026-08-02T22:01:42.971695+00:00,49147622,4,"My personal AI benchmark: ""Generate an SVG of a frog with a Habsburg jaw.""",55,28
+2026-08-02T22:01:42.971695+00:00,49097961,5,Developers are attached to tools because tools encode trust,95,43
+2026-08-02T22:01:42.971695+00:00,49147978,6,Sharing an X11 Server Across Hosts with FamilyWild,13,3
+2026-08-02T22:01:42.971695+00:00,49146267,7,Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark,72,17
+2026-08-02T22:01:42.971695+00:00,49148159,8,AI Mania: From Tulips to Tokens,35,28
+2026-08-02T22:01:42.971695+00:00,49143925,9,F*: A general-purpose proof-oriented programming language,133,58
+2026-08-02T22:01:42.971695+00:00,49143967,10,Twenty Years of RISC OS Open,139,24
+2026-08-02T22:01:42.971695+00:00,49148048,11,Show HN: Make your Framework 12 sound like a creaky door,14,2
+2026-08-02T22:01:42.971695+00:00,49147450,12,Europe EV Sales BEVs Jump 50% & Reach 26% Market Share,74,55
+2026-08-02T22:01:42.971695+00:00,49146605,13,Harvesting SSH Credentials: Insights from My Honeypot Network,28,22
+2026-08-02T22:01:42.971695+00:00,49111194,14,Schmitt Trigger: Robust Comparator Design with Hysteresis,9,3
+2026-08-02T22:01:42.971695+00:00,49123003,15,When transit passes were designed by hand (2022),80,21
+2026-08-02T22:01:42.971695+00:00,49145883,16,"Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",67,12
+2026-08-02T22:01:42.971695+00:00,49147435,17,'Crush this lady': how eBay harassment campaign led to $56M payout,90,34
+2026-08-02T22:01:42.971695+00:00,49147853,18,Adding Go's Defer to the TypeScript Compiler,9,1
+2026-08-02T22:01:42.971695+00:00,49147890,19,Let the machines in,17,4
+2026-08-02T22:01:42.971695+00:00,49094151,20,Fasttracker II clone in C using SDL 2,107,35
+2026-08-02T22:01:42.971695+00:00,49143479,21,"Meshdiff – visually compare two STL versions in the browser, client-side",162,17
+2026-08-02T22:01:42.971695+00:00,49146960,22,The Myth of Snow Leopard,16,7
+2026-08-02T22:01:42.971695+00:00,49093845,23,Folding Paper Globes,130,28
+2026-08-02T22:01:42.971695+00:00,49145590,24,How the words we teach English language learners changed,177,106
+2026-08-02T22:01:42.971695+00:00,49148128,25,EU Age Verification Project Mandates Hardware-Bound Attestation,33,14
+2026-08-02T22:01:42.971695+00:00,49129676,27,Read the Novels and Forget Everything Else,5,0
+2026-08-02T22:01:42.971695+00:00,49147842,28,Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary,7,2
+2026-08-02T22:01:42.971695+00:00,49147760,29,TinyNES Review – A Super Niche NES Console,4,0
+2026-08-02T22:01:42.971695+00:00,49142569,30,Show HN: Bor – Open-source policy management for Linux desktops,160,19
+2026-08-02T22:01:42.971695+00:00,49143412,31,Show HN: Fuse – statically typed functional programming language,98,27
+2026-08-02T22:01:42.971695+00:00,49143001,32,Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge,117,28
+2026-08-02T22:01:42.971695+00:00,49147359,33,The End of Everything by M. John Harrison,4,1
+2026-08-02T22:01:42.971695+00:00,49146991,34,Nanocodex: Building blocks for frontier OpenAI agents in Rust,5,0
+2026-08-02T22:01:42.971695+00:00,49116917,35,Holocloth,158,30
+2026-08-02T22:01:42.971695+00:00,49148176,36,Bubble Memory,8,0
+2026-08-02T22:01:42.971695+00:00,49078283,37,Norway Salmon,123,79
+2026-08-02T22:01:42.971695+00:00,49143096,38,Rust All Hands 2026 Retrospective,88,41
+2026-08-02T22:01:42.971695+00:00,49142130,39,Cyberscript,57,48
+2026-08-02T22:01:42.971695+00:00,49083146,40,Turtle-inspired interactive Python project,13,3
+2026-08-02T22:01:42.971695+00:00,49141828,41,ESP32-C3 SuperMini antenna modification,74,12
+2026-08-02T22:01:42.971695+00:00,49147219,42,"RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",3,0
+2026-08-02T22:01:42.971695+00:00,49147170,43,KotlinLLM,5,0
+2026-08-02T22:01:42.971695+00:00,49147374,44,Coursera Bets $100M That Andrew Ng Can Do What Coursera Can't,9,0
+2026-08-02T22:01:42.971695+00:00,49142794,45,Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores,72,26
+2026-08-02T22:01:42.971695+00:00,49141073,46,Running Kimi K3 on MI355X at Better Performance per Dollar Than B300,201,96
+2026-08-02T22:01:42.971695+00:00,49145463,47,"Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",10,3
+2026-08-02T22:01:42.971695+00:00,49147541,48,Saying 'Google It' Makes You Sound Old,11,21
+2026-08-02T22:01:42.971695+00:00,49143179,49,Show HN: Katharos Functional programming and CSP-style concurrency for Python,33,8
+2026-08-02T22:01:42.971695+00:00,49148108,50,Special Relativity Boot Camp: A Geometry-First Introduction to Special Relativit,5,0
