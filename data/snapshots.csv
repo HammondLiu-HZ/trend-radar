@@ -22650,3 +22650,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-02T12:09:28.472927+00:00,49141562,48,Sizeof is surprisingly difficult to parse in C,5,0
 2026-08-02T12:09:28.472927+00:00,49142768,49,US bank places trust in ransomware crew that promised to delete its data,7,0
 2026-08-02T12:09:28.472927+00:00,49141849,50,Agent4Lease,3,0
+2026-08-02T14:41:10.237191+00:00,49143967,1,Twenty Years of RISC OS Open,50,7
+2026-08-02T14:41:10.237191+00:00,49143479,2,"Meshdiff – visually compare two STL versions in the browser, client-side",88,11
+2026-08-02T14:41:10.237191+00:00,49142569,3,Show HN: Bor – Open-source policy management for Linux desktops,99,17
+2026-08-02T14:41:10.237191+00:00,49143925,4,F*: A general-purpose proof-oriented programming language,18,3
+2026-08-02T14:41:10.237191+00:00,49143001,5,Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge,63,8
+2026-08-02T14:41:10.237191+00:00,49093845,6,Folding Paper Globes,26,1
+2026-08-02T14:41:10.237191+00:00,49143412,7,Show HN: Fuse – statically typed functional programming language,38,4
+2026-08-02T14:41:10.237191+00:00,49140218,8,Go 1.27 Interactive Tour,280,122
+2026-08-02T14:41:10.237191+00:00,49142794,9,Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores,49,19
+2026-08-02T14:41:10.237191+00:00,49140396,10,"Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",223,73
+2026-08-02T14:41:10.237191+00:00,49142130,12,Cyberscript,37,39
+2026-08-02T14:41:10.237191+00:00,49138302,13,Seedance 2.5,393,207
+2026-08-02T14:41:10.237191+00:00,49116917,14,Holocloth,61,12
+2026-08-02T14:41:10.237191+00:00,49138188,15,Diátaxis,416,50
+2026-08-02T14:41:10.237191+00:00,49140702,16,MkLinux and the pimped-out Apple Workgroup Server 9150,75,5
+2026-08-02T14:41:10.237191+00:00,49143179,17,Show HN: Katharos Functional programming and CSP-style concurrency for Python,14,1
+2026-08-02T14:41:10.237191+00:00,49143304,18,I made a Promise-aware debounce and throttle library for TypeScript,8,4
+2026-08-02T14:41:10.237191+00:00,49094151,19,Fasttracker II clone in C using SDL 2,3,0
+2026-08-02T14:41:10.237191+00:00,49143188,20,US Treasury undertakes historic intervention in yen market,84,50
+2026-08-02T14:41:10.237191+00:00,49141073,21,Running Kimi K3 on MI355X at Better Performance per Dollar Than B300,168,81
+2026-08-02T14:41:10.237191+00:00,49141828,22,ESP32-C3 SuperMini antenna modification,23,2
+2026-08-02T14:41:10.237191+00:00,49141937,23,IBM i (OS/400) the Database Operating System,39,22
+2026-08-02T14:41:10.237191+00:00,49140599,24,Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific,81,37
+2026-08-02T14:41:10.237191+00:00,49140213,25,ASRock BC-250: Building the Budget Steam Machine,93,36
+2026-08-02T14:41:10.237191+00:00,49143096,26,(Rust) All-Hands 2026 Retrospective,9,1
+2026-08-02T14:41:10.237191+00:00,49124051,27,A big win for Android interoperability,176,133
+2026-08-02T14:41:10.237191+00:00,49140405,28,When random.bytes() runs but doesn't work,72,36
+2026-08-02T14:41:10.237191+00:00,49109759,29,"Elena, a library for building Progressive Web Components",51,4
+2026-08-02T14:41:10.237191+00:00,49143414,30,"Wikimedia Foundation refuses union recognition, hires union-busting law firm",189,167
+2026-08-02T14:41:10.237191+00:00,49139383,31,Unraveling the mysteries of habit formation,94,36
+2026-08-02T14:41:10.237191+00:00,49137060,32,Postmortem for Kernel Soundness Bug #14576,158,59
+2026-08-02T14:41:10.237191+00:00,49139711,33,RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2,69,17
+2026-08-02T14:41:10.237191+00:00,49137713,34,But can your calculator run Linux?,104,9
+2026-08-02T14:41:10.237191+00:00,49138897,35,"Atom is better than RSS, in ways that matter",111,70
+2026-08-02T14:41:10.237191+00:00,49141562,36,Sizeof is surprisingly difficult to parse in C,16,0
+2026-08-02T14:41:10.237191+00:00,49140174,37,The Prospects for 128 Bit Processors ( John Mashey SGI 1995),31,18
+2026-08-02T14:41:10.237191+00:00,49136821,38,How Google helped destroy adoption of RSS feeds (2023),564,196
+2026-08-02T14:41:10.237191+00:00,49143719,39,GPUs could explode to multiple TB with new storage-inspired memory tech,11,3
+2026-08-02T14:41:10.237191+00:00,49085065,40,Glyphs 4 – the leading Mac font editor,90,13
+2026-08-02T14:41:10.237191+00:00,49115423,41,Show HN: Logan Basic v2.1 - An online BASIC interpreter.,20,3
+2026-08-02T14:41:10.237191+00:00,49124218,42,Show HN: Elevators,1609,396
+2026-08-02T14:41:10.237191+00:00,49136736,43,NetBSD 11.0,296,139
+2026-08-02T14:41:10.237191+00:00,49117303,44,We accidentally built an LLVM compiler for Jax,52,16
+2026-08-02T14:41:10.237191+00:00,49135426,45,Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga,150,87
+2026-08-02T14:41:10.237191+00:00,49087499,46,Linux on ESP32,121,44
+2026-08-02T14:41:10.237191+00:00,49141891,47,I don't recommend Tailwind CSS,133,137
+2026-08-02T14:41:10.237191+00:00,49081851,48,Nyctography: A substituton cypher by Lewis Carroll,78,15
+2026-08-02T14:41:10.237191+00:00,49141521,49,Why are all the amounts values negative?,9,0
+2026-08-02T14:41:10.237191+00:00,49143330,50,Impro is a handbook for running a cult,17,3
