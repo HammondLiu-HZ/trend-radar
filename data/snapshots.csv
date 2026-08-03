@@ -23091,3 +23091,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-03T12:33:00.111152+00:00,49152881,48,Weighing the Business Case for Quality,3,0
 2026-08-03T12:33:00.111152+00:00,49154304,49,Xkcd: Earth Temperature Timeline,16,1
 2026-08-03T12:33:00.111152+00:00,49150773,50,"AI migrated legacy COBOL programs to Java, bugs included",73,64
+2026-08-03T15:48:48.051535+00:00,49154332,1,Critical CVE issued for hallucinated SQLite vulnerability,488,159
+2026-08-03T15:48:48.051535+00:00,49156111,2,Devtools must be open source,91,27
+2026-08-03T15:48:48.051535+00:00,49155629,3,"MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",109,38
+2026-08-03T15:48:48.051535+00:00,49157128,4,Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days,30,0
+2026-08-03T15:48:48.051535+00:00,49151933,5,Don't be a meat proxy,1298,536
+2026-08-03T15:48:48.051535+00:00,49156011,6,Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs,53,7
+2026-08-03T15:48:48.051535+00:00,49082937,7,Hollywood Stopped Making Movies in Hollywood,35,19
+2026-08-03T15:48:48.051535+00:00,49150470,8,Qwen3.8-Max: A New Bar for Coding and Cowork,876,450
+2026-08-03T15:48:48.051535+00:00,49154228,9,AirLLM 70B inference with single 4GB GPU,91,35
+2026-08-03T15:48:48.051535+00:00,49152842,10,Bonsai: Janestreet's UI Library,186,68
+2026-08-03T15:48:48.051535+00:00,49155626,11,"SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",22,5
+2026-08-03T15:48:48.051535+00:00,49156650,12,Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop,53,33
+2026-08-03T15:48:48.051535+00:00,49125168,13,The Abandoned Fish Sauce Terrorizing a Small Canadian Town,117,86
+2026-08-03T15:48:48.051535+00:00,49153374,14,Prevent cognitive debt by manually retyping LLM-generated code,251,205
+2026-08-03T15:48:48.051535+00:00,49147907,15,Games at the press of a button: The Rip-O-Bot (1989),18,2
+2026-08-03T15:48:48.051535+00:00,49152023,16,Rust project goals: Immobile types and guaranteed destructors,167,61
+2026-08-03T15:48:48.051535+00:00,49145193,17,Finding zombies in our systems: A real-world story of CPU bottlenecks,11,2
+2026-08-03T15:48:48.051535+00:00,49154127,18,Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone,62,22
+2026-08-03T15:48:48.051535+00:00,49153361,19,"What DMARC Protects You From, and What It Does Not",78,20
+2026-08-03T15:48:48.051535+00:00,49115935,20,Train Simulator Controller,65,4
+2026-08-03T15:48:48.051535+00:00,49078856,21,Walk on Decomposed Subdomains,20,2
+2026-08-03T15:48:48.051535+00:00,49155940,22,"The Future, Made in China",39,39
+2026-08-03T15:48:48.051535+00:00,49156071,23,"Utah produced more power from solar than any other source in May, a new first",26,4
+2026-08-03T15:48:48.051535+00:00,49152640,24,"Octane – React's programming model, compiled",91,32
+2026-08-03T15:48:48.051535+00:00,49149966,25,Show HN: Isopolis – Isometric pixel map of SF,298,65
+2026-08-03T15:48:48.051535+00:00,49156299,26,Why does Mail app contact iCloud when sending a non-iCloud email?,30,3
+2026-08-03T15:48:48.051535+00:00,49152871,27,Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge,55,24
+2026-08-03T15:48:48.051535+00:00,49114146,28,Characterizing Warp Divergence from Pascal to Blackwell,19,1
+2026-08-03T15:48:48.051535+00:00,49152973,29,The true power of regular expressions (2012),58,46
+2026-08-03T15:48:48.051535+00:00,49125065,30,Why we write our own C and C++ inference engines,103,41
+2026-08-03T15:48:48.051535+00:00,49149805,31,Show HN: ssh ssh.place,163,88
+2026-08-03T15:48:48.051535+00:00,49147263,32,SwiftUI After 7 Years,240,245
+2026-08-03T15:48:48.051535+00:00,49149898,33,"CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",90,46
+2026-08-03T15:48:48.051535+00:00,49145937,34,Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM,240,61
+2026-08-03T15:48:48.051535+00:00,49154249,35,"9front ""This Was Supposed to Be Fun"" Released",75,25
+2026-08-03T15:48:48.051535+00:00,49084324,36,Note-Taking and Personal Knowledge Management,233,87
+2026-08-03T15:48:48.051535+00:00,49149746,37,Why Book Corners won't sync contributions back to OpenStreetMap,134,88
+2026-08-03T15:48:48.051535+00:00,49119751,38,Show HN: A Handwritten Blogging Platform,160,78
+2026-08-03T15:48:48.051535+00:00,49097961,39,Developers are attached to tools because tools encode trust,238,129
+2026-08-03T15:48:48.051535+00:00,49122655,40,Autoregressive Language Model on the 6502 Processor,126,12
+2026-08-03T15:48:48.051535+00:00,49078283,41,Norway became a global salmon behemoth. Now it's facing the consequences,189,137
+2026-08-03T15:48:48.051535+00:00,49155606,42,SpaceX wins $1.6B Space Force contract for 18 Falcon 9 launches,14,14
+2026-08-03T15:48:48.051535+00:00,49155534,43,30 years of CPUs at Tom's Hardware – looking back on three decades of processors,14,4
+2026-08-03T15:48:48.051535+00:00,49151871,44,Situational Awareness and the Impending Stock Market Volatility,56,44
+2026-08-03T15:48:48.051535+00:00,49146960,45,The myth of Snow Leopard,116,92
+2026-08-03T15:48:48.051535+00:00,49129676,46,Read the novels and forget everything else,118,102
+2026-08-03T15:48:48.051535+00:00,49076945,47,Convergence is not enough,53,11
+2026-08-03T15:48:48.051535+00:00,49153029,48,PISIGuard: Protect your personal and sensitive info when you chat with AI,20,13
+2026-08-03T15:48:48.051535+00:00,49145590,49,How the words we teach English language learners changed,235,178
+2026-08-03T15:48:48.051535+00:00,49152222,50,The AI Productivity Gap,84,78
