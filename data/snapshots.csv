@@ -23141,3 +23141,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-03T15:48:48.051535+00:00,49153029,48,PISIGuard: Protect your personal and sensitive info when you chat with AI,20,13
 2026-08-03T15:48:48.051535+00:00,49145590,49,How the words we teach English language learners changed,235,178
 2026-08-03T15:48:48.051535+00:00,49152222,50,The AI Productivity Gap,84,78
+2026-08-03T17:59:03.539690+00:00,49156111,1,Devtools must be open source,239,77
+2026-08-03T17:59:03.539690+00:00,49157930,2,Ten advances in mathematics and theoretical computer science,53,368
+2026-08-03T17:59:03.539690+00:00,49155629,3,"MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",166,49
+2026-08-03T17:59:03.539690+00:00,49155359,4,Wind and solar overtake fossil fuels in Germany for the first time,136,54
+2026-08-03T17:59:03.539690+00:00,49156011,5,Andy Pavlo joins ClickHouse to establish ClickHouse Labs,139,27
+2026-08-03T17:59:03.539690+00:00,49157997,6,Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents,18,16
+2026-08-03T17:59:03.539690+00:00,49158474,7,Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years,18,4
+2026-08-03T17:59:03.539690+00:00,49082937,8,How Hollywood stopped making movies in Hollywood,91,83
+2026-08-03T17:59:03.539690+00:00,49150470,9,Qwen3.8-Max: A New Bar for Coding and Cowork,957,492
+2026-08-03T17:59:03.539690+00:00,49157807,10,Show HN: Product analytics (and evals) for agent sessions on your MCP,15,0
+2026-08-03T17:59:03.539690+00:00,49154228,11,AirLLM 70B inference with single 4GB GPU,134,46
+2026-08-03T17:59:03.539690+00:00,49152842,12,Bonsai: Janestreet's UI Library,229,84
+2026-08-03T17:59:03.539690+00:00,49107888,13,C++ float-to-int conversion can be undefined behavior,19,17
+2026-08-03T17:59:03.539690+00:00,49154332,14,SQLite Critical CVEs or LLM Slop?,639,266
+2026-08-03T17:59:03.539690+00:00,49155626,15,"SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",30,7
+2026-08-03T17:59:03.539690+00:00,49151933,16,Don't be a meat proxy,1463,622
+2026-08-03T17:59:03.539690+00:00,49157645,17,Explanation of INT8 ConvRot (FP8 is no longer needed),10,4
+2026-08-03T17:59:03.539690+00:00,49157128,18,Taylor Farms has rewritten its cyclospora statement four times in sixteen days,210,121
+2026-08-03T17:59:03.539690+00:00,49124213,19,Massively Parallel Postgres Backups,4,0
+2026-08-03T17:59:03.539690+00:00,49158141,20,SearXNG in Rust,8,2
+2026-08-03T17:59:03.539690+00:00,49154127,21,Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone,85,23
+2026-08-03T17:59:03.539690+00:00,49153361,22,"What DMARC Protects You From, and What It Does Not",97,25
+2026-08-03T17:59:03.539690+00:00,49152023,23,Rust project goals: Immobile types and guaranteed destructors,191,72
+2026-08-03T17:59:03.539690+00:00,49110912,24,Kraid is a now a real compiler,15,4
+2026-08-03T17:59:03.539690+00:00,49153374,25,Prevent cognitive debt by manually retyping LLM-generated code,290,258
+2026-08-03T17:59:03.539690+00:00,49147907,26,Games at the press of a button: The Rip-O-Bot (1989),25,5
+2026-08-03T17:59:03.539690+00:00,49158214,27,Help Wanted,5,0
+2026-08-03T17:59:03.539690+00:00,49078856,28,Walk on Decomposed Subdomains,33,2
+2026-08-03T17:59:03.539690+00:00,49125168,29,The Abandoned Fish Sauce Terrorizing a Small Canadian Town,161,134
+2026-08-03T17:59:03.539690+00:00,49115935,30,Train Simulator Controller,83,5
+2026-08-03T17:59:03.539690+00:00,49149966,31,Show HN: Isopolis – Isometric pixel map of SF,317,71
+2026-08-03T17:59:03.539690+00:00,49152640,32,"Octane – React’s programming model, compiled",112,37
+2026-08-03T17:59:03.539690+00:00,49158479,33,"A Chinese LLM attacked our lab, so we made it work for us",11,4
+2026-08-03T17:59:03.539690+00:00,49145193,34,Finding zombies in our systems: A real-world story of CPU bottlenecks,19,5
+2026-08-03T17:59:03.539690+00:00,49157786,35,What's the largest software project AI can complete on its own?,47,45
+2026-08-03T17:59:03.539690+00:00,49156299,36,Why does Mail app contact iCloud when sending a non-iCloud email?,66,32
+2026-08-03T17:59:03.539690+00:00,49156071,37,"Utah produced more power from solar than any other source in May, a new first",87,57
+2026-08-03T17:59:03.539690+00:00,49155579,39,Cloudflare Workers and Containers now support inbound TCP connections and gRPC,10,0
+2026-08-03T17:59:03.539690+00:00,49125065,40,Why we write our own C and C++ inference engines,110,44
+2026-08-03T17:59:03.539690+00:00,49152871,41,Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge,59,34
+2026-08-03T17:59:03.539690+00:00,49158839,42,Shell sells Dutch solar farms in retreat from renewables,6,0
+2026-08-03T17:59:03.539690+00:00,49114146,43,Characterizing Warp Divergence from Pascal to Blackwell,22,1
+2026-08-03T17:59:03.539690+00:00,49149805,44,Show HN: ssh ssh.place,164,96
+2026-08-03T17:59:03.539690+00:00,49147263,45,SwiftUI After 7 Years,252,254
+2026-08-03T17:59:03.539690+00:00,49149898,46,"CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",91,46
+2026-08-03T17:59:03.539690+00:00,49152973,47,The true power of regular expressions (2012),69,52
+2026-08-03T17:59:03.539690+00:00,49158646,48,White House's new upcoming model-testing framework,5,0
+2026-08-03T17:59:03.539690+00:00,49149746,49,Why Book Corners won't sync contributions back to OpenStreetMap,134,89
+2026-08-03T17:59:03.539690+00:00,49119751,50,Show HN: A Handwritten Blogging Platform,164,80
