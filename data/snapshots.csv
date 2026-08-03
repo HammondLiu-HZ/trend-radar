@@ -23190,3 +23190,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-03T17:59:03.539690+00:00,49158646,48,White House's new upcoming model-testing framework,5,0
 2026-08-03T17:59:03.539690+00:00,49149746,49,Why Book Corners won't sync contributions back to OpenStreetMap,134,89
 2026-08-03T17:59:03.539690+00:00,49119751,50,Show HN: A Handwritten Blogging Platform,164,80
+2026-08-03T19:51:12.520503+00:00,49157930,1,Ten advances in mathematics and theoretical computer science,213,481
+2026-08-03T19:51:12.520503+00:00,49156111,2,Devtools must be open source,362,131
+2026-08-03T19:51:12.520503+00:00,49155359,3,Wind and solar overtake fossil fuels in Germany for the first time,254,151
+2026-08-03T19:51:12.520503+00:00,49158474,4,Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years,73,24
+2026-08-03T19:51:12.520503+00:00,49155629,5,"MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",200,58
+2026-08-03T19:51:12.520503+00:00,49158581,6,"Smaller, faster, safer: running Kimi and GLM at scale",41,8
+2026-08-03T19:51:12.520503+00:00,49156011,7,Andy Pavlo joins ClickHouse to establish ClickHouse Labs,194,44
+2026-08-03T19:51:12.520503+00:00,49124213,8,Massively Parallel Postgres Backups,49,1
+2026-08-03T19:51:12.520503+00:00,49082937,9,How Hollywood stopped making movies in Hollywood,125,119
+2026-08-03T19:51:12.520503+00:00,49157997,10,Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents,28,32
+2026-08-03T19:51:12.520503+00:00,49154441,11,The Potomac River Midair Collision,20,2
+2026-08-03T19:51:12.520503+00:00,49158714,12,The Billable Usage API: programmatic cost visibility for Cloudflare,21,4
+2026-08-03T19:51:12.520503+00:00,49123105,13,Kelly Criterion Simulator,13,1
+2026-08-03T19:51:12.520503+00:00,49154228,14,AirLLM 70B inference with single 4GB GPU,153,56
+2026-08-03T19:51:12.520503+00:00,49152842,15,Bonsai: Janestreet's UI Library,253,95
+2026-08-03T19:51:12.520503+00:00,49158287,16,Use Task Runners for Common Coding Tasks,28,6
+2026-08-03T19:51:12.520503+00:00,49157807,17,Show HN: Product analytics (and evals) for agent sessions on your MCP,25,1
+2026-08-03T19:51:12.520503+00:00,49158141,18,SearXNG in Rust,32,11
+2026-08-03T19:51:12.520503+00:00,49151933,19,Don't be a meat proxy,1558,646
+2026-08-03T19:51:12.520503+00:00,49154332,20,SQLite Critical CVEs or LLM Slop?,670,312
+2026-08-03T19:51:12.520503+00:00,49155626,21,"SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",36,8
+2026-08-03T19:51:12.520503+00:00,49153374,22,Prevent cognitive debt by manually retyping LLM-generated code,316,267
+2026-08-03T19:51:12.520503+00:00,49107888,23,C++ float-to-int conversion can be undefined behavior,33,33
+2026-08-03T19:51:12.520503+00:00,49152023,24,Rust project goals: Immobile types and guaranteed destructors,208,83
+2026-08-03T19:51:12.520503+00:00,49110912,25,Kraid is a now a real compiler,24,7
+2026-08-03T19:51:12.520503+00:00,49150470,26,Qwen3.8-Max: A New Bar for Coding and Cowork,997,534
+2026-08-03T19:51:12.520503+00:00,49153361,27,"What DMARC Protects You From, and What It Does Not",112,29
+2026-08-03T19:51:12.520503+00:00,49157645,28,Explanation of INT8 ConvRot (FP8 is no longer needed),15,5
+2026-08-03T19:51:12.520503+00:00,49159676,29,ZX Spectrum System Tour: Sound,4,0
+2026-08-03T19:51:12.520503+00:00,49154127,30,Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone,90,29
+2026-08-03T19:51:12.520503+00:00,49115935,31,Train Simulator Controller,90,6
+2026-08-03T19:51:12.520503+00:00,49147907,32,Games at the press of a button: The Rip-O-Bot (1989),26,6
+2026-08-03T19:51:12.520503+00:00,49155579,33,Cloudflare Workers and Containers now support inbound TCP connections and gRPC,20,0
+2026-08-03T19:51:12.520503+00:00,49157128,34,Taylor Farms has rewritten its cyclospora statement four times in sixteen days,262,190
+2026-08-03T19:51:12.520503+00:00,49152640,35,"Octane – React’s programming model, compiled",114,40
+2026-08-03T19:51:12.520503+00:00,49158372,36,ASCII Today,12,2
+2026-08-03T19:51:12.520503+00:00,49160354,37,16 Year old used AI to disprove professor,4,2
+2026-08-03T19:51:12.520503+00:00,49145193,38,Finding zombies in our systems: A real-world story of CPU bottlenecks,22,5
+2026-08-03T19:51:12.520503+00:00,49125168,39,The Abandoned Fish Sauce Terrorizing a Small Canadian Town,178,160
+2026-08-03T19:51:12.520503+00:00,49078856,40,Walk on Decomposed Subdomains,40,2
+2026-08-03T19:51:12.520503+00:00,49160450,41,New York Will Require Digital ID Checks for Social Feeds,4,0
+2026-08-03T19:51:12.520503+00:00,49156071,42,"Utah produced more power from solar than any other source in May, a new first",101,70
+2026-08-03T19:51:12.520503+00:00,49160081,43,OpenAI's Unreleased Model Astra Solves Ten Major Open Mathematics Problems,5,0
+2026-08-03T19:51:12.520503+00:00,49147263,44,SwiftUI After 7 Years,255,261
+2026-08-03T19:51:12.520503+00:00,49152871,45,Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge,60,34
+2026-08-03T19:51:12.520503+00:00,49125065,46,Why we write our own C and C++ inference engines,112,46
+2026-08-03T19:51:12.520503+00:00,49149805,47,Show HN: ssh ssh.place,165,96
+2026-08-03T19:51:12.520503+00:00,49114146,48,Characterizing Warp Divergence from Pascal to Blackwell,25,1
+2026-08-03T19:51:12.520503+00:00,49149898,49,"CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",91,46
+2026-08-03T19:51:12.520503+00:00,49158256,50,FCC Restricts Imports of New Foreign Power Inverters and Robotic Devices,17,0
