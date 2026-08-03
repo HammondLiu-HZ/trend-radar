@@ -23240,3 +23240,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-03T19:51:12.520503+00:00,49114146,48,Characterizing Warp Divergence from Pascal to Blackwell,25,1
 2026-08-03T19:51:12.520503+00:00,49149898,49,"CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",91,46
 2026-08-03T19:51:12.520503+00:00,49158256,50,FCC Restricts Imports of New Foreign Power Inverters and Robotic Devices,17,0
+2026-08-03T21:13:01.112905+00:00,49157930,1,Ten advances in mathematics and theoretical computer science,319,579
+2026-08-03T21:13:01.112905+00:00,49156111,2,Devtools must be open source,417,146
+2026-08-03T21:13:01.112905+00:00,49158474,3,Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years,100,28
+2026-08-03T21:13:01.112905+00:00,49158581,4,"Smaller, faster, safer: running Kimi and GLM at scale",77,20
+2026-08-03T21:13:01.112905+00:00,49132992,5,200 Milliseconds,71,21
+2026-08-03T21:13:01.112905+00:00,49155629,6,"MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",219,66
+2026-08-03T21:13:01.112905+00:00,49160437,7,The Dunning-Kruger effect may just be a data artefact (2020),64,62
+2026-08-03T21:13:01.112905+00:00,49156011,8,Andy Pavlo joins ClickHouse to establish ClickHouse Labs,225,48
+2026-08-03T21:13:01.112905+00:00,49124213,9,Massively Parallel Postgres Backups,67,3
+2026-08-03T21:13:01.112905+00:00,49082937,10,How Hollywood stopped making movies in Hollywood,139,147
+2026-08-03T21:13:01.112905+00:00,49160699,11,"AI's debt binge can't last, hidden borrowing reaches $1.65T",43,5
+2026-08-03T21:13:01.112905+00:00,49157997,12,Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents,35,44
+2026-08-03T21:13:01.112905+00:00,49160631,13,DDoS against Norwegian government IT infrastructure – status,62,30
+2026-08-03T21:13:01.112905+00:00,49123105,14,Kelly Criterion Simulator,32,11
+2026-08-03T21:13:01.112905+00:00,49158141,15,SearXNG in Rust,44,18
+2026-08-03T21:13:01.112905+00:00,49154228,16,AirLLM 70B inference with single 4GB GPU,167,62
+2026-08-03T21:13:01.112905+00:00,49158714,17,The Billable Usage API: programmatic cost visibility for Cloudflare,29,5
+2026-08-03T21:13:01.112905+00:00,49152842,18,Bonsai: Janestreet's UI Library,265,100
+2026-08-03T21:13:01.112905+00:00,49158287,19,Use Task Runners for Common Coding Tasks,46,16
+2026-08-03T21:13:01.112905+00:00,49159676,20,ZX Spectrum System Tour: Sound,13,0
+2026-08-03T21:13:01.112905+00:00,49106935,21,Replacing the Kobo Libra H2O Battery,5,0
+2026-08-03T21:13:01.112905+00:00,49151933,22,Don't be a meat proxy,1623,664
+2026-08-03T21:13:01.112905+00:00,49159970,23,KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer,7,0
+2026-08-03T21:13:01.112905+00:00,49107888,24,C++ float-to-int conversion can be undefined behavior,39,38
+2026-08-03T21:13:01.112905+00:00,49153374,25,Prevent cognitive debt by manually retyping LLM-generated code,335,282
+2026-08-03T21:13:01.112905+00:00,49154332,26,SQLite Critical CVEs or LLM Slop?,679,330
+2026-08-03T21:13:01.112905+00:00,49155626,27,"SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",44,11
+2026-08-03T21:13:01.112905+00:00,49152023,28,Rust project goals: Immobile types and guaranteed destructors,217,85
+2026-08-03T21:13:01.112905+00:00,49157807,29,Show HN: Product analytics (and evals) for agent sessions on your MCP,27,1
+2026-08-03T21:13:01.112905+00:00,49150470,30,Qwen3.8-Max: A New Bar for Coding and Cowork,1023,546
+2026-08-03T21:13:01.112905+00:00,49153361,31,"What DMARC Protects You From, and What It Does Not",123,29
+2026-08-03T21:13:01.112905+00:00,49157645,32,Explanation of INT8 ConvRot (FP8 is no longer needed),20,7
+2026-08-03T21:13:01.112905+00:00,49154127,33,Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone,94,29
+2026-08-03T21:13:01.112905+00:00,49110912,34,Kraid is a now a real compiler,25,8
+2026-08-03T21:13:01.112905+00:00,49156750,35,Twenty Years of Pandoc,23,2
+2026-08-03T21:13:01.112905+00:00,49155579,36,Cloudflare Workers and Containers now support inbound TCP connections and gRPC,27,0
+2026-08-03T21:13:01.112905+00:00,49158372,37,ASCII Today,16,3
+2026-08-03T21:13:01.112905+00:00,49160713,38,Apple's iCloud File Sharing Left Ex-Employees with Access to Secret Documents,10,0
+2026-08-03T21:13:01.112905+00:00,49115935,39,Train Simulator Controller,92,7
+2026-08-03T21:13:01.112905+00:00,49152640,40,"Octane – React’s programming model, compiled",115,41
+2026-08-03T21:13:01.112905+00:00,49147907,41,Games at the press of a button: The Rip-O-Bot (1989),26,6
+2026-08-03T21:13:01.112905+00:00,49154441,42,The Potomac River Midair Collision,42,4
+2026-08-03T21:13:01.112905+00:00,49145193,43,Finding zombies in our systems: A real-world story of CPU bottlenecks,23,5
+2026-08-03T21:13:01.112905+00:00,49078856,44,Walk on Decomposed Subdomains,41,2
+2026-08-03T21:13:01.112905+00:00,49147263,45,SwiftUI After 7 Years,256,263
+2026-08-03T21:13:01.112905+00:00,49125065,46,Why we write our own C and C++ inference engines,114,47
+2026-08-03T21:13:01.112905+00:00,49125168,47,The Abandoned Fish Sauce Terrorizing a Small Canadian Town,181,169
+2026-08-03T21:13:01.112905+00:00,49149805,48,Show HN: ssh ssh.place,166,102
+2026-08-03T21:13:01.112905+00:00,49152871,49,Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge,64,34
+2026-08-03T21:13:01.112905+00:00,49159902,50,The AI Bailout Could Be Baked into the AI Bubble,20,1
