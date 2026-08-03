@@ -22993,3 +22993,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-03T04:36:32.940127+00:00,49147853,48,Adding Go's Defer to the TypeScript Compiler,17,15
 2026-08-03T04:36:32.940127+00:00,49148128,49,EU Age Verification Project Mandates Hardware-Bound Attestation,167,118
 2026-08-03T04:36:32.940127+00:00,49148500,50,Let kids be kids: When collectibles lose their playfulness,10,2
+2026-08-03T08:36:26.649923+00:00,49151933,1,Don't be a meat proxy,345,149
+2026-08-03T08:36:26.649923+00:00,49150470,2,Qwen3.8-Max: A New Bar for Coding and Cowork,506,234
+2026-08-03T08:36:26.649923+00:00,49151734,3,More German than many Germans,187,76
+2026-08-03T08:36:26.649923+00:00,49152023,4,Rust project goals: Immobile types and guaranteed destructors,39,12
+2026-08-03T08:36:26.649923+00:00,49149966,5,Show HN: Isopolis – Isometric pixel map of SF,204,45
+2026-08-03T08:36:26.649923+00:00,49140998,6,Karpathy’s Pelican,555,388
+2026-08-03T08:36:26.649923+00:00,49150773,7,"AI migrated legacy COBOL programs to Java, bugs included",54,41
+2026-08-03T08:36:26.649923+00:00,49149805,8,Show HN: ssh ssh.place,107,59
+2026-08-03T08:36:26.649923+00:00,49125065,9,Why we write our own C and C++ inference engines,46,23
+2026-08-03T08:36:26.649923+00:00,49149898,10,"CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",64,25
+2026-08-03T08:36:26.649923+00:00,49119751,11,Show HN: A Handwritten Blogging Platform,94,48
+2026-08-03T08:36:26.649923+00:00,49076945,12,Convergence is not enough,29,3
+2026-08-03T08:36:26.649923+00:00,49122655,13,Autoregressive Language Model on the 6502 Processor,104,10
+2026-08-03T08:36:26.649923+00:00,49145937,14,Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM,214,55
+2026-08-03T08:36:26.649923+00:00,49084324,15,Note-Taking and Personal Knowledge Management,192,55
+2026-08-03T08:36:26.649923+00:00,49097961,16,Developers are attached to tools because tools encode trust,207,110
+2026-08-03T08:36:26.649923+00:00,49147263,17,SwiftUI After 7 Years,187,166
+2026-08-03T08:36:26.649923+00:00,49149746,18,Why Book Corners won't sync contributions back to OpenStreetMap,85,53
+2026-08-03T08:36:26.649923+00:00,49129676,19,Read the novels and forget everything else,94,78
+2026-08-03T08:36:26.649923+00:00,49146960,20,The myth of Snow Leopard,92,77
+2026-08-03T08:36:26.649923+00:00,49150181,21,RFC 9851: TLS 1.2 is in Feature Freeze,34,12
+2026-08-03T08:36:26.649923+00:00,49078283,22,Norway became a global salmon behemoth. Now it's facing the consequences,149,108
+2026-08-03T08:36:26.649923+00:00,49145590,23,How the words we teach English language learners changed,214,161
+2026-08-03T08:36:26.649923+00:00,49148048,24,Show HN: Make your Framework 12 sound like a creaky door,84,15
+2026-08-03T08:36:26.649923+00:00,49147622,25,My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”,139,73
+2026-08-03T08:36:26.649923+00:00,49146267,26,Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark,116,33
+2026-08-03T08:36:26.649923+00:00,49123003,27,When transit passes were designed by hand (2022),138,31
+2026-08-03T08:36:26.649923+00:00,49123353,28,Cro – elegant reactive services in Raku,21,2
+2026-08-03T08:36:26.649923+00:00,49145883,29,"Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",109,24
+2026-08-03T08:36:26.649923+00:00,49094151,30,Fasttracker II clone in C using SDL 2,130,51
+2026-08-03T08:36:26.649923+00:00,49143479,31,"Meshdiff – visually compare two STL versions in the browser, client-side",189,21
+2026-08-03T08:36:26.649923+00:00,49147760,32,TinyNES Review – A Super Niche NES Console,53,18
+2026-08-03T08:36:26.649923+00:00,49149125,33,The Computational Theory of Mind (2015),60,48
+2026-08-03T08:36:26.649923+00:00,49149326,34,Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours,138,128
+2026-08-03T08:36:26.649923+00:00,49103836,35,Òrbites – Connection and constellation puzzle game,5,4
+2026-08-03T08:36:26.649923+00:00,49147435,36,'Crush this lady': how eBay harassment campaign led to $56M payout,235,113
+2026-08-03T08:36:26.649923+00:00,49142569,37,Show HN: Bor – Open-source policy management for Linux desktops,175,23
+2026-08-03T08:36:26.649923+00:00,49146605,38,Harvesting SSH Credentials: Insights from My Honeypot Network,45,30
+2026-08-03T08:36:26.649923+00:00,49113005,39,A tool for finding the causes of unstable Python tests,19,1
+2026-08-03T08:36:26.649923+00:00,49116917,40,Holocloth,186,33
+2026-08-03T08:36:26.649923+00:00,49143001,41,Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge,126,31
+2026-08-03T08:36:26.649923+00:00,49143412,42,Show HN: Fuse – statically typed functional programming language,110,36
+2026-08-03T08:36:26.649923+00:00,49148541,44,Flock – Chilling Effects: Long Island's Emerging Open-Air Prison,58,23
+2026-08-03T08:36:26.649923+00:00,49149942,45,Logic and Ontology,11,0
+2026-08-03T08:36:26.649923+00:00,49148899,46,Show HN: Mu – Tools for Agents,50,20
+2026-08-03T08:36:26.649923+00:00,49143925,47,F*: A general-purpose proof-oriented programming language,178,86
+2026-08-03T08:36:26.649923+00:00,49143967,48,Twenty Years of RISC OS Open,156,30
+2026-08-03T08:36:26.649923+00:00,49148500,49,Let kids be kids: When collectibles lose their playfulness,14,2
+2026-08-03T08:36:26.649923+00:00,49142130,50,Cyberscript,63,55
