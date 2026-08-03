@@ -23042,3 +23042,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-03T08:36:26.649923+00:00,49143967,48,Twenty Years of RISC OS Open,156,30
 2026-08-03T08:36:26.649923+00:00,49148500,49,Let kids be kids: When collectibles lose their playfulness,14,2
 2026-08-03T08:36:26.649923+00:00,49142130,50,Cyberscript,63,55
+2026-08-03T12:33:00.111152+00:00,49154332,1,Critical CVE issued for hallucinated SQLite vulnerability,133,34
+2026-08-03T12:33:00.111152+00:00,49151933,2,Don't be a meat proxy,869,372
+2026-08-03T12:33:00.111152+00:00,49150470,3,Qwen3.8-Max: A New Bar for Coding and Cowork,699,354
+2026-08-03T12:33:00.111152+00:00,49152842,4,Bonsai: Janestreet's UI Library,88,30
+2026-08-03T12:33:00.111152+00:00,49154127,5,Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone,16,5
+2026-08-03T12:33:00.111152+00:00,49153374,6,Prevent cognitive debt by manually retyping LLM-generated code,129,103
+2026-08-03T12:33:00.111152+00:00,49154237,7,ICE Collected Nearly 1M People's DNA Last Year–Including Young Children,60,9
+2026-08-03T12:33:00.111152+00:00,49152640,8,"Octane – React's programming model, compiled",48,18
+2026-08-03T12:33:00.111152+00:00,49154601,9,The AI bubble is popping; we just don't know it yet,22,9
+2026-08-03T12:33:00.111152+00:00,49152023,10,Rust project goals: Immobile types and guaranteed destructors,110,32
+2026-08-03T12:33:00.111152+00:00,49152973,11,The true power of regular expressions (2012),22,13
+2026-08-03T12:33:00.111152+00:00,49153361,12,"What DMARC Protects You From, and What It Does Not",35,11
+2026-08-03T12:33:00.111152+00:00,49149966,13,Show HN: Isopolis – Isometric pixel map of SF,251,54
+2026-08-03T12:33:00.111152+00:00,49153029,14,PISIGuard: Protect your personal and sensitive info when you chat with AI,12,8
+2026-08-03T12:33:00.111152+00:00,49152871,15,Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge,26,11
+2026-08-03T12:33:00.111152+00:00,49114146,16,Characterizing Warp Divergence from Pascal to Blackwell,6,0
+2026-08-03T12:33:00.111152+00:00,49115935,17,Train Simulator Controller,23,1
+2026-08-03T12:33:00.111152+00:00,49154249,18,"9front ""This Was Supposed to Be Fun"" Released",20,2
+2026-08-03T12:33:00.111152+00:00,49149805,19,Show HN: ssh ssh.place,133,78
+2026-08-03T12:33:00.111152+00:00,49125065,20,Why we write our own C and C++ inference engines,73,31
+2026-08-03T12:33:00.111152+00:00,49151871,21,Situational Awareness and the Impending Stock Market Volatility,25,20
+2026-08-03T12:33:00.111152+00:00,49145937,22,Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM,228,58
+2026-08-03T12:33:00.111152+00:00,49149746,23,Why Book Corners won't sync contributions back to OpenStreetMap,119,69
+2026-08-03T12:33:00.111152+00:00,49119751,24,Show HN: A Handwritten Blogging Platform,128,64
+2026-08-03T12:33:00.111152+00:00,49122655,25,Autoregressive Language Model on the 6502 Processor,118,10
+2026-08-03T12:33:00.111152+00:00,49147263,26,SwiftUI After 7 Years,216,207
+2026-08-03T12:33:00.111152+00:00,49084324,27,Note-Taking and Personal Knowledge Management,214,73
+2026-08-03T12:33:00.111152+00:00,49149898,28,"CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",71,31
+2026-08-03T12:33:00.111152+00:00,49097961,29,Developers are attached to tools because tools encode trust,224,124
+2026-08-03T12:33:00.111152+00:00,49076945,30,Convergence is not enough,42,9
+2026-08-03T12:33:00.111152+00:00,49078283,31,Norway became a global salmon behemoth. Now it's facing the consequences,180,131
+2026-08-03T12:33:00.111152+00:00,49146960,32,The myth of Snow Leopard,110,90
+2026-08-03T12:33:00.111152+00:00,49129676,33,Read the novels and forget everything else,109,96
+2026-08-03T12:33:00.111152+00:00,49154050,34,The fading American Dream: Visa uncertainty drives Indian tech workers back home,10,0
+2026-08-03T12:33:00.111152+00:00,49153308,35,MPs demand answers on Fujitsu's inclusion in lucrative frameworks,28,13
+2026-08-03T12:33:00.111152+00:00,49145590,36,How the words we teach English language learners changed,226,172
+2026-08-03T12:33:00.111152+00:00,49140998,37,Karpathy’s Pelican,582,397
+2026-08-03T12:33:00.111152+00:00,49152222,38,The AI Productivity Gap,61,63
+2026-08-03T12:33:00.111152+00:00,49150181,39,RFC 9851: TLS 1.2 is in Feature Freeze,38,23
+2026-08-03T12:33:00.111152+00:00,49147622,40,My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”,143,78
+2026-08-03T12:33:00.111152+00:00,49146267,41,Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark,118,36
+2026-08-03T12:33:00.111152+00:00,49153481,42,EU enforces labeling AI generated content,15,5
+2026-08-03T12:33:00.111152+00:00,49148048,43,Show HN: Make your Framework 12 sound like a creaky door,86,16
+2026-08-03T12:33:00.111152+00:00,49143479,44,"Meshdiff – visually compare two STL versions in the browser, client-side",193,21
+2026-08-03T12:33:00.111152+00:00,49094151,45,Fasttracker II clone in C using SDL 2,136,52
+2026-08-03T12:33:00.111152+00:00,49145883,47,"Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",111,25
+2026-08-03T12:33:00.111152+00:00,49152881,48,Weighing the Business Case for Quality,3,0
+2026-08-03T12:33:00.111152+00:00,49154304,49,Xkcd: Earth Temperature Timeline,16,1
+2026-08-03T12:33:00.111152+00:00,49150773,50,"AI migrated legacy COBOL programs to Java, bugs included",73,64
