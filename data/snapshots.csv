@@ -22944,3 +22944,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-03T00:04:38.134437+00:00,49141828,48,ESP32-C3 SuperMini antenna modification,75,15
 2026-08-03T00:04:38.134437+00:00,49146991,49,Nanocodex: Building blocks for frontier OpenAI agents in Rust,5,1
 2026-08-03T00:04:38.134437+00:00,49083146,50,Turtle-inspired interactive Python project,14,3
+2026-08-03T04:36:32.940127+00:00,49150470,1,Qwen3.8-Max: A New Bar for Coding and Cowork,190,74
+2026-08-03T04:36:32.940127+00:00,49149966,2,Show HN: Isopolis – Isometric pixel map of SF,105,27
+2026-08-03T04:36:32.940127+00:00,49149898,3,"CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",46,11
+2026-08-03T04:36:32.940127+00:00,49140998,4,Karpathy’s Pelican,493,358
+2026-08-03T04:36:32.940127+00:00,49149805,5,Show HN: ssh ssh.place,66,32
+2026-08-03T04:36:32.940127+00:00,49119751,6,Show HN: A Handwritten Blogging Platform,37,12
+2026-08-03T04:36:32.940127+00:00,49122655,7,Autoregressive Language Model on the 6502 Processor,75,8
+2026-08-03T04:36:32.940127+00:00,49149746,8,Why Book Corners won't sync contributions back to OpenStreetMap,66,37
+2026-08-03T04:36:32.940127+00:00,49145937,9,Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM,194,44
+2026-08-03T04:36:32.940127+00:00,49084324,10,Note-Taking and Personal Knowledge Management,157,45
+2026-08-03T04:36:32.940127+00:00,49097961,11,Developers are attached to tools because tools encode trust,176,91
+2026-08-03T04:36:32.940127+00:00,49147263,12,SwiftUI After 7 Years,140,121
+2026-08-03T04:36:32.940127+00:00,49150181,13,RFC 9851: TLS 1.2 is in Feature Freeze,19,6
+2026-08-03T04:36:32.940127+00:00,49129676,14,Read the novels and forget everything else,75,43
+2026-08-03T04:36:32.940127+00:00,49146960,15,The myth of Snow Leopard,63,50
+2026-08-03T04:36:32.940127+00:00,49149125,16,The Computational Theory of Mind (2015),43,18
+2026-08-03T04:36:32.940127+00:00,49148899,17,Show HN: Mu – Tools for Agents,47,13
+2026-08-03T04:36:32.940127+00:00,49145590,18,How the words we teach English language learners changed,196,145
+2026-08-03T04:36:32.940127+00:00,49143925,19,F*: A general-purpose proof-oriented programming language,169,76
+2026-08-03T04:36:32.940127+00:00,49148048,20,Show HN: Make your Framework 12 sound like a creaky door,63,8
+2026-08-03T04:36:32.940127+00:00,49147622,21,My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”,122,57
+2026-08-03T04:36:32.940127+00:00,49146267,22,Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark,103,31
+2026-08-03T04:36:32.940127+00:00,49147760,23,TinyNES Review – A Super Niche NES Console,43,11
+2026-08-03T04:36:32.940127+00:00,49123003,24,When transit passes were designed by hand (2022),121,29
+2026-08-03T04:36:32.940127+00:00,49148987,25,"Californians' data deletion requests, DROP, become enforceable Aug. 1",117,55
+2026-08-03T04:36:32.940127+00:00,49093845,26,Folding Paper Globes,163,32
+2026-08-03T04:36:32.940127+00:00,49149326,27,Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours,106,102
+2026-08-03T04:36:32.940127+00:00,49125065,28,Why we write our own C and C++ inference engines,11,5
+2026-08-03T04:36:32.940127+00:00,49145883,29,"Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",92,18
+2026-08-03T04:36:32.940127+00:00,49094151,30,Fasttracker II clone in C using SDL 2,120,48
+2026-08-03T04:36:32.940127+00:00,49143479,31,"Meshdiff – visually compare two STL versions in the browser, client-side",184,19
+2026-08-03T04:36:32.940127+00:00,49147435,32,'Crush this lady': how eBay harassment campaign led to $56M payout,209,102
+2026-08-03T04:36:32.940127+00:00,49113005,33,A tool for finding the causes of unstable Python tests,17,0
+2026-08-03T04:36:32.940127+00:00,49097836,34,A Playable History of Sudoku,7,1
+2026-08-03T04:36:32.940127+00:00,49142569,36,Show HN: Bor – Open-source policy management for Linux desktops,172,22
+2026-08-03T04:36:32.940127+00:00,49146605,37,Harvesting SSH Credentials: Insights from My Honeypot Network,37,31
+2026-08-03T04:36:32.940127+00:00,49150203,38,Firstmate: Talk to one agent. Ship with a crew,3,0
+2026-08-03T04:36:32.940127+00:00,49143001,39,Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge,124,31
+2026-08-03T04:36:32.940127+00:00,49143412,40,Show HN: Fuse – statically typed functional programming language,106,30
+2026-08-03T04:36:32.940127+00:00,49116917,41,Holocloth,176,33
+2026-08-03T04:36:32.940127+00:00,49149800,42,Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App,37,9
+2026-08-03T04:36:32.940127+00:00,49149628,43,Connes' Rigidity Theorem: Disproof of Open AI's Counterexample and Proof,13,4
+2026-08-03T04:36:32.940127+00:00,49148541,44,Flock – Chilling Effects: Long Island's Emerging Open-Air Prison,47,17
+2026-08-03T04:36:32.940127+00:00,49150738,45,Apple engineer says he was fired after refusing to send cust. device IDs to AT&T,75,22
+2026-08-03T04:36:32.940127+00:00,49147978,46,Sharing an X11 Server Across Hosts with FamilyWild,38,11
+2026-08-03T04:36:32.940127+00:00,49150420,47,Amazon completes $50B investment in OpenAI,10,0
+2026-08-03T04:36:32.940127+00:00,49147853,48,Adding Go's Defer to the TypeScript Compiler,17,15
+2026-08-03T04:36:32.940127+00:00,49148128,49,EU Age Verification Project Mandates Hardware-Bound Attestation,167,118
+2026-08-03T04:36:32.940127+00:00,49148500,50,Let kids be kids: When collectibles lose their playfulness,10,2
