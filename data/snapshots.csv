@@ -23290,3 +23290,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-03T21:13:01.112905+00:00,49149805,48,Show HN: ssh ssh.place,166,102
 2026-08-03T21:13:01.112905+00:00,49152871,49,Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge,64,34
 2026-08-03T21:13:01.112905+00:00,49159902,50,The AI Bailout Could Be Baked into the AI Bubble,20,1
+2026-08-03T23:11:28.659624+00:00,49161518,1,LLMs reward expertise,237,100
+2026-08-03T23:11:28.659624+00:00,49157930,2,Ten advances in mathematics and theoretical computer science,378,670
+2026-08-03T23:11:28.659624+00:00,49156111,3,Devtools must be open source,458,169
+2026-08-03T23:11:28.659624+00:00,49156683,4,Ask HN: Who is hiring? (August 2026),53,77
+2026-08-03T23:11:28.659624+00:00,49162086,5,Windows XP 2002 for the Itanium: Unbridled rage,20,0
+2026-08-03T23:11:28.659624+00:00,49132992,6,200 Milliseconds,146,47
+2026-08-03T23:11:28.659624+00:00,49158581,7,"Smaller, faster, safer: running Kimi and GLM at scale",120,30
+2026-08-03T23:11:28.659624+00:00,49156682,8,Ask HN: Who wants to be hired? (August 2026),18,131
+2026-08-03T23:11:28.659624+00:00,49158474,9,Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years,115,32
+2026-08-03T23:11:28.659624+00:00,49155629,10,"MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",236,74
+2026-08-03T23:11:28.659624+00:00,49131250,11,Battle of the Beams,7,0
+2026-08-03T23:11:28.659624+00:00,49156011,12,Andy Pavlo joins ClickHouse to establish ClickHouse Labs,250,53
+2026-08-03T23:11:28.659624+00:00,49157997,13,Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents,49,48
+2026-08-03T23:11:28.659624+00:00,49160437,14,The Dunning-Kruger effect may just be a data artefact (2020),96,104
+2026-08-03T23:11:28.659624+00:00,49106935,15,Replacing the Kobo Libra H2O Battery,32,5
+2026-08-03T23:11:28.659624+00:00,49082937,16,How Hollywood stopped making movies in Hollywood,154,177
+2026-08-03T23:11:28.659624+00:00,49161801,17,ZX Spectrum System Tour: Text Mode,7,0
+2026-08-03T23:11:28.659624+00:00,49123105,18,Kelly Criterion Simulator,46,22
+2026-08-03T23:11:28.659624+00:00,49124213,19,Massively Parallel Postgres Backups,82,9
+2026-08-03T23:11:28.659624+00:00,49154228,20,AirLLM 70B inference with single 4GB GPU,176,69
+2026-08-03T23:11:28.659624+00:00,49152842,21,Bonsai: Janestreet's UI Library,289,111
+2026-08-03T23:11:28.659624+00:00,49159676,22,ZX Spectrum System Tour: Sound,27,5
+2026-08-03T23:11:28.659624+00:00,49159970,23,KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer,25,3
+2026-08-03T23:11:28.659624+00:00,49158714,24,The Billable Usage API: programmatic cost visibility for Cloudflare,37,6
+2026-08-03T23:11:28.659624+00:00,49156750,25,Twenty Years of Pandoc,63,7
+2026-08-03T23:11:28.659624+00:00,49160631,26,DDoS against Norwegian government IT infrastructure – status,76,56
+2026-08-03T23:11:28.659624+00:00,49153374,27,Prevent cognitive debt by manually retyping LLM-generated code,357,292
+2026-08-03T23:11:28.659624+00:00,49158287,28,Use Task Runners for Common Coding Tasks,59,19
+2026-08-03T23:11:28.659624+00:00,49158141,29,SearXNG in Rust,55,19
+2026-08-03T23:11:28.659624+00:00,49152023,30,Rust project goals: Immobile types and guaranteed destructors,231,87
+2026-08-03T23:11:28.659624+00:00,49157807,31,Show HN: Product analytics (and evals) for agent sessions on your MCP,36,2
+2026-08-03T23:11:28.659624+00:00,49154332,32,SQLite Critical CVEs or LLM Slop?,692,344
+2026-08-03T23:11:28.659624+00:00,49150470,33,Qwen3.8-Max: A New Bar for Coding and Cowork,1044,558
+2026-08-03T23:11:28.659624+00:00,49110166,34,Boarding China's Last Bus,24,2
+2026-08-03T23:11:28.659624+00:00,49155626,35,"SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",47,11
+2026-08-03T23:11:28.659624+00:00,49154441,36,The Potomac River Midair Collision,57,12
+2026-08-03T23:11:28.659624+00:00,49157645,37,Explanation of INT8 ConvRot (FP8 is no longer needed),23,7
+2026-08-03T23:11:28.659624+00:00,49153361,38,"What DMARC Protects You From, and What It Does Not",125,30
+2026-08-03T23:11:28.659624+00:00,49158372,39,ASCII Today,26,5
+2026-08-03T23:11:28.659624+00:00,49110912,40,Kraid is a now a real compiler,27,8
+2026-08-03T23:11:28.659624+00:00,49154127,41,Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone,99,30
+2026-08-03T23:11:28.659624+00:00,49155579,42,Cloudflare Workers and Containers now support inbound TCP connections and gRPC,33,0
+2026-08-03T23:11:28.659624+00:00,49115935,43,Train Simulator Controller,96,7
+2026-08-03T23:11:28.659624+00:00,49161733,44,Seven Russian banks have moved to a certificate authority run by the state,12,3
+2026-08-03T23:11:28.659624+00:00,49152640,45,"Octane – React’s programming model, compiled",116,42
+2026-08-03T23:11:28.659624+00:00,49160699,46,"AI's debt binge can't last, hidden borrowing reaches $1.65T",100,105
+2026-08-03T23:11:28.659624+00:00,49147907,47,Games at the press of a button: The Rip-O-Bot (1989),27,6
+2026-08-03T23:11:28.659624+00:00,49151933,48,Don't be a meat proxy,1681,682
+2026-08-03T23:11:28.659624+00:00,49161619,49,Mathematicians Need to Act,10,7
+2026-08-03T23:11:28.659624+00:00,49162105,50,"An AI-supervised remote exam went so badly that 58,000 students must retake it",7,0
