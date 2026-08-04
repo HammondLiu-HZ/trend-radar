@@ -23734,3 +23734,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-04T21:20:11.970758+00:00,49174900,48,Gwern reties from fulltime writing to launch Guardian Angel Inc,5,3
 2026-08-04T21:20:11.970758+00:00,49174543,49,SpaceX Reports Second Quarter 2026 Results [pdf],8,1
 2026-08-04T21:20:11.970758+00:00,49166182,50,Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal,84,83
+2026-08-04T23:10:13.793439+00:00,49175826,1,AI fuels more than half of cybercrime in Africa as scams surge – Interpol,65,28
+2026-08-04T23:10:13.793439+00:00,49174900,2,Gwern reties from fulltime writing to launch Guardian Angel Inc,41,15
+2026-08-04T23:10:13.793439+00:00,49171268,3,Mistral's Shieldstral: 3B open-weights model for multimodal moderation,263,67
+2026-08-04T23:10:13.793439+00:00,49170165,4,Show HN: Simple algorithm and color space to generate diverse skin tones,436,86
+2026-08-04T23:10:13.793439+00:00,49173165,5,"In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",695,42
+2026-08-04T23:10:13.793439+00:00,49175924,6,"DuckDB – Data power tools for your laptop, now in Clojure (2023)",10,0
+2026-08-04T23:10:13.793439+00:00,49172836,7,Waymo in Dallas,215,250
+2026-08-04T23:10:13.793439+00:00,49175248,8,Third-party cyber evaluations involving OpenAI models,25,2
+2026-08-04T23:10:13.793439+00:00,49175192,9,"Thanks FedEx, This Is Why We Keep Getting Phished (2024)",169,36
+2026-08-04T23:10:13.793439+00:00,49166386,10,DeepSeek V4 Flash on a Single AMD MI300X,359,87
+2026-08-04T23:10:13.793439+00:00,49174407,11,Oxide Computer raises $445M (SEC Form D),141,57
+2026-08-04T23:10:13.793439+00:00,49145037,12,Video2NAND – Abusing video codecs for great computational power,14,0
+2026-08-04T23:10:13.793439+00:00,49173984,13,Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone,14,4
+2026-08-04T23:10:13.793439+00:00,49172405,14,Hop.earth – OpenStreetMap based car racing game,73,37
+2026-08-04T23:10:13.793439+00:00,49170076,15,Most tech revolutions made work worse for employees,74,35
+2026-08-04T23:10:13.793439+00:00,49172550,16,Why some people mow a lawn better than others,157,139
+2026-08-04T23:10:13.793439+00:00,49170915,17,When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation,70,74
+2026-08-04T23:10:13.793439+00:00,49127983,19,Don't stop early: Case-folding source code at memory speed,39,8
+2026-08-04T23:10:13.793439+00:00,49166874,20,Keyv and friends compromised in active Shai-Hulud supply chain attack,225,111
+2026-08-04T23:10:13.793439+00:00,49176055,21,"We finally learned to center a div, then browsers added sidebars",3,0
+2026-08-04T23:10:13.793439+00:00,49172936,22,Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research,26,19
+2026-08-04T23:10:13.793439+00:00,49167448,23,Xbox goes down. You can't play games you own on disc,555,601
+2026-08-04T23:10:13.793439+00:00,49170479,24,Apple says more ex-employees may have taken confidential data to OpenAI,316,243
+2026-08-04T23:10:13.793439+00:00,49171766,25,The Warp Agent CLI,92,55
+2026-08-04T23:10:13.793439+00:00,49172609,26,The Sound of Inevitability,6,5
+2026-08-04T23:10:13.793439+00:00,49162653,27,There Will Come Soft Rains (1950) [pdf],339,372
+2026-08-04T23:10:13.793439+00:00,49164896,28,Harness engineering for self-improvement,293,66
+2026-08-04T23:10:13.793439+00:00,49172597,29,Blackmail Fail (2013),33,2
+2026-08-04T23:10:13.793439+00:00,49167147,30,Everything I Know (1975),126,31
+2026-08-04T23:10:13.793439+00:00,49170508,31,Perspec 1.0,54,13
+2026-08-04T23:10:13.793439+00:00,49136363,32,Dates That Don't Exist (2015),110,76
+2026-08-04T23:10:13.793439+00:00,49172251,33,Vlt 1.0 and Hosted Package Registries,49,15
+2026-08-04T23:10:13.793439+00:00,49155622,34,The Red Strings Club,16,7
+2026-08-04T23:10:13.793439+00:00,49175717,35,Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf],52,46
+2026-08-04T23:10:13.793439+00:00,49172834,36,Web Security is Too Hard,193,101
+2026-08-04T23:10:13.793439+00:00,49171068,37,MariaDB: Promote getting to 10k GitHub stars in server log and client prompt,44,22
+2026-08-04T23:10:13.793439+00:00,49166331,38,"""Clean"" Code, Horrible Performance (2023)",118,111
+2026-08-04T23:10:13.793439+00:00,49170001,39,"Online ad giant Adform was hacked, proving once again why ad blockers are needed",209,76
+2026-08-04T23:10:13.793439+00:00,49166918,40,Nobel Disease,101,97
+2026-08-04T23:10:13.793439+00:00,49175303,41,An AI voice agent running locally on a $50 Arduino uno Q,5,0
+2026-08-04T23:10:13.793439+00:00,49170881,42,The applause that disrupted nothing – yet still led to an arrest,25,2
+2026-08-04T23:10:13.793439+00:00,49170628,43,Cloudflare enforces engineering standards using AI,28,3
+2026-08-04T23:10:13.793439+00:00,49161518,44,LLMs reward expertise,1313,546
+2026-08-04T23:10:13.793439+00:00,49172076,45,How Cops Are Trying to Hide Their Use of Flock,97,0
+2026-08-04T23:10:13.793439+00:00,49129545,46,Why etymologies matter: How tracing words can illuminate history (2024),94,18
+2026-08-04T23:10:13.793439+00:00,49166984,47,Show HN: Fine-tune an 8B model on a 4 GB laptop GPU,116,23
+2026-08-04T23:10:13.793439+00:00,49166442,48,Why Large Language Models Fail at Tabular Prediction,97,32
+2026-08-04T23:10:13.793439+00:00,49176436,49,Asia Hedge Funds Suffer Widespread Losses in July Market Rout,4,0
+2026-08-04T23:10:13.793439+00:00,49170293,50,"Rest in Peace, Heinz Stucke, Who Saw the World by Bike",18,3
