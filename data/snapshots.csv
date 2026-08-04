@@ -23489,3 +23489,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-04T09:43:35.071483+00:00,49154332,48,SQLite Critical CVEs or LLM Slop?,711,363
 2026-08-04T09:43:35.071483+00:00,49158141,49,SearXNG in Rust,68,22
 2026-08-04T09:43:35.071483+00:00,49152222,50,The AI Productivity Gap,122,107
+2026-08-04T12:07:00.260038+00:00,49166202,1,FFmpeg 9.0,252,45
+2026-08-04T12:07:00.260038+00:00,49166386,2,DeepSeek V4 Flash on a Single AMD MI300X,75,13
+2026-08-04T12:07:00.260038+00:00,49167147,3,Buckminster Fuller: everything I know,9,4
+2026-08-04T12:07:00.260038+00:00,49166749,4,"Mini retirements: like a sabbatical, but much smaller",19,17
+2026-08-04T12:07:00.260038+00:00,49161518,5,LLMs reward expertise,1036,441
+2026-08-04T12:07:00.260038+00:00,49166491,7,"Ray Bradbury's ""There Will Come Soft Rains"" is set today (2026-08-04)",22,3
+2026-08-04T12:07:00.260038+00:00,49164896,8,Harness Engineering for Self-Improvement,92,13
+2026-08-04T12:07:00.260038+00:00,49165665,9,You don't need React: creating a minimal UI library in Vanilla JavaScript,83,59
+2026-08-04T12:07:00.260038+00:00,49158333,10,"Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",215,98
+2026-08-04T12:07:00.260038+00:00,49100853,11,Cyberpunk Video Games,28,10
+2026-08-04T12:07:00.260038+00:00,49157930,12,Ten advances in mathematics and theoretical computer science,561,848
+2026-08-04T12:07:00.260038+00:00,49156111,13,Devtools must be open source,632,210
+2026-08-04T12:07:00.260038+00:00,49099336,14,Amazonian civilization had estimated 3M people in 3% of forest area,178,142
+2026-08-04T12:07:00.260038+00:00,49166230,15,An Honest Review of AI Programming,5,0
+2026-08-04T12:07:00.260038+00:00,49166442,16,Why Large Language Models Fail at Tabular Prediction,6,1
+2026-08-04T12:07:00.260038+00:00,49135005,17,Archaeologists Find Ancient Glyphs in the Amazon,15,6
+2026-08-04T12:07:00.260038+00:00,49095386,18,That time when I failed the Microsoft interview,81,155
+2026-08-04T12:07:00.260038+00:00,49153374,19,Prevent cognitive debt by manually retyping LLM-generated code,503,413
+2026-08-04T12:07:00.260038+00:00,49162653,20,There Will Come Soft Rains (1950) [pdf],178,63
+2026-08-04T12:07:00.260038+00:00,49156683,21,Ask HN: Who is hiring? (August 2026),194,174
+2026-08-04T12:07:00.260038+00:00,49158581,22,"Smaller, faster, safer: running Kimi and GLM at scale",228,58
+2026-08-04T12:07:00.260038+00:00,49119671,23,Beauty in my backyard,33,17
+2026-08-04T12:07:00.260038+00:00,49156750,24,Twenty Years of Pandoc,292,35
+2026-08-04T12:07:00.260038+00:00,49165845,25,Show HN: I made a private self-destructing image hosting site in Golang,8,17
+2026-08-04T12:07:00.260038+00:00,49166411,26,Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone,4,1
+2026-08-04T12:07:00.260038+00:00,49155629,27,"MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",308,87
+2026-08-04T12:07:00.260038+00:00,49156682,28,Ask HN: Who wants to be hired? (August 2026),130,306
+2026-08-04T12:07:00.260038+00:00,49166918,29,Nobel Disease,12,2
+2026-08-04T12:07:00.260038+00:00,49166308,30,"Homebench – Benchmark local LLMs for speed, memory, and quality",3,0
+2026-08-04T12:07:00.260038+00:00,49157997,31,Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents,75,60
+2026-08-04T12:07:00.260038+00:00,49156011,32,Andy Pavlo joins ClickHouse to establish ClickHouse Labs,318,67
+2026-08-04T12:07:00.260038+00:00,49158474,33,Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years,169,44
+2026-08-04T12:07:00.260038+00:00,49127492,34,Trembling Photons in Non-Abelian Electric Fields,11,1
+2026-08-04T12:07:00.260038+00:00,49132992,35,200 Milliseconds,300,93
+2026-08-04T12:07:00.260038+00:00,49162086,36,Windows XP 2002 for the Itanium: Unbridled rage,114,66
+2026-08-04T12:07:00.260038+00:00,49152842,37,Bonsai: Janestreet's UI Library,366,148
+2026-08-04T12:07:00.260038+00:00,49106935,38,Replacing the Kobo Libra H2O Battery,80,31
+2026-08-04T12:07:00.260038+00:00,49082937,39,How Hollywood stopped making movies in Hollywood,202,244
+2026-08-04T12:07:00.260038+00:00,49166652,40,Ask HN: Has anyone solved P2P routing at 100B+ nodes without DHT degradation?,6,0
+2026-08-04T12:07:00.260038+00:00,49125168,41,Decades-old fish sauce at abandoned factory in Canada finally being removed,249,261
+2026-08-04T12:07:00.260038+00:00,49151734,42,More German than many Germans,560,411
+2026-08-04T12:07:00.260038+00:00,49154228,43,AirLLM 70B inference with single 4GB GPU,222,80
+2026-08-04T12:07:00.260038+00:00,49166783,44,This Month in Ladybird – July 2026,5,0
+2026-08-04T12:07:00.260038+00:00,49161801,45,ZX Spectrum System Tour: Text Mode,51,4
+2026-08-04T12:07:00.260038+00:00,49150470,46,Qwen3.8-Max: A New Bar for Coding and Cowork,1080,584
+2026-08-04T12:07:00.260038+00:00,49124213,47,Massively Parallel Postgres Backups,109,12
+2026-08-04T12:07:00.260038+00:00,49159970,48,KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer,74,12
+2026-08-04T12:07:00.260038+00:00,49126468,49,IPC-7351B Electronic Component Zero Orientation [pdf] (2010),13,4
+2026-08-04T12:07:00.260038+00:00,49119166,50,"RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",8,0
