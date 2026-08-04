@@ -23636,3 +23636,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-04T17:56:53.321250+00:00,49082937,48,How Hollywood stopped making movies in Hollywood,209,246
 2026-08-04T17:56:53.321250+00:00,49124291,49,Where .env Went Wrong,74,50
 2026-08-04T17:56:53.321250+00:00,49162086,50,Windows XP 2002 for the Itanium: Unbridled rage,123,74
+2026-08-04T19:48:22.523795+00:00,49170165,1,Show HN: Simple algorithm and color space to generate diverse skin tones,313,69
+2026-08-04T19:48:22.523795+00:00,49172836,2,Waymo – Dallas Open to All,38,30
+2026-08-04T19:48:22.523795+00:00,49173576,3,Investors in Situational Awareness deserved to lose their shirts,25,23
+2026-08-04T19:48:22.523795+00:00,49172550,4,Why some people mow a lawn better than others,77,66
+2026-08-04T19:48:22.523795+00:00,49171268,5,Mistral's Shieldstral: 3B open-weights model for multimodal moderation,62,16
+2026-08-04T19:48:22.523795+00:00,49172405,6,Hop.earth – OpenStreetMap based car racing game,36,22
+2026-08-04T19:48:22.523795+00:00,49171766,7,The Warp Agent CLI,54,27
+2026-08-04T19:48:22.523795+00:00,49166386,8,DeepSeek V4 Flash on a Single AMD MI300X,320,76
+2026-08-04T19:48:22.523795+00:00,49166860,9,U.S. used 'virtually all' of its long-range precision missiles during Iran war,213,309
+2026-08-04T19:48:22.523795+00:00,49172936,10,Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research,11,4
+2026-08-04T19:48:22.523795+00:00,49173165,11,Stephen Wolfram's Wife Has Died,78,5
+2026-08-04T19:48:22.523795+00:00,49170915,13,When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation,42,54
+2026-08-04T19:48:22.523795+00:00,49172251,14,Vlt 1.0 and Hosted Package Registries,37,7
+2026-08-04T19:48:22.523795+00:00,49172834,15,Web security is too hard,103,36
+2026-08-04T19:48:22.523795+00:00,49166874,16,Keyv and friends compromised in active Shai-Hulud supply chain attack,195,98
+2026-08-04T19:48:22.523795+00:00,49170479,17,Apple says more ex-employees may have taken confidential data to OpenAI,224,167
+2026-08-04T19:48:22.523795+00:00,49167448,18,Xbox goes down. You can't play games you own on disc,467,522
+2026-08-04T19:48:22.523795+00:00,49155622,19,The Red Strings Club,5,1
+2026-08-04T19:48:22.523795+00:00,49170508,20,Perspec 1.0,29,8
+2026-08-04T19:48:22.523795+00:00,49172597,21,Blackmail Fail (2013),10,0
+2026-08-04T19:48:22.523795+00:00,49136363,22,Dates That Don't Exist (2015),90,60
+2026-08-04T19:48:22.523795+00:00,49170001,23,"Online ad giant Adform was hacked, proving once again why ad blockers are needed",169,59
+2026-08-04T19:48:22.523795+00:00,49164896,24,Harness engineering for self-improvement,261,56
+2026-08-04T19:48:22.523795+00:00,49167147,25,Everything I Know (1975),107,31
+2026-08-04T19:48:22.523795+00:00,49162653,26,There Will Come Soft Rains (1950) [pdf],302,336
+2026-08-04T19:48:22.523795+00:00,49172159,27,What's Behind the Sharp Drop in Labor Force Participation?,14,17
+2026-08-04T19:48:22.523795+00:00,49124291,28,Where .env Went Wrong,79,58
+2026-08-04T19:48:22.523795+00:00,49166918,29,Nobel Disease,73,72
+2026-08-04T19:48:22.523795+00:00,49104534,30,The Pedagogy Behind the Studio,7,1
+2026-08-04T19:48:22.523795+00:00,49166331,31,"""Clean"" Code, Horrible Performance (2023)",95,78
+2026-08-04T19:48:22.523795+00:00,49171068,32,MariaDB: Promote getting to 10k GitHub stars in server log and client prompt,20,12
+2026-08-04T19:48:22.523795+00:00,49166984,33,Show HN: Fine-tune an 8B model on a 4 GB laptop GPU,107,19
+2026-08-04T19:48:22.523795+00:00,49170628,34,Cloudflare enforces engineering standards using AI,15,2
+2026-08-04T19:48:22.523795+00:00,49130117,35,Looking inside a 1970s PROM chip that stores data in microscopic fuses (2019),32,6
+2026-08-04T19:48:22.523795+00:00,49172076,36,How Cops Are Trying to Hide Their Use of Flock,35,0
+2026-08-04T19:48:22.523795+00:00,49166442,37,Why Large Language Models Fail at Tabular Prediction,93,30
+2026-08-04T19:48:22.523795+00:00,49129545,38,Why etymologies matter: How tracing words can illuminate history (2024),86,18
+2026-08-04T19:48:22.523795+00:00,49171390,39,The Knowledge Chipper: An Agentic Coding Story,11,1
+2026-08-04T19:48:22.523795+00:00,49172433,40,AI Data Centers Are Driving Up Power Bills – This Map Shows Where,46,16
+2026-08-04T19:48:22.523795+00:00,49161518,41,LLMs reward expertise,1287,533
+2026-08-04T19:48:22.523795+00:00,49103059,42,"RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]",34,7
+2026-08-04T19:48:22.523795+00:00,49170076,43,Most tech revolutions made work worse for employees,13,0
+2026-08-04T19:48:22.523795+00:00,49170859,44,Most countries provide between 20 and 40 paid days off,53,51
+2026-08-04T19:48:22.523795+00:00,49170881,45,The applause that disrupted nothing – yet still led to an arrest,7,0
+2026-08-04T19:48:22.523795+00:00,49166308,46,"Homebench – Benchmark local LLMs for speed, memory, and quality",56,5
+2026-08-04T19:48:22.523795+00:00,49171404,47,"Show HN: SIEMatic, a fair-sourced observability and security platform",6,3
+2026-08-04T19:48:22.523795+00:00,49170293,48,"Rest in Peace, Heinz Stucke, Who Saw the World by Bike",9,0
+2026-08-04T19:48:22.523795+00:00,49172271,49,Data Centers Broke American Politics,19,1
+2026-08-04T19:48:22.523795+00:00,49172079,50,"Dataset: Dead mental health startups, 2000-2026, coded on 18 fields",29,14
