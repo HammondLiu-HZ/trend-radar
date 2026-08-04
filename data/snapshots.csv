@@ -23685,3 +23685,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-04T19:48:22.523795+00:00,49170293,48,"Rest in Peace, Heinz Stucke, Who Saw the World by Bike",9,0
 2026-08-04T19:48:22.523795+00:00,49172271,49,Data Centers Broke American Politics,19,1
 2026-08-04T19:48:22.523795+00:00,49172079,50,"Dataset: Dead mental health startups, 2000-2026, coded on 18 fields",29,14
+2026-08-04T21:20:11.970758+00:00,49171268,1,Mistral's Shieldstral: 3B open-weights model for multimodal moderation,169,49
+2026-08-04T21:20:11.970758+00:00,49170165,2,Show HN: Simple algorithm and color space to generate diverse skin tones,390,85
+2026-08-04T21:20:11.970758+00:00,49172836,3,Waymo – Dallas Open to All,145,135
+2026-08-04T21:20:11.970758+00:00,49173165,4,"In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",386,16
+2026-08-04T21:20:11.970758+00:00,49172550,5,Why some people mow a lawn better than others,129,110
+2026-08-04T21:20:11.970758+00:00,49127983,6,Don't stop early: Case-folding source code at memory speed,18,1
+2026-08-04T21:20:11.970758+00:00,49166386,7,DeepSeek V4 Flash on a Single AMD MI300X,339,87
+2026-08-04T21:20:11.970758+00:00,49172936,8,Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research,21,6
+2026-08-04T21:20:11.970758+00:00,49170915,9,When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation,56,61
+2026-08-04T21:20:11.970758+00:00,49172405,10,Hop.earth – OpenStreetMap based car racing game,57,28
+2026-08-04T21:20:11.970758+00:00,49166874,11,Keyv and friends compromised in active Shai-Hulud supply chain attack,213,108
+2026-08-04T21:20:11.970758+00:00,49113098,12,New cars are getting 1.2cm longer and 0.5cm taller each year,6,4
+2026-08-04T21:20:11.970758+00:00,49171766,13,The Warp Agent CLI,79,50
+2026-08-04T21:20:11.970758+00:00,49170479,14,Apple says more ex-employees may have taken confidential data to OpenAI,269,210
+2026-08-04T21:20:11.970758+00:00,49174407,16,Oxide Computer raises $445M (SEC Form D),36,10
+2026-08-04T21:20:11.970758+00:00,49167448,17,Xbox goes down. You can't play games you own on disc,512,552
+2026-08-04T21:20:11.970758+00:00,49172251,18,Vlt 1.0 and Hosted Package Registries,44,10
+2026-08-04T21:20:11.970758+00:00,49172597,19,Blackmail Fail (2013),20,2
+2026-08-04T21:20:11.970758+00:00,49172834,20,Web security is too hard,155,70
+2026-08-04T21:20:11.970758+00:00,49167147,21,Everything I Know (1975),120,31
+2026-08-04T21:20:11.970758+00:00,49164896,22,Harness engineering for self-improvement,279,59
+2026-08-04T21:20:11.970758+00:00,49136363,23,Dates That Don't Exist (2015),101,69
+2026-08-04T21:20:11.970758+00:00,49170508,24,Perspec 1.0,44,11
+2026-08-04T21:20:11.970758+00:00,49162653,25,There Will Come Soft Rains (1950) [pdf],323,359
+2026-08-04T21:20:11.970758+00:00,49171068,26,MariaDB: Promote getting to 10k GitHub stars in server log and client prompt,36,14
+2026-08-04T21:20:11.970758+00:00,49155622,27,The Red Strings Club,10,3
+2026-08-04T21:20:11.970758+00:00,49170001,28,"Online ad giant Adform was hacked, proving once again why ad blockers are needed",195,69
+2026-08-04T21:20:11.970758+00:00,49174369,29,Waymo CEO explains why Tesla’s camera-only self-driving falls short,21,29
+2026-08-04T21:20:11.970758+00:00,49170076,30,Most tech revolutions made work worse for employees,34,3
+2026-08-04T21:20:11.970758+00:00,49166918,31,Nobel Disease,91,93
+2026-08-04T21:20:11.970758+00:00,49166331,32,"""Clean"" Code, Horrible Performance (2023)",111,95
+2026-08-04T21:20:11.970758+00:00,49174932,33,Lua 5.5.1 Released,8,0
+2026-08-04T21:20:11.970758+00:00,49172076,34,How Cops Are Trying to Hide Their Use of Flock,66,0
+2026-08-04T21:20:11.970758+00:00,49161518,35,LLMs reward expertise,1301,537
+2026-08-04T21:20:11.970758+00:00,49104534,36,The Pedagogy Behind the Studio,8,1
+2026-08-04T21:20:11.970758+00:00,49170628,37,Cloudflare enforces engineering standards using AI,20,3
+2026-08-04T21:20:11.970758+00:00,49129545,38,Why etymologies matter: How tracing words can illuminate history (2024),90,18
+2026-08-04T21:20:11.970758+00:00,49166984,39,Show HN: Fine-tune an 8B model on a 4 GB laptop GPU,111,22
+2026-08-04T21:20:11.970758+00:00,49166442,40,Why Large Language Models Fail at Tabular Prediction,96,32
+2026-08-04T21:20:11.970758+00:00,49175066,41,Bypassing AI guardrails is so easy a script kiddie can do it,4,0
+2026-08-04T21:20:11.970758+00:00,49130117,42,Looking inside a 1970s PROM chip that stores data in microscopic fuses (2019),32,7
+2026-08-04T21:20:11.970758+00:00,49172433,43,AI Data Centers Are Driving Up Power Bills – This Map Shows Where,54,20
+2026-08-04T21:20:11.970758+00:00,49170881,44,The applause that disrupted nothing – yet still led to an arrest,11,1
+2026-08-04T21:20:11.970758+00:00,49103059,45,"RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]",37,8
+2026-08-04T21:20:11.970758+00:00,49170710,46,Bundling Bioweapons with Vite,9,1
+2026-08-04T21:20:11.970758+00:00,49170293,47,"Rest in Peace, Heinz Stucke, Who Saw the World by Bike",14,2
+2026-08-04T21:20:11.970758+00:00,49174900,48,Gwern reties from fulltime writing to launch Guardian Angel Inc,5,3
+2026-08-04T21:20:11.970758+00:00,49174543,49,SpaceX Reports Second Quarter 2026 Results [pdf],8,1
+2026-08-04T21:20:11.970758+00:00,49166182,50,Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal,84,83
