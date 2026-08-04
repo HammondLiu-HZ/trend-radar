@@ -23538,3 +23538,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-04T12:07:00.260038+00:00,49159970,48,KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer,74,12
 2026-08-04T12:07:00.260038+00:00,49126468,49,IPC-7351B Electronic Component Zero Orientation [pdf] (2010),13,4
 2026-08-04T12:07:00.260038+00:00,49119166,50,"RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",8,0
+2026-08-04T15:29:40.963407+00:00,49166491,1,"Ray Bradbury's ""There Will Come Soft Rains"" is set today (2026-08-04)",323,130
+2026-08-04T15:29:40.963407+00:00,49169783,2,FFmpeg 9.0,25,4
+2026-08-04T15:29:40.963407+00:00,49166386,3,DeepSeek V4 Flash on a Single AMD MI300X,232,54
+2026-08-04T15:29:40.963407+00:00,49169640,4,Agent skills that bring team coding standards to Claude Code and Codex,32,13
+2026-08-04T15:29:40.963407+00:00,49136363,5,Dates That Don't Exist (2015),32,17
+2026-08-04T15:29:40.963407+00:00,49161518,6,LLMs reward expertise,1193,494
+2026-08-04T15:29:40.963407+00:00,49166874,7,Keyv and friends compromised in active Shai-Hulud supply chain attack,94,32
+2026-08-04T15:29:40.963407+00:00,49167448,8,Xbox goes down. You can't play games you own on disc,301,319
+2026-08-04T15:29:40.963407+00:00,49167147,9,Buckminster Fuller: everything I know,66,21
+2026-08-04T15:29:40.963407+00:00,49170165,10,Show HN: Simple algorithm and color space to generate diverse skin tones,3,0
+2026-08-04T15:29:40.963407+00:00,49166984,11,Show HN: Fine-tune an 8B model on a 4 GB laptop GPU,67,8
+2026-08-04T15:29:40.963407+00:00,49164896,12,Harness Engineering for Self-Improvement,184,33
+2026-08-04T15:29:40.963407+00:00,49168886,14,Germany Records Historic 12B KWh Solar Feed-In in July 2026,7,1
+2026-08-04T15:29:40.963407+00:00,49166442,15,Why Large Language Models Fail at Tabular Prediction,54,14
+2026-08-04T15:29:40.963407+00:00,49166331,16,"""Clean"" Code, Horrible Performance (2023)",49,14
+2026-08-04T15:29:40.963407+00:00,49129545,17,Why etymologies matter: How tracing words can illuminate history (2024),48,10
+2026-08-04T15:29:40.963407+00:00,49158333,18,"Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",262,117
+2026-08-04T15:29:40.963407+00:00,49156969,19,Rebuilding and analysing 4 years of Wordle stats from WhatsApp chat logs,8,1
+2026-08-04T15:29:40.963407+00:00,49099336,20,Amazonian civilization had estimated 3M people in 3% of forest area,225,162
+2026-08-04T15:29:40.963407+00:00,49157930,21,Ten advances in mathematics and theoretical computer science,594,878
+2026-08-04T15:29:40.963407+00:00,49167113,22,AI-Generated Images Discourage Me from Reading Your Blog,547,316
+2026-08-04T15:29:40.963407+00:00,49124291,23,Where .env Went Wrong,40,23
+2026-08-04T15:29:40.963407+00:00,49156111,24,Devtools must be open source,673,221
+2026-08-04T15:29:40.963407+00:00,49166308,25,"Homebench – Benchmark local LLMs for speed, memory, and quality",30,1
+2026-08-04T15:29:40.963407+00:00,49170001,26,"Online ad giant Adform was hacked, proving once again why ad blockers are needed",8,0
+2026-08-04T15:29:40.963407+00:00,49162653,27,There Will Come Soft Rains (1950) [pdf],269,96
+2026-08-04T15:29:40.963407+00:00,49145480,28,Mosh in a Lift (2012),24,8
+2026-08-04T15:29:40.963407+00:00,49135005,29,Archaeologists Find Ancient Glyphs in the Amazon,30,10
+2026-08-04T15:29:40.963407+00:00,49166411,30,Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone,25,5
+2026-08-04T15:29:40.963407+00:00,49156750,31,Twenty Years of Pandoc,357,45
+2026-08-04T15:29:40.963407+00:00,49095386,32,That time when I failed the Microsoft interview,110,231
+2026-08-04T15:29:40.963407+00:00,49166202,33,FFmpeg 9.0,360,77
+2026-08-04T15:29:40.963407+00:00,49156683,34,Ask HN: Who is hiring? (August 2026),213,195
+2026-08-04T15:29:40.963407+00:00,49158581,35,"Smaller, faster, safer: running Kimi and GLM at scale",251,63
+2026-08-04T15:29:40.963407+00:00,49169590,36,"Less Protein, Not More, May Lead to Healthier Aging",8,6
+2026-08-04T15:29:40.963407+00:00,49155629,37,"MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",317,89
+2026-08-04T15:29:40.963407+00:00,49156682,38,Ask HN: Who wants to be hired? (August 2026),138,341
+2026-08-04T15:29:40.963407+00:00,49170101,39,Spotify just hit 300M Premium subscribers,3,0
+2026-08-04T15:29:40.963407+00:00,49119671,40,Beauty in my backyard,38,27
+2026-08-04T15:29:40.963407+00:00,49157997,41,Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents,75,60
+2026-08-04T15:29:40.963407+00:00,49156011,42,Andy Pavlo joins ClickHouse to establish ClickHouse Labs,323,68
+2026-08-04T15:29:40.963407+00:00,49166672,43,Safe Lock-free Primitives with iceoryx2's ByteAtomic,11,20
+2026-08-04T15:29:40.963407+00:00,49158474,44,Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years,172,46
+2026-08-04T15:29:40.963407+00:00,49152842,45,Bonsai: Janestreet's UI Library,371,150
+2026-08-04T15:29:40.963407+00:00,49132992,46,200 Milliseconds,310,94
+2026-08-04T15:29:40.963407+00:00,49165665,47,You don't need React: creating a minimal UI library in Vanilla JavaScript,107,93
+2026-08-04T15:29:40.963407+00:00,49151734,48,More German than many Germans,579,437
+2026-08-04T15:29:40.963407+00:00,49125168,49,Decades-old fish sauce at abandoned factory in Canada finally being removed,258,273
+2026-08-04T15:29:40.963407+00:00,49082937,50,How Hollywood stopped making movies in Hollywood,203,246
