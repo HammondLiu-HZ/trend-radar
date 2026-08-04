@@ -23440,3 +23440,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-04T06:34:53.457611+00:00,49158287,48,Use Task Runners for Common Coding Tasks,69,27
 2026-08-04T06:34:53.457611+00:00,49115935,49,Train Simulator Controller,101,8
 2026-08-04T06:34:53.457611+00:00,49107888,50,C++ float-to-int conversion can be undefined behavior,52,53
+2026-08-04T09:43:35.071483+00:00,49161518,1,LLMs reward expertise,939,397
+2026-08-04T09:43:35.071483+00:00,49164896,2,Harness Engineering for Self-Improvement,40,2
+2026-08-04T09:43:35.071483+00:00,49158333,3,"Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",179,77
+2026-08-04T09:43:35.071483+00:00,49099336,4,Amazonian civilization had estimated 3M people in 3% of forest area,152,116
+2026-08-04T09:43:35.071483+00:00,49157930,5,Ten advances in mathematics and theoretical computer science,537,825
+2026-08-04T09:43:35.071483+00:00,49156111,6,Devtools must be open source,606,206
+2026-08-04T09:43:35.071483+00:00,49165665,7,You don't need React: creating a minimal UI library in Vanilla JavaScript,6,0
+2026-08-04T09:43:35.071483+00:00,49095386,8,That time when I failed the Microsoft interview,60,95
+2026-08-04T09:43:35.071483+00:00,49162653,10,There Will Come Soft Rains (1950) [pdf],157,56
+2026-08-04T09:43:35.071483+00:00,49156683,11,Ask HN: Who is hiring? (August 2026),175,169
+2026-08-04T09:43:35.071483+00:00,49119671,12,Beauty in my backyard,22,4
+2026-08-04T09:43:35.071483+00:00,49153374,13,Prevent cognitive debt by manually retyping LLM-generated code,483,390
+2026-08-04T09:43:35.071483+00:00,49158581,14,"Smaller, faster, safer: running Kimi and GLM at scale",218,55
+2026-08-04T09:43:35.071483+00:00,49156682,15,Ask HN: Who wants to be hired? (August 2026),115,269
+2026-08-04T09:43:35.071483+00:00,49156750,16,Twenty Years of Pandoc,256,30
+2026-08-04T09:43:35.071483+00:00,49155629,17,"MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",296,85
+2026-08-04T09:43:35.071483+00:00,49157997,18,Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents,71,58
+2026-08-04T09:43:35.071483+00:00,49156011,19,Andy Pavlo joins ClickHouse to establish ClickHouse Labs,312,66
+2026-08-04T09:43:35.071483+00:00,49158474,20,Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years,164,43
+2026-08-04T09:43:35.071483+00:00,49162086,21,Windows XP 2002 for the Itanium: Unbridled rage,104,57
+2026-08-04T09:43:35.071483+00:00,49106935,22,Replacing the Kobo Libra H2O Battery,78,28
+2026-08-04T09:43:35.071483+00:00,49132992,23,200 Milliseconds,279,85
+2026-08-04T09:43:35.071483+00:00,49152842,24,Bonsai: Janestreet's UI Library,354,145
+2026-08-04T09:43:35.071483+00:00,49082937,25,How Hollywood stopped making movies in Hollywood,198,239
+2026-08-04T09:43:35.071483+00:00,49125168,26,Decades-old fish sauce at abandoned factory in Canada finally being removed,245,250
+2026-08-04T09:43:35.071483+00:00,49127492,27,Trembling Photons in Non-Abelian Electric Fields,5,0
+2026-08-04T09:43:35.071483+00:00,49151734,28,More German than many Germans,536,380
+2026-08-04T09:43:35.071483+00:00,49161801,29,ZX Spectrum System Tour: Text Mode,48,3
+2026-08-04T09:43:35.071483+00:00,49154228,30,AirLLM 70B inference with single 4GB GPU,220,80
+2026-08-04T09:43:35.071483+00:00,49119166,31,"RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",8,0
+2026-08-04T09:43:35.071483+00:00,49126468,32,IPC-7351B Electronic Component Zero Orientation [pdf] (2010),12,4
+2026-08-04T09:43:35.071483+00:00,49164649,33,Apple is getting this wrong,190,184
+2026-08-04T09:43:35.071483+00:00,49124213,34,Massively Parallel Postgres Backups,108,12
+2026-08-04T09:43:35.071483+00:00,49150470,35,Qwen3.8-Max: A New Bar for Coding and Cowork,1075,579
+2026-08-04T09:43:35.071483+00:00,49159970,36,KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer,72,9
+2026-08-04T09:43:35.071483+00:00,49165798,37,Bending Spoons entered definitive agreement to acquire Airtable for $1.28B,18,5
+2026-08-04T09:43:35.071483+00:00,49159676,38,ZX Spectrum System Tour: Sound,43,13
+2026-08-04T09:43:35.071483+00:00,49157786,39,What's the largest software project AI can complete on its own?,89,87
+2026-08-04T09:43:35.071483+00:00,49160437,40,The Dunning-Kruger effect may just be a data artefact (2020),145,161
+2026-08-04T09:43:35.071483+00:00,49131250,41,Battle of the Beams,54,15
+2026-08-04T09:43:35.071483+00:00,49162787,42,Why did we wait so long for the bicycle? (2019),45,41
+2026-08-04T09:43:35.071483+00:00,49165907,43,The Future of Gnome Boxes,4,1
+2026-08-04T09:43:35.071483+00:00,49126602,44,They Forgot What Happened Last Time: Hacking the Windows 365 Link [video],50,2
+2026-08-04T09:43:35.071483+00:00,49158714,45,The Billable Usage API: programmatic cost visibility for Cloudflare,52,9
+2026-08-04T09:43:35.071483+00:00,49161743,46,Ioskeley Mono,21,7
+2026-08-04T09:43:35.071483+00:00,49153361,47,"What DMARC Protects You From, and What It Does Not",131,30
+2026-08-04T09:43:35.071483+00:00,49154332,48,SQLite Critical CVEs or LLM Slop?,711,363
+2026-08-04T09:43:35.071483+00:00,49158141,49,SearXNG in Rust,68,22
+2026-08-04T09:43:35.071483+00:00,49152222,50,The AI Productivity Gap,122,107
