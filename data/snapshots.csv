@@ -23881,3 +23881,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-05T06:35:49.644550+00:00,49170508,48,Perspec 1.0,63,15
 2026-08-05T06:35:49.644550+00:00,49166386,49,DeepSeek V4 Flash on a Single AMD MI300X,368,93
 2026-08-05T06:35:49.644550+00:00,49178317,50,Some car companies are operating without regard for a declining customer base,36,60
+2026-08-05T09:42:19.461159+00:00,49131438,1,Stateless MCP has recaptured my interest,198,101
+2026-08-05T09:42:19.461159+00:00,49105978,2,“Gravity is worth asking about”,70,42
+2026-08-05T09:42:19.461159+00:00,49176038,3,Pi's Minimalism Is Its Advantage,362,140
+2026-08-05T09:42:19.461159+00:00,49171268,4,Mistral's Shieldstral: 3B open-weights model for multimodal moderation,415,108
+2026-08-05T09:42:19.461159+00:00,49178608,5,Zero-Mem: Zero-Token Memory Operations for LLM Agents,38,9
+2026-08-05T09:42:19.461159+00:00,49170165,6,Show HN: Simple algorithm and color space to generate diverse skin tones,531,92
+2026-08-05T09:42:19.461159+00:00,49124273,7,The Pneumatics of Hero of Alexandria,29,1
+2026-08-05T09:42:19.461159+00:00,49176697,8,IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay,108,16
+2026-08-05T09:42:19.461159+00:00,49173984,9,Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone,116,34
+2026-08-05T09:42:19.461159+00:00,49173165,10,"In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",1349,78
+2026-08-05T09:42:19.461159+00:00,49176830,11,Eight Myths on Software Engineering and GenAI,210,172
+2026-08-05T09:42:19.461159+00:00,49175924,12,"DuckDB – Data power tools for your laptop, now in Clojure (2023)",101,17
+2026-08-05T09:42:19.461159+00:00,49084236,13,"Rio-vt and librio: Rio's terminal engine, now embeddable",32,11
+2026-08-05T09:42:19.461159+00:00,49176947,14,Bugtraq is back,48,11
+2026-08-05T09:42:19.461159+00:00,49176055,15,"We finally learned to center a div, then browsers added sidebars",133,109
+2026-08-05T09:42:19.461159+00:00,49175826,16,AI fuels more than half of cybercrime in Africa as scams surge – Interpol,240,189
+2026-08-05T09:42:19.461159+00:00,49148646,17,I ran a 1998 artificial life SIM at 560x speed and caught a rare easter egg [video],5,0
+2026-08-05T09:42:19.461159+00:00,49176606,18,libexpat now funded by the City of Munich for up to 6 months,273,59
+2026-08-05T09:42:19.461159+00:00,49162653,19,There Will Come Soft Rains (1950) [pdf],383,403
+2026-08-05T09:42:19.461159+00:00,49145037,20,Video2NAND – Abusing video codecs for great computational power,62,11
+2026-08-05T09:42:19.461159+00:00,49172836,21,Waymo in Dallas,291,516
+2026-08-05T09:42:19.461159+00:00,49176920,22,Flowise is shutting down,50,31
+2026-08-05T09:42:19.461159+00:00,49125608,23,Colorimeter 3nh CR4501 RAL Hack,6,1
+2026-08-05T09:42:19.461159+00:00,49178464,24,An SLM trained on $8 ESP32-S3,28,9
+2026-08-05T09:42:19.461159+00:00,49176983,25,Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice,86,69
+2026-08-05T09:42:19.461159+00:00,49167448,26,Xbox goes down. You can't play games you own on disc,651,677
+2026-08-05T09:42:19.461159+00:00,49176212,27,Show HN: SIMD Viterbi Decoder in Rust,46,5
+2026-08-05T09:42:19.461159+00:00,49170915,28,When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation,99,97
+2026-08-05T09:42:19.461159+00:00,49127983,29,Don't stop early: Case-folding source code at memory speed,70,29
+2026-08-05T09:42:19.461159+00:00,49155605,30,Godox Transparent Viewfinder Camera C100,38,24
+2026-08-05T09:42:19.461159+00:00,49134241,31,From boiling lead and black art: The history of mathematical typography (2017),16,3
+2026-08-05T09:42:19.461159+00:00,49174407,32,Oxide Computer raises $445M (SEC Form D),243,149
+2026-08-05T09:42:19.461159+00:00,49167147,33,Everything I Know (1975),139,33
+2026-08-05T09:42:19.461159+00:00,49174900,35,I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel,275,186
+2026-08-05T09:42:19.461159+00:00,49161518,36,LLMs reward expertise,1354,558
+2026-08-05T09:42:19.461159+00:00,49166331,37,"""Clean"" Code, Horrible Performance (2023)",135,145
+2026-08-05T09:42:19.461159+00:00,49170881,38,The applause that disrupted nothing – yet still led to an arrest,55,5
+2026-08-05T09:42:19.461159+00:00,49175644,39,Amazon Germany to Accept Wero,26,5
+2026-08-05T09:42:19.461159+00:00,49170479,40,Apple says more ex-employees may have taken confidential data to OpenAI,365,262
+2026-08-05T09:42:19.461159+00:00,49123231,41,Why is it all in the kernel?,37,11
+2026-08-05T09:42:19.461159+00:00,49136363,42,Dates That Don't Exist (2015),119,79
+2026-08-05T09:42:19.461159+00:00,49175192,43,"Thanks FedEx, This Is Why We Keep Getting Phished (2024)",294,74
+2026-08-05T09:42:19.461159+00:00,49175868,44,Amiga clarifies Commodore rights and the future of AmigaOS,24,9
+2026-08-05T09:42:19.461159+00:00,49175461,45,Cloudflare Wallets: the programmable wallet for the agentic Internet,43,14
+2026-08-05T09:42:19.461159+00:00,49166386,46,DeepSeek V4 Flash on a Single AMD MI300X,370,95
+2026-08-05T09:42:19.461159+00:00,49170508,47,Perspec 1.0,69,16
+2026-08-05T09:42:19.461159+00:00,49172405,48,Hop.earth – OpenStreetMap based car racing game,83,42
+2026-08-05T09:42:19.461159+00:00,49172936,49,Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research,33,26
+2026-08-05T09:42:19.461159+00:00,49178759,50,"Compass, a local-first code graph built in Rust for humans and AI agents",5,1
