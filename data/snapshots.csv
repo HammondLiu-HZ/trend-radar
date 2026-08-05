@@ -23832,3 +23832,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-05T03:21:17.883985+00:00,49175246,48,Oxide RFD 284: Loading the Host Operating System,8,2
 2026-08-05T03:21:17.883985+00:00,49170628,49,Cloudflare enforces engineering standards using AI,39,5
 2026-08-05T03:21:17.883985+00:00,49171068,50,MariaDB: Promote getting to 10k GitHub stars in server log and client prompt,51,22
+2026-08-05T06:35:49.644550+00:00,49131438,1,Stateless MCP has recaptured my interest,82,40
+2026-08-05T06:35:49.644550+00:00,49176038,2,Pi's Minimalism Is Its Advantage,252,96
+2026-08-05T06:35:49.644550+00:00,49176830,3,Eight Myths on Software Engineering and GenAI,168,117
+2026-08-05T06:35:49.644550+00:00,49172784,4,The Golden Age of British Ice Cream,20,5
+2026-08-05T06:35:49.644550+00:00,49171268,5,Mistral's Shieldstral: 3B open-weights model for multimodal moderation,368,90
+2026-08-05T06:35:49.644550+00:00,49176697,6,IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay,84,11
+2026-08-05T06:35:49.644550+00:00,49105978,7,"""Gravity is worth asking about.""",6,0
+2026-08-05T06:35:49.644550+00:00,49176983,8,Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice,66,45
+2026-08-05T06:35:49.644550+00:00,49084236,9,"Rio-vt and librio: Rio's terminal engine, now embeddable",17,4
+2026-08-05T06:35:49.644550+00:00,49123231,10,Why is it all in the kernel?,16,6
+2026-08-05T06:35:49.644550+00:00,49170165,11,Show HN: Simple algorithm and color space to generate diverse skin tones,498,91
+2026-08-05T06:35:49.644550+00:00,49178702,12,The sale of Electronic Arts has been finalized,54,29
+2026-08-05T06:35:49.644550+00:00,49175924,13,"DuckDB – Data power tools for your laptop, now in Clojure (2023)",78,11
+2026-08-05T06:35:49.644550+00:00,49173165,14,"In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",1211,67
+2026-08-05T06:35:49.644550+00:00,49173984,15,Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone,89,25
+2026-08-05T06:35:49.644550+00:00,49178608,16,Zero-Mem: Zero-Token Memory Operations for LLM Agents,6,1
+2026-08-05T06:35:49.644550+00:00,49176947,17,Bugtraq is back,37,7
+2026-08-05T06:35:49.644550+00:00,49176606,18,libexpat now funded by the City of Munich for up to 6 months,240,31
+2026-08-05T06:35:49.644550+00:00,49175826,19,AI fuels more than half of cybercrime in Africa as scams surge – Interpol,190,150
+2026-08-05T06:35:49.644550+00:00,49178464,20,An SLM trained on $8 ESP32-S3,13,5
+2026-08-05T06:35:49.644550+00:00,49176055,21,"We finally learned to center a div, then browsers added sidebars",104,90
+2026-08-05T06:35:49.644550+00:00,49145037,22,Video2NAND – Abusing video codecs for great computational power,52,10
+2026-08-05T06:35:49.644550+00:00,49155605,23,Godox Transparent Viewfinder Camera C100,26,14
+2026-08-05T06:35:49.644550+00:00,49172836,24,Waymo in Dallas,281,470
+2026-08-05T06:35:49.644550+00:00,49176920,25,Flowise is shutting down,39,18
+2026-08-05T06:35:49.644550+00:00,49162653,26,There Will Come Soft Rains (1950) [pdf],373,392
+2026-08-05T06:35:49.644550+00:00,49174900,27,I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel,248,152
+2026-08-05T06:35:49.644550+00:00,49176212,28,Show HN: SIMD Viterbi Decoder in Rust,38,3
+2026-08-05T06:35:49.644550+00:00,49127983,29,Don't stop early: Case-folding source code at memory speed,63,23
+2026-08-05T06:35:49.644550+00:00,49170915,31,When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation,90,93
+2026-08-05T06:35:49.644550+00:00,49167448,32,Xbox goes down. You can't play games you own on disc,620,655
+2026-08-05T06:35:49.644550+00:00,49174407,33,Oxide Computer raises $445M (SEC Form D),236,127
+2026-08-05T06:35:49.644550+00:00,49134241,34,From boiling lead and black art: The history of mathematical typography (2017),11,3
+2026-08-05T06:35:49.644550+00:00,49167147,35,Everything I Know (1975),138,33
+2026-08-05T06:35:49.644550+00:00,49175248,36,Third-party cyber evaluations involving OpenAI models,47,7
+2026-08-05T06:35:49.644550+00:00,49175192,37,"Thanks FedEx, This Is Why We Keep Getting Phished (2024)",272,70
+2026-08-05T06:35:49.644550+00:00,49170479,38,Apple says more ex-employees may have taken confidential data to OpenAI,356,256
+2026-08-05T06:35:49.644550+00:00,49166331,39,"""Clean"" Code, Horrible Performance (2023)",129,132
+2026-08-05T06:35:49.644550+00:00,49170881,40,The applause that disrupted nothing – yet still led to an arrest,48,5
+2026-08-05T06:35:49.644550+00:00,49136363,41,Dates That Don't Exist (2015),117,77
+2026-08-05T06:35:49.644550+00:00,49172936,42,Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research,33,26
+2026-08-05T06:35:49.644550+00:00,49161518,43,LLMs reward expertise,1343,557
+2026-08-05T06:35:49.644550+00:00,49171766,44,The Warp Agent CLI,98,60
+2026-08-05T06:35:49.644550+00:00,49172405,45,Hop.earth – OpenStreetMap based car racing game,80,43
+2026-08-05T06:35:49.644550+00:00,49177554,46,"After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",72,72
+2026-08-05T06:35:49.644550+00:00,49175461,47,Cloudflare Wallets: the programmable wallet for the agentic Internet,38,14
+2026-08-05T06:35:49.644550+00:00,49170508,48,Perspec 1.0,63,15
+2026-08-05T06:35:49.644550+00:00,49166386,49,DeepSeek V4 Flash on a Single AMD MI300X,368,93
+2026-08-05T06:35:49.644550+00:00,49178317,50,Some car companies are operating without regard for a declining customer base,36,60
