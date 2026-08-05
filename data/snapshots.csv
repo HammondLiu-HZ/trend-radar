@@ -24176,3 +24176,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-05T21:19:52.612732+00:00,49113523,48,Birduino: A card-triggered audio player for [learning] the birds,49,9
 2026-08-05T21:19:52.612732+00:00,49109576,49,BSD Make extravaganza: Mandelbrot Set In bmake,31,3
 2026-08-05T21:19:52.612732+00:00,49176697,50,IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay,168,31
+2026-08-05T23:09:14.739542+00:00,49187256,1,Zed DeltaDB,247,113
+2026-08-05T23:09:14.739542+00:00,49184960,2,Discovery Loop,510,313
+2026-08-05T23:09:14.739542+00:00,49189287,3,The title cards in Blade Runner are amazing,62,13
+2026-08-05T23:09:14.739542+00:00,49184755,4,"Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",390,516
+2026-08-05T23:09:14.739542+00:00,49189234,5,NVIDIA’s Vera Whitepaper Has a Thread Loose,42,3
+2026-08-05T23:09:14.739542+00:00,49188022,6,I'm switching my phone from Android to Linux,138,103
+2026-08-05T23:09:14.739542+00:00,49186762,7,Beating GPT-5.6 Sol on retrieval with 100x cheaper open models,175,35
+2026-08-05T23:09:14.739542+00:00,49185983,8,"Atlassian Rovo Exfiltrates Data, Bypassing Controls",137,50
+2026-08-05T23:09:14.739542+00:00,49189075,9,Prime Agent: A self-improving RLM agent,53,6
+2026-08-05T23:09:14.739542+00:00,49187575,10,Muse Code and Muse Spark 1.2,131,77
+2026-08-05T23:09:14.739542+00:00,49146183,11,GNU Hurd News 2026-Q2,105,70
+2026-08-05T23:09:14.739542+00:00,49185430,12,"Celld: Self-hosted, distributed Durable Objects",120,18
+2026-08-05T23:09:14.739542+00:00,49125532,13,"Exact, parallel 2D Delaunay triangulation for int32 coordinates",11,1
+2026-08-05T23:09:14.739542+00:00,49126716,14,Goodhart's Law Comes for Every Benchmark You Trust,45,16
+2026-08-05T23:09:14.739542+00:00,49124917,15,Online Friends Are Real Friends,52,33
+2026-08-05T23:09:14.739542+00:00,49185389,16,Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod,36,24
+2026-08-05T23:09:14.739542+00:00,49187084,17,What happens if you put work into the second dimension?,34,29
+2026-08-05T23:09:14.739542+00:00,49187259,18,Sula: A Gemini protocol server written in Scryer Prolog,33,1
+2026-08-05T23:09:14.739542+00:00,49184216,19,The Valley of Webhooks,137,66
+2026-08-05T23:09:14.739542+00:00,49115096,20,Discovery of a multicomponent alloy forged by the Hiroshima atomic blast,98,38
+2026-08-05T23:09:14.739542+00:00,49183017,21,The Entropy of a Markov Chain,95,8
+2026-08-05T23:09:14.739542+00:00,49187977,22,Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery,204,159
+2026-08-05T23:09:14.739542+00:00,49182996,23,"Cloudflare OS: an open platform for agents, apps, and work",432,223
+2026-08-05T23:09:14.739542+00:00,49185931,24,Phishers are hijacking legitimate cloud infrastructure,38,13
+2026-08-05T23:09:14.739542+00:00,49183079,25,Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field,83,12
+2026-08-05T23:09:14.739542+00:00,49182946,26,Building an Advanced Agentic Harness,97,40
+2026-08-05T23:09:14.739542+00:00,49183115,27,"Aristotle quotes on virtue, knowledge, and happiness",146,66
+2026-08-05T23:09:14.739542+00:00,49182695,28,Painting with Gaussians,86,14
+2026-08-05T23:09:14.739542+00:00,49185215,29,Stop sending me your errors,38,3
+2026-08-05T23:09:14.739542+00:00,49181083,30,Position: LLMs Can't Jump,228,155
+2026-08-05T23:09:14.739542+00:00,49182685,31,Faster Than Ninja,82,28
+2026-08-05T23:09:14.739542+00:00,49181099,32,Civilian plane crash in New Mexico tied to military GPS blocking,442,238
+2026-08-05T23:09:14.739542+00:00,49184355,33,See the Sun like never before with most detailed images yet,30,2
+2026-08-05T23:09:14.739542+00:00,49183714,34,Proxmox VE now available for ARM64,38,11
+2026-08-05T23:09:14.739542+00:00,49187061,35,"Born Against, or why hobby programming communities are against LLM usage",114,126
+2026-08-05T23:09:14.739542+00:00,49183750,36,"Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18",169,118
+2026-08-05T23:09:14.739542+00:00,49187583,37,Show HN: My receipt printer prints an original artwork every morning,9,4
+2026-08-05T23:09:14.739542+00:00,49186720,38,Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025),65,49
+2026-08-05T23:09:14.739542+00:00,49184370,39,What went wrong with data lakes? A 15-year reality check,28,5
+2026-08-05T23:09:14.739542+00:00,49125602,40,Energizing a vacuum-tube flip-flop module from a 1948 IBM system,43,9
+2026-08-05T23:09:14.739542+00:00,49173175,41,The Law of Jante (2015),24,2
+2026-08-05T23:09:14.739542+00:00,49112023,42,Scaling NumPy on Free-Threaded Python,87,12
+2026-08-05T23:09:14.739542+00:00,49182041,43,"TIME Is Serving AI Bots a Different Website, with Ads Built In",225,93
+2026-08-05T23:09:14.739542+00:00,49189030,44,A Fed official is asking whether AI is becoming 'too big to fail',14,4
+2026-08-05T23:09:14.739542+00:00,49186732,45,Show HN: ClickBench Playground – a playground for 110 database systems,16,4
+2026-08-05T23:09:14.739542+00:00,49105978,46,“Gravity is worth asking about”,194,120
+2026-08-05T23:09:14.739542+00:00,49190059,47,Iran threatens to hit Gulf states if US launches new strikes,8,3
+2026-08-05T23:09:14.739542+00:00,49176192,48,Western Sahara,110,73
+2026-08-05T23:09:14.739542+00:00,49187663,49,Ban the Throbber,28,8
+2026-08-05T23:09:14.739542+00:00,49148176,50,Bubble Memory,74,23
