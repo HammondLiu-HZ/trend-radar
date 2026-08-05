@@ -23979,3 +23979,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-05T12:04:48.172974+00:00,49172936,48,Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research,37,26
 2026-08-05T12:04:48.172974+00:00,49176983,49,Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice,95,82
 2026-08-05T12:04:48.172974+00:00,49166386,50,DeepSeek V4 Flash on a Single AMD MI300X,373,100
+2026-08-05T15:20:59.753242+00:00,49182996,1,"Cloudflare OS: an open platform for agents, apps, and work",157,76
+2026-08-05T15:20:59.753242+00:00,49183115,2,"Aristotle quotes on virtue, knowledge, and happiness",35,12
+2026-08-05T15:20:59.753242+00:00,49182946,3,Building an Advanced Agentic Harness,26,15
+2026-08-05T15:20:59.753242+00:00,49183017,4,The Entropy of a Markov Chain,19,0
+2026-08-05T15:20:59.753242+00:00,49181083,5,Position: LLMs Can't Jump,153,98
+2026-08-05T15:20:59.753242+00:00,49182685,6,Faster Than Ninja,26,1
+2026-08-05T15:20:59.753242+00:00,49183076,7,Intelligence Is Not the Main Bottleneck,18,3
+2026-08-05T15:20:59.753242+00:00,49181519,8,Why Erdős Problems Are Falling to AI,87,63
+2026-08-05T15:20:59.753242+00:00,49182695,9,Painting with Gaussians,13,0
+2026-08-05T15:20:59.753242+00:00,49181099,10,Civilian plane crash in New Mexico tied to military GPS blocking,280,132
+2026-08-05T15:20:59.753242+00:00,49184083,11,Cloudflare OS,5,1
+2026-08-05T15:20:59.753242+00:00,49183069,12,"TSON – A JSON superset with immutable, hash-pinned schemas",24,15
+2026-08-05T15:20:59.753242+00:00,49182586,13,Google's HTTP/2 codec slows Envoy,23,0
+2026-08-05T15:20:59.753242+00:00,49183953,14,"Citigroup, Idaho, and Build-a-Bear Launched a Coordinated Attack on Me",3,1
+2026-08-05T15:20:59.753242+00:00,49115096,15,Discovery of a multicomponent alloy forged by the Hiroshima atomic blast,11,0
+2026-08-05T15:20:59.753242+00:00,49182041,16,"TIME Is Serving AI Bots a Different Website, with Ads Built In",129,43
+2026-08-05T15:20:59.753242+00:00,49182551,17,Cloudflare OS – an open-source AI productivity environment,19,3
+2026-08-05T15:20:59.753242+00:00,49131438,18,Stateless MCP has recaptured my interest,330,187
+2026-08-05T15:20:59.753242+00:00,49182957,19,Not hiring junior engineers won't solve the problem you think you have,44,46
+2026-08-05T15:20:59.753242+00:00,49183089,20,Got a hot date? A secondhand SK Hynix jacket is perfect as bonuses raise cachet,5,0
+2026-08-05T15:20:59.753242+00:00,49183079,21,Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field,11,1
+2026-08-05T15:20:59.753242+00:00,49112023,22,Scaling NumPy on Free-Threaded Python,64,11
+2026-08-05T15:20:59.753242+00:00,49105978,23,“Gravity is worth asking about”,168,102
+2026-08-05T15:20:59.753242+00:00,49182560,24,KTX Images Converter for WebGL/GPU and Threejs,5,1
+2026-08-05T15:20:59.753242+00:00,49176038,25,Pi's Minimalism Is Its Advantage,478,249
+2026-08-05T15:20:59.753242+00:00,49171268,26,Mistral's Shieldstral: 3B open-weights model for multimodal moderation,462,124
+2026-08-05T15:20:59.753242+00:00,49109576,27,BSD Make extravaganza: Mandelbrot Set In bmake,14,0
+2026-08-05T15:20:59.753242+00:00,49148176,28,Bubble Memory,55,19
+2026-08-05T15:20:59.753242+00:00,49113523,29,Birduino: A card-triggered audio player for [learning] the birds,38,6
+2026-08-05T15:20:59.753242+00:00,49184041,30,Google Assistant is going away on Mobile Devices,7,1
+2026-08-05T15:20:59.753242+00:00,49170165,31,Show HN: Simple algorithm and color space to generate diverse skin tones,582,99
+2026-08-05T15:20:59.753242+00:00,49182971,32,OpenAI settles claims of discrimination against US workers for $3.2M,14,4
+2026-08-05T15:20:59.753242+00:00,49176697,33,IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay,153,25
+2026-08-05T15:20:59.753242+00:00,49183987,34,"Macron's ""Free speech is pure bullshit."" and the hand that hollows free speech",4,0
+2026-08-05T15:20:59.753242+00:00,49182229,36,Drone carrying explosive device causes disruption at major German airport,28,8
+2026-08-05T15:20:59.753242+00:00,49178608,37,Zero-Mem: Zero-Token Memory Operations for LLM Agents,79,12
+2026-08-05T15:20:59.753242+00:00,49173165,38,"In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",1538,91
+2026-08-05T15:20:59.753242+00:00,49173984,39,Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone,157,49
+2026-08-05T15:20:59.753242+00:00,49124273,40,The Pneumatics of Hero of Alexandria (1851),46,9
+2026-08-05T15:20:59.753242+00:00,49175924,41,"DuckDB – Data power tools for your laptop, now in Clojure (2023)",140,20
+2026-08-05T15:20:59.753242+00:00,49183460,42,People who tell you 'AI is changing everything' are lying,19,8
+2026-08-05T15:20:59.753242+00:00,49180407,43,Helsinki Hacker News Meetup,166,118
+2026-08-05T15:20:59.753242+00:00,49181773,44,Anthropic AI created fake profiles and impersonated people in attempted hack,32,17
+2026-08-05T15:20:59.753242+00:00,49178464,45,An SLM trained on $8 ESP32-S3,59,17
+2026-08-05T15:20:59.753242+00:00,49162653,46,There Will Come Soft Rains (1950) [pdf],409,416
+2026-08-05T15:20:59.753242+00:00,49176947,47,Bugtraq is back,70,24
+2026-08-05T15:20:59.753242+00:00,49176055,48,"We finally learned to center a div, then browsers added sidebars",169,137
+2026-08-05T15:20:59.753242+00:00,49123231,49,Why is it all in the kernel?,72,31
+2026-08-05T15:20:59.753242+00:00,49183820,50,Microsoft Tells Engineers 'Tokenmaxxing Is Not What We Are Optimizing For',3,1
