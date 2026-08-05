@@ -24028,3 +24028,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-05T15:20:59.753242+00:00,49176055,48,"We finally learned to center a div, then browsers added sidebars",169,137
 2026-08-05T15:20:59.753242+00:00,49123231,49,Why is it all in the kernel?,72,31
 2026-08-05T15:20:59.753242+00:00,49183820,50,Microsoft Tells Engineers 'Tokenmaxxing Is Not What We Are Optimizing For',3,1
+2026-08-05T17:48:54.601786+00:00,49184960,1,Discovery Loop,162,62
+2026-08-05T17:48:54.601786+00:00,49183850,2,Qwen 3.0 Image Pro,142,40
+2026-08-05T17:48:54.601786+00:00,49183750,3,Oracle Just Halved Its Always Free ARM Limits,103,67
+2026-08-05T17:48:54.601786+00:00,49184757,4,Google DeepMind CEO Demis Hassabis is stepping down,308,183
+2026-08-05T17:48:54.601786+00:00,49183115,5,"Aristotle quotes on virtue, knowledge, and happiness",104,30
+2026-08-05T17:48:54.601786+00:00,49184746,6,Jeff Dean leaving Alphabet,226,50
+2026-08-05T17:48:54.601786+00:00,49182996,7,"Cloudflare OS: an open platform for agents, apps, and work",311,173
+2026-08-05T17:48:54.601786+00:00,49184190,8,Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search,253,127
+2026-08-05T17:48:54.601786+00:00,49185389,9,Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod,10,5
+2026-08-05T17:48:54.601786+00:00,49176192,10,Western Sahara,43,15
+2026-08-05T17:48:54.601786+00:00,49184755,11,The next chapter of our AI momentum,60,40
+2026-08-05T17:48:54.601786+00:00,49183665,12,"The ""Disability Dongle"": Why Silicon Valley Hates Me and You",100,70
+2026-08-05T17:48:54.601786+00:00,49184216,13,The Valley of Webhooks,31,13
+2026-08-05T17:48:54.601786+00:00,49115096,14,Discovery of a multicomponent alloy forged by the Hiroshima atomic blast,51,14
+2026-08-05T17:48:54.601786+00:00,49183017,15,The Entropy of a Markov Chain,55,2
+2026-08-05T17:48:54.601786+00:00,49182946,16,Building an Advanced Agentic Harness,58,28
+2026-08-05T17:48:54.601786+00:00,49182695,17,Painting with Gaussians,46,5
+2026-08-05T17:48:54.601786+00:00,49183079,18,Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field,42,3
+2026-08-05T17:48:54.601786+00:00,49184879,19,Jeff Dean Leaving Google,58,3
+2026-08-05T17:48:54.601786+00:00,49185880,20,"AI is a bubble, just like dot-com",6,0
+2026-08-05T17:48:54.601786+00:00,49183076,21,Intelligence Is Not the Main Bottleneck,93,69
+2026-08-05T17:48:54.601786+00:00,49181099,22,Civilian plane crash in New Mexico tied to military GPS blocking,350,171
+2026-08-05T17:48:54.601786+00:00,49143048,23,"When ""no healthy upstream"" isn't about the upstream you think",4,0
+2026-08-05T17:48:54.601786+00:00,49183069,24,"TSON – A JSON superset with immutable, hash-pinned schemas",45,39
+2026-08-05T17:48:54.601786+00:00,49182685,25,Faster Than Ninja,52,17
+2026-08-05T17:48:54.601786+00:00,49181083,26,Position: LLMs Can't Jump,182,128
+2026-08-05T17:48:54.601786+00:00,49131438,27,Stateless MCP has recaptured my interest,351,200
+2026-08-05T17:48:54.601786+00:00,49173175,28,The Law of Jante (2015),12,1
+2026-08-05T17:48:54.601786+00:00,49182041,29,"TIME Is Serving AI Bots a Different Website, with Ads Built In",181,72
+2026-08-05T17:48:54.601786+00:00,49125602,30,Energizing a vacuum-tube flip-flop module from a 1948 IBM system,26,3
+2026-08-05T17:48:54.601786+00:00,49181519,31,Why Erdős Problems Are Falling to AI,113,104
+2026-08-05T17:48:54.601786+00:00,49112023,32,Scaling NumPy on Free-Threaded Python,77,11
+2026-08-05T17:48:54.601786+00:00,49134756,33,What is distributed Key Generation (DKG)?,6,0
+2026-08-05T17:48:54.601786+00:00,49105978,34,“Gravity is worth asking about”,187,115
+2026-08-05T17:48:54.601786+00:00,49109576,35,BSD Make extravaganza: Mandelbrot Set In bmake,25,3
+2026-08-05T17:48:54.601786+00:00,49148176,36,Bubble Memory,65,22
+2026-08-05T17:48:54.601786+00:00,49113523,37,Birduino: A card-triggered audio player for [learning] the birds,45,8
+2026-08-05T17:48:54.601786+00:00,49183912,38,Microsoft Is Quietly Deleting Mentions of 32 GB RAM Recommendation for Win 11,31,10
+2026-08-05T17:48:54.601786+00:00,49185591,39,"Senators demand crackdown on wildfire ""prediction market"" bets",8,3
+2026-08-05T17:48:54.601786+00:00,49182957,40,Not hiring junior engineers won't solve the problem you think you have,76,84
+2026-08-05T17:48:54.601786+00:00,49176697,41,IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay,159,27
+2026-08-05T17:48:54.601786+00:00,49182451,42,A hand-drawn illustration skill for any articles,11,0
+2026-08-05T17:48:54.601786+00:00,49181916,43,Proxmox Virtual Environment now available for 64-bit ARM (ARM64),18,3
+2026-08-05T17:48:54.601786+00:00,49181862,44,Better Posture Linked to Better Decision Making and Mood,11,1
+2026-08-05T17:48:54.601786+00:00,49178608,45,Zero-Mem: Zero-Token Memory Operations for LLM Agents,80,12
+2026-08-05T17:48:54.601786+00:00,49175924,46,"DuckDB – Data power tools for your laptop, now in Clojure (2023)",142,20
+2026-08-05T17:48:54.601786+00:00,49184185,47,Lawmaker Who Wants Data Center Pause Wins Kansas Democratic Primary,17,1
+2026-08-05T17:48:54.601786+00:00,49124273,48,The Pneumatics of Hero of Alexandria (1851),49,10
+2026-08-05T17:48:54.601786+00:00,49183953,50,International Revenue Share Fraud (IRSF),53,16
