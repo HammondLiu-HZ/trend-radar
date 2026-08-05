@@ -24077,3 +24077,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-05T17:48:54.601786+00:00,49184185,47,Lawmaker Who Wants Data Center Pause Wins Kansas Democratic Primary,17,1
 2026-08-05T17:48:54.601786+00:00,49124273,48,The Pneumatics of Hero of Alexandria (1851),49,10
 2026-08-05T17:48:54.601786+00:00,49183953,50,International Revenue Share Fraud (IRSF),53,16
+2026-08-05T19:46:22.808247+00:00,49184960,1,Discovery Loop,353,204
+2026-08-05T19:46:22.808247+00:00,49187256,2,Zed DeltaDB,79,17
+2026-08-05T19:46:22.808247+00:00,49184755,3,"Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",202,365
+2026-08-05T19:46:22.808247+00:00,49186762,4,Beating GPT-5.6 Sol on retrieval with 100x cheaper open models,66,12
+2026-08-05T19:46:22.808247+00:00,49185983,5,"Atlassian Rovo Exfiltrates Data, Bypassing Controls",59,16
+2026-08-05T19:46:22.808247+00:00,49187575,6,Muse Code and Muse Spark 1.2,19,9
+2026-08-05T19:46:22.808247+00:00,49187061,7,"Born Against, or why hobby programming communities are against LLM usage",58,50
+2026-08-05T19:46:22.808247+00:00,49146183,8,GNU Hurd News 2026-Q2,40,19
+2026-08-05T19:46:22.808247+00:00,49186767,9,Show HN: Hacker News with reduced priority for AI driven content,18,7
+2026-08-05T19:46:22.808247+00:00,49185430,10,"Celld: Self-hosted, distributed Durable Objects",41,1
+2026-08-05T19:46:22.808247+00:00,49185389,11,Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod,29,18
+2026-08-05T19:46:22.808247+00:00,49184216,12,The Valley of Webhooks,79,32
+2026-08-05T19:46:22.808247+00:00,49176192,13,Western Sahara,83,49
+2026-08-05T19:46:22.808247+00:00,49185931,14,Phishers are hijacking legitimate cloud infrastructure,23,6
+2026-08-05T19:46:22.808247+00:00,49187259,15,Sula: A Gemini protocol server written in Scryer Prolog,7,0
+2026-08-05T19:46:22.808247+00:00,49115096,16,Discovery of a multicomponent alloy forged by the Hiroshima atomic blast,76,25
+2026-08-05T19:46:22.808247+00:00,49182996,17,"Cloudflare OS: an open platform for agents, apps, and work",365,201
+2026-08-05T19:46:22.808247+00:00,49126716,18,Goodhart's Law Comes for Every Benchmark You Trust,6,0
+2026-08-05T19:46:22.808247+00:00,49185370,19,I’m leaving OpenAI to build telepathy,41,66
+2026-08-05T19:46:22.808247+00:00,49183017,20,The Entropy of a Markov Chain,72,3
+2026-08-05T19:46:22.808247+00:00,49183115,21,"Aristotle quotes on virtue, knowledge, and happiness",128,50
+2026-08-05T19:46:22.808247+00:00,49186766,22,"Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",43,9
+2026-08-05T19:46:22.808247+00:00,49186720,23,Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025),21,7
+2026-08-05T19:46:22.808247+00:00,49187084,24,What happens if you put work into the second dimension?,4,0
+2026-08-05T19:46:22.808247+00:00,49182946,25,Building an Advanced Agentic Harness,72,37
+2026-08-05T19:46:22.808247+00:00,49183079,26,Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field,60,8
+2026-08-05T19:46:22.808247+00:00,49182695,27,Painting with Gaussians,66,12
+2026-08-05T19:46:22.808247+00:00,49183750,28,"Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18",147,100
+2026-08-05T19:46:22.808247+00:00,49182685,29,Faster Than Ninja,69,26
+2026-08-05T19:46:22.808247+00:00,49181083,30,Position: LLMs Can't Jump,207,140
+2026-08-05T19:46:22.808247+00:00,49181099,31,Civilian plane crash in New Mexico tied to military GPS blocking,404,198
+2026-08-05T19:46:22.808247+00:00,49173175,32,The Law of Jante (2015),21,2
+2026-08-05T19:46:22.808247+00:00,49125602,33,Energizing a vacuum-tube flip-flop module from a 1948 IBM system,38,9
+2026-08-05T19:46:22.808247+00:00,49187663,34,Ban the Throbber,9,1
+2026-08-05T19:46:22.808247+00:00,49185215,35,Stop Sending Me Your Errors,14,0
+2026-08-05T19:46:22.808247+00:00,49183714,36,Proxmox VE now available for ARM64,17,9
+2026-08-05T19:46:22.808247+00:00,49186732,37,Show HN: ClickBench Playground – a playground for 110 database systems,3,1
+2026-08-05T19:46:22.808247+00:00,49182041,38,"TIME Is Serving AI Bots a Different Website, with Ads Built In",213,89
+2026-08-05T19:46:22.808247+00:00,49187266,39,You're not uncool. Making friends as an adult is just hard (2021),11,4
+2026-08-05T19:46:22.808247+00:00,49112023,40,Scaling NumPy on Free-Threaded Python,81,12
+2026-08-05T19:46:22.808247+00:00,49184370,41,What went wrong with data lakes? A 15-year reality check,12,0
+2026-08-05T19:46:22.808247+00:00,49184355,42,See the Sun like never before with most detailed images yet,11,0
+2026-08-05T19:46:22.808247+00:00,49105978,43,“Gravity is worth asking about”,191,117
+2026-08-05T19:46:22.808247+00:00,49187421,44,"""AI"" will never become conscious",8,1
+2026-08-05T19:46:22.808247+00:00,49143048,45,"When ""no healthy upstream"" isn't about the upstream you think",6,7
+2026-08-05T19:46:22.808247+00:00,49185151,46,Detach from your work to make it work,6,0
+2026-08-05T19:46:22.808247+00:00,49187104,48,"London cops handed victim's new address and number to her stalker, watchdog says",12,1
+2026-08-05T19:46:22.808247+00:00,49148176,49,Bubble Memory,67,21
+2026-08-05T19:46:22.808247+00:00,49109576,50,BSD Make extravaganza: Mandelbrot Set In bmake,28,3
