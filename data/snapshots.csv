@@ -23930,3 +23930,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-05T09:42:19.461159+00:00,49172405,48,Hop.earth – OpenStreetMap based car racing game,83,42
 2026-08-05T09:42:19.461159+00:00,49172936,49,Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research,33,26
 2026-08-05T09:42:19.461159+00:00,49178759,50,"Compass, a local-first code graph built in Rust for humans and AI agents",5,1
+2026-08-05T12:04:48.172974+00:00,49181083,1,Position: LLMs Can't Jump,27,8
+2026-08-05T12:04:48.172974+00:00,49181099,2,Civilian plane crash in New Mexico tied to military GPS blocking,77,16
+2026-08-05T12:04:48.172974+00:00,49131438,3,Stateless MCP has recaptured my interest,267,143
+2026-08-05T12:04:48.172974+00:00,49180407,4,Helsinki Hacker News Meetup,115,62
+2026-08-05T12:04:48.172974+00:00,49105978,5,“Gravity is worth asking about”,131,78
+2026-08-05T12:04:48.172974+00:00,49176038,6,Pi's Minimalism Is Its Advantage,414,190
+2026-08-05T12:04:48.172974+00:00,49171268,7,Mistral's Shieldstral: 3B open-weights model for multimodal moderation,443,112
+2026-08-05T12:04:48.172974+00:00,49170165,8,Show HN: Simple algorithm and color space to generate diverse skin tones,552,95
+2026-08-05T12:04:48.172974+00:00,49113523,9,Birduino: A card-triggered audio player for [learning] the birds,13,2
+2026-08-05T12:04:48.172974+00:00,49178608,10,Zero-Mem: Zero-Token Memory Operations for LLM Agents,58,10
+2026-08-05T12:04:48.172974+00:00,49112023,11,Scaling NumPy on Free-Threaded Python,11,1
+2026-08-05T12:04:48.172974+00:00,49124273,12,The Pneumatics of Hero of Alexandria (1851),36,3
+2026-08-05T12:04:48.172974+00:00,49176697,13,IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay,131,19
+2026-08-05T12:04:48.172974+00:00,49173984,14,Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone,142,42
+2026-08-05T12:04:48.172974+00:00,49173165,15,"In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",1447,83
+2026-08-05T12:04:48.172974+00:00,49175924,16,"DuckDB – Data power tools for your laptop, now in Clojure (2023)",121,17
+2026-08-05T12:04:48.172974+00:00,49176830,17,Eight Myths on Software Engineering and GenAI,233,192
+2026-08-05T12:04:48.172974+00:00,49084236,18,"Rio-vt and librio: Rio's terminal engine, now embeddable",41,14
+2026-08-05T12:04:48.172974+00:00,49176947,19,Bugtraq is back,56,18
+2026-08-05T12:04:48.172974+00:00,49178464,20,An SLM trained on $8 ESP32-S3,43,15
+2026-08-05T12:04:48.172974+00:00,49176055,21,"We finally learned to center a div, then browsers added sidebars",148,121
+2026-08-05T12:04:48.172974+00:00,49123231,22,Why is it all in the kernel?,56,19
+2026-08-05T12:04:48.172974+00:00,49181191,23,Polling shows a growing political reckoning is coming for data centers,8,5
+2026-08-05T12:04:48.172974+00:00,49162653,24,There Will Come Soft Rains (1950) [pdf],395,406
+2026-08-05T12:04:48.172974+00:00,49175826,25,AI fuels more than half of cybercrime in Africa as scams surge – Interpol,262,203
+2026-08-05T12:04:48.172974+00:00,49145037,26,Video2NAND – Abusing video codecs for great computational power,73,16
+2026-08-05T12:04:48.172974+00:00,49176606,27,libexpat now funded by the City of Munich for up to 6 months,300,66
+2026-08-05T12:04:48.172974+00:00,49172836,28,Waymo in Dallas,302,548
+2026-08-05T12:04:48.172974+00:00,49155605,29,Godox Transparent Viewfinder Camera C100,51,33
+2026-08-05T12:04:48.172974+00:00,49125608,30,Colorimeter 3nh CR4501 RAL Hack,16,3
+2026-08-05T12:04:48.172974+00:00,49167448,31,Xbox goes down. You can't play games you own on disc,670,703
+2026-08-05T12:04:48.172974+00:00,49176212,32,Show HN: SIMD Viterbi Decoder in Rust,56,10
+2026-08-05T12:04:48.172974+00:00,49170915,33,When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation,102,99
+2026-08-05T12:04:48.172974+00:00,49127983,34,Don't stop early: Case-folding source code at memory speed,72,31
+2026-08-05T12:04:48.172974+00:00,49161518,36,LLMs reward expertise,1357,561
+2026-08-05T12:04:48.172974+00:00,49180688,37,"OpenAI, Anthropic AI Models Breached Systems During UK Safety Tests",7,0
+2026-08-05T12:04:48.172974+00:00,49167147,38,Everything I Know (1975),142,33
+2026-08-05T12:04:48.172974+00:00,49166331,39,"""Clean"" Code, Horrible Performance (2023)",139,158
+2026-08-05T12:04:48.172974+00:00,49175461,40,Cloudflare Wallets: the programmable wallet for the agentic Internet,49,15
+2026-08-05T12:04:48.172974+00:00,49134241,41,From boiling lead and black art: The history of mathematical typography (2017),17,3
+2026-08-05T12:04:48.172974+00:00,49174407,42,Oxide Computer raises $445M (SEC Form D),246,159
+2026-08-05T12:04:48.172974+00:00,49170881,43,The applause that disrupted nothing – yet still led to an arrest,58,7
+2026-08-05T12:04:48.172974+00:00,49175868,44,Amiga clarifies Commodore rights and the future of AmigaOS,31,10
+2026-08-05T12:04:48.172974+00:00,49170479,45,Apple says more ex-employees may have taken confidential data to OpenAI,368,266
+2026-08-05T12:04:48.172974+00:00,49136363,46,Dates That Don't Exist (2015),121,80
+2026-08-05T12:04:48.172974+00:00,49175644,47,Amazon Germany to Accept Wero,32,10
+2026-08-05T12:04:48.172974+00:00,49172936,48,Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research,37,26
+2026-08-05T12:04:48.172974+00:00,49176983,49,Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice,95,82
+2026-08-05T12:04:48.172974+00:00,49166386,50,DeepSeek V4 Flash on a Single AMD MI300X,373,100
