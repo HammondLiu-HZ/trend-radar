@@ -24376,3 +24376,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-06T09:44:56.814461+00:00,49183714,48,Proxmox VE now available for ARM64,64,20
 2026-08-06T09:44:56.814461+00:00,49187084,49,What happens if you put work into the second dimension?,62,52
 2026-08-06T09:44:56.814461+00:00,49181099,50,Civilian plane crash in New Mexico tied to military GPS blocking,471,248
+2026-08-06T12:07:51.597012+00:00,49168622,1,How to Make a Nintendo 64 Game in 2026,179,42
+2026-08-06T12:07:51.597012+00:00,49192566,2,Crime Pays but Botany Doesn't,299,108
+2026-08-06T12:07:51.597012+00:00,49096439,3,Pareto Front,39,18
+2026-08-06T12:07:51.597012+00:00,49184960,4,Discovery Loop,783,489
+2026-08-06T12:07:51.597012+00:00,49193314,5,Let's all meet up in the Y2K,81,36
+2026-08-06T12:07:51.597012+00:00,49184755,6,"Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",697,739
+2026-08-06T12:07:51.597012+00:00,49187256,7,Zed DeltaDB,456,242
+2026-08-06T12:07:51.597012+00:00,49193173,8,"On non-rooted Android 17, ADB uninstall of system apps fails",61,15
+2026-08-06T12:07:51.597012+00:00,49189287,9,The title cards in Blade Runner are amazing,300,144
+2026-08-06T12:07:51.597012+00:00,49187575,10,Muse Code and Muse Spark 1.2,270,168
+2026-08-06T12:07:51.597012+00:00,49186762,11,Beating GPT-5.6 Sol on retrieval with 100x cheaper open models,340,82
+2026-08-06T12:07:51.597012+00:00,49151991,12,Branchless Rust: Making a Filter 4x Faster by Removing an If,208,58
+2026-08-06T12:07:51.597012+00:00,49195244,13,"How Americans View Capitalism, Socialism and Free Enterprise",27,20
+2026-08-06T12:07:51.597012+00:00,49187061,14,"Born Against, or why hobby programming communities are against LLM usage",293,304
+2026-08-06T12:07:51.597012+00:00,49182996,15,"Cloudflare OS: an open platform for agents, apps, and work",574,278
+2026-08-06T12:07:51.597012+00:00,49189075,16,Prime Agent: A self-improving RLM agent,190,40
+2026-08-06T12:07:51.597012+00:00,49193673,17,What I love about Django,98,74
+2026-08-06T12:07:51.597012+00:00,49112348,18,Quantego: A Family of Lego Models of IBM Quantum Computers,38,19
+2026-08-06T12:07:51.597012+00:00,49129551,19,Morioka Shoten,20,8
+2026-08-06T12:07:51.597012+00:00,49185983,20,"Atlassian Rovo Exfiltrates Data, Bypassing Controls",248,97
+2026-08-06T12:07:51.597012+00:00,49189234,21,NVIDIA’s Vera Whitepaper Has a Thread Loose,143,31
+2026-08-06T12:07:51.597012+00:00,49185430,22,"Celld: Self-hosted, distributed Durable Objects",235,38
+2026-08-06T12:07:51.597012+00:00,49146183,23,GNU Hurd News 2026-Q2,187,128
+2026-08-06T12:07:51.597012+00:00,49129008,24,Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer,40,2
+2026-08-06T12:07:51.597012+00:00,49191624,25,Nashville uses eminent domain to block data center near zoo,258,310
+2026-08-06T12:07:51.597012+00:00,49185389,26,Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod,59,41
+2026-08-06T12:07:51.597012+00:00,49157792,27,Decimen Optical Transfer: fountain-coded QR file transfer,31,21
+2026-08-06T12:07:51.597012+00:00,49188022,28,I'm switching my phone from Android to Linux,360,363
+2026-08-06T12:07:51.597012+00:00,49181083,29,Position: LLMs Can't Jump,285,186
+2026-08-06T12:07:51.597012+00:00,49186720,30,Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025),133,74
+2026-08-06T12:07:51.597012+00:00,49115096,31,Discovery of a multicomponent alloy forged by the Hiroshima atomic blast,141,63
+2026-08-06T12:07:51.597012+00:00,49183017,32,The Entropy of a Markov Chain,132,12
+2026-08-06T12:07:51.597012+00:00,49125532,33,"Exact, parallel 2D Delaunay triangulation for int32 coordinates",62,22
+2026-08-06T12:07:51.597012+00:00,49184216,34,The Valley of Webhooks,198,84
+2026-08-06T12:07:51.597012+00:00,49094358,35,The Cipher Behind Qsyrupwd: Reconstructing IBM i Password Hashes,14,1
+2026-08-06T12:07:51.597012+00:00,49194943,36,It's Easier Than Ever to Fly Private Without Your Own Jet,7,1
+2026-08-06T12:07:51.597012+00:00,49126716,37,Goodhart's Law Comes for Every Benchmark You Trust,89,36
+2026-08-06T12:07:51.597012+00:00,49188916,38,When online commenters detect my art as AI,52,24
+2026-08-06T12:07:51.597012+00:00,49099904,39,Pushing the limits of RISC-V emulation,47,32
+2026-08-06T12:07:51.597012+00:00,49192829,40,France is banning unsolicited telemarketing calls starting next week,51,11
+2026-08-06T12:07:51.597012+00:00,49124917,41,Online Friends Are Real Friends,110,73
+2026-08-06T12:07:51.597012+00:00,49182946,42,Building an Advanced Agentic Harness,115,43
+2026-08-06T12:07:51.597012+00:00,49193818,43,Cuprate – an alternative and independent Monero node software written in Rust,4,0
+2026-08-06T12:07:51.597012+00:00,49183115,44,"Aristotle quotes on virtue, knowledge, and happiness",175,87
+2026-08-06T12:07:51.597012+00:00,49181519,45,Why Erdős Problems Are Falling to AI,140,129
+2026-08-06T12:07:51.597012+00:00,49105978,46,“Gravity is worth asking about”,206,135
+2026-08-06T12:07:51.597012+00:00,49183079,47,Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field,98,16
+2026-08-06T12:07:51.597012+00:00,49182695,48,Painting with Gaussians,102,19
+2026-08-06T12:07:51.597012+00:00,49183714,49,Proxmox VE now available for ARM64,69,23
+2026-08-06T12:07:51.597012+00:00,49187259,50,Sula: A Gemini protocol server written in Scryer Prolog,57,3
