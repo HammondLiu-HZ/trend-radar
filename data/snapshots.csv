@@ -24226,3 +24226,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-05T23:09:14.739542+00:00,49176192,48,Western Sahara,110,73
 2026-08-05T23:09:14.739542+00:00,49187663,49,Ban the Throbber,28,8
 2026-08-05T23:09:14.739542+00:00,49148176,50,Bubble Memory,74,23
+2026-08-06T03:24:34.957666+00:00,49191624,1,Nashville uses eminent domain to block data center near zoo,56,39
+2026-08-06T03:24:34.957666+00:00,49191365,2,LLMs won't break symmetric crypto,43,31
+2026-08-06T03:24:34.957666+00:00,49184960,3,Discovery Loop,629,394
+2026-08-06T03:24:34.957666+00:00,49187256,4,Zed DeltaDB,328,173
+2026-08-06T03:24:34.957666+00:00,49189287,5,The title cards in Blade Runner are amazing,175,75
+2026-08-06T03:24:34.957666+00:00,49184755,6,"Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",517,618
+2026-08-06T03:24:34.957666+00:00,49187575,7,Muse Code and Muse Spark 1.2,200,116
+2026-08-06T03:24:34.957666+00:00,49186762,8,Beating GPT-5.6 Sol on retrieval with 100x cheaper open models,240,59
+2026-08-06T03:24:34.957666+00:00,49189075,9,Prime Agent: A self-improving RLM agent,119,20
+2026-08-06T03:24:34.957666+00:00,49187061,10,"Born Against, or why hobby programming communities are against LLM usage",157,156
+2026-08-06T03:24:34.957666+00:00,49151991,11,Branchless Rust: Making a Filter 4x Faster by Removing an If,43,6
+2026-08-06T03:24:34.957666+00:00,49185983,12,"Atlassian Rovo Exfiltrates Data, Bypassing Controls",185,71
+2026-08-06T03:24:34.957666+00:00,49189234,13,NVIDIA’s Vera Whitepaper Has a Thread Loose,98,14
+2026-08-06T03:24:34.957666+00:00,49182996,14,"Cloudflare OS: an open platform for agents, apps, and work",486,249
+2026-08-06T03:24:34.957666+00:00,49185111,15,Something is changing in the unit economics of software,43,30
+2026-08-06T03:24:34.957666+00:00,49146183,16,GNU Hurd News 2026-Q2,141,95
+2026-08-06T03:24:34.957666+00:00,49189113,17,I'll be stepping back from leading product for X,81,123
+2026-08-06T03:24:34.957666+00:00,49188022,18,I'm switching my phone from Android to Linux,238,193
+2026-08-06T03:24:34.957666+00:00,49185430,19,"Celld: Self-hosted, distributed Durable Objects",158,30
+2026-08-06T03:24:34.957666+00:00,49099904,20,Pushing the limits of RISC-V emulation,31,11
+2026-08-06T03:24:34.957666+00:00,49125532,21,"Exact, parallel 2D Delaunay triangulation for int32 coordinates",34,2
+2026-08-06T03:24:34.957666+00:00,49126716,22,Goodhart's Law Comes for Every Benchmark You Trust,70,31
+2026-08-06T03:24:34.957666+00:00,49181083,23,Position: LLMs Can't Jump,248,170
+2026-08-06T03:24:34.957666+00:00,49106756,24,The Origins of Vintage Comics Part 1,15,1
+2026-08-06T03:24:34.957666+00:00,49186720,25,Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025),83,57
+2026-08-06T03:24:34.957666+00:00,49115096,26,Discovery of a multicomponent alloy forged by the Hiroshima atomic blast,113,52
+2026-08-06T03:24:34.957666+00:00,49124917,27,Online Friends Are Real Friends,81,52
+2026-08-06T03:24:34.957666+00:00,49185389,28,Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod,47,36
+2026-08-06T03:24:34.957666+00:00,49183017,29,The Entropy of a Markov Chain,107,9
+2026-08-06T03:24:34.957666+00:00,49115789,30,New Keyboard: Alicja v2,4,0
+2026-08-06T03:24:34.957666+00:00,49184216,31,The Valley of Webhooks,162,77
+2026-08-06T03:24:34.957666+00:00,49187084,32,What happens if you put work into the second dimension?,53,45
+2026-08-06T03:24:34.957666+00:00,49182946,33,Building an Advanced Agentic Harness,108,42
+2026-08-06T03:24:34.957666+00:00,49187259,34,Sula: A Gemini protocol server written in Scryer Prolog,46,2
+2026-08-06T03:24:34.957666+00:00,49183115,35,"Aristotle quotes on virtue, knowledge, and happiness",162,78
+2026-08-06T03:24:34.957666+00:00,49183079,36,Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field,92,14
+2026-08-06T03:24:34.957666+00:00,49181519,37,Why Erdős Problems Are Falling to AI,128,126
+2026-08-06T03:24:34.957666+00:00,49182695,38,Painting with Gaussians,92,16
+2026-08-06T03:24:34.957666+00:00,49188916,39,When online commenters detect my art as AI,15,9
+2026-08-06T03:24:34.957666+00:00,49185931,40,Phishers are hijacking legitimate cloud infrastructure,48,14
+2026-08-06T03:24:34.957666+00:00,49187977,41,Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery,258,201
+2026-08-06T03:24:34.957666+00:00,49105978,42,“Gravity is worth asking about”,197,127
+2026-08-06T03:24:34.957666+00:00,49181099,43,Civilian plane crash in New Mexico tied to military GPS blocking,454,241
+2026-08-06T03:24:34.957666+00:00,49185215,44,Stop sending me your errors,60,10
+2026-08-06T03:24:34.957666+00:00,49183714,45,Proxmox VE now available for ARM64,55,15
+2026-08-06T03:24:34.957666+00:00,49184355,46,See the Sun like never before with most detailed images yet,39,4
+2026-08-06T03:24:34.957666+00:00,49182685,47,Faster Than Ninja,83,30
+2026-08-06T03:24:34.957666+00:00,49189356,48,A Gallery of Installing from .dmg,12,2
+2026-08-06T03:24:34.957666+00:00,49183750,49,"Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18",177,119
+2026-08-06T03:24:34.957666+00:00,49191463,50,You won't believe the stupid shit the Pentagon puts in diplomats' system prompts,5,3
