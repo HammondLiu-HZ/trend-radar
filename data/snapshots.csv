@@ -24326,3 +24326,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-06T06:38:58.691120+00:00,49181099,48,Civilian plane crash in New Mexico tied to military GPS blocking,462,244
 2026-08-06T06:38:58.691120+00:00,49184355,49,See the Sun like never before with most detailed images yet,42,4
 2026-08-06T06:38:58.691120+00:00,49189356,50,A Gallery of Installing from .dmg,26,2
+2026-08-06T09:44:56.814461+00:00,49192566,1,Crime Pays but Botany Doesn't,186,77
+2026-08-06T09:44:56.814461+00:00,49168622,2,How to Make a Nintendo 64 Game in 2026,78,9
+2026-08-06T09:44:56.814461+00:00,49193673,3,What I love about Django,53,22
+2026-08-06T09:44:56.814461+00:00,49184960,4,Discovery Loop,752,469
+2026-08-06T09:44:56.814461+00:00,49184755,5,"Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",657,711
+2026-08-06T09:44:56.814461+00:00,49193314,6,Let's all meet up in the Y2K,33,19
+2026-08-06T09:44:56.814461+00:00,49187256,7,Zed DeltaDB,423,219
+2026-08-06T09:44:56.814461+00:00,49189287,8,The title cards in Blade Runner are amazing,267,128
+2026-08-06T09:44:56.814461+00:00,49151991,9,Branchless Rust: Making a Filter 4x Faster by Removing an If,176,42
+2026-08-06T09:44:56.814461+00:00,49187575,10,Muse Code and Muse Spark 1.2,261,159
+2026-08-06T09:44:56.814461+00:00,49186762,11,Beating GPT-5.6 Sol on retrieval with 100x cheaper open models,317,79
+2026-08-06T09:44:56.814461+00:00,49187061,12,"Born Against, or why hobby programming communities are against LLM usage",264,245
+2026-08-06T09:44:56.814461+00:00,49182996,13,"Cloudflare OS: an open platform for agents, apps, and work",560,268
+2026-08-06T09:44:56.814461+00:00,49189075,14,Prime Agent: A self-improving RLM agent,182,37
+2026-08-06T09:44:56.814461+00:00,49129551,15,Morioka Shoten,12,4
+2026-08-06T09:44:56.814461+00:00,49191624,16,Nashville uses eminent domain to block data center near zoo,234,291
+2026-08-06T09:44:56.814461+00:00,49112348,17,Quantego: A Family of Lego Models of IBM Quantum Computers,28,14
+2026-08-06T09:44:56.814461+00:00,49094358,18,The Cipher Behind Qsyrupwd: Reconstructing IBM i Password Hashes,8,0
+2026-08-06T09:44:56.814461+00:00,49157792,19,Decimen Optical Transfer: fountain-coded QR file transfer,24,8
+2026-08-06T09:44:56.814461+00:00,49185983,20,"Atlassian Rovo Exfiltrates Data, Bypassing Controls",229,92
+2026-08-06T09:44:56.814461+00:00,49185430,21,"Celld: Self-hosted, distributed Durable Objects",215,35
+2026-08-06T09:44:56.814461+00:00,49185389,22,Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod,56,41
+2026-08-06T09:44:56.814461+00:00,49146183,23,GNU Hurd News 2026-Q2,172,119
+2026-08-06T09:44:56.814461+00:00,49189234,24,NVIDIA’s Vera Whitepaper Has a Thread Loose,129,26
+2026-08-06T09:44:56.814461+00:00,49188022,25,I'm switching my phone from Android to Linux,332,335
+2026-08-06T09:44:56.814461+00:00,49186720,26,Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025),124,66
+2026-08-06T09:44:56.814461+00:00,49181083,27,Position: LLMs Can't Jump,276,183
+2026-08-06T09:44:56.814461+00:00,49115096,28,Discovery of a multicomponent alloy forged by the Hiroshima atomic blast,136,57
+2026-08-06T09:44:56.814461+00:00,49125532,29,"Exact, parallel 2D Delaunay triangulation for int32 coordinates",59,18
+2026-08-06T09:44:56.814461+00:00,49183017,30,The Entropy of a Markov Chain,130,11
+2026-08-06T09:44:56.814461+00:00,49184216,31,The Valley of Webhooks,192,84
+2026-08-06T09:44:56.814461+00:00,49126716,32,Goodhart's Law Comes for Every Benchmark You Trust,87,36
+2026-08-06T09:44:56.814461+00:00,49099904,33,Pushing the limits of RISC-V emulation,42,29
+2026-08-06T09:44:56.814461+00:00,49192829,34,France is banning unsolicited telemarketing calls starting next week,33,5
+2026-08-06T09:44:56.814461+00:00,49124917,35,Online Friends Are Real Friends,107,73
+2026-08-06T09:44:56.814461+00:00,49188916,36,When online commenters detect my art as AI,40,18
+2026-08-06T09:44:56.814461+00:00,49183115,37,"Aristotle quotes on virtue, knowledge, and happiness",174,83
+2026-08-06T09:44:56.814461+00:00,49182946,38,Building an Advanced Agentic Harness,112,43
+2026-08-06T09:44:56.814461+00:00,49181519,39,Why Erdős Problems Are Falling to AI,138,128
+2026-08-06T09:44:56.814461+00:00,49193439,40,Servers can be backdoored by exploiting buggy motherboard controll,9,2
+2026-08-06T09:44:56.814461+00:00,49183079,41,Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field,97,15
+2026-08-06T09:44:56.814461+00:00,49193019,42,Meta says AI model accessed the internet and hacked another firm,14,4
+2026-08-06T09:44:56.814461+00:00,49187259,43,Sula: A Gemini protocol server written in Scryer Prolog,55,3
+2026-08-06T09:44:56.814461+00:00,49182695,44,Painting with Gaussians,100,19
+2026-08-06T09:44:56.814461+00:00,49105978,45,“Gravity is worth asking about”,203,135
+2026-08-06T09:44:56.814461+00:00,49159680,46,Ryg_rans Is Not a Library,4,1
+2026-08-06T09:44:56.814461+00:00,49189113,47,I'll be stepping back from leading product for X,118,225
+2026-08-06T09:44:56.814461+00:00,49183714,48,Proxmox VE now available for ARM64,64,20
+2026-08-06T09:44:56.814461+00:00,49187084,49,What happens if you put work into the second dimension?,62,52
+2026-08-06T09:44:56.814461+00:00,49181099,50,Civilian plane crash in New Mexico tied to military GPS blocking,471,248
