@@ -24426,3 +24426,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-06T12:07:51.597012+00:00,49182695,48,Painting with Gaussians,102,19
 2026-08-06T12:07:51.597012+00:00,49183714,49,Proxmox VE now available for ARM64,69,23
 2026-08-06T12:07:51.597012+00:00,49187259,50,Sula: A Gemini protocol server written in Scryer Prolog,57,3
+2026-08-06T15:21:19.250571+00:00,49195231,1,Mario Meets Pareto,329,59
+2026-08-06T15:21:19.250571+00:00,49197109,2,Degrees of Wealth,19,23
+2026-08-06T15:21:19.250571+00:00,49184656,3,Tiny Black Holes May Be Exploding Stars Across the Milky Way,31,30
+2026-08-06T15:21:19.250571+00:00,49195468,4,Humans missed 1 in 3 threats approving AI agent commands across 40k game runs,101,76
+2026-08-06T15:21:19.250571+00:00,49168622,5,How to Make a Nintendo 64 Game in 2026,299,87
+2026-08-06T15:21:19.250571+00:00,49192566,6,Crime Pays but Botany Doesn't,429,132
+2026-08-06T15:21:19.250571+00:00,49096439,7,Pareto Front,119,52
+2026-08-06T15:21:19.250571+00:00,49197005,8,DeepSeek planning to significantly raise prices,50,37
+2026-08-06T15:21:19.250571+00:00,49184960,9,Discovery Loop,830,511
+2026-08-06T15:21:19.250571+00:00,49184755,10,"Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",751,810
+2026-08-06T15:21:19.250571+00:00,49122190,11,Join Me in Jamverse,21,1
+2026-08-06T15:21:19.250571+00:00,49197498,12,Taylor Farms Cyclospora outbreak triples in size,12,5
+2026-08-06T15:21:19.250571+00:00,49189287,13,The title cards in Blade Runner are amazing,353,167
+2026-08-06T15:21:19.250571+00:00,49187256,14,Zed DeltaDB,486,272
+2026-08-06T15:21:19.250571+00:00,49195251,15,Show HN: demake – one source project compiles to any retro game console ROM,29,6
+2026-08-06T15:21:19.250571+00:00,49164121,16,"The 11 Types of Washington, DC, Metro Station Architecture (2018)",12,1
+2026-08-06T15:21:19.250571+00:00,49187575,17,Muse Code and Muse Spark 1.2,292,191
+2026-08-06T15:21:19.250571+00:00,49186762,18,Beating GPT-5.6 Sol on retrieval with 100x cheaper open models,370,102
+2026-08-06T15:21:19.250571+00:00,49187061,19,"Born Against, or why hobby programming communities are against LLM usage",342,381
+2026-08-06T15:21:19.250571+00:00,49151991,20,Branchless Rust: Making a Filter 4x Faster by Removing an If,247,79
+2026-08-06T15:21:19.250571+00:00,49129008,21,Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer,73,11
+2026-08-06T15:21:19.250571+00:00,49196745,22,"I added a real-time chat to my blog, people used it to attack me",52,61
+2026-08-06T15:21:19.250571+00:00,49182996,23,"Cloudflare OS: an open platform for agents, apps, and work",606,292
+2026-08-06T15:21:19.250571+00:00,49196174,24,Four simple rules behind Japan's most liveable cities,4,0
+2026-08-06T15:21:19.250571+00:00,49189234,25,NVIDIA’s Vera Whitepaper Has a Thread Loose,176,36
+2026-08-06T15:21:19.250571+00:00,49129551,26,Morioka Shoten,41,13
+2026-08-06T15:21:19.250571+00:00,49189075,27,Prime Agent: A self-improving RLM agent,212,53
+2026-08-06T15:21:19.250571+00:00,49185983,28,"Atlassian Rovo Exfiltrates Data, Bypassing Controls",268,115
+2026-08-06T15:21:19.250571+00:00,49193173,29,"On non-rooted Android 17, ADB uninstall of system apps fails",165,122
+2026-08-06T15:21:19.250571+00:00,49112348,30,Quantego: A Family of Lego Models of IBM Quantum Computers,56,24
+2026-08-06T15:21:19.250571+00:00,49146183,31,GNU Hurd News 2026-Q2,203,139
+2026-08-06T15:21:19.250571+00:00,49185430,32,"Celld: Self-hosted, distributed Durable Objects",255,43
+2026-08-06T15:21:19.250571+00:00,49157792,33,Decimen Optical Transfer: fountain-coded QR file transfer,45,38
+2026-08-06T15:21:19.250571+00:00,49185389,34,Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod,64,47
+2026-08-06T15:21:19.250571+00:00,49188022,35,I'm switching my phone from Android to Linux,403,412
+2026-08-06T15:21:19.250571+00:00,49186720,36,Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025),152,81
+2026-08-06T15:21:19.250571+00:00,49115096,37,Discovery of a multicomponent alloy forged by the Hiroshima atomic blast,147,65
+2026-08-06T15:21:19.250571+00:00,49197489,38,"Shopify says AI search is driving more traffic and sales, not replacing Google",4,0
+2026-08-06T15:21:19.250571+00:00,49193818,39,Cuprate – an alternative and independent Monero node software written in Rust,9,0
+2026-08-06T15:21:19.250571+00:00,49193673,40,What I love about Django,117,99
+2026-08-06T15:21:19.250571+00:00,49183017,41,The Entropy of a Markov Chain,136,12
+2026-08-06T15:21:19.250571+00:00,49191624,42,Nashville uses eminent domain to block data center near zoo,296,384
+2026-08-06T15:21:19.250571+00:00,49195657,43,The Investors Whose SpaceX Shares Vanished Before They Could Cash In,13,3
+2026-08-06T15:21:19.250571+00:00,49184216,44,The Valley of Webhooks,208,87
+2026-08-06T15:21:19.250571+00:00,49188916,45,When online commenters detect my art as AI,68,38
+2026-08-06T15:21:19.250571+00:00,49125532,46,"Exact, parallel 2D Delaunay triangulation for int32 coordinates",68,23
+2026-08-06T15:21:19.250571+00:00,49196238,47,Mars dust is toxic. How will future astronauts deal with it?,13,7
+2026-08-06T15:21:19.250571+00:00,49196581,48,Faster floating point math with Rust's new API,6,0
+2026-08-06T15:21:19.250571+00:00,49126716,49,Goodhart's Law Comes for Every Benchmark You Trust,93,36
+2026-08-06T15:21:19.250571+00:00,49182946,50,Building an Advanced Agentic Harness,120,43
