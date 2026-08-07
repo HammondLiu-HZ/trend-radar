@@ -24976,3 +24976,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-07T16:59:53.395371+00:00,49208270,48,Kalshi and Polymarket bets on clinical trials criticized as 'ghastly',45,27
 2026-08-07T16:59:53.395371+00:00,49200933,49,Can you reverse engineer an ASIC?,101,62
 2026-08-07T16:59:53.395371+00:00,49206130,50,Framework discloses data breach via Metabase 0-day,131,48
+2026-08-07T17:57:04.890659+00:00,49213754,1,Oracle bans AI-generated code from OpenJDK,15,8
+2026-08-07T17:57:04.890659+00:00,49211921,2,An all-sky map of half a million supermassive black holes,63,19
+2026-08-07T17:57:04.890659+00:00,49213029,3,Responding to the next frontier of critical cyber capabilities,58,50
+2026-08-07T17:57:04.890659+00:00,49204352,4,New Mexico court orders Meta to pay $567m over harms to children’s mental health,603,336
+2026-08-07T17:57:04.890659+00:00,49208535,5,"Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",130,59
+2026-08-07T17:57:04.890659+00:00,49209385,6,Show HN: Wyzer Programming Language,127,67
+2026-08-07T17:57:04.890659+00:00,49211660,7,Möbius-Strip Crosswords,18,0
+2026-08-07T17:57:04.890659+00:00,49201970,8,AMD acquires Taalas to boost inference performance by etching models in silicon,824,624
+2026-08-07T17:57:04.890659+00:00,49208458,9,"Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",83,34
+2026-08-07T17:57:04.890659+00:00,49208393,10,Kitesurf: Agent-first browser that runs in V8 isolates,85,20
+2026-08-07T17:57:04.890659+00:00,49213097,11,Tax cuts for the wealthy only benefit the rich (2023),113,71
+2026-08-07T17:57:04.890659+00:00,49158934,12,Petri Nets as a Music Sequencer,35,12
+2026-08-07T17:57:04.890659+00:00,49158302,13,Why Are There Statues of Beavers on Top of This Oxford Street Shop?,26,7
+2026-08-07T17:57:04.890659+00:00,49212424,14,Adults over 65 will outnumber children by 2029,39,25
+2026-08-07T17:57:04.890659+00:00,49199346,15,Taste Is All That's Left,616,486
+2026-08-07T17:57:04.890659+00:00,49170241,16,Building Community Out of Strangers,10,0
+2026-08-07T17:57:04.890659+00:00,49138446,17,São Paulo resident transforms degraded area into urban forest,280,108
+2026-08-07T17:57:04.890659+00:00,49212698,18,This Mine Predicts Major Wars. It's Opening Again,27,4
+2026-08-07T17:57:04.890659+00:00,49213367,19,"Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years",20,3
+2026-08-07T17:57:04.890659+00:00,49112511,20,TypeStax: A type scale generator with vintage audio hardware interface,37,9
+2026-08-07T17:57:04.890659+00:00,49210589,21,"USA Today Co., partners with Palantir to analyze audience data",151,59
+2026-08-07T17:57:04.890659+00:00,49184355,22,Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun,293,57
+2026-08-07T17:57:04.890659+00:00,49202716,23,Bioengineered chewing gum may offer a way to fight HPV and other microbes,188,55
+2026-08-07T17:57:04.890659+00:00,49211386,24,99% of My Website Traffic Is Bots,255,252
+2026-08-07T17:57:04.890659+00:00,49198302,25,GitHub Actions and Pages are experiencing degraded availability,473,395
+2026-08-07T17:57:04.890659+00:00,49156157,26,A quine in Piet – a GIF image that prints itself [video],65,8
+2026-08-07T17:57:04.890659+00:00,49199357,27,"Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",297,237
+2026-08-07T17:57:04.890659+00:00,49211438,28,"Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",157,39
+2026-08-07T17:57:04.890659+00:00,49092746,29,The BBC Tetris Companion,65,8
+2026-08-07T17:57:04.890659+00:00,49203105,30,Welcoming the Nepalese Government to Have I Been Pwned,200,33
+2026-08-07T17:57:04.890659+00:00,49198464,31,Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks,221,152
+2026-08-07T17:57:04.890659+00:00,49208314,32,US strikes $1.2B deal to pay German firm to halt offshore wind projects,804,756
+2026-08-07T17:57:04.890659+00:00,49163879,33,Why Estonians invite strangers into their back gardens each summer,139,49
+2026-08-07T17:57:04.890659+00:00,49201003,34,Herdr is joining Y Combinator. The runtime stays open,263,185
+2026-08-07T17:57:04.890659+00:00,49195231,35,Mario Meets Pareto,1118,165
+2026-08-07T17:57:04.890659+00:00,49200439,36,My phone detects going on a run as “someone snatching my phone and running off”,187,321
+2026-08-07T17:57:04.890659+00:00,49113256,37,STV: A full-motion video codec for the Atari ST,85,12
+2026-08-07T17:57:04.890659+00:00,49120149,38,Learn how chips are made with this Rollercoaster Tycoon-inspired animation,201,65
+2026-08-07T17:57:04.890659+00:00,49212760,39,State Department Wants Palantir's Advice on Free Speech,16,4
+2026-08-07T17:57:04.890659+00:00,49211437,40,"Software is about people, not code (2020)",39,43
+2026-08-07T17:57:04.890659+00:00,49213016,41,The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI,7,3
+2026-08-07T17:57:04.890659+00:00,49213385,42,Estrogen masculinizes neural pathways and sex-specific behaviors,4,1
+2026-08-07T17:57:04.890659+00:00,49212531,43,"AI agents fake identities, target real people in new security incident",10,3
+2026-08-07T17:57:04.890659+00:00,49204546,44,New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software,71,114
+2026-08-07T17:57:04.890659+00:00,49152255,45,I stopped trusting USB-C cable labels and started testing them,242,227
+2026-08-07T17:57:04.890659+00:00,49201930,46,Quake – 30th Anniversary Update,379,183
+2026-08-07T17:57:04.890659+00:00,49202852,47,Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025),137,9
+2026-08-07T17:57:04.890659+00:00,49198583,48,"Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",111,24
+2026-08-07T17:57:04.890659+00:00,49143782,49,The simple elegance of the integrated timing belt loopback fastener,123,29
+2026-08-07T17:57:04.890659+00:00,49213081,50,Kalshi and Polymarket bets on clinical trials criticized as 'ghastly',8,5
