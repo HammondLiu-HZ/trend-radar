@@ -25126,3 +25126,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-07T20:50:28.952565+00:00,49208314,48,US strikes $1.2B deal to pay German firm to halt offshore wind projects,831,787
 2026-08-07T20:50:28.952565+00:00,49214994,49,"Claude Code: Starting August 14, auto mode will be the default permission mode",4,2
 2026-08-07T20:50:28.952565+00:00,49211438,50,"Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",186,47
+2026-08-07T21:48:15.099262+00:00,49214008,1,DeepSeek V4 Flash 0731,304,186
+2026-08-07T21:48:15.099262+00:00,49214098,2,Assembly Hall of Shame,155,34
+2026-08-07T21:48:15.099262+00:00,49214770,3,"Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",80,25
+2026-08-07T21:48:15.099262+00:00,49213029,4,Responding to the next frontier of critical cyber capabilities,125,138
+2026-08-07T21:48:15.099262+00:00,49211921,5,An all-sky map of half a million supermassive black holes,113,30
+2026-08-07T21:48:15.099262+00:00,49213754,6,Oracle bans AI-generated code from OpenJDK,304,218
+2026-08-07T21:48:15.099262+00:00,49209539,7,What happens if an entire class of workers loses faith in their careers,238,378
+2026-08-07T21:48:15.099262+00:00,49157770,8,Guarded Methods in OCaml,24,1
+2026-08-07T21:48:15.099262+00:00,49214863,9,App Store Rejection of the Week: Dark Hours,177,75
+2026-08-07T21:48:15.099262+00:00,49135457,10,Carl's Required Reading,57,5
+2026-08-07T21:48:15.099262+00:00,49214775,11,Psychological Warfare in Reverse Engineering (2015),26,2
+2026-08-07T21:48:15.099262+00:00,49214468,12,Databricks drove down AI coding spend 70%,129,103
+2026-08-07T21:48:15.099262+00:00,49208535,13,"Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",214,93
+2026-08-07T21:48:15.099262+00:00,49216362,14,"Water system controllers don't belong on the internet, says ex-NSA chief",12,0
+2026-08-07T21:48:15.099262+00:00,49208393,15,Kitesurf: Agent-first browser that runs in V8 isolates,128,32
+2026-08-07T21:48:15.099262+00:00,49211386,16,A year of fighting scrapers on my 1.5 million-page website,341,322
+2026-08-07T21:48:15.099262+00:00,49207236,17,2027 memory capacity is reportedly sold out,159,139
+2026-08-07T21:48:15.099262+00:00,49211660,18,Möbius-Strip Crosswords,45,4
+2026-08-07T21:48:15.099262+00:00,49208458,19,"Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",116,51
+2026-08-07T21:48:15.099262+00:00,49209572,20,Radical Study Suggests Life on Earth Arose Twice,64,70
+2026-08-07T21:48:15.099262+00:00,49094200,21,Britain's New World of Tobacco (2017),15,0
+2026-08-07T21:48:15.099262+00:00,49158302,22,Why Are There Statues of Beavers on Top of This Oxford Street Shop?,48,22
+2026-08-07T21:48:15.099262+00:00,49209385,23,Show HN: Wyzer Programming Language,159,92
+2026-08-07T21:48:15.099262+00:00,49158934,24,Petri Nets as a Music Sequencer,55,19
+2026-08-07T21:48:15.099262+00:00,49170241,25,Building community out of strangers (2023),27,1
+2026-08-07T21:48:15.099262+00:00,49204352,26,New Mexico court orders Meta to pay $567m over harms to children’s mental health,697,375
+2026-08-07T21:48:15.099262+00:00,49147721,27,Energizing a vacuum-tube flip-flop module from a 1948 IBM system,10,3
+2026-08-07T21:48:15.099262+00:00,49138446,28,São Paulo resident transforms degraded area into urban forest,312,117
+2026-08-07T21:48:15.099262+00:00,49201970,29,AMD acquires Taalas to boost inference performance by etching models in silicon,869,652
+2026-08-07T21:48:15.099262+00:00,49145259,30,Thoroughly Understanding C++ ABI (2024),53,59
+2026-08-07T21:48:15.099262+00:00,49215292,31,Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support,22,1
+2026-08-07T21:48:15.099262+00:00,49112511,32,TypeStax: A type scale generator with vintage audio hardware interface,48,18
+2026-08-07T21:48:15.099262+00:00,49129015,33,Atomic Clocks,125,75
+2026-08-07T21:48:15.099262+00:00,49198464,34,Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks,226,155
+2026-08-07T21:48:15.099262+00:00,49156157,35,A quine in Piet – a GIF image that prints itself [video],74,9
+2026-08-07T21:48:15.099262+00:00,49215786,36,Lost my phone at the office. Claude suggested tracking Bluetooth signal strength,9,0
+2026-08-07T21:48:15.099262+00:00,49202690,37,What is a product?,94,62
+2026-08-07T21:48:15.099262+00:00,49203105,38,Welcoming the Nepalese Government to Have I Been Pwned,208,35
+2026-08-07T21:48:15.099262+00:00,49092746,39,The BBC Tetris Companion,73,11
+2026-08-07T21:48:15.099262+00:00,49212698,40,This Mine Predicts Major Wars. It's Opening Again,65,28
+2026-08-07T21:48:15.099262+00:00,49195231,41,Mario Meets Pareto,1135,166
+2026-08-07T21:48:15.099262+00:00,49210589,42,"USA Today Co., partners with Palantir to analyze audience data",179,69
+2026-08-07T21:48:15.099262+00:00,49163879,43,Why Estonians invite strangers into their back gardens each summer,142,51
+2026-08-07T21:48:15.099262+00:00,49199346,44,Taste Is All That's Left,643,507
+2026-08-07T21:48:15.099262+00:00,49214994,45,"Claude Code: Starting August 14, auto mode will be the default permission mode",9,4
+2026-08-07T21:48:15.099262+00:00,49162080,46,Reverse Jevons Paradox,51,53
+2026-08-07T21:48:15.099262+00:00,49113256,47,STV: A full-motion video codec for the Atari ST,87,12
+2026-08-07T21:48:15.099262+00:00,49215268,48,Ten ways I've Sped Up Sonic on the Amiga 1200,6,0
+2026-08-07T21:48:15.099262+00:00,49215898,49,Mailüfterl (Early Transistorized Computer),4,0
+2026-08-07T21:48:15.099262+00:00,49208314,50,US strikes $1.2B deal to pay German firm to halt offshore wind projects,838,799
