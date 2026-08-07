@@ -24676,3 +24676,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-07T07:35:45.057122+00:00,49161617,48,Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization,17,1
 2026-08-07T07:35:45.057122+00:00,49206566,49,OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300,5,2
 2026-08-07T07:35:45.057122+00:00,49184960,50,Discovery Loop,919,582
+2026-08-07T09:08:30.597768+00:00,49201970,1,AMD acquires Taalas to boost inference performance by etching models in silicon,641,493
+2026-08-07T09:08:30.597768+00:00,49204352,2,New Mexico court orders Meta to pay $567m over harms to children’s mental health,239,153
+2026-08-07T09:08:30.597768+00:00,49202690,3,What is a product?,44,22
+2026-08-07T09:08:30.597768+00:00,49199346,4,Taste Is All That's Left,410,302
+2026-08-07T09:08:30.597768+00:00,49129015,5,Atomic Clocks,56,29
+2026-08-07T09:08:30.597768+00:00,49184355,6,Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun,221,44
+2026-08-07T09:08:30.597768+00:00,49202716,7,Bioengineered chewing gum may offer a way to fight HPV and other microbes,124,30
+2026-08-07T09:08:30.597768+00:00,49095943,8,Parsers don't have to be complicated,16,6
+2026-08-07T09:08:30.597768+00:00,49138446,9,São Paulo resident transforms degraded area into urban forest,127,49
+2026-08-07T09:08:30.597768+00:00,49198302,10,GitHub Actions and Pages are experiencing degraded availability,396,323
+2026-08-07T09:08:30.597768+00:00,49198464,11,Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks,205,142
+2026-08-07T09:08:30.597768+00:00,49199357,12,"Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",234,177
+2026-08-07T09:08:30.597768+00:00,49207236,13,2027 memory capacity is reportedly sold out,28,8
+2026-08-07T09:08:30.597768+00:00,49203707,14,Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters,13,1
+2026-08-07T09:08:30.597768+00:00,49203105,15,Welcoming the Nepalese Government to Have I Been Pwned,149,23
+2026-08-07T09:08:30.597768+00:00,49152255,16,I stopped trusting USB-C cable labels and started testing them,177,150
+2026-08-07T09:08:30.597768+00:00,49201003,17,Herdr is joining Y Combinator. The runtime stays open,207,138
+2026-08-07T09:08:30.597768+00:00,49206130,18,Framework discloses data breach via Metabase 0-day,72,27
+2026-08-07T09:08:30.597768+00:00,49162080,19,Reverse Jevons Paradox,27,14
+2026-08-07T09:08:30.597768+00:00,49163879,20,Why Estonians invite strangers into their back gardens each summer,72,29
+2026-08-07T09:08:30.597768+00:00,49159346,21,Show HN: A free mini game that makes you a smarter fly fisherperson,10,2
+2026-08-07T09:08:30.597768+00:00,49195468,22,Humans missed 1 in 3 threats approving AI agent commands across 40k game runs,299,211
+2026-08-07T09:08:30.597768+00:00,49200439,23,My phone detects going on a run as “someone snatching my phone and running off”,138,239
+2026-08-07T09:08:30.597768+00:00,49113256,24,STV: A full-motion video codec for the Atari ST,52,6
+2026-08-07T09:08:30.597768+00:00,49195231,25,Mario Meets Pareto,1036,157
+2026-08-07T09:08:30.597768+00:00,49204546,26,New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software,57,79
+2026-08-07T09:08:30.597768+00:00,49120149,27,Learn how chips are made with this Rollercoaster Tycoon-inspired animation,150,44
+2026-08-07T09:08:30.597768+00:00,49201930,28,Quake – 30th Anniversary Update,303,152
+2026-08-07T09:08:30.597768+00:00,49202852,29,Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025),103,5
+2026-08-07T09:08:30.597768+00:00,49206642,30,Artificial Intelligence used to design new viruses,29,5
+2026-08-07T09:08:30.597768+00:00,49198583,31,"Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",103,22
+2026-08-07T09:08:30.597768+00:00,49096439,32,Pareto Front,247,99
+2026-08-07T09:08:30.597768+00:00,49143782,33,The simple elegance of the integrated timing belt loopback fastener,117,27
+2026-08-07T09:08:30.597768+00:00,49200933,34,Can you reverse engineer an ASIC?,89,54
+2026-08-07T09:08:30.597768+00:00,49161803,35,Learning to fly FPV drones with AI flight coach,13,7
+2026-08-07T09:08:30.597768+00:00,49116252,36,Building Progressively Enhanced Forms Using htmx,80,12
+2026-08-07T09:08:30.597768+00:00,49123247,37,The Sylvester–Gallai Theorem,32,38
+2026-08-07T09:08:30.597768+00:00,49196174,38,Four simple rules behind Japan's most liveable cities,99,136
+2026-08-07T09:08:30.597768+00:00,49198069,39,Software development with AI is starting to feel like cooking steak,365,385
+2026-08-07T09:08:30.597768+00:00,49129008,40,Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer,170,33
+2026-08-07T09:08:30.597768+00:00,49184656,41,Tiny black holes may be exploding stars across the Milky Way,84,84
+2026-08-07T09:08:30.597768+00:00,49207146,42,I won't read LLM authored fiction,51,64
+2026-08-07T09:08:30.597768+00:00,49192566,43,Crime Pays but Botany Doesn't,667,209
+2026-08-07T09:08:30.597768+00:00,49205790,44,Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware,34,15
+2026-08-07T09:08:30.597768+00:00,49200652,45,Qwen3.8 Max now ranked as the best overall model by agentic index,500,314
+2026-08-07T09:08:30.597768+00:00,49168622,46,How to Make a Nintendo 64 Game in 2026,475,241
+2026-08-07T09:08:30.597768+00:00,49205813,47,Executable Emoji,10,3
+2026-08-07T09:08:30.597768+00:00,49203059,48,Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2,48,28
+2026-08-07T09:08:30.597768+00:00,49184960,49,Discovery Loop,922,583
+2026-08-07T09:08:30.597768+00:00,49161617,50,Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization,18,1
