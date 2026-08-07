@@ -24876,3 +24876,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-07T13:19:59.881355+00:00,49206642,48,Artificial Intelligence used to design new viruses,44,15
 2026-08-07T13:19:59.881355+00:00,49192566,49,Crime Pays but Botany Doesn't,672,210
 2026-08-07T13:19:59.881355+00:00,49198069,50,Software development with AI is starting to feel like cooking steak,376,404
+2026-08-07T15:01:28.053151+00:00,49208314,1,US strikes $1.2B deal to pay German firm to halt offshore wind projects,661,608
+2026-08-07T15:01:28.053151+00:00,49209385,2,Show HN: Wyzer Programming Language,45,19
+2026-08-07T15:01:28.053151+00:00,49209546,3,"U.S. economy lost 23,000 jobs in July, a sudden reversal",218,153
+2026-08-07T15:01:28.053151+00:00,49204352,4,New Mexico court orders Meta to pay $567m over harms to children’s mental health,479,268
+2026-08-07T15:01:28.053151+00:00,49211386,5,99% of My Website Traffic Is Bots,3,1
+2026-08-07T15:01:28.053151+00:00,49201970,6,AMD acquires Taalas to boost inference performance by etching models in silicon,766,582
+2026-08-07T15:01:28.053151+00:00,49145259,7,Thoroughly Understanding C++ ABI,18,10
+2026-08-07T15:01:28.053151+00:00,49210240,8,"U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower",43,2
+2026-08-07T15:01:28.053151+00:00,49208393,9,Kitesurf: Agent-first browser that runs in V8 isolates,36,8
+2026-08-07T15:01:28.053151+00:00,49209921,10,The web server deployment model breaks at hobby scale,47,37
+2026-08-07T15:01:28.053151+00:00,49210589,11,US's largest newspaper chain partners with Palantir to analyze audience data,56,15
+2026-08-07T15:01:28.053151+00:00,49199346,12,Taste Is All That's Left,553,418
+2026-08-07T15:01:28.053151+00:00,49156157,13,A quine in Piet – a GIF image that prints itself [video],53,3
+2026-08-07T15:01:28.053151+00:00,49138446,14,São Paulo resident transforms degraded area into urban forest,228,95
+2026-08-07T15:01:28.053151+00:00,49184355,15,Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun,277,53
+2026-08-07T15:01:28.053151+00:00,49202716,16,Bioengineered chewing gum may offer a way to fight HPV and other microbes,173,49
+2026-08-07T15:01:28.053151+00:00,49112511,17,TypeStax: A type scale generator with vintage audio hardware interface,24,7
+2026-08-07T15:01:28.053151+00:00,49208458,18,"Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",13,0
+2026-08-07T15:01:28.053151+00:00,49198302,19,GitHub Actions and Pages are experiencing degraded availability,450,375
+2026-08-07T15:01:28.053151+00:00,49209572,20,Radical Study Suggests Life on Earth Arose Twice,29,31
+2026-08-07T15:01:28.053151+00:00,49199357,21,"Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",275,224
+2026-08-07T15:01:28.053151+00:00,49203105,22,Welcoming the Nepalese Government to Have I Been Pwned,190,28
+2026-08-07T15:01:28.053151+00:00,49198464,23,Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks,214,151
+2026-08-07T15:01:28.053151+00:00,49208535,24,"Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",35,8
+2026-08-07T15:01:28.053151+00:00,49163879,25,Why Estonians invite strangers into their back gardens each summer,116,46
+2026-08-07T15:01:28.053151+00:00,49201003,26,Herdr is joining Y Combinator. The runtime stays open,249,175
+2026-08-07T15:01:28.053151+00:00,49092746,27,The BBC Tetris Companion,40,2
+2026-08-07T15:01:28.053151+00:00,49200439,28,My phone detects going on a run as “someone snatching my phone and running off”,174,304
+2026-08-07T15:01:28.053151+00:00,49195231,29,Mario Meets Pareto,1105,162
+2026-08-07T15:01:28.053151+00:00,49113256,30,STV: A full-motion video codec for the Atari ST,80,10
+2026-08-07T15:01:28.053151+00:00,49210077,31,AI psychosis is the new leadership blind spot,113,62
+2026-08-07T15:01:28.053151+00:00,49129015,32,Atomic Clocks,118,66
+2026-08-07T15:01:28.053151+00:00,49120149,33,Learn how chips are made with this Rollercoaster Tycoon-inspired animation,194,63
+2026-08-07T15:01:28.053151+00:00,49152255,34,I stopped trusting USB-C cable labels and started testing them,233,214
+2026-08-07T15:01:28.053151+00:00,49202690,35,What is a product?,82,54
+2026-08-07T15:01:28.053151+00:00,49204546,36,New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software,66,112
+2026-08-07T15:01:28.053151+00:00,49208270,37,Kalshi and Polymarket bets on clinical trials criticized as 'ghastly',30,8
+2026-08-07T15:01:28.053151+00:00,49201930,38,Quake – 30th Anniversary Update,362,176
+2026-08-07T15:01:28.053151+00:00,49198583,39,"Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",110,23
+2026-08-07T15:01:28.053151+00:00,49202852,40,Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025),131,8
+2026-08-07T15:01:28.053151+00:00,49206130,41,Framework discloses data breach via Metabase 0-day,122,46
+2026-08-07T15:01:28.053151+00:00,49143782,42,The simple elegance of the integrated timing belt loopback fastener,120,29
+2026-08-07T15:01:28.053151+00:00,49203707,43,Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters,16,1
+2026-08-07T15:01:28.053151+00:00,49200933,44,Can you reverse engineer an ASIC?,97,59
+2026-08-07T15:01:28.053151+00:00,49207793,45,Show HN: Certo – An open source platform to deliver Open Badges,13,0
+2026-08-07T15:01:28.053151+00:00,49208341,46,"Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas",40,10
+2026-08-07T15:01:28.053151+00:00,49205461,47,"""It's unclear how Sopwith escaped to the general public.""",28,1
+2026-08-07T15:01:28.053151+00:00,49116252,48,Building Progressively Enhanced Forms Using htmx,84,12
+2026-08-07T15:01:28.053151+00:00,49129008,49,Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer,177,33
+2026-08-07T15:01:28.053151+00:00,49196174,50,Four simple rules behind Japan's most liveable cities,110,146
