@@ -24476,3 +24476,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-06T15:21:19.250571+00:00,49196581,48,Faster floating point math with Rust's new API,6,0
 2026-08-06T15:21:19.250571+00:00,49126716,49,Goodhart's Law Comes for Every Benchmark You Trust,93,36
 2026-08-06T15:21:19.250571+00:00,49182946,50,Building an Advanced Agentic Harness,120,43
+2026-08-07T00:09:52.900405+00:00,49201970,1,AMD acquires Taalas to boost inference performance by etching models in silicon,302,238
+2026-08-07T00:09:52.900405+00:00,49184355,2,Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun,117,20
+2026-08-07T00:09:52.900405+00:00,49203105,3,Welcoming the Nepalese Government to Have I Been Pwned,54,12
+2026-08-07T00:09:52.900405+00:00,49195231,4,Mario Meets Pareto,849,147
+2026-08-07T00:09:52.900405+00:00,49201003,5,Herdr is joining Y Combinator. The runtime stays open,124,83
+2026-08-07T00:09:52.900405+00:00,49202852,6,Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025),42,2
+2026-08-07T00:09:52.900405+00:00,49152255,7,I stopped trusting USB-C cable labels and started testing them,45,28
+2026-08-07T00:09:52.900405+00:00,49199346,8,Taste Is All That's Left,166,127
+2026-08-07T00:09:52.900405+00:00,49198464,9,Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks,182,129
+2026-08-07T00:09:52.900405+00:00,49198069,10,Almost no skill required to cook a steak,260,303
+2026-08-07T00:09:52.900405+00:00,49203059,11,Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2,34,15
+2026-08-07T00:09:52.900405+00:00,49198302,12,GitHub Actions and Pages are experiencing degraded availability,303,257
+2026-08-07T00:09:52.900405+00:00,49199357,13,"Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",133,90
+2026-08-07T00:09:52.900405+00:00,49113256,14,STV: A full-motion video codec for the Atari ST,12,0
+2026-08-07T00:09:52.900405+00:00,49201930,15,Quake – 30th Anniversary Update,191,90
+2026-08-07T00:09:52.900405+00:00,49200439,16,My phone detects going on a run as “someone snatching my phone and running off”,77,136
+2026-08-07T00:09:52.900405+00:00,49200933,17,Can you reverse engineer an ASIC?,52,29
+2026-08-07T00:09:52.900405+00:00,49195468,18,Humans missed 1 in 3 threats approving AI agent commands across 40k game runs,242,187
+2026-08-07T00:09:52.900405+00:00,49120149,19,Learn how chips are made with this Rollercoaster Tycoon-inspired animation,101,17
+2026-08-07T00:09:52.900405+00:00,49123247,20,The Sylvester–Gallai Theorem,4,0
+2026-08-07T00:09:52.900405+00:00,49198583,21,"Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",82,20
+2026-08-07T00:09:52.900405+00:00,49192566,22,Crime Pays but Botany Doesn't,645,200
+2026-08-07T00:09:52.900405+00:00,49168622,23,How to Make a Nintendo 64 Game in 2026,453,231
+2026-08-07T00:09:52.900405+00:00,49143782,24,The simple elegance of the integrated timing belt loopback fastener,91,19
+2026-08-07T00:09:52.900405+00:00,49200652,25,Qwen3.8 Max now ranked as the best overall model by agentic index,403,263
+2026-08-07T00:09:52.900405+00:00,49116252,26,Building Progressively Enhanced Forms Using htmx,52,10
+2026-08-07T00:09:52.900405+00:00,49203707,27,Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters,3,0
+2026-08-07T00:09:52.900405+00:00,49096439,28,Pareto Front,214,92
+2026-08-07T00:09:52.900405+00:00,49202716,29,Bioengineered chewing gum may offer a way to fight microbes linked to cancers,36,2
+2026-08-07T00:09:52.900405+00:00,49161617,30,Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization,9,1
+2026-08-07T00:09:52.900405+00:00,49200390,31,Federal Communications Commission scraps limit on broadcast TV ownership,124,93
+2026-08-07T00:09:52.900405+00:00,49184656,32,Tiny black holes may be exploding stars across the Milky Way,70,80
+2026-08-07T00:09:52.900405+00:00,49196174,33,Four simple rules behind Japan's most liveable cities,78,89
+2026-08-07T00:09:52.900405+00:00,49198843,34,Zapscape (CVE-2026-64561): Guest-to-Host Escape in KVM/x86,63,9
+2026-08-07T00:09:52.900405+00:00,49204042,35,US agency ends 39% household cap on local TV station owners,7,0
+2026-08-07T00:09:52.900405+00:00,49129008,36,Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer,159,32
+2026-08-07T00:09:52.900405+00:00,49201540,37,State-oriented consistency: Why we stopped looking for one right answer,7,3
+2026-08-07T00:09:52.900405+00:00,49145267,38,"The Triangle Game, from Zero",10,1
+2026-08-07T00:09:52.900405+00:00,49189287,39,The title cards in Blade Runner are amazing,414,201
+2026-08-07T00:09:52.900405+00:00,49187061,40,"Born Against, or why hobby programming communities are against LLM usage",407,479
+2026-08-07T00:09:52.900405+00:00,49203443,41,OpenAI and four rivals just agreed on one standard for AI agents,13,1
+2026-08-07T00:09:52.900405+00:00,49186762,42,Beating GPT-5.6 Sol on retrieval with 100x cheaper open models,422,114
+2026-08-07T00:09:52.900405+00:00,49187575,43,Muse Code and Muse Spark 1.2,321,247
+2026-08-07T00:09:52.900405+00:00,49146240,44,Poles of Inaccessibility in the San Gabriel Mountains (2015),31,21
+2026-08-07T00:09:52.900405+00:00,49202278,45,Astronomers capture highest-resolution image ever of the Sun's surface,28,5
+2026-08-07T00:09:52.900405+00:00,49187256,46,Zed DeltaDB,518,301
+2026-08-07T00:09:52.900405+00:00,49151991,47,Branchless Rust: Making a Filter 4x Faster by Removing an If,282,104
+2026-08-07T00:09:52.900405+00:00,49193314,48,Let's all meet up in the Y2K,107,80
+2026-08-07T00:09:52.900405+00:00,49204046,49,Trump again tries to limit US birthright citizenship with new executive orders,6,0
+2026-08-07T00:09:52.900405+00:00,49185983,50,"Atlassian Rovo Exfiltrates Data, Bypassing Controls",291,134
