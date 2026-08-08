@@ -25676,3 +25676,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-08T11:35:44.352777+00:00,49141521,48,Why are all the amounts values negative?,40,20
 2026-08-08T11:35:44.352777+00:00,49145259,49,Thoroughly Understanding C++ ABI (2024),77,72
 2026-08-08T11:35:44.352777+00:00,49163879,50,Why Estonians invite strangers into their back gardens each summer,151,54
+2026-08-08T13:04:00.915024+00:00,49221089,1,The CPU is back: Rethinking the CPU-GPU split for LLM inference,23,1
+2026-08-08T13:04:00.915024+00:00,49220126,2,DeepMind's WeatherNext model achieves breakthrough forecasting cyclones,56,14
+2026-08-08T13:04:00.915024+00:00,49189457,3,A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava,273,63
+2026-08-08T13:04:00.915024+00:00,49219508,4,Hardware backdoors in some x86 CPUs,178,54
+2026-08-08T13:04:00.915024+00:00,49214008,5,DeepSeek V4 Flash 0731,676,401
+2026-08-08T13:04:00.915024+00:00,49216946,6,U.S. Department of Energy Launches the Genesis Open Models Initiative,266,99
+2026-08-08T13:04:00.915024+00:00,49209539,7,What happens if an entire class of workers loses faith in their careers,762,854
+2026-08-08T13:04:00.915024+00:00,49119508,8,k-Coloring is Faster than Computing the Chromatic Number,17,0
+2026-08-08T13:04:00.915024+00:00,49220313,9,Europe's free satellite service just made it easier to track wildfires,59,4
+2026-08-08T13:04:00.915024+00:00,49214098,10,Assembly Hall of Shame,362,91
+2026-08-08T13:04:00.915024+00:00,49141236,11,ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014),33,4
+2026-08-08T13:04:00.915024+00:00,49214770,12,"Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",218,70
+2026-08-08T13:04:00.915024+00:00,49218179,13,NASA figured out how to keep its Voyager 2 probe running for another year,279,54
+2026-08-08T13:04:00.915024+00:00,49220350,14,New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.,118,107
+2026-08-08T13:04:00.915024+00:00,49220609,15,Now we have a timeline of the OpenAI accidental attack against Hugging Face,55,78
+2026-08-08T13:04:00.915024+00:00,49207236,16,2027 memory capacity is reportedly sold out,404,383
+2026-08-08T13:04:00.915024+00:00,49135261,17,SupererDuperer,127,26
+2026-08-08T13:04:00.915024+00:00,49214468,18,Managing AI Coding Costs at Scale,260,222
+2026-08-08T13:04:00.915024+00:00,49141642,19,Show HN: Rotating torus in terminal (but with kitty graphics protocol),5,0
+2026-08-08T13:04:00.915024+00:00,49217993,20,The Nixpkgs core team has disbanded,325,161
+2026-08-08T13:04:00.915024+00:00,49220390,21,Apple Introduces Leasing Program for iPhones and Other Devices,18,31
+2026-08-08T13:04:00.915024+00:00,49211921,22,An all-sky map of half a million supermassive black holes,174,38
+2026-08-08T13:04:00.915024+00:00,49169417,23,From One Seed to a Thousand Leaves – Merkle's Authentication Tree,24,0
+2026-08-08T13:04:00.915024+00:00,49135457,24,Carl's Required Reading,195,23
+2026-08-08T13:04:00.915024+00:00,49213029,25,Responding to the next frontier of critical cyber capabilities,188,183
+2026-08-08T13:04:00.915024+00:00,49171223,26,Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years,107,52
+2026-08-08T13:04:00.915024+00:00,49209572,27,Radical Study Suggests Life on Earth Arose Twice,162,104
+2026-08-08T13:04:00.915024+00:00,49175774,28,Show HN: Sign language translation with smart glasses,10,5
+2026-08-08T13:04:00.915024+00:00,49213754,29,Oracle bans AI-generated code from OpenJDK,489,351
+2026-08-08T13:04:00.915024+00:00,49208535,30,"Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",297,153
+2026-08-08T13:04:00.915024+00:00,49158626,31,Tell Abu Hureyra (prehistoric archaeological site),15,0
+2026-08-08T13:04:00.915024+00:00,49208393,32,Kitesurf: Agent-first browser that runs in V8 isolates,199,55
+2026-08-08T13:04:00.915024+00:00,49220339,33,US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide,31,30
+2026-08-08T13:04:00.915024+00:00,49214775,34,Psychological Warfare in Reverse Engineering (2015),76,4
+2026-08-08T13:04:00.915024+00:00,49204352,35,New Mexico court orders Meta to pay $567m over harms to children’s mental health,776,412
+2026-08-08T13:04:00.915024+00:00,49157770,36,Guarded Methods in OCaml (2025),73,7
+2026-08-08T13:04:00.915024+00:00,49216362,37,"Water system controllers don't belong on the internet, says ex-NSA chief",212,140
+2026-08-08T13:04:00.915024+00:00,49201970,38,AMD acquires Taalas to boost inference performance by etching models in silicon,908,686
+2026-08-08T13:04:00.915024+00:00,49220392,39,"Microsoft Edge is about to lock out older ad blockers, just like Chrome did",11,9
+2026-08-08T13:04:00.915024+00:00,49147907,40,Games at the press of a button: The Rip-O-Bot (1989),34,9
+2026-08-08T13:04:00.915024+00:00,49211660,41,Möbius-Strip Crosswords,74,10
+2026-08-08T13:04:00.915024+00:00,49209385,42,Show HN: Wyzer Programming Language,203,108
+2026-08-08T13:04:00.915024+00:00,49208458,43,"Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",174,71
+2026-08-08T13:04:00.915024+00:00,49220827,44,Auto Mode will be the default in Claude Code – because humans can't be trusted,3,0
+2026-08-08T13:04:00.915024+00:00,49198464,45,Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks,229,155
+2026-08-08T13:04:00.915024+00:00,49158302,46,Why Are There Statues of Beavers on Top of This Oxford Street Shop?,61,39
+2026-08-08T13:04:00.915024+00:00,49195231,47,Mario Meets Pareto,1161,165
+2026-08-08T13:04:00.915024+00:00,49211386,48,A year of fighting scrapers on my 1.5 million-page website,428,393
+2026-08-08T13:04:00.915024+00:00,49221041,49,The USSR in 100 Photographs,52,48
+2026-08-08T13:04:00.915024+00:00,49203105,50,Welcoming the Nepalese Government to Have I Been Pwned,214,35
