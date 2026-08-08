@@ -26176,3 +26176,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-08T22:37:05.641672+00:00,49135457,48,Carl's Required Reading,222,30
 2026-08-08T22:37:05.641672+00:00,49211921,49,An all-sky map of half a million supermassive black holes,184,40
 2026-08-08T22:37:05.641672+00:00,49208535,50,"Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",322,160
+2026-08-08T23:36:19.345744+00:00,49224294,1,Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating,464,221
+2026-08-08T23:36:19.345744+00:00,49225918,2,Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack,63,29
+2026-08-08T23:36:19.345744+00:00,49223082,3,Fastmail offers EU data region,295,133
+2026-08-08T23:36:19.345744+00:00,49226636,4,My server is a phone now,9,1
+2026-08-08T23:36:19.345744+00:00,49221668,5,"A domain can now say it is for sale, in DNS",325,128
+2026-08-08T23:36:19.345744+00:00,49225139,6,Open-source interactive map for the Aug 12 total solar eclipse,65,14
+2026-08-08T23:36:19.345744+00:00,49223079,7,Can Intel finally beat ARM on performance per Watt?,142,66
+2026-08-08T23:36:19.345744+00:00,49223475,8,LinkedIn Feed Blocker,158,93
+2026-08-08T23:36:19.345744+00:00,49180649,9,Making difficulty curves in games,30,6
+2026-08-08T23:36:19.345744+00:00,49151146,10,DDisasm: Reversible (bi-directional) Disassembler,7,1
+2026-08-08T23:36:19.345744+00:00,49220126,11,DeepMind's WeatherNext model achieves breakthrough forecasting cyclones,357,110
+2026-08-08T23:36:19.345744+00:00,49220609,12,Timeline of the OpenAI accidental attack against Hugging Face,306,307
+2026-08-08T23:36:19.345744+00:00,49169973,13,Preventing Misfolding by Preventing Folding,38,1
+2026-08-08T23:36:19.345744+00:00,49133850,14,Building a local positioning system to track runners using Ultra-Wideband,29,1
+2026-08-08T23:36:19.345744+00:00,49221711,15,Triton: DirectX 11 Driver for QEMU,123,23
+2026-08-08T23:36:19.345744+00:00,49224020,16,"TinySol, a tiny solitaire game for DOS",41,11
+2026-08-08T23:36:19.345744+00:00,49220339,17,US Military's cyber command unit grapples with cluster of deaths by suicide,213,337
+2026-08-08T23:36:19.345744+00:00,49223845,18,Amazon Is Creating the Biggest Pollution Source in the Country,189,92
+2026-08-08T23:36:19.345744+00:00,49221220,19,Gateway 2000's hilariously bad ads in the 90s (Part II),94,71
+2026-08-08T23:36:19.345744+00:00,49222189,20,“Code was never the hard part” is an insult to all programmers,515,337
+2026-08-08T23:36:19.345744+00:00,49189457,21,A physicist rigged his pet hamster’s wheel to upload to Strava,415,97
+2026-08-08T23:36:19.345744+00:00,49214008,22,DeepSeek V4 Flash 0731,754,451
+2026-08-08T23:36:19.345744+00:00,49219508,23,Hardware backdoors in some x86 CPUs,330,93
+2026-08-08T23:36:19.345744+00:00,49215786,24,Lost my phone at the office. Claude suggested tracking Bluetooth signal strength,200,151
+2026-08-08T23:36:19.345744+00:00,49177224,25,From your doorbell to your home network,73,10
+2026-08-08T23:36:19.345744+00:00,49222824,26,Message your other Claude Code sessions,40,22
+2026-08-08T23:36:19.345744+00:00,49221679,27,Voyager 1 FDS Computer Emulator,72,12
+2026-08-08T23:36:19.345744+00:00,49163466,28,BYOC Is Not Just 'Deploy into Their Cloud',66,10
+2026-08-08T23:36:19.345744+00:00,49216946,29,U.S. Department of Energy Launches the Genesis Open Models Initiative,340,143
+2026-08-08T23:36:19.345744+00:00,49225676,30,The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf],14,4
+2026-08-08T23:36:19.345744+00:00,49214098,31,Assembly Hall of Shame,410,104
+2026-08-08T23:36:19.345744+00:00,49221864,32,Gentoo bugzilla closed due AI bot scraper overload,151,103
+2026-08-08T23:36:19.345744+00:00,49119508,33,k-Coloring is Faster than Computing the Chromatic Number,66,14
+2026-08-08T23:36:19.345744+00:00,49214770,34,"Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",251,78
+2026-08-08T23:36:19.345744+00:00,49141236,35,ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014),67,9
+2026-08-08T23:36:19.345744+00:00,49192556,36,Python string literals are kinda funny,57,48
+2026-08-08T23:36:19.345744+00:00,49184233,37,Monitors for Work,72,50
+2026-08-08T23:36:19.345744+00:00,49223105,38,Wireblast a 100 Gbps packet generator in Go using AF_XDP,28,10
+2026-08-08T23:36:19.345744+00:00,49224568,39,8 Out of 10 Banks in Belgium Hate This One Weird EID RCE,6,0
+2026-08-08T23:36:19.345744+00:00,49226225,40,Switzerland is a neutral nation but has more nuclear bunkers than any country,8,1
+2026-08-08T23:36:19.345744+00:00,49214468,41,Managing AI Coding Costs at Scale,299,253
+2026-08-08T23:36:19.345744+00:00,49225026,42,"ACM Europe Summer School on MLIR 2026: Streamed Live, August 10-14",3,0
+2026-08-08T23:36:19.345744+00:00,49209539,43,What happens if an entire class of workers loses faith in their careers,971,1139
+2026-08-08T23:36:19.345744+00:00,49164184,44,"As a Windows user, it's a surreal way to install a program",196,160
+2026-08-08T23:36:19.345744+00:00,49224241,45,"Show HN: Algebruh - Cross-check arithmetic claims with Z3, cvc5, and Lean",5,0
+2026-08-08T23:36:19.345744+00:00,49218179,46,NASA figured out how to keep its Voyager 2 probe running for another year,352,80
+2026-08-08T23:36:19.345744+00:00,49135261,47,SupererDuperer,159,34
+2026-08-08T23:36:19.345744+00:00,49220313,48,Europe's free satellite service just made it easier to track wildfires,148,13
+2026-08-08T23:36:19.345744+00:00,49209572,49,Radical Study Suggests Life on Earth Arose Twice,186,110
+2026-08-08T23:36:19.345744+00:00,49135457,50,Carl's Required Reading,223,30
