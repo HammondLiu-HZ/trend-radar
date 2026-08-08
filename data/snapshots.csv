@@ -25276,3 +25276,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-07T23:40:09.211018+00:00,49215898,48,Mailüfterl (Early Transistorized Computer),8,1
 2026-08-07T23:40:09.211018+00:00,49214994,49,"Claude Code: Starting August 14, auto mode will be the default permission mode",14,11
 2026-08-07T23:40:09.211018+00:00,49216075,50,YouTube's AI Detection Kicked Us in the Face,11,0
+2026-08-08T02:07:32.332707+00:00,49217993,1,The Nixpkgs core team has disbanded,51,7
+2026-08-08T02:07:32.332707+00:00,49214008,2,DeepSeek V4 Flash 0731,473,285
+2026-08-08T02:07:32.332707+00:00,49216946,3,U.S. Department of Energy Launches the Genesis Open Models Initiative,95,39
+2026-08-08T02:07:32.332707+00:00,49214098,4,Assembly Hall of Shame,257,61
+2026-08-08T02:07:32.332707+00:00,49214770,5,"Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",152,51
+2026-08-08T02:07:32.332707+00:00,49209539,6,What happens if an entire class of workers loses faith in their careers,433,541
+2026-08-08T02:07:32.332707+00:00,49213029,7,Responding to the next frontier of critical cyber capabilities,156,167
+2026-08-08T02:07:32.332707+00:00,49213754,8,Oracle bans AI-generated code from OpenJDK,394,260
+2026-08-08T02:07:32.332707+00:00,49214468,9,Managing AI Coding Costs at Scale,168,173
+2026-08-08T02:07:32.332707+00:00,49211921,10,An all-sky map of half a million supermassive black holes,143,35
+2026-08-08T02:07:32.332707+00:00,49171223,11,Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years,17,5
+2026-08-08T02:07:32.332707+00:00,49157770,12,Guarded Methods in OCaml (2025),56,5
+2026-08-08T02:07:32.332707+00:00,49216362,13,"Water system controllers don't belong on the internet, says ex-NSA chief",129,89
+2026-08-08T02:07:32.332707+00:00,49214775,14,Psychological Warfare in Reverse Engineering (2015),52,2
+2026-08-08T02:07:32.332707+00:00,49135457,15,Carl's Required Reading,104,11
+2026-08-08T02:07:32.332707+00:00,49208535,16,"Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",251,119
+2026-08-08T02:07:32.332707+00:00,49207236,17,2027 memory capacity is reportedly sold out,245,230
+2026-08-08T02:07:32.332707+00:00,49146540,18,Captain Bible Reverse Engineering,13,3
+2026-08-08T02:07:32.332707+00:00,49208393,19,Kitesurf: Agent-first browser that runs in V8 isolates,169,43
+2026-08-08T02:07:32.332707+00:00,49209572,20,Radical Study Suggests Life on Earth Arose Twice,99,85
+2026-08-08T02:07:32.332707+00:00,49208458,21,"Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",141,60
+2026-08-08T02:07:32.332707+00:00,49209385,22,Show HN: Wyzer Programming Language,174,100
+2026-08-08T02:07:32.332707+00:00,49141521,23,Why are all the amounts values negative?,35,9
+2026-08-08T02:07:32.332707+00:00,49204352,24,New Mexico court orders Meta to pay $567m over harms to children’s mental health,723,396
+2026-08-08T02:07:32.332707+00:00,49211660,25,Möbius-Strip Crosswords,53,7
+2026-08-08T02:07:32.332707+00:00,49163202,26,"Curlese, Five Years Later",10,2
+2026-08-08T02:07:32.332707+00:00,49211386,27,A year of fighting scrapers on my 1.5 million-page website,379,359
+2026-08-08T02:07:32.332707+00:00,49158302,28,Why Are There Statues of Beavers on Top of This Oxford Street Shop?,53,32
+2026-08-08T02:07:32.332707+00:00,49201970,29,AMD acquires Taalas to boost inference performance by etching models in silicon,888,666
+2026-08-08T02:07:32.332707+00:00,49147721,30,Energizing a vacuum-tube flip-flop module from a 1948 IBM system,25,5
+2026-08-08T02:07:32.332707+00:00,49170241,31,Building community out of strangers (2023),34,1
+2026-08-08T02:07:32.332707+00:00,49158934,32,Petri Nets as a Music Sequencer,67,21
+2026-08-08T02:07:32.332707+00:00,49145259,33,Thoroughly Understanding C++ ABI (2024),65,60
+2026-08-08T02:07:32.332707+00:00,49198464,34,Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks,227,156
+2026-08-08T02:07:32.332707+00:00,49129015,35,Atomic Clocks,132,79
+2026-08-08T02:07:32.332707+00:00,49112511,36,TypeStax: A type scale generator with vintage audio hardware interface,50,18
+2026-08-08T02:07:32.332707+00:00,49203105,37,Welcoming the Nepalese Government to Have I Been Pwned,208,35
+2026-08-08T02:07:32.332707+00:00,49195231,38,Mario Meets Pareto,1139,165
+2026-08-08T02:07:32.332707+00:00,49202690,39,What is a product?,97,62
+2026-08-08T02:07:32.332707+00:00,49217629,40,Should AI labs be treated like the owners of dangerous animals?,35,46
+2026-08-08T02:07:32.332707+00:00,49092746,41,The BBC Tetris Companion,76,11
+2026-08-08T02:07:32.332707+00:00,49199346,42,Taste Is All That's Left,652,515
+2026-08-08T02:07:32.332707+00:00,49163879,43,Why Estonians invite strangers into their back gardens each summer,144,55
+2026-08-08T02:07:32.332707+00:00,49214863,44,App Store Rejection of the Week: Dark Hours,287,166
+2026-08-08T02:07:32.332707+00:00,49156157,45,A quine in Piet – a GIF image that prints itself [video],76,9
+2026-08-08T02:07:32.332707+00:00,49215786,46,Lost my phone at the office. Claude suggested tracking Bluetooth signal strength,31,32
+2026-08-08T02:07:32.332707+00:00,49138446,47,São Paulo resident transforms degraded area into urban forest,334,120
+2026-08-08T02:07:32.332707+00:00,49113256,48,STV: A full-motion video codec for the Atari ST,87,12
+2026-08-08T02:07:32.332707+00:00,49094200,49,Britain's New World of Tobacco (2017),17,0
+2026-08-08T02:07:32.332707+00:00,49162080,50,Reverse Jevons Paradox,53,54
