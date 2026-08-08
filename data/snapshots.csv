@@ -25476,3 +25476,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-08T07:05:12.083008+00:00,49112511,48,TypeStax: A type scale generator with vintage audio hardware interface,57,19
 2026-08-08T07:05:12.083008+00:00,49202690,49,What is a product?,99,63
 2026-08-08T07:05:12.083008+00:00,49163879,50,Why Estonians invite strangers into their back gardens each summer,148,54
+2026-08-08T08:51:58.876187+00:00,49219508,1,Hardware backdoors in some x86 CPUs,65,12
+2026-08-08T08:51:58.876187+00:00,49189457,2,A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava,164,29
+2026-08-08T08:51:58.876187+00:00,49214008,3,DeepSeek V4 Flash 0731,608,366
+2026-08-08T08:51:58.876187+00:00,49216946,4,U.S. Department of Energy Launches the Genesis Open Models Initiative,222,74
+2026-08-08T08:51:58.876187+00:00,49209539,5,What happens if an entire class of workers loses faith in their careers,621,693
+2026-08-08T08:51:58.876187+00:00,49214098,6,Assembly Hall of Shame,336,83
+2026-08-08T08:51:58.876187+00:00,49218179,7,NASA figured out how to keep its Voyager 2 probe running for another year,219,39
+2026-08-08T08:51:58.876187+00:00,49214770,8,"Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",203,63
+2026-08-08T08:51:58.876187+00:00,49135261,9,SupererDuperer,97,19
+2026-08-08T08:51:58.876187+00:00,49217993,10,The Nixpkgs core team has disbanded,285,135
+2026-08-08T08:51:58.876187+00:00,49171223,11,Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years,69,29
+2026-08-08T08:51:58.876187+00:00,49214468,12,Managing AI Coding Costs at Scale,231,201
+2026-08-08T08:51:58.876187+00:00,49141236,13,ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014),7,0
+2026-08-08T08:51:58.876187+00:00,49169417,14,From One Seed to a Thousand Leaves – Merkle's Authentication Tree,14,0
+2026-08-08T08:51:58.876187+00:00,49207236,15,2027 memory capacity is reportedly sold out,350,311
+2026-08-08T08:51:58.876187+00:00,49213754,16,Oracle bans AI-generated code from OpenJDK,465,315
+2026-08-08T08:51:58.876187+00:00,49211921,17,An all-sky map of half a million supermassive black holes,166,37
+2026-08-08T08:51:58.876187+00:00,49213029,18,Responding to the next frontier of critical cyber capabilities,182,175
+2026-08-08T08:51:58.876187+00:00,49135457,19,Carl's Required Reading,161,20
+2026-08-08T08:51:58.876187+00:00,49209572,20,Radical Study Suggests Life on Earth Arose Twice,139,99
+2026-08-08T08:51:58.876187+00:00,49208535,21,"Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",284,136
+2026-08-08T08:51:58.876187+00:00,49214775,22,Psychological Warfare in Reverse Engineering (2015),69,4
+2026-08-08T08:51:58.876187+00:00,49208393,23,Kitesurf: Agent-first browser that runs in V8 isolates,191,50
+2026-08-08T08:51:58.876187+00:00,49216362,24,"Water system controllers don't belong on the internet, says ex-NSA chief",188,124
+2026-08-08T08:51:58.876187+00:00,49147907,25,Games at the press of a button: The Rip-O-Bot (1989),32,9
+2026-08-08T08:51:58.876187+00:00,49157770,26,Guarded Methods in OCaml (2025),67,6
+2026-08-08T08:51:58.876187+00:00,49204352,27,New Mexico court orders Meta to pay $567m over harms to children’s mental health,758,405
+2026-08-08T08:51:58.876187+00:00,49211660,28,Möbius-Strip Crosswords,72,10
+2026-08-08T08:51:58.876187+00:00,49218707,29,Mythos social engineering AISI INC-2026-07-28-01,60,17
+2026-08-08T08:51:58.876187+00:00,49209385,30,Show HN: Wyzer Programming Language,197,108
+2026-08-08T08:51:58.876187+00:00,49208458,31,"Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",168,67
+2026-08-08T08:51:58.876187+00:00,49201970,32,AMD acquires Taalas to boost inference performance by etching models in silicon,898,680
+2026-08-08T08:51:58.876187+00:00,49158302,33,Why Are There Statues of Beavers on Top of This Oxford Street Shop?,59,35
+2026-08-08T08:51:58.876187+00:00,49211386,34,A year of fighting scrapers on my 1.5 million-page website,417,378
+2026-08-08T08:51:58.876187+00:00,49198464,35,Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks,229,155
+2026-08-08T08:51:58.876187+00:00,49164184,36,"As a Windows user, it's a surreal way to install a program",133,104
+2026-08-08T08:51:58.876187+00:00,49195231,37,Mario Meets Pareto,1153,165
+2026-08-08T08:51:58.876187+00:00,49203105,38,Welcoming the Nepalese Government to Have I Been Pwned,210,35
+2026-08-08T08:51:58.876187+00:00,49141521,39,Why are all the amounts values negative?,39,19
+2026-08-08T08:51:58.876187+00:00,49146540,40,Captain Bible Reverse Engineering,29,2
+2026-08-08T08:51:58.876187+00:00,49129015,41,Atomic Clocks,136,79
+2026-08-08T08:51:58.876187+00:00,49170241,42,Building community out of strangers (2023),38,1
+2026-08-08T08:51:58.876187+00:00,49218871,43,"Samsung debuts three new memory technologies – zHBM, zNAND-O, and BV-NAND",12,0
+2026-08-08T08:51:58.876187+00:00,49145259,44,Thoroughly Understanding C++ ABI (2024),75,66
+2026-08-08T08:51:58.876187+00:00,49199346,45,Taste Is All That's Left,664,523
+2026-08-08T08:51:58.876187+00:00,49147721,46,Energizing a vacuum-tube flip-flop module from a 1948 IBM system,27,5
+2026-08-08T08:51:58.876187+00:00,49163879,47,Why Estonians invite strangers into their back gardens each summer,150,54
+2026-08-08T08:51:58.876187+00:00,49218817,48,"Facing 474 GW of interconnection requests, Texas hits pause on data centers",11,4
+2026-08-08T08:51:58.876187+00:00,49158934,49,Petri Nets as a Music Sequencer,69,23
+2026-08-08T08:51:58.876187+00:00,49202690,50,What is a product?,99,63
