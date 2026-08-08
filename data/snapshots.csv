@@ -25826,3 +25826,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-08T15:36:41.267339+00:00,49209385,48,Show HN: Wyzer Programming Language,206,109
 2026-08-08T15:36:41.267339+00:00,49211660,49,Möbius-Strip Crosswords,75,10
 2026-08-08T15:36:41.267339+00:00,49220827,50,Auto Mode will be the default in Claude Code – because humans can't be trusted,12,1
+2026-08-08T16:43:23.546941+00:00,49221668,1,"A domain can now say it is for sale, in DNS",137,60
+2026-08-08T16:43:23.546941+00:00,49220126,2,DeepMind's WeatherNext model achieves breakthrough forecasting cyclones,242,71
+2026-08-08T16:43:23.546941+00:00,49221220,3,Gateway 2000's hilariously bad ads in the 90s (Part II),52,39
+2026-08-08T16:43:23.546941+00:00,49220609,4,Timeline of the OpenAI accidental attack against Hugging Face,138,159
+2026-08-08T16:43:23.546941+00:00,49221679,5,Voyager 1 FDS Computer Emulator,33,8
+2026-08-08T16:43:23.546941+00:00,49221711,6,Triton: DirectX 11 Driver for QEMU,24,0
+2026-08-08T16:43:23.546941+00:00,49163466,7,BYOC Is Not Just 'Deploy into Their Cloud',37,7
+2026-08-08T16:43:23.546941+00:00,49221864,8,Gentoo bugzilla closed due AI bot scraper overload,80,35
+2026-08-08T16:43:23.546941+00:00,49220339,9,US Military's cyber command unit grapples with cluster of deaths by suicide,90,120
+2026-08-08T16:43:23.546941+00:00,49189457,10,A physicist rigged his pet hamster’s wheel to upload to Strava,350,84
+2026-08-08T16:43:23.546941+00:00,49219508,11,Hardware backdoors in some x86 CPUs,251,82
+2026-08-08T16:43:23.546941+00:00,49214008,12,DeepSeek V4 Flash 0731,714,431
+2026-08-08T16:43:23.546941+00:00,49177224,13,From your doorbell to your home network,14,0
+2026-08-08T16:43:23.546941+00:00,49216946,14,U.S. Department of Energy Launches the Genesis Open Models Initiative,309,122
+2026-08-08T16:43:23.546941+00:00,49189726,15,No one can afford to make Myst games anymore,40,59
+2026-08-08T16:43:23.546941+00:00,49209539,16,What happens if an entire class of workers loses faith in their careers,862,983
+2026-08-08T16:43:23.546941+00:00,49119508,17,k-Coloring is Faster than Computing the Chromatic Number,45,7
+2026-08-08T16:43:23.546941+00:00,49214098,18,Assembly Hall of Shame,387,95
+2026-08-08T16:43:23.546941+00:00,49141236,19,ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014),55,8
+2026-08-08T16:43:23.546941+00:00,49220392,20,"Microsoft Edge is about to lock out older ad blockers, just like Chrome did",113,106
+2026-08-08T16:43:23.546941+00:00,49220313,21,Europe's free satellite service just made it easier to track wildfires,111,9
+2026-08-08T16:43:23.546941+00:00,49141642,22,Show HN: Rotating torus in terminal (but with kitty graphics protocol),17,3
+2026-08-08T16:43:23.546941+00:00,49214770,23,"Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",236,75
+2026-08-08T16:43:23.546941+00:00,49215786,24,Lost my phone at the office. Claude suggested tracking Bluetooth signal strength,79,60
+2026-08-08T16:43:23.546941+00:00,49221947,25,Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All,28,7
+2026-08-08T16:43:23.546941+00:00,49164184,26,"As a Windows user, it's a surreal way to install a program",149,133
+2026-08-08T16:43:23.546941+00:00,49207236,27,2027 memory capacity is reportedly sold out,448,431
+2026-08-08T16:43:23.546941+00:00,49218179,28,NASA figured out how to keep its Voyager 2 probe running for another year,322,72
+2026-08-08T16:43:23.546941+00:00,49135261,29,SupererDuperer,146,29
+2026-08-08T16:43:23.546941+00:00,49214468,30,Managing AI Coding Costs at Scale,283,238
+2026-08-08T16:43:23.546941+00:00,49169417,31,From One Seed to a Thousand Leaves – Merkle's Authentication Tree,40,3
+2026-08-08T16:43:23.546941+00:00,49217993,32,The Nixpkgs core team has disbanded,360,182
+2026-08-08T16:43:23.546941+00:00,49135457,33,Carl's Required Reading,213,26
+2026-08-08T16:43:23.546941+00:00,49211921,34,An all-sky map of half a million supermassive black holes,182,40
+2026-08-08T16:43:23.546941+00:00,49209572,35,Radical Study Suggests Life on Earth Arose Twice,179,110
+2026-08-08T16:43:23.546941+00:00,49213029,36,Responding to the next frontier of critical cyber capabilities,194,186
+2026-08-08T16:43:23.546941+00:00,49208535,37,"Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",310,157
+2026-08-08T16:43:23.546941+00:00,49208393,38,Kitesurf: Agent-first browser that runs in V8 isolates,209,57
+2026-08-08T16:43:23.546941+00:00,49213754,39,Oracle bans AI-generated code from OpenJDK,504,362
+2026-08-08T16:43:23.546941+00:00,49204352,40,New Mexico court orders Meta to pay $567m over harms to children’s mental health,781,416
+2026-08-08T16:43:23.546941+00:00,49221939,41,Don't use your phone while you poop,161,163
+2026-08-08T16:43:23.546941+00:00,49214775,42,Psychological Warfare in Reverse Engineering (2015),78,4
+2026-08-08T16:43:23.546941+00:00,49157770,43,Guarded Methods in OCaml (2025),76,7
+2026-08-08T16:43:23.546941+00:00,49175774,44,Show HN: Sign language translation with smart glasses,17,9
+2026-08-08T16:43:23.546941+00:00,49216362,45,"Water system controllers don't belong on the internet, says ex-NSA chief",228,149
+2026-08-08T16:43:23.546941+00:00,49201970,46,AMD acquires Taalas to boost inference performance by etching models in silicon,914,690
+2026-08-08T16:43:23.546941+00:00,49220350,47,New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.,179,213
+2026-08-08T16:43:23.546941+00:00,49220390,48,Apple introduces leasing program for iPhones and other devices,24,56
+2026-08-08T16:43:23.546941+00:00,49208458,49,"Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",181,72
+2026-08-08T16:43:23.546941+00:00,49209385,50,Show HN: Wyzer Programming Language,208,109
