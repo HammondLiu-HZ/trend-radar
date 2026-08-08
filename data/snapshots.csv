@@ -25726,3 +25726,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-08T13:04:00.915024+00:00,49211386,48,A year of fighting scrapers on my 1.5 million-page website,428,393
 2026-08-08T13:04:00.915024+00:00,49221041,49,The USSR in 100 Photographs,52,48
 2026-08-08T13:04:00.915024+00:00,49203105,50,Welcoming the Nepalese Government to Have I Been Pwned,214,35
+2026-08-08T14:38:56.290722+00:00,49221668,1,"A domain can now say it is for sale, in DNS",41,17
+2026-08-08T14:38:56.290722+00:00,49221939,2,Don't use your phone while you poop,15,13
+2026-08-08T14:38:56.290722+00:00,49220126,3,DeepMind's WeatherNext model achieves breakthrough forecasting cyclones,159,48
+2026-08-08T14:38:56.290722+00:00,49221679,4,Voyager 1 FDS Computer Emulator,8,0
+2026-08-08T14:38:56.290722+00:00,49189457,5,A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava,326,73
+2026-08-08T14:38:56.290722+00:00,49219508,6,Hardware backdoors in some x86 CPUs,221,66
+2026-08-08T14:38:56.290722+00:00,49214008,7,DeepSeek V4 Flash 0731,696,419
+2026-08-08T14:38:56.290722+00:00,49221220,8,Gateway 2000's hilariously bad ads in the 90s (Part II),12,1
+2026-08-08T14:38:56.290722+00:00,49189726,9,No One Can Afford to Make Myst Games Anymore,28,21
+2026-08-08T14:38:56.290722+00:00,49216946,10,U.S. Department of Energy Launches the Genesis Open Models Initiative,286,107
+2026-08-08T14:38:56.290722+00:00,49221864,11,Gentoo bugzilla closed due AI bot scraper overload,15,1
+2026-08-08T14:38:56.290722+00:00,49209539,12,What happens if an entire class of workers loses faith in their careers,815,906
+2026-08-08T14:38:56.290722+00:00,49119508,13,k-Coloring is Faster than Computing the Chromatic Number,32,3
+2026-08-08T14:38:56.290722+00:00,49220313,14,Europe's free satellite service just made it easier to track wildfires,91,9
+2026-08-08T14:38:56.290722+00:00,49214098,15,Assembly Hall of Shame,379,93
+2026-08-08T14:38:56.290722+00:00,49141236,16,ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014),43,6
+2026-08-08T14:38:56.290722+00:00,49220392,17,"Microsoft Edge is about to lock out older ad blockers, just like Chrome did",53,44
+2026-08-08T14:38:56.290722+00:00,49220609,18,Now we have a timeline of the OpenAI accidental attack against Hugging Face,108,128
+2026-08-08T14:38:56.290722+00:00,49214770,19,"Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",227,72
+2026-08-08T14:38:56.290722+00:00,49218179,20,NASA figured out how to keep its Voyager 2 probe running for another year,305,62
+2026-08-08T14:38:56.290722+00:00,49207236,21,2027 memory capacity is reportedly sold out,424,410
+2026-08-08T14:38:56.290722+00:00,49141642,22,Show HN: Rotating torus in terminal (but with kitty graphics protocol),9,2
+2026-08-08T14:38:56.290722+00:00,49135261,23,SupererDuperer,135,28
+2026-08-08T14:38:56.290722+00:00,49214468,24,Managing AI Coding Costs at Scale,272,228
+2026-08-08T14:38:56.290722+00:00,49217993,25,The Nixpkgs core team has disbanded,344,168
+2026-08-08T14:38:56.290722+00:00,49169417,26,From One Seed to a Thousand Leaves – Merkle's Authentication Tree,32,2
+2026-08-08T14:38:56.290722+00:00,49211921,27,An all-sky map of half a million supermassive black holes,180,40
+2026-08-08T14:38:56.290722+00:00,49209572,28,Radical Study Suggests Life on Earth Arose Twice,177,110
+2026-08-08T14:38:56.290722+00:00,49135457,29,Carl's Required Reading,203,26
+2026-08-08T14:38:56.290722+00:00,49213029,30,Responding to the next frontier of critical cyber capabilities,191,185
+2026-08-08T14:38:56.290722+00:00,49208535,31,"Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",305,156
+2026-08-08T14:38:56.290722+00:00,49220350,32,New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.,160,186
+2026-08-08T14:38:56.290722+00:00,49213754,33,Oracle bans AI-generated code from OpenJDK,498,359
+2026-08-08T14:38:56.290722+00:00,49208393,34,Kitesurf: Agent-first browser that runs in V8 isolates,202,57
+2026-08-08T14:38:56.290722+00:00,49214775,35,Psychological Warfare in Reverse Engineering (2015),77,4
+2026-08-08T14:38:56.290722+00:00,49204352,36,New Mexico court orders Meta to pay $567m over harms to children’s mental health,778,413
+2026-08-08T14:38:56.290722+00:00,49175774,37,Show HN: Sign language translation with smart glasses,15,7
+2026-08-08T14:38:56.290722+00:00,49157770,38,Guarded Methods in OCaml (2025),75,7
+2026-08-08T14:38:56.290722+00:00,49158626,39,Tell Abu Hureyra (prehistoric archaeological site),20,1
+2026-08-08T14:38:56.290722+00:00,49216362,40,"Water system controllers don't belong on the internet, says ex-NSA chief",221,142
+2026-08-08T14:38:56.290722+00:00,49201970,41,AMD acquires Taalas to boost inference performance by etching models in silicon,912,687
+2026-08-08T14:38:56.290722+00:00,49209385,42,Show HN: Wyzer Programming Language,206,109
+2026-08-08T14:38:56.290722+00:00,49211660,43,Möbius-Strip Crosswords,75,10
+2026-08-08T14:38:56.290722+00:00,49208458,44,"Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",177,72
+2026-08-08T14:38:56.290722+00:00,49147907,45,Games at the press of a button: The Rip-O-Bot (1989),34,9
+2026-08-08T14:38:56.290722+00:00,49198464,46,Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks,229,155
+2026-08-08T14:38:56.290722+00:00,49220827,47,Auto Mode will be the default in Claude Code – because humans can't be trusted,9,0
+2026-08-08T14:38:56.290722+00:00,49171223,48,Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years,115,57
+2026-08-08T14:38:56.290722+00:00,49195231,49,Mario Meets Pareto,1162,165
+2026-08-08T14:38:56.290722+00:00,49158302,50,Why Are There Statues of Beavers on Top of This Oxford Street Shop?,61,40
