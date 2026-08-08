@@ -25626,3 +25626,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-08T10:41:16.186503+00:00,49146540,48,Captain Bible Reverse Engineering,29,2
 2026-08-08T10:41:16.186503+00:00,49202690,49,What is a product?,100,64
 2026-08-08T10:41:16.186503+00:00,49147721,50,Energizing a vacuum-tube flip-flop module from a 1948 IBM system,27,5
+2026-08-08T11:35:44.352777+00:00,49189457,1,A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava,244,48
+2026-08-08T11:35:44.352777+00:00,49220350,2,New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.,72,39
+2026-08-08T11:35:44.352777+00:00,49219508,3,Hardware backdoors in some x86 CPUs,140,45
+2026-08-08T11:35:44.352777+00:00,49214008,4,DeepSeek V4 Flash 0731,653,396
+2026-08-08T11:35:44.352777+00:00,49216946,5,U.S. Department of Energy Launches the Genesis Open Models Initiative,252,89
+2026-08-08T11:35:44.352777+00:00,49209539,6,What happens if an entire class of workers loses faith in their careers,718,802
+2026-08-08T11:35:44.352777+00:00,49220313,7,Europe's free satellite service just made it easier to track wildfires,32,4
+2026-08-08T11:35:44.352777+00:00,49214098,8,Assembly Hall of Shame,356,90
+2026-08-08T11:35:44.352777+00:00,49141236,9,ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014),26,3
+2026-08-08T11:35:44.352777+00:00,49218179,10,NASA figured out how to keep its Voyager 2 probe running for another year,258,48
+2026-08-08T11:35:44.352777+00:00,49220126,11,DeepMind's WeatherNext model achieves breakthrough forecasting cyclones,5,1
+2026-08-08T11:35:44.352777+00:00,49214770,12,"Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",213,69
+2026-08-08T11:35:44.352777+00:00,49135261,13,SupererDuperer,119,24
+2026-08-08T11:35:44.352777+00:00,49207236,14,2027 memory capacity is reportedly sold out,389,357
+2026-08-08T11:35:44.352777+00:00,49220390,15,Apple Introduces Leasing Program for iPhones and Other Devices,11,15
+2026-08-08T11:35:44.352777+00:00,49175774,16,Show HN: Sign language translation with smart glasses,5,2
+2026-08-08T11:35:44.352777+00:00,49214468,17,Managing AI Coding Costs at Scale,251,211
+2026-08-08T11:35:44.352777+00:00,49217993,18,The Nixpkgs core team has disbanded,313,153
+2026-08-08T11:35:44.352777+00:00,49220339,19,US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide,21,11
+2026-08-08T11:35:44.352777+00:00,49171223,20,Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years,101,45
+2026-08-08T11:35:44.352777+00:00,49169417,21,From One Seed to a Thousand Leaves – Merkle's Authentication Tree,22,0
+2026-08-08T11:35:44.352777+00:00,49158626,22,Tell Abu Hureyra (prehistoric archaeological site),8,0
+2026-08-08T11:35:44.352777+00:00,49211921,23,An all-sky map of half a million supermassive black holes,170,38
+2026-08-08T11:35:44.352777+00:00,49135457,24,Carl's Required Reading,187,23
+2026-08-08T11:35:44.352777+00:00,49213029,25,Responding to the next frontier of critical cyber capabilities,188,180
+2026-08-08T11:35:44.352777+00:00,49209572,26,Radical Study Suggests Life on Earth Arose Twice,159,102
+2026-08-08T11:35:44.352777+00:00,49213754,27,Oracle bans AI-generated code from OpenJDK,481,342
+2026-08-08T11:35:44.352777+00:00,49208535,28,"Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",293,146
+2026-08-08T11:35:44.352777+00:00,49208393,29,Kitesurf: Agent-first browser that runs in V8 isolates,197,52
+2026-08-08T11:35:44.352777+00:00,49214775,30,Psychological Warfare in Reverse Engineering (2015),74,4
+2026-08-08T11:35:44.352777+00:00,49157770,31,Guarded Methods in OCaml (2025),72,7
+2026-08-08T11:35:44.352777+00:00,49216362,32,"Water system controllers don't belong on the internet, says ex-NSA chief",206,137
+2026-08-08T11:35:44.352777+00:00,49220392,33,"Microsoft Edge is about to lock out older ad blockers, just like Chrome did",7,2
+2026-08-08T11:35:44.352777+00:00,49204352,34,New Mexico court orders Meta to pay $567m over harms to children’s mental health,767,407
+2026-08-08T11:35:44.352777+00:00,49147907,35,Games at the press of a button: The Rip-O-Bot (1989),34,9
+2026-08-08T11:35:44.352777+00:00,49201970,36,AMD acquires Taalas to boost inference performance by etching models in silicon,904,684
+2026-08-08T11:35:44.352777+00:00,49211660,37,Möbius-Strip Crosswords,74,10
+2026-08-08T11:35:44.352777+00:00,49209385,38,Show HN: Wyzer Programming Language,201,108
+2026-08-08T11:35:44.352777+00:00,49208458,39,"Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",172,70
+2026-08-08T11:35:44.352777+00:00,49198464,40,Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks,229,155
+2026-08-08T11:35:44.352777+00:00,49158302,41,Why Are There Statues of Beavers on Top of This Oxford Street Shop?,60,39
+2026-08-08T11:35:44.352777+00:00,49211386,42,A year of fighting scrapers on my 1.5 million-page website,424,390
+2026-08-08T11:35:44.352777+00:00,49195231,43,Mario Meets Pareto,1156,165
+2026-08-08T11:35:44.352777+00:00,49218707,44,Mythos social engineering AISI INC-2026-07-28-01,68,18
+2026-08-08T11:35:44.352777+00:00,49203105,45,Welcoming the Nepalese Government to Have I Been Pwned,214,35
+2026-08-08T11:35:44.352777+00:00,49129015,46,Atomic Clocks,137,79
+2026-08-08T11:35:44.352777+00:00,49199346,47,Taste Is All That's Left,668,524
+2026-08-08T11:35:44.352777+00:00,49141521,48,Why are all the amounts values negative?,40,20
+2026-08-08T11:35:44.352777+00:00,49145259,49,Thoroughly Understanding C++ ABI (2024),77,72
+2026-08-08T11:35:44.352777+00:00,49163879,50,Why Estonians invite strangers into their back gardens each summer,151,54
