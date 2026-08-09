@@ -26676,3 +26676,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-09T13:06:17.540795+00:00,49224294,48,Danish high schoolers will have to verbally defend written assignments,587,261
 2026-08-09T13:06:17.540795+00:00,49221220,49,Gateway 2000's hilariously bad ads in the 90s (Part II),114,95
 2026-08-09T13:06:17.540795+00:00,49224020,50,"TinySol, a tiny solitaire game for DOS",58,18
+2026-08-09T14:41:54.878716+00:00,49231154,1,Mea Culpa – Dark Hours,111,46
+2026-08-09T14:41:54.878716+00:00,49230891,2,Show HN: A Project Oberon System version running on RISC-V instead of RISC-5,23,3
+2026-08-09T14:41:54.878716+00:00,49229174,3,There Are Magic Hexagons of Every Order,115,20
+2026-08-09T14:41:54.878716+00:00,49230022,4,The Alpha 21264 CPU: NT's Greatest RISC (1998),41,20
+2026-08-09T14:41:54.878716+00:00,49226636,5,My server is a phone now,411,184
+2026-08-09T14:41:54.878716+00:00,49138084,6,Uber SubmitQueue: a high-performance speculative merge queue,30,9
+2026-08-09T14:41:54.878716+00:00,49228663,7,"Microsoft Word for Windows 1.1a, Native X64 Port",112,53
+2026-08-09T14:41:54.878716+00:00,49178476,8,The Grid That Doubles the Strength of the Ground,75,13
+2026-08-09T14:41:54.878716+00:00,49226923,9,"Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",211,129
+2026-08-09T14:41:54.878716+00:00,49223082,10,Fastmail offers EU data region,465,265
+2026-08-09T14:41:54.878716+00:00,49079995,11,Improving Heuristics for A* Pathfinding,306,32
+2026-08-09T14:41:54.878716+00:00,49226742,12,Dithered QR Codes,285,28
+2026-08-09T14:41:54.878716+00:00,49230514,13,Reviving a four year old reMarkable 2,64,49
+2026-08-09T14:41:54.878716+00:00,49168282,14,Protopia,37,29
+2026-08-09T14:41:54.878716+00:00,49226536,15,Shopify replaced Redis with MySQL for inventory reservations–and it scaled,272,178
+2026-08-09T14:41:54.878716+00:00,49156607,16,"Honey, I shrunk the embeddings: Matryoshka vs. PCA",6,1
+2026-08-09T14:41:54.878716+00:00,49230424,17,Switching to electric stoves can dramatically cut indoor air pollution,8,2
+2026-08-09T14:41:54.878716+00:00,49230630,18,Why Wall Street Is Ignoring Big Tech's Debt,38,21
+2026-08-09T14:41:54.878716+00:00,49228458,19,The original URL for this prediction will no longer be available in 11 years (2011),176,82
+2026-08-09T14:41:54.878716+00:00,49227505,20,TheoremDB – A public workspace for machine mathematics,66,8
+2026-08-09T14:41:54.878716+00:00,49180649,21,Making difficulty curves in games,141,56
+2026-08-09T14:41:54.878716+00:00,49149163,22,Unexpected events and prosocial behavior: the Batman effect (2025),74,23
+2026-08-09T14:41:54.878716+00:00,49167096,23,Stylized GGX Shading,42,0
+2026-08-09T14:41:54.878716+00:00,49225139,24,Open-source interactive map for the Aug 12 total solar eclipse,174,55
+2026-08-09T14:41:54.878716+00:00,49229848,25,"Show HN: Airy – Free, fast, and simple voice content creation",14,7
+2026-08-09T14:41:54.878716+00:00,49226563,26,Should you stop cracking your knuckles?,85,90
+2026-08-09T14:41:54.878716+00:00,49230477,27,Everything You Do Is Being Recorded,93,78
+2026-08-09T14:41:54.878716+00:00,49230066,28,CSS: The bomb inside your inbox,54,18
+2026-08-09T14:41:54.878716+00:00,49170765,29,The Dynamics of the Egg,5,0
+2026-08-09T14:41:54.878716+00:00,49133850,30,Building a local positioning system to track runners using Ultra-Wideband,97,8
+2026-08-09T14:41:54.878716+00:00,49221711,31,Triton: DirectX 11 Driver for QEMU,195,42
+2026-08-09T14:41:54.878716+00:00,49227365,32,Melatonin impairs morning cognition in healthy young adults (2023),157,172
+2026-08-09T14:41:54.878716+00:00,49228166,33,Retraction: The App Store Rejection of the Week That Was a Correct Rejection,261,49
+2026-08-09T14:41:54.878716+00:00,49145193,34,Finding zombies in our systems: A real-world story of CPU bottlenecks,61,10
+2026-08-09T14:41:54.878716+00:00,49230605,35,70% of AI revenue comes from OpenAI and Anthropic,17,3
+2026-08-09T14:41:54.878716+00:00,49229412,36,Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost,70,52
+2026-08-09T14:41:54.878716+00:00,49222824,37,Message your other Claude Code sessions,138,61
+2026-08-09T14:41:54.878716+00:00,49187681,38,How to Survive in a Louisiana Swamp,30,5
+2026-08-09T14:41:54.878716+00:00,49222189,39,“Code was never the hard part” is an insult to all programmers,802,482
+2026-08-09T14:41:54.878716+00:00,49230550,40,"Show HN: DeepSeek-V4 Latent Reasoning – moving ""thinking"" into latent space",26,19
+2026-08-09T14:41:54.878716+00:00,49221668,41,_for-sale DNS records,420,157
+2026-08-09T14:41:54.878716+00:00,49082647,42,Fixing my tooltip accessibility mistake,48,6
+2026-08-09T14:41:54.878716+00:00,49151146,43,Datalog Disassembly,57,6
+2026-08-09T14:41:54.878716+00:00,49220126,44,DeepMind's WeatherNext model achieves breakthrough forecasting cyclones,426,125
+2026-08-09T14:41:54.878716+00:00,49169973,45,Preventing Misfolding by Preventing Folding,63,4
+2026-08-09T14:41:54.878716+00:00,49179352,46,The Sound and Music of 'Hyper Light Drifter' [video],49,11
+2026-08-09T14:41:54.878716+00:00,49227652,47,Incentives are for losers,143,107
+2026-08-09T14:41:54.878716+00:00,49220609,48,Timeline of the OpenAI accidental attack against Hugging Face,402,392
+2026-08-09T14:41:54.878716+00:00,49221220,49,Gateway 2000's hilariously bad ads in the 90s (Part II),114,95
+2026-08-09T14:41:54.878716+00:00,49229621,50,DeepSeek V4 Flash 0731: 82.7% on Terminal-Bench 2.1 with a public harness,5,2
