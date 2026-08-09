@@ -26726,3 +26726,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-09T14:41:54.878716+00:00,49220609,48,Timeline of the OpenAI accidental attack against Hugging Face,402,392
 2026-08-09T14:41:54.878716+00:00,49221220,49,Gateway 2000's hilariously bad ads in the 90s (Part II),114,95
 2026-08-09T14:41:54.878716+00:00,49229621,50,DeepSeek V4 Flash 0731: 82.7% on Terminal-Bench 2.1 with a public harness,5,2
+2026-08-09T15:38:45.258722+00:00,49231154,1,Mea Culpa – Dark Hours,202,85
+2026-08-09T15:38:45.258722+00:00,49230891,2,Show HN: A Project Oberon System version running on RISC-V instead of RISC-5,44,12
+2026-08-09T15:38:45.258722+00:00,49231397,3,John C. Lilly on solid state intelligence and the elimination of man (1978),19,5
+2026-08-09T15:38:45.258722+00:00,49229174,4,There Are Magic Hexagons of Every Order,128,20
+2026-08-09T15:38:45.258722+00:00,49138084,5,Uber SubmitQueue: a high-performance speculative merge queue,50,34
+2026-08-09T15:38:45.258722+00:00,49226636,6,My server is a phone now,426,194
+2026-08-09T15:38:45.258722+00:00,49230022,7,The Alpha 21264 CPU: NT's Greatest RISC (1998),48,25
+2026-08-09T15:38:45.258722+00:00,49228663,8,"Microsoft Word for Windows 1.1a, Native X64 Port",120,53
+2026-08-09T15:38:45.258722+00:00,49226923,9,"Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",216,142
+2026-08-09T15:38:45.258722+00:00,49178476,10,The Grid That Doubles the Strength of the Ground,87,18
+2026-08-09T15:38:45.258722+00:00,49223082,11,Fastmail offers EU data region,471,273
+2026-08-09T15:38:45.258722+00:00,49226742,12,Dithered QR Codes,305,31
+2026-08-09T15:38:45.258722+00:00,49156607,13,"Honey, I shrunk the embeddings: Matryoshka vs. PCA",20,1
+2026-08-09T15:38:45.258722+00:00,49079995,14,Improving Heuristics for A* Pathfinding,312,33
+2026-08-09T15:38:45.258722+00:00,49230514,15,Reviving a four year old reMarkable 2,74,56
+2026-08-09T15:38:45.258722+00:00,49168282,16,Protopia,40,38
+2026-08-09T15:38:45.258722+00:00,49226536,17,Shopify replaced Redis with MySQL for inventory reservations–and it scaled,285,189
+2026-08-09T15:38:45.258722+00:00,49162740,18,When the apartment listing is too good to be true,14,7
+2026-08-09T15:38:45.258722+00:00,49227505,19,TheoremDB – A public workspace for machine mathematics,72,8
+2026-08-09T15:38:45.258722+00:00,49228458,20,The original URL for this prediction will no longer be available in 11 years (2011),184,85
+2026-08-09T15:38:45.258722+00:00,49180649,21,Making difficulty curves in games,146,64
+2026-08-09T15:38:45.258722+00:00,49149163,22,Unexpected events and prosocial behavior: the Batman effect (2025),76,25
+2026-08-09T15:38:45.258722+00:00,49226563,23,Should you stop cracking your knuckles?,94,98
+2026-08-09T15:38:45.258722+00:00,49230066,24,CSS: The bomb inside your inbox,70,20
+2026-08-09T15:38:45.258722+00:00,49167096,25,Stylized GGX Shading,47,0
+2026-08-09T15:38:45.258722+00:00,49225139,26,Open-source interactive map for the Aug 12 total solar eclipse,179,56
+2026-08-09T15:38:45.258722+00:00,49229848,27,"Show HN: Airy – Free, fast, and simple voice content creation",16,11
+2026-08-09T15:38:45.258722+00:00,49133850,28,Building a local positioning system to track runners using Ultra-Wideband,98,8
+2026-08-09T15:38:45.258722+00:00,49221711,29,Triton: DirectX 11 Driver for QEMU,196,43
+2026-08-09T15:38:45.258722+00:00,49230605,30,70% of AI revenue comes from OpenAI and Anthropic,33,15
+2026-08-09T15:38:45.258722+00:00,49228166,31,Retraction: The App Store Rejection of the Week That Was a Correct Rejection,273,50
+2026-08-09T15:38:45.258722+00:00,49170765,32,The Dynamics of the Egg,10,0
+2026-08-09T15:38:45.258722+00:00,49145193,33,Finding zombies in our systems: A real-world story of CPU bottlenecks,63,10
+2026-08-09T15:38:45.258722+00:00,49187681,34,How to Survive in a Louisiana Swamp,31,5
+2026-08-09T15:38:45.258722+00:00,49222824,35,Message your other Claude Code sessions,139,61
+2026-08-09T15:38:45.258722+00:00,49227365,36,Melatonin impairs morning cognition in healthy young adults (2023),160,181
+2026-08-09T15:38:45.258722+00:00,49222189,37,“Code was never the hard part” is an insult to all programmers,812,490
+2026-08-09T15:38:45.258722+00:00,49221668,38,_for-sale DNS records,422,159
+2026-08-09T15:38:45.258722+00:00,49082647,39,Fixing my tooltip accessibility mistake,48,9
+2026-08-09T15:38:45.258722+00:00,49151146,40,Datalog Disassembly,57,6
+2026-08-09T15:38:45.258722+00:00,49229621,41,DeepSeek V4 Flash 0731: 82.7% on Terminal-Bench 2.1 with a public harness,8,2
+2026-08-09T15:38:45.258722+00:00,49220126,42,DeepMind's WeatherNext model achieves breakthrough forecasting cyclones,426,125
+2026-08-09T15:38:45.258722+00:00,49230424,43,Switching to electric stoves can dramatically cut indoor air pollution,38,61
+2026-08-09T15:38:45.258722+00:00,49169973,44,Preventing Misfolding by Preventing Folding,63,4
+2026-08-09T15:38:45.258722+00:00,49230477,45,Everything You Do Is Being Recorded,105,99
+2026-08-09T15:38:45.258722+00:00,49229412,46,Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost,71,56
+2026-08-09T15:38:45.258722+00:00,49179352,47,The Sound and Music of 'Hyper Light Drifter' [video],50,11
+2026-08-09T15:38:45.258722+00:00,49220609,48,Timeline of the OpenAI accidental attack against Hugging Face,404,393
+2026-08-09T15:38:45.258722+00:00,49221220,49,Gateway 2000's hilariously bad ads in the 90s (Part II),115,95
+2026-08-09T15:38:45.258722+00:00,49224294,50,Danish high schoolers will have to verbally defend written assignments,595,269
