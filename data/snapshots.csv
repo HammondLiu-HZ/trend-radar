@@ -26226,3 +26226,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-08T23:36:19.345744+00:00,49220313,48,Europe's free satellite service just made it easier to track wildfires,148,13
 2026-08-08T23:36:19.345744+00:00,49209572,49,Radical Study Suggests Life on Earth Arose Twice,186,110
 2026-08-08T23:36:19.345744+00:00,49135457,50,Carl's Required Reading,223,30
+2026-08-09T02:19:13.875775+00:00,49226636,1,My server is a phone now,107,47
+2026-08-09T02:19:13.875775+00:00,49226923,2,"Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",43,10
+2026-08-09T02:19:13.875775+00:00,49079995,3,Improving Heuristics for A* Pathfinding,78,10
+2026-08-09T02:19:13.875775+00:00,49223082,4,Fastmail offers EU data region,327,149
+2026-08-09T02:19:13.875775+00:00,49226536,5,Shopify replaced Redis with MySQL for inventory reservations–and it scaled,57,16
+2026-08-09T02:19:13.875775+00:00,49221668,6,_for-sale DNS records,355,132
+2026-08-09T02:19:13.875775+00:00,49179352,7,The Sound and Music of 'Hyper Light Drifter' [video],19,1
+2026-08-09T02:19:13.875775+00:00,49225139,8,Open-source interactive map for the Aug 12 total solar eclipse,93,18
+2026-08-09T02:19:13.875775+00:00,49226742,9,Dithered QR Codes,32,3
+2026-08-09T02:19:13.875775+00:00,49223079,10,Can Intel finally beat ARM on performance per Watt?,168,103
+2026-08-09T02:19:13.875775+00:00,49180649,11,Making difficulty curves in games,63,21
+2026-08-09T02:19:13.875775+00:00,49220126,12,DeepMind's WeatherNext model achieves breakthrough forecasting cyclones,393,118
+2026-08-09T02:19:13.875775+00:00,49220609,13,Timeline of the OpenAI accidental attack against Hugging Face,347,353
+2026-08-09T02:19:13.875775+00:00,49225918,14,Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack,94,52
+2026-08-09T02:19:13.875775+00:00,49226563,15,Should you stop cracking your knuckles?,13,9
+2026-08-09T02:19:13.875775+00:00,49221711,16,Triton: DirectX 11 Driver for QEMU,140,25
+2026-08-09T02:19:13.875775+00:00,49220339,17,US Military's cyber command unit grapples with cluster of deaths by suicide,253,397
+2026-08-09T02:19:13.875775+00:00,49133850,18,Building a local positioning system to track runners using Ultra-Wideband,44,3
+2026-08-09T02:19:13.875775+00:00,49169973,19,Preventing Misfolding by Preventing Folding,46,1
+2026-08-09T02:19:13.875775+00:00,49151146,20,DDisasm: Reversible (bi-directional) Disassembler,21,3
+2026-08-09T02:19:13.875775+00:00,49224020,21,"TinySol, a tiny solitaire game for DOS",49,12
+2026-08-09T02:19:13.875775+00:00,49224294,22,Danish high schoolers will have to verbally defend written assignments,518,246
+2026-08-09T02:19:13.875775+00:00,49160383,23,When Feature Flags Do and Don't Make Sense,6,0
+2026-08-09T02:19:13.875775+00:00,49221220,24,Gateway 2000's hilariously bad ads in the 90s (Part II),103,81
+2026-08-09T02:19:13.875775+00:00,49222189,25,“Code was never the hard part” is an insult to all programmers,589,367
+2026-08-09T02:19:13.875775+00:00,49215786,26,Lost my phone at the office. Claude suggested tracking Bluetooth signal strength,224,164
+2026-08-09T02:19:13.875775+00:00,49227521,27,The AI Apocalypse Is Here,16,5
+2026-08-09T02:19:13.875775+00:00,49219508,28,Hardware backdoors in some x86 CPUs,349,94
+2026-08-09T02:19:13.875775+00:00,49222824,29,Message your other Claude Code sessions,68,33
+2026-08-09T02:19:13.875775+00:00,49225676,30,The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf] (1960),29,10
+2026-08-09T02:19:13.875775+00:00,49221679,31,Voyager 1 FDS Computer Emulator,79,12
+2026-08-09T02:19:13.875775+00:00,49163466,32,BYOC Anywhere: The Spectrum of Bring Your Own Cloud Deployments,69,11
+2026-08-09T02:19:13.875775+00:00,49177224,33,From your doorbell to your home network,80,10
+2026-08-09T02:19:13.875775+00:00,49226827,34,Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal,19,12
+2026-08-09T02:19:13.875775+00:00,49226647,35,You can build an AI agent's memory layer with only Go's standard library,4,2
+2026-08-09T02:19:13.875775+00:00,49214770,36,"Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",252,78
+2026-08-09T02:19:13.875775+00:00,49221864,37,Gentoo bugzilla closed due AI bot scraper overload,152,105
+2026-08-09T02:19:13.875775+00:00,49141236,38,ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014),69,9
+2026-08-09T02:19:13.875775+00:00,49189457,39,A physicist rigged his pet hamster’s wheel to upload to Strava,425,97
+2026-08-09T02:19:13.875775+00:00,49119508,40,k-Coloring is Faster than Computing the Chromatic Number,68,15
+2026-08-09T02:19:13.875775+00:00,49223845,41,Amazon Is Creating the Biggest Pollution Source in the Country,210,126
+2026-08-09T02:19:13.875775+00:00,49214008,42,DeepSeek V4 Flash 0731,765,457
+2026-08-09T02:19:13.875775+00:00,49223105,43,Wireblast a 100 Gbps packet generator in Go using AF_XDP,33,13
+2026-08-09T02:19:13.875775+00:00,49209539,44,What happens if an entire class of workers loses faith in their careers,984,1181
+2026-08-09T02:19:13.875775+00:00,49214468,45,Managing AI Coding Costs at Scale,300,258
+2026-08-09T02:19:13.875775+00:00,49223475,46,LinkedIn Feed Blocker,165,98
+2026-08-09T02:19:13.875775+00:00,49164184,47,"As a Windows user, it's a surreal way to install a program",203,166
+2026-08-09T02:19:13.875775+00:00,49218179,48,NASA figured out how to keep its Voyager 2 probe running for another year,358,82
+2026-08-09T02:19:13.875775+00:00,49135261,49,SupererDuperer,160,35
+2026-08-09T02:19:13.875775+00:00,49224568,50,8 Out of 10 Banks in Belgium Hate This One Weird EID RCE,7,1
