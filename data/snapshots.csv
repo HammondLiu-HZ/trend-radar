@@ -26776,3 +26776,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-09T15:38:45.258722+00:00,49220609,48,Timeline of the OpenAI accidental attack against Hugging Face,404,393
 2026-08-09T15:38:45.258722+00:00,49221220,49,Gateway 2000's hilariously bad ads in the 90s (Part II),115,95
 2026-08-09T15:38:45.258722+00:00,49224294,50,Danish high schoolers will have to verbally defend written assignments,595,269
+2026-08-09T16:44:45.525668+00:00,49231154,1,Mea Culpa – Dark Hours,272,120
+2026-08-09T16:44:45.525668+00:00,49230891,2,Show HN: A Project Oberon System version running on RISC-V instead of RISC-5,56,15
+2026-08-09T16:44:45.525668+00:00,49231397,3,John C. Lilly on solid state intelligence and the elimination of man (1978),33,14
+2026-08-09T16:44:45.525668+00:00,49231809,4,Cool URIs Don't Change (1998),16,2
+2026-08-09T16:44:45.525668+00:00,49156607,5,"Honey, I shrunk the embeddings: Matryoshka vs. PCA",52,9
+2026-08-09T16:44:45.525668+00:00,49232318,6,Criminal Deception in Silicon Valley,5,0
+2026-08-09T16:44:45.525668+00:00,49232221,7,Silicon Valley misreads science fiction and undermines democracy,77,44
+2026-08-09T16:44:45.525668+00:00,49229174,8,There Are Magic Hexagons of Every Order,141,19
+2026-08-09T16:44:45.525668+00:00,49232410,9,Every fast write moves work somewhere else,8,1
+2026-08-09T16:44:45.525668+00:00,49232369,10,Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW),8,3
+2026-08-09T16:44:45.525668+00:00,49226636,11,My server is a phone now,447,209
+2026-08-09T16:44:45.525668+00:00,49232138,12,Windows 11's built-in Weather app wastes more than 1 GB of RAM,32,16
+2026-08-09T16:44:45.525668+00:00,49230022,13,The Alpha 21264 CPU: NT's Greatest RISC (1998),55,36
+2026-08-09T16:44:45.525668+00:00,49228663,14,"Microsoft Word for Windows 1.1a, Native X64 Port",131,55
+2026-08-09T16:44:45.525668+00:00,49226923,15,"Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",222,146
+2026-08-09T16:44:45.525668+00:00,49232300,16,Human vs. AI – Diff-based line-level provenance for text under agentic editing,3,0
+2026-08-09T16:44:45.525668+00:00,49178476,17,The Grid That Doubles the Strength of the Ground,99,26
+2026-08-09T16:44:45.525668+00:00,49232253,18,Taxi drivers rarely die of Alzheimer's,22,13
+2026-08-09T16:44:45.525668+00:00,49231838,19,I Wanted to Own the Harness. Then Codex Desktop Won,9,5
+2026-08-09T16:44:45.525668+00:00,49223082,20,Fastmail offers EU data region,483,277
+2026-08-09T16:44:45.525668+00:00,49138084,21,Uber SubmitQueue: a high-performance speculative merge queue,62,47
+2026-08-09T16:44:45.525668+00:00,49226742,22,Dithered QR Codes,328,35
+2026-08-09T16:44:45.525668+00:00,49232110,23,Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone,40,10
+2026-08-09T16:44:45.525668+00:00,49079995,24,Improving Heuristics for A* Pathfinding,323,36
+2026-08-09T16:44:45.525668+00:00,49231586,25,A partial digestion of the HRT counterexample,6,1
+2026-08-09T16:44:45.525668+00:00,49139422,26,Willoughbyland: England's Forgotten South American Colony,6,1
+2026-08-09T16:44:45.525668+00:00,49231777,27,Show HN: Today's cities on a globe of Earth's tectonic past and future,4,0
+2026-08-09T16:44:45.525668+00:00,49230514,28,Reviving a four year old reMarkable 2,83,63
+2026-08-09T16:44:45.525668+00:00,49226536,29,We replaced Redis with MySQL for inventory reservations and it scaled,301,202
+2026-08-09T16:44:45.525668+00:00,49229848,30,"Show HN: Airy – Free, fast, and simple voice content creation",22,12
+2026-08-09T16:44:45.525668+00:00,49167096,31,Stylized GGX Shading,55,0
+2026-08-09T16:44:45.525668+00:00,49180649,32,Making difficulty curves in games,155,72
+2026-08-09T16:44:45.525668+00:00,49227505,33,TheoremDB – A public workspace for machine mathematics,78,12
+2026-08-09T16:44:45.525668+00:00,49225139,34,Open-source interactive map for the Aug 12 total solar eclipse,187,61
+2026-08-09T16:44:45.525668+00:00,49232857,35,FCC moves to ban Lidar-equipped foreign drones from US,7,0
+2026-08-09T16:44:45.525668+00:00,49228458,36,The original URL for this prediction will no longer be available in 11 years (2011),185,87
+2026-08-09T16:44:45.525668+00:00,49226563,37,Should you stop cracking your knuckles?,96,101
+2026-08-09T16:44:45.525668+00:00,49149163,38,Unexpected events and prosocial behavior: the Batman effect (2025),79,25
+2026-08-09T16:44:45.525668+00:00,49230066,39,CSS: The bomb inside your inbox,74,27
+2026-08-09T16:44:45.525668+00:00,49229621,40,DeepSeek V4 Flash 0731: 82.7% on Terminal-Bench 2.1 with a public harness,13,3
+2026-08-09T16:44:45.525668+00:00,49221711,41,Triton: DirectX 11 Driver for QEMU,205,44
+2026-08-09T16:44:45.525668+00:00,49230605,42,70% of AI revenue comes from OpenAI and Anthropic,51,35
+2026-08-09T16:44:45.525668+00:00,49232312,43,A Tale of Dynamic Programming,5,0
+2026-08-09T16:44:45.525668+00:00,49133850,44,Building a local positioning system to track runners using Ultra-Wideband,100,8
+2026-08-09T16:44:45.525668+00:00,49168282,45,Protopia,50,45
+2026-08-09T16:44:45.525668+00:00,49145193,46,Finding zombies in our systems: A real-world story of CPU bottlenecks,66,10
+2026-08-09T16:44:45.525668+00:00,49228166,47,Retraction: The App Store Rejection of the Week That Was a Correct Rejection,288,52
+2026-08-09T16:44:45.525668+00:00,49187681,48,How to Survive in a Louisiana Swamp,33,7
+2026-08-09T16:44:45.525668+00:00,49222824,49,Message your other Claude Code sessions,142,62
+2026-08-09T16:44:45.525668+00:00,49232385,50,DeepMind and the Visualizer's Fallacy,3,0
