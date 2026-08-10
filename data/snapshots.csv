@@ -27826,3 +27826,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-10T22:47:30.806162+00:00,49243485,48,AI Fortunes Are Reviving an Old Debate About Private Power,33,29
 2026-08-10T22:47:30.806162+00:00,49241559,49,Tech leaders say AI means less work – staff say they work up to 90 hours a week,33,5
 2026-08-10T22:47:30.806162+00:00,49247362,50,Claude moves bound of the Riemann Hypothesis from 41.6% to 67.2%,36,1
+2026-08-10T23:41:53.478004+00:00,49241679,1,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,986,560
+2026-08-10T23:41:53.478004+00:00,49243880,2,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,332,350
+2026-08-10T23:41:53.478004+00:00,49247477,3,Rust SIMD on the GPU,107,52
+2026-08-10T23:41:53.478004+00:00,49208296,4,Sonic Pi v5,284,76
+2026-08-10T23:41:53.478004+00:00,49249555,5,Confessions of a Long-Distance Sailor,37,6
+2026-08-10T23:41:53.478004+00:00,49212449,6,Publishing Schematics Before “Open Source” Was a Word,38,11
+2026-08-10T23:41:53.478004+00:00,49246804,7,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",100,56
+2026-08-10T23:41:53.478004+00:00,49249481,8,"Stop Killing Games: It's time to sue Sony, join us",105,42
+2026-08-10T23:41:53.478004+00:00,49245491,9,Exploiting System Management Mode with a very long interrupt,112,35
+2026-08-10T23:41:53.478004+00:00,49249971,10,Amazon backs power plant that may become top source of US climate pollution,122,78
+2026-08-10T23:41:53.478004+00:00,49242653,11,Squeak 6.1,206,106
+2026-08-10T23:41:53.478004+00:00,49209918,12,Stowaway – take the window seat on any plane or satellite overhead,65,5
+2026-08-10T23:41:53.478004+00:00,49246057,13,Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers,61,39
+2026-08-10T23:41:53.478004+00:00,49243474,14,Humanising LLM Outputs Is Dumb,132,78
+2026-08-10T23:41:53.478004+00:00,49250836,15,Google Search Is Dying. What Comes Next Is Worse,29,23
+2026-08-10T23:41:53.478004+00:00,49250894,16,World Train Map – 1247 train routes around the world,5,0
+2026-08-10T23:41:53.478004+00:00,49213660,17,"Ask HN: In your experience, what are sound conventions for e-ink UI development?",132,46
+2026-08-10T23:41:53.478004+00:00,49241846,18,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,175,45
+2026-08-10T23:41:53.478004+00:00,49245936,19,What's the best programming language for coding agents?,23,13
+2026-08-10T23:41:53.478004+00:00,49172319,20,The Psychedelic Toad of the Sonoran Desert,67,47
+2026-08-10T23:41:53.478004+00:00,49244308,21,Letter to Governor Abbott on responsible AI infrastructure in Texas,83,154
+2026-08-10T23:41:53.478004+00:00,49245251,22,"Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",154,61
+2026-08-10T23:41:53.478004+00:00,49244085,23,Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines,92,13
+2026-08-10T23:41:53.478004+00:00,49243397,24,Mistral Patent for “Code implemented tool calls”,205,170
+2026-08-10T23:41:53.478004+00:00,49249150,25,Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification,263,328
+2026-08-10T23:41:53.478004+00:00,49242297,26,Tail-call optimization in C is relatively recent (2025),113,108
+2026-08-10T23:41:53.478004+00:00,49245318,27,Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11,58,21
+2026-08-10T23:41:53.478004+00:00,49243029,28,50k Boat Names,149,103
+2026-08-10T23:41:53.478004+00:00,49242739,29,Tl;dv: Over 180k meetings left wide open,516,172
+2026-08-10T23:41:53.478004+00:00,49246704,30,GPT 5.6 Cyber,48,15
+2026-08-10T23:41:53.478004+00:00,49245023,31,Mars Bar from 1991 found – and it's 20g bigger than today's,288,437
+2026-08-10T23:41:53.478004+00:00,49203112,32,Show HN: Higher-dimensional lattices unfolded into the 2D plane,12,1
+2026-08-10T23:41:53.478004+00:00,49239751,33,"Docker Sandboxes – Disposable, isolated sandboxes for AI agents",619,346
+2026-08-10T23:41:53.478004+00:00,49245421,34,Back to the Future of Handwriting Recognition (2016),34,8
+2026-08-10T23:41:53.478004+00:00,49244569,35,Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints,138,150
+2026-08-10T23:41:53.478004+00:00,49245359,36,The Tragedy of the Cognitive Commons,86,66
+2026-08-10T23:41:53.478004+00:00,49238818,37,Run Android ARM64 VR APKs on Apple Vision Pro,166,57
+2026-08-10T23:41:53.478004+00:00,49245437,38,"Show HN: Ante, a coding agent in a single binary that runs offline",119,71
+2026-08-10T23:41:53.478004+00:00,49247461,39,Security Vulnerability in Pioneer Rekordbox,15,8
+2026-08-10T23:41:53.478004+00:00,49205082,40,An Interesting Fourier Transform – 1/f Noise (2007),111,24
+2026-08-10T23:41:53.478004+00:00,49238851,41,"Show HN: Voice driven murder mystery, Interview AI suspects with your voice",188,81
+2026-08-10T23:41:53.478004+00:00,49244250,42,There is no “done”: Reflections on a completed Appalachian Trail thru-hike (2022),41,8
+2026-08-10T23:41:53.478004+00:00,49241559,43,Tech leaders say AI means less work – staff say they work up to 90 hours a week,40,6
+2026-08-10T23:41:53.478004+00:00,49249111,44,How to Increase OpenBSDs Resilience to Power Outages,5,0
+2026-08-10T23:41:53.478004+00:00,49249037,45,"I'm not anti-AI, but I have QUALLMS",5,0
+2026-08-10T23:41:53.478004+00:00,49241942,46,Germany Sets New Six-Month Startup Record,31,4
+2026-08-10T23:41:53.478004+00:00,49247070,47,Learning more about Claude's mathematical capabilities,148,108
+2026-08-10T23:41:53.478004+00:00,49183917,48,How Blackwing Pencils are Made [video],86,45
+2026-08-10T23:41:53.478004+00:00,49244916,49,"Itadakimasu: A word you say to the food, not the cook",101,59
+2026-08-10T23:41:53.478004+00:00,49243485,50,AI Fortunes Are Reviving an Old Debate About Private Power,34,30
