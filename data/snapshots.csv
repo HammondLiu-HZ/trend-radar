@@ -27576,3 +27576,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-10T15:06:28.708884+00:00,49230514,48,Reviving a four year old reMarkable 2,153,101
 2026-08-10T15:06:28.708884+00:00,49242006,49,Ocean heat records broken as hottest July temperature recorded,17,1
 2026-08-10T15:06:28.708884+00:00,49230891,50,Show HN: A Project Oberon System version running on RISC-V instead of RISC-5,117,19
+2026-08-10T17:00:54.663079+00:00,49241679,1,Meta Muse Glimmer – Open weights 30B local coding model,687,384
+2026-08-10T17:00:54.663079+00:00,49245491,2,Exploiting System Management Mode with a very long interrupt,26,6
+2026-08-10T17:00:54.663079+00:00,49244569,3,Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints,36,26
+2026-08-10T17:00:54.663079+00:00,49245437,4,"Show HN: Ante, a coding agent in a single binary that runs offline",23,6
+2026-08-10T17:00:54.663079+00:00,49245251,5,"Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",60,15
+2026-08-10T17:00:54.663079+00:00,49243029,6,50k Boat Names,100,53
+2026-08-10T17:00:54.663079+00:00,49245023,7,Mars Bar from 1991 found – and it's 20g bigger than today's,145,160
+2026-08-10T17:00:54.663079+00:00,49242653,8,Squeak 6.1,104,55
+2026-08-10T17:00:54.663079+00:00,49208296,9,Sonic Pi v5 Released,17,3
+2026-08-10T17:00:54.663079+00:00,49246057,10,Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers,6,0
+2026-08-10T17:00:54.663079+00:00,49245487,11,GLP-1 drugs linked to bigger jump in women’s employment than a college degree,66,49
+2026-08-10T17:00:54.663079+00:00,49239751,12,"Docker Sandboxes – Disposable, isolated sandboxes for AI agents",486,299
+2026-08-10T17:00:54.663079+00:00,49245348,13,Midlife Vascular Risk Burden and Dementia-Free Survival Years,14,2
+2026-08-10T17:00:54.663079+00:00,49213660,14,"Ask HN: In your experience, what are sound conventions for e-ink UI development?",34,5
+2026-08-10T17:00:54.663079+00:00,49245646,15,Why Addresses Have Numbers,11,5
+2026-08-10T17:00:54.663079+00:00,49243397,16,"Mistral Patent for ""Code implemented tool calls""",124,111
+2026-08-10T17:00:54.663079+00:00,49245421,17,Back to the Future of Handwriting Recognition,9,2
+2026-08-10T17:00:54.663079+00:00,49242739,18,"Over 181,000 AI meeting recordings left wide open in note taking app",329,108
+2026-08-10T17:00:54.663079+00:00,49241846,19,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,115,33
+2026-08-10T17:00:54.663079+00:00,49244916,20,"Itadakimasu: A Word You Say to the Food, Not the Cook",38,12
+2026-08-10T17:00:54.663079+00:00,49245359,21,The Tragedy of the Cognitive Commons,3,0
+2026-08-10T17:00:54.663079+00:00,49244085,22,Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines,12,2
+2026-08-10T17:00:54.663079+00:00,49238561,23,What Happened to HackerOne?,342,180
+2026-08-10T17:00:54.663079+00:00,49242297,24,Tail-call optimization in C is relatively recent,81,52
+2026-08-10T17:00:54.663079+00:00,49244250,25,"There Is No ""Done"": Reflections on a Completed at Thru-Hike (2022)",10,1
+2026-08-10T17:00:54.663079+00:00,49238818,26,Run Android ARM64 VR APKs on Apple Vision Pro,150,47
+2026-08-10T17:00:54.663079+00:00,49205082,27,An Interesting Fourier Transform – 1/F Noise,99,21
+2026-08-10T17:00:54.663079+00:00,49183917,28,How Blackwing Pencils are Made [video],68,32
+2026-08-10T17:00:54.663079+00:00,49238851,29,"Show HN: Voice driven murder mystery, Interview AI suspects with your voice",175,71
+2026-08-10T17:00:54.663079+00:00,49245990,30,Don't Build Mindreading,6,1
+2026-08-10T17:00:54.663079+00:00,49243485,31,AI Fortunes Are Reviving an Old Debate About Private Power,13,5
+2026-08-10T17:00:54.663079+00:00,49244783,32,'Pervert glasses': Backlash against Meta's smart glasses grows,116,129
+2026-08-10T17:00:54.663079+00:00,49181584,33,Findphone: Locate a nearby Bluetooth device by signal strength,43,20
+2026-08-10T17:00:54.663079+00:00,49209132,34,Tail-Call Interpreters in Rust – Jimmy Ostler,73,28
+2026-08-10T17:00:54.663079+00:00,49244339,35,Felix and I,11,0
+2026-08-10T17:00:54.663079+00:00,49243025,36,Signal is working on a paid option to create an account without a phone number,11,6
+2026-08-10T17:00:54.663079+00:00,49243474,37,Humanising LLM Outputs Is Dumb,8,0
+2026-08-10T17:00:54.663079+00:00,49238050,38,How We Pushed CDC into Postgres,135,27
+2026-08-10T17:00:54.663079+00:00,49243270,39,"Flatworms, Ion Channels, and Burning Mouths",6,0
+2026-08-10T17:00:54.663079+00:00,49245334,40,A California Program Is Bringing Down the Cost of Heat Pumps by Buying Bulk,8,3
+2026-08-10T17:00:54.663079+00:00,49243091,41,Sloptastic,5,3
+2026-08-10T17:00:54.663079+00:00,49245019,42,Convince an AI it's not alive in psychological horror game Prove You're Human,9,3
+2026-08-10T17:00:54.663079+00:00,49243046,43,When Agentic Glue Melts: Exploiting Cloudflare Code Mode and Workers,11,1
+2026-08-10T17:00:54.663079+00:00,49243715,44,Self-Hosted Inference for Agents,3,3
+2026-08-10T17:00:54.663079+00:00,49241942,45,Germany Sets New Six-Month Startup Record,7,0
+2026-08-10T17:00:54.663079+00:00,49242175,46,I Benchmarked Local LLMs on the Laptop I Have,7,0
+2026-08-10T17:00:54.663079+00:00,49202912,47,ATProto for Distributed Systems Engineers,127,28
+2026-08-10T17:00:54.663079+00:00,49243269,48,Defending my own brain against enshittification,87,68
+2026-08-10T17:00:54.663079+00:00,49242733,49,Venaya – A financial wellness platform that adapts to your life stage,5,0
+2026-08-10T17:00:54.663079+00:00,49243880,50,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,86,94
