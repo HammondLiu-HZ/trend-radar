@@ -27476,3 +27476,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-10T11:54:15.253595+00:00,49239226,48,The Philippines' big offshoring industry is growing despite AI,58,70
 2026-08-10T11:54:15.253595+00:00,49232110,49,Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone,256,90
 2026-08-10T11:54:15.253595+00:00,49227718,50,ChatGPT starts blocking direct requests to copy an author's style,94,74
+2026-08-10T13:25:47.712895+00:00,49241679,1,Meta Muse Glimmer – open weights 30B local coding model,324,136
+2026-08-10T13:25:47.712895+00:00,49243029,2,50k Boat Names,16,7
+2026-08-10T13:25:47.712895+00:00,49239751,3,"Docker Sandboxes – Disposable, isolated sandboxes for AI agents",340,201
+2026-08-10T13:25:47.712895+00:00,49242653,4,Squeak/Smalltalk 6.1 Release Notes,20,5
+2026-08-10T13:25:47.712895+00:00,49242297,5,Tail-call optimization in C is relatively recent,39,14
+2026-08-10T13:25:47.712895+00:00,49241846,6,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,32,5
+2026-08-10T13:25:47.712895+00:00,49238561,7,What Happened to HackerOne?,291,148
+2026-08-10T13:25:47.712895+00:00,49242245,8,Because It's Not Fun Enough: why languages fail,60,47
+2026-08-10T13:25:47.712895+00:00,49242739,9,"Over 181,000 AI meeting recordings left wide open in note taking app",30,12
+2026-08-10T13:25:47.712895+00:00,49209132,10,Tail-Call Interpreters in Rust – Jimmy Ostler,48,17
+2026-08-10T13:25:47.712895+00:00,49238818,11,Run Android ARM64 VR APKs on Apple Vision Pro,120,19
+2026-08-10T13:25:47.712895+00:00,49205082,12,An Interesting Fourier Transform – 1/F Noise,71,15
+2026-08-10T13:25:47.712895+00:00,49238851,13,"Show HN: Voice driven murder mystery, Interview AI suspects with your voice",127,53
+2026-08-10T13:25:47.712895+00:00,49242728,14,DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years,20,14
+2026-08-10T13:25:47.712895+00:00,49183917,15,How Blackwing Pencils are Made [video],35,14
+2026-08-10T13:25:47.712895+00:00,49181584,16,Findphone: Locate a nearby Bluetooth device by signal strength,9,6
+2026-08-10T13:25:47.712895+00:00,49234675,17,How I use LLMs to learn complex topics,713,455
+2026-08-10T13:25:47.712895+00:00,49232253,18,Taxi drivers rarely die of Alzheimer's,327,233
+2026-08-10T13:25:47.712895+00:00,49238050,19,How We Pushed CDC into Postgres,111,21
+2026-08-10T13:25:47.712895+00:00,49233423,20,Ask HN: What are you working on? (August 2026),275,945
+2026-08-10T13:25:47.712895+00:00,49231809,21,Cool URIs Don't Change (1998),259,62
+2026-08-10T13:25:47.712895+00:00,49202912,22,ATProto for Distributed Systems Engineers,106,20
+2026-08-10T13:25:47.712895+00:00,49211821,23,An alias-based formulation of the borrow checker (2018),18,1
+2026-08-10T13:25:47.712895+00:00,49235697,24,Tuxedo No. 2 – Cocktail recipes,114,35
+2026-08-10T13:25:47.712895+00:00,49182148,25,"Picophysics: Single file physics for games on platforms like N64, PSX, DC",69,22
+2026-08-10T13:25:47.712895+00:00,49230477,26,Everything you do is being recorded,348,302
+2026-08-10T13:25:47.712895+00:00,49242038,27,Meta's new open-weight model targets local agentic AI,18,2
+2026-08-10T13:25:47.712895+00:00,49174017,28,Nearest Pint,42,23
+2026-08-10T13:25:47.712895+00:00,49234271,29,"I made tinnitus my friend, then it disappeared [video]",181,144
+2026-08-10T13:25:47.712895+00:00,49235641,30,"New Zealand lost its music media, and what we're building to replace it",123,85
+2026-08-10T13:25:47.712895+00:00,49239021,31,Auto mode is now the default in Claude Code,254,262
+2026-08-10T13:25:47.712895+00:00,49242213,32,A 'bananas' order for 5000 obscure book titles fuels suspicion,55,52
+2026-08-10T13:25:47.712895+00:00,49233448,33,OpenChamber: An Agentic Development Environment,164,79
+2026-08-10T13:25:47.712895+00:00,49237407,34,The Ambition Project,52,9
+2026-08-10T13:25:47.712895+00:00,49184900,35,Show HN: I made alchemical-cosmological PCB badges,18,1
+2026-08-10T13:25:47.712895+00:00,49238735,36,Turn satellite imagery into a paper globe you fold yourself,73,24
+2026-08-10T13:25:47.712895+00:00,49206028,37,Slap ROM Patcher,23,15
+2026-08-10T13:25:47.712895+00:00,49232138,38,Windows 11's built-in Weather app wastes more than 1 GB of RAM,583,526
+2026-08-10T13:25:47.712895+00:00,49205793,39,"""The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes"" (1892)",65,13
+2026-08-10T13:25:47.712895+00:00,49235011,40,"The tragedy of the commons, AI edition",135,89
+2026-08-10T13:25:47.712895+00:00,49240615,41,An ambiguity in c89 which will never be fixed,6,0
+2026-08-10T13:25:47.712895+00:00,49230514,42,Reviving a four year old reMarkable 2,150,100
+2026-08-10T13:25:47.712895+00:00,49235349,43,The main way I've seen people turn ideologically crazy (2025),142,120
+2026-08-10T13:25:47.712895+00:00,49230891,44,Show HN: A Project Oberon System version running on RISC-V instead of RISC-5,117,19
+2026-08-10T13:25:47.712895+00:00,49203626,45,Andrew Wiles on proving Fermat’s Last Theorem (1995) [video],65,41
+2026-08-10T13:25:47.712895+00:00,49199437,46,"How Golden Is Silence, Actually?",68,45
+2026-08-10T13:25:47.712895+00:00,49241759,47,"Meta releases Muse Glimmer, 30B parameter open-weight edge model",13,0
+2026-08-10T13:25:47.712895+00:00,49230022,48,The Alpha 21264 CPU: NT's Greatest RISC (1998),99,82
+2026-08-10T13:25:47.712895+00:00,49235378,49,The Hacker's Renaissance (2025),119,85
+2026-08-10T13:25:47.712895+00:00,49240828,50,Influencers face backlash over Meta 'pervert glasses' content,23,14
