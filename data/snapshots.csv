@@ -27376,3 +27376,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-10T08:45:17.434935+00:00,49231154,48,Mea Culpa – Dark Hours,580,267
 2026-08-10T08:45:17.434935+00:00,49232300,49,Human vs. AI – Diff-based line-level provenance for text under agentic editing,51,13
 2026-08-10T08:45:17.434935+00:00,49178476,50,The Grid That Doubles the Strength of the Ground,127,39
+2026-08-10T10:24:33.858850+00:00,49239751,1,"Docker Sandboxes – Disposable, isolated sandboxes for AI agents",225,144
+2026-08-10T10:24:33.858850+00:00,49238561,2,What Happened to HackerOne?,238,106
+2026-08-10T10:24:33.858850+00:00,49238818,3,Run Android ARM64 VR APKs on Apple Vision Pro,83,8
+2026-08-10T10:24:33.858850+00:00,49238851,4,"Show HN: Voice driven murder mystery, Interview AI suspects with your voice",93,32
+2026-08-10T10:24:33.858850+00:00,49209132,5,Tail-Call Interpreters in Rust – Jimmy Ostler,17,2
+2026-08-10T10:24:33.858850+00:00,49205082,6,An Interesting Fourier Transform – 1/F Noise,44,12
+2026-08-10T10:24:33.858850+00:00,49234675,7,How I use LLMs to learn complex topics,644,393
+2026-08-10T10:24:33.858850+00:00,49211821,8,An alias-based formulation of the borrow checker (2018),11,1
+2026-08-10T10:24:33.858850+00:00,49238050,9,How We Pushed CDC into Postgres,95,9
+2026-08-10T10:24:33.858850+00:00,49232253,10,Taxi drivers rarely die of Alzheimer's,293,206
+2026-08-10T10:24:33.858850+00:00,49238735,11,Turn satellite imagery into a paper globe you fold yourself,62,21
+2026-08-10T10:24:33.858850+00:00,49233423,12,Ask HN: What are you working on? (August 2026),248,877
+2026-08-10T10:24:33.858850+00:00,49202912,13,ATProto for Distributed Systems Engineers,82,13
+2026-08-10T10:24:33.858850+00:00,49231809,14,Cool URIs Don't Change (1998),242,61
+2026-08-10T10:24:33.858850+00:00,49174017,15,Nearest Pint,33,19
+2026-08-10T10:24:33.858850+00:00,49239021,16,Auto mode is now the default in Claude Code,217,222
+2026-08-10T10:24:33.858850+00:00,49184900,17,Show HN: I made alchemical-cosmological PCB badges,12,1
+2026-08-10T10:24:33.858850+00:00,49182148,18,"Picophysics: Single file physics for games on platforms like N64, PSX, DC",59,19
+2026-08-10T10:24:33.858850+00:00,49235697,19,Tuxedo No. 2 – Cocktail recipes,94,26
+2026-08-10T10:24:33.858850+00:00,49235641,20,"New Zealand lost its music media, and what we're building to replace it",116,73
+2026-08-10T10:24:33.858850+00:00,49230477,21,Everything you do is being recorded,311,256
+2026-08-10T10:24:33.858850+00:00,49206028,22,Slap ROM Patcher,19,7
+2026-08-10T10:24:33.858850+00:00,49234271,23,"I made tinnitus my friend, then it disappeared [video]",144,121
+2026-08-10T10:24:33.858850+00:00,49237407,24,The Ambition Project,47,3
+2026-08-10T10:24:33.858850+00:00,49233448,25,OpenChamber: An Agentic Development Environment,148,75
+2026-08-10T10:24:33.858850+00:00,49205793,26,"""The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes"" (1892)",61,11
+2026-08-10T10:24:33.858850+00:00,49232138,27,Windows 11's built-in Weather app wastes more than 1 GB of RAM,550,475
+2026-08-10T10:24:33.858850+00:00,49241303,28,Implant – an extension to VS Code that exposes its APIs to coding agents,5,0
+2026-08-10T10:24:33.858850+00:00,49235011,29,"The tragedy of the commons, AI edition",125,82
+2026-08-10T10:24:33.858850+00:00,49203626,30,Andrew Wiles on proving Fermat’s Last Theorem (1995) [video],63,40
+2026-08-10T10:24:33.858850+00:00,49230514,31,Reviving a four year old reMarkable 2,142,98
+2026-08-10T10:24:33.858850+00:00,49230891,32,Show HN: A Project Oberon System version running on RISC-V instead of RISC-5,117,19
+2026-08-10T10:24:33.858850+00:00,49239226,33,The Philippines' big offshoring industry is growing despite AI,50,58
+2026-08-10T10:24:33.858850+00:00,49235378,34,The Hacker's Renaissance (2025),111,82
+2026-08-10T10:24:33.858850+00:00,49230022,35,The Alpha 21264 CPU: NT's Greatest RISC (1998),97,79
+2026-08-10T10:24:33.858850+00:00,49237873,36,Japanese court overturns Red RAW video patent,98,22
+2026-08-10T10:24:33.858850+00:00,49192633,37,"Touring the Consensus, Six Months In",23,0
+2026-08-10T10:24:33.858850+00:00,49235349,38,The main way I've seen people turn ideologically crazy (2025),121,106
+2026-08-10T10:24:33.858850+00:00,49199437,39,"How Golden Is Silence, Actually?",62,43
+2026-08-10T10:24:33.858850+00:00,49240828,40,Influencers face backlash over Meta 'pervert glasses' content,9,2
+2026-08-10T10:24:33.858850+00:00,49234137,41,"Transmission has been forked as ""ReTransmission""",36,14
+2026-08-10T10:24:33.858850+00:00,49240718,42,Hetzner Experiments Platform: Inference API,10,4
+2026-08-10T10:24:33.858850+00:00,49240406,43,Port the Enlightenment desktop environment to NetBSD,6,0
+2026-08-10T10:24:33.858850+00:00,49232110,44,Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone,250,89
+2026-08-10T10:24:33.858850+00:00,49227718,45,ChatGPT starts blocking direct requests to copy an author's style,93,72
+2026-08-10T10:24:33.858850+00:00,49239179,46,"As AI grips world, the thrill of collecting vintage computers is growing",16,5
+2026-08-10T10:24:33.858850+00:00,49231397,47,John C. Lilly on solid state intelligence and the elimination of man (1978),144,108
+2026-08-10T10:24:33.858850+00:00,49178476,48,The Grid That Doubles the Strength of the Ground,129,39
+2026-08-10T10:24:33.858850+00:00,49226636,49,My server is a phone now,506,242
+2026-08-10T10:24:33.858850+00:00,49183291,50,Crickets as pets,83,39
