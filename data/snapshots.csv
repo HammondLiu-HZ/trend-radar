@@ -27526,3 +27526,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-10T13:25:47.712895+00:00,49230022,48,The Alpha 21264 CPU: NT's Greatest RISC (1998),99,82
 2026-08-10T13:25:47.712895+00:00,49235378,49,The Hacker's Renaissance (2025),119,85
 2026-08-10T13:25:47.712895+00:00,49240828,50,Influencers face backlash over Meta 'pervert glasses' content,23,14
+2026-08-10T15:06:28.708884+00:00,49241679,1,Meta Muse Glimmer – open weights 30B local coding model,509,269
+2026-08-10T15:06:28.708884+00:00,49242653,2,Squeak/Smalltalk 6.1 Release Notes,69,21
+2026-08-10T15:06:28.708884+00:00,49243029,3,50k Boat Names,64,34
+2026-08-10T15:06:28.708884+00:00,49244308,4,OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas,16,4
+2026-08-10T15:06:28.708884+00:00,49239751,5,"Docker Sandboxes – Disposable, isolated sandboxes for AI agents",402,257
+2026-08-10T15:06:28.708884+00:00,49242297,6,Tail-call optimization in C is relatively recent,66,33
+2026-08-10T15:06:28.708884+00:00,49241846,7,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,76,24
+2026-08-10T15:06:28.708884+00:00,49242739,8,"Over 181,000 AI meeting recordings left wide open in note taking app",208,70
+2026-08-10T15:06:28.708884+00:00,49243880,9,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,32,20
+2026-08-10T15:06:28.708884+00:00,49243397,10,"Mistral Patent for ""Code implemented tool calls""",79,78
+2026-08-10T15:06:28.708884+00:00,49238561,11,What Happened to HackerOne?,317,165
+2026-08-10T15:06:28.708884+00:00,49243269,12,Defending my own brain against enshittification,60,37
+2026-08-10T15:06:28.708884+00:00,49238818,13,Run Android ARM64 VR APKs on Apple Vision Pro,138,42
+2026-08-10T15:06:28.708884+00:00,49205082,14,An Interesting Fourier Transform – 1/F Noise,86,17
+2026-08-10T15:06:28.708884+00:00,49209132,15,Tail-Call Interpreters in Rust – Jimmy Ostler,64,25
+2026-08-10T15:06:28.708884+00:00,49183917,16,How Blackwing Pencils are Made [video],58,26
+2026-08-10T15:06:28.708884+00:00,49238851,17,"Show HN: Voice driven murder mystery, Interview AI suspects with your voice",159,66
+2026-08-10T15:06:28.708884+00:00,49241728,18,The Future Is for Everyone – The Path to a Positive AI Future,17,8
+2026-08-10T15:06:28.708884+00:00,49232253,19,Taxi drivers rarely die of Alzheimer's,348,248
+2026-08-10T15:06:28.708884+00:00,49181584,20,Findphone: Locate a nearby Bluetooth device by signal strength,25,13
+2026-08-10T15:06:28.708884+00:00,49234675,21,How I use LLMs to learn complex topics,753,483
+2026-08-10T15:06:28.708884+00:00,49238050,22,How We Pushed CDC into Postgres,121,24
+2026-08-10T15:06:28.708884+00:00,49202628,23,"Open QEC harness – greedy vs. GE, uniform vs. clustered k=4",4,0
+2026-08-10T15:06:28.708884+00:00,49233423,24,Ask HN: What are you working on? (August 2026),286,988
+2026-08-10T15:06:28.708884+00:00,49202912,25,ATProto for Distributed Systems Engineers,118,25
+2026-08-10T15:06:28.708884+00:00,49231809,26,Cool URIs Don't Change (1998),272,66
+2026-08-10T15:06:28.708884+00:00,49211821,27,An alias-based formulation of the borrow checker (2018),23,1
+2026-08-10T15:06:28.708884+00:00,49230477,28,Everything you do is being recorded,383,328
+2026-08-10T15:06:28.708884+00:00,49182148,29,"Picophysics: Single file physics for games on platforms like N64, PSX, DC",78,23
+2026-08-10T15:06:28.708884+00:00,49242245,30,Because It's Not Fun Enough: why languages fail,81,92
+2026-08-10T15:06:28.708884+00:00,49234271,31,"I made tinnitus my friend, then it disappeared [video]",196,152
+2026-08-10T15:06:28.708884+00:00,49174017,32,Nearest Pint,46,28
+2026-08-10T15:06:28.708884+00:00,49235697,33,Tuxedo No. 2 – Cocktail recipes,123,36
+2026-08-10T15:06:28.708884+00:00,49242038,34,Meta's new open-weight model targets local agentic AI,32,4
+2026-08-10T15:06:28.708884+00:00,49235641,35,"New Zealand lost its music media, and what we're building to replace it",126,89
+2026-08-10T15:06:28.708884+00:00,49233448,36,OpenChamber: An Agentic Development Environment,166,80
+2026-08-10T15:06:28.708884+00:00,49237407,37,The Ambition Project,54,10
+2026-08-10T15:06:28.708884+00:00,49243531,38,China is now the world's greatest oil power,28,9
+2026-08-10T15:06:28.708884+00:00,49240615,39,An ambiguity in c89 which will never be fixed,12,2
+2026-08-10T15:06:28.708884+00:00,49238735,40,Turn satellite imagery into a paper globe you fold yourself,75,25
+2026-08-10T15:06:28.708884+00:00,49206028,41,Slap ROM Patcher,24,15
+2026-08-10T15:06:28.708884+00:00,49232138,42,Windows 11's built-in Weather app wastes more than 1 GB of RAM,596,536
+2026-08-10T15:06:28.708884+00:00,49239021,43,Auto mode is now the default in Claude Code,261,273
+2026-08-10T15:06:28.708884+00:00,49235349,44,The main way I've seen people turn ideologically crazy (2025),149,140
+2026-08-10T15:06:28.708884+00:00,49242213,45,A 'bananas' order for 5000 obscure book titles fuels suspicion,69,62
+2026-08-10T15:06:28.708884+00:00,49184900,46,Show HN: I made alchemical-cosmological PCB badges,18,1
+2026-08-10T15:06:28.708884+00:00,49235011,47,"The tragedy of the commons, AI edition",136,89
+2026-08-10T15:06:28.708884+00:00,49230514,48,Reviving a four year old reMarkable 2,153,101
+2026-08-10T15:06:28.708884+00:00,49242006,49,Ocean heat records broken as hottest July temperature recorded,17,1
+2026-08-10T15:06:28.708884+00:00,49230891,50,Show HN: A Project Oberon System version running on RISC-V instead of RISC-5,117,19
