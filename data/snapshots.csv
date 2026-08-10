@@ -27776,3 +27776,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-10T21:50:52.320691+00:00,49243485,48,AI Fortunes Are Reviving an Old Debate About Private Power,30,29
 2026-08-10T21:50:52.320691+00:00,49248477,49,Nvidia is pulling Wall Street into the AI buildout,11,0
 2026-08-10T21:50:52.320691+00:00,49241559,50,Tech leaders say AI means less work – staff say they work up to 90 hours a week,26,5
+2026-08-10T22:47:30.806162+00:00,49241679,1,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,965,546
+2026-08-10T22:47:30.806162+00:00,49247477,2,Rust SIMD on the GPU,94,44
+2026-08-10T22:47:30.806162+00:00,49208296,3,Sonic Pi v5,270,69
+2026-08-10T22:47:30.806162+00:00,49243880,4,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,287,337
+2026-08-10T22:47:30.806162+00:00,49249150,5,Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification,227,279
+2026-08-10T22:47:30.806162+00:00,49212449,6,"Publishing Schematics Before ""Open Source"" Was a Word",27,7
+2026-08-10T22:47:30.806162+00:00,49246804,7,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",82,49
+2026-08-10T22:47:30.806162+00:00,49249555,8,Confessions of a Long-Distance Sailor,15,3
+2026-08-10T22:47:30.806162+00:00,49172319,9,The Psychedelic Toad of the Sonoran Desert,59,43
+2026-08-10T22:47:30.806162+00:00,49245491,10,Exploiting System Management Mode with a very long interrupt,106,34
+2026-08-10T22:47:30.806162+00:00,49246057,11,Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers,59,37
+2026-08-10T22:47:30.806162+00:00,49242653,12,Squeak 6.1,198,101
+2026-08-10T22:47:30.806162+00:00,49249481,13,"Stop Killing Games: It's time to sue Sony, join us",63,22
+2026-08-10T22:47:30.806162+00:00,49249971,14,Amazon backs power plant that may become top source of US climate pollution,72,37
+2026-08-10T22:47:30.806162+00:00,49243474,15,Humanising LLM Outputs Is Dumb,115,67
+2026-08-10T22:47:30.806162+00:00,49213660,16,"Ask HN: In your experience, what are sound conventions for e-ink UI development?",121,42
+2026-08-10T22:47:30.806162+00:00,49241846,17,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,166,45
+2026-08-10T22:47:30.806162+00:00,49244308,18,Letter to Governor Abbott on responsible AI infrastructure in Texas,76,137
+2026-08-10T22:47:30.806162+00:00,49244085,19,Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines,86,12
+2026-08-10T22:47:30.806162+00:00,49245251,20,"Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",146,52
+2026-08-10T22:47:30.806162+00:00,49203112,21,Show HN: Higher-dimensional lattices unfolded into the 2D plane,9,1
+2026-08-10T22:47:30.806162+00:00,49242297,22,Tail-call optimization in C is relatively recent (2025),111,105
+2026-08-10T22:47:30.806162+00:00,49243397,23,Mistral Patent for “Code implemented tool calls”,200,169
+2026-08-10T22:47:30.806162+00:00,49245318,24,Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11,55,19
+2026-08-10T22:47:30.806162+00:00,49242739,25,Tl;dv: Over 180k meetings left wide open,502,170
+2026-08-10T22:47:30.806162+00:00,49243029,26,50k Boat Names,142,102
+2026-08-10T22:47:30.806162+00:00,49245023,27,Mars Bar from 1991 found – and it's 20g bigger than today's,269,421
+2026-08-10T22:47:30.806162+00:00,49245421,28,Back to the Future of Handwriting Recognition (2016),32,8
+2026-08-10T22:47:30.806162+00:00,49239751,29,"Docker Sandboxes – Disposable, isolated sandboxes for AI agents",615,343
+2026-08-10T22:47:30.806162+00:00,49245359,30,The Tragedy of the Cognitive Commons,83,67
+2026-08-10T22:47:30.806162+00:00,49245437,31,"Show HN: Ante, a coding agent in a single binary that runs offline",118,71
+2026-08-10T22:47:30.806162+00:00,49246704,32,GPT 5.6 Cyber,38,6
+2026-08-10T22:47:30.806162+00:00,49244569,33,Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints,131,149
+2026-08-10T22:47:30.806162+00:00,49238818,34,Run Android ARM64 VR APKs on Apple Vision Pro,165,57
+2026-08-10T22:47:30.806162+00:00,49250836,35,Google Search Is Dying. What Comes Next Is Worse,3,0
+2026-08-10T22:47:30.806162+00:00,49244250,36,There is no “done”: Reflections on a completed Appalachian Trail thru-hike (2022),38,8
+2026-08-10T22:47:30.806162+00:00,49247461,37,Security Vulnerability in Pioneer Rekordbox,13,8
+2026-08-10T22:47:30.806162+00:00,49205082,38,An Interesting Fourier Transform – 1/f Noise (2007),111,24
+2026-08-10T22:47:30.806162+00:00,49238851,39,"Show HN: Voice driven murder mystery, Interview AI suspects with your voice",188,81
+2026-08-10T22:47:30.806162+00:00,49243025,40,Signal is working on a paid option to create an account without a phone number,40,33
+2026-08-10T22:47:30.806162+00:00,49241942,41,Germany Sets New Six-Month Startup Record,31,3
+2026-08-10T22:47:30.806162+00:00,49244916,42,"Itadakimasu: A word you say to the food, not the cook",99,57
+2026-08-10T22:47:30.806162+00:00,49183917,43,How Blackwing Pencils are Made [video],84,45
+2026-08-10T22:47:30.806162+00:00,49247070,44,Learning more about Claude's mathematical capabilities,143,106
+2026-08-10T22:47:30.806162+00:00,49245936,45,What's the best programming language for coding agents?,21,11
+2026-08-10T22:47:30.806162+00:00,49242475,46,"Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",39,11
+2026-08-10T22:47:30.806162+00:00,49181584,47,Findphone: Locate a nearby Bluetooth device by signal strength,53,23
+2026-08-10T22:47:30.806162+00:00,49243485,48,AI Fortunes Are Reviving an Old Debate About Private Power,33,29
+2026-08-10T22:47:30.806162+00:00,49241559,49,Tech leaders say AI means less work – staff say they work up to 90 hours a week,33,5
+2026-08-10T22:47:30.806162+00:00,49247362,50,Claude moves bound of the Riemann Hypothesis from 41.6% to 67.2%,36,1
