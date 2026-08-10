@@ -27676,3 +27676,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-10T19:06:30.190634+00:00,49246993,48,AI Boot Camps Surge as Workers Race to Learn New Skills,6,0
 2026-08-10T19:06:30.190634+00:00,49242175,49,I Benchmarked Local LLMs on the Laptop I Have,12,0
 2026-08-10T19:06:30.190634+00:00,49245990,50,Don't Build Mindreading,17,4
+2026-08-10T20:52:48.912330+00:00,49249150,1,Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification,26,8
+2026-08-10T20:52:48.912330+00:00,49241679,2,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,919,516
+2026-08-10T20:52:48.912330+00:00,49208296,3,Sonic Pi v5,218,61
+2026-08-10T20:52:48.912330+00:00,49247477,4,Rust SIMD on the GPU,54,28
+2026-08-10T20:52:48.912330+00:00,49243880,5,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,217,270
+2026-08-10T20:52:48.912330+00:00,49172319,6,The Psychedelic Toad of the Sonoran Desert,38,29
+2026-08-10T20:52:48.912330+00:00,49246057,7,Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers,55,26
+2026-08-10T20:52:48.912330+00:00,49245491,8,Exploiting System Management Mode with a very long interrupt,92,29
+2026-08-10T20:52:48.912330+00:00,49179434,9,Why Can't You Pack a Bag? (2024),29,34
+2026-08-10T20:52:48.912330+00:00,49239751,10,"Docker Sandboxes – Disposable, isolated sandboxes for AI agents",583,335
+2026-08-10T20:52:48.912330+00:00,49242653,11,Squeak 6.1,175,91
+2026-08-10T20:52:48.912330+00:00,49213660,12,"Ask HN: In your experience, what are sound conventions for e-ink UI development?",97,33
+2026-08-10T20:52:48.912330+00:00,49245437,13,"Show HN: Ante, a coding agent in a single binary that runs offline",107,67
+2026-08-10T20:52:48.912330+00:00,49245318,14,Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11,48,17
+2026-08-10T20:52:48.912330+00:00,49243474,15,Humanising LLM Outputs Is Dumb,79,44
+2026-08-10T20:52:48.912330+00:00,49246804,16,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",6,0
+2026-08-10T20:52:48.912330+00:00,49245251,17,"Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",132,42
+2026-08-10T20:52:48.912330+00:00,49243397,18,Mistral Patent for “Code implemented tool calls”,178,146
+2026-08-10T20:52:48.912330+00:00,49244308,19,Letter to Governor Abbott on responsible AI infrastructure in Texas,67,119
+2026-08-10T20:52:48.912330+00:00,49212449,20,"Publishing Schematics Before ""Open Source"" Was a Word",4,0
+2026-08-10T20:52:48.912330+00:00,49241846,21,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,143,42
+2026-08-10T20:52:48.912330+00:00,49244085,22,Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines,61,10
+2026-08-10T20:52:48.912330+00:00,49242297,23,Tail-call optimization in C is relatively recent (2025),102,96
+2026-08-10T20:52:48.912330+00:00,49242739,24,Tl;dv: Over 180k meetings left wide open,460,155
+2026-08-10T20:52:48.912330+00:00,49245359,25,The Tragedy of the Cognitive Commons,65,44
+2026-08-10T20:52:48.912330+00:00,49245023,26,Mars Bar from 1991 found – and it's 20g bigger than today's,249,361
+2026-08-10T20:52:48.912330+00:00,49243029,27,50k Boat Names,136,99
+2026-08-10T20:52:48.912330+00:00,49245421,28,Back to the Future of Handwriting Recognition (2016),25,7
+2026-08-10T20:52:48.912330+00:00,49247461,29,Security Vulnerability in Pioneer Rekordbox,12,4
+2026-08-10T20:52:48.912330+00:00,49244916,30,"Itadakimasu: A word you say to the food, not the cook",96,52
+2026-08-10T20:52:48.912330+00:00,49209971,31,"Sorting, hashing, and sketches on 370,103 words",14,0
+2026-08-10T20:52:48.912330+00:00,49244569,32,Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints,119,136
+2026-08-10T20:52:48.912330+00:00,49245348,33,Midlife Vascular Risk Burden and Dementia-Free Survival Years,70,60
+2026-08-10T20:52:48.912330+00:00,49244250,34,There is no “done”: Reflections on a completed Appalachian Trail thru-hike (2022),34,7
+2026-08-10T20:52:48.912330+00:00,49238818,35,Run Android ARM64 VR APKs on Apple Vision Pro,162,56
+2026-08-10T20:52:48.912330+00:00,49247070,36,Learning more about Claude's mathematical capabilities,119,96
+2026-08-10T20:52:48.912330+00:00,49205082,37,An Interesting Fourier Transform – 1/f Noise (2007),108,24
+2026-08-10T20:52:48.912330+00:00,49247362,38,Claude moves bound of the Riemann Hypothesis from 41.6% to 67.2%,28,1
+2026-08-10T20:52:48.912330+00:00,49238851,39,"Show HN: Voice driven murder mystery, Interview AI suspects with your voice",187,80
+2026-08-10T20:52:48.912330+00:00,49183917,40,How Blackwing Pencils are Made [video],81,43
+2026-08-10T20:52:48.912330+00:00,49241942,41,Germany Sets New Six-Month Startup Record,27,3
+2026-08-10T20:52:48.912330+00:00,49181584,42,Findphone: Locate a nearby Bluetooth device by signal strength,50,22
+2026-08-10T20:52:48.912330+00:00,49243025,43,Signal is working on a paid option to create an account without a phone number,31,20
+2026-08-10T20:52:48.912330+00:00,49242475,44,"Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",29,11
+2026-08-10T20:52:48.912330+00:00,49243485,45,AI Fortunes Are Reviving an Old Debate About Private Power,28,28
+2026-08-10T20:52:48.912330+00:00,49245936,46,What's the best programming language for coding agents?,14,6
+2026-08-10T20:52:48.912330+00:00,49248477,47,Nvidia is pulling Wall Street into the AI buildout,8,0
+2026-08-10T20:52:48.912330+00:00,49245612,48,Show HN: PicPocket – Dedicated 'chats' for photo-sharing (share to organize),4,0
+2026-08-10T20:52:48.912330+00:00,49209132,49,Tail-Call Interpreters in Rust – Jimmy Ostler,77,29
+2026-08-10T20:52:48.912330+00:00,49242175,50,I Benchmarked Local LLMs on the Laptop I Have,17,1
