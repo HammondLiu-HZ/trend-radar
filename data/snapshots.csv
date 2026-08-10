@@ -27276,3 +27276,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-10T04:45:46.361635+00:00,49232318,48,Analyzing data from Silicon Valley ventures and founders prosecuted for fraud,189,88
 2026-08-10T04:45:46.361635+00:00,49234279,49,"If experience is the goal, then you always win",69,7
 2026-08-10T04:45:46.361635+00:00,49232221,50,Silicon Valley misreads science fiction and undermines democracy,251,199
+2026-08-10T06:15:44.287453+00:00,49239021,1,Auto mode is now the default in Claude Code,115,81
+2026-08-10T06:15:44.287453+00:00,49239467,2,Why do we assume everyone should be working?,27,22
+2026-08-10T06:15:44.287453+00:00,49239751,3,"Docker Sandboxes – Disposable, isolated sandboxes for AI agents",6,0
+2026-08-10T06:15:44.287453+00:00,49238561,4,What Happened to HackerOne?,152,47
+2026-08-10T06:15:44.287453+00:00,49238851,5,"Show HN: Voice driven murder mystery, Interview AI suspects with your voice",44,7
+2026-08-10T06:15:44.287453+00:00,49234675,6,How I use LLMs to learn complex topics,563,319
+2026-08-10T06:15:44.287453+00:00,49238818,7,Run Android ARM64 VR APKs on Apple Vision Pro,29,0
+2026-08-10T06:15:44.287453+00:00,49238735,8,Turn satellite imagery into a paper globe you fold yourself,27,7
+2026-08-10T06:15:44.287453+00:00,49238050,9,How We Pushed CDC into Postgres,71,6
+2026-08-10T06:15:44.287453+00:00,49239095,10,Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026),54,17
+2026-08-10T06:15:44.287453+00:00,49174017,11,Nearest Pint,16,1
+2026-08-10T06:15:44.287453+00:00,49232253,12,Taxi drivers rarely die of Alzheimer's,250,178
+2026-08-10T06:15:44.287453+00:00,49233423,13,Ask HN: What are you working on? (August 2026),222,768
+2026-08-10T06:15:44.287453+00:00,49202912,14,ATProto for Distributed Systems Engineers,49,9
+2026-08-10T06:15:44.287453+00:00,49235011,15,"The tragedy of the commons, AI edition",107,57
+2026-08-10T06:15:44.287453+00:00,49206028,16,Slap ROM Patcher,6,0
+2026-08-10T06:15:44.287453+00:00,49231809,17,Cool URIs Don't Change (1998),218,53
+2026-08-10T06:15:44.287453+00:00,49182148,18,"Picophysics: Single file physics for games on platforms like N64, PSX, DC",40,10
+2026-08-10T06:15:44.287453+00:00,49235697,19,Tuxedo No. 2 – Cocktail recipes,78,21
+2026-08-10T06:15:44.287453+00:00,49235641,20,"New Zealand lost its music media, and what we're building to replace it",98,62
+2026-08-10T06:15:44.287453+00:00,49205793,21,"""The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes"" (1892)",48,5
+2026-08-10T06:15:44.287453+00:00,49239226,22,The Philippines' big offshoring industry is growing despite AI,4,1
+2026-08-10T06:15:44.287453+00:00,49230477,23,Everything you do is being recorded,263,207
+2026-08-10T06:15:44.287453+00:00,49203626,24,Andrew Wiles on proving Fermat’s Last Theorem (1995) [video],47,34
+2026-08-10T06:15:44.287453+00:00,49234271,25,"I made tinnitus my friend, then it disappeared [video]",102,79
+2026-08-10T06:15:44.287453+00:00,49233448,26,OpenChamber: An Agentic Development Environment,133,72
+2026-08-10T06:15:44.287453+00:00,49237407,27,The Ambition Project,28,1
+2026-08-10T06:15:44.287453+00:00,49193666,28,The German Mittelstand,29,8
+2026-08-10T06:15:44.287453+00:00,49237873,29,Japanese court overturns Red RAW video patent,82,16
+2026-08-10T06:15:44.287453+00:00,49232138,30,Windows 11's built-in Weather app wastes more than 1 GB of RAM,462,380
+2026-08-10T06:15:44.287453+00:00,49199437,31,"How Golden Is Silence, Actually?",58,29
+2026-08-10T06:15:44.287453+00:00,49230514,32,Reviving a four year old reMarkable 2,139,94
+2026-08-10T06:15:44.287453+00:00,49235378,33,The Hacker's Renaissance (2025),109,78
+2026-08-10T06:15:44.287453+00:00,49230891,34,Show HN: A Project Oberon System version running on RISC-V instead of RISC-5,112,17
+2026-08-10T06:15:44.287453+00:00,49192633,35,"Touring the Consensus, Six Months In",21,0
+2026-08-10T06:15:44.287453+00:00,49230022,36,The Alpha 21264 CPU: NT's Greatest RISC (1998),94,75
+2026-08-10T06:15:44.287453+00:00,49235349,37,The main way I've seen people turn ideologically crazy (2025),106,86
+2026-08-10T06:15:44.287453+00:00,49232300,38,Human vs. AI – Diff-based line-level provenance for text under agentic editing,47,13
+2026-08-10T06:15:44.287453+00:00,49231397,39,John C. Lilly on solid state intelligence and the elimination of man (1978),138,102
+2026-08-10T06:15:44.287453+00:00,49238509,40,Taylor Farms recalls salsa and guacamole over salmonella risk,33,8
+2026-08-10T06:15:44.287453+00:00,49234137,41,"Transmission has been forked as ""ReTransmission""",29,7
+2026-08-10T06:15:44.287453+00:00,49232110,42,Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone,244,81
+2026-08-10T06:15:44.287453+00:00,49231154,43,Mea Culpa – Dark Hours,578,262
+2026-08-10T06:15:44.287453+00:00,49183291,44,Crickets as pets,81,38
+2026-08-10T06:15:44.287453+00:00,49235347,45,"Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",31,28
+2026-08-10T06:15:44.287453+00:00,49178476,46,The Grid That Doubles the Strength of the Ground,126,38
+2026-08-10T06:15:44.287453+00:00,49227718,47,ChatGPT starts blocking direct requests to copy an author's style,89,65
+2026-08-10T06:15:44.287453+00:00,49196957,48,Memelang: Token-Terse Query Language,9,2
+2026-08-10T06:15:44.287453+00:00,49230630,49,Why Wall Street is ignoring big tech's debt [video],80,147
+2026-08-10T06:15:44.287453+00:00,49231586,50,A partial digestion of the HRT counterexample,29,2
