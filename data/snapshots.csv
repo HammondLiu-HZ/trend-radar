@@ -28376,3 +28376,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-11T17:04:54.359680+00:00,49213660,48,"Ask HN: In your experience, what are sound conventions for e-ink UI development?",196,65
 2026-08-11T17:04:54.359680+00:00,49244308,49,Letter to Governor Abbott on responsible AI infrastructure in Texas,117,222
 2026-08-11T17:04:54.359680+00:00,49250090,50,Toxic underground fires spreading at California landfills,57,8
+2026-08-11T19:12:25.172526+00:00,49259339,1,Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp,226,35
+2026-08-11T19:12:25.172526+00:00,49261895,2,OpenSSH 10.5/10.5p1,35,11
+2026-08-11T19:12:25.172526+00:00,49261128,3,Mojo 1.0,56,14
+2026-08-11T19:12:25.172526+00:00,49257876,4,Stealing Reasoning Traces from Proprietary LLM APIs,302,108
+2026-08-11T19:12:25.172526+00:00,49262211,5,How We Used To Get Jobs: A Newspaper Classifieds Story,24,5
+2026-08-11T19:12:25.172526+00:00,49257377,6,England set to be one of the first countries to eliminate hepatitis C,418,297
+2026-08-11T19:12:25.172526+00:00,49226623,7,"Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",75,42
+2026-08-11T19:12:25.172526+00:00,49259611,8,"Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",78,62
+2026-08-11T19:12:25.172526+00:00,49258764,9,Manus will return to operating as an independent company,91,41
+2026-08-11T19:12:25.172526+00:00,49223965,10,Jolt: Clojure compiler implemented with Chez Scheme,83,25
+2026-08-11T19:12:25.172526+00:00,49262761,11,The Tradeoffs Facing Japan's Economy,12,0
+2026-08-11T19:12:25.172526+00:00,49250836,12,"As AI eats the web, the internet’s collective memory is disappearing",788,801
+2026-08-11T19:12:25.172526+00:00,49261133,13,Why Go Is an Ideal Language for AI-Assisted Software Engineering,124,135
+2026-08-11T19:12:25.172526+00:00,49255710,14,Nvidia's Risky Business,219,91
+2026-08-11T19:12:25.172526+00:00,49257160,15,OpenAI’s head of ethics leaves less than a year after joining,67,169
+2026-08-11T19:12:25.172526+00:00,49227610,16,"Archive of Animal Photography Reveals 18,000 Species and Counting",19,3
+2026-08-11T19:12:25.172526+00:00,49259309,17,Launch HN: Keet (YC S24) – An app to create video courses on anything,27,31
+2026-08-11T19:12:25.172526+00:00,49252179,18,H3-metal – Native MiniMax-H3 inference for Apple Silicon,403,93
+2026-08-11T19:12:25.172526+00:00,49256057,19,What I learned by putting GitHub Copilot behind a MitM proxy,111,12
+2026-08-11T19:12:25.172526+00:00,49174088,20,Employees Like Their A.I. Boss. Its Shop Is Kind of a Disaster,3,1
+2026-08-11T19:12:25.172526+00:00,49261417,21,CSS Properties You Should Know for Better Text Designs,4,0
+2026-08-11T19:12:25.172526+00:00,49246804,22,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",488,162
+2026-08-11T19:12:25.172526+00:00,49211158,23,Halcyon Video – a 3D video store for your media server,60,14
+2026-08-11T19:12:25.172526+00:00,49243880,24,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,619,576
+2026-08-11T19:12:25.172526+00:00,49251702,25,Chicken Scheme 6.0,281,44
+2026-08-11T19:12:25.172526+00:00,49173107,26,LFM2.5 2.6B model competitive with 4x larger models,148,39
+2026-08-11T19:12:25.172526+00:00,49251179,27,Show HN: Scroll through all 43252003274489856000 Rubik's Cube states,275,108
+2026-08-11T19:12:25.172526+00:00,49254880,28,France to ban unsolicited telemarketing calls,947,450
+2026-08-11T19:12:25.172526+00:00,49250109,29,How Claude marks AI-generated content,387,363
+2026-08-11T19:12:25.172526+00:00,49209918,30,Stowaway – Take the window seat on any plane or satellite overhead,417,50
+2026-08-11T19:12:25.172526+00:00,49257947,31,Nvidia Nemotron 3.5 Lightning,105,23
+2026-08-11T19:12:25.172526+00:00,49184220,32,The “mechanical miracle” that ruined Mark Twain’s life,213,109
+2026-08-11T19:12:25.172526+00:00,49196581,33,Faster floating point math with Rust's new API,93,34
+2026-08-11T19:12:25.172526+00:00,49208296,34,Sonic Pi v5,422,103
+2026-08-11T19:12:25.172526+00:00,49252462,35,Recycle – Floppydisks,108,49
+2026-08-11T19:12:25.172526+00:00,49241679,36,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,1166,631
+2026-08-11T19:12:25.172526+00:00,49247477,37,Rust SIMD on the GPU,216,109
+2026-08-11T19:12:25.172526+00:00,49251411,38,The UK's war on anonymity has come to America,626,679
+2026-08-11T19:12:25.172526+00:00,49247070,39,Learning more about Claude's mathematical capabilities,257,161
+2026-08-11T19:12:25.172526+00:00,49173175,40,The Law of Jante (2015),31,3
+2026-08-11T19:12:25.172526+00:00,49249555,41,Confessions of a Long-Distance Sailor,162,57
+2026-08-11T19:12:25.172526+00:00,49212449,42,Publishing Schematics Before “Open Source” Was a Word,109,24
+2026-08-11T19:12:25.172526+00:00,49253721,43,Show HN: Mcptoon – Token-efficient MCP CLI client,65,41
+2026-08-11T19:12:25.172526+00:00,49245437,44,"Show HN: Ante, a coding agent in a single binary that runs offline",157,84
+2026-08-11T19:12:25.172526+00:00,49259818,45,Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub,13,1
+2026-08-11T19:12:25.172526+00:00,49245123,46,Beltrunner: Game Design Postmortem,18,4
+2026-08-11T19:12:25.172526+00:00,49245491,47,Exploiting System Management Mode with a very long interrupt,178,76
+2026-08-11T19:12:25.172526+00:00,49262122,48,ChatGPT Desktop App for Linux,5,0
+2026-08-11T19:12:25.172526+00:00,49245023,49,Mars Bar from 1991 found – and it's 20g bigger than today's,388,582
+2026-08-11T19:12:25.172526+00:00,49245936,50,What's the best programming language for coding agents?,240,173
