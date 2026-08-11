@@ -28226,3 +28226,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-11T11:51:20.175023+00:00,49255457,48,Fairy Ring,7,0
 2026-08-11T11:51:20.175023+00:00,49245275,49,We Got Better at Keeping You Alive. Not at Keeping You Healthy,49,10
 2026-08-11T11:51:20.175023+00:00,49254999,50,"Claude Code pricing: same tokens, same model, up to 40x the price",21,5
+2026-08-11T13:21:50.323969+00:00,49255672,1,More than 10 firms pay up to $100k a month for access to Truth Social posts,79,33
+2026-08-11T13:21:50.323969+00:00,49254880,2,France to ban unsolicited telemarketing calls,523,305
+2026-08-11T13:21:50.323969+00:00,49252179,3,H3-metal – Native MiniMax-H3 inference for Apple Silicon,338,75
+2026-08-11T13:21:50.323969+00:00,49250836,4,"As AI eats the web, the internet’s collective memory is disappearing",460,543
+2026-08-11T13:21:50.323969+00:00,49257377,5,England set to be one of the first countries to eliminate hepatitis C,5,0
+2026-08-11T13:21:50.323969+00:00,49255710,6,Nvidia's Risky Business,19,1
+2026-08-11T13:21:50.323969+00:00,49257601,7,It's time Amazon played by the same rules as everyone else [video],16,1
+2026-08-11T13:21:50.323969+00:00,49256258,8,How to organize Claude Code for product work,10,1
+2026-08-11T13:21:50.323969+00:00,49251702,9,Chicken Scheme 6.0,229,32
+2026-08-11T13:21:50.323969+00:00,49246804,10,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",397,148
+2026-08-11T13:21:50.323969+00:00,49251179,11,Show HN: Scroll through all 43252003274489856000 Rubik's Cube states,233,79
+2026-08-11T13:21:50.323969+00:00,49243880,12,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,551,508
+2026-08-11T13:21:50.323969+00:00,49173107,13,LFM2.5 2.6B model competitive with 4x larger models,99,28
+2026-08-11T13:21:50.323969+00:00,49254881,14,Closing Canario Terminal source code,23,28
+2026-08-11T13:21:50.323969+00:00,49184220,15,The “mechanical miracle” that ruined Mark Twain’s life,160,84
+2026-08-11T13:21:50.323969+00:00,49219679,16,"To Save C, We Must Save ABI (2022)",90,79
+2026-08-11T13:21:50.323969+00:00,49250109,17,How Claude marks AI-generated content,251,211
+2026-08-11T13:21:50.323969+00:00,49252462,18,Recycle – Floppydisks,82,33
+2026-08-11T13:21:50.323969+00:00,49209918,19,Stowaway – Take the window seat on any plane or satellite overhead,317,39
+2026-08-11T13:21:50.323969+00:00,49208296,20,Sonic Pi v5,392,94
+2026-08-11T13:21:50.323969+00:00,49196581,21,Faster floating point math with Rust's new API,58,15
+2026-08-11T13:21:50.323969+00:00,49209433,22,Immersion lithography saved Moore's Law (2023),4,0
+2026-08-11T13:21:50.323969+00:00,49257160,23,OpenAI's Only Ethicist Reportedly Left Last Month,37,42
+2026-08-11T13:21:50.323969+00:00,49251411,24,The UK's war on anonymity has come to America,553,579
+2026-08-11T13:21:50.323969+00:00,49185312,25,Hollywood and Shanghai Cinema in the 1930s [pdf],5,0
+2026-08-11T13:21:50.323969+00:00,49247477,26,Rust SIMD on the GPU,199,96
+2026-08-11T13:21:50.323969+00:00,49241679,27,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,1132,611
+2026-08-11T13:21:50.323969+00:00,49253721,28,Show HN: Mcptoon – Token-efficient MCP CLI client,59,41
+2026-08-11T13:21:50.323969+00:00,49256057,29,What I learned by putting GitHub Copilot behind a MitM proxy,4,1
+2026-08-11T13:21:50.323969+00:00,49249555,30,Confessions of a Long-Distance Sailor,136,43
+2026-08-11T13:21:50.323969+00:00,49242297,31,Tail-call optimization in C is relatively recent (2025),155,136
+2026-08-11T13:21:50.323969+00:00,49242653,32,Squeak 6.1,274,134
+2026-08-11T13:21:50.323969+00:00,49247070,33,Learning more about Claude's mathematical capabilities,230,147
+2026-08-11T13:21:50.323969+00:00,49245936,34,What's the best programming language for coding agents?,216,141
+2026-08-11T13:21:50.323969+00:00,49212449,35,Publishing Schematics Before “Open Source” Was a Word,102,19
+2026-08-11T13:21:50.323969+00:00,49245437,36,"Show HN: Ante, a coding agent in a single binary that runs offline",148,83
+2026-08-11T13:21:50.323969+00:00,49245491,37,Exploiting System Management Mode with a very long interrupt,172,74
+2026-08-11T13:21:50.323969+00:00,49241846,38,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,225,56
+2026-08-11T13:21:50.323969+00:00,49245023,39,Mars Bar from 1991 found – and it's 20g bigger than today's,367,550
+2026-08-11T13:21:50.323969+00:00,49206978,40,Programming the Gigatron,15,1
+2026-08-11T13:21:50.323969+00:00,49243029,41,50k Boat Names,182,108
+2026-08-11T13:21:50.323969+00:00,49215111,42,Choral: Choreographic Programming for Java,33,13
+2026-08-11T13:21:50.323969+00:00,49213660,43,"Ask HN: In your experience, what are sound conventions for e-ink UI development?",184,59
+2026-08-11T13:21:50.323969+00:00,49244308,44,Letter to Governor Abbott on responsible AI infrastructure in Texas,109,204
+2026-08-11T13:21:50.323969+00:00,49246057,45,Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers,75,50
+2026-08-11T13:21:50.323969+00:00,49244085,46,Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines,147,24
+2026-08-11T13:21:50.323969+00:00,49243474,47,Humanising LLM Outputs Is Dumb,217,154
+2026-08-11T13:21:50.323969+00:00,49250894,48,World Train Map – 1247 train routes around the world,134,52
+2026-08-11T13:21:50.323969+00:00,49250090,49,Toxic underground fires spreading at California landfills,46,4
+2026-08-11T13:21:50.323969+00:00,49245275,50,We Got Better at Keeping You Alive. Not at Keeping You Healthy,56,11
