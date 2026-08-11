@@ -28576,3 +28576,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-11T22:53:56.018280+00:00,49211158,48,Halcyon Video – a 3D video store for your media server,67,17
 2026-08-11T22:53:56.018280+00:00,49254881,49,Closing Canario Terminal source code,42,49
 2026-08-11T22:53:56.018280+00:00,49258202,50,$580M undersea cable rerouted to avoid the grave of Dobby the House Elf,91,87
+2026-08-11T23:50:36.172613+00:00,49265051,1,WorldClaw Agentic 3D open-world generation at scale,64,24
+2026-08-11T23:50:36.172613+00:00,49263340,2,Nvidia Nemotron 3.5 Lightning and NeMo Switchyard,157,80
+2026-08-11T23:50:36.172613+00:00,49263497,3,Compression is prediction,193,87
+2026-08-11T23:50:36.172613+00:00,49261128,4,Mojo 1.0,254,114
+2026-08-11T23:50:36.172613+00:00,49261133,5,Go is an ideal language for AI-assisted software engineering,211,260
+2026-08-11T23:50:36.172613+00:00,49262172,6,Ethical Cold Outreach,15,4
+2026-08-11T23:50:36.172613+00:00,49257876,7,Stealing Reasoning Traces from Proprietary LLM APIs,461,199
+2026-08-11T23:50:36.172613+00:00,49262811,8,Making holograms with a pen plotter,101,11
+2026-08-11T23:50:36.172613+00:00,49226623,9,"Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",183,184
+2026-08-11T23:50:36.172613+00:00,49264755,10,Suzanne: AI tool for designing and manufacturing physical products,24,15
+2026-08-11T23:50:36.172613+00:00,49257160,11,OpenAI’s head of ethics leaves less than a year after joining,247,322
+2026-08-11T23:50:36.172613+00:00,49265031,12,pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries,23,0
+2026-08-11T23:50:36.172613+00:00,49261514,13,Grok Bot,97,95
+2026-08-11T23:50:36.172613+00:00,49262211,14,How we used to get jobs: A newspaper classifieds story,97,81
+2026-08-11T23:50:36.172613+00:00,49257377,15,England set to be one of the first countries to eliminate hepatitis C,477,343
+2026-08-11T23:50:36.172613+00:00,49223965,16,Jolt: Clojure compiler implemented with Chez Scheme,137,51
+2026-08-11T23:50:36.172613+00:00,49210199,17,Show HN: Tamron Lens Utility Alternative on Linux,8,0
+2026-08-11T23:50:36.172613+00:00,49261192,18,RSI Simulator,23,10
+2026-08-11T23:50:36.172613+00:00,49258764,19,Manus will return to operating as an independent company,126,68
+2026-08-11T23:50:36.172613+00:00,49264583,20,Emergent Introspective Awareness in Large Language Models,16,4
+2026-08-11T23:50:36.172613+00:00,49255710,21,Nvidia's Risky Business,283,130
+2026-08-11T23:50:36.172613+00:00,49259611,22,"Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",123,84
+2026-08-11T23:50:36.172613+00:00,49261895,23,OpenSSH 10.5/10.5p1,87,30
+2026-08-11T23:50:36.172613+00:00,49255496,24,London Underground begins scanning passengers' faces,196,227
+2026-08-11T23:50:36.172613+00:00,49261417,25,CSS properties you should know for better text designs,64,6
+2026-08-11T23:50:36.172613+00:00,49218463,26,The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics,9,1
+2026-08-11T23:50:36.172613+00:00,49259339,27,Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp,277,43
+2026-08-11T23:50:36.172613+00:00,49174088,28,A new study of a bot running a store finds it is friendly but not very smart,51,52
+2026-08-11T23:50:36.172613+00:00,49256057,29,What I learned by putting GitHub Copilot behind a MitM proxy,149,24
+2026-08-11T23:50:36.172613+00:00,49265879,30,US hires over 2k video gamers as air traffic controllers,6,0
+2026-08-11T23:50:36.172613+00:00,49258011,31,"Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",72,65
+2026-08-11T23:50:36.172613+00:00,49259309,32,Launch HN: Keet (YC S24) – An app to create video courses on anything,39,42
+2026-08-11T23:50:36.172613+00:00,49227610,33,"Archive of Animal Photography Reveals 18,000 Species and Counting",32,9
+2026-08-11T23:50:36.172613+00:00,49265135,34,OpenAI and Anthropic hidden CoT leaks when given deep_think tool.,21,2
+2026-08-11T23:50:36.172613+00:00,49265134,35,Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees,16,11
+2026-08-11T23:50:36.172613+00:00,49250836,36,"As AI eats the web, the internet’s collective memory is disappearing",861,864
+2026-08-11T23:50:36.172613+00:00,49264334,37,OpenAI launches ChatGPT desktop app for Linux,30,12
+2026-08-11T23:50:36.172613+00:00,49250109,38,How Claude marks AI-generated content,415,387
+2026-08-11T23:50:36.172613+00:00,49219679,39,"To save C, we must save ABI (2022)",113,137
+2026-08-11T23:50:36.172613+00:00,49173107,40,LFM2.5 2.6B model competitive with 4x larger models,152,39
+2026-08-11T23:50:36.172613+00:00,49263658,41,The brain may be about to have its Ozempic moment,95,140
+2026-08-11T23:50:36.172613+00:00,49264646,42,FDA report reveals where Taylor Farms sent its lettuce–and it raises questions,20,4
+2026-08-11T23:50:36.172613+00:00,49254880,43,France to ban unsolicited telemarketing calls,979,471
+2026-08-11T23:50:36.172613+00:00,49252179,44,H3-metal – Native MiniMax-H3 inference for Apple Silicon,421,93
+2026-08-11T23:50:36.172613+00:00,49264520,45,DHS Is Hiring Bounty Hunters to Find and Photograph Deported People's Homes,15,1
+2026-08-11T23:50:36.172613+00:00,49263005,46,Five Programming Books That Changed How I Think,25,4
+2026-08-11T23:50:36.172613+00:00,49196581,47,Faster floating point math with Rust's new API,100,44
+2026-08-11T23:50:36.172613+00:00,49264669,48,Meta glasses banned from courts in England and Wales,14,0
+2026-08-11T23:50:36.172613+00:00,49241679,49,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,1174,636
+2026-08-11T23:50:36.172613+00:00,49211158,50,Halcyon Video – a 3D video store for your media server,68,17
