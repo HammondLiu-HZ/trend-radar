@@ -28426,3 +28426,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-11T19:12:25.172526+00:00,49262122,48,ChatGPT Desktop App for Linux,5,0
 2026-08-11T19:12:25.172526+00:00,49245023,49,Mars Bar from 1991 found – and it's 20g bigger than today's,388,582
 2026-08-11T19:12:25.172526+00:00,49245936,50,What's the best programming language for coding agents?,240,173
+2026-08-11T20:55:43.856393+00:00,49263340,1,Nvidia Nemotron 3.5 Lightning and NeMo Switchyard,80,24
+2026-08-11T20:55:43.856393+00:00,49263658,2,The brain may be about to have its Ozempic moment,50,38
+2026-08-11T20:55:43.856393+00:00,49263497,3,Compression Is Prediction,62,28
+2026-08-11T20:55:43.856393+00:00,49261128,4,Mojo 1.0,174,76
+2026-08-11T20:55:43.856393+00:00,49262211,5,How we used to get jobs: A newspaper classifieds story,60,36
+2026-08-11T20:55:43.856393+00:00,49257876,6,Stealing Reasoning Traces from Proprietary LLM APIs,375,149
+2026-08-11T20:55:43.856393+00:00,49262811,7,Making holograms with a pen plotter,48,6
+2026-08-11T20:55:43.856393+00:00,49189500,8,Your phone is the most intricate machine you've ever held. Let's take it apart.,24,4
+2026-08-11T20:55:43.856393+00:00,49226623,9,"Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",126,127
+2026-08-11T20:55:43.856393+00:00,49174088,10,A new study of a bot running a store finds it is friendly but not very smart,31,32
+2026-08-11T20:55:43.856393+00:00,49257160,11,OpenAI’s head of ethics leaves less than a year after joining,138,231
+2026-08-11T20:55:43.856393+00:00,49257377,12,England set to be one of the first countries to eliminate hepatitis C,436,312
+2026-08-11T20:55:43.856393+00:00,49223965,13,Jolt: Clojure compiler implemented with Chez Scheme,110,33
+2026-08-11T20:55:43.856393+00:00,49259611,14,"Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",97,75
+2026-08-11T20:55:43.856393+00:00,49261895,15,OpenSSH 10.5/10.5p1,69,24
+2026-08-11T20:55:43.856393+00:00,49258764,16,Manus will return to operating as an independent company,105,54
+2026-08-11T20:55:43.856393+00:00,49250836,17,"As AI eats the web, the internet’s collective memory is disappearing",827,836
+2026-08-11T20:55:43.856393+00:00,49255710,18,Nvidia's Risky Business,248,107
+2026-08-11T20:55:43.856393+00:00,49259339,19,Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp,263,40
+2026-08-11T20:55:43.856393+00:00,49261417,20,CSS properties you should know for better text designs,31,0
+2026-08-11T20:55:43.856393+00:00,49259309,21,Launch HN: Keet (YC S24) – An app to create video courses on anything,33,37
+2026-08-11T20:55:43.856393+00:00,49252179,22,H3-metal – Native MiniMax-H3 inference for Apple Silicon,413,93
+2026-08-11T20:55:43.856393+00:00,49256057,23,What I learned by putting GitHub Copilot behind a MitM proxy,133,17
+2026-08-11T20:55:43.856393+00:00,49227610,24,"Archive of Animal Photography Reveals 18,000 Species and Counting",26,7
+2026-08-11T20:55:43.856393+00:00,49263461,25,Bluesky's active user base is shrinking as its focus expands beyond the app,26,28
+2026-08-11T20:55:43.856393+00:00,49255496,26,London Underground begins scanning passengers' faces,135,163
+2026-08-11T20:55:43.856393+00:00,49258011,27,"Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",44,50
+2026-08-11T20:55:43.856393+00:00,49246804,28,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",499,169
+2026-08-11T20:55:43.856393+00:00,49261133,29,Go is an ideal language for AI-assisted software engineering,184,230
+2026-08-11T20:55:43.856393+00:00,49251702,30,Chicken Scheme 6.0,292,46
+2026-08-11T20:55:43.856393+00:00,49211158,31,Halcyon Video – a 3D video store for your media server,67,16
+2026-08-11T20:55:43.856393+00:00,49263227,32,Don't Look Up,18,7
+2026-08-11T20:55:43.856393+00:00,49219679,33,"To save C, we must save ABI (2022)",109,130
+2026-08-11T20:55:43.856393+00:00,49173107,34,LFM2.5 2.6B model competitive with 4x larger models,150,39
+2026-08-11T20:55:43.856393+00:00,49263305,35,"GPT 5.6 just solved (2,1)-C1P",9,2
+2026-08-11T20:55:43.856393+00:00,49250109,36,How Claude marks AI-generated content,404,379
+2026-08-11T20:55:43.856393+00:00,49209918,37,Stowaway – Take the window seat on any plane or satellite overhead,423,57
+2026-08-11T20:55:43.856393+00:00,49251179,38,Show HN: Scroll through all 43252003274489856000 Rubik's Cube states,281,113
+2026-08-11T20:55:43.856393+00:00,49254880,39,France to ban unsolicited telemarketing calls,965,461
+2026-08-11T20:55:43.856393+00:00,49184220,40,The “mechanical miracle” that ruined Mark Twain’s life,216,110
+2026-08-11T20:55:43.856393+00:00,49263005,41,Five Programming Books That Changed How I Think,10,0
+2026-08-11T20:55:43.856393+00:00,49258202,42,$580M undersea cable rerouted to avoid the grave of Dobby the House Elf,85,84
+2026-08-11T20:55:43.856393+00:00,49196581,43,Faster floating point math with Rust's new API,97,37
+2026-08-11T20:55:43.856393+00:00,49262961,44,The whole of PyTorch on one page,31,8
+2026-08-11T20:55:43.856393+00:00,49254881,45,Closing Canario Terminal source code,41,46
+2026-08-11T20:55:43.856393+00:00,49257947,46,Nvidia Nemotron 3.5 Lightning,112,23
+2026-08-11T20:55:43.856393+00:00,49241679,47,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,1171,634
+2026-08-11T20:55:43.856393+00:00,49258970,48,The US tried to stop cartel money-laundering; devastated mom-and-pop businesses,87,157
+2026-08-11T20:55:43.856393+00:00,49253721,49,Show HN: Mcptoon – Token-efficient MCP CLI client,66,41
+2026-08-11T20:55:43.856393+00:00,49247477,50,Rust SIMD on the GPU,216,109
