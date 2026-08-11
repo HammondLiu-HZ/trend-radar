@@ -28276,3 +28276,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-11T13:21:50.323969+00:00,49250894,48,World Train Map – 1247 train routes around the world,134,52
 2026-08-11T13:21:50.323969+00:00,49250090,49,Toxic underground fires spreading at California landfills,46,4
 2026-08-11T13:21:50.323969+00:00,49245275,50,We Got Better at Keeping You Alive. Not at Keeping You Healthy,56,11
+2026-08-11T15:05:58.272024+00:00,49257377,1,England set to be one of the first countries to eliminate hepatitis C,185,95
+2026-08-11T15:05:58.272024+00:00,49257876,2,Stealing Reasoning Traces from Proprietary LLM APIs,32,4
+2026-08-11T15:05:58.272024+00:00,49254880,3,France to ban unsolicited telemarketing calls,712,364
+2026-08-11T15:05:58.272024+00:00,49255710,4,Nvidia's Risky Business,86,15
+2026-08-11T15:05:58.272024+00:00,49250836,5,"As AI eats the web, the internet’s collective memory is disappearing",591,671
+2026-08-11T15:05:58.272024+00:00,49252179,6,H3-metal – Native MiniMax-H3 inference for Apple Silicon,368,79
+2026-08-11T15:05:58.272024+00:00,49258581,7,Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?,29,20
+2026-08-11T15:05:58.272024+00:00,49246804,8,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",444,158
+2026-08-11T15:05:58.272024+00:00,49258202,9,$580M undersea cable rerouted to avoid the grave of Dobby the House Elf,21,12
+2026-08-11T15:05:58.272024+00:00,49251702,10,Chicken Scheme 6.0,245,38
+2026-08-11T15:05:58.272024+00:00,49243880,11,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,568,546
+2026-08-11T15:05:58.272024+00:00,49173107,12,LFM2.5 2.6B model competitive with 4x larger models,120,34
+2026-08-11T15:05:58.272024+00:00,49251179,13,Show HN: Scroll through all 43252003274489856000 Rubik's Cube states,246,90
+2026-08-11T15:05:58.272024+00:00,49256057,14,What I learned by putting GitHub Copilot behind a MitM proxy,50,4
+2026-08-11T15:05:58.272024+00:00,49257947,15,Nvidia Nemotron 3.5 Lightning,42,10
+2026-08-11T15:05:58.272024+00:00,49184220,16,The “mechanical miracle” that ruined Mark Twain’s life,178,92
+2026-08-11T15:05:58.272024+00:00,49250109,17,How Claude marks AI-generated content,306,267
+2026-08-11T15:05:58.272024+00:00,49209918,18,Stowaway – Take the window seat on any plane or satellite overhead,348,42
+2026-08-11T15:05:58.272024+00:00,49252462,19,Recycle – Floppydisks,95,41
+2026-08-11T15:05:58.272024+00:00,49196581,20,Faster floating point math with Rust's new API,75,24
+2026-08-11T15:05:58.272024+00:00,49208296,21,Sonic Pi v5,408,101
+2026-08-11T15:05:58.272024+00:00,49209433,22,Immersion lithography saved Moore's Law (2023),30,0
+2026-08-11T15:05:58.272024+00:00,49247477,23,Rust SIMD on the GPU,207,103
+2026-08-11T15:05:58.272024+00:00,49251411,24,The UK's war on anonymity has come to America,590,625
+2026-08-11T15:05:58.272024+00:00,49241679,25,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,1153,621
+2026-08-11T15:05:58.272024+00:00,49258970,26,The US tried to stop cartel money-laundering; devastated mom-and-pop businesses,5,0
+2026-08-11T15:05:58.272024+00:00,49249555,27,Confessions of a Long-Distance Sailor,151,50
+2026-08-11T15:05:58.272024+00:00,49247070,28,Learning more about Claude's mathematical capabilities,240,152
+2026-08-11T15:05:58.272024+00:00,49242653,29,Squeak 6.1,276,137
+2026-08-11T15:05:58.272024+00:00,49253721,30,Show HN: Mcptoon – Token-efficient MCP CLI client,62,41
+2026-08-11T15:05:58.272024+00:00,49185312,31,Hollywood and Shanghai Cinema in the 1930s [pdf],8,0
+2026-08-11T15:05:58.272024+00:00,49242297,32,Tail-call optimization in C is relatively recent (2025),160,136
+2026-08-11T15:05:58.272024+00:00,49173175,33,The Law of Jante (2015),28,3
+2026-08-11T15:05:58.272024+00:00,49212449,34,Publishing Schematics Before “Open Source” Was a Word,102,20
+2026-08-11T15:05:58.272024+00:00,49245437,35,"Show HN: Ante, a coding agent in a single binary that runs offline",151,83
+2026-08-11T15:05:58.272024+00:00,49258599,36,Flock wanted to tap dashcams in rideshare vechicles to add to surveillance data,5,0
+2026-08-11T15:05:58.272024+00:00,49259043,37,Federal vendor with $50M in contracts leaves portal broken for a month,4,0
+2026-08-11T15:05:58.272024+00:00,49219679,38,"To Save C, We Must Save ABI (2022)",95,99
+2026-08-11T15:05:58.272024+00:00,49241846,39,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,230,56
+2026-08-11T15:05:58.272024+00:00,49245491,40,Exploiting System Management Mode with a very long interrupt,174,74
+2026-08-11T15:05:58.272024+00:00,49245936,41,What's the best programming language for coding agents?,224,157
+2026-08-11T15:05:58.272024+00:00,49245023,42,Mars Bar from 1991 found – and it's 20g bigger than today's,377,564
+2026-08-11T15:05:58.272024+00:00,49243029,43,50k Boat Names,185,108
+2026-08-11T15:05:58.272024+00:00,49206978,44,Programming the Gigatron,17,1
+2026-08-11T15:05:58.272024+00:00,49213660,45,"Ask HN: In your experience, what are sound conventions for e-ink UI development?",191,61
+2026-08-11T15:05:58.272024+00:00,49244308,46,Letter to Governor Abbott on responsible AI infrastructure in Texas,114,218
+2026-08-11T15:05:58.272024+00:00,49244085,47,Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines,151,24
+2026-08-11T15:05:58.272024+00:00,49255672,48,More than 10 firms pay up to $100k a month for access to Truth Social posts,175,208
+2026-08-11T15:05:58.272024+00:00,49246057,49,Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers,75,50
+2026-08-11T15:05:58.272024+00:00,49215111,50,Choral: Choreographic Programming for Java,35,14
