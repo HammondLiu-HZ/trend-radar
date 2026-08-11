@@ -28326,3 +28326,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-11T15:05:58.272024+00:00,49255672,48,More than 10 firms pay up to $100k a month for access to Truth Social posts,175,208
 2026-08-11T15:05:58.272024+00:00,49246057,49,Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers,75,50
 2026-08-11T15:05:58.272024+00:00,49215111,50,Choral: Choreographic Programming for Java,35,14
+2026-08-11T17:04:54.359680+00:00,49257377,1,England set to be one of the first countries to eliminate hepatitis C,310,221
+2026-08-11T17:04:54.359680+00:00,49259339,2,Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp,124,23
+2026-08-11T17:04:54.359680+00:00,49257876,3,Stealing Reasoning Traces from Proprietary LLM APIs,184,70
+2026-08-11T17:04:54.359680+00:00,49259611,4,"Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",56,34
+2026-08-11T17:04:54.359680+00:00,49258764,5,Manus will return to operating as an independent company,56,21
+2026-08-11T17:04:54.359680+00:00,49255710,6,Nvidia's Risky Business,152,46
+2026-08-11T17:04:54.359680+00:00,49254880,7,France to ban unsolicited telemarketing calls,863,420
+2026-08-11T17:04:54.359680+00:00,49250836,8,"As AI eats the web, the internet’s collective memory is disappearing",686,737
+2026-08-11T17:04:54.359680+00:00,49223965,9,Jolt: Clojure compiler implemented with Chez Scheme,30,11
+2026-08-11T17:04:54.359680+00:00,49259309,10,Launch HN: Keet (YC S24) – An app to create video courses on anything,15,19
+2026-08-11T17:04:54.359680+00:00,49252179,11,H3-metal – Native MiniMax-H3 inference for Apple Silicon,390,92
+2026-08-11T17:04:54.359680+00:00,49211158,12,Halcyon Video – a 3D video store for your media server,35,10
+2026-08-11T17:04:54.359680+00:00,49256057,13,What I learned by putting GitHub Copilot behind a MitM proxy,86,10
+2026-08-11T17:04:54.359680+00:00,49245123,14,Beltrunner: Game Design Postmortem,11,3
+2026-08-11T17:04:54.359680+00:00,49259043,15,Federal vendor with $50M in contracts leaves portal broken for a month,48,7
+2026-08-11T17:04:54.359680+00:00,49246804,16,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",471,161
+2026-08-11T17:04:54.359680+00:00,49258581,17,Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?,72,63
+2026-08-11T17:04:54.359680+00:00,49258011,18,"Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS",16,10
+2026-08-11T17:04:54.359680+00:00,49243880,19,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,595,561
+2026-08-11T17:04:54.359680+00:00,49251702,20,Chicken Scheme 6.0,267,43
+2026-08-11T17:04:54.359680+00:00,49173107,21,LFM2.5 2.6B model competitive with 4x larger models,133,35
+2026-08-11T17:04:54.359680+00:00,49251179,22,Show HN: Scroll through all 43252003274489856000 Rubik's Cube states,266,92
+2026-08-11T17:04:54.359680+00:00,49257947,23,Nvidia Nemotron 3.5 Lightning,81,19
+2026-08-11T17:04:54.359680+00:00,49250109,24,How Claude marks AI-generated content,351,318
+2026-08-11T17:04:54.359680+00:00,49184220,25,The “mechanical miracle” that ruined Mark Twain’s life,194,104
+2026-08-11T17:04:54.359680+00:00,49209918,26,Stowaway – Take the window seat on any plane or satellite overhead,379,50
+2026-08-11T17:04:54.359680+00:00,49196581,27,Faster floating point math with Rust's new API,89,29
+2026-08-11T17:04:54.359680+00:00,49258202,28,$580M undersea cable rerouted to avoid the grave of Dobby the House Elf,64,61
+2026-08-11T17:04:54.359680+00:00,49208296,29,Sonic Pi v5,416,103
+2026-08-11T17:04:54.359680+00:00,49252462,30,Recycle – Floppydisks,103,48
+2026-08-11T17:04:54.359680+00:00,49247477,31,Rust SIMD on the GPU,214,107
+2026-08-11T17:04:54.359680+00:00,49251411,32,The UK's war on anonymity has come to America,615,661
+2026-08-11T17:04:54.359680+00:00,49241679,33,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,1161,630
+2026-08-11T17:04:54.359680+00:00,49249555,34,Confessions of a Long-Distance Sailor,159,52
+2026-08-11T17:04:54.359680+00:00,49242653,35,Squeak 6.1,279,139
+2026-08-11T17:04:54.359680+00:00,49247070,36,Learning more about Claude's mathematical capabilities,255,158
+2026-08-11T17:04:54.359680+00:00,49242297,37,Tail-call optimization in C is relatively recent (2025),163,139
+2026-08-11T17:04:54.359680+00:00,49212449,38,Publishing Schematics Before “Open Source” Was a Word,105,21
+2026-08-11T17:04:54.359680+00:00,49245936,39,What's the best programming language for coding agents?,237,161
+2026-08-11T17:04:54.359680+00:00,49253721,40,Show HN: Mcptoon – Token-efficient MCP CLI client,62,41
+2026-08-11T17:04:54.359680+00:00,49245437,41,"Show HN: Ante, a coding agent in a single binary that runs offline",153,84
+2026-08-11T17:04:54.359680+00:00,49173175,42,The Law of Jante (2015),31,3
+2026-08-11T17:04:54.359680+00:00,49241846,43,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,234,56
+2026-08-11T17:04:54.359680+00:00,49245491,44,Exploiting System Management Mode with a very long interrupt,178,75
+2026-08-11T17:04:54.359680+00:00,49245023,45,Mars Bar from 1991 found – and it's 20g bigger than today's,383,574
+2026-08-11T17:04:54.359680+00:00,49243029,46,50k Boat Names,187,108
+2026-08-11T17:04:54.359680+00:00,49185312,47,Hollywood and Shanghai Cinema in the 1930s [pdf],8,0
+2026-08-11T17:04:54.359680+00:00,49213660,48,"Ask HN: In your experience, what are sound conventions for e-ink UI development?",196,65
+2026-08-11T17:04:54.359680+00:00,49244308,49,Letter to Governor Abbott on responsible AI infrastructure in Texas,117,222
+2026-08-11T17:04:54.359680+00:00,49250090,50,Toxic underground fires spreading at California landfills,57,8
