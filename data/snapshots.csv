@@ -27876,3 +27876,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-10T23:41:53.478004+00:00,49183917,48,How Blackwing Pencils are Made [video],86,45
 2026-08-10T23:41:53.478004+00:00,49244916,49,"Itadakimasu: A word you say to the food, not the cook",101,59
 2026-08-10T23:41:53.478004+00:00,49243485,50,AI Fortunes Are Reviving an Old Debate About Private Power,34,30
+2026-08-11T02:17:26.180481+00:00,49251411,1,The UK's War on Anonymity Has Come to America,215,133
+2026-08-11T02:17:26.180481+00:00,49251702,2,Chicken Scheme 6.0,46,4
+2026-08-11T02:17:26.180481+00:00,49251179,3,Show HN: Scroll through all 43252003274489856000 Rubik's Cube states,71,12
+2026-08-11T02:17:26.180481+00:00,49241679,4,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,1047,581
+2026-08-11T02:17:26.180481+00:00,49184220,5,The “mechanical miracle” that ruined Mark Twain’s life,51,12
+2026-08-11T02:17:26.180481+00:00,49246804,6,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",180,80
+2026-08-11T02:17:26.180481+00:00,49243880,7,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,378,389
+2026-08-11T02:17:26.180481+00:00,49208296,8,Sonic Pi v5,314,80
+2026-08-11T02:17:26.180481+00:00,49247477,9,Rust SIMD on the GPU,125,61
+2026-08-11T02:17:26.180481+00:00,49212449,10,Publishing Schematics Before “Open Source” Was a Word,67,17
+2026-08-11T02:17:26.180481+00:00,49250894,11,World Train Map – 1247 train routes around the world,40,11
+2026-08-11T02:17:26.180481+00:00,49249555,12,Confessions of a Long-Distance Sailor,65,14
+2026-08-11T02:17:26.180481+00:00,49209918,13,Stowaway – Take the window seat on any plane or satellite overhead,121,12
+2026-08-11T02:17:26.180481+00:00,49249481,14,"Stop Killing Games: It's time to sue Sony, join us",176,80
+2026-08-11T02:17:26.180481+00:00,49221169,15,"SQRL wan't wrong, it was early",9,1
+2026-08-11T02:17:26.180481+00:00,49178868,16,The Story of Mac: A Just-So Story,8,0
+2026-08-11T02:17:26.180481+00:00,49242653,17,Squeak 6.1,225,115
+2026-08-11T02:17:26.180481+00:00,49243474,18,Humanising LLM Outputs Is Dumb,159,92
+2026-08-11T02:17:26.180481+00:00,49245491,19,Exploiting System Management Mode with a very long interrupt,130,45
+2026-08-11T02:17:26.180481+00:00,49246057,20,Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers,63,40
+2026-08-11T02:17:26.180481+00:00,49245936,21,What's the best programming language for coding agents?,66,53
+2026-08-11T02:17:26.180481+00:00,49241846,22,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,190,49
+2026-08-11T02:17:26.180481+00:00,49172319,23,The Psychedelic Toad of the Sonoran Desert,82,53
+2026-08-11T02:17:26.180481+00:00,49244308,24,Letter to Governor Abbott on responsible AI infrastructure in Texas,91,175
+2026-08-11T02:17:26.180481+00:00,49213660,25,"Ask HN: In your experience, what are sound conventions for e-ink UI development?",145,53
+2026-08-11T02:17:26.180481+00:00,49244085,26,Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines,106,14
+2026-08-11T02:17:26.180481+00:00,49242297,27,Tail-call optimization in C is relatively recent (2025),126,123
+2026-08-11T02:17:26.180481+00:00,49243029,28,50k Boat Names,158,106
+2026-08-11T02:17:26.180481+00:00,49245251,29,"Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",165,65
+2026-08-11T02:17:26.180481+00:00,49246704,30,GPT 5.6 Cyber,78,31
+2026-08-11T02:17:26.180481+00:00,49245318,31,Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11,63,26
+2026-08-11T02:17:26.180481+00:00,49242739,32,Tl;dv: Over 180k meetings left wide open,541,176
+2026-08-11T02:17:26.180481+00:00,49249111,33,How to Increase OpenBSDs Resilience to Power Outages,12,2
+2026-08-11T02:17:26.180481+00:00,49239751,34,"Docker Sandboxes – Disposable, isolated sandboxes for AI agents",628,349
+2026-08-11T02:17:26.180481+00:00,49243397,35,Mistral Patent for “Code implemented tool calls”,208,177
+2026-08-11T02:17:26.180481+00:00,49245023,36,Mars Bar from 1991 found – and it's 20g bigger than today's,305,461
+2026-08-11T02:17:26.180481+00:00,49244569,37,Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints,143,153
+2026-08-11T02:17:26.180481+00:00,49249150,38,Illinois just passed a law that puts Linux on the hook for age verification,290,396
+2026-08-11T02:17:26.180481+00:00,49250486,39,Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status,6,3
+2026-08-11T02:17:26.180481+00:00,49238818,40,Run Android ARM64 VR APKs on Apple Vision Pro,169,57
+2026-08-11T02:17:26.180481+00:00,49250836,41,Google Search Is Dying. What Comes Next Is Worse,102,96
+2026-08-11T02:17:26.180481+00:00,49245421,42,Back to the Future of Handwriting Recognition (2016),37,8
+2026-08-11T02:17:26.180481+00:00,49250141,43,Show HN: My local climbing gym from photogrammetry,8,0
+2026-08-11T02:17:26.180481+00:00,49250090,44,Toxic underground fires spreading at California landfills,6,0
+2026-08-11T02:17:26.180481+00:00,49245275,45,We Got Better at Keeping You Alive. Not at Keeping You Healthy,20,2
+2026-08-11T02:17:26.180481+00:00,49241559,46,Tech leaders say AI means less work – staff say they work up to 90 hours a week,51,14
+2026-08-11T02:17:26.180481+00:00,49245359,47,The Tragedy of the Cognitive Commons,90,70
+2026-08-11T02:17:26.180481+00:00,49252295,48,Canada Is Building a Surveillance State via 5 Bills,4,0
+2026-08-11T02:17:26.180481+00:00,49238851,49,"Show HN: Voice driven murder mystery, Interview AI suspects with your voice",190,81
+2026-08-11T02:17:26.180481+00:00,49205082,50,An Interesting Fourier Transform – 1/f Noise (2007),112,24
