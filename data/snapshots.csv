@@ -28176,3 +28176,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-11T10:57:04.676420+00:00,49252493,48,Hyperspace,78,50
 2026-08-11T10:57:04.676420+00:00,49178868,49,The Story of Mac: A Just-So Story,25,4
 2026-08-11T10:57:04.676420+00:00,49242739,50,Tl;dv: Over 180k meetings left wide open,585,192
+2026-08-11T11:51:20.175023+00:00,49254880,1,France to ban unsolicited telemarketing calls,326,199
+2026-08-11T11:51:20.175023+00:00,49252179,2,H3-metal – Native MiniMax-H3 inference for Apple Silicon,303,66
+2026-08-11T11:51:20.175023+00:00,49250836,3,"As AI eats the web, the internet’s collective memory is disappearing",370,427
+2026-08-11T11:51:20.175023+00:00,49219679,4,"To Save C, We Must Save ABI",75,48
+2026-08-11T11:51:20.175023+00:00,49251702,5,Chicken Scheme 6.0,206,26
+2026-08-11T11:51:20.175023+00:00,49173107,6,LFM2.5 2.6B model competitive with 4x larger models,92,19
+2026-08-11T11:51:20.175023+00:00,49246804,7,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",368,136
+2026-08-11T11:51:20.175023+00:00,49251179,8,Show HN: Scroll through all 43252003274489856000 Rubik's Cube states,214,71
+2026-08-11T11:51:20.175023+00:00,49243880,9,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,533,485
+2026-08-11T11:51:20.175023+00:00,49253721,10,Show HN: Mcptoon – Token-efficient MCP CLI client,53,38
+2026-08-11T11:51:20.175023+00:00,49184220,11,The “mechanical miracle” that ruined Mark Twain’s life,149,78
+2026-08-11T11:51:20.175023+00:00,49206978,12,Programming the Gigatron,12,1
+2026-08-11T11:51:20.175023+00:00,49254881,13,Closing Canario Terminal source code,11,9
+2026-08-11T11:51:20.175023+00:00,49205441,14,About Rx Kids,31,35
+2026-08-11T11:51:20.175023+00:00,49252462,15,Recycle – Floppydisks,69,32
+2026-08-11T11:51:20.175023+00:00,49196581,16,Faster floating point math with Rust's new API,49,5
+2026-08-11T11:51:20.175023+00:00,49209918,17,Stowaway – Take the window seat on any plane or satellite overhead,290,36
+2026-08-11T11:51:20.175023+00:00,49250109,18,How Claude marks AI-generated content,208,168
+2026-08-11T11:51:20.175023+00:00,49208296,19,Sonic Pi v5,386,91
+2026-08-11T11:51:20.175023+00:00,49251411,20,The UK's war on anonymity has come to America,530,511
+2026-08-11T11:51:20.175023+00:00,49247477,21,Rust SIMD on the GPU,192,94
+2026-08-11T11:51:20.175023+00:00,49241679,22,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,1126,609
+2026-08-11T11:51:20.175023+00:00,49245936,23,What's the best programming language for coding agents?,196,131
+2026-08-11T11:51:20.175023+00:00,49242653,24,Squeak 6.1,271,133
+2026-08-11T11:51:20.175023+00:00,49242297,25,Tail-call optimization in C is relatively recent (2025),152,136
+2026-08-11T11:51:20.175023+00:00,49255918,26,Panic of 1873,13,7
+2026-08-11T11:51:20.175023+00:00,49249555,27,Confessions of a Long-Distance Sailor,126,37
+2026-08-11T11:51:20.175023+00:00,49247070,28,Learning more about Claude's mathematical capabilities,216,144
+2026-08-11T11:51:20.175023+00:00,49212449,29,Publishing Schematics Before “Open Source” Was a Word,95,19
+2026-08-11T11:51:20.175023+00:00,49245437,30,"Show HN: Ante, a coding agent in a single binary that runs offline",136,80
+2026-08-11T11:51:20.175023+00:00,49245491,31,Exploiting System Management Mode with a very long interrupt,170,60
+2026-08-11T11:51:20.175023+00:00,49245023,32,Mars Bar from 1991 found – and it's 20g bigger than today's,363,536
+2026-08-11T11:51:20.175023+00:00,49241846,33,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,223,54
+2026-08-11T11:51:20.175023+00:00,49215111,34,Choral: Choreographic Programming for Java,33,13
+2026-08-11T11:51:20.175023+00:00,49243474,35,Humanising LLM Outputs Is Dumb,215,147
+2026-08-11T11:51:20.175023+00:00,49244085,36,Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines,145,23
+2026-08-11T11:51:20.175023+00:00,49213660,37,"Ask HN: In your experience, what are sound conventions for e-ink UI development?",184,59
+2026-08-11T11:51:20.175023+00:00,49243029,38,50k Boat Names,181,108
+2026-08-11T11:51:20.175023+00:00,49246057,39,Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers,75,50
+2026-08-11T11:51:20.175023+00:00,49244308,40,Letter to Governor Abbott on responsible AI infrastructure in Texas,109,199
+2026-08-11T11:51:20.175023+00:00,49253831,41,Moving integer division to floating-point is trivial,7,0
+2026-08-11T11:51:20.175023+00:00,49250894,42,World Train Map – 1247 train routes around the world,129,51
+2026-08-11T11:51:20.175023+00:00,49250090,43,Toxic underground fires spreading at California landfills,43,3
+2026-08-11T11:51:20.175023+00:00,49172319,44,The Psychedelic Toad of the Sonoran Desert,92,70
+2026-08-11T11:51:20.175023+00:00,49239751,45,"Docker Sandboxes – Disposable, isolated sandboxes for AI agents",658,367
+2026-08-11T11:51:20.175023+00:00,49221169,46,"SQRL wan't wrong, it was early",29,4
+2026-08-11T11:51:20.175023+00:00,49254351,47,The Water Footprint of AI,39,47
+2026-08-11T11:51:20.175023+00:00,49255457,48,Fairy Ring,7,0
+2026-08-11T11:51:20.175023+00:00,49245275,49,We Got Better at Keeping You Alive. Not at Keeping You Healthy,49,10
+2026-08-11T11:51:20.175023+00:00,49254999,50,"Claude Code pricing: same tokens, same model, up to 40x the price",21,5
