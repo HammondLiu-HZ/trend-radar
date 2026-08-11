@@ -28526,3 +28526,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-11T21:56:44.921506+00:00,49241679,48,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,1172,634
 2026-08-11T21:56:44.921506+00:00,49263852,49,Bumble gives up on women making the first move,12,2
 2026-08-11T21:56:44.921506+00:00,49247477,50,Rust SIMD on the GPU,216,109
+2026-08-11T22:53:56.018280+00:00,49263340,1,Nvidia Nemotron 3.5 Lightning and NeMo Switchyard,139,64
+2026-08-11T22:53:56.018280+00:00,49263497,2,Compression is prediction,165,72
+2026-08-11T22:53:56.018280+00:00,49265051,3,WorldClaw Agentic 3D open-world generation at scale,19,5
+2026-08-11T22:53:56.018280+00:00,49261128,4,Mojo 1.0,237,106
+2026-08-11T22:53:56.018280+00:00,49257876,5,Stealing Reasoning Traces from Proprietary LLM APIs,440,179
+2026-08-11T22:53:56.018280+00:00,49262811,6,Making holograms with a pen plotter,90,10
+2026-08-11T22:53:56.018280+00:00,49226623,7,"Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",158,166
+2026-08-11T22:53:56.018280+00:00,49257160,8,OpenAI’s head of ethics leaves less than a year after joining,220,294
+2026-08-11T22:53:56.018280+00:00,49262211,9,How we used to get jobs: A newspaper classifieds story,89,69
+2026-08-11T22:53:56.018280+00:00,49264755,10,Suzanne: AI tool for designing and manufacturing physical products,12,7
+2026-08-11T22:53:56.018280+00:00,49261192,11,RSI Simulator,14,6
+2026-08-11T22:53:56.018280+00:00,49257377,12,England set to be one of the first countries to eliminate hepatitis C,468,336
+2026-08-11T22:53:56.018280+00:00,49223965,13,Jolt: Clojure compiler implemented with Chez Scheme,133,48
+2026-08-11T22:53:56.018280+00:00,49265031,14,pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries,5,0
+2026-08-11T22:53:56.018280+00:00,49261514,15,Grok Bot,67,69
+2026-08-11T22:53:56.018280+00:00,49264583,16,Emergent Introspective Awareness in Large Language Models,10,2
+2026-08-11T22:53:56.018280+00:00,49255710,17,Nvidia's Risky Business,271,123
+2026-08-11T22:53:56.018280+00:00,49259611,18,"Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",114,83
+2026-08-11T22:53:56.018280+00:00,49258764,19,Manus will return to operating as an independent company,119,65
+2026-08-11T22:53:56.018280+00:00,49261895,20,OpenSSH 10.5/10.5p1,81,30
+2026-08-11T22:53:56.018280+00:00,49259339,21,Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp,271,43
+2026-08-11T22:53:56.018280+00:00,49261417,22,CSS properties you should know for better text designs,51,5
+2026-08-11T22:53:56.018280+00:00,49255496,23,London Underground begins scanning passengers' faces,177,209
+2026-08-11T22:53:56.018280+00:00,49218463,24,The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics,5,1
+2026-08-11T22:53:56.018280+00:00,49256057,25,What I learned by putting GitHub Copilot behind a MitM proxy,142,23
+2026-08-11T22:53:56.018280+00:00,49259309,26,Launch HN: Keet (YC S24) – An app to create video courses on anything,39,40
+2026-08-11T22:53:56.018280+00:00,49258011,27,"Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",65,62
+2026-08-11T22:53:56.018280+00:00,49227610,28,"Archive of Animal Photography Reveals 18,000 Species and Counting",30,9
+2026-08-11T22:53:56.018280+00:00,49174088,29,A new study of a bot running a store finds it is friendly but not very smart,46,49
+2026-08-11T22:53:56.018280+00:00,49263658,30,The brain may be about to have its Ozempic moment,89,131
+2026-08-11T22:53:56.018280+00:00,49264334,31,OpenAI launches ChatGPT desktop app for Linux,23,6
+2026-08-11T22:53:56.018280+00:00,49250836,32,"As AI eats the web, the internet’s collective memory is disappearing",857,856
+2026-08-11T22:53:56.018280+00:00,49265135,33,OpenAI and Anthropic hidden CoT leaks when given deep_think tool.,11,0
+2026-08-11T22:53:56.018280+00:00,49265134,34,Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees,9,2
+2026-08-11T22:53:56.018280+00:00,49219679,35,"To save C, we must save ABI (2022)",111,136
+2026-08-11T22:53:56.018280+00:00,49250109,36,How Claude marks AI-generated content,412,385
+2026-08-11T22:53:56.018280+00:00,49173107,37,LFM2.5 2.6B model competitive with 4x larger models,151,39
+2026-08-11T22:53:56.018280+00:00,49265158,38,Watermarking: The Enshittification of Closed Models Has Begun,6,2
+2026-08-11T22:53:56.018280+00:00,49264520,39,DHS Is Hiring Bounty Hunters to Find and Photograph Deported People's Homes,12,1
+2026-08-11T22:53:56.018280+00:00,49264646,40,FDA report reveals where Taylor Farms sent its lettuce–and it raises questions,15,1
+2026-08-11T22:53:56.018280+00:00,49263227,41,Don't Look Up,33,16
+2026-08-11T22:53:56.018280+00:00,49261133,42,Go is an ideal language for AI-assisted software engineering,201,257
+2026-08-11T22:53:56.018280+00:00,49254880,43,France to ban unsolicited telemarketing calls,978,467
+2026-08-11T22:53:56.018280+00:00,49252179,44,H3-metal – Native MiniMax-H3 inference for Apple Silicon,421,93
+2026-08-11T22:53:56.018280+00:00,49263005,45,Five Programming Books That Changed How I Think,21,1
+2026-08-11T22:53:56.018280+00:00,49196581,46,Faster floating point math with Rust's new API,98,40
+2026-08-11T22:53:56.018280+00:00,49241679,47,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,1172,635
+2026-08-11T22:53:56.018280+00:00,49211158,48,Halcyon Video – a 3D video store for your media server,67,17
+2026-08-11T22:53:56.018280+00:00,49254881,49,Closing Canario Terminal source code,42,49
+2026-08-11T22:53:56.018280+00:00,49258202,50,$580M undersea cable rerouted to avoid the grave of Dobby the House Elf,91,87
