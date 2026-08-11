@@ -28126,3 +28126,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-11T09:07:54.158205+00:00,49242739,48,Tl;dv: Over 180k meetings left wide open,578,191
 2026-08-11T09:07:54.158205+00:00,49245275,49,We Got Better at Keeping You Alive. Not at Keeping You Healthy,44,7
 2026-08-11T09:07:54.158205+00:00,49238818,50,Run Android ARM64 VR APKs on Apple Vision Pro,176,58
+2026-08-11T10:57:04.676420+00:00,49254880,1,France to ban unsolicited telemarketing calls,216,130
+2026-08-11T10:57:04.676420+00:00,49252179,2,H3-metal – Native MiniMax-H3 inference for Apple Silicon,292,61
+2026-08-11T10:57:04.676420+00:00,49250836,3,"As AI eats the web, the internet’s collective memory is disappearing",332,352
+2026-08-11T10:57:04.676420+00:00,49219679,4,"To Save C, We Must Save ABI",56,31
+2026-08-11T10:57:04.676420+00:00,49251702,5,Chicken Scheme 6.0,200,24
+2026-08-11T10:57:04.676420+00:00,49173107,6,LFM2.5 2.6B model competitive with 4x larger models,86,18
+2026-08-11T10:57:04.676420+00:00,49246804,7,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",354,134
+2026-08-11T10:57:04.676420+00:00,49251179,8,Show HN: Scroll through all 43252003274489856000 Rubik's Cube states,203,67
+2026-08-11T10:57:04.676420+00:00,49254351,9,The Water Footprint of AI,26,24
+2026-08-11T10:57:04.676420+00:00,49253721,10,Show HN: Mcptoon – Token-efficient MCP CLI client,50,38
+2026-08-11T10:57:04.676420+00:00,49243880,11,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,515,477
+2026-08-11T10:57:04.676420+00:00,49205441,12,About Rx Kids,26,13
+2026-08-11T10:57:04.676420+00:00,49255496,13,London Underground begins scanning passengers' faces,60,51
+2026-08-11T10:57:04.676420+00:00,49184220,14,The “mechanical miracle” that ruined Mark Twain’s life,144,73
+2026-08-11T10:57:04.676420+00:00,49254881,15,Closing Canario Terminal source code,6,3
+2026-08-11T10:57:04.676420+00:00,49209918,16,Stowaway – Take the window seat on any plane or satellite overhead,279,34
+2026-08-11T10:57:04.676420+00:00,49252462,17,Recycle – Floppydisks,65,28
+2026-08-11T10:57:04.676420+00:00,49196581,18,Faster floating point math with Rust's new API,45,3
+2026-08-11T10:57:04.676420+00:00,49208296,19,Sonic Pi v5,382,91
+2026-08-11T10:57:04.676420+00:00,49251411,20,The UK's war on anonymity has come to America,513,457
+2026-08-11T10:57:04.676420+00:00,49206978,21,Programming the Gigatron,6,0
+2026-08-11T10:57:04.676420+00:00,49250109,22,How Claude marks AI-generated content,191,152
+2026-08-11T10:57:04.676420+00:00,49247477,23,Rust SIMD on the GPU,188,93
+2026-08-11T10:57:04.676420+00:00,49241679,24,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,1122,609
+2026-08-11T10:57:04.676420+00:00,49245936,25,What's the best programming language for coding agents?,188,125
+2026-08-11T10:57:04.676420+00:00,49242653,26,Squeak 6.1,268,131
+2026-08-11T10:57:04.676420+00:00,49212449,27,Publishing Schematics Before “Open Source” Was a Word,93,19
+2026-08-11T10:57:04.676420+00:00,49249555,28,Confessions of a Long-Distance Sailor,120,34
+2026-08-11T10:57:04.676420+00:00,49242297,29,Tail-call optimization in C is relatively recent (2025),152,135
+2026-08-11T10:57:04.676420+00:00,49247070,30,Learning more about Claude's mathematical capabilities,211,141
+2026-08-11T10:57:04.676420+00:00,49245437,31,"Show HN: Ante, a coding agent in a single binary that runs offline",135,80
+2026-08-11T10:57:04.676420+00:00,49245491,32,Exploiting System Management Mode with a very long interrupt,166,58
+2026-08-11T10:57:04.676420+00:00,49245023,33,Mars Bar from 1991 found – and it's 20g bigger than today's,358,533
+2026-08-11T10:57:04.676420+00:00,49241846,34,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,223,53
+2026-08-11T10:57:04.676420+00:00,49215111,35,Choral: Choreographic Programming for Java,31,9
+2026-08-11T10:57:04.676420+00:00,49243474,36,Humanising LLM Outputs Is Dumb,211,146
+2026-08-11T10:57:04.676420+00:00,49244085,37,Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines,144,21
+2026-08-11T10:57:04.676420+00:00,49213660,38,"Ask HN: In your experience, what are sound conventions for e-ink UI development?",184,59
+2026-08-11T10:57:04.676420+00:00,49246057,39,Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers,75,50
+2026-08-11T10:57:04.676420+00:00,49243029,40,50k Boat Names,181,108
+2026-08-11T10:57:04.676420+00:00,49244308,41,Letter to Governor Abbott on responsible AI infrastructure in Texas,109,199
+2026-08-11T10:57:04.676420+00:00,49250894,42,World Train Map – 1247 train routes around the world,129,50
+2026-08-11T10:57:04.676420+00:00,49255457,43,Fairy Ring,4,0
+2026-08-11T10:57:04.676420+00:00,49172319,44,The Psychedelic Toad of the Sonoran Desert,92,70
+2026-08-11T10:57:04.676420+00:00,49221169,45,"SQRL wan't wrong, it was early",29,4
+2026-08-11T10:57:04.676420+00:00,49239751,46,"Docker Sandboxes – Disposable, isolated sandboxes for AI agents",655,367
+2026-08-11T10:57:04.676420+00:00,49250090,47,Toxic underground fires spreading at California landfills,39,3
+2026-08-11T10:57:04.676420+00:00,49252493,48,Hyperspace,78,50
+2026-08-11T10:57:04.676420+00:00,49178868,49,The Story of Mac: A Just-So Story,25,4
+2026-08-11T10:57:04.676420+00:00,49242739,50,Tl;dv: Over 180k meetings left wide open,585,192
