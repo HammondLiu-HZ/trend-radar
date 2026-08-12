@@ -28826,3 +28826,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-12T08:24:07.592285+00:00,49219679,48,"To save C, we must save ABI (2022)",124,146
 2026-08-12T08:24:07.592285+00:00,49173107,49,LFM2.5 2.6B model competitive with 4x larger models,162,39
 2026-08-12T08:24:07.592285+00:00,49227610,50,"Archive of Animal Photography Reveals 18,000 Species and Counting",38,9
+2026-08-12T10:14:53.483029+00:00,49269789,1,Beef and dairy drive 41% of biodiversity damage linked to global farmland,37,12
+2026-08-12T10:14:53.483029+00:00,49268564,2,LinkedIn CringeBot 3000,186,68
+2026-08-12T10:14:53.483029+00:00,49269641,3,Dutch Train Map Simulator,22,3
+2026-08-12T10:14:53.483029+00:00,49201953,4,The hardest working font in Manhattan (2025),205,36
+2026-08-12T10:14:53.483029+00:00,49270040,5,Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation,3,0
+2026-08-12T10:14:53.483029+00:00,49270022,6,Tim Gowers: What sort of maths are LLMs good at?,5,0
+2026-08-12T10:14:53.483029+00:00,49263497,7,Compression is prediction,537,217
+2026-08-12T10:14:53.483029+00:00,49269818,8,Facebook is paying controversial creators to produce rage-bait content,33,15
+2026-08-12T10:14:53.483029+00:00,49208693,9,Worms: The Future of Yesterday's Worms Today,44,15
+2026-08-12T10:14:53.483029+00:00,49197565,10,A shell exclamation mark is not for yelling. Be lazy,76,26
+2026-08-12T10:14:53.483029+00:00,49267928,11,llama.cpp,229,94
+2026-08-12T10:14:53.483029+00:00,49269090,12,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,16,5
+2026-08-12T10:14:53.483029+00:00,49265051,13,WorldClaw Agentic 3D open-world generation at scale,225,69
+2026-08-12T10:14:53.483029+00:00,49267108,14,The Human Is the Loop,110,49
+2026-08-12T10:14:53.483029+00:00,49263340,15,Nvidia Nemotron 3.5 Lightning and NeMo Switchyard,231,119
+2026-08-12T10:14:53.483029+00:00,49257876,16,Stealing Reasoning Traces from Proprietary LLM APIs,625,282
+2026-08-12T10:14:53.483029+00:00,49257160,17,OpenAI’s head of ethics leaves less than a year after joining,434,418
+2026-08-12T10:14:53.483029+00:00,49261128,18,Mojo 1.0,388,195
+2026-08-12T10:14:53.483029+00:00,49266921,19,The lifesaving secret hidden inside a horseshoe crab's blue blood,85,25
+2026-08-12T10:14:53.483029+00:00,49261514,20,Grok Bot,286,246
+2026-08-12T10:14:53.483029+00:00,49267527,21,DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio,41,26
+2026-08-12T10:14:53.483029+00:00,49226623,22,"Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",289,268
+2026-08-12T10:14:53.483029+00:00,49262811,23,Making holograms with a pen plotter,164,17
+2026-08-12T10:14:53.483029+00:00,49235530,24,"Newfoundland has a hard bread shortage, but why do they eat it?",13,12
+2026-08-12T10:14:53.483029+00:00,49191130,25,Retire the Abstractions,52,56
+2026-08-12T10:14:53.483029+00:00,49210199,26,Show HN: Tamron Lens Utility Alternative on Linux,70,5
+2026-08-12T10:14:53.483029+00:00,49255496,27,London Underground begins scanning passengers' faces,338,389
+2026-08-12T10:14:53.483029+00:00,49243270,28,"Flatworms, Ion Channels, and Burning Mouths",35,1
+2026-08-12T10:14:53.483029+00:00,49223965,29,Jolt: Clojure compiler implemented with Chez Scheme,195,65
+2026-08-12T10:14:53.483029+00:00,49261133,30,Go is an ideal language for AI-assisted software engineering,382,433
+2026-08-12T10:14:53.483029+00:00,49257377,31,England set to be one of the first countries to eliminate hepatitis C,541,385
+2026-08-12T10:14:53.483029+00:00,49196657,32,Show HN: Line9 – A Mermaid rendering engine with its own layout,70,20
+2026-08-12T10:14:53.483029+00:00,49257853,33,Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle,47,2
+2026-08-12T10:14:53.483029+00:00,49258764,34,Manus will return to operating as an independent company,161,81
+2026-08-12T10:14:53.483029+00:00,49261417,35,CSS properties you should know for better text designs,117,19
+2026-08-12T10:14:53.483029+00:00,49259611,36,"Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",153,99
+2026-08-12T10:14:53.483029+00:00,49262172,37,Ethical Cold Outreach,46,59
+2026-08-12T10:14:53.483029+00:00,49255710,38,Nvidia's Risky Business,336,166
+2026-08-12T10:14:53.483029+00:00,49262211,39,How we used to get jobs: A newspaper classifieds story,148,120
+2026-08-12T10:14:53.483029+00:00,49256057,40,What I learned by putting GitHub Copilot behind a MitM proxy,182,25
+2026-08-12T10:14:53.483029+00:00,49250836,41,"As AI eats the web, the internet’s collective memory is disappearing",901,911
+2026-08-12T10:14:53.483029+00:00,49265031,42,pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries,58,5
+2026-08-12T10:14:53.483029+00:00,49267362,43,"Crew, a multiplayer workspace for humans and AI agents to work together",7,0
+2026-08-12T10:14:53.483029+00:00,49261192,44,RSI Simulator,43,18
+2026-08-12T10:14:53.483029+00:00,49258011,45,"Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",92,72
+2026-08-12T10:14:53.483029+00:00,49250109,46,How Claude marks AI-generated content,434,396
+2026-08-12T10:14:53.483029+00:00,49261895,47,OpenSSH 10.5/10.5p1,113,35
+2026-08-12T10:14:53.483029+00:00,49218463,48,The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics,24,3
+2026-08-12T10:14:53.483029+00:00,49219679,49,"To save C, we must save ABI (2022)",124,148
+2026-08-12T10:14:53.483029+00:00,49259309,50,Launch HN: Keet (YC S24) – An app to create video courses on anything,46,45
