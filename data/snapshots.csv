@@ -28676,3 +28676,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-12T02:32:52.206611+00:00,49266132,48,Who Pays for the High-Powered Grid That Data Centers Need?,9,0
 2026-08-12T02:32:52.206611+00:00,49265134,49,Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees,27,16
 2026-08-12T02:32:52.206611+00:00,49241679,50,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,1182,636
+2026-08-12T04:54:13.287776+00:00,49263497,1,Compression is prediction,377,146
+2026-08-12T04:54:13.287776+00:00,49201953,2,The hardest working font in Manhattan (2025),68,6
+2026-08-12T04:54:13.287776+00:00,49265051,3,WorldClaw Agentic 3D open-world generation at scale,168,53
+2026-08-12T04:54:13.287776+00:00,49266921,4,The lifesaving secret hidden inside a horseshoe crab's blue blood,35,6
+2026-08-12T04:54:13.287776+00:00,49263340,5,Nvidia Nemotron 3.5 Lightning and NeMo Switchyard,198,106
+2026-08-12T04:54:13.287776+00:00,49261128,6,Mojo 1.0,336,153
+2026-08-12T04:54:13.287776+00:00,49257876,7,Stealing Reasoning Traces from Proprietary LLM APIs,555,237
+2026-08-12T04:54:13.287776+00:00,49267108,8,The Human Is the Loop,27,3
+2026-08-12T04:54:13.287776+00:00,49257160,9,OpenAI’s head of ethics leaves less than a year after joining,346,363
+2026-08-12T04:54:13.287776+00:00,49267057,10,"Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",82,16
+2026-08-12T04:54:13.287776+00:00,49266899,11,New Bedford police officer accused of using Flock cameras to track ex-partner,106,56
+2026-08-12T04:54:13.287776+00:00,49261514,12,Grok Bot,208,173
+2026-08-12T04:54:13.287776+00:00,49257853,13,Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle,21,1
+2026-08-12T04:54:13.287776+00:00,49262811,14,Making holograms with a pen plotter,135,14
+2026-08-12T04:54:13.287776+00:00,49226623,15,"Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",237,234
+2026-08-12T04:54:13.287776+00:00,49210199,16,Show HN: Tamron Lens Utility Alternative on Linux,44,0
+2026-08-12T04:54:13.287776+00:00,49261133,17,Go is an ideal language for AI-assisted software engineering,309,367
+2026-08-12T04:54:13.287776+00:00,49196657,18,Show HN: Line9 – A Mermaid rendering engine with its own layout,44,11
+2026-08-12T04:54:13.287776+00:00,49223965,19,Jolt: Clojure compiler implemented with Chez Scheme,170,60
+2026-08-12T04:54:13.287776+00:00,49257377,20,England set to be one of the first countries to eliminate hepatitis C,503,362
+2026-08-12T04:54:13.287776+00:00,49199502,21,"Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors",3,0
+2026-08-12T04:54:13.287776+00:00,49255496,22,London Underground begins scanning passengers' faces,265,270
+2026-08-12T04:54:13.287776+00:00,49262211,23,How we used to get jobs: A newspaper classifieds story,123,98
+2026-08-12T04:54:13.287776+00:00,49255710,24,Nvidia's Risky Business,316,151
+2026-08-12T04:54:13.287776+00:00,49265031,25,pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries,45,3
+2026-08-12T04:54:13.287776+00:00,49261417,26,CSS properties you should know for better text designs,95,10
+2026-08-12T04:54:13.287776+00:00,49258764,27,Manus will return to operating as an independent company,145,70
+2026-08-12T04:54:13.287776+00:00,49264583,28,Emergent Introspective Awareness in Large Language Models,43,20
+2026-08-12T04:54:13.287776+00:00,49259611,29,"Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",144,91
+2026-08-12T04:54:13.287776+00:00,49261192,30,RSI Simulator,36,14
+2026-08-12T04:54:13.287776+00:00,49256057,31,What I learned by putting GitHub Copilot behind a MitM proxy,169,24
+2026-08-12T04:54:13.287776+00:00,49261895,32,OpenSSH 10.5/10.5p1,109,34
+2026-08-12T04:54:13.287776+00:00,49266560,33,DEF CON crowd suspected in fake-hotspot attack on Delta flight,34,10
+2026-08-12T04:54:13.287776+00:00,49264755,34,Suzanne: AI tool for designing and manufacturing physical products,45,31
+2026-08-12T04:54:13.287776+00:00,49258011,35,"Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",87,70
+2026-08-12T04:54:13.287776+00:00,49218463,36,The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics,21,3
+2026-08-12T04:54:13.287776+00:00,49250836,37,"As AI eats the web, the internet’s collective memory is disappearing",879,894
+2026-08-12T04:54:13.287776+00:00,49265879,38,US hires over 2k video gamers as air traffic controllers,100,89
+2026-08-12T04:54:13.287776+00:00,49259309,39,Launch HN: Keet (YC S24) – An app to create video courses on anything,43,44
+2026-08-12T04:54:13.287776+00:00,49227610,40,"Archive of Animal Photography Reveals 18,000 Species and Counting",35,9
+2026-08-12T04:54:13.287776+00:00,49267287,41,Statin use vs. death rate from cardiovascular diseases (2019),9,2
+2026-08-12T04:54:13.287776+00:00,49219679,42,"To save C, we must save ABI (2022)",122,138
+2026-08-12T04:54:13.287776+00:00,49250109,43,How Claude marks AI-generated content,426,391
+2026-08-12T04:54:13.287776+00:00,49259339,44,Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp,289,43
+2026-08-12T04:54:13.287776+00:00,49173107,45,LFM2.5 2.6B model competitive with 4x larger models,158,39
+2026-08-12T04:54:13.287776+00:00,49266731,46,Gemini becomes Google's fastest-growing product ever as it hits 1B users,15,15
+2026-08-12T04:54:13.287776+00:00,49191130,47,Retire the Abstractions,35,41
+2026-08-12T04:54:13.287776+00:00,49241679,48,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,1183,637
+2026-08-12T04:54:13.287776+00:00,49267390,49,"Dogs can tell when you're happy, sad or frustrated",7,4
+2026-08-12T04:54:13.287776+00:00,49174088,50,A new study of a bot running a store finds it is friendly but not very smart,54,62
