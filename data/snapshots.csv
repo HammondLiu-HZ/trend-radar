@@ -28976,3 +28976,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-12T13:26:39.473449+00:00,49250836,48,"As AI eats the web, the internet’s collective memory is disappearing",911,939
 2026-08-12T13:26:39.473449+00:00,49256057,49,What I learned by putting GitHub Copilot behind a MitM proxy,185,27
 2026-08-12T13:26:39.473449+00:00,49270632,50,(ADVANCED) Guide to not fucking up QR codes,8,2
+2026-08-12T15:04:41.840028+00:00,49270953,1,2026 Eclipse Webcams,289,66
+2026-08-12T15:04:41.840028+00:00,49272655,2,Obituary: AmigaDOS developer Dr. Tim King has passed away,48,10
+2026-08-12T15:04:41.840028+00:00,49273165,3,License Plate Reader Searches Should Require a Warrant,36,4
+2026-08-12T15:04:41.840028+00:00,49272549,4,Why Tiny JPEGs Look Different in Chrome,67,8
+2026-08-12T15:04:41.840028+00:00,49272832,5,Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug,32,0
+2026-08-12T15:04:41.840028+00:00,49272569,7,"Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",28,7
+2026-08-12T15:04:41.840028+00:00,49270022,8,What sort of maths are LLMs good at?,167,74
+2026-08-12T15:04:41.840028+00:00,49273277,9,Qwen3.8 Weights Release in 10 minutes,8,0
+2026-08-12T15:04:41.840028+00:00,49272282,10,"Automatic1111 for Apple metal, 40% speed up sd1.5",23,2
+2026-08-12T15:04:41.840028+00:00,49270040,11,Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation,162,21
+2026-08-12T15:04:41.840028+00:00,49271994,12,AI is removing the middle class of software engineering,127,106
+2026-08-12T15:04:41.840028+00:00,49272484,13,My Agent Setup,24,14
+2026-08-12T15:04:41.840028+00:00,49270857,14,5th Heat Dome Expands Across Europe: 40°C+ Target Western and Central Europe,44,10
+2026-08-12T15:04:41.840028+00:00,49270621,15,Delphi 13 Community Edition Is Now Available,87,66
+2026-08-12T15:04:41.840028+00:00,49272326,16,Only 2.6% of the most visited websites have fully valid HTML,19,19
+2026-08-12T15:04:41.840028+00:00,49194856,17,High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons,100,7
+2026-08-12T15:04:41.840028+00:00,49271413,18,YC startups are abandoning .com,23,25
+2026-08-12T15:04:41.840028+00:00,49206200,19,Bigos (Polish Hunter's Stew) Recipe Builder,34,12
+2026-08-12T15:04:41.840028+00:00,49270726,20,uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook,24,17
+2026-08-12T15:04:41.840028+00:00,49271757,21,Shade Map,18,5
+2026-08-12T15:04:41.840028+00:00,49263260,22,The Ultimate Horse,18,2
+2026-08-12T15:04:41.840028+00:00,49269818,23,Facebook is paying controversial creators to produce rage-bait content,394,244
+2026-08-12T15:04:41.840028+00:00,49204173,24,ArenaAllocators don't play nicely with ArrayLists,6,1
+2026-08-12T15:04:41.840028+00:00,49201953,25,The hardest working font in Manhattan (2025),312,48
+2026-08-12T15:04:41.840028+00:00,49272132,26,"Commodore 8-Bit 5¼"" Disk Images",7,0
+2026-08-12T15:04:41.840028+00:00,49208693,27,Worms: The Future of Yesterday's Worms Today,116,43
+2026-08-12T15:04:41.840028+00:00,49272252,28,"Show HN: Meteor shower, planet alignment, eclipse kit",5,5
+2026-08-12T15:04:41.840028+00:00,49182772,29,I built a jellyfish laboratory in my backyard [video],28,2
+2026-08-12T15:04:41.840028+00:00,49272620,30,German advocacy group lodges criminal complaint over Meta AI glasses,28,4
+2026-08-12T15:04:41.840028+00:00,49270881,31,"Show HN: KidScreen, a finite YouTube shelf chosen by parents",13,12
+2026-08-12T15:04:41.840028+00:00,49269090,32,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,44,13
+2026-08-12T15:04:41.840028+00:00,49260250,33,U of Michigan drops first-semester grades to ‘curb mental health crisis’,116,321
+2026-08-12T15:04:41.840028+00:00,49265879,34,US hires over 2k video gamers as air traffic controllers,169,133
+2026-08-12T15:04:41.840028+00:00,49267108,35,The Human Is the Loop,163,76
+2026-08-12T15:04:41.840028+00:00,49271105,36,European scientists developed a tactile sensor capable of 100 μm resolution,8,0
+2026-08-12T15:04:41.840028+00:00,49272048,37,Bb: The IDE that builds itself,12,3
+2026-08-12T15:04:41.840028+00:00,49271050,38,Electricity Pricing in the Age of AI,8,1
+2026-08-12T15:04:41.840028+00:00,49266277,39,"CFTC declares market emergency, orders Kalshi to continue to operate in New York",183,149
+2026-08-12T15:04:41.840028+00:00,49271423,40,The Neurosurgery Resident Who Proved Crouzeix's Conjecture [pdf],4,0
+2026-08-12T15:04:41.840028+00:00,49263461,41,Bluesky's active user base is shrinking as its focus expands beyond the app,74,166
+2026-08-12T15:04:41.840028+00:00,49267928,42,llama.cpp,313,144
+2026-08-12T15:04:41.840028+00:00,49197565,43,A shell exclamation mark is not for yelling. Be lazy,131,66
+2026-08-12T15:04:41.840028+00:00,49272784,44,Unearthing a 31 year old Easter egg in Ecco the Dolphin,9,0
+2026-08-12T15:04:41.840028+00:00,49270766,45,FDA Admitted in Print That Nothing It Knows of Will Wash Cyclospora Off Lettuce,6,0
+2026-08-12T15:04:41.840028+00:00,49263497,46,Compression is prediction,617,252
+2026-08-12T15:04:41.840028+00:00,49271126,47,Facebook ads are so hard to block that uBlock Origin stopped filtering them,121,103
+2026-08-12T15:04:41.840028+00:00,49270779,48,How hot has the European summer been? 22 cities of 42 beat records,5,0
+2026-08-12T15:04:41.840028+00:00,49266921,49,The lifesaving secret hidden inside a horseshoe crab's blue blood,97,28
+2026-08-12T15:04:41.840028+00:00,49271116,50,"Show HN: Aakit – find every assumption your coding agent made, and which broke",4,0
