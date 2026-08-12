@@ -29074,3 +29074,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-12T17:03:56.196012+00:00,49266277,48,"CFTC declares market emergency, orders Kalshi to continue to operate in New York",190,162
 2026-08-12T17:03:56.196012+00:00,49263461,49,Bluesky's active user base is shrinking as its focus expands beyond the app,83,181
 2026-08-12T17:03:56.196012+00:00,49267928,50,llama.cpp,327,152
+2026-08-12T19:11:52.617414+00:00,49274600,1,DeepSeek V4 Pro 0813,419,145
+2026-08-12T19:11:52.617414+00:00,49276574,2,Zed: Delta,79,13
+2026-08-12T19:11:52.617414+00:00,49272832,3,Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug,513,80
+2026-08-12T19:11:52.617414+00:00,49273478,4,Qwen3.8-2.4T,247,67
+2026-08-12T19:11:52.617414+00:00,49270953,5,2026 Eclipse Webcams,409,105
+2026-08-12T19:11:52.617414+00:00,49272655,6,"Tim King, AmigaDOS developer, has died",146,23
+2026-08-12T19:11:52.617414+00:00,49272569,7,"Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",151,93
+2026-08-12T19:11:52.617414+00:00,49275335,8,HTML over WebSockets: real-time SPAs with barely any JavaScript,41,35
+2026-08-12T19:11:52.617414+00:00,49275132,9,Glaciers on the Climate Dashboard,60,5
+2026-08-12T19:11:52.617414+00:00,49272549,11,Why Tiny JPEGs Look Different in Chrome,176,35
+2026-08-12T19:11:52.617414+00:00,49275385,12,SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index,181,151
+2026-08-12T19:11:52.617414+00:00,49274894,13,"Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",46,11
+2026-08-12T19:11:52.617414+00:00,49273165,14,License plate reader searches should require a warrant,395,252
+2026-08-12T19:11:52.617414+00:00,49276534,15,Your Key to Success Isn't More Luck or Hard Work,11,10
+2026-08-12T19:11:52.617414+00:00,49191000,16,"The Essential Question: ""What should I read next?""",11,1
+2026-08-12T19:11:52.617414+00:00,49271994,17,AI is removing the middle class of software engineering,492,409
+2026-08-12T19:11:52.617414+00:00,49274858,18,We just raised $400M in Series C,40,24
+2026-08-12T19:11:52.617414+00:00,49274854,19,Bike Bureau: Report Bike Lane Obstructions,32,21
+2026-08-12T19:11:52.617414+00:00,49270022,20,What sort of maths are LLMs good at?,206,105
+2026-08-12T19:11:52.617414+00:00,49271757,21,Shade Map,75,21
+2026-08-12T19:11:52.617414+00:00,49274027,22,Grok 4.6,177,188
+2026-08-12T19:11:52.617414+00:00,49270040,23,Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation,222,32
+2026-08-12T19:11:52.617414+00:00,49218190,24,The Bit Player: My Father with Steve Zissou,19,0
+2026-08-12T19:11:52.617414+00:00,49244339,25,Felix and I,57,7
+2026-08-12T19:11:52.617414+00:00,49274420,26,SpaceXAI: Grok 4.6,18,1
+2026-08-12T19:11:52.617414+00:00,49194856,27,High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons,135,11
+2026-08-12T19:11:52.617414+00:00,49272282,28,"Automatic1111 for Apple metal, 40% speed up sd1.5",51,18
+2026-08-12T19:11:52.617414+00:00,49270621,29,Delphi 13 Community Edition Is Now Available,133,95
+2026-08-12T19:11:52.617414+00:00,49177765,30,Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian,27,7
+2026-08-12T19:11:52.617414+00:00,49206200,31,Bigos (Polish Hunter's Stew) Recipe Builder,71,24
+2026-08-12T19:11:52.617414+00:00,49273175,32,"Hax – a minimalist, terminal-native coding agent written in C",50,19
+2026-08-12T19:11:52.617414+00:00,49270726,33,uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook,161,124
+2026-08-12T19:11:52.617414+00:00,49201953,34,The hardest working font in Manhattan (2025),334,51
+2026-08-12T19:11:52.617414+00:00,49269090,35,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,56,18
+2026-08-12T19:11:52.617414+00:00,49272132,36,"Commodore 8-Bit 5¼"" Disk Images",25,0
+2026-08-12T19:11:52.617414+00:00,49263260,37,The Ultimate Horse,36,13
+2026-08-12T19:11:52.617414+00:00,49274620,38,"Grok 4.6 (High) Intelligence, Performance and Price Analysis",8,0
+2026-08-12T19:11:52.617414+00:00,49208693,39,Worms: The Future of Yesterday's Worms Today,150,52
+2026-08-12T19:11:52.617414+00:00,49204173,40,ArenaAllocators don't play nicely with ArrayLists,22,5
+2026-08-12T19:11:52.617414+00:00,49274757,41,Pixel Watch 5,39,44
+2026-08-12T19:11:52.617414+00:00,49269818,42,Controversial creators are benefiting from monetization programs run by Meta,452,298
+2026-08-12T19:11:52.617414+00:00,49260250,43,U of Michigan drops first-semester grades to ‘curb mental health crisis’,137,422
+2026-08-12T19:11:52.617414+00:00,49272484,44,My Agent Setup,78,41
+2026-08-12T19:11:52.617414+00:00,49272620,45,German advocacy group lodges criminal complaint over Meta AI glasses,87,38
+2026-08-12T19:11:52.617414+00:00,49270881,46,"Show HN: KidScreen, a finite YouTube shelf chosen by parents",28,27
+2026-08-12T19:11:52.617414+00:00,49265879,47,US hires over 2k video gamers as air traffic controllers,183,143
+2026-08-12T19:11:52.617414+00:00,49274018,48,DeepSeek-V4-Pro-0813 Publish,43,7
+2026-08-12T19:11:52.617414+00:00,49274672,49,"DosTips, Windows scripting knowledge trove, scraped to death",4,0
+2026-08-12T19:11:52.617414+00:00,49197565,50,A shell exclamation mark is not for yelling. Be lazy,145,70
