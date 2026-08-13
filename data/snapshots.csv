@@ -29368,3 +29368,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-13T02:34:35.650973+00:00,49276673,48,Show HN: Programmable timer web app (for gym workouts or stretching sessions),21,7
 2026-08-13T02:34:35.650973+00:00,49274672,49,"DosTips, Windows scripting knowledge trove, scraped to death",33,0
 2026-08-13T02:34:35.650973+00:00,49206200,50,Bigos (Polish Hunter's Stew) Recipe Builder,93,42
+2026-08-13T04:58:19.338992+00:00,49274600,1,DeepSeek V4 Pro 0813,817,322
+2026-08-13T04:58:19.338992+00:00,49272832,2,Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug,892,174
+2026-08-13T04:58:19.338992+00:00,49276574,3,Delta,461,159
+2026-08-13T04:58:19.338992+00:00,49273478,4,Qwen3.8-2.4T,547,123
+2026-08-13T04:58:19.338992+00:00,49279928,5,Principia Mathematica is modern and insightful,94,39
+2026-08-13T04:58:19.338992+00:00,49242698,6,Antiqua–Fraktur dispute,28,2
+2026-08-13T04:58:19.338992+00:00,49280047,7,"Build Wide, Ship Narrow",63,9
+2026-08-13T04:58:19.338992+00:00,49270953,8,2026 Eclipse Webcams,463,124
+2026-08-13T04:58:19.338992+00:00,49280103,9,Happy 45th Birthday to the IBM PC and Model F/XT,48,16
+2026-08-13T04:58:19.338992+00:00,49272655,10,"Tim King, AmigaDOS developer, has died",249,30
+2026-08-13T04:58:19.338992+00:00,49275335,11,HTML over WebSockets: real-time SPAs with barely any JavaScript,171,113
+2026-08-13T04:58:19.338992+00:00,49238831,12,From rubber boots to Copa: When MicroProse Soccer revolutionized football,6,0
+2026-08-13T04:58:19.338992+00:00,49274027,13,Grok 4.6,465,436
+2026-08-13T04:58:19.338992+00:00,49269429,14,Why Target Common Lisp for Code Generation?,58,53
+2026-08-13T04:58:19.338992+00:00,49224802,15,Probabilistic Estimation for Localizing a Radioactive Source in an Urban Setting,19,17
+2026-08-13T04:58:19.338992+00:00,49270726,16,uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook,365,483
+2026-08-13T04:58:19.338992+00:00,49269090,17,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,128,28
+2026-08-13T04:58:19.338992+00:00,49272549,18,Why tiny JPEGs look different in Chrome,276,61
+2026-08-13T04:58:19.338992+00:00,49280184,19,Show HN: Ballet – Workflow automation that writes integrations against any API,26,3
+2026-08-13T04:58:19.338992+00:00,49272569,20,"Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",254,189
+2026-08-13T04:58:19.338992+00:00,49279013,21,"Thanks to social media, canned sardines are a scarcity on the supermarket shelf",76,94
+2026-08-13T04:58:19.338992+00:00,49274757,22,Pixel Watch 5,120,226
+2026-08-13T04:58:19.338992+00:00,49271757,23,Shade Map,165,44
+2026-08-13T04:58:19.338992+00:00,49274858,24,Lovable raises $400M Series C,110,112
+2026-08-13T04:58:19.338992+00:00,49232312,25,A Tale of Dynamic Programming (2022),80,7
+2026-08-13T04:58:19.338992+00:00,49271994,26,AI is removing the middle class of software engineering?,791,736
+2026-08-13T04:58:19.338992+00:00,49270022,27,What sort of maths are LLMs good at?,248,138
+2026-08-13T04:58:19.338992+00:00,49279197,29,Process as a Proxy for Motivation,40,12
+2026-08-13T04:58:19.338992+00:00,49270040,30,Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation,270,40
+2026-08-13T04:58:19.338992+00:00,49277799,31,Breaking the WAL,80,41
+2026-08-13T04:58:19.338992+00:00,49273165,32,License plate reader searches should require a warrant,566,335
+2026-08-13T04:58:19.338992+00:00,49281556,33,"Edge is dropping older extensions(Manifest V2), affecting popular privacy tools",10,1
+2026-08-13T04:58:19.338992+00:00,49273330,34,Pixel 11 Pro Fold,104,147
+2026-08-13T04:58:19.338992+00:00,49231315,35,Debugging Information for Inlined Functions,24,0
+2026-08-13T04:58:19.338992+00:00,49194856,36,High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons,159,17
+2026-08-13T04:58:19.338992+00:00,49279628,37,I built a browser-native SysEx librarian for 80s/90s synthesizers,12,8
+2026-08-13T04:58:19.338992+00:00,49270621,38,Delphi 13 Community Edition Is Now Available,169,125
+2026-08-13T04:58:19.338992+00:00,49201953,39,The hardest working font in Manhattan (2025),359,55
+2026-08-13T04:58:19.338992+00:00,49227709,40,Waits: Arthur Samuel's Checkers,7,1
+2026-08-13T04:58:19.338992+00:00,49277288,41,Learning 10000 pictures (1973) [pdf],11,0
+2026-08-13T04:58:19.338992+00:00,49244339,42,Felix and I,96,27
+2026-08-13T04:58:19.338992+00:00,49280061,43,What's New in Flutter 3.47,65,57
+2026-08-13T04:58:19.338992+00:00,49280486,44,"California Uber, Lyft drivers win union recognition",32,10
+2026-08-13T04:58:19.338992+00:00,49274672,45,"DosTips, Windows scripting knowledge trove, scraped to death",39,1
+2026-08-13T04:58:19.338992+00:00,49275132,46,Glaciers on the Climate Dashboard,102,19
+2026-08-13T04:58:19.338992+00:00,49273175,47,"Hax – a minimalist, terminal-native coding agent written in C",93,31
+2026-08-13T04:58:19.338992+00:00,49260250,48,U of Michigan drops first-semester grades to ‘curb mental health crisis’,167,472
+2026-08-13T04:58:19.338992+00:00,49218190,49,The Bit Player: My Father with Steve Zissou,42,10
+2026-08-13T04:58:19.338992+00:00,49221990,50,Program images and portable Scheme back ends for Jolt,8,0
