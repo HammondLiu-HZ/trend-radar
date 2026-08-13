@@ -29760,3 +29760,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-13T17:03:21.272453+00:00,49285909,48,Anthropic: Introducing The Conceptual Reasoning Index,61,47
 2026-08-13T17:03:21.272453+00:00,49288607,49,US Navy sailors try to throw themselves overboard after 250 days at sea,6,2
 2026-08-13T17:03:21.272453+00:00,49273478,50,Qwen3.8-2.4T,694,164
+2026-08-13T19:12:38.631834+00:00,49289112,1,Gemini 3.7 Flash,285,190
+2026-08-13T19:12:38.631834+00:00,49289844,2,Accelerating GPT-5.6 Sol Ultrafast,104,20
+2026-08-13T19:12:38.631834+00:00,49289512,3,Choose Boring Technology (2015),83,42
+2026-08-13T19:12:38.631834+00:00,49289465,4,Donkey.bas is 45 Years Old – 131 line of Glory,57,18
+2026-08-13T19:12:38.631834+00:00,49288889,5,Mistral OCR 4.1,114,31
+2026-08-13T19:12:38.631834+00:00,49286341,6,Spaghettifying DRAM,328,99
+2026-08-13T19:12:38.631834+00:00,49289532,7,"Where did the old web go? We followed 657,607 links to find out",36,11
+2026-08-13T19:12:38.631834+00:00,49289026,8,Tocharian Online,30,1
+2026-08-13T19:12:38.631834+00:00,49288293,9,AI At Home Part 1: A Box Of Scraps,35,13
+2026-08-13T19:12:38.631834+00:00,49258428,10,"Come for ENIAC, Stay for UNIVAC and Skeduflo",46,12
+2026-08-13T19:12:38.631834+00:00,49285244,11,DeepSeek Harness developer preview,457,208
+2026-08-13T19:12:38.631834+00:00,49286485,12,Kubernetes on Oxide: How customer needs shaped our integrations,101,47
+2026-08-13T19:12:38.631834+00:00,49285770,13,Ordinary abundance,120,46
+2026-08-13T19:12:38.631834+00:00,49285982,14,Gloomberb,305,158
+2026-08-13T19:12:38.631834+00:00,49279638,15,How art invented humanity,52,11
+2026-08-13T19:12:38.631834+00:00,49285327,16,"Choosing an AI model: one prompt, 11 models, different results",132,58
+2026-08-13T19:12:38.631834+00:00,49281916,17,Codex in ChatGPT desktop app for Linux is now in preview,408,284
+2026-08-13T19:12:38.631834+00:00,49226487,18,Show HN: Inertia – Not your Grandfathers animation editor,7,1
+2026-08-13T19:12:38.631834+00:00,49289101,19,JDK 27 G1/Parallel/Serial GC Changes,17,3
+2026-08-13T19:12:38.631834+00:00,49288296,21,GoAccess – Open-source real-time log analyzer and interactive viewer,21,3
+2026-08-13T19:12:38.631834+00:00,49285718,22,I built a 500k-domain search engine for makers in a weekend for $10,95,56
+2026-08-13T19:12:38.631834+00:00,49286424,23,Graduate student proves a quantum uncertainty principle for fractals,48,6
+2026-08-13T19:12:38.631834+00:00,49286073,24,Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5,47,29
+2026-08-13T19:12:38.631834+00:00,49232039,25,Better Gaussian Splatting in Julia,100,13
+2026-08-13T19:12:38.631834+00:00,49283063,26,Launch HN: Bullet (YC S26) – A Faster Coding Agent,25,29
+2026-08-13T19:12:38.631834+00:00,49286662,27,I requested a copy of my data from McDonald’s loyalty program,168,201
+2026-08-13T19:12:38.631834+00:00,49273922,28,Show HN: OJCP – an open protocol for agent-consumable job data,17,3
+2026-08-13T19:12:38.631834+00:00,49284774,29,Deutsche Bank becomes first foreign yuan clearing bank in Europe,349,381
+2026-08-13T19:12:38.631834+00:00,49279627,30,The Indo-European Family Tree,45,38
+2026-08-13T19:12:38.631834+00:00,49289158,31,Hillock – Local neuro-symbolic memory engine running in <1.2GB VRAM,5,1
+2026-08-13T19:12:38.631834+00:00,49254376,32,The mathematical physics of rainbows and glories (2001) [pdf],27,2
+2026-08-13T19:12:38.631834+00:00,49286030,33,Time to Move On: Querying Without Nulls and Bags,43,11
+2026-08-13T19:12:38.631834+00:00,49243687,34,The lattice of sets of natural numbers is rich (2021),95,19
+2026-08-13T19:12:38.631834+00:00,49285418,35,Nine PBS could lose 70 years of archives after cloud vendor goes defunct,139,67
+2026-08-13T19:12:38.631834+00:00,49289133,36,Surfil On-device control plane for AI coding agents,4,1
+2026-08-13T19:12:38.631834+00:00,49224997,37,Picking berries is my meditation,98,78
+2026-08-13T19:12:38.631834+00:00,49218514,38,"Translating the Renaissance: 17,000+ historical source texts",12,1
+2026-08-13T19:12:38.631834+00:00,49289424,39,Flock (Again) Activates a Camera System a Town Had Voted to Shut Down,15,0
+2026-08-13T19:12:38.631834+00:00,49286357,40,"We eliminated 1,400 CVEs in NanoClaw's container images",59,41
+2026-08-13T19:12:38.631834+00:00,49289304,41,"Amazon will train on Twitch streamers' content by default, unless they opt out",17,6
+2026-08-13T19:12:38.631834+00:00,49288198,42,"Show HN: At 16K features, flat autoencoders break. Curved space doesn't",6,0
+2026-08-13T19:12:38.631834+00:00,49288778,43,Chicago Mercantile Exchange will list futures contracts for GPU costs,5,2
+2026-08-13T19:12:38.631834+00:00,49290065,44,"Oracle exec boasts about supplying ""scary technology"" to the IDF for use in Gaza",8,0
+2026-08-13T19:12:38.631834+00:00,49288664,45,"Cloudflare Durable Objects, Ported to Rails",7,0
+2026-08-13T19:12:38.631834+00:00,49280061,46,Flutter 3.47,182,199
+2026-08-13T19:12:38.631834+00:00,49285160,47,DeepSeek API Pricing Update,112,42
+2026-08-13T19:12:38.631834+00:00,49242698,48,Antiqua–Fraktur dispute,137,66
+2026-08-13T19:12:38.631834+00:00,49290521,49,Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them,3,0
+2026-08-13T19:12:38.631834+00:00,49269090,50,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,154,35
