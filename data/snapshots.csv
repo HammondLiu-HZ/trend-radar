@@ -29319,3 +29319,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-12T23:50:15.045676+00:00,49177765,48,Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian,33,14
 2026-08-12T23:50:15.045676+00:00,49274018,49,DeepSeek-V4-Pro-0813 Publish,59,8
 2026-08-12T23:50:15.045676+00:00,49272282,50,"Automatic1111 for Apple metal, 40% speed up sd1.5",64,21
+2026-08-13T02:34:35.650973+00:00,49274600,1,DeepSeek V4 Pro 0813,766,290
+2026-08-13T02:34:35.650973+00:00,49276574,2,Delta,417,139
+2026-08-13T02:34:35.650973+00:00,49272832,3,Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug,817,152
+2026-08-13T02:34:35.650973+00:00,49273478,4,Qwen3.8-2.4T,511,111
+2026-08-13T02:34:35.650973+00:00,49280061,5,What's New in Flutter 3.47,51,34
+2026-08-13T02:34:35.650973+00:00,49280103,6,Happy 45th Birthday to the IBM PC and Model F/XT,33,9
+2026-08-13T02:34:35.650973+00:00,49279928,7,Principia Mathematica is modern and insightful,52,18
+2026-08-13T02:34:35.650973+00:00,49280047,8,"Build Wide, Ship Narrow",33,0
+2026-08-13T02:34:35.650973+00:00,49269429,9,Why Target Common Lisp for Code Generation?,41,32
+2026-08-13T02:34:35.650973+00:00,49270953,10,2026 Eclipse Webcams,459,124
+2026-08-13T02:34:35.650973+00:00,49272655,11,"Tim King, AmigaDOS developer, has died",241,29
+2026-08-13T02:34:35.650973+00:00,49275335,12,HTML over WebSockets: real-time SPAs with barely any JavaScript,151,111
+2026-08-13T02:34:35.650973+00:00,49280184,13,Show HN: Ballet – Workflow automation that writes integrations against any API,18,2
+2026-08-13T02:34:35.650973+00:00,49270726,14,uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook,317,447
+2026-08-13T02:34:35.650973+00:00,49274027,15,Grok 4.6,418,412
+2026-08-13T02:34:35.650973+00:00,49269090,16,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,116,22
+2026-08-13T02:34:35.650973+00:00,49272549,17,Why tiny JPEGs look different in Chrome,263,59
+2026-08-13T02:34:35.650973+00:00,49272569,18,"Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",238,177
+2026-08-13T02:34:35.650973+00:00,49279013,19,"Thanks to social media, canned sardines are a scarcity on the supermarket shelf",56,68
+2026-08-13T02:34:35.650973+00:00,49227709,20,Waits: Arthur Samuel's Checkers,5,0
+2026-08-13T02:34:35.650973+00:00,49274757,21,Pixel Watch 5,105,204
+2026-08-13T02:34:35.650973+00:00,49277799,22,Breaking the WAL,64,37
+2026-08-13T02:34:35.650973+00:00,49232312,23,A Tale of Dynamic Programming (2022),72,5
+2026-08-13T02:34:35.650973+00:00,49279197,24,Process as a Proxy for Motivation,28,6
+2026-08-13T02:34:35.650973+00:00,49271757,26,Shade Map,153,41
+2026-08-13T02:34:35.650973+00:00,49274858,27,Lovable raises $400M Series C,98,96
+2026-08-13T02:34:35.650973+00:00,49271994,28,AI is removing the middle class of software engineering?,739,677
+2026-08-13T02:34:35.650973+00:00,49231315,29,Debugging Information for Inlined Functions,22,0
+2026-08-13T02:34:35.650973+00:00,49279628,30,I built a browser-native SysEx librarian for 80s/90s synthesizers,9,7
+2026-08-13T02:34:35.650973+00:00,49270022,31,What sort of maths are LLMs good at?,238,134
+2026-08-13T02:34:35.650973+00:00,49273165,32,License plate reader searches should require a warrant,548,332
+2026-08-13T02:34:35.650973+00:00,49270040,33,Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation,260,40
+2026-08-13T02:34:35.650973+00:00,49280486,34,"California Uber, Lyft drivers win union recognition",20,2
+2026-08-13T02:34:35.650973+00:00,49273330,35,Pixel 11 Pro Fold,98,139
+2026-08-13T02:34:35.650973+00:00,49277288,36,Learning 10000 pictures (1973) [pdf],8,0
+2026-08-13T02:34:35.650973+00:00,49280945,37,Anthropic in Talks to Buy World Model AI Startup Decart for $6B,6,0
+2026-08-13T02:34:35.650973+00:00,49194856,38,High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons,156,17
+2026-08-13T02:34:35.650973+00:00,49221990,39,Program images and portable Scheme back ends for Jolt,6,0
+2026-08-13T02:34:35.650973+00:00,49270621,40,Delphi 13 Community Edition Is Now Available,166,122
+2026-08-13T02:34:35.650973+00:00,49244339,41,Felix and I,95,26
+2026-08-13T02:34:35.650973+00:00,49215117,42,'The Cheese and the Worms' by Carlo Ginzburg Review,16,5
+2026-08-13T02:34:35.650973+00:00,49201953,43,The hardest working font in Manhattan (2025),356,54
+2026-08-13T02:34:35.650973+00:00,49218190,44,The Bit Player: My Father with Steve Zissou,39,10
+2026-08-13T02:34:35.650973+00:00,49273175,45,"Hax – a minimalist, terminal-native coding agent written in C",88,30
+2026-08-13T02:34:35.650973+00:00,49275132,46,Glaciers on the Climate Dashboard,100,19
+2026-08-13T02:34:35.650973+00:00,49279951,47,White House Authorizes Private U.S. Companies to Hack Foreign Cybercrime Groups,24,7
+2026-08-13T02:34:35.650973+00:00,49276673,48,Show HN: Programmable timer web app (for gym workouts or stretching sessions),21,7
+2026-08-13T02:34:35.650973+00:00,49274672,49,"DosTips, Windows scripting knowledge trove, scraped to death",33,0
+2026-08-13T02:34:35.650973+00:00,49206200,50,Bigos (Polish Hunter's Stew) Recipe Builder,93,42
