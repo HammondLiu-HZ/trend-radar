@@ -29466,3 +29466,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-13T06:24:32.280646+00:00,49221990,48,Program images and portable Scheme back ends for Jolt,9,1
 2026-08-13T06:24:32.280646+00:00,49206200,49,Bigos (Polish Hunter's Stew) Recipe Builder,96,42
 2026-08-13T06:24:32.280646+00:00,49208693,50,Worms: The Future of Yesterday's Worms Today,165,54
+2026-08-13T08:26:47.691683+00:00,49274600,1,DeepSeek V4 Pro 0813,898,364
+2026-08-13T08:26:47.691683+00:00,49218040,2,Mushroom behind 'tiny people' hallucinations identified,112,72
+2026-08-13T08:26:47.691683+00:00,49272832,3,We tracked down the 16-year-old WAL-reset SQLite bug,1009,188
+2026-08-13T08:26:47.691683+00:00,49281916,4,ChatGPT Desktop (Codex Desktop) for Linux,49,22
+2026-08-13T08:26:47.691683+00:00,49276574,5,Delta,531,186
+2026-08-13T08:26:47.691683+00:00,49273478,6,Qwen3.8-2.4T,601,139
+2026-08-13T08:26:47.691683+00:00,49279928,7,Principia Mathematica is modern and insightful,141,66
+2026-08-13T08:26:47.691683+00:00,49242698,8,Antiqua–Fraktur dispute,76,11
+2026-08-13T08:26:47.691683+00:00,49270953,9,2026 Eclipse Webcams,478,131
+2026-08-13T08:26:47.691683+00:00,49280061,10,Flutter 3.47,90,83
+2026-08-13T08:26:47.691683+00:00,49269429,11,Why Target Common Lisp for Code Generation?,94,78
+2026-08-13T08:26:47.691683+00:00,49280103,12,Happy 45th Birthday to the IBM PC and Model F/XT,82,21
+2026-08-13T08:26:47.691683+00:00,49270726,13,uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook,456,570
+2026-08-13T08:26:47.691683+00:00,49272655,14,"Tim King, AmigaDOS developer, has died",265,33
+2026-08-13T08:26:47.691683+00:00,49275335,15,HTML over WebSockets: real-time SPAs with barely any JavaScript,191,132
+2026-08-13T08:26:47.691683+00:00,49274027,16,Grok 4.6,527,479
+2026-08-13T08:26:47.691683+00:00,49269090,17,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,135,28
+2026-08-13T08:26:47.691683+00:00,49238831,18,From rubber boots to Copa: When MicroProse Soccer revolutionized football,20,1
+2026-08-13T08:26:47.691683+00:00,49279013,19,"Thanks to social media, canned sardines are a scarcity on the supermarket shelf",113,133
+2026-08-13T08:26:47.691683+00:00,49272549,20,Why tiny JPEGs look different in Chrome,296,63
+2026-08-13T08:26:47.691683+00:00,49272569,21,"Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",270,200
+2026-08-13T08:26:47.691683+00:00,49211530,22,The punched card tabulator,4,0
+2026-08-13T08:26:47.691683+00:00,49274757,23,Pixel Watch 5,139,272
+2026-08-13T08:26:47.691683+00:00,49280047,24,"Build Wide, Ship Narrow",82,23
+2026-08-13T08:26:47.691683+00:00,49277799,25,Breaking the WAL,98,42
+2026-08-13T08:26:47.691683+00:00,49193533,26,The Three-Stroke Problem,6,0
+2026-08-13T08:26:47.691683+00:00,49271757,27,Shade Map,184,47
+2026-08-13T08:26:47.691683+00:00,49274858,28,Lovable raises $400M Series C,137,133
+2026-08-13T08:26:47.691683+00:00,49282762,29,"Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000",7,0
+2026-08-13T08:26:47.691683+00:00,49224802,30,Locating an unknown source of radiation in a heterogeneous environment (2019),26,20
+2026-08-13T08:26:47.691683+00:00,49271994,31,AI is removing the middle class of software engineering?,862,778
+2026-08-13T08:26:47.691683+00:00,49270040,32,Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation,288,40
+2026-08-13T08:26:47.691683+00:00,49280184,34,Show HN: Ballet – Workflow automation that writes integrations against any API,29,9
+2026-08-13T08:26:47.691683+00:00,49273165,35,License plate reader searches should require a warrant,580,345
+2026-08-13T08:26:47.691683+00:00,49279197,36,Process as a Proxy for Motivation,55,20
+2026-08-13T08:26:47.691683+00:00,49194856,37,High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons,160,18
+2026-08-13T08:26:47.691683+00:00,49273330,38,Pixel 11 Pro Fold,111,166
+2026-08-13T08:26:47.691683+00:00,49201953,39,The hardest working font in Manhattan (2025),364,55
+2026-08-13T08:26:47.691683+00:00,49270621,40,Delphi 13 Community Edition Is Now Available,172,129
+2026-08-13T08:26:47.691683+00:00,49231315,41,Debugging Information for Inlined Functions,26,0
+2026-08-13T08:26:47.691683+00:00,49244339,42,Felix and I,100,28
+2026-08-13T08:26:47.691683+00:00,49260250,43,U of Michigan drops first-semester grades to ‘curb mental health crisis’,171,488
+2026-08-13T08:26:47.691683+00:00,49279628,44,I built a browser-native SysEx librarian for 80s/90s synthesizers,13,8
+2026-08-13T08:26:47.691683+00:00,49273175,45,"Hax – a minimalist, terminal-native coding agent written in C",99,32
+2026-08-13T08:26:47.691683+00:00,49275132,46,Glaciers on the Climate Dashboard,105,21
+2026-08-13T08:26:47.691683+00:00,49208693,47,Worms: The Future of Yesterday's Worms Today,167,54
+2026-08-13T08:26:47.691683+00:00,49277288,48,Learning 10000 pictures (1973) [pdf],14,0
+2026-08-13T08:26:47.691683+00:00,49274672,49,"DosTips, Windows scripting knowledge trove, scraped to death",43,2
+2026-08-13T08:26:47.691683+00:00,49272484,50,My Agent Setup,111,52
