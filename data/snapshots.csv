@@ -29662,3 +29662,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-13T13:34:42.486927+00:00,49280184,48,Show HN: Ballet – Workflow automation that writes integrations against any API,31,12
 2026-08-13T13:34:42.486927+00:00,49260250,49,U of Michigan drops first-semester grades to ‘curb mental health crisis’,181,512
 2026-08-13T13:34:42.486927+00:00,49279197,50,Process as a Proxy for Motivation,59,24
+2026-08-13T15:04:38.368630+00:00,49285244,1,DeepSeek Harness,202,92
+2026-08-13T15:04:38.368630+00:00,49286341,2,Spaghettifying DRAM,66,7
+2026-08-13T15:04:38.368630+00:00,49285982,3,Gloomberb,84,18
+2026-08-13T15:04:38.368630+00:00,49285604,4,"AI agents lie, cheat and steal. That is putting off users",72,56
+2026-08-13T15:04:38.368630+00:00,49286270,5,Heart Aerospace Completes First Flight of Largest Electric Aircraft,34,17
+2026-08-13T15:04:38.368630+00:00,49285909,6,Anthropic: Introducing The Conceptual Reasoning Index,31,21
+2026-08-13T15:04:38.368630+00:00,49286073,7,Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5,24,6
+2026-08-13T15:04:38.368630+00:00,49285268,8,My Rules for Using Spreadsheets,34,28
+2026-08-13T15:04:38.368630+00:00,49286030,9,Time to Move On: Querying Without Nulls and Bags,14,0
+2026-08-13T15:04:38.368630+00:00,49285718,10,I Built a 500k-Domain Search Engine for Makers in a Weekend for $10,21,13
+2026-08-13T15:04:38.368630+00:00,49284774,11,Deutsche Bank becomes first foreign yuan clearing bank in Europe,225,257
+2026-08-13T15:04:38.368630+00:00,49224997,13,Picking berries is my meditation,72,49
+2026-08-13T15:04:38.368630+00:00,49286485,14,Kubernetes on Oxide: How Customer Needs Shaped Our Integrations,8,0
+2026-08-13T15:04:38.368630+00:00,49232039,15,Better Gaussian Splatting in Julia,49,5
+2026-08-13T15:04:38.368630+00:00,49286357,16,"We eliminated 1,400 CVEs in NanoClaw's container images",5,1
+2026-08-13T15:04:38.368630+00:00,49281916,17,ChatGPT Desktop (Codex Desktop) for Linux,325,230
+2026-08-13T15:04:38.368630+00:00,49274600,18,DeepSeek V4 Pro 0813,1002,429
+2026-08-13T15:04:38.368630+00:00,49243687,19,The lattice of sets of natural numbers is rich (2021),78,13
+2026-08-13T15:04:38.368630+00:00,49254376,20,The mathematical physics of rainbows and glories(2001) [pdf],4,0
+2026-08-13T15:04:38.368630+00:00,49286424,21,Graduate Student Proves a Quantum Uncertainty Principle for Fractals,4,0
+2026-08-13T15:04:38.368630+00:00,49273478,22,Qwen3.8-2.4T,692,161
+2026-08-13T15:04:38.368630+00:00,49285327,23,"Choosing an AI model: one prompt, 11 models, different results",79,47
+2026-08-13T15:04:38.368630+00:00,49276574,24,Delta,626,228
+2026-08-13T15:04:38.368630+00:00,49279928,25,Principia Mathematica is modern and insightful,237,115
+2026-08-13T15:04:38.368630+00:00,49285160,26,DeepSeek API Pricing Update,54,20
+2026-08-13T15:04:38.368630+00:00,49285418,27,Nine PBS could lose 70 years of archives after cloud vendor goes defunct,45,19
+2026-08-13T15:04:38.368630+00:00,49236596,28,What garbage collection actually costs,10,15
+2026-08-13T15:04:38.368630+00:00,49258428,29,"Come for ENIAC, Stay for UNIVAC and Skeduflo",22,2
+2026-08-13T15:04:38.368630+00:00,49242698,30,Antiqua–Fraktur dispute,135,56
+2026-08-13T15:04:38.368630+00:00,49286057,31,"AI Generated 3D Models Flood Market, but Almost No One Is Buying Them",12,13
+2026-08-13T15:04:38.368630+00:00,49280061,32,Flutter 3.47,167,176
+2026-08-13T15:04:38.368630+00:00,49275335,33,HTML over WebSockets: real-time SPAs with barely any JavaScript,235,172
+2026-08-13T15:04:38.368630+00:00,49218040,34,Mushroom behind 'tiny people' hallucinations identified,238,207
+2026-08-13T15:04:38.368630+00:00,49272655,35,"Tim King, AmigaDOS developer, has died",291,35
+2026-08-13T15:04:38.368630+00:00,49269090,36,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,151,34
+2026-08-13T15:04:38.368630+00:00,49274027,37,Grok 4.6,610,569
+2026-08-13T15:04:38.368630+00:00,49269429,38,Why Target Common Lisp for Code Generation?,138,120
+2026-08-13T15:04:38.368630+00:00,49272832,39,Tracking down the 16-year-old WAL-reset SQLite bug,1133,217
+2026-08-13T15:04:38.368630+00:00,49280103,40,Happy 45th Birthday to the IBM PC and Model F/XT,108,44
+2026-08-13T15:04:38.368630+00:00,49286662,41,McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There,7,0
+2026-08-13T15:04:38.368630+00:00,49279013,42,"Thanks to social media, canned sardines are a scarcity on the supermarket shelf",165,240
+2026-08-13T15:04:38.368630+00:00,49272549,43,Why tiny JPEGs look different in Chrome,325,67
+2026-08-13T15:04:38.368630+00:00,49286172,44,White House taps security firms for offensive hack-back operations,5,1
+2026-08-13T15:04:38.368630+00:00,49193533,45,The Three-Stroke Problem,26,2
+2026-08-13T15:04:38.368630+00:00,49286390,46,"FTC, States Act Against Hims and Hers for Deceptive Unlawful Privacy Practices",6,1
+2026-08-13T15:04:38.368630+00:00,49285741,47,DeepSeek v4 Price Increase,7,3
+2026-08-13T15:04:38.368630+00:00,49272569,48,"Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",296,224
+2026-08-13T15:04:38.368630+00:00,49277799,49,Breaking the WAL,148,50
+2026-08-13T15:04:38.368630+00:00,49271757,50,Shade Map,234,58
