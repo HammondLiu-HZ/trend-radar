@@ -29858,3 +29858,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-13T20:53:13.112255+00:00,49290166,48,"Hello, me. It's been a while",9,5
 2026-08-13T20:53:13.112255+00:00,49285418,49,Nine PBS could lose 70 years of archives after cloud vendor goes defunct,151,72
 2026-08-13T20:53:13.112255+00:00,49290139,50,Stein's Paradox and What Partial Pooling Can Do for You (2019),3,0
+2026-08-13T21:54:33.576767+00:00,49289112,1,Gemini 3.7 Flash,478,293
+2026-08-13T21:54:33.576767+00:00,49289844,2,Accelerating GPT-5.6 Sol Ultrafast,304,118
+2026-08-13T21:54:33.576767+00:00,49291268,3,NP-Overrated,72,24
+2026-08-13T21:54:33.576767+00:00,49289465,4,Donkey.bas is 45 Years Old – 131 line of Glory,144,58
+2026-08-13T21:54:33.576767+00:00,49288889,5,Mistral OCR 4.1,205,79
+2026-08-13T21:54:33.576767+00:00,49290299,6,Understanding is the new bottleneck,85,52
+2026-08-13T21:54:33.576767+00:00,49286341,7,Spaghettifying DRAM,433,130
+2026-08-13T21:54:33.576767+00:00,49289512,8,Choose Boring Technology (2015),177,90
+2026-08-13T21:54:33.576767+00:00,49290969,9,How Gödel's Proof Works (2020),40,24
+2026-08-13T21:54:33.576767+00:00,49290768,10,How Organizations Use AI: Evidence from ChatGPT [pdf],32,16
+2026-08-13T21:54:33.576767+00:00,49289654,11,How Compaction Works in Pi,50,7
+2026-08-13T21:54:33.576767+00:00,49236811,12,Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game,27,3
+2026-08-13T21:54:33.576767+00:00,49285418,13,Nine PBS sues Iron Mountain over blocked access to archival data,162,77
+2026-08-13T21:54:33.576767+00:00,49286485,14,Kubernetes on Oxide: How customer needs shaped our integrations,135,61
+2026-08-13T21:54:33.576767+00:00,49283063,15,Launch HN: Bullet (YC S26) – A Faster Coding Agent,67,41
+2026-08-13T21:54:33.576767+00:00,49289026,16,Tocharian Online,46,6
+2026-08-13T21:54:33.576767+00:00,49285244,17,DeepSeek Harness developer preview,509,230
+2026-08-13T21:54:33.576767+00:00,49288293,18,AI At Home Part 1: A Box Of Scraps,68,35
+2026-08-13T21:54:33.576767+00:00,49289532,19,"Where did the old web go? We followed 657,607 links to find out",94,63
+2026-08-13T21:54:33.576767+00:00,49258428,20,"Come for ENIAC, Stay for UNIVAC and Skeduflo",55,18
+2026-08-13T21:54:33.576767+00:00,49285982,21,Gloomberb,355,181
+2026-08-13T21:54:33.576767+00:00,49279638,22,How art invented humanity,73,22
+2026-08-13T21:54:33.576767+00:00,49281916,23,Codex in ChatGPT desktop app for Linux is now in preview,436,296
+2026-08-13T21:54:33.576767+00:00,49285327,24,"Choosing an AI model: one prompt, 11 models, different results",157,67
+2026-08-13T21:54:33.576767+00:00,49285718,25,I built a 500k-domain search engine for makers in a weekend for $10,124,69
+2026-08-13T21:54:33.576767+00:00,49244696,27,Smooth Move: Taming Trajectories with Polynomials,7,0
+2026-08-13T21:54:33.576767+00:00,49290215,28,Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes,98,49
+2026-08-13T21:54:33.576767+00:00,49289101,29,JDK 27 G1/Parallel/Serial GC Changes,34,11
+2026-08-13T21:54:33.576767+00:00,49288296,30,GoAccess – Open-source real-time log analyzer and interactive viewer,40,9
+2026-08-13T21:54:33.576767+00:00,49285770,31,Ordinary abundance,173,92
+2026-08-13T21:54:33.576767+00:00,49232039,32,Better Gaussian Splatting in Julia,106,23
+2026-08-13T21:54:33.576767+00:00,49286073,33,Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5,53,31
+2026-08-13T21:54:33.576767+00:00,49290180,34,"HN: Xenon, open source dashboard for a second screen, tablet or phone",11,0
+2026-08-13T21:54:33.576767+00:00,49284774,35,Deutsche Bank becomes first foreign yuan clearing bank in Europe,366,402
+2026-08-13T21:54:33.576767+00:00,49290009,36,OxiSH: SSH Server Written in Rust,10,2
+2026-08-13T21:54:33.576767+00:00,49290785,37,Airbnb Eval-driven development: Lessons from evaluating GenAI at scale,8,3
+2026-08-13T21:54:33.576767+00:00,49289898,38,The Oldest Bar in Every US State,9,0
+2026-08-13T21:54:33.576767+00:00,49286424,39,Graduate student proves a quantum uncertainty principle for fractals,52,10
+2026-08-13T21:54:33.576767+00:00,49291782,40,Terabytes of credentials leaked in supply-chain attack,11,0
+2026-08-13T21:54:33.576767+00:00,49286662,41,I requested a copy of my data from McDonald’s loyalty program,189,261
+2026-08-13T21:54:33.576767+00:00,49243687,42,The lattice of sets of natural numbers is rich (2021),100,20
+2026-08-13T21:54:33.576767+00:00,49273922,43,Show HN: OJCP – an open protocol for agent-consumable job data,25,7
+2026-08-13T21:54:33.576767+00:00,49290521,44,Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them,31,10
+2026-08-13T21:54:33.576767+00:00,49289158,45,Hillock – Local neuro-symbolic memory engine running in <1.2GB VRAM,13,3
+2026-08-13T21:54:33.576767+00:00,49286030,46,Time to Move On: Querying Without Nulls and Bags,46,12
+2026-08-13T21:54:33.576767+00:00,49290043,47,ESP-Claw,8,3
+2026-08-13T21:54:33.576767+00:00,49286357,48,"We eliminated 1,400 CVEs in NanoClaw's container images",64,41
+2026-08-13T21:54:33.576767+00:00,49288778,49,Chicago Mercantile Exchange will list futures contracts for GPU costs,10,2
+2026-08-13T21:54:33.576767+00:00,49224997,50,Picking berries is my meditation,102,80
