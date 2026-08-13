@@ -29711,3 +29711,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-13T15:04:38.368630+00:00,49272569,48,"Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",296,224
 2026-08-13T15:04:38.368630+00:00,49277799,49,Breaking the WAL,148,50
 2026-08-13T15:04:38.368630+00:00,49271757,50,Shade Map,234,58
+2026-08-13T17:03:21.272453+00:00,49286341,1,Spaghettifying DRAM,220,58
+2026-08-13T17:03:21.272453+00:00,49258428,2,"Come for ENIAC, Stay for UNIVAC and Skeduflo",38,6
+2026-08-13T17:03:21.272453+00:00,49285244,3,DeepSeek Harness developer preview,383,179
+2026-08-13T17:03:21.272453+00:00,49285982,4,Gloomberb,236,108
+2026-08-13T17:03:21.272453+00:00,49279638,5,How art invented humanity,16,0
+2026-08-13T17:03:21.272453+00:00,49286485,6,Kubernetes on Oxide: How customer needs shaped our integrations,69,19
+2026-08-13T17:03:21.272453+00:00,49286357,7,"We eliminated 1,400 CVEs in NanoClaw's container images",41,21
+2026-08-13T17:03:21.272453+00:00,49281916,8,Codex in ChatGPT desktop app for Linux is now in preview,378,263
+2026-08-13T17:03:21.272453+00:00,49286073,9,Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5,40,19
+2026-08-13T17:03:21.272453+00:00,49285718,10,I built a 500k-domain search engine for makers in a weekend for $10,70,36
+2026-08-13T17:03:21.272453+00:00,49286424,11,Graduate student proves a quantum uncertainty principle for fractals,25,5
+2026-08-13T17:03:21.272453+00:00,49254376,12,The mathematical physics of rainbows and glories (2001) [pdf],19,0
+2026-08-13T17:03:21.272453+00:00,49284774,13,Deutsche Bank becomes first foreign yuan clearing bank in Europe,309,325
+2026-08-13T17:03:21.272453+00:00,49286030,14,Time to Move On: Querying Without Nulls and Bags,37,7
+2026-08-13T17:03:21.272453+00:00,49285770,15,Ordinary Abundance,37,6
+2026-08-13T17:03:21.272453+00:00,49286662,17,I requested a copy of my data from McDonald’s loyalty program,94,97
+2026-08-13T17:03:21.272453+00:00,49283063,18,Launch HN: Bullet (YC S26) – A Faster Coding Agent,15,11
+2026-08-13T17:03:21.272453+00:00,49218514,19,"Translating the Renaissance: 17,000+ historical source texts",7,0
+2026-08-13T17:03:21.272453+00:00,49232039,20,Better Gaussian Splatting in Julia,74,9
+2026-08-13T17:03:21.272453+00:00,49285327,21,"Choosing an AI model: one prompt, 11 models, different results",105,54
+2026-08-13T17:03:21.272453+00:00,49243687,22,The lattice of sets of natural numbers is rich (2021),92,18
+2026-08-13T17:03:21.272453+00:00,49287153,23,Text AI watermarks will always be trivial to remove,42,30
+2026-08-13T17:03:21.272453+00:00,49285418,24,Nine PBS could lose 70 years of archives after cloud vendor goes defunct,108,48
+2026-08-13T17:03:21.272453+00:00,49224997,25,Picking berries is my meditation,90,72
+2026-08-13T17:03:21.272453+00:00,49279627,26,The Indo-European Family Tree,13,5
+2026-08-13T17:03:21.272453+00:00,49276574,27,Delta,641,234
+2026-08-13T17:03:21.272453+00:00,49286270,28,Heart aerospace completes first flight of largest electric aircraft,97,81
+2026-08-13T17:03:21.272453+00:00,49279928,29,Principia Mathematica is modern and insightful,252,135
+2026-08-13T17:03:21.272453+00:00,49285160,30,DeepSeek API Pricing Update,101,35
+2026-08-13T17:03:21.272453+00:00,49286211,31,Build a Stratum 1 PTP Grandmaster on a Budget,13,1
+2026-08-13T17:03:21.272453+00:00,49287881,32,DeepSeek up to 1000% price hike is live,13,1
+2026-08-13T17:03:21.272453+00:00,49288051,33,Samsung is using Claude to verify chip designs. It's not going smoothly,16,4
+2026-08-13T17:03:21.272453+00:00,49242698,34,Antiqua–Fraktur dispute,136,59
+2026-08-13T17:03:21.272453+00:00,49280061,35,Flutter 3.47,175,193
+2026-08-13T17:03:21.272453+00:00,49274600,36,DeepSeek V4 Pro 0813,1010,433
+2026-08-13T17:03:21.272453+00:00,49286644,37,You Can't Copy Palantir,22,5
+2026-08-13T17:03:21.272453+00:00,49269090,38,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,153,35
+2026-08-13T17:03:21.272453+00:00,49272655,39,"Tim King, AmigaDOS developer, has died",291,35
+2026-08-13T17:03:21.272453+00:00,49275335,40,HTML over WebSockets: real-time SPAs with barely any JavaScript,240,176
+2026-08-13T17:03:21.272453+00:00,49274027,41,Grok 4.6,616,577
+2026-08-13T17:03:21.272453+00:00,49272832,42,Tracking down the 16-year-old WAL-reset SQLite bug,1143,220
+2026-08-13T17:03:21.272453+00:00,49285414,43,"Three years after police raid on Kansas newspaper, reporter settles for $850K",29,1
+2026-08-13T17:03:21.272453+00:00,49269429,44,Why Target Common Lisp for Code Generation?,142,124
+2026-08-13T17:03:21.272453+00:00,49279013,45,"Thanks to social media, canned sardines are a scarcity on the supermarket shelf",173,253
+2026-08-13T17:03:21.272453+00:00,49280103,46,Happy 45th Birthday to the IBM PC and Model F/XT,110,46
+2026-08-13T17:03:21.272453+00:00,49272549,47,Why tiny JPEGs look different in Chrome,328,67
+2026-08-13T17:03:21.272453+00:00,49285909,48,Anthropic: Introducing The Conceptual Reasoning Index,61,47
+2026-08-13T17:03:21.272453+00:00,49288607,49,US Navy sailors try to throw themselves overboard after 250 days at sea,6,2
+2026-08-13T17:03:21.272453+00:00,49273478,50,Qwen3.8-2.4T,694,164
