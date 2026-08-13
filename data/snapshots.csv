@@ -29809,3 +29809,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-13T19:12:38.631834+00:00,49242698,48,Antiqua–Fraktur dispute,137,66
 2026-08-13T19:12:38.631834+00:00,49290521,49,Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them,3,0
 2026-08-13T19:12:38.631834+00:00,49269090,50,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,154,35
+2026-08-13T20:53:13.112255+00:00,49289112,1,Gemini 3.7 Flash,426,254
+2026-08-13T20:53:13.112255+00:00,49289844,2,Accelerating GPT-5.6 Sol Ultrafast,250,88
+2026-08-13T20:53:13.112255+00:00,49289465,3,Donkey.bas is 45 Years Old – 131 line of Glory,122,43
+2026-08-13T20:53:13.112255+00:00,49288889,4,Mistral OCR 4.1,178,62
+2026-08-13T20:53:13.112255+00:00,49286341,5,Spaghettifying DRAM,401,118
+2026-08-13T20:53:13.112255+00:00,49289512,6,Choose Boring Technology (2015),150,79
+2026-08-13T20:53:13.112255+00:00,49290969,7,How Gödel's Proof Works,21,5
+2026-08-13T20:53:13.112255+00:00,49290768,8,How Organizations Use AI: Evidence from ChatGPT [pdf],24,7
+2026-08-13T20:53:13.112255+00:00,49291268,9,NP-Overrated,12,0
+2026-08-13T20:53:13.112255+00:00,49290299,10,Understanding is the new bottleneck,46,30
+2026-08-13T20:53:13.112255+00:00,49236811,11,Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game,17,0
+2026-08-13T20:53:13.112255+00:00,49290215,12,Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes,67,21
+2026-08-13T20:53:13.112255+00:00,49289532,13,"Where did the old web go? We followed 657,607 links to find out",82,50
+2026-08-13T20:53:13.112255+00:00,49289654,14,How Compaction Works in Pi,22,0
+2026-08-13T20:53:13.112255+00:00,49286485,15,Kubernetes on Oxide: How customer needs shaped our integrations,125,56
+2026-08-13T20:53:13.112255+00:00,49285244,16,DeepSeek Harness developer preview,490,227
+2026-08-13T20:53:13.112255+00:00,49289026,17,Tocharian Online,38,4
+2026-08-13T20:53:13.112255+00:00,49279638,18,How art invented humanity,65,19
+2026-08-13T20:53:13.112255+00:00,49288293,19,AI At Home Part 1: A Box Of Scraps,61,29
+2026-08-13T20:53:13.112255+00:00,49258428,20,"Come for ENIAC, Stay for UNIVAC and Skeduflo",52,18
+2026-08-13T20:53:13.112255+00:00,49285982,21,Gloomberb,339,172
+2026-08-13T20:53:13.112255+00:00,49285327,22,"Choosing an AI model: one prompt, 11 models, different results",149,64
+2026-08-13T20:53:13.112255+00:00,49285770,23,Ordinary abundance,157,79
+2026-08-13T20:53:13.112255+00:00,49281916,25,Codex in ChatGPT desktop app for Linux is now in preview,429,289
+2026-08-13T20:53:13.112255+00:00,49285718,26,I built a 500k-domain search engine for makers in a weekend for $10,119,64
+2026-08-13T20:53:13.112255+00:00,49289101,27,JDK 27 G1/Parallel/Serial GC Changes,27,9
+2026-08-13T20:53:13.112255+00:00,49288296,28,GoAccess – Open-source real-time log analyzer and interactive viewer,30,6
+2026-08-13T20:53:13.112255+00:00,49283063,29,Launch HN: Bullet (YC S26) – A Faster Coding Agent,35,36
+2026-08-13T20:53:13.112255+00:00,49232039,30,Better Gaussian Splatting in Julia,103,21
+2026-08-13T20:53:13.112255+00:00,49290180,31,"HN: Xenon, open source dashboard for a second screen, tablet or phone",7,0
+2026-08-13T20:53:13.112255+00:00,49286073,32,Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5,49,31
+2026-08-13T20:53:13.112255+00:00,49289585,33,Solid 2.0 RC: The Big <Reveal>,44,19
+2026-08-13T20:53:13.112255+00:00,49284774,34,Deutsche Bank becomes first foreign yuan clearing bank in Europe,361,396
+2026-08-13T20:53:13.112255+00:00,49273922,35,Show HN: OJCP – an open protocol for agent-consumable job data,23,6
+2026-08-13T20:53:13.112255+00:00,49290785,36,Airbnb Eval-driven development: Lessons from evaluating GenAI at scale,4,0
+2026-08-13T20:53:13.112255+00:00,49286662,37,I requested a copy of my data from McDonald’s loyalty program,187,244
+2026-08-13T20:53:13.112255+00:00,49286424,38,Graduate student proves a quantum uncertainty principle for fractals,51,9
+2026-08-13T20:53:13.112255+00:00,49290521,39,Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them,25,5
+2026-08-13T20:53:13.112255+00:00,49290043,40,ESP-Claw,6,2
+2026-08-13T20:53:13.112255+00:00,49243687,41,The lattice of sets of natural numbers is rich (2021),97,19
+2026-08-13T20:53:13.112255+00:00,49290009,42,OxiSH: SSH Server Written in Rust,7,2
+2026-08-13T20:53:13.112255+00:00,49286030,43,Time to Move On: Querying Without Nulls and Bags,46,12
+2026-08-13T20:53:13.112255+00:00,49288778,44,Chicago Mercantile Exchange will list futures contracts for GPU costs,8,2
+2026-08-13T20:53:13.112255+00:00,49289158,45,Hillock – Local neuro-symbolic memory engine running in <1.2GB VRAM,8,1
+2026-08-13T20:53:13.112255+00:00,49290545,46,How do I permanently disable Google Photos pop-up prompt to backup my photos?,14,3
+2026-08-13T20:53:13.112255+00:00,49224997,47,Picking berries is my meditation,101,79
+2026-08-13T20:53:13.112255+00:00,49290166,48,"Hello, me. It's been a while",9,5
+2026-08-13T20:53:13.112255+00:00,49285418,49,Nine PBS could lose 70 years of archives after cloud vendor goes defunct,151,72
+2026-08-13T20:53:13.112255+00:00,49290139,50,Stein's Paradox and What Partial Pooling Can Do for You (2019),3,0
