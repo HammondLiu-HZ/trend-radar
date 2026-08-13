@@ -29907,3 +29907,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-13T21:54:33.576767+00:00,49286357,48,"We eliminated 1,400 CVEs in NanoClaw's container images",64,41
 2026-08-13T21:54:33.576767+00:00,49288778,49,Chicago Mercantile Exchange will list futures contracts for GPU costs,10,2
 2026-08-13T21:54:33.576767+00:00,49224997,50,Picking berries is my meditation,102,80
+2026-08-13T22:52:18.645168+00:00,49289112,1,Gemini 3.7 Flash,523,309
+2026-08-13T22:52:18.645168+00:00,49289844,2,Accelerating GPT-5.6 Sol Ultrafast,347,135
+2026-08-13T22:52:18.645168+00:00,49291268,3,NP-Overrated,86,40
+2026-08-13T22:52:18.645168+00:00,49290299,4,Understanding is the new bottleneck,123,68
+2026-08-13T22:52:18.645168+00:00,49289465,5,Donkey.bas is 45 Years Old – 131 line of Glory,158,67
+2026-08-13T22:52:18.645168+00:00,49288889,6,Mistral OCR 4.1,220,86
+2026-08-13T22:52:18.645168+00:00,49286341,7,Spaghettifying DRAM,456,133
+2026-08-13T22:52:18.645168+00:00,49289512,8,Choose Boring Technology (2015),204,109
+2026-08-13T22:52:18.645168+00:00,49290969,9,How Gödel's Proof Works (2020),50,29
+2026-08-13T22:52:18.645168+00:00,49290768,10,How Organizations Use AI: Evidence from ChatGPT [pdf],45,21
+2026-08-13T22:52:18.645168+00:00,49289654,11,How Compaction Works in Pi,66,18
+2026-08-13T22:52:18.645168+00:00,49223964,12,Finite State Machines in Forth (1994),14,0
+2026-08-13T22:52:18.645168+00:00,49236811,13,Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game,31,6
+2026-08-13T22:52:18.645168+00:00,49285418,14,Nine PBS sues Iron Mountain over blocked access to archival data,188,91
+2026-08-13T22:52:18.645168+00:00,49244696,15,Smooth Move: Taming Trajectories with Polynomials,15,0
+2026-08-13T22:52:18.645168+00:00,49290215,16,Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes,118,63
+2026-08-13T22:52:18.645168+00:00,49286485,17,Kubernetes on Oxide: How customer needs shaped our integrations,145,62
+2026-08-13T22:52:18.645168+00:00,49289026,18,Tocharian Online,52,8
+2026-08-13T22:52:18.645168+00:00,49283063,19,Launch HN: Bullet (YC S26) – A Faster Coding Agent,73,45
+2026-08-13T22:52:18.645168+00:00,49288293,20,AI At Home Part 1: A Box Of Scraps,73,39
+2026-08-13T22:52:18.645168+00:00,49285244,21,DeepSeek Harness developer preview,520,231
+2026-08-13T22:52:18.645168+00:00,49285327,22,"Choosing an AI model: one prompt, 11 models, different results",162,70
+2026-08-13T22:52:18.645168+00:00,49285982,23,Gloomberb,366,182
+2026-08-13T22:52:18.645168+00:00,49289532,24,"Where did the old web go? We followed 657,607 links to find out",103,71
+2026-08-13T22:52:18.645168+00:00,49285718,25,I built a 500k-domain search engine for makers in a weekend for $10,137,72
+2026-08-13T22:52:18.645168+00:00,49289101,26,JDK 27 G1/Parallel/Serial GC Changes,41,13
+2026-08-13T22:52:18.645168+00:00,49292567,27,US sells 30-year bonds at highest borrowing costs since 2001,16,7
+2026-08-13T22:52:18.645168+00:00,49279638,29,How art invented humanity,79,33
+2026-08-13T22:52:18.645168+00:00,49258428,30,"Come for ENIAC, Stay for UNIVAC and Skeduflo",55,20
+2026-08-13T22:52:18.645168+00:00,49288296,31,GoAccess – Open-source real-time log analyzer and interactive viewer,45,9
+2026-08-13T22:52:18.645168+00:00,49285770,32,Ordinary abundance,180,98
+2026-08-13T22:52:18.645168+00:00,49291782,33,Terabytes of credentials leaked in supply-chain attack,24,0
+2026-08-13T22:52:18.645168+00:00,49232039,34,Better Gaussian Splatting in Julia,109,23
+2026-08-13T22:52:18.645168+00:00,49289898,35,The Oldest Bar in Every US State,12,0
+2026-08-13T22:52:18.645168+00:00,49286073,36,Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5,53,32
+2026-08-13T22:52:18.645168+00:00,49284774,37,Deutsche Bank becomes first foreign yuan clearing bank in Europe,372,405
+2026-08-13T22:52:18.645168+00:00,49290009,38,OxiSH: SSH Server Written in Rust,11,2
+2026-08-13T22:52:18.645168+00:00,49273922,39,Show HN: OJCP – an open protocol for agent-consumable job data,27,7
+2026-08-13T22:52:18.645168+00:00,49243687,40,The lattice of sets of natural numbers is rich (2021),101,21
+2026-08-13T22:52:18.645168+00:00,49286424,41,Graduate student proves a quantum uncertainty principle for fractals,55,11
+2026-08-13T22:52:18.645168+00:00,49286662,42,I requested a copy of my data from McDonald’s loyalty program,198,270
+2026-08-13T22:52:18.645168+00:00,49281916,43,Codex in ChatGPT desktop app for Linux is now in preview,441,298
+2026-08-13T22:52:18.645168+00:00,49292409,44,"Is this hack-back or cyber letters-of-marque? No, but maybe",5,0
+2026-08-13T22:52:18.645168+00:00,49290785,45,Airbnb Eval-driven development: Lessons from evaluating GenAI at scale,9,3
+2026-08-13T22:52:18.645168+00:00,49289158,46,Hillock – Local neuro-symbolic memory engine running in <1.2GB VRAM,14,3
+2026-08-13T22:52:18.645168+00:00,49290521,47,Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them,37,11
+2026-08-13T22:52:18.645168+00:00,49290043,48,ESP-Claw,10,4
+2026-08-13T22:52:18.645168+00:00,49286030,49,Time to Move On: Querying Without Nulls and Bags,47,12
+2026-08-13T22:52:18.645168+00:00,49269090,50,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,154,35
