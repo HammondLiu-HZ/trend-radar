@@ -30152,3 +30152,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-14T06:20:11.083746+00:00,49288296,48,GoAccess – Open-source real-time log analyzer and interactive viewer,56,13
 2026-08-14T06:20:11.083746+00:00,49294674,49,Border blaster,9,0
 2026-08-14T06:20:11.083746+00:00,49292932,50,How AI text watermarking works,106,80
+2026-08-14T08:22:25.160651+00:00,49294997,1,GLM-5.3: Frontier coding with emergent cyber capabilities,347,132
+2026-08-14T08:22:25.160651+00:00,49289112,2,Gemini 3.7 Flash,794,423
+2026-08-14T08:22:25.160651+00:00,49289844,3,Accelerating GPT-5.6 Sol Ultrafast,562,233
+2026-08-14T08:22:25.160651+00:00,49290166,4,"Hello, me. It's been a while",183,87
+2026-08-14T08:22:25.160651+00:00,49258085,5,Show HN: C# Game Engine with its own scripting language and IDE,24,1
+2026-08-14T08:22:25.160651+00:00,49293324,6,Bluesky Protocol Services,157,28
+2026-08-14T08:22:25.160651+00:00,49285244,7,DeepSeek Harness developer preview,643,268
+2026-08-14T08:22:25.160651+00:00,49295238,8,Ruby 4.0 Universal RCE Deserialization Gadget Chain,15,1
+2026-08-14T08:22:25.160651+00:00,49286341,9,Spaghettifying DRAM,599,155
+2026-08-14T08:22:25.160651+00:00,49288889,10,Mistral OCR 4.1,324,130
+2026-08-14T08:22:25.160651+00:00,49290299,11,Understanding is the new bottleneck,303,162
+2026-08-14T08:22:25.160651+00:00,49293523,12,Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri,5,0
+2026-08-14T08:22:25.160651+00:00,49289512,13,Choose Boring Technology (2015),327,164
+2026-08-14T08:22:25.160651+00:00,49248769,14,The Library of Ashurbanipal (2025),26,8
+2026-08-14T08:22:25.160651+00:00,49289465,15,Donkey.bas is 45 Years Old – 131 line of Glory,227,104
+2026-08-14T08:22:25.160651+00:00,49291268,16,NP-overrated,202,133
+2026-08-14T08:22:25.160651+00:00,49285418,17,Nine PBS sues Iron Mountain over blocked access to archival data,300,171
+2026-08-14T08:22:25.160651+00:00,49293087,18,Blog about things you don't understand yet,93,31
+2026-08-14T08:22:25.160651+00:00,49289654,19,How Compaction Works in Pi,155,60
+2026-08-14T08:22:25.160651+00:00,49204232,20,What an Improv Stage Can Teach You About Leading Cross-Cultural Teams in Tokyo,3,0
+2026-08-14T08:22:25.160651+00:00,49289532,21,"Where did the old web go? We followed 657,607 links to find out",174,157
+2026-08-14T08:22:25.160651+00:00,49290215,22,Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes,204,131
+2026-08-14T08:22:25.160651+00:00,49242287,23,Credibility is the barrier to entry in silicon,19,7
+2026-08-14T08:22:25.160651+00:00,49290768,24,How Organizations Use AI: Evidence from ChatGPT [pdf],102,59
+2026-08-14T08:22:25.160651+00:00,49223964,25,Finite State Machines in Forth (1994),73,2
+2026-08-14T08:22:25.160651+00:00,49232753,26,The Legend of the Novell NE2000 [video],42,13
+2026-08-14T08:22:25.160651+00:00,49290969,27,How Gödel's Proof Works (2020),101,42
+2026-08-14T08:22:25.160651+00:00,49221431,28,Cave of the Crystals,41,2
+2026-08-14T08:22:25.160651+00:00,49285770,29,Ordinary Abundance,295,151
+2026-08-14T08:22:25.160651+00:00,49240615,30,an ambiguity in C89 which will never be fixed,60,24
+2026-08-14T08:22:25.160651+00:00,49285327,31,"Choosing an AI model: one prompt, 11 models, different results",202,85
+2026-08-14T08:22:25.160651+00:00,49283063,32,Launch HN: Bullet (YC S26) – A Faster Coding Agent,97,74
+2026-08-14T08:22:25.160651+00:00,49286485,33,Kubernetes on Oxide: How customer needs shaped our integrations,184,78
+2026-08-14T08:22:25.160651+00:00,49295816,34,Connecticut judge says plaintiff hid messages for AI in court filings,6,0
+2026-08-14T08:22:25.160651+00:00,49287153,35,Text AI watermarks will always be trivial to remove,119,131
+2026-08-14T08:22:25.160651+00:00,49288293,36,AI At Home Part 1: A Box Of Scraps,116,54
+2026-08-14T08:22:25.160651+00:00,49285982,37,Gloomberb,410,213
+2026-08-14T08:22:25.160651+00:00,49210740,38,How a device finds encrypted DNS by itself,29,5
+2026-08-14T08:22:25.160651+00:00,49286270,39,Heart aerospace completes first flight of largest electric aircraft,129,129
+2026-08-14T08:22:25.160651+00:00,49236811,40,Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game,53,10
+2026-08-14T08:22:25.160651+00:00,49289026,41,Tocharian Online,61,15
+2026-08-14T08:22:25.160651+00:00,49244696,43,Smooth Move: Taming Trajectories with Polynomials,28,1
+2026-08-14T08:22:25.160651+00:00,49294025,44,'Not acceptable': Judge orders Google to make rival app store installs easier,53,12
+2026-08-14T08:22:25.160651+00:00,49293294,45,SparrowMap – Cameras that watch government vehicles,150,34
+2026-08-14T08:22:25.160651+00:00,49289260,46,"I want extern ""fil-C""",57,17
+2026-08-14T08:22:25.160651+00:00,49218040,47,Mushroom behind 'tiny people' hallucinations identified,276,267
+2026-08-14T08:22:25.160651+00:00,49279638,48,How art invented humanity,93,36
+2026-08-14T08:22:25.160651+00:00,49289101,49,JDK 27 G1/Parallel/Serial GC Changes,57,22
+2026-08-14T08:22:25.160651+00:00,49232039,50,Better Gaussian Splatting in Julia,118,23
