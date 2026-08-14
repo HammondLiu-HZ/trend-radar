@@ -30054,3 +30054,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-14T02:32:45.867293+00:00,49293292,48,How Obama's BlackBerry got secured (2023),13,5
 2026-08-14T02:32:45.867293+00:00,49224997,49,Picking berries is my meditation,105,85
 2026-08-14T02:32:45.867293+00:00,49285909,50,The Conceptual Reasoning Index,72,51
+2026-08-14T04:55:07.334842+00:00,49289112,1,Gemini 3.7 Flash,701,388
+2026-08-14T04:55:07.334842+00:00,49289844,2,Accelerating GPT-5.6 Sol Ultrafast,496,205
+2026-08-14T04:55:07.334842+00:00,49293324,3,Bluesky Protocol Services,113,21
+2026-08-14T04:55:07.334842+00:00,49290166,4,"Hello, me. It's been a while",83,37
+2026-08-14T04:55:07.334842+00:00,49285244,5,DeepSeek Harness developer preview,597,251
+2026-08-14T04:55:07.334842+00:00,49286341,6,Spaghettifying DRAM,538,146
+2026-08-14T04:55:07.334842+00:00,49288889,7,Mistral OCR 4.1,279,111
+2026-08-14T04:55:07.334842+00:00,49289512,8,Choose Boring Technology (2015),292,147
+2026-08-14T04:55:07.334842+00:00,49290299,9,Understanding is the new bottleneck,251,137
+2026-08-14T04:55:07.334842+00:00,49291268,10,NP-overrated,179,111
+2026-08-14T04:55:07.334842+00:00,49289465,11,Donkey.bas is 45 Years Old – 131 line of Glory,205,93
+2026-08-14T04:55:07.334842+00:00,49232753,12,The Legend of the Novell NE2000 [video],23,6
+2026-08-14T04:55:07.334842+00:00,49293087,13,Blog about things you don't understand yet,51,19
+2026-08-14T04:55:07.334842+00:00,49285418,14,Nine PBS sues Iron Mountain over blocked access to archival data,274,157
+2026-08-14T04:55:07.334842+00:00,49223964,15,Finite State Machines in Forth (1994),62,2
+2026-08-14T04:55:07.334842+00:00,49290215,16,Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes,169,108
+2026-08-14T04:55:07.334842+00:00,49289654,17,How Compaction Works in Pi,129,50
+2026-08-14T04:55:07.334842+00:00,49290768,18,How Organizations Use AI: Evidence from ChatGPT [pdf],87,49
+2026-08-14T04:55:07.334842+00:00,49289532,19,"Where did the old web go? We followed 657,607 links to find out",146,133
+2026-08-14T04:55:07.334842+00:00,49290969,20,How Gödel's Proof Works (2020),88,39
+2026-08-14T04:55:07.334842+00:00,49240615,21,An ambiguity in c89 which will never be fixed,46,13
+2026-08-14T04:55:07.334842+00:00,49285770,22,Ordinary Abundance,252,132
+2026-08-14T04:55:07.334842+00:00,49221431,23,Cave of the Crystals,10,1
+2026-08-14T04:55:07.334842+00:00,49210740,24,How a device finds encrypted DNS by itself,22,4
+2026-08-14T04:55:07.334842+00:00,49283063,25,Launch HN: Bullet (YC S26) – A Faster Coding Agent,91,66
+2026-08-14T04:55:07.334842+00:00,49236811,26,Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game,48,10
+2026-08-14T04:55:07.334842+00:00,49288293,27,AI At Home Part 1: A Box Of Scraps,106,48
+2026-08-14T04:55:07.334842+00:00,49293294,28,SparrowMap – Cameras that watch government vehicles,137,35
+2026-08-14T04:55:07.334842+00:00,49286485,29,Kubernetes on Oxide: How customer needs shaped our integrations,165,75
+2026-08-14T04:55:07.334842+00:00,49285327,30,"Choosing an AI model: one prompt, 11 models, different results",186,77
+2026-08-14T04:55:07.334842+00:00,49287153,31,Text AI watermarks will always be trivial to remove,107,107
+2026-08-14T04:55:07.334842+00:00,49244696,32,Smooth Move: Taming Trajectories with Polynomials,25,1
+2026-08-14T04:55:07.334842+00:00,49285982,33,Gloomberb,400,204
+2026-08-14T04:55:07.334842+00:00,49294025,34,'Not acceptable': Judge orders Google to make rival app store installs easier,26,6
+2026-08-14T04:55:07.334842+00:00,49289026,35,Tocharian Online,58,15
+2026-08-14T04:55:07.334842+00:00,49286270,36,Heart aerospace completes first flight of largest electric aircraft,122,124
+2026-08-14T04:55:07.334842+00:00,49293984,37,S.F.'s top-paid employee made $900K. Here's what every city worker gets paid,20,0
+2026-08-14T04:55:07.334842+00:00,49243860,39,Crown 0.64 – Native and cross-platform game engine,6,4
+2026-08-14T04:55:07.334842+00:00,49289101,40,JDK 27 G1/Parallel/Serial GC Changes,52,22
+2026-08-14T04:55:07.334842+00:00,49279638,41,How art invented humanity,87,36
+2026-08-14T04:55:07.334842+00:00,49289372,42,Compute-optimal is not cluster-optimal,10,0
+2026-08-14T04:55:07.334842+00:00,49294502,43,Qwen3.8 27B,6,0
+2026-08-14T04:55:07.334842+00:00,49289260,44,"I want extern ""fil-C""",50,17
+2026-08-14T04:55:07.334842+00:00,49218040,45,Mushroom behind 'tiny people' hallucinations identified,270,264
+2026-08-14T04:55:07.334842+00:00,49294674,46,Border blaster,6,0
+2026-08-14T04:55:07.334842+00:00,49232039,47,Better Gaussian Splatting in Julia,114,23
+2026-08-14T04:55:07.334842+00:00,49288296,48,GoAccess – Open-source real-time log analyzer and interactive viewer,54,13
+2026-08-14T04:55:07.334842+00:00,49293261,49,TRS-80 Color Computer Extended Basic Emulator in JavaScript,8,0
+2026-08-14T04:55:07.334842+00:00,49294233,50,Rsync 3.5.0: a huge number of security fixes,9,0
