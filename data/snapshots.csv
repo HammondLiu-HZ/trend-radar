@@ -30595,3 +30595,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-14T20:37:06.005727+00:00,49242867,48,Protect Your Relays,40,16
 2026-08-14T20:37:06.005727+00:00,49297469,49,WhatCable: Know what your USB-C cable can do,77,61
 2026-08-14T20:37:06.005727+00:00,49298211,50,Cursor is now a part of SpaceX,88,80
+2026-08-14T21:32:11.008464+00:00,49299605,1,Qwen 3.8 27B,707,450
+2026-08-14T21:32:11.008464+00:00,49299675,2,Seven books I keep close because I love them,260,109
+2026-08-14T21:32:11.008464+00:00,49304368,3,Study links coffee consumption to metabolic health and sex hormones,17,8
+2026-08-14T21:32:11.008464+00:00,49303540,4,Anthropic Risk August 2026 [pdf],44,37
+2026-08-14T21:32:11.008464+00:00,49300759,5,RustDesk now supports true unattended remote access on Wayland,165,76
+2026-08-14T21:32:11.008464+00:00,49296740,6,Why does Opus 5 feel worse to work with?,653,607
+2026-08-14T21:32:11.008464+00:00,49300314,7,Google is making private AI practical with homomorphic encryption,191,125
+2026-08-14T21:32:11.008464+00:00,49303405,8,What You Gain by Building Your Own Game Engine,18,15
+2026-08-14T21:32:11.008464+00:00,49299746,9,Introducing Toast 1,150,48
+2026-08-14T21:32:11.008464+00:00,49232870,10,Show HN: Ember – Redshift safe color palettes,28,4
+2026-08-14T21:32:11.008464+00:00,49300568,11,AI by Hand,123,11
+2026-08-14T21:32:11.008464+00:00,49211375,12,Ultraviolet Bird Photography,75,13
+2026-08-14T21:32:11.008464+00:00,49303652,13,New Lower and Upper Bounds for the Grothendieck Constant,15,2
+2026-08-14T21:32:11.008464+00:00,49303046,14,Show HN: Mole – Deep research agent for your terminal,26,6
+2026-08-14T21:32:11.008464+00:00,49299081,15,I turned my RSS feeds into an e-ink newspaper to stop reading on my phone,105,47
+2026-08-14T21:32:11.008464+00:00,49303592,16,CEO who fired 900 people on Zoom just before Christmas wants his job back,64,33
+2026-08-14T21:32:11.008464+00:00,49303957,17,Every exterior shot in The Taking of Pelham 123,11,2
+2026-08-14T21:32:11.008464+00:00,49300800,18,Maximizing the value of your Claude Code sessions,96,64
+2026-08-14T21:32:11.008464+00:00,49269809,19,"Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines",47,12
+2026-08-14T21:32:11.008464+00:00,49240708,20,ICTP Announces 2026 Dirac Medal Recipients (Physics),4,1
+2026-08-14T21:32:11.008464+00:00,49301215,21,Show HN: LuaCAD – Parametric CAD Scripted in Lua,53,13
+2026-08-14T21:32:11.008464+00:00,49296627,22,DeepSeek peak/off-peak pricing update,234,124
+2026-08-14T21:32:11.008464+00:00,49299222,23,Every Fucking Website (2020),666,380
+2026-08-14T21:32:11.008464+00:00,49249523,24,"Don't classify, hallucinate",197,81
+2026-08-14T21:32:11.008464+00:00,49253831,25,Moving integer division to floating-point is trivial,22,10
+2026-08-14T21:32:11.008464+00:00,49294997,26,GLM-5.3: Frontier coding with emergent cyber capabilities,999,493
+2026-08-14T21:32:11.008464+00:00,49297637,27,"The TEMU-Fication of Software, Digital Goods and Services",119,83
+2026-08-14T21:32:11.008464+00:00,49303237,28,Open WireGuard Endpoints,16,1
+2026-08-14T21:32:11.008464+00:00,49301417,29,A Contract-Grade Verifier for LLM-Generated GPU Kernels,23,0
+2026-08-14T21:32:11.008464+00:00,49269240,30,Forbidden City Cabbage,45,7
+2026-08-14T21:32:11.008464+00:00,49300671,31,France's top court blocks social media ban for under-15s,185,132
+2026-08-14T21:32:11.008464+00:00,49298910,32,"In Australia, a home battery boom has helped cut wholesale power prices",293,215
+2026-08-14T21:32:11.008464+00:00,49303292,33,High-Performance Array-Backed LRU Hash Table,7,0
+2026-08-14T21:32:11.008464+00:00,49302943,34,The American Sports Plutocracy Is Bullshit,19,9
+2026-08-14T21:32:11.008464+00:00,49303202,35,Firefox is now the last major browser that still supports uBlock Origin,58,13
+2026-08-14T21:32:11.008464+00:00,49299102,36,AI Model Atlas – visualizing populations of ML models as interconnected 3D graph,46,8
+2026-08-14T21:32:11.008464+00:00,49175067,37,"Gödel, Escher, Elisp: The Beauty of Macros",72,25
+2026-08-14T21:32:11.008464+00:00,49302737,38,Every fucking website: 2026 edition,12,7
+2026-08-14T21:32:11.008464+00:00,49299667,39,"Self-hosted web push Cloudflare Worker, works on iOS",57,15
+2026-08-14T21:32:11.008464+00:00,49299364,40,Earth.nullschool.net,51,20
+2026-08-14T21:32:11.008464+00:00,49298088,41,"HashAgent – Share an AI agent as a URL, runs locally via WebGPU",41,5
+2026-08-14T21:32:11.008464+00:00,49231490,42,Differential Heuristics,107,7
+2026-08-14T21:32:11.008464+00:00,49303499,43,Show HN: AletheionAGI – Grounding enforcement for AI agents,3,0
+2026-08-14T21:32:11.008464+00:00,49296902,44,Ntfy – open-source Push to Mobile,67,36
+2026-08-14T21:32:11.008464+00:00,49247628,45,We're not done with point clouds,66,9
+2026-08-14T21:32:11.008464+00:00,49302562,46,Racket v9.3,7,0
+2026-08-14T21:32:11.008464+00:00,49302477,47,"The Engineering State? [Book Review – Breakneck, by Dan Wang]",4,0
+2026-08-14T21:32:11.008464+00:00,49302468,48,Apple proposes to take a 15% cut of purchases made outside the App Store,41,24
+2026-08-14T21:32:11.008464+00:00,49303035,49,Being Against LLMs Is Against the Spirit of Floss,5,2
+2026-08-14T21:32:11.008464+00:00,49289112,50,Gemini 3.7 Flash,944,480
