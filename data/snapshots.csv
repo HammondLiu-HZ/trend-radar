@@ -30103,3 +30103,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-14T04:55:07.334842+00:00,49288296,48,GoAccess – Open-source real-time log analyzer and interactive viewer,54,13
 2026-08-14T04:55:07.334842+00:00,49293261,49,TRS-80 Color Computer Extended Basic Emulator in JavaScript,8,0
 2026-08-14T04:55:07.334842+00:00,49294233,50,Rsync 3.5.0: a huge number of security fixes,9,0
+2026-08-14T06:20:11.083746+00:00,49294997,1,GLM-5.3: Frontier Coding with Emergent Cyber Capabilities,158,51
+2026-08-14T06:20:11.083746+00:00,49289112,2,Gemini 3.7 Flash,748,401
+2026-08-14T06:20:11.083746+00:00,49289844,3,Accelerating GPT-5.6 Sol Ultrafast,531,222
+2026-08-14T06:20:11.083746+00:00,49290166,4,"Hello, me. It's been a while",131,55
+2026-08-14T06:20:11.083746+00:00,49293324,5,Bluesky Protocol Services,129,22
+2026-08-14T06:20:11.083746+00:00,49285244,6,DeepSeek Harness developer preview,616,262
+2026-08-14T06:20:11.083746+00:00,49286341,7,Spaghettifying DRAM,562,152
+2026-08-14T06:20:11.083746+00:00,49288889,8,Mistral OCR 4.1,298,117
+2026-08-14T06:20:11.083746+00:00,49289512,9,Choose Boring Technology (2015),305,155
+2026-08-14T06:20:11.083746+00:00,49290299,10,Understanding is the new bottleneck,278,150
+2026-08-14T06:20:11.083746+00:00,49291268,11,NP-overrated,185,116
+2026-08-14T06:20:11.083746+00:00,49289465,12,Donkey.bas is 45 Years Old – 131 line of Glory,216,102
+2026-08-14T06:20:11.083746+00:00,49242287,13,How do you sell a CPU design when the instruction set is free?,15,3
+2026-08-14T06:20:11.083746+00:00,49232753,14,The Legend of the Novell NE2000 [video],34,9
+2026-08-14T06:20:11.083746+00:00,49285418,15,Nine PBS sues Iron Mountain over blocked access to archival data,288,165
+2026-08-14T06:20:11.083746+00:00,49289654,16,How Compaction Works in Pi,139,56
+2026-08-14T06:20:11.083746+00:00,49293087,17,Blog about things you don't understand yet,67,27
+2026-08-14T06:20:11.083746+00:00,49223964,18,Finite State Machines in Forth (1994),68,2
+2026-08-14T06:20:11.083746+00:00,49289532,19,"Where did the old web go? We followed 657,607 links to find out",155,142
+2026-08-14T06:20:11.083746+00:00,49290768,20,How Organizations Use AI: Evidence from ChatGPT [pdf],93,50
+2026-08-14T06:20:11.083746+00:00,49290215,21,Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes,182,114
+2026-08-14T06:20:11.083746+00:00,49248769,22,The Library of Ashurbanipal,4,0
+2026-08-14T06:20:11.083746+00:00,49240615,23,An ambiguity in c89 which will never be fixed,55,15
+2026-08-14T06:20:11.083746+00:00,49290969,24,How Gödel's Proof Works (2020),92,40
+2026-08-14T06:20:11.083746+00:00,49285770,25,Ordinary Abundance,270,137
+2026-08-14T06:20:11.083746+00:00,49221431,26,Cave of the Crystals,28,1
+2026-08-14T06:20:11.083746+00:00,49285327,27,"Choosing an AI model: one prompt, 11 models, different results",194,78
+2026-08-14T06:20:11.083746+00:00,49288293,28,AI At Home Part 1: A Box Of Scraps,113,52
+2026-08-14T06:20:11.083746+00:00,49283063,29,Launch HN: Bullet (YC S26) – A Faster Coding Agent,93,68
+2026-08-14T06:20:11.083746+00:00,49210740,30,How a device finds encrypted DNS by itself,27,5
+2026-08-14T06:20:11.083746+00:00,49286485,31,Kubernetes on Oxide: How customer needs shaped our integrations,176,75
+2026-08-14T06:20:11.083746+00:00,49287153,32,Text AI watermarks will always be trivial to remove,114,116
+2026-08-14T06:20:11.083746+00:00,49285982,33,Gloomberb,403,210
+2026-08-14T06:20:11.083746+00:00,49293294,34,SparrowMap – Cameras that watch government vehicles,143,34
+2026-08-14T06:20:11.083746+00:00,49236811,35,Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game,49,10
+2026-08-14T06:20:11.083746+00:00,49294025,36,'Not acceptable': Judge orders Google to make rival app store installs easier,40,9
+2026-08-14T06:20:11.083746+00:00,49244696,37,Smooth Move: Taming Trajectories with Polynomials,26,1
+2026-08-14T06:20:11.083746+00:00,49289260,38,"I want extern ""fil-C""",55,17
+2026-08-14T06:20:11.083746+00:00,49289026,39,Tocharian Online,59,15
+2026-08-14T06:20:11.083746+00:00,49286270,40,Heart aerospace completes first flight of largest electric aircraft,123,127
+2026-08-14T06:20:11.083746+00:00,49294502,41,Qwen3.8 27B,14,0
+2026-08-14T06:20:11.083746+00:00,49279638,43,How art invented humanity,90,36
+2026-08-14T06:20:11.083746+00:00,49289101,44,JDK 27 G1/Parallel/Serial GC Changes,54,22
+2026-08-14T06:20:11.083746+00:00,49218040,45,Mushroom behind 'tiny people' hallucinations identified,271,266
+2026-08-14T06:20:11.083746+00:00,49293984,46,S.F.'s top-paid employee made $900K. Here's what every city worker gets paid,28,2
+2026-08-14T06:20:11.083746+00:00,49232039,47,Better Gaussian Splatting in Julia,115,23
+2026-08-14T06:20:11.083746+00:00,49288296,48,GoAccess – Open-source real-time log analyzer and interactive viewer,56,13
+2026-08-14T06:20:11.083746+00:00,49294674,49,Border blaster,9,0
+2026-08-14T06:20:11.083746+00:00,49292932,50,How AI text watermarking works,106,80
