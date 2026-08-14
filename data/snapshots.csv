@@ -30695,3 +30695,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-14T22:31:08.879936+00:00,49297469,48,WhatCable: Know what your USB-C cable can do,83,63
 2026-08-14T22:31:08.879936+00:00,49303499,49,Show HN: AletheionAGI – Grounding enforcement for AI agents,4,0
 2026-08-14T22:31:08.879936+00:00,49289112,50,Gemini 3.7 Flash,946,481
+2026-08-14T23:28:26.037514+00:00,49299605,1,Qwen 3.8 27B,810,532
+2026-08-14T23:28:26.037514+00:00,49304447,2,"Going Dark, and the era of law enforcement hacking",125,84
+2026-08-14T23:28:26.037514+00:00,49305492,3,RISC-V: They should have known better,29,6
+2026-08-14T23:28:26.037514+00:00,49296740,4,Why does Opus 5 feel worse to work with?,734,670
+2026-08-14T23:28:26.037514+00:00,49300759,5,RustDesk now supports true unattended remote access on Wayland,197,89
+2026-08-14T23:28:26.037514+00:00,49300314,6,Google is making private AI practical with homomorphic encryption,239,149
+2026-08-14T23:28:26.037514+00:00,49215682,7,Super Mario Derivations,27,2
+2026-08-14T23:28:26.037514+00:00,49300568,8,AI by Hand,169,14
+2026-08-14T23:28:26.037514+00:00,49299746,9,Introducing Toast 1,171,57
+2026-08-14T23:28:26.037514+00:00,49303202,10,Firefox is now the last major browser that still supports uBlock Origin,233,79
+2026-08-14T23:28:26.037514+00:00,49211375,11,Ultraviolet Bird Photography,93,19
+2026-08-14T23:28:26.037514+00:00,49299081,12,I turned my RSS feeds into an e-ink newspaper to stop reading on my phone,131,57
+2026-08-14T23:28:26.037514+00:00,49303652,13,New Lower and Upper Bounds for the Grothendieck Constant,25,4
+2026-08-14T23:28:26.037514+00:00,49303046,14,Show HN: Mole – Deep research agent for your terminal,39,6
+2026-08-14T23:28:26.037514+00:00,49300800,15,Maximizing the value of your Claude Code sessions,115,77
+2026-08-14T23:28:26.037514+00:00,49269809,16,"Turbo Pascal on CP/M, MSX-DOS and MS-DOS",61,19
+2026-08-14T23:28:26.037514+00:00,49302943,17,The American sports plutocracy,41,23
+2026-08-14T23:28:26.037514+00:00,49232870,18,Show HN: Ember – Redshift safe color palettes,46,8
+2026-08-14T23:28:26.037514+00:00,49299675,19,Seven books I keep close because I love them,283,128
+2026-08-14T23:28:26.037514+00:00,49240708,20,ICTP Announces 2026 Dirac Medal Recipients (Physics),10,1
+2026-08-14T23:28:26.037514+00:00,49303957,21,Every exterior shot in The Taking of Pelham 123,21,5
+2026-08-14T23:28:26.037514+00:00,49249523,22,"Don't classify, hallucinate",213,84
+2026-08-14T23:28:26.037514+00:00,49301215,23,Show HN: LuaCAD – Parametric CAD Scripted in Lua,63,13
+2026-08-14T23:28:26.037514+00:00,49294997,24,GLM-5.3: Frontier coding with emergent cyber capabilities,1018,501
+2026-08-14T23:28:26.037514+00:00,49299222,25,Every Fucking Website (2020),705,395
+2026-08-14T23:28:26.037514+00:00,49269240,26,A humble cabbage became one of the Forbidden City’s treasures (2025),51,7
+2026-08-14T23:28:26.037514+00:00,49253831,27,Moving integer division to floating-point is trivial,31,12
+2026-08-14T23:28:26.037514+00:00,49303237,28,Open WireGuard Endpoints,20,2
+2026-08-14T23:28:26.037514+00:00,49301417,29,A Contract-Grade Verifier for LLM-Generated GPU Kernels,30,0
+2026-08-14T23:28:26.037514+00:00,49302562,30,Racket v9.3,17,0
+2026-08-14T23:28:26.037514+00:00,49299102,31,AI Model Atlas – visualizing populations of ML models as interconnected 3D graph,51,8
+2026-08-14T23:28:26.037514+00:00,49297637,32,"The TEMU-Fication of Software, Digital Goods and Services",135,99
+2026-08-14T23:28:26.037514+00:00,49175067,33,"Gödel, Escher, Elisp: The Beauty of Macros",74,26
+2026-08-14T23:28:26.037514+00:00,49299364,34,Earth.nullschool.net,60,21
+2026-08-14T23:28:26.037514+00:00,49298910,35,"In Australia, a home battery boom has helped cut wholesale power prices",305,233
+2026-08-14T23:28:26.037514+00:00,49303405,36,Soup Raiders goes native: What you gain by building your own game engine,48,47
+2026-08-14T23:28:26.037514+00:00,49303292,37,High-Performance Array-Backed LRU Hash Table,12,0
+2026-08-14T23:28:26.037514+00:00,49299667,38,"Self-hosted web push Cloudflare Worker, works on iOS",59,15
+2026-08-14T23:28:26.037514+00:00,49231490,39,Differential Heuristics,111,7
+2026-08-14T23:28:26.037514+00:00,49298088,40,"HashAgent – Share an AI agent as a URL, runs locally via WebGPU",45,5
+2026-08-14T23:28:26.037514+00:00,49300671,41,France's top court blocks social media ban for under-15s,195,147
+2026-08-14T23:28:26.037514+00:00,49247628,42,We're not done with point clouds,68,9
+2026-08-14T23:28:26.037514+00:00,49296902,43,Ntfy – open-source Push to Mobile,72,37
+2026-08-14T23:28:26.037514+00:00,49303035,44,Being Against LLMs Is Against the Spirit of Floss,9,7
+2026-08-14T23:28:26.037514+00:00,49297469,45,WhatCable: Know what your USB-C cable can do,86,63
+2026-08-14T23:28:26.037514+00:00,49303402,46,CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution,6,0
+2026-08-14T23:28:26.037514+00:00,49289112,47,Gemini 3.7 Flash,946,482
+2026-08-14T23:28:26.037514+00:00,49303540,48,Anthropic Risk August 2026 [pdf],51,48
+2026-08-14T23:28:26.037514+00:00,49302468,49,Apple proposes to take a 15% cut of purchases made outside the App Store,55,37
+2026-08-14T23:28:26.037514+00:00,49302472,50,The Soviets Drilled the Deepest Hole Ever,8,1
