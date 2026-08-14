@@ -30397,3 +30397,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-14T14:59:27.695956+00:00,49298303,48,France's tax authority had data stolen on 680k taxpayers,49,31
 2026-08-14T14:59:27.695956+00:00,49232753,49,The Legend of the Novell NE2000 [video],58,24
 2026-08-14T14:59:27.695956+00:00,49285327,50,"Choosing an AI model: one prompt, 11 models, different results",210,91
+2026-08-14T16:01:18.294823+00:00,49299222,1,Every Fucking Website (2020),375,212
+2026-08-14T16:01:18.294823+00:00,49299282,2,When Genius Fails: The Intellectual Arrogance of the AI Labs,85,66
+2026-08-14T16:01:18.294823+00:00,49299675,3,Seven books I keep close because I love them,33,12
+2026-08-14T16:01:18.294823+00:00,49299746,4,Introducing Toast 1,37,6
+2026-08-14T16:01:18.294823+00:00,49294997,5,GLM-5.3: Frontier coding with emergent cyber capabilities,854,447
+2026-08-14T16:01:18.294823+00:00,49299684,6,Qwen3.8-27B,179,63
+2026-08-14T16:01:18.294823+00:00,49298910,7,"In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",148,111
+2026-08-14T16:01:18.294823+00:00,49249523,8,"Don't classify, hallucinate!",142,66
+2026-08-14T16:01:18.294823+00:00,49299081,9,I turned my RSS feeds into an e-ink newspaper to stop reading on my phone,26,10
+2026-08-14T16:01:18.294823+00:00,49299667,10,"Self-hosted web push Cloudflare Worker, works on iOS",18,2
+2026-08-14T16:01:18.294823+00:00,49296627,11,DeepSeek peak/off-peak pricing update,177,99
+2026-08-14T16:01:18.294823+00:00,49299985,12,Show HN: Graft – Claude Code hooks that cut grep tokens by 42%,7,2
+2026-08-14T16:01:18.294823+00:00,49297637,13,"The TEMU-Fication of Software, Digital Goods and Services",51,32
+2026-08-14T16:01:18.294823+00:00,49300411,14,"""Solving a largely imaginary user goal""",4,0
+2026-08-14T16:01:18.294823+00:00,49299605,15,"Qwen 3.8 27B is out: open weights, best local dense model yet",59,14
+2026-08-14T16:01:18.294823+00:00,49298088,16,"HashAgent – Share an AI agent as a URL, runs locally via WebGPU",22,3
+2026-08-14T16:01:18.294823+00:00,49297469,17,WhatCable: Know what your USB-C cable can do,49,25
+2026-08-14T16:01:18.294823+00:00,49299970,18,AV1 vs. AV2: Which Video Codec Should You Use in 2026?,5,0
+2026-08-14T16:01:18.294823+00:00,49299102,19,AI Model Atlas – visualizing populations of ML models as interconnected 3D graph,13,3
+2026-08-14T16:01:18.294823+00:00,49175067,20,"Gödel, Escher, Elisp: The Beauty of Macros",18,5
+2026-08-14T16:01:18.294823+00:00,49299364,21,Earth.nullschool.net,5,0
+2026-08-14T16:01:18.294823+00:00,49231490,22,Differential Heuristics,88,5
+2026-08-14T16:01:18.294823+00:00,49290166,23,"Hello, me. It's been a while",334,177
+2026-08-14T16:01:18.294823+00:00,49289844,24,Accelerating GPT-5.6 Sol Ultrafast,675,262
+2026-08-14T16:01:18.294823+00:00,49296740,25,Why does Opus 5 feel worse to work with?,365,353
+2026-08-14T16:01:18.294823+00:00,49297996,26,"Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",37,9
+2026-08-14T16:01:18.294823+00:00,49247628,27,We're not done with point clouds,48,6
+2026-08-14T16:01:18.294823+00:00,49296902,28,Ntfy – open-source Push to Mobile,35,16
+2026-08-14T16:01:18.294823+00:00,49242867,29,Protect Your Relays,36,12
+2026-08-14T16:01:18.294823+00:00,49299688,30,Unsloth Qwen3.8-27B GGUF files,22,0
+2026-08-14T16:01:18.294823+00:00,49299870,31,Private prisons announce $1.4B in revenue as immigration detentions climb,10,1
+2026-08-14T16:01:18.294823+00:00,49288889,32,Mistral OCR 4.1,395,159
+2026-08-14T16:01:18.294823+00:00,49293324,33,Bluesky Protocol Services,202,56
+2026-08-14T16:01:18.294823+00:00,49290299,34,Understanding is the new bottleneck,405,222
+2026-08-14T16:01:18.294823+00:00,49295238,35,Ruby 4.0 Universal RCE Deserialization Gadget Chain,68,17
+2026-08-14T16:01:18.294823+00:00,49289512,36,Choose Boring Technology (2015),400,230
+2026-08-14T16:01:18.294823+00:00,49289465,38,Donkey.bas is 45 Years Old – 131 line of Glory,265,138
+2026-08-14T16:01:18.294823+00:00,49258085,39,Show HN: C# Game Engine with its own scripting language and IDE,94,52
+2026-08-14T16:01:18.294823+00:00,49298211,40,Cursor Is Joining SpaceX,12,2
+2026-08-14T16:01:18.294823+00:00,49289112,41,Gemini 3.7 Flash,931,471
+2026-08-14T16:01:18.294823+00:00,49204232,42,What an improv stage can teach you about leading cross-cultural teams in Tokyo,44,9
+2026-08-14T16:01:18.294823+00:00,49288857,43,What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund,4,0
+2026-08-14T16:01:18.294823+00:00,49293523,44,Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri,42,17
+2026-08-14T16:01:18.294823+00:00,49260628,45,Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL,19,1
+2026-08-14T16:01:18.294823+00:00,49248769,46,The Library of Ashurbanipal (2025),59,14
+2026-08-14T16:01:18.294823+00:00,49299775,47,Apple sends new 'Threat Notification' alerts over mercenary spyware attacks,6,0
+2026-08-14T16:01:18.294823+00:00,49289654,48,How Compaction Works in Pi,196,84
+2026-08-14T16:01:18.294823+00:00,49299470,49,Birds Are Shit,7,5
+2026-08-14T16:01:18.294823+00:00,49300474,50,Federal government finalizes ownership reporting exemption for US firms,5,0
