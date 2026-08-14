@@ -30446,3 +30446,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-14T16:01:18.294823+00:00,49289654,48,How Compaction Works in Pi,196,84
 2026-08-14T16:01:18.294823+00:00,49299470,49,Birds Are Shit,7,5
 2026-08-14T16:01:18.294823+00:00,49300474,50,Federal government finalizes ownership reporting exemption for US firms,5,0
+2026-08-14T17:56:26.168041+00:00,49299605,1,Qwen 3.8 27B,318,238
+2026-08-14T17:56:26.168041+00:00,49299675,2,Seven books I keep close because I love them,145,52
+2026-08-14T17:56:26.168041+00:00,49301260,3,Count Binface receives over a quarter of votes in Clacton by-election,77,29
+2026-08-14T17:56:26.168041+00:00,49300759,4,RustDesk now supports true unattended remote access on Wayland,63,20
+2026-08-14T17:56:26.168041+00:00,49296740,5,Why does Opus 5 feel worse to work with?,447,433
+2026-08-14T17:56:26.168041+00:00,49299746,6,Introducing Toast 1,99,28
+2026-08-14T17:56:26.168041+00:00,49294997,7,GLM-5.3: Frontier coding with emergent cyber capabilities,925,468
+2026-08-14T17:56:26.168041+00:00,49300568,8,AI by Hand,38,4
+2026-08-14T17:56:26.168041+00:00,49269240,9,Forbidden City Cabbage,16,0
+2026-08-14T17:56:26.168041+00:00,49299222,10,Every Fucking Website (2020),556,325
+2026-08-14T17:56:26.168041+00:00,49211375,11,Ultraviolet Bird Photography,29,2
+2026-08-14T17:56:26.168041+00:00,49300615,12,RayforceDB – a pure C analytics database with a Lisp-like syntax,20,12
+2026-08-14T17:56:26.168041+00:00,49299081,13,I turned my RSS feeds into an e-ink newspaper to stop reading on my phone,61,24
+2026-08-14T17:56:26.168041+00:00,49300800,14,Maximizing the value of your Claude Code sessions,21,9
+2026-08-14T17:56:26.168041+00:00,49300671,15,France's top court blocks social media ban for under-15s,108,41
+2026-08-14T17:56:26.168041+00:00,49298910,16,"In Australia, a home battery boom has helped cut wholesale power prices",224,170
+2026-08-14T17:56:26.168041+00:00,49300314,17,Google is making private AI practical with homomorphic encryption,70,52
+2026-08-14T17:56:26.168041+00:00,49301342,18,Discrete Fourier Transform by Hand,9,1
+2026-08-14T17:56:26.168041+00:00,49249523,19,"Don't classify, hallucinate",169,72
+2026-08-14T17:56:26.168041+00:00,49296627,20,DeepSeek peak/off-peak pricing update,206,108
+2026-08-14T17:56:26.168041+00:00,49301215,21,Show HN: LuaCAD – Parametric CAD Scripted in Lua,13,1
+2026-08-14T17:56:26.168041+00:00,49299667,22,"Self-hosted web push Cloudflare Worker, works on iOS",39,11
+2026-08-14T17:56:26.168041+00:00,49301417,23,A Contract-Grade Verifier for LLM-Generated GPU Kernels,4,0
+2026-08-14T17:56:26.168041+00:00,49299102,24,AI Model Atlas – visualizing populations of ML models as interconnected 3D graph,25,4
+2026-08-14T17:56:26.168041+00:00,49298088,25,"HashAgent – Share an AI agent as a URL, runs locally via WebGPU",34,4
+2026-08-14T17:56:26.168041+00:00,49297637,26,"The TEMU-Fication of Software, Digital Goods and Services",80,61
+2026-08-14T17:56:26.168041+00:00,49175067,27,"Gödel, Escher, Elisp: The Beauty of Macros",41,13
+2026-08-14T17:56:26.168041+00:00,49298211,28,Cursor is now a part of SpaceX,67,51
+2026-08-14T17:56:26.168041+00:00,49297996,29,"Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",53,33
+2026-08-14T17:56:26.168041+00:00,49299364,30,Earth.nullschool.net,23,12
+2026-08-14T17:56:26.168041+00:00,49231490,31,Differential Heuristics,98,7
+2026-08-14T17:56:26.168041+00:00,49247628,32,We're not done with point clouds,61,8
+2026-08-14T17:56:26.168041+00:00,49301104,33,The Qdrant Output Connector,6,0
+2026-08-14T17:56:26.168041+00:00,49299688,34,Unsloth Qwen3.8-27B GGUF files,48,1
+2026-08-14T17:56:26.168041+00:00,49297469,35,WhatCable: Know what your USB-C cable can do,70,52
+2026-08-14T17:56:26.168041+00:00,49296902,36,Ntfy – open-source Push to Mobile,42,24
+2026-08-14T17:56:26.168041+00:00,49299985,37,Show HN: Graft – Claude Code hooks that cut grep tokens by 42%,33,32
+2026-08-14T17:56:26.168041+00:00,49300884,38,Taxpayers Funded a $533M Artillery Plant That Made Nothing,20,2
+2026-08-14T17:56:26.168041+00:00,49242867,39,Protect Your Relays,38,14
+2026-08-14T17:56:26.168041+00:00,49298674,40,Show HN: Is AI Dumber Today? An index of AI model experience from user's opinion,8,0
+2026-08-14T17:56:26.168041+00:00,49300419,41,Show HN: Online SNMP MIB database - upload/view your own MIBs,7,0
+2026-08-14T17:56:26.168041+00:00,49299870,42,Private prisons announce $1.4B in revenue as immigration detentions climb,50,28
+2026-08-14T17:56:26.168041+00:00,49295238,43,Ruby 4.0 Universal RCE Deserialization Gadget Chain,70,19
+2026-08-14T17:56:26.168041+00:00,49289112,44,Gemini 3.7 Flash,938,477
+2026-08-14T17:56:26.168041+00:00,49258085,45,Show HN: C# Game Engine with its own scripting language and IDE,96,53
+2026-08-14T17:56:26.168041+00:00,49301431,46,X opens its ranking algorithm and exposes shadowbans,7,0
+2026-08-14T17:56:26.168041+00:00,49293523,48,Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri,44,18
+2026-08-14T17:56:26.168041+00:00,49248769,49,The Library of Ashurbanipal (2025),61,15
+2026-08-14T17:56:26.168041+00:00,49204232,50,What an improv stage can teach you about leading cross-cultural teams in Tokyo,47,9
