@@ -30005,3 +30005,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-13T23:50:44.883587+00:00,49279627,48,The Indo-European Family Tree,68,59
 2026-08-13T23:50:44.883587+00:00,49286424,49,Graduate student proves a quantum uncertainty principle for fractals,56,11
 2026-08-13T23:50:44.883587+00:00,49281916,50,Codex in ChatGPT desktop app for Linux is now in preview,442,298
+2026-08-14T02:32:45.867293+00:00,49289112,1,Gemini 3.7 Flash,632,361
+2026-08-14T02:32:45.867293+00:00,49293294,2,SparrowMap – Cameras that watch government vehicles,56,12
+2026-08-14T02:32:45.867293+00:00,49289844,3,Accelerating GPT-5.6 Sol Ultrafast,439,187
+2026-08-14T02:32:45.867293+00:00,49293324,4,Bluesky Protocol Services,73,18
+2026-08-14T02:32:45.867293+00:00,49285244,5,DeepSeek Harness developer preview,564,248
+2026-08-14T02:32:45.867293+00:00,49290299,6,Understanding is the new bottleneck,215,118
+2026-08-14T02:32:45.867293+00:00,49289465,7,Donkey.bas is 45 Years Old – 131 line of Glory,195,85
+2026-08-14T02:32:45.867293+00:00,49288889,8,Mistral OCR 4.1,256,102
+2026-08-14T02:32:45.867293+00:00,49286341,9,Spaghettifying DRAM,505,142
+2026-08-14T02:32:45.867293+00:00,49291268,10,NP-overrated,157,100
+2026-08-14T02:32:45.867293+00:00,49290166,11,"Hello, me. It's been a while",32,12
+2026-08-14T02:32:45.867293+00:00,49289512,12,Choose Boring Technology (2015),262,139
+2026-08-14T02:32:45.867293+00:00,49289260,13,"I want extern ""fil-C""",33,9
+2026-08-14T02:32:45.867293+00:00,49223964,14,Finite State Machines in Forth (1994),50,1
+2026-08-14T02:32:45.867293+00:00,49289532,15,"Where did the old web go? We followed 657,607 links to find out",134,121
+2026-08-14T02:32:45.867293+00:00,49285418,16,Nine PBS sues Iron Mountain over blocked access to archival data,250,142
+2026-08-14T02:32:45.867293+00:00,49290768,17,How Organizations Use AI: Evidence from ChatGPT [pdf],69,44
+2026-08-14T02:32:45.867293+00:00,49289654,18,How Compaction Works in Pi,111,42
+2026-08-14T02:32:45.867293+00:00,49290215,19,Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes,154,99
+2026-08-14T02:32:45.867293+00:00,49290969,20,How Gödel's Proof Works (2020),74,37
+2026-08-14T02:32:45.867293+00:00,49210740,21,How a device finds encrypted DNS by itself,17,4
+2026-08-14T02:32:45.867293+00:00,49292932,22,How AI text watermarking works,84,52
+2026-08-14T02:32:45.867293+00:00,49240615,23,An ambiguity in c89 which will never be fixed,35,8
+2026-08-14T02:32:45.867293+00:00,49243860,24,Crown 0.64 – Native and cross-platform game engine,6,1
+2026-08-14T02:32:45.867293+00:00,49293087,25,Blog about things you don't understand yet,17,3
+2026-08-14T02:32:45.867293+00:00,49285770,26,Ordinary abundance,225,123
+2026-08-14T02:32:45.867293+00:00,49236811,27,Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game,42,10
+2026-08-14T02:32:45.867293+00:00,49283063,28,Launch HN: Bullet (YC S26) – A Faster Coding Agent,85,56
+2026-08-14T02:32:45.867293+00:00,49288293,29,AI At Home Part 1: A Box Of Scraps,92,47
+2026-08-14T02:32:45.867293+00:00,49286485,30,Kubernetes on Oxide: How customer needs shaped our integrations,160,71
+2026-08-14T02:32:45.867293+00:00,49244696,31,Smooth Move: Taming Trajectories with Polynomials,22,1
+2026-08-14T02:32:45.867293+00:00,49285327,32,"Choosing an AI model: one prompt, 11 models, different results",179,73
+2026-08-14T02:32:45.867293+00:00,49287153,33,Text AI watermarks will always be trivial to remove,99,103
+2026-08-14T02:32:45.867293+00:00,49289026,35,Tocharian Online,58,15
+2026-08-14T02:32:45.867293+00:00,49285982,36,Gloomberb,387,198
+2026-08-14T02:32:45.867293+00:00,49293261,37,TRS-80 Color Computer Extended Basic Emulator in JavaScript,5,0
+2026-08-14T02:32:45.867293+00:00,49286270,38,Heart aerospace completes first flight of largest electric aircraft,120,123
+2026-08-14T02:32:45.867293+00:00,49289372,39,Compute-optimal is not cluster-optimal,7,0
+2026-08-14T02:32:45.867293+00:00,49289101,40,JDK 27 G1/Parallel/Serial GC Changes,46,21
+2026-08-14T02:32:45.867293+00:00,49279638,41,How art invented humanity,83,36
+2026-08-14T02:32:45.867293+00:00,49288296,42,GoAccess – Open-source real-time log analyzer and interactive viewer,52,13
+2026-08-14T02:32:45.867293+00:00,49258428,43,"Come for ENIAC, Stay for UNIVAC and Skeduflo",56,21
+2026-08-14T02:32:45.867293+00:00,49232039,44,Better Gaussian Splatting in Julia,111,23
+2026-08-14T02:32:45.867293+00:00,49218040,45,Mushroom behind 'tiny people' hallucinations identified,262,260
+2026-08-14T02:32:45.867293+00:00,49292855,46,Move FreeBSD System Between ZFS Disks,7,2
+2026-08-14T02:32:45.867293+00:00,49292488,47,My skinner box It was made for me,8,2
+2026-08-14T02:32:45.867293+00:00,49293292,48,How Obama's BlackBerry got secured (2023),13,5
+2026-08-14T02:32:45.867293+00:00,49224997,49,Picking berries is my meditation,105,85
+2026-08-14T02:32:45.867293+00:00,49285909,50,The Conceptual Reasoning Index,72,51
