@@ -30545,3 +30545,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-14T19:05:28.342480+00:00,49300419,48,Show HN: Online SNMP MIB database - upload/view your own MIBs,9,0
 2026-08-14T19:05:28.342480+00:00,49204232,49,What an improv stage can teach you about leading cross-cultural teams in Tokyo,48,9
 2026-08-14T19:05:28.342480+00:00,49260628,50,Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL,37,1
+2026-08-14T20:37:06.005727+00:00,49299605,1,Qwen 3.8 27B,628,414
+2026-08-14T20:37:06.005727+00:00,49299675,2,Seven books I keep close because I love them,224,96
+2026-08-14T20:37:06.005727+00:00,49300759,3,RustDesk now supports true unattended remote access on Wayland,147,57
+2026-08-14T20:37:06.005727+00:00,49296740,4,Why does Opus 5 feel worse to work with?,604,569
+2026-08-14T20:37:06.005727+00:00,49294997,5,GLM-5.3: Frontier coding with emergent cyber capabilities,981,489
+2026-08-14T20:37:06.005727+00:00,49300314,6,Google is making private AI practical with homomorphic encryption,159,109
+2026-08-14T20:37:06.005727+00:00,49303540,7,Anthropic Risk August 2026 [pdf],17,0
+2026-08-14T20:37:06.005727+00:00,49299746,8,Introducing Toast 1,140,42
+2026-08-14T20:37:06.005727+00:00,49300568,9,AI by Hand,97,10
+2026-08-14T20:37:06.005727+00:00,49211375,10,Ultraviolet Bird Photography,65,10
+2026-08-14T20:37:06.005727+00:00,49303046,11,Show HN: Mole – Deep research agent for your terminal,17,5
+2026-08-14T20:37:06.005727+00:00,49232870,12,Show HN: Ember – Redshift safe color palettes,11,0
+2026-08-14T20:37:06.005727+00:00,49303652,13,New Lower and Upper Bounds for the Grothendieck Constant,7,1
+2026-08-14T20:37:06.005727+00:00,49299081,14,I turned my RSS feeds into an e-ink newspaper to stop reading on my phone,92,39
+2026-08-14T20:37:06.005727+00:00,49303774,15,"Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",33,12
+2026-08-14T20:37:06.005727+00:00,49300800,16,Maximizing the value of your Claude Code sessions,85,60
+2026-08-14T20:37:06.005727+00:00,49303237,17,Open WireGuard Endpoints,11,0
+2026-08-14T20:37:06.005727+00:00,49303957,18,Every exterior shot in The Taking of Pelham 123,4,0
+2026-08-14T20:37:06.005727+00:00,49299222,19,Every Fucking Website (2020),642,370
+2026-08-14T20:37:06.005727+00:00,49296627,20,DeepSeek peak/off-peak pricing update,229,122
+2026-08-14T20:37:06.005727+00:00,49269809,21,"Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines",32,8
+2026-08-14T20:37:06.005727+00:00,49301215,22,Show HN: LuaCAD – Parametric CAD Scripted in Lua,49,10
+2026-08-14T20:37:06.005727+00:00,49249523,23,"Don't classify, hallucinate",191,80
+2026-08-14T20:37:06.005727+00:00,49269240,24,Forbidden City Cabbage,40,4
+2026-08-14T20:37:06.005727+00:00,49301417,25,A Contract-Grade Verifier for LLM-Generated GPU Kernels,18,0
+2026-08-14T20:37:06.005727+00:00,49253831,26,Moving integer division to floating-point is trivial,19,9
+2026-08-14T20:37:06.005727+00:00,49300671,27,France's top court blocks social media ban for under-15s,167,109
+2026-08-14T20:37:06.005727+00:00,49297637,28,"The TEMU-Fication of Software, Digital Goods and Services",109,78
+2026-08-14T20:37:06.005727+00:00,49298910,29,"In Australia, a home battery boom has helped cut wholesale power prices",281,209
+2026-08-14T20:37:06.005727+00:00,49303592,30,CEO who fired 900 people on Zoom just before Christmas wants his job back,22,3
+2026-08-14T20:37:06.005727+00:00,49299102,31,AI Model Atlas – visualizing populations of ML models as interconnected 3D graph,45,8
+2026-08-14T20:37:06.005727+00:00,49175067,32,"Gödel, Escher, Elisp: The Beauty of Macros",70,22
+2026-08-14T20:37:06.005727+00:00,49303499,33,Show HN: AletheionAGI – Grounding enforcement for AI agents,3,0
+2026-08-14T20:37:06.005727+00:00,49303405,34,What You Gain by Building Your Own Game Engine,3,0
+2026-08-14T20:37:06.005727+00:00,49299667,35,"Self-hosted web push Cloudflare Worker, works on iOS",54,15
+2026-08-14T20:37:06.005727+00:00,49299364,36,Earth.nullschool.net,48,18
+2026-08-14T20:37:06.005727+00:00,49303202,37,Firefox is now the last major browser that still supports uBlock Origin,33,13
+2026-08-14T20:37:06.005727+00:00,49303292,38,High-Performance Array-Backed LRU Hash Table,4,0
+2026-08-14T20:37:06.005727+00:00,49298088,39,"HashAgent – Share an AI agent as a URL, runs locally via WebGPU",41,5
+2026-08-14T20:37:06.005727+00:00,49231490,40,Differential Heuristics,106,7
+2026-08-14T20:37:06.005727+00:00,49303384,41,Jason Arday Found Dead,22,7
+2026-08-14T20:37:06.005727+00:00,49247628,42,We're not done with point clouds,66,9
+2026-08-14T20:37:06.005727+00:00,49302468,43,Apple proposes to take a 15% cut of purchases made outside the App Store,34,20
+2026-08-14T20:37:06.005727+00:00,49296902,44,Ntfy – open-source Push to Mobile,56,33
+2026-08-14T20:37:06.005727+00:00,49299688,45,Unsloth Qwen3.8-27B GGUF files,58,3
+2026-08-14T20:37:06.005727+00:00,49289112,46,Gemini 3.7 Flash,940,480
+2026-08-14T20:37:06.005727+00:00,49295238,47,Ruby 4.0 Universal RCE Deserialization Gadget Chain,71,22
+2026-08-14T20:37:06.005727+00:00,49242867,48,Protect Your Relays,40,16
+2026-08-14T20:37:06.005727+00:00,49297469,49,WhatCable: Know what your USB-C cable can do,77,61
+2026-08-14T20:37:06.005727+00:00,49298211,50,Cursor is now a part of SpaceX,88,80
