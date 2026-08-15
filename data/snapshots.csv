@@ -31345,3 +31345,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-15T12:51:45.403528+00:00,49175067,48,"Gödel, Escher, Elisp: The Beauty of Macros",95,35
 2026-08-15T12:51:45.403528+00:00,49289112,49,Gemini 3.7 Flash,955,484
 2026-08-15T12:51:45.403528+00:00,49299102,50,AI Model Atlas – visualizing populations of ML models as interconnected 3D graph,63,8
+2026-08-15T13:36:06.596099+00:00,49309549,1,Auto-research with codex: How I achieved a 232x Faster Kernel,88,30
+2026-08-15T13:36:06.596099+00:00,49310291,2,Brazilian election filter in X For You timeline,9,3
+2026-08-15T13:36:06.596099+00:00,49310170,3,Strait of Hormuz Live Traffic Tracking,9,3
+2026-08-15T13:36:06.596099+00:00,49307592,4,The other Sean Byrne doesn't exist,259,127
+2026-08-15T13:36:06.596099+00:00,49299605,5,Qwen 3.8 27B,1226,725
+2026-08-15T13:36:06.596099+00:00,49310177,6,GenRec: Towards LLM-Native Recommendation at Netflix,5,0
+2026-08-15T13:36:06.596099+00:00,49237183,7,The mathematical beauty of hyperbezier curves,58,6
+2026-08-15T13:36:06.596099+00:00,49260582,8,The Color of White Light,24,11
+2026-08-15T13:36:06.596099+00:00,49308685,9,Using GCC's Nested Functions with Wide Pointers and No Trampolines II,41,18
+2026-08-15T13:36:06.596099+00:00,49246366,10,Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum,57,13
+2026-08-15T13:36:06.596099+00:00,49309451,11,Working with AI Feels More Like Leadership Than Coding,11,2
+2026-08-15T13:36:06.596099+00:00,49304447,12,"Going Dark, and the era of law enforcement hacking",386,184
+2026-08-15T13:36:06.596099+00:00,49271382,13,"In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",73,39
+2026-08-15T13:36:06.596099+00:00,49267776,14,Geometric Reasoning,8,5
+2026-08-15T13:36:06.596099+00:00,49300314,15,Google is making private AI practical with homomorphic encryption,436,260
+2026-08-15T13:36:06.596099+00:00,49271442,16,Understanding WCAG 2.2 as ePub and PDF,40,2
+2026-08-15T13:36:06.596099+00:00,49307700,17,Show HN: ThoughtDAG – An editable context graph for LLM conversations,70,18
+2026-08-15T13:36:06.596099+00:00,49303202,18,Firefox is now the last major browser that still supports uBlock Origin,1295,491
+2026-08-15T13:36:06.596099+00:00,49300759,19,RustDesk now supports true unattended remote access on Wayland,321,130
+2026-08-15T13:36:06.596099+00:00,49310248,20,"Brain turns listening inward during REM sleep, EEG recordings suggest",6,0
+2026-08-15T13:36:06.596099+00:00,49282951,21,Coin-sized device can hack a Boeing 737,110,78
+2026-08-15T13:36:06.596099+00:00,49306577,22,"Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",207,51
+2026-08-15T13:36:06.596099+00:00,49305250,23,eigendrum,195,55
+2026-08-15T13:36:06.596099+00:00,49300568,24,AI by Hand,335,25
+2026-08-15T13:36:06.596099+00:00,49310277,25,"388 years ago, Galileo worked out why human giants can't exist",6,0
+2026-08-15T13:36:06.596099+00:00,49300800,26,Maximizing the value of your Claude Code sessions,266,147
+2026-08-15T13:36:06.596099+00:00,49306196,27,Simplifying and Refactoring Introductory Calculus (2018),111,55
+2026-08-15T13:36:06.596099+00:00,49277535,28,Show HN: Silent Shark – tactical map-based WWII submarine sim,53,20
+2026-08-15T13:36:06.596099+00:00,49309050,29,Debian has begun voting on the future of AI/LLM contributions,53,37
+2026-08-15T13:36:06.596099+00:00,49272784,30,Unearthing a 31 year old Easter egg in Ecco the Dolphin,108,24
+2026-08-15T13:36:06.596099+00:00,49263186,31,This Hi-Fi Tape Recorder Changed Radio Forever,55,18
+2026-08-15T13:36:06.596099+00:00,49299081,32,I turned my RSS feeds into an e-ink newspaper to stop reading on my phone,208,88
+2026-08-15T13:36:06.596099+00:00,49215682,33,Super Mario Derivations,119,17
+2026-08-15T13:36:06.596099+00:00,49294997,34,GLM-5.3: Frontier coding with emergent cyber capabilities,1110,543
+2026-08-15T13:36:06.596099+00:00,49302562,35,Racket v9.3,116,8
+2026-08-15T13:36:06.596099+00:00,49299746,36,Introducing Toast 1,211,64
+2026-08-15T13:36:06.596099+00:00,49211375,37,Ultraviolet Bird Photography,158,25
+2026-08-15T13:36:06.596099+00:00,49296740,38,Why does Opus 5 feel worse to work with?,900,804
+2026-08-15T13:36:06.596099+00:00,49307099,39,Show HN: Deltix – AI Driven Testing,39,10
+2026-08-15T13:36:06.596099+00:00,49269809,40,"Turbo Pascal on CP/M, MSX-DOS and MS-DOS",99,43
+2026-08-15T13:36:06.596099+00:00,49306443,41,The Ploopy A+ Trackball Is Here,113,58
+2026-08-15T13:36:06.596099+00:00,49308269,42,z486: A 486-Class Pipelined FPGA CPU with Integrated Floating-Point,8,1
+2026-08-15T13:36:06.596099+00:00,49303046,43,Show HN: Mole – Deep research agent for your terminal,77,12
+2026-08-15T13:36:06.596099+00:00,49309509,44,OpenAI rolling out ads for Europe later this month,12,2
+2026-08-15T13:36:06.596099+00:00,49308059,45,Ask HN: How do you keep up with HN these days?,55,94
+2026-08-15T13:36:06.596099+00:00,49273346,46,Show HN: A website for exploring historical photographs of my city,26,11
+2026-08-15T13:36:06.596099+00:00,49308553,47,"Suspecting court of using AI, man injected prompts in filings to try to win case",56,43
+2026-08-15T13:36:06.596099+00:00,49299675,48,Seven books I keep close because I love them,354,162
+2026-08-15T13:36:06.596099+00:00,49232870,49,Show HN: Ember – Redshift safe color palettes,100,20
+2026-08-15T13:36:06.596099+00:00,49301215,50,Show HN: LuaCAD – Parametric CAD Scripted in Lua,95,19
