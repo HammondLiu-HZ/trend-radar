@@ -30745,3 +30745,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-14T23:28:26.037514+00:00,49303540,48,Anthropic Risk August 2026 [pdf],51,48
 2026-08-14T23:28:26.037514+00:00,49302468,49,Apple proposes to take a 15% cut of purchases made outside the App Store,55,37
 2026-08-14T23:28:26.037514+00:00,49302472,50,The Soviets Drilled the Deepest Hole Ever,8,1
+2026-08-15T01:42:26.218628+00:00,49299605,1,Qwen 3.8 27B,904,589
+2026-08-15T01:42:26.218628+00:00,49304447,2,"Going Dark, and the era of law enforcement hacking",201,120
+2026-08-15T01:42:26.218628+00:00,49306577,3,"Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",6,0
+2026-08-15T01:42:26.218628+00:00,49296740,4,Why does Opus 5 feel worse to work with?,785,724
+2026-08-15T01:42:26.218628+00:00,49306443,5,The Ploopy A+ Trackball Is Here,11,3
+2026-08-15T01:42:26.218628+00:00,49305708,6,The case for overhauling American science,36,26
+2026-08-15T01:42:26.218628+00:00,49300314,7,Google is making private AI practical with homomorphic encryption,278,168
+2026-08-15T01:42:26.218628+00:00,49300759,8,RustDesk now supports true unattended remote access on Wayland,218,95
+2026-08-15T01:42:26.218628+00:00,49305927,9,Jane Street suffers $15B hit after meltdown at Situational Awareness,86,46
+2026-08-15T01:42:26.218628+00:00,49215682,10,Super Mario Derivations,49,8
+2026-08-15T01:42:26.218628+00:00,49305492,11,RISC-V: They should have known better,121,87
+2026-08-15T01:42:26.218628+00:00,49305250,12,eigendrum,27,4
+2026-08-15T01:42:26.218628+00:00,49303202,13,Firefox is now the last major browser that still supports uBlock Origin,404,162
+2026-08-15T01:42:26.218628+00:00,49300568,14,AI by Hand,203,17
+2026-08-15T01:42:26.218628+00:00,49299746,15,Introducing Toast 1,178,58
+2026-08-15T01:42:26.218628+00:00,49299081,16,I turned my RSS feeds into an e-ink newspaper to stop reading on my phone,145,60
+2026-08-15T01:42:26.218628+00:00,49306196,17,Simplifying and Refactoring Introductory Calculus,8,0
+2026-08-15T01:42:26.218628+00:00,49211375,18,Ultraviolet Bird Photography,107,22
+2026-08-15T01:42:26.218628+00:00,49306080,19,Corgi kills short-lived website that ranked its female employees,10,2
+2026-08-15T01:42:26.218628+00:00,49305558,20,Stop sending me huge PRs; a rant,69,44
+2026-08-15T01:42:26.218628+00:00,49263186,21,Hi-Fi Tape Recorder Changed Radio Forever,3,0
+2026-08-15T01:42:26.218628+00:00,49269809,22,"Turbo Pascal on CP/M, MSX-DOS and MS-DOS",70,24
+2026-08-15T01:42:26.218628+00:00,49303046,23,Show HN: Mole – Deep research agent for your terminal,46,8
+2026-08-15T01:42:26.218628+00:00,49303652,24,New Lower and Upper Bounds for the Grothendieck Constant,35,6
+2026-08-15T01:42:26.218628+00:00,49300800,25,Maximizing the value of your Claude Code sessions,130,90
+2026-08-15T01:42:26.218628+00:00,49294997,26,GLM-5.3: Frontier coding with emergent cyber capabilities,1029,515
+2026-08-15T01:42:26.218628+00:00,49299675,27,Seven books I keep close because I love them,297,131
+2026-08-15T01:42:26.218628+00:00,49249523,28,"Don't classify, hallucinate",217,86
+2026-08-15T01:42:26.218628+00:00,49232870,29,Show HN: Ember – Redshift safe color palettes,57,14
+2026-08-15T01:42:26.218628+00:00,49303957,30,Every exterior shot in The Taking of Pelham 123,30,8
+2026-08-15T01:42:26.218628+00:00,49301215,31,Show HN: LuaCAD – Parametric CAD Scripted in Lua,73,14
+2026-08-15T01:42:26.218628+00:00,49269240,32,A humble cabbage became one of the Forbidden City’s treasures (2025),56,8
+2026-08-15T01:42:26.218628+00:00,49299222,33,Every Fucking Website (2020),742,450
+2026-08-15T01:42:26.218628+00:00,49253831,34,Moving integer division to floating-point is trivial,38,14
+2026-08-15T01:42:26.218628+00:00,49305944,35,Synthetic Market,4,1
+2026-08-15T01:42:26.218628+00:00,49305904,36,Flownie – Open and Visual Data Workflow Platform with AI Agent Assistance,3,0
+2026-08-15T01:42:26.218628+00:00,49302562,37,Racket v9.3,22,0
+2026-08-15T01:42:26.218628+00:00,49301417,38,A Contract-Grade Verifier for LLM-Generated GPU Kernels,33,0
+2026-08-15T01:42:26.218628+00:00,49240708,39,ICTP Announces 2026 Dirac Medal Recipients (Physics),10,1
+2026-08-15T01:42:26.218628+00:00,49241735,40,Ant teams beat gravity-based puzzle solvers,7,1
+2026-08-15T01:42:26.218628+00:00,49297637,41,"The TEMU-Fication of Software, Digital Goods and Services",141,100
+2026-08-15T01:42:26.218628+00:00,49175067,42,"Gödel, Escher, Elisp: The Beauty of Macros",79,27
+2026-08-15T01:42:26.218628+00:00,49262841,43,Game Developers Conference – Royalty Free Sound Effects,13,0
+2026-08-15T01:42:26.218628+00:00,49303237,44,Open WireGuard Endpoints,27,5
+2026-08-15T01:42:26.218628+00:00,49299102,45,AI Model Atlas – visualizing populations of ML models as interconnected 3D graph,52,8
+2026-08-15T01:42:26.218628+00:00,49302943,46,The American sports plutocracy,54,40
+2026-08-15T01:42:26.218628+00:00,49299364,47,Earth.nullschool.net,61,21
+2026-08-15T01:42:26.218628+00:00,49306491,48,Nvidia discloses $21B stake in SpaceX,4,2
+2026-08-15T01:42:26.218628+00:00,49298910,49,"In Australia, a home battery boom has helped cut wholesale power prices",315,251
+2026-08-15T01:42:26.218628+00:00,49306669,50,Haitians in Springfield are required to report to ICE and wear ankle monitors,5,0
