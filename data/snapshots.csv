@@ -31295,3 +31295,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-15T11:26:51.778763+00:00,49231490,48,Differential Heuristics,126,8
 2026-08-15T11:26:51.778763+00:00,49299102,49,AI Model Atlas – visualizing populations of ML models as interconnected 3D graph,62,8
 2026-08-15T11:26:51.778763+00:00,49289112,50,Gemini 3.7 Flash,953,484
+2026-08-15T12:51:45.403528+00:00,49309549,1,Auto-research with codex: How I achieved a 232x Faster Kernel,57,11
+2026-08-15T12:51:45.403528+00:00,49307592,2,The other Sean Byrne doesn't exist,246,122
+2026-08-15T12:51:45.403528+00:00,49299605,3,Qwen 3.8 27B,1208,721
+2026-08-15T12:51:45.403528+00:00,49237183,4,The mathematical beauty of hyperbezier curves,46,2
+2026-08-15T12:51:45.403528+00:00,49308685,5,Using GCC's Nested Functions with Wide Pointers and No Trampolines II,37,15
+2026-08-15T12:51:45.403528+00:00,49246366,6,Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum,44,8
+2026-08-15T12:51:45.403528+00:00,49304447,7,"Going Dark, and the era of law enforcement hacking",372,174
+2026-08-15T12:51:45.403528+00:00,49271382,8,"In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",65,36
+2026-08-15T12:51:45.403528+00:00,49260582,9,The Color of White Light,13,7
+2026-08-15T12:51:45.403528+00:00,49271442,10,Understanding WCAG 2.2 as ePub and PDF,35,2
+2026-08-15T12:51:45.403528+00:00,49300314,11,Google is making private AI practical with homomorphic encryption,428,257
+2026-08-15T12:51:45.403528+00:00,49307700,12,Show HN: ThoughtDAG – An editable context graph for LLM conversations,56,14
+2026-08-15T12:51:45.403528+00:00,49303202,13,Firefox is now the last major browser that still supports uBlock Origin,1234,469
+2026-08-15T12:51:45.403528+00:00,49300759,14,RustDesk now supports true unattended remote access on Wayland,317,129
+2026-08-15T12:51:45.403528+00:00,49277535,15,Show HN: Silent Shark – tactical map-based WWII submarine sim,47,17
+2026-08-15T12:51:45.403528+00:00,49306577,16,"Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",207,51
+2026-08-15T12:51:45.403528+00:00,49305250,17,eigendrum,187,53
+2026-08-15T12:51:45.403528+00:00,49282951,18,Coin-sized device can hack a Boeing 737,103,72
+2026-08-15T12:51:45.403528+00:00,49300568,19,AI by Hand,331,24
+2026-08-15T12:51:45.403528+00:00,49267776,20,Geometric Reasoning,3,1
+2026-08-15T12:51:45.403528+00:00,49300800,21,Maximizing the value of your Claude Code sessions,260,139
+2026-08-15T12:51:45.403528+00:00,49306196,22,Simplifying and Refactoring Introductory Calculus (2018),106,53
+2026-08-15T12:51:45.403528+00:00,49309050,23,Debian has begun voting on the future of AI/LLM contributions,43,26
+2026-08-15T12:51:45.403528+00:00,49272784,24,Unearthing a 31 year old Easter egg in Ecco the Dolphin,104,22
+2026-08-15T12:51:45.403528+00:00,49263186,25,This Hi-Fi Tape Recorder Changed Radio Forever,54,16
+2026-08-15T12:51:45.403528+00:00,49215682,26,Super Mario Derivations,117,16
+2026-08-15T12:51:45.403528+00:00,49302562,27,Racket v9.3,111,7
+2026-08-15T12:51:45.403528+00:00,49299081,28,I turned my RSS feeds into an e-ink newspaper to stop reading on my phone,204,86
+2026-08-15T12:51:45.403528+00:00,49294997,29,GLM-5.3: Frontier coding with emergent cyber capabilities,1106,543
+2026-08-15T12:51:45.403528+00:00,49299746,30,Introducing Toast 1,210,64
+2026-08-15T12:51:45.403528+00:00,49211375,31,Ultraviolet Bird Photography,157,25
+2026-08-15T12:51:45.403528+00:00,49309509,32,OpenAI rolling out ads for Europe later this month,11,2
+2026-08-15T12:51:45.403528+00:00,49296740,33,Why does Opus 5 feel worse to work with?,894,804
+2026-08-15T12:51:45.403528+00:00,49306443,34,The Ploopy A+ Trackball Is Here,111,57
+2026-08-15T12:51:45.403528+00:00,49307099,35,Show HN: Deltix – AI Driven Testing,37,10
+2026-08-15T12:51:45.403528+00:00,49269809,36,"Turbo Pascal on CP/M, MSX-DOS and MS-DOS",97,42
+2026-08-15T12:51:45.403528+00:00,49308553,37,"Suspecting court of using AI, man injected prompts in filings to try to win case",54,40
+2026-08-15T12:51:45.403528+00:00,49303046,38,Show HN: Mole – Deep research agent for your terminal,77,12
+2026-08-15T12:51:45.403528+00:00,49273346,39,Show HN: A website for exploring historical photographs of my city,26,11
+2026-08-15T12:51:45.403528+00:00,49308059,40,Ask HN: How do you keep up with HN these days?,52,90
+2026-08-15T12:51:45.403528+00:00,49308269,41,z486: A 486-Class Pipelined FPGA CPU with Integrated Floating-Point,7,1
+2026-08-15T12:51:45.403528+00:00,49232870,42,Show HN: Ember – Redshift safe color palettes,100,19
+2026-08-15T12:51:45.403528+00:00,49299675,43,Seven books I keep close because I love them,354,162
+2026-08-15T12:51:45.403528+00:00,49301215,44,Show HN: LuaCAD – Parametric CAD Scripted in Lua,95,19
+2026-08-15T12:51:45.403528+00:00,49299222,45,Every Fucking Website (2020),800,467
+2026-08-15T12:51:45.403528+00:00,49269240,46,A humble cabbage became one of the Forbidden City’s treasures (2025),67,9
+2026-08-15T12:51:45.403528+00:00,49303652,47,New Lower and Upper Bounds for the Grothendieck Constant,46,8
+2026-08-15T12:51:45.403528+00:00,49175067,48,"Gödel, Escher, Elisp: The Beauty of Macros",95,35
+2026-08-15T12:51:45.403528+00:00,49289112,49,Gemini 3.7 Flash,955,484
+2026-08-15T12:51:45.403528+00:00,49299102,50,AI Model Atlas – visualizing populations of ML models as interconnected 3D graph,63,8
