@@ -32477,3 +32477,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-16T13:37:04.271295+00:00,49317799,48,"Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server",4,0
 2026-08-16T13:37:04.271295+00:00,49314630,49,Were Touch Bar's problems software rather than hardware?,36,38
 2026-08-16T13:37:04.271295+00:00,49308685,50,Using GCC's Nested Functions with Wide Pointers and No Trampolines II,95,47
+2026-08-16T14:30:09.024551+00:00,49319556,1,Claude: System Prompts,103,46
+2026-08-16T14:30:09.024551+00:00,49319633,2,Firefox for iOS now has a native adblocker,60,18
+2026-08-16T14:30:09.024551+00:00,49268565,3,A SAT Attack on Tarski's High School Algebra Problem,30,14
+2026-08-16T14:30:09.024551+00:00,49277952,4,Does anyone run Postgres without PgBouncer?,53,20
+2026-08-16T14:30:09.024551+00:00,49319389,5,"Research papers using ""kidney disappointment"" instead of ""kidney failure""",80,34
+2026-08-16T14:30:09.024551+00:00,49268580,6,Asus Bike Booster,509,355
+2026-08-16T14:30:09.024551+00:00,49292385,8,Chestnut – eGPU dock with open-source firmware,63,16
+2026-08-16T14:30:09.024551+00:00,49243061,9,"Asynchronous I/O in DuckDB: Work, Thread, Work",216,26
+2026-08-16T14:30:09.024551+00:00,49277153,10,Superconducting monolayer cuprate with a single CuO2 plane,35,11
+2026-08-16T14:30:09.024551+00:00,49314902,11,Software Engineering fundamentals matter more,224,144
+2026-08-16T14:30:09.024551+00:00,49314235,12,Cultivating a state of mind where new ideas are born (2023),215,51
+2026-08-16T14:30:09.024551+00:00,49313428,13,Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter,324,214
+2026-08-16T14:30:09.024551+00:00,49319566,14,"US oil reserves are so low, the caverns holding them could be damaged",46,16
+2026-08-16T14:30:09.024551+00:00,49311651,15,Semaglutide linked to lower predicted dementia risk,450,339
+2026-08-16T14:30:09.024551+00:00,49316271,16,Patterns and problems in emerging multi-agent systems,147,102
+2026-08-16T14:30:09.024551+00:00,49315995,17,Guiding Ships with Moire Patterns (2018),84,22
+2026-08-16T14:30:09.024551+00:00,49310682,18,At-home test for infected ticks could improve Lyme Disease diagnosis,271,105
+2026-08-16T14:30:09.024551+00:00,49319349,19,A True Telnet BBS on a Casio Calculator,5,0
+2026-08-16T14:30:09.024551+00:00,49288857,20,What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund,6,0
+2026-08-16T14:30:09.024551+00:00,49316872,21,Falstad Math and Physics Simulations,39,9
+2026-08-16T14:30:09.024551+00:00,49313367,22,"AI in drug discovery – what it is, where we stand and the path forward",159,84
+2026-08-16T14:30:09.024551+00:00,49318128,23,Show HN: Grafana agent observability for Hermes Agent,15,0
+2026-08-16T14:30:09.024551+00:00,49298035,24,RISC-V: They Should Have Known Better,344,386
+2026-08-16T14:30:09.024551+00:00,49315742,25,"Show HN: Mic Drop, a real-time multiplayer karaoke game",71,29
+2026-08-16T14:30:09.024551+00:00,49244872,26,A fortuitous decade as an indie software developer,117,16
+2026-08-16T14:30:09.024551+00:00,49317760,27,What happens when an LLM never sees material beyond fifth grade?,198,168
+2026-08-16T14:30:09.024551+00:00,49269451,28,Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite,59,11
+2026-08-16T14:30:09.024551+00:00,49310926,29,A spectre is haunting Unicode,249,98
+2026-08-16T14:30:09.024551+00:00,49314579,30,Tracking down a Zsh history data loss bug,102,38
+2026-08-16T14:30:09.024551+00:00,49318735,31,AI Coding Without the Vibes,7,2
+2026-08-16T14:30:09.024551+00:00,49319759,32,Our Reality Is Shifting and It's Just the Start,5,8
+2026-08-16T14:30:09.024551+00:00,49279628,33,I built a browser-native SysEx librarian for 80s/90s synthesizers,28,20
+2026-08-16T14:30:09.024551+00:00,49312845,34,AI has access to a vastly larger working memory than the human brain,533,463
+2026-08-16T14:30:09.024551+00:00,49314403,35,Abdominal fat predicts heart disease risk better than BMI,294,252
+2026-08-16T14:30:09.024551+00:00,49314967,36,AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code,43,5
+2026-08-16T14:30:09.024551+00:00,49319727,37,A U.S. Strategy to Prevent the Creation of Mirror Life,6,1
+2026-08-16T14:30:09.024551+00:00,49316395,38,Zapping Rocks Unlocks Stimulated Geologic Hydrogen,24,8
+2026-08-16T14:30:09.024551+00:00,49315456,39,Tea5767-Radio-Tuner,51,2
+2026-08-16T14:30:09.024551+00:00,49319610,40,Testing Moonshot AI's Kimi K3 Inside Claude Code,4,2
+2026-08-16T14:30:09.024551+00:00,49299605,41,Qwen 3.8 27B,1394,782
+2026-08-16T14:30:09.024551+00:00,49319740,42,How a Sony Veteran Is Overhauling the Company He Grew Up In,6,0
+2026-08-16T14:30:09.024551+00:00,49261421,43,An image can overflow,56,19
+2026-08-16T14:30:09.024551+00:00,49309549,44,Auto-research with codex: How I achieved a 232x Faster Kernel,430,91
+2026-08-16T14:30:09.024551+00:00,49319170,45,Access to telemetry data: Automotive industry criticizes intelligence reform,16,5
+2026-08-16T14:30:09.024551+00:00,49313068,46,Tess's Android Wayland Compositor,74,11
+2026-08-16T14:30:09.024551+00:00,49317279,47,Health benefits of Tai Chi,17,17
+2026-08-16T14:30:09.024551+00:00,49263086,48,Speaking for the Dead,10,7
+2026-08-16T14:30:09.024551+00:00,49312496,49,South Korea proposes talks to officially end war with North,54,33
+2026-08-16T14:30:09.024551+00:00,49259891,50,"Program with Paint Brushes, Not Pencils",14,2
