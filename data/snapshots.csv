@@ -32624,3 +32624,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-16T16:33:20.426723+00:00,49317799,48,"Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server",10,0
 2026-08-16T16:33:20.426723+00:00,49261421,49,An image can overflow,56,19
 2026-08-16T16:33:20.426723+00:00,49313068,50,Tess's Android Wayland Compositor,78,12
+2026-08-16T17:25:59.138869+00:00,49319556,1,Claude: System Prompts,307,135
+2026-08-16T17:25:59.138869+00:00,49320611,2,The AI Credit Resale Economy,105,41
+2026-08-16T17:25:59.138869+00:00,49320856,3,"St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",62,31
+2026-08-16T17:25:59.138869+00:00,49306021,4,Anton Chekhov played at love most of his life,15,1
+2026-08-16T17:25:59.138869+00:00,49320673,5,GPS and the Lost Art of Getting Lost,27,13
+2026-08-16T17:25:59.138869+00:00,49321353,6,NIH is ending a key grant for budding clinical researchers,12,2
+2026-08-16T17:25:59.138869+00:00,49279624,7,Archie G. Norcross' Maine Forest Fire Maps (1918–22),11,1
+2026-08-16T17:25:59.138869+00:00,49281352,8,Clamiga: Common Lisp for the Amiga,30,2
+2026-08-16T17:25:59.138869+00:00,49319633,9,Firefox for iOS now has a native adblocker,276,110
+2026-08-16T17:25:59.138869+00:00,49260268,10,"Before Rightmove, there was the Cosmorama",6,0
+2026-08-16T17:25:59.138869+00:00,49320984,11,The weekend is 100 years old,65,28
+2026-08-16T17:25:59.138869+00:00,49319814,12,Show HN: A public AI whose memory is shared across all users,37,25
+2026-08-16T17:25:59.138869+00:00,49319349,13,A True Telnet BBS on a Casio Calculator,52,7
+2026-08-16T17:25:59.138869+00:00,49268565,15,A SAT Attack on Tarski's High School Algebra Problem,55,17
+2026-08-16T17:25:59.138869+00:00,49313711,16,Kimi Work attaches raw agent sessions to feedback reports,18,3
+2026-08-16T17:25:59.138869+00:00,49319389,17,"Research papers using ""kidney disappointment"" instead of ""kidney failure""",224,88
+2026-08-16T17:25:59.138869+00:00,49292385,18,Chestnut – eGPU dock with open-source firmware,100,25
+2026-08-16T17:25:59.138869+00:00,49277952,19,Does anyone run Postgres without PgBouncer?,100,61
+2026-08-16T17:25:59.138869+00:00,49268580,20,Asus Bike Booster,557,385
+2026-08-16T17:25:59.138869+00:00,49277153,21,Superconducting monolayer cuprate with a single CuO2 plane,49,14
+2026-08-16T17:25:59.138869+00:00,49243061,22,"Asynchronous I/O in DuckDB: Work, Thread, Work",243,27
+2026-08-16T17:25:59.138869+00:00,49319727,23,A U.S. Strategy to Prevent the Creation of Mirror Life,78,50
+2026-08-16T17:25:59.138869+00:00,49318735,24,AI Coding Without the Vibes,35,11
+2026-08-16T17:25:59.138869+00:00,49314235,25,Cultivating a state of mind where new ideas are born (2023),240,58
+2026-08-16T17:25:59.138869+00:00,49321783,26,Ordinary WiFi can now identify you with near-perfect accuracy,4,1
+2026-08-16T17:25:59.138869+00:00,49314902,27,Software Engineering fundamentals matter more,266,171
+2026-08-16T17:25:59.138869+00:00,49315995,28,Guiding Ships with Moire Patterns (2018),101,24
+2026-08-16T17:25:59.138869+00:00,49313428,29,Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter,369,256
+2026-08-16T17:25:59.138869+00:00,49288857,30,What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund,13,2
+2026-08-16T17:25:59.138869+00:00,49311651,31,Semaglutide linked to lower predicted dementia risk,462,364
+2026-08-16T17:25:59.138869+00:00,49310682,32,At-home test for infected ticks could improve Lyme Disease diagnosis,286,107
+2026-08-16T17:25:59.138869+00:00,49316872,33,Falstad Math and Physics Simulations,58,12
+2026-08-16T17:25:59.138869+00:00,49316271,34,Patterns and problems in emerging multi-agent systems,167,119
+2026-08-16T17:25:59.138869+00:00,49313367,35,"AI in drug discovery – what it is, where we stand and the path forward",171,85
+2026-08-16T17:25:59.138869+00:00,49244872,36,A fortuitous decade as an indie software developer,143,23
+2026-08-16T17:25:59.138869+00:00,49298035,37,RISC-V: They Should Have Known Better,361,408
+2026-08-16T17:25:59.138869+00:00,49310926,38,A spectre is haunting Unicode,266,103
+2026-08-16T17:25:59.138869+00:00,49315742,39,"Show HN: Mic Drop, a real-time multiplayer karaoke game",75,34
+2026-08-16T17:25:59.138869+00:00,49269451,40,Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite,64,14
+2026-08-16T17:25:59.138869+00:00,49314579,41,Tracking down a Zsh history data loss bug,109,38
+2026-08-16T17:25:59.138869+00:00,49312845,42,"AI isn’t outthinking mathematicians, it’s out-remembering them",554,464
+2026-08-16T17:25:59.138869+00:00,49314967,43,AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code,45,5
+2026-08-16T17:25:59.138869+00:00,49279628,44,I built a browser-native SysEx librarian for 80s/90s synthesizers,31,20
+2026-08-16T17:25:59.138869+00:00,49317760,45,What happens when an LLM never sees material beyond fifth grade?,224,192
+2026-08-16T17:25:59.138869+00:00,49314403,46,Abdominal fat predicts heart disease risk better than BMI,306,274
+2026-08-16T17:25:59.138869+00:00,49316395,47,Zapping Rocks Unlocks Stimulated Geologic Hydrogen,27,9
+2026-08-16T17:25:59.138869+00:00,49299605,48,Qwen 3.8 27B,1399,782
+2026-08-16T17:25:59.138869+00:00,49317799,49,"Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server",13,0
+2026-08-16T17:25:59.138869+00:00,49317279,50,Health benefits of Tai Chi,25,19
