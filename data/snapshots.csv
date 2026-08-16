@@ -32085,3 +32085,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-16T05:34:40.538279+00:00,49316766,48,The Live Shopping App Where Some People Bid Until They're Broke,5,0
 2026-08-16T05:34:40.538279+00:00,49312496,49,South Korea proposes talks to officially end war with North,26,7
 2026-08-16T05:34:40.538279+00:00,49312008,50,A controversial Alzheimer's surgery is said to reverse symptoms,163,75
+2026-08-16T06:51:55.564528+00:00,49268580,1,Asus Bike Booster,296,162
+2026-08-16T06:51:55.564528+00:00,49243061,2,"Asynchronous I/O in DuckDB: Work, Thread, Work",115,8
+2026-08-16T06:51:55.564528+00:00,49311651,3,Semaglutide linked to lower predicted dementia risk,402,281
+2026-08-16T06:51:55.564528+00:00,49316271,4,Patterns and problems in emerging multi-agent systems,45,13
+2026-08-16T06:51:55.564528+00:00,49314235,5,Cultivating a state of mind where new ideas are born (2023),142,32
+2026-08-16T06:51:55.564528+00:00,49315995,6,Guiding Ships with Moire Patterns,30,7
+2026-08-16T06:51:55.564528+00:00,49314902,7,Software Engineering fundamentals matter more,84,23
+2026-08-16T06:51:55.564528+00:00,49313428,8,Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter,175,96
+2026-08-16T06:51:55.564528+00:00,49315742,9,"Show HN: Mic Drop, a real-time multiplayer karaoke game",45,17
+2026-08-16T06:51:55.564528+00:00,49310682,10,At-home test for infected ticks could improve Lyme Disease diagnosis,247,86
+2026-08-16T06:51:55.564528+00:00,49313367,11,"AI in drug discovery – what it is, where we stand and the path forward",128,64
+2026-08-16T06:51:55.564528+00:00,49298035,12,RISC-V: They Should Have Known Better,278,338
+2026-08-16T06:51:55.564528+00:00,49269451,13,Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite,25,5
+2026-08-16T06:51:55.564528+00:00,49314403,14,Abdominal fat predicts heart disease risk better than BMI,227,167
+2026-08-16T06:51:55.564528+00:00,49315456,15,Tea5767-Radio-Tuner,35,2
+2026-08-16T06:51:55.564528+00:00,49244872,16,A fortuitous decade as an indie software developer,66,9
+2026-08-16T06:51:55.564528+00:00,49314579,17,Tracking down a Zsh history data loss bug,60,21
+2026-08-16T06:51:55.564528+00:00,49316395,18,Zapping Rocks Unlocks Stimulated Geologic Hydrogen,12,3
+2026-08-16T06:51:55.564528+00:00,49312845,19,AI has access to a vastly larger working memory than the human brain,469,405
+2026-08-16T06:51:55.564528+00:00,49310926,20,A spectre is haunting Unicode,206,71
+2026-08-16T06:51:55.564528+00:00,49259891,21,"Program with Paint Brushes, Not Pencils",8,1
+2026-08-16T06:51:55.564528+00:00,49263086,22,Speaking for the Dead,3,2
+2026-08-16T06:51:55.564528+00:00,49316611,23,Government sponsored study on alcohol doesn't stand up to scrutiny,31,11
+2026-08-16T06:51:55.564528+00:00,49316872,24,Falstad Math and Physics Simulations,3,0
+2026-08-16T06:51:55.564528+00:00,49314967,25,AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code,21,2
+2026-08-16T06:51:55.564528+00:00,49313068,26,Tess's Android Wayland Compositor,61,9
+2026-08-16T06:51:55.564528+00:00,49314884,27,"SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",40,15
+2026-08-16T06:51:55.564528+00:00,49228660,28,Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers,3,1
+2026-08-16T06:51:55.564528+00:00,49261421,29,An image can overflow,38,11
+2026-08-16T06:51:55.564528+00:00,49316685,31,Targeted marine cloud brightening weakens subsequent El Niño,15,0
+2026-08-16T06:51:55.564528+00:00,49309549,32,Auto-research with codex: How I achieved a 232x Faster Kernel,414,91
+2026-08-16T06:51:55.564528+00:00,49314615,33,"Bede Liu, a digital signal processing pioneer, has died",68,4
+2026-08-16T06:51:55.564528+00:00,49299605,34,Qwen 3.8 27B,1375,775
+2026-08-16T06:51:55.564528+00:00,49310829,35,"Printytron – Describe a part, get a printable STL",81,36
+2026-08-16T06:51:55.564528+00:00,49315065,36,Decoding smell: Study reveals how odor signals shapeshift in the wind,14,0
+2026-08-16T06:51:55.564528+00:00,49314630,37,Were Touch Bar's problems software rather than hardware?,20,16
+2026-08-16T06:51:55.564528+00:00,49314869,38,Oracle – a photorealistic browser for every Magic card ever printed,18,8
+2026-08-16T06:51:55.564528+00:00,49314596,39,"The Wow signal was a strong narrowband radio signal detected on August 15, 1977",81,19
+2026-08-16T06:51:55.564528+00:00,49258177,40,Pizza Box Project Stack,42,4
+2026-08-16T06:51:55.564528+00:00,49306333,41,2D Gaussian Splatting for Bézier Spline Line Art Vectorization,68,4
+2026-08-16T06:51:55.564528+00:00,49308685,42,Using GCC's Nested Functions with Wide Pointers and No Trampolines II,92,45
+2026-08-16T06:51:55.564528+00:00,49316719,43,The 37signals Manager Playbook,12,1
+2026-08-16T06:51:55.564528+00:00,49314765,44,Show HN: Bribes.fyi – Compare bribes statistics department wise,35,21
+2026-08-16T06:51:55.564528+00:00,49315709,45,Show HN: I built a native app for coding agents with Rust and GPUI,24,10
+2026-08-16T06:51:55.564528+00:00,49312496,46,South Korea proposes talks to officially end war with North,30,7
+2026-08-16T06:51:55.564528+00:00,49307700,47,Show HN: ThoughtDAG – An editable context graph for LLM conversations,115,55
+2026-08-16T06:51:55.564528+00:00,49316330,48,Has the hallucination problem in AI been solved?,9,27
+2026-08-16T06:51:55.564528+00:00,49312008,49,A controversial Alzheimer's surgery is said to reverse symptoms,165,78
+2026-08-16T06:51:55.564528+00:00,49315563,50,Big Pickle on SWE Atlas – Codebase QnA,4,0
