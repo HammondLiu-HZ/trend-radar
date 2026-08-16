@@ -32379,3 +32379,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-16T11:26:39.871534+00:00,49310829,48,"Printytron – Describe a part, get a printable STL",88,42
 2026-08-16T11:26:39.871534+00:00,49242085,49,Möbius strips and differential equations,74,14
 2026-08-16T11:26:39.871534+00:00,49314596,50,"The Wow signal was a strong narrowband radio signal detected on August 15, 1977",85,21
+2026-08-16T12:53:07.342162+00:00,49268565,1,A SAT Attack on Tarski's High School Algebra Problem,11,3
+2026-08-16T12:53:07.342162+00:00,49268580,2,Asus Bike Booster,482,325
+2026-08-16T12:53:07.342162+00:00,49277153,3,Superconducting monolayer cuprate with a single CuO2 plane,27,7
+2026-08-16T12:53:07.342162+00:00,49292385,4,Chestnut – eGPU dock with open-source firmware,42,7
+2026-08-16T12:53:07.342162+00:00,49243061,5,"Asynchronous I/O in DuckDB: Work, Thread, Work",194,21
+2026-08-16T12:53:07.342162+00:00,49316271,6,Patterns and problems in emerging multi-agent systems,132,84
+2026-08-16T12:53:07.342162+00:00,49313428,7,Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter,293,186
+2026-08-16T12:53:07.342162+00:00,49317760,9,What happens when an LLM never sees material beyond fifth grade?,170,125
+2026-08-16T12:53:07.342162+00:00,49311651,10,Semaglutide linked to lower predicted dementia risk,443,326
+2026-08-16T12:53:07.342162+00:00,49319010,11,"Leave your screen unlocked, meet developers paypal.com",4,0
+2026-08-16T12:53:07.342162+00:00,49314235,12,Cultivating a state of mind where new ideas are born (2023),196,48
+2026-08-16T12:53:07.342162+00:00,49314902,13,Software Engineering fundamentals matter more,195,134
+2026-08-16T12:53:07.342162+00:00,49315995,14,Guiding Ships with Moire Patterns,73,20
+2026-08-16T12:53:07.342162+00:00,49310682,15,At-home test for infected ticks could improve Lyme Disease diagnosis,266,102
+2026-08-16T12:53:07.342162+00:00,49316872,16,Falstad Math and Physics Simulations,35,9
+2026-08-16T12:53:07.342162+00:00,49298035,17,RISC-V: They Should Have Known Better,339,381
+2026-08-16T12:53:07.342162+00:00,49313367,18,"AI in drug discovery – what it is, where we stand and the path forward",150,84
+2026-08-16T12:53:07.342162+00:00,49315742,19,"Show HN: Mic Drop, a real-time multiplayer karaoke game",64,29
+2026-08-16T12:53:07.342162+00:00,49244872,20,A fortuitous decade as an indie software developer,107,14
+2026-08-16T12:53:07.342162+00:00,49269451,21,Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite,55,9
+2026-08-16T12:53:07.342162+00:00,49310926,22,A spectre is haunting Unicode,238,92
+2026-08-16T12:53:07.342162+00:00,49279628,23,I built a browser-native SysEx librarian for 80s/90s synthesizers,28,15
+2026-08-16T12:53:07.342162+00:00,49314579,24,Tracking down a Zsh history data loss bug,91,35
+2026-08-16T12:53:07.342162+00:00,49314403,25,Abdominal fat predicts heart disease risk better than BMI,283,228
+2026-08-16T12:53:07.342162+00:00,49312845,26,AI has access to a vastly larger working memory than the human brain,523,451
+2026-08-16T12:53:07.342162+00:00,49318128,27,Show HN: Grafana agent observability for Hermes Agent,9,0
+2026-08-16T12:53:07.342162+00:00,49316395,28,Zapping Rocks Unlocks Stimulated Geologic Hydrogen,23,6
+2026-08-16T12:53:07.342162+00:00,49314967,29,AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code,41,4
+2026-08-16T12:53:07.342162+00:00,49319389,30,"Research papers using ""kidney disappointment"" instead of ""kidney failure""",4,0
+2026-08-16T12:53:07.342162+00:00,49319170,31,Access to telemetry data: Automotive industry criticizes intelligence reform,8,1
+2026-08-16T12:53:07.342162+00:00,49315456,32,Tea5767-Radio-Tuner,47,2
+2026-08-16T12:53:07.342162+00:00,49270279,33,Impulse Tracker,35,6
+2026-08-16T12:53:07.342162+00:00,49299605,34,Qwen 3.8 27B,1391,780
+2026-08-16T12:53:07.342162+00:00,49263086,35,Speaking for the Dead,10,6
+2026-08-16T12:53:07.342162+00:00,49261421,36,An image can overflow,53,19
+2026-08-16T12:53:07.342162+00:00,49309549,37,Auto-research with codex: How I achieved a 232x Faster Kernel,427,91
+2026-08-16T12:53:07.342162+00:00,49313068,38,Tess's Android Wayland Compositor,72,11
+2026-08-16T12:53:07.342162+00:00,49259891,39,"Program with Paint Brushes, Not Pencils",14,2
+2026-08-16T12:53:07.342162+00:00,49312496,40,South Korea proposes talks to officially end war with North,53,25
+2026-08-16T12:53:07.342162+00:00,49314630,41,Were Touch Bar's problems software rather than hardware?,34,36
+2026-08-16T12:53:07.342162+00:00,49314884,42,"SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",46,20
+2026-08-16T12:53:07.342162+00:00,49308685,43,Using GCC's Nested Functions with Wide Pointers and No Trampolines II,95,47
+2026-08-16T12:53:07.342162+00:00,49294997,44,GLM-5.3: Frontier coding with emergent cyber capabilities,1145,569
+2026-08-16T12:53:07.342162+00:00,49306333,45,2D Gaussian Splatting for Bézier Spline Line Art Vectorization,71,5
+2026-08-16T12:53:07.342162+00:00,49307700,46,Show HN: ThoughtDAG – An editable context graph for LLM conversations,124,59
+2026-08-16T12:53:07.342162+00:00,49314615,47,"Bede Liu, a digital signal processing pioneer, has died",72,4
+2026-08-16T12:53:07.342162+00:00,49318835,48,The 'Country Hicks' Who Refused $26M from an AI Data Center,6,1
+2026-08-16T12:53:07.342162+00:00,49309451,49,Working with AI feels more like leadership than coding,304,192
+2026-08-16T12:53:07.342162+00:00,49315065,50,Decoding smell: Study reveals how odor signals shapeshift in the wind,19,0
