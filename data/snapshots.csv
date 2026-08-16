@@ -32820,3 +32820,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-16T20:30:31.954736+00:00,49312845,48,"AI isn’t outthinking mathematicians, it’s out-remembering them",569,479
 2026-08-16T20:30:31.954736+00:00,49269451,49,Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite,65,14
 2026-08-16T20:30:31.954736+00:00,49322462,50,LibreOffice Conference 2026 Schedule,7,1
+2026-08-16T21:27:10.224201+00:00,49323459,1,"The Case Against Formal Verification, 50 Years Later",28,13
+2026-08-16T21:27:10.224201+00:00,49321717,2,"A 3rd World Embedded Engineer Responds to ""RISC-V They Should Have Known Better""",233,125
+2026-08-16T21:27:10.224201+00:00,49319556,3,Claude: System Prompts,443,192
+2026-08-16T21:27:10.224201+00:00,49322573,4,Protobuf has LSP support. You're welcome,58,25
+2026-08-16T21:27:10.224201+00:00,49285096,5,SIMD in the 90s: Programming Intel's Pentium MMX,27,4
+2026-08-16T21:27:10.224201+00:00,49259980,6,Low-Tech Ceramic Water Filter,27,7
+2026-08-16T21:27:10.224201+00:00,49320611,7,The AI Credit Resale Economy,189,69
+2026-08-16T21:27:10.224201+00:00,49322695,8,Models Are Getting Dumber on Purpose,161,100
+2026-08-16T21:27:10.224201+00:00,49322330,9,"MathCode, Mathematical Coding Agent",33,9
+2026-08-16T21:27:10.224201+00:00,49281352,10,Clamiga: Common Lisp for the Amiga,64,5
+2026-08-16T21:27:10.224201+00:00,49320856,11,"St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",127,93
+2026-08-16T21:27:10.224201+00:00,49313920,12,Plastic mechanical computer from 1963: The Digi-Comp 1 [video],30,6
+2026-08-16T21:27:10.224201+00:00,49306021,13,Anton Chekhov played at love most of his life,46,6
+2026-08-16T21:27:10.224201+00:00,49319633,14,Firefox for iOS now has a native adblocker,453,189
+2026-08-16T21:27:10.224201+00:00,49323381,15,Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter,27,15
+2026-08-16T21:27:10.224201+00:00,49321353,16,NIH is ending a key grant for budding clinical researchers,116,58
+2026-08-16T21:27:10.224201+00:00,49322107,17,Tell HN: Cloudflare silently injects its analytics when you switch nameservers,160,44
+2026-08-16T21:27:10.224201+00:00,49282652,18,In the Shadow of the (Berlin) Wall,3,1
+2026-08-16T21:27:10.224201+00:00,49260268,19,"Before Rightmove, there was the Cosmorama",19,2
+2026-08-16T21:27:10.224201+00:00,49279624,20,Archie G. Norcross' Maine Forest Fire Maps (1918–22),21,3
+2026-08-16T21:27:10.224201+00:00,49320984,22,The weekend is 100 years old,149,87
+2026-08-16T21:27:10.224201+00:00,49319349,23,A True Telnet BBS on a Casio Calculator,73,9
+2026-08-16T21:27:10.224201+00:00,49292385,24,Chestnut – eGPU dock with open-source firmware,123,35
+2026-08-16T21:27:10.224201+00:00,49268580,25,Asus Bike Booster,589,412
+2026-08-16T21:27:10.224201+00:00,49280186,26,The deep history behind the Road to Nowhere inside the Great Smoky Mountains,17,5
+2026-08-16T21:27:10.224201+00:00,49268565,27,A SAT Attack on Tarski's High School Algebra Problem,72,29
+2026-08-16T21:27:10.224201+00:00,49319389,28,"Research papers using ""kidney disappointment"" instead of ""kidney failure""",330,117
+2026-08-16T21:27:10.224201+00:00,49243061,29,"Asynchronous I/O in DuckDB: Work, Thread, Work",265,28
+2026-08-16T21:27:10.224201+00:00,49320673,30,GPS and the Lost Art of Getting Lost,63,51
+2026-08-16T21:27:10.224201+00:00,49277952,31,Does anyone run Postgres without PgBouncer?,125,81
+2026-08-16T21:27:10.224201+00:00,49277153,32,Superconducting monolayer cuprate with a single CuO2 plane,60,15
+2026-08-16T21:27:10.224201+00:00,49323620,33,Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast,5,0
+2026-08-16T21:27:10.224201+00:00,49314235,34,Cultivating a state of mind where new ideas are born (2023),258,61
+2026-08-16T21:27:10.224201+00:00,49323157,35,ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days,74,37
+2026-08-16T21:27:10.224201+00:00,49323686,36,Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee,3,0
+2026-08-16T21:27:10.224201+00:00,49311651,37,Semaglutide linked to lower predicted dementia risk,474,374
+2026-08-16T21:27:10.224201+00:00,49315995,38,Guiding Ships with Moire Patterns (2018),107,27
+2026-08-16T21:27:10.224201+00:00,49313428,39,Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter,406,288
+2026-08-16T21:27:10.224201+00:00,49322519,40,Nvidia discloses $21B stake in SpaceX at end of second quarter,24,13
+2026-08-16T21:27:10.224201+00:00,49322253,41,Treasury Orders Erasure of Domestic Ownership Records,23,3
+2026-08-16T21:27:10.224201+00:00,49322979,42,The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank,31,24
+2026-08-16T21:27:10.224201+00:00,49313367,43,"AI in drug discovery – what it is, where we stand and the path forward",178,88
+2026-08-16T21:27:10.224201+00:00,49316872,44,Falstad Math and Physics Simulations,62,13
+2026-08-16T21:27:10.224201+00:00,49244872,45,A fortuitous decade as an indie software developer,152,32
+2026-08-16T21:27:10.224201+00:00,49314902,46,Software Engineering fundamentals matter more,285,204
+2026-08-16T21:27:10.224201+00:00,49316271,47,Patterns and problems in emerging multi-agent systems,177,130
+2026-08-16T21:27:10.224201+00:00,49319814,48,Show HN: A public AI whose memory is shared across all users,68,52
+2026-08-16T21:27:10.224201+00:00,49288857,49,What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund,15,2
+2026-08-16T21:27:10.224201+00:00,49315742,50,"Show HN: Mic Drop, a real-time multiplayer karaoke game",79,35
