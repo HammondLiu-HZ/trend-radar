@@ -32134,3 +32134,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-16T06:51:55.564528+00:00,49316330,48,Has the hallucination problem in AI been solved?,9,27
 2026-08-16T06:51:55.564528+00:00,49312008,49,A controversial Alzheimer's surgery is said to reverse symptoms,165,78
 2026-08-16T06:51:55.564528+00:00,49315563,50,Big Pickle on SWE Atlas – Codebase QnA,4,0
+2026-08-16T07:37:27.280993+00:00,49317546,1,Show HN: Laptop is the last place your secrets are still in plaintext,21,13
+2026-08-16T07:37:27.280993+00:00,49268580,2,Asus Bike Booster,325,185
+2026-08-16T07:37:27.280993+00:00,49243061,3,"Asynchronous I/O in DuckDB: Work, Thread, Work",127,8
+2026-08-16T07:37:27.280993+00:00,49311651,4,Semaglutide linked to lower predicted dementia risk,412,286
+2026-08-16T07:37:27.280993+00:00,49316271,5,Patterns and problems in emerging multi-agent systems,55,18
+2026-08-16T07:37:27.280993+00:00,49314235,6,Cultivating a state of mind where new ideas are born (2023),152,35
+2026-08-16T07:37:27.280993+00:00,49314902,7,Software Engineering fundamentals matter more,99,32
+2026-08-16T07:37:27.280993+00:00,49313428,8,Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter,204,106
+2026-08-16T07:37:27.280993+00:00,49315995,9,Guiding Ships with Moire Patterns,36,9
+2026-08-16T07:37:27.280993+00:00,49310682,10,At-home test for infected ticks could improve Lyme Disease diagnosis,252,87
+2026-08-16T07:37:27.280993+00:00,49315742,11,"Show HN: Mic Drop, a real-time multiplayer karaoke game",47,19
+2026-08-16T07:37:27.280993+00:00,49313367,12,"AI in drug discovery – what it is, where we stand and the path forward",132,68
+2026-08-16T07:37:27.280993+00:00,49298035,13,RISC-V: They Should Have Known Better,287,349
+2026-08-16T07:37:27.280993+00:00,49269451,14,Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite,31,5
+2026-08-16T07:37:27.280993+00:00,49314403,15,Abdominal fat predicts heart disease risk better than BMI,240,170
+2026-08-16T07:37:27.280993+00:00,49244872,16,A fortuitous decade as an indie software developer,69,9
+2026-08-16T07:37:27.280993+00:00,49314579,17,Tracking down a Zsh history data loss bug,63,22
+2026-08-16T07:37:27.280993+00:00,49317279,18,Health benefits of Tai Chi,3,0
+2026-08-16T07:37:27.280993+00:00,49315456,19,Tea5767-Radio-Tuner,35,2
+2026-08-16T07:37:27.280993+00:00,49312845,20,AI has access to a vastly larger working memory than the human brain,476,408
+2026-08-16T07:37:27.280993+00:00,49316872,21,Falstad Math and Physics Simulations,7,0
+2026-08-16T07:37:27.280993+00:00,49310926,22,A spectre is haunting Unicode,212,73
+2026-08-16T07:37:27.280993+00:00,49316395,23,Zapping Rocks Unlocks Stimulated Geologic Hydrogen,12,5
+2026-08-16T07:37:27.280993+00:00,49275701,24,Not sure where I am going with this garbage collection rabbit hole,6,0
+2026-08-16T07:37:27.280993+00:00,49314967,25,AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code,24,3
+2026-08-16T07:37:27.280993+00:00,49259891,26,"Program with Paint Brushes, Not Pencils",8,2
+2026-08-16T07:37:27.280993+00:00,49316611,27,Government sponsored study on alcohol doesn't stand up to scrutiny,36,21
+2026-08-16T07:37:27.280993+00:00,49263086,28,Speaking for the Dead,3,3
+2026-08-16T07:37:27.280993+00:00,49313068,30,Tess's Android Wayland Compositor,65,10
+2026-08-16T07:37:27.280993+00:00,49314884,31,"SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",41,15
+2026-08-16T07:37:27.280993+00:00,49261421,32,An image can overflow,40,11
+2026-08-16T07:37:27.280993+00:00,49309549,33,Auto-research with codex: How I achieved a 232x Faster Kernel,416,91
+2026-08-16T07:37:27.280993+00:00,49228660,34,Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers,3,1
+2026-08-16T07:37:27.280993+00:00,49299605,35,Qwen 3.8 27B,1376,775
+2026-08-16T07:37:27.280993+00:00,49316685,36,Targeted marine cloud brightening weakens subsequent El Niño,16,1
+2026-08-16T07:37:27.280993+00:00,49314615,37,"Bede Liu, a digital signal processing pioneer, has died",69,4
+2026-08-16T07:37:27.280993+00:00,49310829,38,"Printytron – Describe a part, get a printable STL",81,36
+2026-08-16T07:37:27.280993+00:00,49314630,39,Were Touch Bar's problems software rather than hardware?,22,19
+2026-08-16T07:37:27.280993+00:00,49315065,40,Decoding smell: Study reveals how odor signals shapeshift in the wind,14,0
+2026-08-16T07:37:27.280993+00:00,49306333,41,2D Gaussian Splatting for Bézier Spline Line Art Vectorization,69,4
+2026-08-16T07:37:27.280993+00:00,49312496,42,South Korea proposes talks to officially end war with North,33,9
+2026-08-16T07:37:27.280993+00:00,49258177,43,Pizza Box Project Stack,42,4
+2026-08-16T07:37:27.280993+00:00,49308685,44,Using GCC's Nested Functions with Wide Pointers and No Trampolines II,93,45
+2026-08-16T07:37:27.280993+00:00,49314869,45,Oracle – a photorealistic browser for every Magic card ever printed,19,8
+2026-08-16T07:37:27.280993+00:00,49314596,46,"The Wow signal was a strong narrowband radio signal detected on August 15, 1977",81,20
+2026-08-16T07:37:27.280993+00:00,49307700,47,Show HN: ThoughtDAG – An editable context graph for LLM conversations,121,55
+2026-08-16T07:37:27.280993+00:00,49314765,48,Show HN: Bribes.fyi – Compare bribes statistics department wise,36,22
+2026-08-16T07:37:27.280993+00:00,49309451,49,Working with AI feels more like leadership than coding,298,189
+2026-08-16T07:37:27.280993+00:00,49312008,50,A controversial Alzheimer's surgery is said to reverse symptoms,169,75
