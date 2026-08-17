@@ -33950,3 +33950,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-17T22:31:30.075549+00:00,49325714,48,AGI-64 Brings Sierra Adventures to the Commodore 64,124,24
 2026-08-17T22:31:30.075549+00:00,49335017,49,Llama.cpp v0.1.0,39,8
 2026-08-17T22:31:30.075549+00:00,49333084,50,Show HN: UL-SMF – Open-source linear-complexity ~300x KV-cache compression,9,0
+2026-08-17T23:29:14.822434+00:00,49338459,1,How Bluesky draws its logo on screenshots,87,67
+2026-08-17T23:29:14.822434+00:00,49338328,2,"Quake Shareware, a CD-ROM just a little too full",67,19
+2026-08-17T23:29:14.822434+00:00,49334991,3,"GPU Offload in Rust: Portable, Safe, and Fast",142,30
+2026-08-17T23:29:14.822434+00:00,49330781,4,A Preview of DuckDB v2.0,502,87
+2026-08-17T23:29:14.822434+00:00,49338285,5,Fairphone 6 and PostmarketOS working main camera,37,6
+2026-08-17T23:29:14.822434+00:00,49331423,6,AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira,299,123
+2026-08-17T23:29:14.822434+00:00,49330597,7,Incident with Github.com,495,874
+2026-08-17T23:29:14.822434+00:00,49336573,8,AI;DR (AI; Didn't Read),498,305
+2026-08-17T23:29:14.822434+00:00,49270194,9,Olo (Color),275,62
+2026-08-17T23:29:14.822434+00:00,49333344,10,Judge sets framework for Nine PBS to retrieve archival data,120,45
+2026-08-17T23:29:14.822434+00:00,49338139,11,My friends all hate AI; I just joined an AI startup,11,5
+2026-08-17T23:29:14.822434+00:00,49333824,12,Sun Clock,154,50
+2026-08-17T23:29:14.822434+00:00,49329575,13,"GPT 5.6 Sol is the best ""vision"" model OpenAI ever released",290,150
+2026-08-17T23:29:14.822434+00:00,49331220,14,How to disable or avoid intrusive AI,238,136
+2026-08-17T23:29:14.822434+00:00,49279146,15,Intriguing stories in computer science,20,1
+2026-08-17T23:29:14.822434+00:00,49335517,16,Roboflow Playground: Try and Compare 30 Computer Vision Models,37,3
+2026-08-17T23:29:14.822434+00:00,49332751,17,Launch HN: Speko (YC S26) – OpenRouter for Voice AI,86,51
+2026-08-17T23:29:14.822434+00:00,49337630,18,How do functions like alloca allocate memory from the stack?,10,0
+2026-08-17T23:29:14.822434+00:00,49337602,19,GPT-5.6 Sol Pricing Cut by 50%,10,0
+2026-08-17T23:29:14.822434+00:00,49272891,20,A particle made of force: physicists say they've found mysterious 'glueball',89,7
+2026-08-17T23:29:14.822434+00:00,49295179,21,A simple fix for LLM tail latency,27,12
+2026-08-17T23:29:14.822434+00:00,49331033,22,Ask HN: Alternatives to GitHub,469,298
+2026-08-17T23:29:14.822434+00:00,49338404,23,Colorado River plummets as lakes Powell and Mead drop to record lows,29,35
+2026-08-17T23:29:14.822434+00:00,49338428,24,scScript for Linux,4,1
+2026-08-17T23:29:14.822434+00:00,49334544,25,Qwen3.8 27B scores 52 on Artificial Analysis,277,123
+2026-08-17T23:29:14.822434+00:00,49334409,26,An update on leaving Gmail for Fastmail,90,75
+2026-08-17T23:29:14.822434+00:00,49289898,27,The oldest bar in every state,52,29
+2026-08-17T23:29:14.822434+00:00,49331474,28,How to put 170 atoms in an atom,98,22
+2026-08-17T23:29:14.822434+00:00,49289583,29,Some Virtues of Narrative Poetry,4,0
+2026-08-17T23:29:14.822434+00:00,49335001,30,We Are Forking dotenvy into dotenv-ng,35,39
+2026-08-17T23:29:14.822434+00:00,49336304,31,India has paved the way for charging merchants a fee on UPI transactions,81,70
+2026-08-17T23:29:14.822434+00:00,49335600,32,"Los Puesteros, solitary men who look after ranches and livestock in Patagonia",97,36
+2026-08-17T23:29:14.822434+00:00,49323474,33,How I developed an Am29000 C compiler and web browser,77,11
+2026-08-17T23:29:14.822434+00:00,49336919,34,"GitHub degradation affects Cursor Origin, its new Git platform",7,0
+2026-08-17T23:29:14.822434+00:00,49327643,35,Show HN: Desktopcolors.com – A museum for solid background colors of classic OS,135,59
+2026-08-17T23:29:14.822434+00:00,49325789,36,On AI regulation and messaging,231,491
+2026-08-17T23:29:14.822434+00:00,49338272,37,"'Buy Now, Pay Later' Lenders Pitch Loans for Needs Like Electricity and Rent",15,18
+2026-08-17T23:29:14.822434+00:00,49330978,38,How to ship a database every day,64,8
+2026-08-17T23:29:14.822434+00:00,49326816,39,Linear algebra done right,247,96
+2026-08-17T23:29:14.822434+00:00,49331288,40,Show HN: Learn Flags Quiz,39,22
+2026-08-17T23:29:14.822434+00:00,49331222,41,Apple's App Tracking Transparency treated its own apps better than rivals,236,93
+2026-08-17T23:29:14.822434+00:00,49324985,42,"Qwen 3.8 27B is excellent, but it defaults to overthinking things",751,355
+2026-08-17T23:29:14.822434+00:00,49329583,43,Mexico crackdown on coastal development,107,29
+2026-08-17T23:29:14.822434+00:00,49330215,44,Show HN: Sokoban AI Solver,66,40
+2026-08-17T23:29:14.822434+00:00,49333091,45,Theory of Fluids Enters the 21st Century,21,1
+2026-08-17T23:29:14.822434+00:00,49324087,46,Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing,753,669
+2026-08-17T23:29:14.822434+00:00,49333151,47,LLM City – 3D render of all Kimi K3's weights as 2.5mm tiles,16,3
+2026-08-17T23:29:14.822434+00:00,49336909,48,The Origin of Consciousness (2008),51,52
+2026-08-17T23:29:14.822434+00:00,49335271,49,"30-year Treasury yield tops 5.31%, the highest in 19 years",35,10
+2026-08-17T23:29:14.822434+00:00,49335017,50,Llama.cpp v0.1.0,41,8
