@@ -33850,3 +33850,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-17T20:34:39.543762+00:00,49290545,48,How do I permanently disable random Google Photos popup to backup photos? (2024),211,155
 2026-08-17T20:34:39.543762+00:00,49336561,49,XMPP Instead of Mail for Forgejo,5,0
 2026-08-17T20:34:39.543762+00:00,49284983,50,How Go detects struct copies with sync.noCopy,58,57
+2026-08-17T21:32:12.108444+00:00,49334991,1,"GPU Offload in Rust: Portable, Safe, and Fast",96,21
+2026-08-17T21:32:12.108444+00:00,49330781,2,A Preview of DuckDB v2.0,464,77
+2026-08-17T21:32:12.108444+00:00,49336573,3,AI;DR (AI; Didn't Read),319,189
+2026-08-17T21:32:12.108444+00:00,49331423,4,AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira,274,113
+2026-08-17T21:32:12.108444+00:00,49330597,5,Incident with Github.com,431,824
+2026-08-17T21:32:12.108444+00:00,49336304,6,India has paved the way for charging merchants a fee on UPI transactions,59,42
+2026-08-17T21:32:12.108444+00:00,49333824,7,Sun Clock,128,41
+2026-08-17T21:32:12.108444+00:00,49329575,8,"GPT 5.6 Sol is the best ""vision"" model OpenAI ever released",275,140
+2026-08-17T21:32:12.108444+00:00,49331220,9,How to disable or avoid intrusive AI,206,112
+2026-08-17T21:32:12.108444+00:00,49270194,10,Olo (Color),229,54
+2026-08-17T21:32:12.108444+00:00,49333344,11,Judge sets framework for Nine PBS to retrieve archival data,86,38
+2026-08-17T21:32:12.108444+00:00,49335517,12,Roboflow Playground: Try and Compare 30 Computer Vision Models,26,2
+2026-08-17T21:32:12.108444+00:00,49336909,13,The Origin of Consciousness (2008),17,4
+2026-08-17T21:32:12.108444+00:00,49332751,14,Launch HN: Speko (YC S26) – OpenRouter for Voice AI,80,49
+2026-08-17T21:32:12.108444+00:00,49334409,15,An update on leaving Gmail for Fastmail,46,26
+2026-08-17T21:32:12.108444+00:00,49288644,16,Marketers are Addicted to Bad Data (2020),27,31
+2026-08-17T21:32:12.108444+00:00,49295179,17,A simple fix for LLM tail latency,9,1
+2026-08-17T21:32:12.108444+00:00,49331033,18,Ask HN: Alternatives to GitHub,430,275
+2026-08-17T21:32:12.108444+00:00,49334544,19,Qwen3.8 27B scores 52 on Artificial Analysis,237,109
+2026-08-17T21:32:12.108444+00:00,49272891,20,A particle made of force: physicists say they've found mysterious 'glueball',67,2
+2026-08-17T21:32:12.108444+00:00,49335001,21,We Are Forking dotenvy into dotenv-ng,29,28
+2026-08-17T21:32:12.108444+00:00,49335600,22,"Los Puesteros, solitary men who look after ranches and livestock in Patagonia",84,31
+2026-08-17T21:32:12.108444+00:00,49289898,23,The oldest bar in every state,39,19
+2026-08-17T21:32:12.108444+00:00,49331474,24,How to put 170 atoms in an atom,88,19
+2026-08-17T21:32:12.108444+00:00,49334209,25,"Cursor launches Origin, GitHub alternative",58,22
+2026-08-17T21:32:12.108444+00:00,49336672,26,Will you have spent more of your life with computers than your family?,65,53
+2026-08-17T21:32:12.108444+00:00,49323474,27,How I developed an Am29000 C compiler and web browser,72,11
+2026-08-17T21:32:12.108444+00:00,49330215,28,Show HN: Sokoban AI Solver,63,35
+2026-08-17T21:32:12.108444+00:00,49325789,29,On AI regulation and messaging,222,475
+2026-08-17T21:32:12.108444+00:00,49327643,30,Show HN: Desktopcolors.com – A museum for solid background colors of classic OS,126,57
+2026-08-17T21:32:12.108444+00:00,49331288,31,Show HN: Learn Flags Quiz,36,20
+2026-08-17T21:32:12.108444+00:00,49331222,32,Apple's App Tracking Transparency treated its own apps better than rivals,235,90
+2026-08-17T21:32:12.108444+00:00,49330978,33,How to ship a database every day,58,8
+2026-08-17T21:32:12.108444+00:00,49333091,34,Theory of Fluids Enters the 21st Century,17,1
+2026-08-17T21:32:12.108444+00:00,49326816,35,Linear algebra done right,239,95
+2026-08-17T21:32:12.108444+00:00,49335271,36,"30-year Treasury yield tops 5.31%, the highest in 19 years",30,6
+2026-08-17T21:32:12.108444+00:00,49329583,37,Mexico crackdown on coastal development,106,26
+2026-08-17T21:32:12.108444+00:00,49324985,38,"Qwen 3.8 27B is excellent, but it defaults to overthinking things",746,353
+2026-08-17T21:32:12.108444+00:00,49333151,39,LLM City – 3D render of all Kimi K3's weights as 2.5mm tiles,14,2
+2026-08-17T21:32:12.108444+00:00,49333932,40,Buy Your Friends Batteries,116,134
+2026-08-17T21:32:12.108444+00:00,49324087,41,Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing,748,652
+2026-08-17T21:32:12.108444+00:00,49332564,42,Anthropic's War on open source AI,121,51
+2026-08-17T21:32:12.108444+00:00,49333084,43,Show HN: UL-SMF – Open-source linear-complexity ~300x KV-cache compression,9,0
+2026-08-17T21:32:12.108444+00:00,49334960,44,"Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",82,58
+2026-08-17T21:32:12.108444+00:00,49325714,45,AGI-64 Brings Sierra Adventures to the Commodore 64,124,24
+2026-08-17T21:32:12.108444+00:00,49290545,46,How do I permanently disable random Google Photos popup to backup photos? (2024),211,159
+2026-08-17T21:32:12.108444+00:00,49336561,47,XMPP Instead of Mail for Forgejo,8,0
+2026-08-17T21:32:12.108444+00:00,49335017,48,Llama.cpp v0.1.0,38,8
+2026-08-17T21:32:12.108444+00:00,49333448,49,Flock-style scanners now track WiFi/Bluetooth identity from devices in your car,35,16
+2026-08-17T21:32:12.108444+00:00,49335468,50,Tim O'Reilly – Why Open Source Matters for AI,16,0
