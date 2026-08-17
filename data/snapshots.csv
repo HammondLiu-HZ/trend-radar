@@ -33065,3 +33065,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-17T03:07:08.776177+00:00,49318735,48,AI Coding Without the Vibes,80,48
 2026-08-17T03:07:08.776177+00:00,49325509,49,Inverse Problem,4,0
 2026-08-17T03:07:08.776177+00:00,49316872,50,Falstad Math and Physics Simulations,66,14
+2026-08-17T04:51:49.194102+00:00,49324985,1,"Qwen 3.8 27B is excellent, but it defaults to overthinking things",200,82
+2026-08-17T04:51:49.194102+00:00,49325185,2,The Life and Death of Direct File [pdf],129,52
+2026-08-17T04:51:49.194102+00:00,49325714,3,AGI-64 Brings Sierra Adventures to the Commodore 64,36,4
+2026-08-17T04:51:49.194102+00:00,49321717,4,"A 3rd World Embedded Engineer Responds to ""RISC-V They Should Have Known Better""",415,227
+2026-08-17T04:51:49.194102+00:00,49326229,5,Gmail might partially be to blame for receiving emails from other Sean Conners,18,14
+2026-08-17T04:51:49.194102+00:00,49319556,6,Claude: System Prompts,587,241
+2026-08-17T04:51:49.194102+00:00,49325384,7,Rhombus 1.1 is now available,38,13
+2026-08-17T04:51:49.194102+00:00,49325061,8,Reticulum – Decentralized Mesh Network,44,11
+2026-08-17T04:51:49.194102+00:00,49259980,9,Low-Tech Ceramic Water Filter,132,33
+2026-08-17T04:51:49.194102+00:00,49231418,10,"Interview with Amit Patel, Creator of ""Solar Realms Elite""",31,5
+2026-08-17T04:51:49.194102+00:00,49257362,11,Dancing with friends and enemies: boids' swarm intelligence,33,1
+2026-08-17T04:51:49.194102+00:00,49285096,12,SIMD in the 90s: Programming Intel's Pentium MMX,88,39
+2026-08-17T04:51:49.194102+00:00,49325304,13,"Applying a photosynthetic process to treat ""dry eye""",16,0
+2026-08-17T04:51:49.194102+00:00,49322573,14,Protobuf has LSP support. You're welcome,132,85
+2026-08-17T04:51:49.194102+00:00,49290545,15,How do I permanently disable Google Photos pop-up prompt to backup my photos?,37,13
+2026-08-17T04:51:49.194102+00:00,49320611,16,The AI Credit Resale Economy,251,99
+2026-08-17T04:51:49.194102+00:00,49322330,17,"MathCode, Mathematical Coding Agent",76,25
+2026-08-17T04:51:49.194102+00:00,49325458,18,Prolly: A content-addressed ordered map built on prolly trees,14,0
+2026-08-17T04:51:49.194102+00:00,49313920,19,Plastic mechanical computer from 1963: The Digi-Comp 1 [video],60,16
+2026-08-17T04:51:49.194102+00:00,49303776,20,A quick look at zero-knowledge proofs,66,33
+2026-08-17T04:51:49.194102+00:00,49323686,21,Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee,158,64
+2026-08-17T04:51:49.194102+00:00,49323136,22,Red queen hypothesis – a new way forward for self-improving AI,29,2
+2026-08-17T04:51:49.194102+00:00,49281352,23,Clamiga: Common Lisp for the Amiga,98,12
+2026-08-17T04:51:49.194102+00:00,49306021,24,Anton Chekhov played at love most of his life,77,17
+2026-08-17T04:51:49.194102+00:00,49319633,25,Firefox for iOS now has a native adblocker,587,241
+2026-08-17T04:51:49.194102+00:00,49325159,26,The federal keyword lists that canceled billions in research funding,167,58
+2026-08-17T04:51:49.194102+00:00,49322107,27,Tell HN: Cloudflare silently injects its analytics when you switch nameservers,349,94
+2026-08-17T04:51:49.194102+00:00,49323381,28,Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter,244,175
+2026-08-17T04:51:49.194102+00:00,49319349,29,A True Telnet BBS on a Casio Calculator,94,9
+2026-08-17T04:51:49.194102+00:00,49320856,30,"St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",167,130
+2026-08-17T04:51:49.194102+00:00,49286891,31,The Marvelously Inventive Life of Mária Telkes (2023),4,1
+2026-08-17T04:51:49.194102+00:00,49325937,33,"If Meta loses this trial, Instagram and Facebook could change forever",16,3
+2026-08-17T04:51:49.194102+00:00,49292385,34,Chestnut – eGPU dock with open-source firmware,139,42
+2026-08-17T04:51:49.194102+00:00,49260268,35,"Before Rightmove, there was the Cosmorama",26,3
+2026-08-17T04:51:49.194102+00:00,49268565,36,A SAT Attack on Tarski's High School Algebra Problem,90,35
+2026-08-17T04:51:49.194102+00:00,49277952,37,Does anyone run Postgres without PgBouncer?,143,95
+2026-08-17T04:51:49.194102+00:00,49322695,38,Models Are Getting Dumber on Purpose,296,164
+2026-08-17T04:51:49.194102+00:00,49326443,39,Hayden Panetierre Dies at 36,4,3
+2026-08-17T04:51:49.194102+00:00,49263928,40,The FastLanes Unified Transport Layout,3,0
+2026-08-17T04:51:49.194102+00:00,49319389,41,"Research papers using ""kidney disappointment"" instead of ""kidney failure""",374,132
+2026-08-17T04:51:49.194102+00:00,49277153,42,Superconducting monolayer cuprate with a single CuO2 plane,65,15
+2026-08-17T04:51:49.194102+00:00,49279624,43,Archie G. Norcross' Maine Forest Fire Maps (1918–22),27,3
+2026-08-17T04:51:49.194102+00:00,49280186,44,The deep history behind the Road to Nowhere inside the Great Smoky Mountains,27,10
+2026-08-17T04:51:49.194102+00:00,49321353,45,NIH is ending a key grant for budding clinical researchers,144,73
+2026-08-17T04:51:49.194102+00:00,49318735,46,AI Coding Without the Vibes,81,48
+2026-08-17T04:51:49.194102+00:00,49325115,47,TSMC Uses Old Fabs to Make New Chips [video],14,3
+2026-08-17T04:51:49.194102+00:00,49244872,48,A fortuitous decade as an indie software developer,160,35
+2026-08-17T04:51:49.194102+00:00,49316872,49,Falstad Math and Physics Simulations,67,14
+2026-08-17T04:51:49.194102+00:00,49314902,50,Software Engineering fundamentals matter more,297,219
