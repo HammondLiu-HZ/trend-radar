@@ -33751,3 +33751,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-17T18:50:22.538269+00:00,49290545,48,How do I permanently disable random Google Photos popup to backup photos? (2024),210,152
 2026-08-17T18:50:22.538269+00:00,49333151,49,LLM City – 3D render of all Kimi K3's weights as 2.5mm tiles,3,1
 2026-08-17T18:50:22.538269+00:00,49333091,50,Theory of Fluids Enters the 21st Century,4,1
+2026-08-17T19:33:45.037868+00:00,49330781,1,A Preview of DuckDB v2.0,390,61
+2026-08-17T19:33:45.037868+00:00,49331423,2,AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira,218,102
+2026-08-17T19:33:45.037868+00:00,49330597,3,Incident with Github.com,339,767
+2026-08-17T19:33:45.037868+00:00,49334991,4,"GPU Offload in Rust: Portable, Safe, and Fast",21,4
+2026-08-17T19:33:45.037868+00:00,49331220,5,How to disable or avoid intrusive AI,180,81
+2026-08-17T19:33:45.037868+00:00,49329575,6,"GPT 5.6 Sol is the best ""vision"" model OpenAI ever released",244,128
+2026-08-17T19:33:45.037868+00:00,49332751,7,Launch HN: Speko (YC S26) – OpenRouter for Voice AI,67,44
+2026-08-17T19:33:45.037868+00:00,49333344,8,Judge sets framework for Nine PBS to retrieve archival data,52,16
+2026-08-17T19:33:45.037868+00:00,49333824,9,Sun Clock,61,24
+2026-08-17T19:33:45.037868+00:00,49270194,10,Olo (Color),173,44
+2026-08-17T19:33:45.037868+00:00,49335517,11,Roboflow Playground: Try and Compare 30 Computer Vision Models,7,0
+2026-08-17T19:33:45.037868+00:00,49335001,12,We Are Forking dotenvy into dotenv-ng,13,9
+2026-08-17T19:33:45.037868+00:00,49334544,13,Qwen3.8 27B scores 52 on Artificial Analysis,150,71
+2026-08-17T19:33:45.037868+00:00,49331033,14,Ask HN: Alternatives to GitHub,376,243
+2026-08-17T19:33:45.037868+00:00,49335292,15,How I Over-Engineered My Book,18,11
+2026-08-17T19:33:45.037868+00:00,49335600,16,"The Lonely Men Who Work in Patagonia, at the End of the World",47,10
+2026-08-17T19:33:45.037868+00:00,49336050,17,AirTag reveals Amazon is trashing rare books to train AI,23,3
+2026-08-17T19:33:45.037868+00:00,49331474,18,How to put 170 atoms in an atom,75,10
+2026-08-17T19:33:45.037868+00:00,49335017,19,Llama.cpp v0.1.0,28,6
+2026-08-17T19:33:45.037868+00:00,49324087,20,Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing,722,628
+2026-08-17T19:33:45.037868+00:00,49323474,21,How I developed an Am29000 C compiler and web browser,61,9
+2026-08-17T19:33:45.037868+00:00,49288644,22,Marketers are Addicted to Bad Data (2020),7,8
+2026-08-17T19:33:45.037868+00:00,49330215,23,Show HN: Sokoban AI Solver,57,32
+2026-08-17T19:33:45.037868+00:00,49272891,24,A particle made of force: physicists say they've found mysterious 'glueball',41,1
+2026-08-17T19:33:45.037868+00:00,49335216,25,"Amazon, which started off selling books, is destroying rare texts to train AI",40,12
+2026-08-17T19:33:45.037868+00:00,49331288,26,Show HN: Learn Flags Quiz,32,15
+2026-08-17T19:33:45.037868+00:00,49331551,27,"Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",34,31
+2026-08-17T19:33:45.037868+00:00,49331222,28,Apple's App Tracking Transparency treated its own apps better than rivals,216,80
+2026-08-17T19:33:45.037868+00:00,49325789,29,On AI regulation and messaging,216,452
+2026-08-17T19:33:45.037868+00:00,49327643,30,Show HN: Desktopcolors.com – A museum for solid background colors of classic OS,111,48
+2026-08-17T19:33:45.037868+00:00,49330978,31,How to ship a database every day,51,8
+2026-08-17T19:33:45.037868+00:00,49333932,32,Buy Your Friends Batteries,105,122
+2026-08-17T19:33:45.037868+00:00,49334409,33,An Update on Leaving Gmail for Fastmail,9,2
+2026-08-17T19:33:45.037868+00:00,49329583,34,Mexico crackdown on coastal development,103,26
+2026-08-17T19:33:45.037868+00:00,49335271,35,"30-year Treasury yield tops 5.31%, the highest in 19 years",15,2
+2026-08-17T19:33:45.037868+00:00,49334960,36,"Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",65,48
+2026-08-17T19:33:45.037868+00:00,49335163,37,Meta faces 'astronomical' consequences as legal fight reaches critical moment,50,43
+2026-08-17T19:33:45.037868+00:00,49326816,38,Linear algebra done right,226,92
+2026-08-17T19:33:45.037868+00:00,49332564,39,Anthropic's War on open source AI,104,44
+2026-08-17T19:33:45.037868+00:00,49324985,40,"Qwen 3.8 27B is excellent, but it defaults to overthinking things",742,350
+2026-08-17T19:33:45.037868+00:00,49333091,41,Theory of Fluids Enters the 21st Century,8,1
+2026-08-17T19:33:45.037868+00:00,49333084,42,Show HN: UL-SMF – Open-source linear-complexity ~300x KV-cache compression,6,0
+2026-08-17T19:33:45.037868+00:00,49335009,43,Apple AirTag reveals how Amazon destroys rare books for AI training,13,2
+2026-08-17T19:33:45.037868+00:00,49335468,44,Tim O'Reilly – Why Open Source Matters for AI,7,0
+2026-08-17T19:33:45.037868+00:00,49330456,46,Online clinics and influencers are promoting Cialis as a longevity drug,86,62
+2026-08-17T19:33:45.037868+00:00,49333151,47,LLM City – 3D render of all Kimi K3's weights as 2.5mm tiles,6,1
+2026-08-17T19:33:45.037868+00:00,49333448,48,Flock-style scanners now track WiFi/Bluetooth identity from devices in your car,23,10
+2026-08-17T19:33:45.037868+00:00,49289893,49,Cross-Validation From Scratch and a Surprise at n=100,4,0
+2026-08-17T19:33:45.037868+00:00,49284983,50,How Go detects struct copies with sync.noCopy,58,57
