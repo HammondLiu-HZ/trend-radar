@@ -33163,3 +33163,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-17T05:40:33.112452+00:00,49316872,48,Falstad Math and Physics Simulations,68,14
 2026-08-17T05:40:33.112452+00:00,49316271,49,Patterns and problems in emerging multi-agent systems,181,130
 2026-08-17T05:40:33.112452+00:00,49326106,50,old.reddit.com Now Requires a Login,19,19
+2026-08-17T07:08:56.715322+00:00,49324985,1,"Qwen 3.8 27B is excellent, but it defaults to overthinking things",331,138
+2026-08-17T07:08:56.715322+00:00,49325185,2,The Life and Death of Direct File [pdf],174,80
+2026-08-17T07:08:56.715322+00:00,49326816,3,Linear Algebra Done Right – Sheldon Axler,17,5
+2026-08-17T07:08:56.715322+00:00,49321717,4,A third world engineer responds to “RISC-V: They should have known better”,465,240
+2026-08-17T07:08:56.715322+00:00,49325714,5,AGI-64 Brings Sierra Adventures to the Commodore 64,66,9
+2026-08-17T07:08:56.715322+00:00,49325061,6,Reticulum – Decentralized Mesh Network,91,22
+2026-08-17T07:08:56.715322+00:00,49319556,7,Claude: System Prompts,625,249
+2026-08-17T07:08:56.715322+00:00,49325384,8,Rhombus 1.1 is now available,61,21
+2026-08-17T07:08:56.715322+00:00,49259980,9,Low-Tech Ceramic Water Filter,156,41
+2026-08-17T07:08:56.715322+00:00,49325304,10,Applying a photosynthetic process to treat “dry eye”,37,7
+2026-08-17T07:08:56.715322+00:00,49245021,11,"Show HN: Vocal Slice – Cut audio by selecting text, fully on-device",14,5
+2026-08-17T07:08:56.715322+00:00,49231418,12,"Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)",47,11
+2026-08-17T07:08:56.715322+00:00,49285096,13,SIMD in the 90s: Programming Intel's Pentium MMX,108,43
+2026-08-17T07:08:56.715322+00:00,49298932,14,Design 3D-printable parts by talking,8,3
+2026-08-17T07:08:56.715322+00:00,49326156,15,GIMP Development Update,19,0
+2026-08-17T07:08:56.715322+00:00,49326825,16,$12B of US ratepayers' money wasted on a modeling mistake in PJM,23,6
+2026-08-17T07:08:56.715322+00:00,49326071,17,Strong gravitational lensing and microlensing of supernovae (2024),9,1
+2026-08-17T07:08:56.715322+00:00,49325458,18,Prolly: A content-addressed ordered map built on prolly trees,31,1
+2026-08-17T07:08:56.715322+00:00,49257362,19,Dancing with friends and enemies: boids' swarm intelligence (2012),38,4
+2026-08-17T07:08:56.715322+00:00,49320611,20,The AI Credit Resale Economy,268,113
+2026-08-17T07:08:56.715322+00:00,49290545,21,How do I permanently disable random Google Photos popup to backup photos? (2024),88,54
+2026-08-17T07:08:56.715322+00:00,49322330,22,"MathCode, Mathematical Coding Agent",86,27
+2026-08-17T07:08:56.715322+00:00,49323381,23,Stripe will reportedly acquire OpenRouter for $7B+,300,198
+2026-08-17T07:08:56.715322+00:00,49322573,24,Protobuf has LSP support. You're welcome,141,92
+2026-08-17T07:08:56.715322+00:00,49323136,25,Red queen hypothesis – A new way forward for self-improving AI,44,7
+2026-08-17T07:08:56.715322+00:00,49313920,26,Plastic mechanical computer from 1963: The Digi-Comp 1 [video],64,16
+2026-08-17T07:08:56.715322+00:00,49281352,27,Clamiga: Common Lisp for the Amiga,104,14
+2026-08-17T07:08:56.715322+00:00,49323686,28,Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee,192,87
+2026-08-17T07:08:56.715322+00:00,49319633,29,Firefox for iOS now has a native adblocker,629,253
+2026-08-17T07:08:56.715322+00:00,49322107,30,Tell HN: Cloudflare silently injects its analytics when you switch nameservers,433,109
+2026-08-17T07:08:56.715322+00:00,49306021,31,Anton Chekhov played at love most of his life,84,23
+2026-08-17T07:08:56.715322+00:00,49320856,32,"St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",184,136
+2026-08-17T07:08:56.715322+00:00,49325159,33,The federal keyword lists that canceled billions in research funding,202,92
+2026-08-17T07:08:56.715322+00:00,49319349,34,A True Telnet BBS on a Casio Calculator,103,11
+2026-08-17T07:08:56.715322+00:00,49292385,36,Chestnut – eGPU dock with open-source firmware,141,42
+2026-08-17T07:08:56.715322+00:00,49277952,37,Does anyone run Postgres without PgBouncer?,147,94
+2026-08-17T07:08:56.715322+00:00,49268565,38,A SAT Attack on Tarski's High School Algebra Problem,92,35
+2026-08-17T07:08:56.715322+00:00,49260268,39,"Before Rightmove, there was the Cosmorama",27,3
+2026-08-17T07:08:56.715322+00:00,49277153,40,Superconducting monolayer cuprate with a single CuO2 plane,67,15
+2026-08-17T07:08:56.715322+00:00,49263928,41,The FastLanes Unified Transport Layout,5,0
+2026-08-17T07:08:56.715322+00:00,49319389,42,"Research papers using ""kidney disappointment"" instead of ""kidney failure""",385,134
+2026-08-17T07:08:56.715322+00:00,49279624,43,Archie G. Norcross' Maine Forest Fire Maps (1918–22),27,3
+2026-08-17T07:08:56.715322+00:00,49322695,44,Models Are Getting Dumber on Purpose,304,170
+2026-08-17T07:08:56.715322+00:00,49286891,45,The Marvelously Inventive Life of Mária Telkes (2023),6,1
+2026-08-17T07:08:56.715322+00:00,49321353,46,NIH is ending a key grant for budding clinical researchers,149,75
+2026-08-17T07:08:56.715322+00:00,49303776,47,A quick look at zero-knowledge proofs,68,43
+2026-08-17T07:08:56.715322+00:00,49325937,48,"If Meta loses this trial, Instagram and Facebook could change forever",27,5
+2026-08-17T07:08:56.715322+00:00,49280186,49,The deep history behind the Road to Nowhere inside the Great Smoky Mountains,28,10
+2026-08-17T07:08:56.715322+00:00,49316872,50,Falstad Math and Physics Simulations,69,14
