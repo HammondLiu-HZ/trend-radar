@@ -33900,3 +33900,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-17T21:32:12.108444+00:00,49335017,48,Llama.cpp v0.1.0,38,8
 2026-08-17T21:32:12.108444+00:00,49333448,49,Flock-style scanners now track WiFi/Bluetooth identity from devices in your car,35,16
 2026-08-17T21:32:12.108444+00:00,49335468,50,Tim O'Reilly – Why Open Source Matters for AI,16,0
+2026-08-17T22:31:30.075549+00:00,49334991,1,"GPU Offload in Rust: Portable, Safe, and Fast",126,24
+2026-08-17T22:31:30.075549+00:00,49330781,2,A Preview of DuckDB v2.0,490,85
+2026-08-17T22:31:30.075549+00:00,49338459,3,Bluesky draws its logo on screenshots,10,1
+2026-08-17T22:31:30.075549+00:00,49331423,4,AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira,289,120
+2026-08-17T22:31:30.075549+00:00,49330597,5,Incident with Github.com,472,848
+2026-08-17T22:31:30.075549+00:00,49338285,6,Fairphone 6 and PostmarketOS working main camera,14,0
+2026-08-17T22:31:30.075549+00:00,49336909,7,The Origin of Consciousness (2008),41,32
+2026-08-17T22:31:30.075549+00:00,49336573,8,AI;DR (AI; Didn't Read),430,262
+2026-08-17T22:31:30.075549+00:00,49333824,9,Sun Clock,148,45
+2026-08-17T22:31:30.075549+00:00,49331220,10,How to disable or avoid intrusive AI,221,120
+2026-08-17T22:31:30.075549+00:00,49279146,11,Intriguing Stories in Computer Science,12,0
+2026-08-17T22:31:30.075549+00:00,49329575,12,"GPT 5.6 Sol is the best ""vision"" model OpenAI ever released",283,147
+2026-08-17T22:31:30.075549+00:00,49270194,13,Olo (Color),253,59
+2026-08-17T22:31:30.075549+00:00,49333344,14,Judge sets framework for Nine PBS to retrieve archival data,102,41
+2026-08-17T22:31:30.075549+00:00,49335517,15,Roboflow Playground: Try and Compare 30 Computer Vision Models,30,3
+2026-08-17T22:31:30.075549+00:00,49332751,16,Launch HN: Speko (YC S26) – OpenRouter for Voice AI,81,50
+2026-08-17T22:31:30.075549+00:00,49272891,17,A particle made of force: physicists say they've found mysterious 'glueball',81,4
+2026-08-17T22:31:30.075549+00:00,49288644,18,Marketers are Addicted to Bad Data (2020),32,37
+2026-08-17T22:31:30.075549+00:00,49331033,19,Ask HN: Alternatives to GitHub,453,289
+2026-08-17T22:31:30.075549+00:00,49295179,20,A simple fix for LLM tail latency,22,7
+2026-08-17T22:31:30.075549+00:00,49334544,21,Qwen3.8 27B scores 52 on Artificial Analysis,259,118
+2026-08-17T22:31:30.075549+00:00,49336304,22,India has paved the way for charging merchants a fee on UPI transactions,74,64
+2026-08-17T22:31:30.075549+00:00,49289898,23,The oldest bar in every state,45,26
+2026-08-17T22:31:30.075549+00:00,49334409,24,An update on leaving Gmail for Fastmail,72,61
+2026-08-17T22:31:30.075549+00:00,49331474,25,How to put 170 atoms in an atom,95,20
+2026-08-17T22:31:30.075549+00:00,49335001,26,We Are Forking dotenvy into dotenv-ng,30,29
+2026-08-17T22:31:30.075549+00:00,49338404,27,"Nation's Largest Reservoirs Are Drying Up, Threatening Life in the Southwest",9,3
+2026-08-17T22:31:30.075549+00:00,49335600,28,"Los Puesteros, solitary men who look after ranches and livestock in Patagonia",92,35
+2026-08-17T22:31:30.075549+00:00,49337630,29,How do functions like alloca allocate memory from the stack?,3,0
+2026-08-17T22:31:30.075549+00:00,49323474,30,How I developed an Am29000 C compiler and web browser,74,11
+2026-08-17T22:31:30.075549+00:00,49330215,31,Show HN: Sokoban AI Solver,65,38
+2026-08-17T22:31:30.075549+00:00,49325789,32,On AI regulation and messaging,227,485
+2026-08-17T22:31:30.075549+00:00,49327643,33,Show HN: Desktopcolors.com – A museum for solid background colors of classic OS,132,59
+2026-08-17T22:31:30.075549+00:00,49330978,34,How to ship a database every day,63,8
+2026-08-17T22:31:30.075549+00:00,49326816,35,Linear algebra done right,242,96
+2026-08-17T22:31:30.075549+00:00,49331288,36,Show HN: Learn Flags Quiz,38,22
+2026-08-17T22:31:30.075549+00:00,49331222,37,Apple's App Tracking Transparency treated its own apps better than rivals,236,92
+2026-08-17T22:31:30.075549+00:00,49338272,38,"'Buy Now, Pay Later' Lenders Pitch Loans for Needs Like Electricity and Rent",6,4
+2026-08-17T22:31:30.075549+00:00,49333091,39,Theory of Fluids Enters the 21st Century,19,1
+2026-08-17T22:31:30.075549+00:00,49324985,40,"Qwen 3.8 27B is excellent, but it defaults to overthinking things",747,354
+2026-08-17T22:31:30.075549+00:00,49329583,41,Mexico crackdown on coastal development,107,28
+2026-08-17T22:31:30.075549+00:00,49335271,42,"30-year Treasury yield tops 5.31%, the highest in 19 years",34,7
+2026-08-17T22:31:30.075549+00:00,49333151,43,LLM City – 3D render of all Kimi K3's weights as 2.5mm tiles,16,2
+2026-08-17T22:31:30.075549+00:00,49334754,44,Show HN: Tesana – An AI game engine that builds quality games end-to-end,8,4
+2026-08-17T22:31:30.075549+00:00,49324087,45,Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing,751,661
+2026-08-17T22:31:30.075549+00:00,49333932,46,Buy Your Friends Batteries,121,136
+2026-08-17T22:31:30.075549+00:00,49290545,47,How do I permanently disable random Google Photos popup to backup photos? (2024),212,160
+2026-08-17T22:31:30.075549+00:00,49325714,48,AGI-64 Brings Sierra Adventures to the Commodore 64,124,24
+2026-08-17T22:31:30.075549+00:00,49335017,49,Llama.cpp v0.1.0,39,8
+2026-08-17T22:31:30.075549+00:00,49333084,50,Show HN: UL-SMF – Open-source linear-complexity ~300x KV-cache compression,9,0
