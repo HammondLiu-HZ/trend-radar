@@ -34850,3 +34850,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-18T18:49:05.334216+00:00,49345070,48,Deus Ex creator Warren Spector is retiring from game development,103,72
 2026-08-18T18:49:05.334216+00:00,49346733,49,"Show HN: Go CLI for website health checks, zero dependencies",8,0
 2026-08-18T18:49:05.334216+00:00,49338459,50,How Bluesky draws its logo on screenshots,675,420
+2026-08-18T19:33:07.371804+00:00,49349898,1,Turbovec – Google's TurboQuant for vector search in Rust,76,10
+2026-08-18T19:33:07.371804+00:00,49344825,2,Using the railway network as a flatbed scanner,315,52
+2026-08-18T19:33:07.371804+00:00,49345263,3,The Amazon tax,599,412
+2026-08-18T19:33:07.371804+00:00,49349984,4,How does IKEA come up with names for its products?,88,55
+2026-08-18T19:33:07.371804+00:00,49345220,5,Fixing a bricked Framework laptop,267,176
+2026-08-18T19:33:07.371804+00:00,49349147,6,Data centers raise nearby temperatures by up to 4 degrees in Phoenix,183,206
+2026-08-18T19:33:07.371804+00:00,49334209,7,"Cursor launches Origin, GitHub alternative",296,235
+2026-08-18T19:33:07.371804+00:00,49342719,8,Linux 7.3 improves performance when running out of vRAM,452,205
+2026-08-18T19:33:07.371804+00:00,49297150,9,"We've flown a radiation-blocking vest to the Moon and back, and it worked",37,18
+2026-08-18T19:33:07.371804+00:00,49345476,10,Python Polars Cheatsheet (based on our O'Reilly book),115,17
+2026-08-18T19:33:07.371804+00:00,49348136,11,Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI,29,29
+2026-08-18T19:33:07.371804+00:00,49351330,12,Norway Should Buy OpenAI,3,0
+2026-08-18T19:33:07.371804+00:00,49309248,13,Evolve: An incremental game about evolving a civilization,20,7
+2026-08-18T19:33:07.371804+00:00,49310602,14,Splitting a Git Commit,87,40
+2026-08-18T19:33:07.371804+00:00,49272631,15,Teaching my kid to code with a modern MUD,186,54
+2026-08-18T19:33:07.371804+00:00,49334960,16,Memory prices climb 500% in 12 months,257,192
+2026-08-18T19:33:07.371804+00:00,49350980,17,IndieWeb Homebrew Website Club Asia Pacific: Reflections,3,0
+2026-08-18T19:33:07.371804+00:00,49350955,18,US announces new sanctions on top ICC figures,46,11
+2026-08-18T19:33:07.371804+00:00,49348152,19,"Superpowers, Not Superintelligence",25,36
+2026-08-18T19:33:07.371804+00:00,49348751,20,Claude Code May–August 2026 weekly limits promotion,221,175
+2026-08-18T19:33:07.371804+00:00,49347178,21,Show HN: Openleetcode – local LeetCode runner where tests live in the repo,27,11
+2026-08-18T19:33:07.371804+00:00,49287463,22,"2,500-year-old sculpture discovered at UNESCO site in Turkey",5,0
+2026-08-18T19:33:07.371804+00:00,49332981,23,Universal health coverage could save $1T and 114k lives a year: study,532,630
+2026-08-18T19:33:07.371804+00:00,49349159,24,Show HN: macOS data protection keychain for Electron apps,11,0
+2026-08-18T19:33:07.371804+00:00,49345843,25,Babies born under sugar rationing grew into adults with lower cancer risk,186,39
+2026-08-18T19:33:07.371804+00:00,49350637,26,Show HN: PantheonGPU – GPU health testing and AI workload benchmarking,6,0
+2026-08-18T19:33:07.371804+00:00,49350031,27,Pacing model development in an era of cyber-critical capabilities,7,0
+2026-08-18T19:33:07.371804+00:00,49344811,28,Fairphone is now officially available in the United States,297,150
+2026-08-18T19:33:07.371804+00:00,49340710,29,California's new tire efficiency rules could save drivers $1B a year,94,125
+2026-08-18T19:33:07.371804+00:00,49346538,30,Code-native generation of highly programmable 3D assets (2026),38,35
+2026-08-18T19:33:07.371804+00:00,49343559,31,Google has acquired the data of failed US airline Spirit,522,360
+2026-08-18T19:33:07.371804+00:00,49332495,32,Ask HN: GitHub employees what's going on? Why?,169,125
+2026-08-18T19:33:07.371804+00:00,49342530,33,Rethinking Database Programming,207,105
+2026-08-18T19:33:07.371804+00:00,49348912,34,And then the men with guns tell you to do it anyway,75,19
+2026-08-18T19:33:07.371804+00:00,49344654,35,"Meta Files Patent for Facial Recognition, Automatic Recording of People",223,144
+2026-08-18T19:33:07.371804+00:00,49348356,36,Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows,49,23
+2026-08-18T19:33:07.371804+00:00,49342472,37,Finger: Social network that never died,141,49
+2026-08-18T19:33:07.371804+00:00,49348627,38,Why your Amazon order confirmation emails have become so unhelpful,50,16
+2026-08-18T19:33:07.371804+00:00,49331551,39,"Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",57,51
+2026-08-18T19:33:07.371804+00:00,49305969,40,Baking a Model: A Metaphor for LLM Training,30,5
+2026-08-18T19:33:07.371804+00:00,49351223,41,Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt,4,1
+2026-08-18T19:33:07.371804+00:00,49348163,42,Degraded performance for multiple models,144,123
+2026-08-18T19:33:07.371804+00:00,49348079,43,Mojo is now open source!,78,19
+2026-08-18T19:33:07.371804+00:00,49347801,44,Humans aren't the only animals that seem to like having pets,11,1
+2026-08-18T19:33:07.371804+00:00,49348599,45,US Government is pushing to gain unprecedented access to your medical records,28,0
+2026-08-18T19:33:07.371804+00:00,49346135,46,Show HN: Shoehorn – Quantize any model down to run on your machine,34,3
+2026-08-18T19:33:07.371804+00:00,49344643,47,Claude writing a macOS driver for my obscure HP printer built only for Windows,133,58
+2026-08-18T19:33:07.371804+00:00,49350991,48,SEC Proposes New Regulation Crypto Assets,7,0
+2026-08-18T19:33:07.371804+00:00,49313360,49,"IBM Simon (1994): the original smartphone, explained in its own ad [video]",79,47
+2026-08-18T19:33:07.371804+00:00,49341411,50,Exercise intensity modulates interorgan communication and is associated with,92,51
