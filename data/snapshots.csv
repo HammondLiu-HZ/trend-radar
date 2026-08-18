@@ -34250,3 +34250,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-18T06:56:10.597232+00:00,49340315,48,What's Better Than Binary? – Advent of Computing Episode 187,5,0
 2026-08-18T06:56:10.597232+00:00,49335001,49,We Are Forking dotenvy into dotenv-ng,40,45
 2026-08-18T06:56:10.597232+00:00,49338139,50,My friends all hate AI; I just joined an AI startup,40,119
+2026-08-18T07:46:04.979237+00:00,49338459,1,How Bluesky draws its logo on screenshots,435,295
+2026-08-18T07:46:04.979237+00:00,49337602,2,GPT-5.6 Sol Pricing Cut by 50%,382,218
+2026-08-18T07:46:04.979237+00:00,49338328,3,"Quake Shareware, a CD-ROM just a little too full",302,129
+2026-08-18T07:46:04.979237+00:00,49338285,4,Fairphone 6 and PostmarketOS working main camera,158,36
+2026-08-18T07:46:04.979237+00:00,49340299,5,The Benchmarkpocalypse,74,13
+2026-08-18T07:46:04.979237+00:00,49330781,6,A Preview of DuckDB v2.0,613,110
+2026-08-18T07:46:04.979237+00:00,49285139,7,Shattered skeleton is first confirmed death from trebuchet,56,37
+2026-08-18T07:46:04.979237+00:00,49331423,8,AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira,359,138
+2026-08-18T07:46:04.979237+00:00,49270194,9,Olo (Color),408,78
+2026-08-18T07:46:04.979237+00:00,49334991,10,"GPU Offload in Rust: Portable, Safe, and Fast",201,41
+2026-08-18T07:46:04.979237+00:00,49269966,11,The Road to MS-DOS 2.0,62,22
+2026-08-18T07:46:04.979237+00:00,49337392,12,Israel creates fake think tank in likely attempt to dupe AI chatbots,397,258
+2026-08-18T07:46:04.979237+00:00,49334409,13,An update on leaving Gmail for Fastmail,200,130
+2026-08-18T07:46:04.979237+00:00,49329575,14,"GPT 5.6 Sol is the best ""vision"" model OpenAI ever released",335,161
+2026-08-18T07:46:04.979237+00:00,49331220,15,How to disable or avoid intrusive AI,290,168
+2026-08-18T07:46:04.979237+00:00,49336573,16,AI;DR (AI; Didn't Read),821,512
+2026-08-18T07:46:04.979237+00:00,49333344,17,Judge sets framework for Nine PBS to retrieve archival data,160,62
+2026-08-18T07:46:04.979237+00:00,49336304,18,India has paved the way for charging merchants a fee on UPI transactions,141,165
+2026-08-18T07:46:04.979237+00:00,49335600,19,"Los Puesteros, solitary men who look after ranches and livestock in Patagonia",138,48
+2026-08-18T07:46:04.979237+00:00,49333824,20,Sun Clock,218,73
+2026-08-18T07:46:04.979237+00:00,49339097,21,Repair Cafe – Fix Your Broken Items,90,15
+2026-08-18T07:46:04.979237+00:00,49288129,22,The 37signals Manager Playbook,54,4
+2026-08-18T07:46:04.979237+00:00,49337630,23,How do functions like alloca allocate memory from the stack?,49,30
+2026-08-18T07:46:04.979237+00:00,49318607,24,Climbing Guide as a Shared Infrastructure,4,0
+2026-08-18T07:46:04.979237+00:00,49332751,25,Launch HN: Speko (YC S26) – OpenRouter for Voice AI,100,58
+2026-08-18T07:46:04.979237+00:00,49272891,26,A particle made of force: physicists say they've found mysterious 'glueball',126,34
+2026-08-18T07:46:04.979237+00:00,49331033,27,Ask HN: Alternatives to GitHub,579,366
+2026-08-18T07:46:04.979237+00:00,49294913,28,A digestion of the proof of Sendov's conjecture,27,11
+2026-08-18T07:46:04.979237+00:00,49338428,29,scScript for Linux,32,11
+2026-08-18T07:46:04.979237+00:00,49341774,30,"Micron, SK Commit Billions to RAM Capacity, but Almost Nothing Lands Before 2028",10,1
+2026-08-18T07:46:04.979237+00:00,49324256,31,Ghosts of the Past and Devils of the Present,7,0
+2026-08-18T07:46:04.979237+00:00,49341411,32,Exercise intensity modulates interorgan communication and is associated with,4,1
+2026-08-18T07:46:04.979237+00:00,49342314,33,Nvidia discloses $21B stake in SpaceX,6,0
+2026-08-18T07:46:04.979237+00:00,49341009,34,"Expert Witness to ChatGPT: ""Show how 3M is 0 percent at fault""",37,16
+2026-08-18T07:46:04.979237+00:00,49331474,35,How to put 170 atoms in an atom,108,26
+2026-08-18T07:46:04.979237+00:00,49335517,36,Roboflow Playground: Try and Compare 30 Computer Vision Models,49,3
+2026-08-18T07:46:04.979237+00:00,49295179,37,A simple fix for LLM tail latency,47,17
+2026-08-18T07:46:04.979237+00:00,49289898,38,The oldest bar in every state,71,36
+2026-08-18T07:46:04.979237+00:00,49325789,39,On AI regulation and messaging,240,510
+2026-08-18T07:46:04.979237+00:00,49327643,40,Show HN: Desktopcolors.com – A museum for solid background colors of classic OS,145,65
+2026-08-18T07:46:04.979237+00:00,49334544,41,Qwen3.8 27B scores 52 on Artificial Analysis,342,152
+2026-08-18T07:46:04.979237+00:00,49326816,42,Linear algebra done right,262,103
+2026-08-18T07:46:04.979237+00:00,49323474,43,How I developed an Am29000 C compiler and web browser,83,14
+2026-08-18T07:46:04.979237+00:00,49324985,44,"Qwen 3.8 27B is excellent, but it defaults to overthinking things",767,365
+2026-08-18T07:46:04.979237+00:00,49336919,45,"GitHub degradation affects Cursor Origin, its new Git platform",53,18
+2026-08-18T07:46:04.979237+00:00,49339599,46,"Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",69,27
+2026-08-18T07:46:04.979237+00:00,49338139,47,My friends all hate AI; I just joined an AI startup,43,122
+2026-08-18T07:46:04.979237+00:00,49279146,48,Intriguing stories in computer science,40,7
+2026-08-18T07:46:04.979237+00:00,49341858,49,New Spanish nanomaterial cools surfaces by up to 12.9C without electricity,6,1
+2026-08-18T07:46:04.979237+00:00,49324087,50,Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing,785,693
