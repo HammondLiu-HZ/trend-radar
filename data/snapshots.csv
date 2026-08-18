@@ -34500,3 +34500,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-18T11:32:00.824863+00:00,49334544,48,Qwen3.8 27B scores 52 on Artificial Analysis,350,158
 2026-08-18T11:32:00.824863+00:00,49342314,49,Nvidia discloses $21B stake in SpaceX,21,9
 2026-08-18T11:32:00.824863+00:00,49341774,50,"Micron, SK Commit Billions to RAM Capacity, but Almost Nothing Lands Before 2028",21,3
+2026-08-18T12:59:13.120662+00:00,49342719,1,Linux 7.3 improves performance when running out of vRAM,276,87
+2026-08-18T12:59:13.120662+00:00,49343559,2,"Google buys crashed airline Spirit's data at auction, because AI",202,118
+2026-08-18T12:59:13.120662+00:00,49272631,3,Teaching my kid to code with a modern MUD,25,6
+2026-08-18T12:59:13.120662+00:00,49338459,4,How Bluesky draws its logo on screenshots,599,381
+2026-08-18T12:59:13.120662+00:00,49342530,5,Rethinking Database Programming,115,53
+2026-08-18T12:59:13.120662+00:00,49344114,6,"As Wisconsin cities flee Flock, its shared camera network loses value",50,12
+2026-08-18T12:59:13.120662+00:00,49337602,7,GPT-5.6 Sol Pricing Cut by 50%,518,334
+2026-08-18T12:59:13.120662+00:00,49338328,8,"Quake Shareware, a CD-ROM just a little too full",402,172
+2026-08-18T12:59:13.120662+00:00,49337392,9,Israel creates fake think tank in likely attempt to dupe AI chatbots,713,414
+2026-08-18T12:59:13.120662+00:00,49342472,10,Finger: Social network that never died,48,20
+2026-08-18T12:59:13.120662+00:00,49338285,11,Fairphone 6 and PostmarketOS working main camera,245,56
+2026-08-18T12:59:13.120662+00:00,49313360,12,"IBM Simon (1994): the original smartphone, explained in its own ad [video]",53,22
+2026-08-18T12:59:13.120662+00:00,49341411,13,Exercise intensity modulates interorgan communication and is associated with,61,22
+2026-08-18T12:59:13.120662+00:00,49330781,14,A Preview of DuckDB v2.0,667,118
+2026-08-18T12:59:13.120662+00:00,49311115,15,Ranking the Most Brilliantly Colored Birds with Data,45,5
+2026-08-18T12:59:13.120662+00:00,49270194,16,Olo (Color),488,87
+2026-08-18T12:59:13.120662+00:00,49331423,17,AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira,395,149
+2026-08-18T12:59:13.120662+00:00,49340299,18,The Benchmarkpocalypse,134,39
+2026-08-18T12:59:13.120662+00:00,49334991,19,"GPU Offload in Rust: Portable, Safe, and Fast",228,47
+2026-08-18T12:59:13.120662+00:00,49339097,20,Repair Cafe – Fix Your Broken Items,144,29
+2026-08-18T12:59:13.120662+00:00,49269966,21,The Road to MS-DOS 2.0,90,39
+2026-08-18T12:59:13.120662+00:00,49329575,22,"GPT 5.6 Sol is the best ""vision"" model OpenAI ever released",350,164
+2026-08-18T12:59:13.120662+00:00,49334409,23,An update on leaving Gmail for Fastmail,273,172
+2026-08-18T12:59:13.120662+00:00,49344643,24,Claude writing a macOS driver for my obscure HP printer built only for Windows,7,1
+2026-08-18T12:59:13.120662+00:00,49285139,25,Shattered skeleton is first confirmed death from trebuchet,80,54
+2026-08-18T12:59:13.120662+00:00,49333824,26,Sun Clock,255,81
+2026-08-18T12:59:13.120662+00:00,49331220,27,How to disable or avoid intrusive AI,316,190
+2026-08-18T12:59:13.120662+00:00,49318607,28,Climbing Guide as a Shared Infrastructure,28,12
+2026-08-18T12:59:13.120662+00:00,49336573,29,AI;DR (AI; Didn't Read),973,588
+2026-08-18T12:59:13.120662+00:00,49333344,30,Judge sets framework for Nine PBS to retrieve archival data,174,68
+2026-08-18T12:59:13.120662+00:00,49335600,31,"Los Puesteros, solitary men who look after ranches and livestock in Patagonia",155,58
+2026-08-18T12:59:13.120662+00:00,49336304,32,India has paved the way for charging merchants a fee on UPI transactions,169,210
+2026-08-18T12:59:13.120662+00:00,49332751,33,Launch HN: Speko (YC S26) – OpenRouter for Voice AI,110,59
+2026-08-18T12:59:13.120662+00:00,49272891,34,A particle made of force: physicists say they've found mysterious 'glueball',141,47
+2026-08-18T12:59:13.120662+00:00,49344654,35,"Meta Files Patent for Facial Recognition, Automatic Recording of People",4,0
+2026-08-18T12:59:13.120662+00:00,49294913,36,A digestion of the proof of Sendov's conjecture,40,25
+2026-08-18T12:59:13.120662+00:00,49331033,37,Ask HN: Alternatives to GitHub,606,391
+2026-08-18T12:59:13.120662+00:00,49340700,38,"25 Years of Haiku: From ""Ok, Let's Start"" to the Present",18,4
+2026-08-18T12:59:13.120662+00:00,49338428,39,scScript for Linux,37,16
+2026-08-18T12:59:13.120662+00:00,49344411,40,"American Education: The Decline, the Deception, the Dogmas (1993)",4,0
+2026-08-18T12:59:13.120662+00:00,49279208,41,"I built a golf career management SIM (like Basketball GM, but golf)",16,6
+2026-08-18T12:59:13.120662+00:00,49331474,42,How to put 170 atoms in an atom,112,26
+2026-08-18T12:59:13.120662+00:00,49327643,43,Show HN: Desktopcolors.com – A museum for solid background colors of classic OS,153,68
+2026-08-18T12:59:13.120662+00:00,49325789,44,On AI regulation and messaging,244,518
+2026-08-18T12:59:13.120662+00:00,49289898,45,The oldest bar in every state,75,37
+2026-08-18T12:59:13.120662+00:00,49342823,46,OpenAI disbanded the team that assessed catastrophic model risks,21,9
+2026-08-18T12:59:13.120662+00:00,49324985,47,"Qwen 3.8 27B is excellent, but it defaults to overthinking things",776,371
+2026-08-18T12:59:13.120662+00:00,49326816,48,Linear algebra done right,263,108
+2026-08-18T12:59:13.120662+00:00,49335517,49,Roboflow Playground: Try and Compare 30 Computer Vision Models,50,3
+2026-08-18T12:59:13.120662+00:00,49295179,50,A simple fix for LLM tail latency,50,17
