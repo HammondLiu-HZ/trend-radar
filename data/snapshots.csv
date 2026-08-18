@@ -34550,3 +34550,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-18T12:59:13.120662+00:00,49326816,48,Linear algebra done right,263,108
 2026-08-18T12:59:13.120662+00:00,49335517,49,Roboflow Playground: Try and Compare 30 Computer Vision Models,50,3
 2026-08-18T12:59:13.120662+00:00,49295179,50,A simple fix for LLM tail latency,50,17
+2026-08-18T13:51:37.314935+00:00,49344825,1,Using the railway network as a flatbed scanner,67,12
+2026-08-18T13:51:37.314935+00:00,49342719,2,Linux 7.3 improves performance when running out of vRAM,323,102
+2026-08-18T13:51:37.314935+00:00,49345220,3,Fixing a Bricked Framework Laptop,9,4
+2026-08-18T13:51:37.314935+00:00,49272631,4,Teaching my kid to code with a modern MUD,65,23
+2026-08-18T13:51:37.314935+00:00,49344811,5,Fairphone is now officially available in the United States,53,8
+2026-08-18T13:51:37.314935+00:00,49343559,6,"Google buys crashed airline Spirit's data at auction, because AI",276,169
+2026-08-18T13:51:37.314935+00:00,49345154,7,Show HN: I canceled my AI code reviewer and wrote a free local one,6,3
+2026-08-18T13:51:37.314935+00:00,49305969,8,Baking a Model: A Metaphor for LLM Training,14,0
+2026-08-18T13:51:37.314935+00:00,49345438,9,A group of Gandalfs protest outside the home of Peter Thiel in Argentina,4,0
+2026-08-18T13:51:37.314935+00:00,49338459,10,How Bluesky draws its logo on screenshots,615,385
+2026-08-18T13:51:37.314935+00:00,49344654,11,"Meta Files Patent for Facial Recognition, Automatic Recording of People",53,19
+2026-08-18T13:51:37.314935+00:00,49345013,12,Things That Used to Be Normal and Are Now a Luxury,11,5
+2026-08-18T13:51:37.314935+00:00,49345320,13,NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions,6,0
+2026-08-18T13:51:37.314935+00:00,49345070,14,Deus Ex creator Warren Spector is retiring from game development,31,12
+2026-08-18T13:51:37.314935+00:00,49342530,15,Rethinking Database Programming,135,61
+2026-08-18T13:51:37.314935+00:00,49344643,16,Claude writing a macOS driver for my obscure HP printer built only for Windows,48,11
+2026-08-18T13:51:37.314935+00:00,49338328,17,"Quake Shareware, a CD-ROM just a little too full",417,177
+2026-08-18T13:51:37.314935+00:00,49345094,18,Kent Beck: Composable Tests,5,0
+2026-08-18T13:51:37.314935+00:00,49342472,19,Finger: Social network that never died,72,29
+2026-08-18T13:51:37.314935+00:00,49345091,20,Show HN: A local MitM proxy to control TLS fingerprints,3,0
+2026-08-18T13:51:37.314935+00:00,49337602,21,GPT-5.6 Sol Pricing Cut by 50%,540,355
+2026-08-18T13:51:37.314935+00:00,49337392,22,Israel creates fake think tank in likely attempt to dupe AI chatbots,787,448
+2026-08-18T13:51:37.314935+00:00,49341411,23,Exercise intensity modulates interorgan communication and is associated with,72,34
+2026-08-18T13:51:37.314935+00:00,49338285,24,Fairphone 6 and PostmarketOS working main camera,251,59
+2026-08-18T13:51:37.314935+00:00,49313360,25,"IBM Simon (1994): the original smartphone, explained in its own ad [video]",61,28
+2026-08-18T13:51:37.314935+00:00,49330781,26,A Preview of DuckDB v2.0,674,118
+2026-08-18T13:51:37.314935+00:00,49270194,27,Olo (Color),500,91
+2026-08-18T13:51:37.314935+00:00,49340299,28,The Benchmarkpocalypse,143,44
+2026-08-18T13:51:37.314935+00:00,49331423,29,AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira,402,150
+2026-08-18T13:51:37.314935+00:00,49311115,30,Ranking the Most Brilliantly Colored Birds with Data,48,5
+2026-08-18T13:51:37.314935+00:00,49334991,31,"GPU Offload in Rust: Portable, Safe, and Fast",230,48
+2026-08-18T13:51:37.314935+00:00,49339097,32,Repair Cafe – Fix Your Broken Items,153,32
+2026-08-18T13:51:37.314935+00:00,49269966,33,The Road to MS-DOS 2.0,93,41
+2026-08-18T13:51:37.314935+00:00,49329575,34,"GPT 5.6 Sol is the best ""vision"" model OpenAI ever released",355,164
+2026-08-18T13:51:37.314935+00:00,49334409,35,An update on leaving Gmail for Fastmail,283,180
+2026-08-18T13:51:37.314935+00:00,49345255,36,Ask HN: Good content on using AI to modernize professional services delivery,4,1
+2026-08-18T13:51:37.314935+00:00,49331220,37,How to disable or avoid intrusive AI,322,191
+2026-08-18T13:51:37.314935+00:00,49333824,38,Sun Clock,262,84
+2026-08-18T13:51:37.314935+00:00,49318607,39,Climbing Guide as a Shared Infrastructure,31,15
+2026-08-18T13:51:37.314935+00:00,49344114,40,"As Wisconsin cities flee Flock, its shared camera network loses value",69,51
+2026-08-18T13:51:37.314935+00:00,49333344,41,Judge sets framework for Nine PBS to retrieve archival data,174,68
+2026-08-18T13:51:37.314935+00:00,49336573,42,AI;DR (AI; Didn't Read),985,600
+2026-08-18T13:51:37.314935+00:00,49285139,43,Shattered skeleton is first confirmed death from trebuchet,82,57
+2026-08-18T13:51:37.314935+00:00,49345406,44,AI Alignment as a Thought-Terminating Cliche,4,0
+2026-08-18T13:51:37.314935+00:00,49335600,45,"Los Puesteros, solitary men who look after ranches and livestock in Patagonia",155,59
+2026-08-18T13:51:37.314935+00:00,49336304,46,India has paved the way for charging merchants a fee on UPI transactions,170,211
+2026-08-18T13:51:37.314935+00:00,49332751,47,Launch HN: Speko (YC S26) – OpenRouter for Voice AI,110,60
+2026-08-18T13:51:37.314935+00:00,49272891,48,A particle made of force: physicists say they've found mysterious 'glueball',142,47
+2026-08-18T13:51:37.314935+00:00,49345187,49,Global Bond Slump Sends Long-Term Borrowing Costs to Highest in Decades,5,1
+2026-08-18T13:51:37.314935+00:00,49340700,50,"25 Years of Haiku: From ""Ok, Let's Start"" to the Present",24,4
