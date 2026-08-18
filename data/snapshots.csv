@@ -34750,3 +34750,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-18T16:39:23.534173+00:00,49331220,48,How to disable or avoid intrusive AI,331,193
 2026-08-18T16:39:23.534173+00:00,49333824,49,Sun Clock,269,87
 2026-08-18T16:39:23.534173+00:00,49311115,50,Ranking the Most Brilliantly Colored Birds with Data,57,5
+2026-08-18T17:34:12.163363+00:00,49344825,1,Using the railway network as a flatbed scanner,268,47
+2026-08-18T17:34:12.163363+00:00,49345220,2,Fixing a bricked Framework laptop,204,119
+2026-08-18T17:34:12.163363+00:00,49345263,3,The Amazon tax,458,319
+2026-08-18T17:34:12.163363+00:00,49348136,4,Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI,15,9
+2026-08-18T17:34:12.163363+00:00,49334209,5,"Cursor launches Origin, GitHub alternative",198,148
+2026-08-18T17:34:12.163363+00:00,49342719,6,Linux 7.3 improves performance when running out of vRAM,418,176
+2026-08-18T17:34:12.163363+00:00,49345476,7,Python Polars Cheatsheet (based on our O'Reilly book),89,12
+2026-08-18T17:34:12.163363+00:00,49297150,8,"We've flown a radiation-blocking vest to the Moon and back, and it worked",10,0
+2026-08-18T17:34:12.163363+00:00,49272631,9,Teaching my kid to code with a modern MUD,154,49
+2026-08-18T17:34:12.163363+00:00,49346538,10,Code-native generation of highly programmable 3D assets (2026),26,28
+2026-08-18T17:34:12.163363+00:00,49310602,11,Splitting a Git Commit,53,27
+2026-08-18T17:34:12.163363+00:00,49348163,12,Degraded performance for multiple models,126,105
+2026-08-18T17:34:12.163363+00:00,49313346,13,Ask HN: I've quit six systems for tracking my illness. What works?,21,17
+2026-08-18T17:34:12.163363+00:00,49348152,14,"Superpowers, Not Superintelligence",8,6
+2026-08-18T17:34:12.163363+00:00,49345843,15,Babies born under sugar rationing grew into adults with lower cancer risk,130,33
+2026-08-18T17:34:12.163363+00:00,49334960,16,Memory prices climb 500% in 12 months,158,116
+2026-08-18T17:34:12.163363+00:00,49344811,17,Fairphone is now officially available in the United States,242,129
+2026-08-18T17:34:12.163363+00:00,49346135,18,Show HN: Shoehorn – Quantize any model down to run on your machine,25,2
+2026-08-18T17:34:12.163363+00:00,49343559,19,Google has acquired the data of failed US airline Spirit,468,330
+2026-08-18T17:34:12.163363+00:00,49344654,20,"Meta Files Patent for Facial Recognition, Automatic Recording of People",188,126
+2026-08-18T17:34:12.163363+00:00,49332981,21,Universal health coverage could save $1T and 114k lives a year: study,428,562
+2026-08-18T17:34:12.163363+00:00,49340710,22,California's new tire efficiency rules could save drivers $1B a year,60,90
+2026-08-18T17:34:12.163363+00:00,49342530,23,Rethinking Database Programming,185,97
+2026-08-18T17:34:12.163363+00:00,49332495,24,Ask HN: GitHub employees what's going on? Why?,116,85
+2026-08-18T17:34:12.163363+00:00,49347178,25,Show HN: Openleetcode – local LeetCode runner where tests live in the repo,6,2
+2026-08-18T17:34:12.163363+00:00,49305969,26,Baking a Model: A Metaphor for LLM Training,29,3
+2026-08-18T17:34:12.163363+00:00,49342472,27,Finger: Social network that never died,134,44
+2026-08-18T17:34:12.163363+00:00,49348356,28,Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows,14,1
+2026-08-18T17:34:12.163363+00:00,49348627,29,Why your Amazon order confirmation emails have become so unhelpful,10,0
+2026-08-18T17:34:12.163363+00:00,49331551,30,"Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",47,48
+2026-08-18T17:34:12.163363+00:00,49336392,31,How I Under-Engineered my Book,57,16
+2026-08-18T17:34:12.163363+00:00,49344643,32,Claude writing a macOS driver for my obscure HP printer built only for Windows,123,48
+2026-08-18T17:34:12.163363+00:00,49345070,33,Deus Ex creator Warren Spector is retiring from game development,100,65
+2026-08-18T17:34:12.163363+00:00,49346733,34,"Show HN: Go CLI for website health checks, zero dependencies",4,0
+2026-08-18T17:34:12.163363+00:00,49346444,35,The coolest anti-surveillance tools at Defcon [video],50,2
+2026-08-18T17:34:12.163363+00:00,49338285,36,Fairphone 6 and PostmarketOS working main camera,274,68
+2026-08-18T17:34:12.163363+00:00,49345094,37,Composable Tests,51,40
+2026-08-18T17:34:12.163363+00:00,49348079,38,Mojo is now open source!,35,4
+2026-08-18T17:34:12.163363+00:00,49341411,39,Exercise intensity modulates interorgan communication and is associated with,89,50
+2026-08-18T17:34:12.163363+00:00,49313360,40,"IBM Simon (1994): the original smartphone, explained in its own ad [video]",73,46
+2026-08-18T17:34:12.163363+00:00,49338459,41,How Bluesky draws its logo on screenshots,668,420
+2026-08-18T17:34:12.163363+00:00,49334991,42,"GPU Offload in Rust: Portable, Safe, and Fast",234,54
+2026-08-18T17:34:12.163363+00:00,49340299,43,The Benchmarkpocalypse,159,50
+2026-08-18T17:34:12.163363+00:00,49339097,44,Repair Cafe – Fix Your Broken Items,166,41
+2026-08-18T17:34:12.163363+00:00,49346404,45,JPEG XL converter and .jxl viewer,14,3
+2026-08-18T17:34:12.163363+00:00,49334409,46,An update on leaving Gmail for Fastmail,293,199
+2026-08-18T17:34:12.163363+00:00,49348599,47,US Government is pushing to gain unprecedented access to your medical records,6,0
+2026-08-18T17:34:12.163363+00:00,49333557,48,The Size of the World Wide Web,8,2
+2026-08-18T17:34:12.163363+00:00,49269966,49,The Road to MS-DOS 2.0,97,46
+2026-08-18T17:34:12.163363+00:00,49295118,50,Oxford Electric Bell,20,1
