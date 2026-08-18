@@ -34700,3 +34700,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-18T15:38:24.148498+00:00,49336573,48,AI;DR (AI; Didn't Read),1004,617
 2026-08-18T15:38:24.148498+00:00,49285139,49,Shattered skeleton is first confirmed death from trebuchet,82,55
 2026-08-18T15:38:24.148498+00:00,49318607,50,Climbing Guide as a Shared Infrastructure,32,16
+2026-08-18T16:39:23.534173+00:00,49344825,1,Using the railway network as a flatbed scanner,231,39
+2026-08-18T16:39:23.534173+00:00,49348055,2,Apple announces changes for apps in the European Union,16,8
+2026-08-18T16:39:23.534173+00:00,49348163,3,Claude: Degraded Performance for Multiple Models,12,2
+2026-08-18T16:39:23.534173+00:00,49345263,4,The Amazon Tax,379,273
+2026-08-18T16:39:23.534173+00:00,49345220,5,Fixing a Bricked Framework Laptop,174,92
+2026-08-18T16:39:23.534173+00:00,49336392,6,How I Under-Engineered My Book,35,6
+2026-08-18T16:39:23.534173+00:00,49342719,7,Linux 7.3 improves performance when running out of vRAM,398,158
+2026-08-18T16:39:23.534173+00:00,49345476,8,Python Polars Cheatsheet (based on our O'Reilly book),67,12
+2026-08-18T16:39:23.534173+00:00,49348136,9,Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI,3,0
+2026-08-18T16:39:23.534173+00:00,49272631,10,Teaching my kid to code with a modern MUD,142,45
+2026-08-18T16:39:23.534173+00:00,49334209,11,"Cursor launches Origin, GitHub alternative",130,87
+2026-08-18T16:39:23.534173+00:00,49345094,12,Composable Tests,39,33
+2026-08-18T16:39:23.534173+00:00,49344811,13,Fairphone is now officially available in the United States,211,108
+2026-08-18T16:39:23.534173+00:00,49346538,14,Code-native generation of highly programmable 3D assets (2026),18,16
+2026-08-18T16:39:23.534173+00:00,49345843,15,Babies born under sugar rationing grew into adults with lower cancer risk,96,25
+2026-08-18T16:39:23.534173+00:00,49310602,16,Splitting a Git Commit,32,15
+2026-08-18T16:39:23.534173+00:00,49343559,17,Google has acquired the data of failed US airline Spirit,435,309
+2026-08-18T16:39:23.534173+00:00,49344654,18,"Meta Files Patent for Facial Recognition, Automatic Recording of People",165,110
+2026-08-18T16:39:23.534173+00:00,49346135,19,Show HN: Shoehorn – Quantize any model down to run on your machine,12,2
+2026-08-18T16:39:23.534173+00:00,49338459,20,How Bluesky draws its logo on screenshots,658,413
+2026-08-18T16:39:23.534173+00:00,49334960,21,Memory prices climb 500% in 12 months,111,86
+2026-08-18T16:39:23.534173+00:00,49313346,22,Ask HN: Ive quit six systems for tracking my illness. What works?,8,1
+2026-08-18T16:39:23.534173+00:00,49342530,23,Rethinking Database Programming,173,90
+2026-08-18T16:39:23.534173+00:00,49340710,24,California's new tire efficiency rules could save drivers $1B a year,46,48
+2026-08-18T16:39:23.534173+00:00,49346444,25,The coolest anti-surveillance tools at Defcon [video],38,1
+2026-08-18T16:39:23.534173+00:00,49305969,26,Baking a Model: A Metaphor for LLM Training,25,1
+2026-08-18T16:39:23.534173+00:00,49342472,27,Finger: Social network that never died,123,38
+2026-08-18T16:39:23.534173+00:00,49338328,28,"Quake Shareware, a CD-ROM just a little too full",452,193
+2026-08-18T16:39:23.534173+00:00,49345070,29,Deus Ex creator Warren Spector is retiring from game development,95,61
+2026-08-18T16:39:23.534173+00:00,49331551,30,"Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",42,46
+2026-08-18T16:39:23.534173+00:00,49347178,31,Show HN: Openleetcode – local LeetCode runner where tests live in the repo,4,0
+2026-08-18T16:39:23.534173+00:00,49337392,32,Israel creates fake think tank in likely attempt to dupe AI chatbots,935,552
+2026-08-18T16:39:23.534173+00:00,49344643,33,Claude writing a macOS driver for my obscure HP printer built only for Windows,112,41
+2026-08-18T16:39:23.534173+00:00,49337602,34,GPT-5.6 Sol Pricing Cut by 50%,593,406
+2026-08-18T16:39:23.534173+00:00,49338285,35,Fairphone 6 and PostmarketOS working main camera,270,68
+2026-08-18T16:39:23.534173+00:00,49313360,36,"IBM Simon (1994): the original smartphone, explained in its own ad [video]",73,44
+2026-08-18T16:39:23.534173+00:00,49341411,37,Exercise intensity modulates interorgan communication and is associated with,86,45
+2026-08-18T16:39:23.534173+00:00,49348049,38,Tell HN: Cursor has a hidden terminal command for steering its desktop AI agents,3,0
+2026-08-18T16:39:23.534173+00:00,49333557,39,The Size of the World Wide Web,6,2
+2026-08-18T16:39:23.534173+00:00,49334991,40,"GPU Offload in Rust: Portable, Safe, and Fast",233,54
+2026-08-18T16:39:23.534173+00:00,49295118,41,Oxford Electric Bell,20,1
+2026-08-18T16:39:23.534173+00:00,49340299,42,The Benchmarkpocalypse,156,49
+2026-08-18T16:39:23.534173+00:00,49339097,43,Repair Cafe – Fix Your Broken Items,163,40
+2026-08-18T16:39:23.534173+00:00,49334409,44,An update on leaving Gmail for Fastmail,291,194
+2026-08-18T16:39:23.534173+00:00,49346482,45,The National Park Service Is Using Flock. Rangers Are Pissed,18,1
+2026-08-18T16:39:23.534173+00:00,49269966,46,The Road to MS-DOS 2.0,97,46
+2026-08-18T16:39:23.534173+00:00,49345364,47,ChatGPT has almost stopped citing Reddit,25,5
+2026-08-18T16:39:23.534173+00:00,49331220,48,How to disable or avoid intrusive AI,331,193
+2026-08-18T16:39:23.534173+00:00,49333824,49,Sun Clock,269,87
+2026-08-18T16:39:23.534173+00:00,49311115,50,Ranking the Most Brilliantly Colored Birds with Data,57,5
