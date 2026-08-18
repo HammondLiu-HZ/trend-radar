@@ -34450,3 +34450,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-18T10:36:33.237774+00:00,49336919,48,"GitHub degradation affects Cursor Origin, its new Git platform",59,22
 2026-08-18T10:36:33.237774+00:00,49338139,49,My friends all hate AI; I just joined an AI startup,49,147
 2026-08-18T10:36:33.237774+00:00,49340252,50,Dial-up internet – made a thing that lets you do it again,10,4
+2026-08-18T11:32:00.824863+00:00,49342719,1,Linux 7.3 improves performance when running out of vRAM,201,49
+2026-08-18T11:32:00.824863+00:00,49342530,2,Rethinking Database Programming,80,29
+2026-08-18T11:32:00.824863+00:00,49338459,3,How Bluesky draws its logo on screenshots,555,362
+2026-08-18T11:32:00.824863+00:00,49343559,4,"Google buys crashed airline Spirit's data at auction, because AI",76,32
+2026-08-18T11:32:00.824863+00:00,49337602,5,GPT-5.6 Sol Pricing Cut by 50%,483,302
+2026-08-18T11:32:00.824863+00:00,49338328,6,"Quake Shareware, a CD-ROM just a little too full",371,158
+2026-08-18T11:32:00.824863+00:00,49338285,7,Fairphone 6 and PostmarketOS working main camera,222,48
+2026-08-18T11:32:00.824863+00:00,49311115,8,Ranking the Most Brilliantly Colored Birds with Data,34,3
+2026-08-18T11:32:00.824863+00:00,49313360,9,"IBM Simon (1994): the original smartphone, explained in its own ad [video]",41,10
+2026-08-18T11:32:00.824863+00:00,49279208,10,"I built a golf career management SIM (like Basketball GM, but golf)",11,4
+2026-08-18T11:32:00.824863+00:00,49315217,11,The key that never exists: a threshold signing ceremony in the browser,5,0
+2026-08-18T11:32:00.824863+00:00,49330781,12,A Preview of DuckDB v2.0,653,116
+2026-08-18T11:32:00.824863+00:00,49341411,13,Exercise intensity modulates interorgan communication and is associated with,45,13
+2026-08-18T11:32:00.824863+00:00,49340299,14,The Benchmarkpocalypse,125,34
+2026-08-18T11:32:00.824863+00:00,49337392,15,Israel creates fake think tank in likely attempt to dupe AI chatbots,601,372
+2026-08-18T11:32:00.824863+00:00,49331423,16,AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira,382,147
+2026-08-18T11:32:00.824863+00:00,49270194,17,Olo (Color),465,84
+2026-08-18T11:32:00.824863+00:00,49285139,18,Shattered skeleton is first confirmed death from trebuchet,78,51
+2026-08-18T11:32:00.824863+00:00,49334991,19,"GPU Offload in Rust: Portable, Safe, and Fast",221,45
+2026-08-18T11:32:00.824863+00:00,49334409,20,An update on leaving Gmail for Fastmail,257,158
+2026-08-18T11:32:00.824863+00:00,49329575,21,"GPT 5.6 Sol is the best ""vision"" model OpenAI ever released",343,163
+2026-08-18T11:32:00.824863+00:00,49269966,22,The Road to MS-DOS 2.0,79,35
+2026-08-18T11:32:00.824863+00:00,49339097,23,Repair Cafe – Fix Your Broken Items,129,22
+2026-08-18T11:32:00.824863+00:00,49318607,24,Climbing Guide as a Shared Infrastructure,23,10
+2026-08-18T11:32:00.824863+00:00,49342472,25,Finger: Social network that never died,13,2
+2026-08-18T11:32:00.824863+00:00,49333824,26,Sun Clock,240,80
+2026-08-18T11:32:00.824863+00:00,49331220,27,How to disable or avoid intrusive AI,306,182
+2026-08-18T11:32:00.824863+00:00,49333344,28,Judge sets framework for Nine PBS to retrieve archival data,170,65
+2026-08-18T11:32:00.824863+00:00,49336573,29,AI;DR (AI; Didn't Read),918,556
+2026-08-18T11:32:00.824863+00:00,49335600,30,"Los Puesteros, solitary men who look after ranches and livestock in Patagonia",153,54
+2026-08-18T11:32:00.824863+00:00,49336304,31,India has paved the way for charging merchants a fee on UPI transactions,160,199
+2026-08-18T11:32:00.824863+00:00,49332751,32,Launch HN: Speko (YC S26) – OpenRouter for Voice AI,109,58
+2026-08-18T11:32:00.824863+00:00,49272891,33,A particle made of force: physicists say they've found mysterious 'glueball',140,45
+2026-08-18T11:32:00.824863+00:00,49331033,34,Ask HN: Alternatives to GitHub,600,381
+2026-08-18T11:32:00.824863+00:00,49294913,35,A digestion of the proof of Sendov's conjecture,37,20
+2026-08-18T11:32:00.824863+00:00,49338428,36,scScript for Linux,36,15
+2026-08-18T11:32:00.824863+00:00,49342823,37,OpenAI disbanded the team that assessed catastrophic model risks,15,4
+2026-08-18T11:32:00.824863+00:00,49331474,38,How to put 170 atoms in an atom,110,26
+2026-08-18T11:32:00.824863+00:00,49327643,39,Show HN: Desktopcolors.com – A museum for solid background colors of classic OS,153,68
+2026-08-18T11:32:00.824863+00:00,49325789,40,On AI regulation and messaging,243,518
+2026-08-18T11:32:00.824863+00:00,49289898,41,The oldest bar in every state,74,37
+2026-08-18T11:32:00.824863+00:00,49295179,42,A simple fix for LLM tail latency,50,17
+2026-08-18T11:32:00.824863+00:00,49335517,43,Roboflow Playground: Try and Compare 30 Computer Vision Models,50,3
+2026-08-18T11:32:00.824863+00:00,49324985,44,"Qwen 3.8 27B is excellent, but it defaults to overthinking things",776,370
+2026-08-18T11:32:00.824863+00:00,49340252,45,Dial-up internet – made a thing that lets you do it again,12,6
+2026-08-18T11:32:00.824863+00:00,49340700,46,"25 Years of Haiku: From ""Ok, Let's Start"" to the Present",12,3
+2026-08-18T11:32:00.824863+00:00,49326816,47,Linear algebra done right,262,106
+2026-08-18T11:32:00.824863+00:00,49334544,48,Qwen3.8 27B scores 52 on Artificial Analysis,350,158
+2026-08-18T11:32:00.824863+00:00,49342314,49,Nvidia discloses $21B stake in SpaceX,21,9
+2026-08-18T11:32:00.824863+00:00,49341774,50,"Micron, SK Commit Billions to RAM Capacity, but Almost Nothing Lands Before 2028",21,3
