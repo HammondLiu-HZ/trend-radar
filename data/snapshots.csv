@@ -34600,3 +34600,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-18T13:51:37.314935+00:00,49272891,48,A particle made of force: physicists say they've found mysterious 'glueball',142,47
 2026-08-18T13:51:37.314935+00:00,49345187,49,Global Bond Slump Sends Long-Term Borrowing Costs to Highest in Decades,5,1
 2026-08-18T13:51:37.314935+00:00,49340700,50,"25 Years of Haiku: From ""Ok, Let's Start"" to the Present",24,4
+2026-08-18T14:40:31.404398+00:00,49345263,1,The Amazon Tax,89,49
+2026-08-18T14:40:31.404398+00:00,49344825,2,Using the railway network as a flatbed scanner,131,23
+2026-08-18T14:40:31.404398+00:00,49345220,3,Fixing a Bricked Framework Laptop,58,18
+2026-08-18T14:40:31.404398+00:00,49342719,4,Linux 7.3 improves performance when running out of vRAM,349,119
+2026-08-18T14:40:31.404398+00:00,49345476,5,Python Polars Cheatsheet (based on our O'Reilly book),25,4
+2026-08-18T14:40:31.404398+00:00,49272631,6,Teaching my kid to code with a modern MUD,87,30
+2026-08-18T14:40:31.404398+00:00,49345094,7,Kent Beck: Composable Tests,16,1
+2026-08-18T14:40:31.404398+00:00,49344811,8,Fairphone is now officially available in the United States,116,33
+2026-08-18T14:40:31.404398+00:00,49343559,9,"Google buys crashed airline Spirit's data at auction, because AI",327,213
+2026-08-18T14:40:31.404398+00:00,49344654,10,"Meta Files Patent for Facial Recognition, Automatic Recording of People",98,47
+2026-08-18T14:40:31.404398+00:00,49345320,11,NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions,17,10
+2026-08-18T14:40:31.404398+00:00,49345154,12,Show HN: I canceled my AI code reviewer and wrote a free local one,21,14
+2026-08-18T14:40:31.404398+00:00,49338459,13,How Bluesky draws its logo on screenshots,624,391
+2026-08-18T14:40:31.404398+00:00,49345070,14,Deus Ex creator Warren Spector is retiring from game development,55,34
+2026-08-18T14:40:31.404398+00:00,49295118,15,Oxford Electric Bell,9,0
+2026-08-18T14:40:31.404398+00:00,49345091,16,Show HN: A local MitM proxy to control TLS fingerprints,7,0
+2026-08-18T14:40:31.404398+00:00,49342472,17,Finger: Social network that never died,87,32
+2026-08-18T14:40:31.404398+00:00,49342530,18,Rethinking Database Programming,147,68
+2026-08-18T14:40:31.404398+00:00,49305969,19,Baking a Model: A Metaphor for LLM Training,16,1
+2026-08-18T14:40:31.404398+00:00,49338328,20,"Quake Shareware, a CD-ROM just a little too full",427,184
+2026-08-18T14:40:31.404398+00:00,49337602,21,GPT-5.6 Sol Pricing Cut by 50%,556,365
+2026-08-18T14:40:31.404398+00:00,49337392,22,Israel creates fake think tank in likely attempt to dupe AI chatbots,831,481
+2026-08-18T14:40:31.404398+00:00,49344643,23,Claude writing a macOS driver for my obscure HP printer built only for Windows,66,16
+2026-08-18T14:40:31.404398+00:00,49338285,24,Fairphone 6 and PostmarketOS working main camera,259,61
+2026-08-18T14:40:31.404398+00:00,49345843,25,Babies born under sugar rationing grew into adults with lower cancer risk,9,2
+2026-08-18T14:40:31.404398+00:00,49313360,26,"IBM Simon (1994): the original smartphone, explained in its own ad [video]",65,31
+2026-08-18T14:40:31.404398+00:00,49330781,27,A Preview of DuckDB v2.0,676,120
+2026-08-18T14:40:31.404398+00:00,49341411,28,Exercise intensity modulates interorgan communication and is associated with,77,37
+2026-08-18T14:40:31.404398+00:00,49270194,29,Olo (Color),504,91
+2026-08-18T14:40:31.404398+00:00,49331423,30,AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira,407,150
+2026-08-18T14:40:31.404398+00:00,49340299,31,The Benchmarkpocalypse,148,46
+2026-08-18T14:40:31.404398+00:00,49311115,32,Ranking the Most Brilliantly Colored Birds with Data,55,5
+2026-08-18T14:40:31.404398+00:00,49334991,33,"GPU Offload in Rust: Portable, Safe, and Fast",231,54
+2026-08-18T14:40:31.404398+00:00,49339097,34,Repair Cafe – Fix Your Broken Items,155,34
+2026-08-18T14:40:31.404398+00:00,49329575,35,"GPT 5.6 Sol is the best ""vision"" model OpenAI ever released",356,164
+2026-08-18T14:40:31.404398+00:00,49334409,36,An update on leaving Gmail for Fastmail,285,183
+2026-08-18T14:40:31.404398+00:00,49269966,37,The Road to MS-DOS 2.0,96,44
+2026-08-18T14:40:31.404398+00:00,49345612,38,Meta pays pro-Meta influencers when countries look into teen safety on Instagram,9,2
+2026-08-18T14:40:31.404398+00:00,49331220,39,How to disable or avoid intrusive AI,325,192
+2026-08-18T14:40:31.404398+00:00,49333824,40,Sun Clock,265,86
+2026-08-18T14:40:31.404398+00:00,49333344,41,Judge sets framework for Nine PBS to retrieve archival data,177,68
+2026-08-18T14:40:31.404398+00:00,49318607,42,Climbing Guide as a Shared Infrastructure,32,16
+2026-08-18T14:40:31.404398+00:00,49336573,43,AI;DR (AI; Didn't Read),991,610
+2026-08-18T14:40:31.404398+00:00,49285139,44,Shattered skeleton is first confirmed death from trebuchet,82,57
+2026-08-18T14:40:31.404398+00:00,49335600,45,"Los Puesteros, solitary men who look after ranches and livestock in Patagonia",156,59
+2026-08-18T14:40:31.404398+00:00,49336304,46,India has paved the way for charging merchants a fee on UPI transactions,171,214
+2026-08-18T14:40:31.404398+00:00,49345255,47,Ask HN: Good content on using AI to modernize professional services delivery,5,1
+2026-08-18T14:40:31.404398+00:00,49340700,48,"25 Years of Haiku: From ""Ok, Let's Start"" to the Present",27,4
+2026-08-18T14:40:31.404398+00:00,49332751,49,Launch HN: Speko (YC S26) – OpenRouter for Voice AI,110,61
+2026-08-18T14:40:31.404398+00:00,49272891,50,A particle made of force: physicists say they've found mysterious 'glueball',142,47
