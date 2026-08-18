@@ -34050,3 +34050,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-18T01:41:56.021248+00:00,49289583,48,Some Virtues of Narrative Poetry,6,1
 2026-08-18T01:41:56.021248+00:00,49331222,49,Apple's App Tracking Transparency treated its own apps better than rivals,238,93
 2026-08-18T01:41:56.021248+00:00,49339577,50,PM Carney announces largest clean energy investment in North American history,46,11
+2026-08-18T03:02:51.199464+00:00,49338459,1,How Bluesky draws its logo on screenshots,269,193
+2026-08-18T03:02:51.199464+00:00,49338328,2,"Quake Shareware, a CD-ROM just a little too full",177,78
+2026-08-18T03:02:51.199464+00:00,49337602,3,GPT-5.6 Sol Pricing Cut by 50%,175,104
+2026-08-18T03:02:51.199464+00:00,49330781,4,A Preview of DuckDB v2.0,560,99
+2026-08-18T03:02:51.199464+00:00,49338285,5,Fairphone 6 and PostmarketOS working main camera,93,24
+2026-08-18T03:02:51.199464+00:00,49334991,6,"GPU Offload in Rust: Portable, Safe, and Fast",168,36
+2026-08-18T03:02:51.199464+00:00,49331423,7,AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira,322,126
+2026-08-18T03:02:51.199464+00:00,49270194,8,Olo (Color),337,67
+2026-08-18T03:02:51.199464+00:00,49339097,9,Repair Cafe – Fix Your Broken Items,30,8
+2026-08-18T03:02:51.199464+00:00,49336573,10,AI;DR (AI; Didn't Read),640,400
+2026-08-18T03:02:51.199464+00:00,49269966,11,The Road to MS-DOS 2.0,26,6
+2026-08-18T03:02:51.199464+00:00,49329575,12,"GPT 5.6 Sol is the best ""vision"" model OpenAI ever released",307,154
+2026-08-18T03:02:51.199464+00:00,49333344,13,Judge sets framework for Nine PBS to retrieve archival data,142,56
+2026-08-18T03:02:51.199464+00:00,49334409,14,An update on leaving Gmail for Fastmail,131,98
+2026-08-18T03:02:51.199464+00:00,49336304,15,India has paved the way for charging merchants a fee on UPI transactions,100,103
+2026-08-18T03:02:51.199464+00:00,49335600,16,"Los Puesteros, solitary men who look after ranches and livestock in Patagonia",113,41
+2026-08-18T03:02:51.199464+00:00,49333824,17,Sun Clock,184,56
+2026-08-18T03:02:51.199464+00:00,49337630,18,How do functions like alloca allocate memory from the stack?,38,12
+2026-08-18T03:02:51.199464+00:00,49331220,19,How to disable or avoid intrusive AI,262,161
+2026-08-18T03:02:51.199464+00:00,49285139,20,Shattered skeleton is first confirmed death from trebuchet,9,4
+2026-08-18T03:02:51.199464+00:00,49337392,21,Israel creates fake think tank in likely attempt to dupe AI chatbots,141,52
+2026-08-18T03:02:51.199464+00:00,49332751,22,Launch HN: Speko (YC S26) – OpenRouter for Voice AI,92,53
+2026-08-18T03:02:51.199464+00:00,49336919,23,"GitHub degradation affects Cursor Origin, its new Git platform",41,12
+2026-08-18T03:02:51.199464+00:00,49331033,24,Ask HN: Alternatives to GitHub,508,328
+2026-08-18T03:02:51.199464+00:00,49338428,25,scScript for Linux,19,7
+2026-08-18T03:02:51.199464+00:00,49272891,26,A particle made of force: physicists say they've found mysterious 'glueball',106,20
+2026-08-18T03:02:51.199464+00:00,49295179,27,A simple fix for LLM tail latency,40,16
+2026-08-18T03:02:51.199464+00:00,49335517,28,Roboflow Playground: Try and Compare 30 Computer Vision Models,44,3
+2026-08-18T03:02:51.199464+00:00,49331474,29,How to put 170 atoms in an atom,105,25
+2026-08-18T03:02:51.199464+00:00,49339599,30,"Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",39,13
+2026-08-18T03:02:51.199464+00:00,49279146,31,Intriguing stories in computer science,36,7
+2026-08-18T03:02:51.199464+00:00,49294913,32,A digestion of the proof of Sendov's conjecture,6,1
+2026-08-18T03:02:51.199464+00:00,49338953,33,Puppy PPE,20,4
+2026-08-18T03:02:51.199464+00:00,49334544,34,Qwen3.8 27B scores 52 on Artificial Analysis,312,142
+2026-08-18T03:02:51.199464+00:00,49289898,35,The oldest bar in every state,67,36
+2026-08-18T03:02:51.199464+00:00,49327643,36,Show HN: Desktopcolors.com – A museum for solid background colors of classic OS,142,62
+2026-08-18T03:02:51.199464+00:00,49325789,37,On AI regulation and messaging,235,501
+2026-08-18T03:02:51.199464+00:00,49323474,38,How I developed an Am29000 C compiler and web browser,78,12
+2026-08-18T03:02:51.199464+00:00,49335001,39,We Are Forking dotenvy into dotenv-ng,36,42
+2026-08-18T03:02:51.199464+00:00,49326816,40,Linear algebra done right,255,100
+2026-08-18T03:02:51.199464+00:00,49338973,41,Google to buy Spirit Airlines business data for $10M,29,3
+2026-08-18T03:02:51.199464+00:00,49324985,42,"Qwen 3.8 27B is excellent, but it defaults to overthinking things",752,360
+2026-08-18T03:02:51.199464+00:00,49330978,43,How to ship a database every day,67,8
+2026-08-18T03:02:51.199464+00:00,49324087,44,Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing,767,681
+2026-08-18T03:02:51.199464+00:00,49329583,45,Mexico crackdown on coastal development,111,29
+2026-08-18T03:02:51.199464+00:00,49330215,46,Show HN: Sokoban AI Solver,67,40
+2026-08-18T03:02:51.199464+00:00,49290545,47,How do I permanently disable random Google Photos popup to backup photos? (2024),218,166
+2026-08-18T03:02:51.199464+00:00,49331288,48,Show HN: Learn Flags Quiz,43,25
+2026-08-18T03:02:51.199464+00:00,49331222,49,Apple's App Tracking Transparency treated its own apps better than rivals,239,93
+2026-08-18T03:02:51.199464+00:00,49325714,50,AGI-64 Brings Sierra Adventures to the Commodore 64,126,24
