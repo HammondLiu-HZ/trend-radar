@@ -35900,3 +35900,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-19T18:45:14.047645+00:00,49353432,48,AI usage patterns in software teams,176,110
 2026-08-19T18:45:14.047645+00:00,49348055,49,Apple announces changes for apps in the European Union,266,397
 2026-08-19T18:45:14.047645+00:00,49355451,50,The Vietnam Binh Chau (Chau Tan) Late Tang Wreck,52,6
+2026-08-19T19:31:57.349865+00:00,49364559,1,OpenRouter is joining Stripe,237,166
+2026-08-19T19:31:57.349865+00:00,49365405,2,Go 1.27,102,13
+2026-08-19T19:31:57.349865+00:00,49360015,3,A joke domain purchase turned in geopolitical warfare,533,68
+2026-08-19T19:31:57.349865+00:00,49365443,4,Unsloth Dynamic 3.0 GGUFs,15,0
+2026-08-19T19:31:57.349865+00:00,49362401,5,Ornith-1.5: From Self-Scaffolding to Self-Improvement,116,31
+2026-08-19T19:31:57.349865+00:00,49360545,6,Geolocating a random island using geometry and CUDA programming,322,55
+2026-08-19T19:31:57.349865+00:00,49363668,7,Extensible Software in the age of LLMs,55,25
+2026-08-19T19:31:57.349865+00:00,49355606,8,OpenLogi,1443,387
+2026-08-19T19:31:57.349865+00:00,49363665,9,How Kubernetes Probes Work,62,6
+2026-08-19T19:31:57.349865+00:00,49365326,10,Introducing MicroLighter,19,2
+2026-08-19T19:31:57.349865+00:00,49363710,11,Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams,32,10
+2026-08-19T19:31:57.349865+00:00,49362934,12,"Remote workers report the highest well-being in study of 7,700 employees",300,143
+2026-08-19T19:31:57.349865+00:00,49361279,13,PostgreSQL for Everything,222,154
+2026-08-19T19:31:57.349865+00:00,49362728,14,Mathematics in the Age of AI,51,26
+2026-08-19T19:31:57.349865+00:00,49363587,15,Chain-of-Thought Reasoning in the Wild Is Not Always Faithful,40,24
+2026-08-19T19:31:57.349865+00:00,49359425,16,Air Theremin – a browser theremin you play by waving at your webcam,202,74
+2026-08-19T19:31:57.349865+00:00,49361395,17,Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma,409,183
+2026-08-19T19:31:57.349865+00:00,49360242,18,Devices with GrapheneOS support should be available in 2027,523,323
+2026-08-19T19:31:57.349865+00:00,49347477,19,Microgpt in pure C hits 10M tps on Apple m5,91,27
+2026-08-19T19:31:57.349865+00:00,49365419,20,Rules of Good Social Skills,6,0
+2026-08-19T19:31:57.349865+00:00,49286258,21,"A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",153,29
+2026-08-19T19:31:57.349865+00:00,49286987,22,"Taffy: A flexible, high-performance, cross-platform UI layout library",80,29
+2026-08-19T19:31:57.349865+00:00,49364721,23,A revisit of remote Spectre attacks on Cloudflare Workers,10,0
+2026-08-19T19:31:57.349865+00:00,49365383,24,The A.I. In Google's New Pixel 11 Is Not Helpful,28,19
+2026-08-19T19:31:57.349865+00:00,49354949,25,Cerebras CS-4,440,256
+2026-08-19T19:31:57.349865+00:00,49321298,26,Being ambitious and being a dad,863,671
+2026-08-19T19:31:57.349865+00:00,49302127,27,Turning molecules into reliable electronic devices,13,0
+2026-08-19T19:31:57.349865+00:00,49365733,28,Police officer used Flock cameras to track estranged wife 717 times,13,0
+2026-08-19T19:31:57.349865+00:00,49298283,29,Rings forged from meteorites may have been fashionable among ancient Greek elite,104,40
+2026-08-19T19:31:57.349865+00:00,49364745,30,Google replaced Git tags for certain source code with obtaining via Google Drive,4,0
+2026-08-19T19:31:57.349865+00:00,49300272,31,Activation Energy is a good model for a lot of things,151,40
+2026-08-19T19:31:57.349865+00:00,49364223,32,Show HN: Frugal Tokens – explore costs and usage across coding agents,19,6
+2026-08-19T19:31:57.349865+00:00,49306207,33,Supersonic Trebuchet [video],230,101
+2026-08-19T19:31:57.349865+00:00,49299974,34,"In South Korea, some savour last season of legal dog meat",15,2
+2026-08-19T19:31:57.349865+00:00,49363433,35,Civic Hygiene – avoid building technologies that could be used by a police state (2013),374,266
+2026-08-19T19:31:57.349865+00:00,49353221,36,A 3D fruit fly on macOS desktop powered by the real FlyWire connectome,365,175
+2026-08-19T19:31:57.349865+00:00,49355968,37,Palomar: A registry of Lean verified mathematics,165,37
+2026-08-19T19:31:57.349865+00:00,49306415,38,Show HN: Nikon F100 Film Camera Repair Notes,37,18
+2026-08-19T19:31:57.349865+00:00,49349984,39,How does IKEA come up with names for its products?,441,310
+2026-08-19T19:31:57.349865+00:00,49365783,40,Home batteries are suddenly cheap and everywhere. Here's why,6,0
+2026-08-19T19:31:57.349865+00:00,49342472,41,Finger: the 1971 social network that never died,316,115
+2026-08-19T19:31:57.349865+00:00,49364789,42,Cop Explains Why He Used License Plate Reader to Stalk Woman,33,14
+2026-08-19T19:31:57.349865+00:00,49311814,43,"A 25-year-old video patent just expired, ending a legal headache for Linux",300,158
+2026-08-19T19:31:57.349865+00:00,49319745,44,A recipe for drone racing with reinforcement learning,21,3
+2026-08-19T19:31:57.349865+00:00,49344643,45,Claude writing a macOS driver for my obscure HP printer built only for Windows,295,212
+2026-08-19T19:31:57.349865+00:00,49362887,46,New Casio F-B100W – Upgrade to the iconic F-91W after 40 years,163,134
+2026-08-19T19:31:57.349865+00:00,49357501,47,λλ: A Programming Language for Silicon Photonics,82,17
+2026-08-19T19:31:57.349865+00:00,49360140,48,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,22,7
+2026-08-19T19:31:57.349865+00:00,49348912,49,And then the men with guns tell you to do it anyway,426,359
+2026-08-19T19:31:57.349865+00:00,49354613,50,Solo – a .so loader for static Linux binaries,191,217
