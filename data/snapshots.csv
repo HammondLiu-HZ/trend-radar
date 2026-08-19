@@ -35100,3 +35100,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-18T23:28:44.311191+00:00,49349159,48,Show HN: macOS data protection keychain for Electron apps,21,1
 2026-08-18T23:28:44.311191+00:00,49352976,49,"Infra Lang – DSL That Compiles to Kubernetes, Helm, Compose, Terraform, and CI",3,0
 2026-08-18T23:28:44.311191+00:00,49343559,50,Google has acquired the data of failed US airline Spirit,556,381
+2026-08-19T01:44:12.981603+00:00,49353221,1,A 3D fruit fly on macOS desktop powered by the real FlyWire connectome,155,36
+2026-08-19T01:44:12.981603+00:00,49355142,2,New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf],16,7
+2026-08-19T01:44:12.981603+00:00,49345263,3,The Amazon tax,936,541
+2026-08-19T01:44:12.981603+00:00,49354949,4,Cerebras CS4,29,10
+2026-08-19T01:44:12.981603+00:00,49354613,5,Solo – a .so loader for static Linux binaries,36,48
+2026-08-19T01:44:12.981603+00:00,49349984,6,How does IKEA come up with names for its products?,223,141
+2026-08-19T01:44:12.981603+00:00,49354664,7,"Show HN: Interactive, animated architecture of any HuggingFace models",29,4
+2026-08-19T01:44:12.981603+00:00,49355105,8,Scientists stunned by children's lung recovery in ultra low emission zone,10,0
+2026-08-19T01:44:12.981603+00:00,49349898,9,Turbovec – Google's TurboQuant for vector search in Rust,203,27
+2026-08-19T01:44:12.981603+00:00,49353432,10,AI usage patterns in software teams,40,19
+2026-08-19T01:44:12.981603+00:00,49354778,11,Why crypto's best infrastructure companies stopped looking like crypto?,10,1
+2026-08-19T01:44:12.981603+00:00,49344825,12,Using the railway network as a flatbed scanner,403,64
+2026-08-19T01:44:12.981603+00:00,49321298,13,Being ambitious and being a dad,276,155
+2026-08-19T01:44:12.981603+00:00,49334209,14,"Cursor launches Origin, GitHub alternative",468,362
+2026-08-19T01:44:12.981603+00:00,49345220,15,Fixing a bricked Framework laptop,357,243
+2026-08-19T01:44:12.981603+00:00,49311814,16,"A 25-year-old video patent just expired, ending a legal headache for Linux",91,26
+2026-08-19T01:44:12.981603+00:00,49351324,17,Beware Management Consultants,441,122
+2026-08-19T01:44:12.981603+00:00,49348912,18,And then the men with guns tell you to do it anyway,164,90
+2026-08-19T01:44:12.981603+00:00,49334960,19,Memory prices climb 500% in 12 months,485,391
+2026-08-19T01:44:12.981603+00:00,49353407,20,GLM-5.3 Artificial Analysis Benchmarks,77,36
+2026-08-19T01:44:12.981603+00:00,49355232,21,Tiny satellite will use the dark side of the Moon as a shield,5,1
+2026-08-19T01:44:12.981603+00:00,49353854,22,The 90-year history of the binoculars bolted to scenic overlooks,20,3
+2026-08-19T01:44:12.981603+00:00,49295369,23,"How a giant battery is transforming a town centre in Cannington, Ontario",16,9
+2026-08-19T01:44:12.981603+00:00,49348055,24,Apple announces changes for apps in the European Union,113,172
+2026-08-19T01:44:12.981603+00:00,49352806,25,Claude Code Teaching macOS to Natively Print to the HP Laser 1008a,111,72
+2026-08-19T01:44:12.981603+00:00,49332981,26,Universal health coverage could save $1T and 114k lives a year: study,715,795
+2026-08-19T01:44:12.981603+00:00,49348136,27,Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI,61,37
+2026-08-19T01:44:12.981603+00:00,49287463,28,"2,500-year-old sculpture discovered at UNESCO site in Turkey",71,23
+2026-08-19T01:44:12.981603+00:00,49351330,29,Norway should buy OpenAI,211,228
+2026-08-19T01:44:12.981603+00:00,49353484,30,GPT-5.6 Sol: 70% off in Devin,14,0
+2026-08-19T01:44:12.981603+00:00,49348751,31,Claude Code May–August 2026 weekly limits promotion,259,228
+2026-08-19T01:44:12.981603+00:00,49345476,32,Python Polars Cheatsheet (based on our O'Reilly book),160,33
+2026-08-19T01:44:12.981603+00:00,49273187,33,"Show HN: Capto – alerts when a background job goes quiet, with breadcrumbs",4,3
+2026-08-19T01:44:12.981603+00:00,49353618,34,Programmable Property-Based Testing,18,1
+2026-08-19T01:44:12.981603+00:00,49272631,35,Teaching my kid to code with a modern MUD,231,60
+2026-08-19T01:44:12.981603+00:00,49343029,36,Show HN: Loft Day – a wedding invitation turned point-and-click game,6,2
+2026-08-19T01:44:12.981603+00:00,49310602,37,Splitting a Git Commit,120,60
+2026-08-19T01:44:12.981603+00:00,49349147,38,Field measurements of neighborhood-scale air temperature impacts of data centers,285,422
+2026-08-19T01:44:12.981603+00:00,49309248,39,Evolve: An incremental game about evolving a civilization,75,23
+2026-08-19T01:44:12.981603+00:00,49272694,40,Simulated red blood cells and microscopy,6,1
+2026-08-19T01:44:12.981603+00:00,49340710,41,California's new tire efficiency rules could save drivers $1B a year,140,209
+2026-08-19T01:44:12.981603+00:00,49353774,42,Terry A. Davis Quotes,19,8
+2026-08-19T01:44:12.981603+00:00,49354650,43,The Official History of Arm,3,1
+2026-08-19T01:44:12.981603+00:00,49332495,44,Ask HN: GitHub employees what's going on? Why?,227,191
+2026-08-19T01:44:12.981603+00:00,49308058,45,Mycorrhizal Infrastructure Map,33,7
+2026-08-19T01:44:12.981603+00:00,49347178,46,Show HN: Openleetcode – Local LeetCode runner where tests live in the repo,52,14
+2026-08-19T01:44:12.981603+00:00,49297150,47,"We've flown a radiation-blocking vest to the Moon and back, and it worked",78,39
+2026-08-19T01:44:12.981603+00:00,49354574,48,Have an Agent Babysit Your Deployments,3,1
+2026-08-19T01:44:12.981603+00:00,49352598,49,What If America Went Dark?,16,8
+2026-08-19T01:44:12.981603+00:00,49345843,50,Babies born under sugar rationing grew into adults with lower cancer risk,267,55
