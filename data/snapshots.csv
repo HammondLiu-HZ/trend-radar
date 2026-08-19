@@ -35800,3 +35800,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-19T16:39:03.959754+00:00,49360643,48,What's in a PowerPoint File?,7,4
 2026-08-19T16:39:03.959754+00:00,49362712,49,Building Without Predicting,5,0
 2026-08-19T16:39:03.959754+00:00,49351324,50,Beware Management Consultants,579,151
+2026-08-19T17:32:48.878818+00:00,49363433,1,Civic Hygiene – avoid building technologies that could be used by a police state (2013),262,163
+2026-08-19T17:32:48.878818+00:00,49360015,2,A joke domain purchase turned in geopolitical warfare,378,50
+2026-08-19T17:32:48.878818+00:00,49360545,3,Geolocating a random island using geometry and CUDA programming,268,50
+2026-08-19T17:32:48.878818+00:00,49363710,4,Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams,18,4
+2026-08-19T17:32:48.878818+00:00,49362401,5,Ornith-1.5: From Self-Scaffolding to Self-Improvement,65,7
+2026-08-19T17:32:48.878818+00:00,49355606,6,OpenLogi,1343,367
+2026-08-19T17:32:48.878818+00:00,49362934,7,"Remote workers report the highest well-being in study of 7,700 employees",154,73
+2026-08-19T17:32:48.878818+00:00,49363668,8,Extensible Software in the Age of LLMs,18,7
+2026-08-19T17:32:48.878818+00:00,49361395,9,Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma,324,123
+2026-08-19T17:32:48.878818+00:00,49361279,10,PostgreSQL for Everything,174,123
+2026-08-19T17:32:48.878818+00:00,49360242,11,Devices with GrapheneOS support should be available in 2027,479,284
+2026-08-19T17:32:48.878818+00:00,49347477,12,Microgpt in pure C hits 10M tps on Apple m5,58,19
+2026-08-19T17:32:48.878818+00:00,49359425,13,Air Theremin – a browser theremin you play by waving at your webcam,176,69
+2026-08-19T17:32:48.878818+00:00,49363587,14,Chain-of-Thought Reasoning in the Wild Is Not Always Faithful,15,5
+2026-08-19T17:32:48.878818+00:00,49362728,15,Mathematics in the Age of AI,17,7
+2026-08-19T17:32:48.878818+00:00,49286987,16,"Taffy: A flexible, high-performance, cross-platform UI layout library",63,27
+2026-08-19T17:32:48.878818+00:00,49362887,17,New Casio F-B100W – Upgrade to the iconic F-91W after 40 years,112,88
+2026-08-19T17:32:48.878818+00:00,49286258,18,"A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",119,23
+2026-08-19T17:32:48.878818+00:00,49354949,19,Cerebras CS-4,414,252
+2026-08-19T17:32:48.878818+00:00,49321298,20,Being ambitious and being a dad,812,618
+2026-08-19T17:32:48.878818+00:00,49298283,21,Rings forged from meteorites may have been fashionable among ancient Greek elite,90,36
+2026-08-19T17:32:48.878818+00:00,49319745,22,A recipe for drone racing with reinforcement learning,10,1
+2026-08-19T17:32:48.878818+00:00,49306207,23,Supersonic Trebuchet [video],213,94
+2026-08-19T17:32:48.878818+00:00,49300272,24,Activation Energy is a good model for a lot of things,127,34
+2026-08-19T17:32:48.878818+00:00,49363665,25,How Kubernetes Probes Work,8,0
+2026-08-19T17:32:48.878818+00:00,49306415,26,Show HN: Nikon F100 Film Camera Repair Notes,28,15
+2026-08-19T17:32:48.878818+00:00,49355968,27,Palomar: A registry of Lean verified mathematics,162,37
+2026-08-19T17:32:48.878818+00:00,49353221,28,A 3D fruit fly on macOS desktop powered by the real FlyWire connectome,360,167
+2026-08-19T17:32:48.878818+00:00,49349984,29,How does IKEA come up with names for its products?,433,306
+2026-08-19T17:32:48.878818+00:00,49342472,30,Finger: the 1971 social network that never died,303,107
+2026-08-19T17:32:48.878818+00:00,49357501,31,λλ: A Programming Language for Silicon Photonics,79,17
+2026-08-19T17:32:48.878818+00:00,49311814,32,"A 25-year-old video patent just expired, ending a legal headache for Linux",291,150
+2026-08-19T17:32:48.878818+00:00,49344643,33,Claude writing a macOS driver for my obscure HP printer built only for Windows,290,207
+2026-08-19T17:32:48.878818+00:00,49354613,34,Solo – a .so loader for static Linux binaries,187,210
+2026-08-19T17:32:48.878818+00:00,49358327,35,"The Mojo language (by Modular, now Qualcomm) is now open-source",193,95
+2026-08-19T17:32:48.878818+00:00,49348912,36,And then the men with guns tell you to do it anyway,415,337
+2026-08-19T17:32:48.878818+00:00,49345263,37,The Amazon tax,1319,665
+2026-08-19T17:32:48.878818+00:00,49349898,38,Turbovec – Google's TurboQuant for vector search in Rust,285,32
+2026-08-19T17:32:48.878818+00:00,49348055,39,Apple announces changes for apps in the European Union,261,376
+2026-08-19T17:32:48.878818+00:00,49355451,40,The Vietnam Binh Chau (Chau Tan) Late Tang Wreck,50,6
+2026-08-19T17:32:48.878818+00:00,49353432,41,AI usage patterns in software teams,172,110
+2026-08-19T17:32:48.878818+00:00,49355607,42,Show HN: Automatically detect and patch walking-dead states in Sierra games,135,74
+2026-08-19T17:32:48.878818+00:00,49355105,43,Scientists stunned by children's lung recovery in ultra low emission zone,370,337
+2026-08-19T17:32:48.878818+00:00,49332495,44,Ask HN: GitHub employees what's going on? Why?,298,245
+2026-08-19T17:32:48.878818+00:00,49360140,45,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,10,3
+2026-08-19T17:32:48.878818+00:00,49360643,46,What's in a PowerPoint File?,8,6
+2026-08-19T17:32:48.878818+00:00,49295071,47,Looking for Missed Alarm Bugs in a Formal Verification Tool,25,1
+2026-08-19T17:32:48.878818+00:00,49272631,48,Teaching my kid to code with a modern MUD,260,65
+2026-08-19T17:32:48.878818+00:00,49340710,49,California's new tire efficiency rules could save drivers $1B a year,163,241
+2026-08-19T17:32:48.878818+00:00,49354664,50,"Show HN: Interactive, animated architecture of any HuggingFace models",101,11
