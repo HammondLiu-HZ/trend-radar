@@ -35750,3 +35750,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-19T15:38:36.678164+00:00,49283455,48,Win-V combo from Windows on Ubuntu,14,19
 2026-08-19T15:38:36.678164+00:00,49286291,49,CUDA Shared Memory Swizzling,58,2
 2026-08-19T15:38:36.678164+00:00,49334960,50,Memory prices climb 500% in 12 months,639,520
+2026-08-19T16:39:03.959754+00:00,49363433,1,Civic Hygiene – avoid building technologies that could be used by a police state,94,34
+2026-08-19T16:39:03.959754+00:00,49360545,2,Geolocating a random island using geometry and CUDA programming,229,47
+2026-08-19T16:39:03.959754+00:00,49360015,3,A joke domain purchase turned in geopolitical warfare,305,40
+2026-08-19T16:39:03.959754+00:00,49355606,4,OpenLogi,1291,356
+2026-08-19T16:39:03.959754+00:00,49363710,5,Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams,3,0
+2026-08-19T16:39:03.959754+00:00,49361279,6,PostgreSQL for Everything,152,105
+2026-08-19T16:39:03.959754+00:00,49347477,7,Microgpt in pure C hits 10M tps on Apple m5,45,7
+2026-08-19T16:39:03.959754+00:00,49361395,8,Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma,261,110
+2026-08-19T16:39:03.959754+00:00,49360242,9,Devices with GrapheneOS support should be available in 2027,443,265
+2026-08-19T16:39:03.959754+00:00,49362934,10,"Remote workers report the highest well-being in study of 7,700 employees",71,29
+2026-08-19T16:39:03.959754+00:00,49362401,11,Ornith-1.5: From Self-Scaffolding to Self-Improvement,21,2
+2026-08-19T16:39:03.959754+00:00,49359425,12,Air Theremin – a browser theremin you play by waving at your webcam,162,65
+2026-08-19T16:39:03.959754+00:00,49286987,13,"Taffy: A flexible, high-performance, cross-platform UI layout library",58,23
+2026-08-19T16:39:03.959754+00:00,49286258,14,"A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",101,20
+2026-08-19T16:39:03.959754+00:00,49354949,15,Cerebras CS-4,406,247
+2026-08-19T16:39:03.959754+00:00,49298283,16,Rings forged from meteorites may have been fashionable among ancient Greek elite,84,35
+2026-08-19T16:39:03.959754+00:00,49321298,17,Being ambitious and being a dad,786,594
+2026-08-19T16:39:03.959754+00:00,49362887,18,New Casio F-B100W – Upgrade to the iconic F-91W after 40 years,70,54
+2026-08-19T16:39:03.959754+00:00,49306207,19,Supersonic Trebuchet [video],207,92
+2026-08-19T16:39:03.959754+00:00,49300272,20,Activation Energy is a good model for a lot of things,114,30
+2026-08-19T16:39:03.959754+00:00,49355968,21,Palomar: A registry of Lean verified mathematics,154,37
+2026-08-19T16:39:03.959754+00:00,49353221,22,A 3D fruit fly on macOS desktop powered by the real FlyWire connectome,354,163
+2026-08-19T16:39:03.959754+00:00,49306415,23,Show HN: Nikon F100 Film Camera Repair Notes,24,11
+2026-08-19T16:39:03.959754+00:00,49362728,24,Mathematics in the Age of AI,6,2
+2026-08-19T16:39:03.959754+00:00,49349984,25,How does IKEA come up with names for its products?,426,304
+2026-08-19T16:39:03.959754+00:00,49357501,26,λλ: A Programming Language for Silicon Photonics,73,16
+2026-08-19T16:39:03.959754+00:00,49342472,27,Finger: the 1971 social network that never died,294,98
+2026-08-19T16:39:03.959754+00:00,49311814,28,"A 25-year-old video patent just expired, ending a legal headache for Linux",288,142
+2026-08-19T16:39:03.959754+00:00,49344643,29,Claude writing a macOS driver for my obscure HP printer built only for Windows,287,207
+2026-08-19T16:39:03.959754+00:00,49358327,30,"The Mojo language (by Modular, now Qualcomm) is now open-source",190,93
+2026-08-19T16:39:03.959754+00:00,49354613,31,Solo – a .so loader for static Linux binaries,182,205
+2026-08-19T16:39:03.959754+00:00,49345263,32,The Amazon tax,1313,660
+2026-08-19T16:39:03.959754+00:00,49348912,33,And then the men with guns tell you to do it anyway,408,326
+2026-08-19T16:39:03.959754+00:00,49349898,34,Turbovec – Google's TurboQuant for vector search in Rust,282,32
+2026-08-19T16:39:03.959754+00:00,49355451,35,The Vietnam Binh Chau (Chau Tan) Late Tang Wreck,50,6
+2026-08-19T16:39:03.959754+00:00,49348055,36,Apple announces changes for apps in the European Union,260,369
+2026-08-19T16:39:03.959754+00:00,49355105,37,Scientists stunned by children's lung recovery in ultra low emission zone,368,330
+2026-08-19T16:39:03.959754+00:00,49362512,38,The science behind Pixel Watch's insulin resistance feature,12,1
+2026-08-19T16:39:03.959754+00:00,49353432,39,AI usage patterns in software teams,171,110
+2026-08-19T16:39:03.959754+00:00,49355607,40,Show HN: Automatically detect and patch walking-dead states in Sierra games,132,74
+2026-08-19T16:39:03.959754+00:00,49295071,41,Looking for Missed Alarm Bugs in a Formal Verification Tool,25,1
+2026-08-19T16:39:03.959754+00:00,49332495,42,Ask HN: GitHub employees what's going on? Why?,296,243
+2026-08-19T16:39:03.959754+00:00,49272631,43,Teaching my kid to code with a modern MUD,260,65
+2026-08-19T16:39:03.959754+00:00,49360140,44,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,7,2
+2026-08-19T16:39:03.959754+00:00,49354664,45,"Show HN: Interactive, animated architecture of any HuggingFace models",101,10
+2026-08-19T16:39:03.959754+00:00,49355825,46,Meta's blockbuster trial draws parallels to big tobacco,300,259
+2026-08-19T16:39:03.959754+00:00,49340710,47,California's new tire efficiency rules could save drivers $1B a year,163,240
+2026-08-19T16:39:03.959754+00:00,49360643,48,What's in a PowerPoint File?,7,4
+2026-08-19T16:39:03.959754+00:00,49362712,49,Building Without Predicting,5,0
+2026-08-19T16:39:03.959754+00:00,49351324,50,Beware Management Consultants,579,151
