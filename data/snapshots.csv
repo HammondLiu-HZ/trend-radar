@@ -36100,3 +36100,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-19T22:31:48.133794+00:00,49358259,48,Where Human Sleep Went Wrong,98,95
 2026-08-19T22:31:48.133794+00:00,49344643,49,Claude writing a macOS driver for my obscure HP printer built only for Windows,307,214
 2026-08-19T22:31:48.133794+00:00,49367194,50,I Became a Pediatrician Because I Wanted to Be a Good Adult,13,2
+2026-08-19T23:29:06.870844+00:00,49364559,1,OpenRouter is joining Stripe,540,298
+2026-08-19T23:29:06.870844+00:00,49365405,2,Go 1.27,390,88
+2026-08-19T23:29:06.870844+00:00,49364745,3,Google replaced Git tags for certain source code with obtaining via Google Drive,230,78
+2026-08-19T23:29:06.870844+00:00,49365443,4,Unsloth Dynamic 3.0 GGUFs,160,53
+2026-08-19T23:29:06.870844+00:00,49365841,5,Unlocking a locked/deactivated e-waste Cricut Maker,105,29
+2026-08-19T23:29:06.870844+00:00,49348189,6,Sol Loves to Cheat,44,14
+2026-08-19T23:29:06.870844+00:00,49367256,7,"Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",25,9
+2026-08-19T23:29:06.870844+00:00,49360015,8,A joke domain purchase turned in geopolitical warfare,709,106
+2026-08-19T23:29:06.870844+00:00,49367350,9,Feature Request: Support AGENTS.md,79,39
+2026-08-19T23:29:06.870844+00:00,49366792,10,DFlash 2: Keep Drafting Parallel,56,6
+2026-08-19T23:29:06.870844+00:00,49362887,11,Casio F-B100W-1A,245,197
+2026-08-19T23:29:06.870844+00:00,49366597,12,Pressed Penny Machine Map,33,30
+2026-08-19T23:29:06.870844+00:00,49314109,13,The little-known winstart.bat batch file,61,10
+2026-08-19T23:29:06.870844+00:00,49360545,14,Geolocating a random island using geometry and CUDA programming,388,74
+2026-08-19T23:29:06.870844+00:00,49367836,15,Collaborative Human Agent Protocol (CHAP),13,3
+2026-08-19T23:29:06.870844+00:00,49362728,16,Mathematics in the age of AI,105,93
+2026-08-19T23:29:06.870844+00:00,49366474,17,Xwayland 26.1.0 rc1,40,15
+2026-08-19T23:29:06.870844+00:00,49362401,18,Ornith-1.5: From Self-Scaffolding to Self-Improvement,160,53
+2026-08-19T23:29:06.870844+00:00,49317632,19,"A portable, sensitive, low power, analog Geiger counter (2025)",29,0
+2026-08-19T23:29:06.870844+00:00,49365419,20,Rules of good social skills (2025),73,35
+2026-08-19T23:29:06.870844+00:00,49363668,21,Extensible Software in the age of LLMs,96,44
+2026-08-19T23:29:06.870844+00:00,49353339,22,"fx :Tiny, open, native coding agent.",153,77
+2026-08-19T23:29:06.870844+00:00,49294621,23,Aluminum Frame PC Fan Corsi-Rosenthal Build (2023),7,0
+2026-08-19T23:29:06.870844+00:00,49361279,24,PostgreSQL for Everything,283,178
+2026-08-19T23:29:06.870844+00:00,49305415,25,IDE Nostalgia (2022),23,0
+2026-08-19T23:29:06.870844+00:00,49362934,26,"Remote workers report the highest well-being in study of 7,700 employees",449,224
+2026-08-19T23:29:06.870844+00:00,49359425,27,Air Theremin – A browser theremin you play by waving at your webcam,235,81
+2026-08-19T23:29:06.870844+00:00,49350031,28,Pacing model development in an era of cyber-critical capabilities,117,141
+2026-08-19T23:29:06.870844+00:00,49363710,29,Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams,47,14
+2026-08-19T23:29:06.870844+00:00,49363665,30,How Kubernetes Probes Work,111,21
+2026-08-19T23:29:06.870844+00:00,49347477,31,MicroGPT-C in pure C hits 10M TPS on Apple M5,118,40
+2026-08-19T23:29:06.870844+00:00,49361395,32,Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma,509,239
+2026-08-19T23:29:06.870844+00:00,49360242,33,Devices with GrapheneOS support should be available in 2027,569,355
+2026-08-19T23:29:06.870844+00:00,49363587,34,Chain-of-Thought Reasoning in the Wild Is Not Always Faithful (2025),59,36
+2026-08-19T23:29:06.870844+00:00,49365326,35,Introducing MicroLighter,40,10
+2026-08-19T23:29:06.870844+00:00,49366270,36,Digital Immortality,24,7
+2026-08-19T23:29:06.870844+00:00,49286258,37,"A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",188,45
+2026-08-19T23:29:06.870844+00:00,49367924,38,How China Saved the Global Oil Market,15,1
+2026-08-19T23:29:06.870844+00:00,49355606,39,OpenLogi,1496,399
+2026-08-19T23:29:06.870844+00:00,49355105,40,Children's stunted lungs show recovery in ultra low emission zone,383,355
+2026-08-19T23:29:06.870844+00:00,49366115,41,From Quantum Relative Entropy to the Semiclassical Einstein Equations (2025),21,1
+2026-08-19T23:29:06.870844+00:00,49364721,42,A revisit of remote Spectre attacks on Cloudflare Workers,23,0
+2026-08-19T23:29:06.870844+00:00,49286987,43,"Taffy: A flexible, high-performance, cross-platform UI layout library",95,34
+2026-08-19T23:29:06.870844+00:00,49298283,44,Rings forged from meteorites may have been fashionable among ancient Greek elite,113,45
+2026-08-19T23:29:06.870844+00:00,49302127,45,Turning molecules into reliable electronic devices,29,0
+2026-08-19T23:29:06.870844+00:00,49300272,46,Activation Energy is a good model for a lot of things,160,42
+2026-08-19T23:29:06.870844+00:00,49306207,47,Supersonic Trebuchet [video],231,101
+2026-08-19T23:29:06.870844+00:00,49367040,48,"U.S. government debt passes $40T, more than doubling in a decade",40,22
+2026-08-19T23:29:06.870844+00:00,49355968,49,Palomar: A registry of Lean verified mathematics,173,37
+2026-08-19T23:29:06.870844+00:00,49358259,50,Where Human Sleep Went Wrong,100,97
