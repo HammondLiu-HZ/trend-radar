@@ -36050,3 +36050,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-19T21:32:21.151921+00:00,49344643,48,Claude writing a macOS driver for my obscure HP printer built only for Windows,302,213
 2026-08-19T21:32:21.151921+00:00,49367378,49,Curta Calculator,3,0
 2026-08-19T21:32:21.151921+00:00,49321111,50,"If your agent commits a crime, who is responsible?",21,75
+2026-08-19T22:31:48.133794+00:00,49364559,1,OpenRouter is joining Stripe,485,275
+2026-08-19T22:31:48.133794+00:00,49365405,2,Go 1.27,358,76
+2026-08-19T22:31:48.133794+00:00,49365443,3,Unsloth Dynamic 3.0 GGUFs,140,43
+2026-08-19T22:31:48.133794+00:00,49365841,4,Unlocking a locked/deactivated e-waste Cricut Maker,84,21
+2026-08-19T22:31:48.133794+00:00,49364745,5,Google replaced Git tags for certain source code with obtaining via Google Drive,182,53
+2026-08-19T22:31:48.133794+00:00,49366792,6,DFlash 2: Keep Drafting Parallel,43,5
+2026-08-19T22:31:48.133794+00:00,49360015,7,A joke domain purchase turned in geopolitical warfare,682,98
+2026-08-19T22:31:48.133794+00:00,49362887,8,Casio F-B100W-1A,229,177
+2026-08-19T22:31:48.133794+00:00,49314109,9,The little-known winstart.bat batch file,48,6
+2026-08-19T22:31:48.133794+00:00,49367256,10,"Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",13,3
+2026-08-19T22:31:48.133794+00:00,49360545,11,Geolocating a random island using geometry and CUDA programming,380,70
+2026-08-19T22:31:48.133794+00:00,49366597,12,Pressed Penny Machine Map,25,23
+2026-08-19T22:31:48.133794+00:00,49348189,13,Sol Loves to Cheat,8,0
+2026-08-19T22:31:48.133794+00:00,49362728,14,Mathematics in the age of AI,98,77
+2026-08-19T22:31:48.133794+00:00,49362401,15,Ornith-1.5: From Self-Scaffolding to Self-Improvement,155,50
+2026-08-19T22:31:48.133794+00:00,49365419,16,Rules of good social skills (2025),63,24
+2026-08-19T22:31:48.133794+00:00,49363668,17,Extensible Software in the age of LLMs,90,42
+2026-08-19T22:31:48.133794+00:00,49317632,18,"A portable, sensitive, low power, analog Geiger counter (2025)",22,0
+2026-08-19T22:31:48.133794+00:00,49366474,19,Xwayland 26.1.0 rc1,34,7
+2026-08-19T22:31:48.133794+00:00,49353339,20,"fx :Tiny, open, native coding agent.",147,72
+2026-08-19T22:31:48.133794+00:00,49361279,21,PostgreSQL for Everything,269,172
+2026-08-19T22:31:48.133794+00:00,49367836,22,Collaborative Human Agent Protocol (CHAP),4,0
+2026-08-19T22:31:48.133794+00:00,49305415,23,IDE Nostalgia (2022),8,0
+2026-08-19T22:31:48.133794+00:00,49362934,24,"Remote workers report the highest well-being in study of 7,700 employees",427,201
+2026-08-19T22:31:48.133794+00:00,49359425,25,Air Theremin – A browser theremin you play by waving at your webcam,231,80
+2026-08-19T22:31:48.133794+00:00,49363665,26,How Kubernetes Probes Work,98,21
+2026-08-19T22:31:48.133794+00:00,49350031,27,Pacing model development in an era of cyber-critical capabilities,109,119
+2026-08-19T22:31:48.133794+00:00,49363710,28,Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams,45,14
+2026-08-19T22:31:48.133794+00:00,49365326,29,Introducing MicroLighter,37,9
+2026-08-19T22:31:48.133794+00:00,49361395,30,Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma,496,228
+2026-08-19T22:31:48.133794+00:00,49347477,31,MicroGPT-C in pure C hits 10M TPS on Apple M5,115,39
+2026-08-19T22:31:48.133794+00:00,49360242,32,Devices with GrapheneOS support should be available in 2027,564,354
+2026-08-19T22:31:48.133794+00:00,49366270,33,Digital Immortality,21,6
+2026-08-19T22:31:48.133794+00:00,49363587,34,Chain-of-Thought Reasoning in the Wild Is Not Always Faithful (2025),56,35
+2026-08-19T22:31:48.133794+00:00,49366115,35,From Quantum Relative Entropy to the Semiclassical Einstein Equations (2025),21,1
+2026-08-19T22:31:48.133794+00:00,49286258,36,"A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",184,44
+2026-08-19T22:31:48.133794+00:00,49355606,37,OpenLogi,1488,397
+2026-08-19T22:31:48.133794+00:00,49364721,38,A revisit of remote Spectre attacks on Cloudflare Workers,23,0
+2026-08-19T22:31:48.133794+00:00,49355105,39,Children's stunted lungs show recovery in ultra low emission zone,380,352
+2026-08-19T22:31:48.133794+00:00,49302127,40,Turning molecules into reliable electronic devices,28,0
+2026-08-19T22:31:48.133794+00:00,49286987,41,"Taffy: A flexible, high-performance, cross-platform UI layout library",94,32
+2026-08-19T22:31:48.133794+00:00,49298283,42,Rings forged from meteorites may have been fashionable among ancient Greek elite,112,43
+2026-08-19T22:31:48.133794+00:00,49300272,43,Activation Energy is a good model for a lot of things,158,42
+2026-08-19T22:31:48.133794+00:00,49306207,44,Supersonic Trebuchet [video],231,101
+2026-08-19T22:31:48.133794+00:00,49367040,45,"U.S. government debt passes $40T, more than doubling in a decade",29,13
+2026-08-19T22:31:48.133794+00:00,49355968,46,Palomar: A registry of Lean verified mathematics,171,37
+2026-08-19T22:31:48.133794+00:00,49364223,47,Show HN: Frugal Tokens – explore costs and usage across coding agents,25,6
+2026-08-19T22:31:48.133794+00:00,49358259,48,Where Human Sleep Went Wrong,98,95
+2026-08-19T22:31:48.133794+00:00,49344643,49,Claude writing a macOS driver for my obscure HP printer built only for Windows,307,214
+2026-08-19T22:31:48.133794+00:00,49367194,50,I Became a Pediatrician Because I Wanted to Be a Good Adult,13,2
