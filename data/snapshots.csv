@@ -36797,3 +36797,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-20T15:40:19.835288+00:00,49373616,48,Browser De-Slop,48,39
 2026-08-20T15:40:19.835288+00:00,49325037,49,The Chauffeur Problem (1999),53,35
 2026-08-20T15:40:19.835288+00:00,49373822,50,"Conway's Game of Life, in real life",6,0
+2026-08-20T16:41:58.601123+00:00,49347543,1,I like 'em thick: an apology to my English teachers,123,32
+2026-08-20T16:41:58.601123+00:00,49372583,2,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,573,195
+2026-08-20T16:41:58.601123+00:00,49373456,3,Show HN: I trained a 125M model to autocomplete piano on-device,299,72
+2026-08-20T16:41:58.601123+00:00,49362689,4,HTML Can Do That,173,40
+2026-08-20T16:41:58.601123+00:00,49374269,5,Malicious Rust crate Arrayref runs a build-time payload,237,182
+2026-08-20T16:41:58.601123+00:00,49375996,6,Clean up Claude 5's token vomit with a separate LLM,49,33
+2026-08-20T16:41:58.601123+00:00,49368886,7,CIA funding helped keep NeXT afloat in the 80s,115,39
+2026-08-20T16:41:58.601123+00:00,49374287,8,DiffusionGemma Technical Report,75,12
+2026-08-20T16:41:58.601123+00:00,49376332,9,How to compromise your system with a job interview,24,6
+2026-08-20T16:41:58.601123+00:00,49373932,10,Xorg-Server 26.0.99.901,60,13
+2026-08-20T16:41:58.601123+00:00,49374772,11,Hacking with Claude on a $27 Smart Watch,44,27
+2026-08-20T16:41:58.601123+00:00,49374635,12,Every Model Cheats,33,15
+2026-08-20T16:41:58.601123+00:00,49375719,13,Anti-AI fonts are useless and harmful,19,6
+2026-08-20T16:41:58.601123+00:00,49328812,14,A theory for decades of C vulnerabilities,11,0
+2026-08-20T16:41:58.601123+00:00,49376038,16,Launch HN: Vendo (YC S26) – Let users build features on top of your product,12,5
+2026-08-20T16:41:58.601123+00:00,49376211,17,Generic Methods in Go 1.27,10,1
+2026-08-20T16:41:58.601123+00:00,49348079,18,Mojo is now open source,220,55
+2026-08-20T16:41:58.601123+00:00,49348141,19,Git at any scale,130,13
+2026-08-20T16:41:58.601123+00:00,49375237,20,Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours,26,13
+2026-08-20T16:41:58.601123+00:00,49374873,21,An elliptic curve of rank ≥ 30,38,10
+2026-08-20T16:41:58.601123+00:00,49371006,22,Windows brings out the Rorschach test in everyone (2003),310,109
+2026-08-20T16:41:58.601123+00:00,49322868,23,Double-double: 31 digits of precision without leaving the FPU,22,2
+2026-08-20T16:41:58.601123+00:00,49374797,24,Bun 1.4,139,66
+2026-08-20T16:41:58.601123+00:00,49374036,25,Why the Ocean Cleanup hasn't solved the plastic pollution crisis,59,48
+2026-08-20T16:41:58.601123+00:00,49375244,26,Show HN: Open-source Stripe Connect alternative,24,15
+2026-08-20T16:41:58.601123+00:00,49336772,27,"Nearly 1,400 live streams from Japan",53,10
+2026-08-20T16:41:58.601123+00:00,49360140,28,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,114,34
+2026-08-20T16:41:58.601123+00:00,49333091,29,Theory of Fluids Enters the 21st Century,42,3
+2026-08-20T16:41:58.601123+00:00,49369408,30,Turns are Better than Radians (2022),312,168
+2026-08-20T16:41:58.601123+00:00,49372661,31,Risk Engineering,59,9
+2026-08-20T16:41:58.601123+00:00,49321515,32,An American Mosaic (interactive map of ancestry census data),23,8
+2026-08-20T16:41:58.601123+00:00,49372994,33,Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery,44,20
+2026-08-20T16:41:58.601123+00:00,49375390,34,Could AIs Become Conscious?,7,8
+2026-08-20T16:41:58.601123+00:00,49366067,35,Router by Ramp,90,57
+2026-08-20T16:41:58.601123+00:00,49376265,36,Linux 7.2 Released,3,0
+2026-08-20T16:41:58.601123+00:00,49374738,37,Stwipe Acquires OpenWouter,166,21
+2026-08-20T16:41:58.601123+00:00,49374503,38,CI jobs artifacts should not be difficult,14,12
+2026-08-20T16:41:58.601123+00:00,49323795,39,A faster way to calculate the day of the week,230,72
+2026-08-20T16:41:58.601123+00:00,49373884,40,"Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",27,7
+2026-08-20T16:41:58.601123+00:00,49348189,41,Sol loves to cheat,220,179
+2026-08-20T16:41:58.601123+00:00,49371857,42,"Don't paste the AI, please",929,493
+2026-08-20T16:41:58.601123+00:00,49362001,43,Manabu Kosaka's Handmade Paper Sculptures,179,25
+2026-08-20T16:41:58.601123+00:00,49332754,44,Bufo pulls the andon cord,9,2
+2026-08-20T16:41:58.601123+00:00,49375439,45,Meta's Internal Research,3,2
+2026-08-20T16:41:58.601123+00:00,49364559,46,OpenRouter is joining Stripe,931,474
+2026-08-20T16:41:58.601123+00:00,49375269,47,Polchinski's Paradox,4,0
+2026-08-20T16:41:58.601123+00:00,49375253,48,Code Factories Without Quality: The AI Development Blind Spot,5,0
+2026-08-20T16:41:58.601123+00:00,49376337,49,The Teens Taking on Data Centers,8,0
+2026-08-20T16:41:58.601123+00:00,49367350,50,Feature Request: Support AGENTS.md,337,209
