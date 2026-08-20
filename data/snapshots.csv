@@ -37140,3 +37140,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-20T22:35:19.311266+00:00,49374965,48,Slack Code,51,81
 2026-08-20T22:35:19.311266+00:00,49369408,49,Turns are Better than Radians (2022),329,197
 2026-08-20T22:35:19.311266+00:00,49376038,50,Launch HN: Vendo (YC S26) – Let users build features on top of your product,31,17
+2026-08-20T23:32:37.184720+00:00,49378957,1,"The August 17 outage, and the work ahead",231,272
+2026-08-20T23:32:37.184720+00:00,49378243,2,Consumer Rights Wiki,169,10
+2026-08-20T23:32:37.184720+00:00,49347543,3,I like 'em thick: an apology to my English teachers,509,243
+2026-08-20T23:32:37.184720+00:00,49379550,4,"Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",657,135
+2026-08-20T23:32:37.184720+00:00,49372583,5,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,837,277
+2026-08-20T23:32:37.184720+00:00,49377853,6,I should have loved biology (2020),173,64
+2026-08-20T23:32:37.184720+00:00,49362689,7,HTML Can Do That,523,149
+2026-08-20T23:32:37.184720+00:00,49374269,8,Malicious Rust crate Arrayref runs a build-time payload,361,349
+2026-08-20T23:32:37.184720+00:00,49378768,9,Show HN: Huzzah – a novel approach to coding with AI,188,104
+2026-08-20T23:32:37.184720+00:00,49368886,10,CIA funding helped keep NeXT afloat in the 80s,303,195
+2026-08-20T23:32:37.184720+00:00,49373456,11,Show HN: I trained a 125M model to autocomplete piano on-device,473,104
+2026-08-20T23:32:37.184720+00:00,49378933,12,SpacetimeDB: A Short Technical Review,45,9
+2026-08-20T23:32:37.184720+00:00,49378446,13,Why aren't smart people happier? (2022),63,97
+2026-08-20T23:32:37.184720+00:00,49376265,14,Linux 7.2,181,60
+2026-08-20T23:32:37.184720+00:00,49375996,15,Vomit: Clean up Claude 5's token output with a separate LLM,164,175
+2026-08-20T23:32:37.184720+00:00,49378950,16,Tidal Cycles – Live coding music with Algorithmic patterns,42,7
+2026-08-20T23:32:37.184720+00:00,49376332,17,How to compromise your system with a job interview,113,87
+2026-08-20T23:32:37.184720+00:00,49295112,18,Speeding Up (Small) Ruby Hashes,10,0
+2026-08-20T23:32:37.184720+00:00,49375719,20,Anti-AI fonts are useless and harmful,95,66
+2026-08-20T23:32:37.184720+00:00,49378630,21,Watching TikTok and Instagram deactivates the cognitive control network: Study,283,109
+2026-08-20T23:32:37.184720+00:00,49335490,22,In Which I Lose My Mind over Embeddings (HPLM Chapter 2),4,0
+2026-08-20T23:32:37.184720+00:00,49348079,23,Mojo is now open source,326,70
+2026-08-20T23:32:37.184720+00:00,49374635,24,Every Model Cheats,74,55
+2026-08-20T23:32:37.184720+00:00,49374772,25,Hacking with Claude on a $27 smart watch,78,44
+2026-08-20T23:32:37.184720+00:00,49381311,26,Detecting scraper bots through scroll behaviour,6,3
+2026-08-20T23:32:37.184720+00:00,49380482,27,Code as an Artifact,16,3
+2026-08-20T23:32:37.184720+00:00,49380226,28,The Wonders of the Male Human Pelvis,22,5
+2026-08-20T23:32:37.184720+00:00,49374287,29,DiffusionGemma Technical Report,123,32
+2026-08-20T23:32:37.184720+00:00,49380671,30,Scientists Release Biggest 2D Map of the Universe,8,2
+2026-08-20T23:32:37.184720+00:00,49348141,31,Git at any scale,253,75
+2026-08-20T23:32:37.184720+00:00,49377739,32,Project Cybersyn (2022),47,34
+2026-08-20T23:32:37.184720+00:00,49360140,33,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,188,103
+2026-08-20T23:32:37.184720+00:00,49377660,34,Show HN: We chased a weather balloon across Montana and never found it,48,21
+2026-08-20T23:32:37.184720+00:00,49379026,35,"GitHub, autoscaling, and the component substitution fallacy",18,0
+2026-08-20T23:32:37.184720+00:00,49371006,36,Windows brings out the Rorschach test in everyone (2003),336,128
+2026-08-20T23:32:37.184720+00:00,49376211,37,Generic Methods in Go 1.27,56,28
+2026-08-20T23:32:37.184720+00:00,49319011,38,I Analyzed 163K Lines of Kuzu's Codebase. Here's Why Apple Wanted It,9,6
+2026-08-20T23:32:37.184720+00:00,49380128,39,Ameliorate,11,0
+2026-08-20T23:32:37.184720+00:00,49374830,40,"Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",43,35
+2026-08-20T23:32:37.184720+00:00,49290082,41,"Gauguin, Descartes, Bayes: A Diurnal Golem's Brain",19,4
+2026-08-20T23:32:37.184720+00:00,49375244,42,Show HN: Open-source Stripe Connect alternative,59,24
+2026-08-20T23:32:37.184720+00:00,49377923,43,Optimizing things in the USSR (2016),38,33
+2026-08-20T23:32:37.184720+00:00,49312797,44,Fossilisation processes and our reading of animal antiquity,9,0
+2026-08-20T23:32:37.184720+00:00,49374873,45,An elliptic curve of rank ≥ 30,83,25
+2026-08-20T23:32:37.184720+00:00,49369408,46,Turns are Better than Radians (2022),332,198
+2026-08-20T23:32:37.184720+00:00,49374965,47,Slack Code,54,84
+2026-08-20T23:32:37.184720+00:00,49380303,48,Early-life stress leaves a 'scar' inside brain cells,7,0
+2026-08-20T23:32:37.184720+00:00,49373932,49,Xorg-server 26.1.0 rc1,110,94
+2026-08-20T23:32:37.184720+00:00,49376038,50,Launch HN: Vendo (YC S26) – Let users build features on top of your product,33,17
