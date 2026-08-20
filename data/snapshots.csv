@@ -36748,3 +36748,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-20T14:43:17.223894+00:00,49361279,48,PostgreSQL for Everything,418,241
 2026-08-20T14:43:17.223894+00:00,49360545,49,Geolocating a random island using geometry and CUDA programming,510,82
 2026-08-20T14:43:17.223894+00:00,49353339,50,"fx :Tiny, open, native coding agent.",304,130
+2026-08-20T15:40:19.835288+00:00,49372583,1,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,446,147
+2026-08-20T15:40:19.835288+00:00,49374269,2,Malicious Rust crate Arrayref runs a build-time payload,189,140
+2026-08-20T15:40:19.835288+00:00,49373456,3,Show HN: I trained a 125M model to autocomplete piano on-device,230,59
+2026-08-20T15:40:19.835288+00:00,49374287,4,DiffusionGemma Technical Report,53,8
+2026-08-20T15:40:19.835288+00:00,49362689,5,HTML Can Do That,92,12
+2026-08-20T15:40:19.835288+00:00,49374772,6,Hacking with Claude on a $27 Smart Watch,28,14
+2026-08-20T15:40:19.835288+00:00,49347543,7,I like 'em thick: an apology to my English teachers,13,2
+2026-08-20T15:40:19.835288+00:00,49368886,8,CIA funding helped keep NeXT afloat in the 80s,45,13
+2026-08-20T15:40:19.835288+00:00,49375996,9,Clean up Claude 5's token vomit with a separate LLM,7,0
+2026-08-20T15:40:19.835288+00:00,49374635,10,Every Model Cheats,17,5
+2026-08-20T15:40:19.835288+00:00,49348079,11,Mojo is now open source,188,51
+2026-08-20T15:40:19.835288+00:00,49371006,12,Windows brings out the Rorschach test in everyone (2003),300,106
+2026-08-20T15:40:19.835288+00:00,49374873,14,An elliptic curve of rank ≥ 30,21,8
+2026-08-20T15:40:19.835288+00:00,49373932,15,Xorg-Server 26.0.99.901,29,3
+2026-08-20T15:40:19.835288+00:00,49348141,16,Git at any scale,86,7
+2026-08-20T15:40:19.835288+00:00,49374036,17,Why the Ocean Cleanup hasn't solved the plastic pollution crisis,39,32
+2026-08-20T15:40:19.835288+00:00,49374797,18,Bun 1.4,90,34
+2026-08-20T15:40:19.835288+00:00,49336772,19,"Nearly 1,400 live streams from Japan",35,7
+2026-08-20T15:40:19.835288+00:00,49333091,20,Theory of Fluids Enters the 21st Century,36,2
+2026-08-20T15:40:19.835288+00:00,49375244,21,Show HN: Open-source Stripe Connect alternative,14,5
+2026-08-20T15:40:19.835288+00:00,49375237,22,Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours,10,1
+2026-08-20T15:40:19.835288+00:00,49321515,23,An American Mosaic (interactive map of ancestry census data),21,3
+2026-08-20T15:40:19.835288+00:00,49322868,24,Double-double: 31 digits of precision without leaving the FPU,6,0
+2026-08-20T15:40:19.835288+00:00,49360140,25,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,97,22
+2026-08-20T15:40:19.835288+00:00,49372994,26,Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery,42,19
+2026-08-20T15:40:19.835288+00:00,49372661,27,Risk Engineering,54,7
+2026-08-20T15:40:19.835288+00:00,49374738,28,Stwipe Acquires OpenWouter,133,18
+2026-08-20T15:40:19.835288+00:00,49369408,29,Turns are Better than Radians (2022),304,163
+2026-08-20T15:40:19.835288+00:00,49366067,30,Router by Ramp,89,56
+2026-08-20T15:40:19.835288+00:00,49375719,31,Anti-AI fonts are useless and harmful,3,0
+2026-08-20T15:40:19.835288+00:00,49374503,32,CI jobs artifacts should not be difficult,13,9
+2026-08-20T15:40:19.835288+00:00,49323795,33,A faster way to calculate the day of the week,227,66
+2026-08-20T15:40:19.835288+00:00,49375269,34,Polchinski's Paradox,4,0
+2026-08-20T15:40:19.835288+00:00,49375253,35,Code Factories Without Quality: The AI Development Blind Spot,3,0
+2026-08-20T15:40:19.835288+00:00,49373269,36,"AI didn't erase the junior engineer's value, it increased it it",54,98
+2026-08-20T15:40:19.835288+00:00,49332754,37,Bufo pulls the andon cord,9,2
+2026-08-20T15:40:19.835288+00:00,49373884,38,"Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",19,6
+2026-08-20T15:40:19.835288+00:00,49348189,39,Sol loves to cheat,218,179
+2026-08-20T15:40:19.835288+00:00,49371857,40,"Don't paste the AI, please",915,481
+2026-08-20T15:40:19.835288+00:00,49374965,41,Slack Code,39,50
+2026-08-20T15:40:19.835288+00:00,49362001,42,Manabu Kosaka's Handmade Paper Sculptures,176,25
+2026-08-20T15:40:19.835288+00:00,49374162,43,Canonical Backs New Project to Translate Large C Codebases into Safe Rust,30,29
+2026-08-20T15:40:19.835288+00:00,49374920,44,Harvest hikes bills by 1500% after purchased by Bending Spoons,82,63
+2026-08-20T15:40:19.835288+00:00,49364559,45,OpenRouter is joining Stripe,928,473
+2026-08-20T15:40:19.835288+00:00,49364842,46,Rivian OS 2,3,10
+2026-08-20T15:40:19.835288+00:00,49367350,47,Feature Request: Support AGENTS.md,336,206
+2026-08-20T15:40:19.835288+00:00,49373616,48,Browser De-Slop,48,39
+2026-08-20T15:40:19.835288+00:00,49325037,49,The Chauffeur Problem (1999),53,35
+2026-08-20T15:40:19.835288+00:00,49373822,50,"Conway's Game of Life, in real life",6,0
