@@ -36846,3 +36846,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-20T16:41:58.601123+00:00,49375253,48,Code Factories Without Quality: The AI Development Blind Spot,5,0
 2026-08-20T16:41:58.601123+00:00,49376337,49,The Teens Taking on Data Centers,8,0
 2026-08-20T16:41:58.601123+00:00,49367350,50,Feature Request: Support AGENTS.md,337,209
+2026-08-20T17:36:52.339578+00:00,49347543,1,I like 'em thick: an apology to my English teachers,225,75
+2026-08-20T17:36:52.339578+00:00,49372583,2,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,639,217
+2026-08-20T17:36:52.339578+00:00,49362689,3,HTML Can Do That,249,60
+2026-08-20T17:36:52.339578+00:00,49373456,4,Show HN: I trained a 125M model to autocomplete piano on-device,345,83
+2026-08-20T17:36:52.339578+00:00,49368886,5,CIA funding helped keep NeXT afloat in the 80s,161,86
+2026-08-20T17:36:52.339578+00:00,49374269,6,Malicious Rust crate Arrayref runs a build-time payload,255,203
+2026-08-20T17:36:52.339578+00:00,49376265,8,Linux 7.2 Released,31,1
+2026-08-20T17:36:52.339578+00:00,49374287,9,DiffusionGemma Technical Report,91,14
+2026-08-20T17:36:52.339578+00:00,49375996,10,Clean up Claude 5's token vomit with a separate LLM,83,68
+2026-08-20T17:36:52.339578+00:00,49376332,11,How to compromise your system with a job interview,41,15
+2026-08-20T17:36:52.339578+00:00,49376211,12,Generic Methods in Go 1.27,26,5
+2026-08-20T17:36:52.339578+00:00,49373932,13,Xorg-Server 26.0.99.901,72,24
+2026-08-20T17:36:52.339578+00:00,49374772,14,Hacking with Claude on a $27 Smart Watch,53,29
+2026-08-20T17:36:52.339578+00:00,49348079,15,Mojo is now open source,242,60
+2026-08-20T17:36:52.339578+00:00,49374873,16,An elliptic curve of rank ≥ 30,51,14
+2026-08-20T17:36:52.339578+00:00,49376038,17,Launch HN: Vendo (YC S26) – Let users build features on top of your product,18,7
+2026-08-20T17:36:52.339578+00:00,49328812,18,A theory for decades of C vulnerabilities,26,3
+2026-08-20T17:36:52.339578+00:00,49348141,19,Git at any scale,151,23
+2026-08-20T17:36:52.339578+00:00,49375719,20,Anti-AI fonts are useless and harmful,43,26
+2026-08-20T17:36:52.339578+00:00,49375244,21,Show HN: Open-source Stripe Connect alternative,30,17
+2026-08-20T17:36:52.339578+00:00,49374635,22,Every Model Cheats,41,23
+2026-08-20T17:36:52.339578+00:00,49371006,23,Windows brings out the Rorschach test in everyone (2003),317,114
+2026-08-20T17:36:52.339578+00:00,49322868,24,Double-double: 31 digits of precision without leaving the FPU,29,4
+2026-08-20T17:36:52.339578+00:00,49375237,25,Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours,38,20
+2026-08-20T17:36:52.339578+00:00,49336772,26,"Nearly 1,400 live streams from Japan",65,13
+2026-08-20T17:36:52.339578+00:00,49374797,27,Bun 1.4,168,95
+2026-08-20T17:36:52.339578+00:00,49374036,28,Why the Ocean Cleanup hasn't solved the plastic pollution crisis,72,62
+2026-08-20T17:36:52.339578+00:00,49360140,29,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,133,50
+2026-08-20T17:36:52.339578+00:00,49333091,30,Theory of Fluids Enters the 21st Century,51,3
+2026-08-20T17:36:52.339578+00:00,49369408,31,Turns are Better than Radians (2022),321,179
+2026-08-20T17:36:52.339578+00:00,49372661,32,Risk Engineering,61,9
+2026-08-20T17:36:52.339578+00:00,49321515,33,An American Mosaic (interactive map of ancestry census data),25,8
+2026-08-20T17:36:52.339578+00:00,49372994,34,Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery,44,23
+2026-08-20T17:36:52.339578+00:00,49323795,35,A faster way to calculate the day of the week,232,72
+2026-08-20T17:36:52.339578+00:00,49366067,36,Router by Ramp,92,57
+2026-08-20T17:36:52.339578+00:00,49374503,37,CI jobs artifacts should not be difficult,15,14
+2026-08-20T17:36:52.339578+00:00,49374738,38,Stwipe Acquires OpenWouter,176,23
+2026-08-20T17:36:52.339578+00:00,49375390,39,Could AIs Become Conscious?,8,17
+2026-08-20T17:36:52.339578+00:00,49348189,40,Sol loves to cheat,223,180
+2026-08-20T17:36:52.339578+00:00,49373884,41,"Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",30,9
+2026-08-20T17:36:52.339578+00:00,49362001,42,Manabu Kosaka's Handmade Paper Sculptures,179,25
+2026-08-20T17:36:52.339578+00:00,49371857,43,"Don't paste the AI, please",941,505
+2026-08-20T17:36:52.339578+00:00,49332754,44,Bufo pulls the andon cord,10,2
+2026-08-20T17:36:52.339578+00:00,49375269,45,Polchinski's Paradox,5,1
+2026-08-20T17:36:52.339578+00:00,49364559,46,OpenRouter is joining Stripe,932,475
+2026-08-20T17:36:52.339578+00:00,49367350,47,Feature Request: Support AGENTS.md,339,212
+2026-08-20T17:36:52.339578+00:00,49377141,48,Why do programmers need private offices with doors?,15,1
+2026-08-20T17:36:52.339578+00:00,49374729,49,Guess which of these LLM outputs is watermarked,7,4
+2026-08-20T17:36:52.339578+00:00,49325037,50,The Chauffeur Problem (1999),54,37
