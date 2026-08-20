@@ -36300,3 +36300,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-20T04:44:56.444021+00:00,49298283,48,Rings forged from meteorites may have been fashionable among ancient Greek elite,119,48
 2026-08-20T04:44:56.444021+00:00,49286987,49,"Taffy: A flexible, high-performance, cross-platform UI layout library",102,36
 2026-08-20T04:44:56.444021+00:00,49363587,50,Chain-of-Thought Reasoning in the Wild Is Not Always Faithful (2025),59,36
+2026-08-20T05:37:37.666535+00:00,49364559,1,OpenRouter is joining Stripe,759,377
+2026-08-20T05:37:37.666535+00:00,49369408,2,Turns are Better than Radians (2022),93,46
+2026-08-20T05:37:37.666535+00:00,49365405,3,Go 1.27,547,138
+2026-08-20T05:37:37.666535+00:00,49294441,4,Error by AI scribe during medical appointment leaves patient devastated,90,70
+2026-08-20T05:37:37.666535+00:00,49323795,5,A faster way to calculate the day of the week,72,8
+2026-08-20T05:37:37.666535+00:00,49364745,6,Google replaced Git tags for certain source code with obtaining via Google Drive,389,164
+2026-08-20T05:37:37.666535+00:00,49362001,7,Manabu Kosaka's Handmade Paper Sculptures,83,8
+2026-08-20T05:37:37.666535+00:00,49365841,8,Unlocking a locked/deactivated e-waste Cricut Maker,175,42
+2026-08-20T05:37:37.666535+00:00,49360015,9,A joke domain purchase turned in geopolitical warfare,819,127
+2026-08-20T05:37:37.666535+00:00,49365443,10,Unsloth Dynamic 3.0 GGUFs,218,84
+2026-08-20T05:37:37.666535+00:00,49362887,11,Casio F-B100W-1A,323,259
+2026-08-20T05:37:37.666535+00:00,49348189,12,Sol Loves to Cheat,109,73
+2026-08-20T05:37:37.666535+00:00,49360545,13,Geolocating a random island using geometry and CUDA programming,442,77
+2026-08-20T05:37:37.666535+00:00,49367256,14,"Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",67,36
+2026-08-20T05:37:37.666535+00:00,49367350,15,Feature Request: Support AGENTS.md,180,103
+2026-08-20T05:37:37.666535+00:00,49273010,16,Simulacra and Simulation,51,17
+2026-08-20T05:37:37.666535+00:00,49366264,17,Pixel 11 Pro Fold feels like the end of an era,48,98
+2026-08-20T05:37:37.666535+00:00,49353339,18,"fx :Tiny, open, native coding agent.",217,94
+2026-08-20T05:37:37.666535+00:00,49361279,19,PostgreSQL for Everything,330,205
+2026-08-20T05:37:37.666535+00:00,49314109,20,The little-known winstart.bat batch file,99,24
+2026-08-20T05:37:37.666535+00:00,49363710,21,Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams,68,19
+2026-08-20T05:37:37.666535+00:00,49362728,22,Mathematics in the age of AI,140,176
+2026-08-20T05:37:37.666535+00:00,49315372,23,Rewriting in Rust,17,5
+2026-08-20T05:37:37.666535+00:00,49363668,24,Extensible Software in the age of LLMs,132,53
+2026-08-20T05:37:37.666535+00:00,49359425,25,Air Theremin – A browser theremin you play by waving at your webcam,265,87
+2026-08-20T05:37:37.666535+00:00,49362401,26,Ornith-1.5: From Self-Scaffolding to Self-Improvement,182,60
+2026-08-20T05:37:37.666535+00:00,49366792,27,DFlash 2: Keep Drafting Parallel,81,11
+2026-08-20T05:37:37.666535+00:00,49310128,28,Xorshift Generators,64,39
+2026-08-20T05:37:37.666535+00:00,49350031,29,Pacing model development in an era of cyber-critical capabilities,142,207
+2026-08-20T05:37:37.666535+00:00,49368828,30,Universality of Gradient Descent Neural Network Training,24,2
+2026-08-20T05:37:37.666535+00:00,49366597,31,Pressed Penny Machine Map,58,50
+2026-08-20T05:37:37.666535+00:00,49362934,32,"Remote workers report the highest well-being in study of 7,700 employees",548,277
+2026-08-20T05:37:37.666535+00:00,49370083,33,"Zuckerberg encouraged growth over child safety, ex-Meta executive testifies",23,0
+2026-08-20T05:37:37.666535+00:00,49317632,34,"A portable, sensitive, low power, analog Geiger counter (2025)",45,2
+2026-08-20T05:37:37.666535+00:00,49355606,35,OpenLogi,1533,407
+2026-08-20T05:37:37.666535+00:00,49355105,36,Children's stunted lungs show recovery in ultra low emission zone,392,363
+2026-08-20T05:37:37.666535+00:00,49366474,37,Xwayland 26.1.0 rc1,63,68
+2026-08-20T05:37:37.666535+00:00,49305415,38,IDE Nostalgia (2022),46,2
+2026-08-20T05:37:37.666535+00:00,49361395,39,Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma,541,256
+2026-08-20T05:37:37.666535+00:00,49294621,40,Aluminum Frame PC Fan Corsi-Rosenthal Build (2023),24,2
+2026-08-20T05:37:37.666535+00:00,49286258,41,"A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",203,47
+2026-08-20T05:37:37.666535+00:00,49274336,42,"How do payments work in the US, China, and Brazil?",33,7
+2026-08-20T05:37:37.666535+00:00,49347477,43,MicroGPT-C in pure C hits 10M TPS on Apple M5,126,43
+2026-08-20T05:37:37.666535+00:00,49360242,44,Devices with GrapheneOS support should be available in 2027,590,375
+2026-08-20T05:37:37.666535+00:00,49363665,45,How Kubernetes Probes Work,124,21
+2026-08-20T05:37:37.666535+00:00,49306207,46,Supersonic Trebuchet [video],242,106
+2026-08-20T05:37:37.666535+00:00,49367836,47,Collaborative Human Agent Protocol (CHAP),23,6
+2026-08-20T05:37:37.666535+00:00,49298283,48,Rings forged from meteorites may have been fashionable among ancient Greek elite,121,48
+2026-08-20T05:37:37.666535+00:00,49300272,49,Activation Energy is a good model for a lot of things,170,48
+2026-08-20T05:37:37.666535+00:00,49286987,50,"Taffy: A flexible, high-performance, cross-platform UI layout library",105,37
