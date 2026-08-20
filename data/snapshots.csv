@@ -36699,3 +36699,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-20T13:03:04.397801+00:00,49306207,48,Supersonic Trebuchet [video],249,109
 2026-08-20T13:03:04.397801+00:00,49361395,49,Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma,573,269
 2026-08-20T13:03:04.397801+00:00,49368828,50,Universality of Gradient Descent Neural Network Training,34,2
+2026-08-20T14:43:17.223894+00:00,49374269,1,Malicious Rust Crate Arrayref Runs a Build-Time Payload,120,56
+2026-08-20T14:43:17.223894+00:00,49372583,2,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,357,118
+2026-08-20T14:43:17.223894+00:00,49373456,3,Show HN: I trained a 125M model to autocomplete piano on-device,171,43
+2026-08-20T14:43:17.223894+00:00,49374287,4,DiffusionGemma Technical Report,34,6
+2026-08-20T14:43:17.223894+00:00,49374738,5,Stwipe Acquires OpenWouter,48,6
+2026-08-20T14:43:17.223894+00:00,49374437,6,I Spent Twenty Years Becoming Good at the Wrong Game,29,34
+2026-08-20T14:43:17.223894+00:00,49374772,7,Hacking with Claude on a $27 Smart Watch,14,4
+2026-08-20T14:43:17.223894+00:00,49371006,8,Windows brings out the Rorschach test in everyone (2003),286,105
+2026-08-20T14:43:17.223894+00:00,49374036,9,Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis,15,5
+2026-08-20T14:43:17.223894+00:00,49374635,10,Every Model Cheats,6,0
+2026-08-20T14:43:17.223894+00:00,49374873,12,An elliptic curve of rank ≥ 30,6,0
+2026-08-20T14:43:17.223894+00:00,49364559,13,OpenRouter is joining Stripe,925,473
+2026-08-20T14:43:17.223894+00:00,49372994,14,Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery,34,15
+2026-08-20T14:43:17.223894+00:00,49321515,15,An American Mosaic (interactive map of ancestry census data),10,0
+2026-08-20T14:43:17.223894+00:00,49372661,16,Risk Engineering,40,7
+2026-08-20T14:43:17.223894+00:00,49374920,17,Harvest hikes bills by 1500% after purchased by Bending Spoons,12,2
+2026-08-20T14:43:17.223894+00:00,49369408,18,Turns are Better than Radians (2022),289,154
+2026-08-20T14:43:17.223894+00:00,49364745,19,Google has stopped pushing Git tags for some Android source code,737,283
+2026-08-20T14:43:17.223894+00:00,49365405,20,Go 1.27,725,222
+2026-08-20T14:43:17.223894+00:00,49374797,21,Bun 1.4,32,6
+2026-08-20T14:43:17.223894+00:00,49332754,22,Bufo pulls the andon cord,5,0
+2026-08-20T14:43:17.223894+00:00,49323795,23,A faster way to calculate the day of the week,220,58
+2026-08-20T14:43:17.223894+00:00,49374503,24,CI jobs artifacts should not be difficult,5,2
+2026-08-20T14:43:17.223894+00:00,49371857,25,"Don't paste the AI, please",881,453
+2026-08-20T14:43:17.223894+00:00,49374162,26,Canonical Backs New Project to Translate Large C Codebases into Safe Rust,26,15
+2026-08-20T14:43:17.223894+00:00,49374067,27,"UK internet age checks have boosted rogue adult sites, says Pornhub",40,29
+2026-08-20T14:43:17.223894+00:00,49373616,28,Browser De-Slop,42,34
+2026-08-20T14:43:17.223894+00:00,49360015,29,A joke domain purchase turned in geopolitical warfare,980,158
+2026-08-20T14:43:17.223894+00:00,49362001,30,Manabu Kosaka's Handmade Paper Sculptures,171,23
+2026-08-20T14:43:17.223894+00:00,49365443,31,Unsloth Dynamic 3.0 GGUFs,309,113
+2026-08-20T14:43:17.223894+00:00,49374062,32,Do Chatbot LLMs Talk Too Much?,3,0
+2026-08-20T14:43:17.223894+00:00,49365841,33,Unlocking a locked/deactivated e-waste Cricut Maker,246,60
+2026-08-20T14:43:17.223894+00:00,49325037,34,The Chauffeur Problem,51,31
+2026-08-20T14:43:17.223894+00:00,49374045,35,Show HN: Sitmap – a World in Conflict inspired map maker for Cold War scenarios,4,3
+2026-08-20T14:43:17.223894+00:00,49362887,36,Casio F-B100W-1A,440,361
+2026-08-20T14:43:17.223894+00:00,49348189,37,Sol loves to cheat,217,176
+2026-08-20T14:43:17.223894+00:00,49373932,38,Xorg-Server 26.0.99.901,6,0
+2026-08-20T14:43:17.223894+00:00,49303545,39,Show HN: Streambench – Native Mac Client for Kafka and NATS,11,2
+2026-08-20T14:43:17.223894+00:00,49373895,40,"Show HN: Sentrint, a security scanner for projects build with LLMs",4,2
+2026-08-20T14:43:17.223894+00:00,49373891,41,We replaced our ledger with two functions,9,0
+2026-08-20T14:43:17.223894+00:00,49373884,42,"Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",5,0
+2026-08-20T14:43:17.223894+00:00,49373865,43,Protocol-Aware Deterministic Simulation Testing,9,0
+2026-08-20T14:43:17.223894+00:00,49373851,44,LinkedIn cracks down on automated content with AI detection button,4,0
+2026-08-20T14:43:17.223894+00:00,49312446,45,"Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",9,0
+2026-08-20T14:43:17.223894+00:00,49373822,46,"Conway's Game of Life, in real life",3,0
+2026-08-20T14:43:17.223894+00:00,49373123,47,Australia passes law to levy tech giants that fail to pay for local news,47,38
+2026-08-20T14:43:17.223894+00:00,49361279,48,PostgreSQL for Everything,418,241
+2026-08-20T14:43:17.223894+00:00,49360545,49,Geolocating a random island using geometry and CUDA programming,510,82
+2026-08-20T14:43:17.223894+00:00,49353339,50,"fx :Tiny, open, native coding agent.",304,130
