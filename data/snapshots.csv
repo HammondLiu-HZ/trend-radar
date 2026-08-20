@@ -36895,3 +36895,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-20T17:36:52.339578+00:00,49377141,48,Why do programmers need private offices with doors?,15,1
 2026-08-20T17:36:52.339578+00:00,49374729,49,Guess which of these LLM outputs is watermarked,7,4
 2026-08-20T17:36:52.339578+00:00,49325037,50,The Chauffeur Problem (1999),54,37
+2026-08-20T18:51:01.393869+00:00,49347543,1,I like 'em thick: an apology to my English teachers,321,144
+2026-08-20T18:51:01.393869+00:00,49377853,2,I should have loved biology,40,16
+2026-08-20T18:51:01.393869+00:00,49372583,3,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,710,234
+2026-08-20T18:51:01.393869+00:00,49362689,4,HTML Can Do That,350,96
+2026-08-20T18:51:01.393869+00:00,49376265,5,Linux 7.2,83,20
+2026-08-20T18:51:01.393869+00:00,49368886,6,CIA funding helped keep NeXT afloat in the 80s,216,116
+2026-08-20T18:51:01.393869+00:00,49373456,7,Show HN: I trained a 125M model to autocomplete piano on-device,378,89
+2026-08-20T18:51:01.393869+00:00,49378036,8,"Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX",16,0
+2026-08-20T18:51:01.393869+00:00,49377660,9,Show HN: We chased a weather balloon across Montana and never found it,24,9
+2026-08-20T18:51:01.393869+00:00,49376332,11,How to compromise your system with a job interview,66,27
+2026-08-20T18:51:01.393869+00:00,49374269,12,Malicious Rust crate Arrayref runs a build-time payload,289,242
+2026-08-20T18:51:01.393869+00:00,49377923,13,Optimizing things in the USSR (2016),13,4
+2026-08-20T18:51:01.393869+00:00,49374287,14,DiffusionGemma Technical Report,109,23
+2026-08-20T18:51:01.393869+00:00,49377739,15,Project Cybersyn,9,2
+2026-08-20T18:51:01.393869+00:00,49373932,16,Xorg-server 26.1.0 rc1,86,51
+2026-08-20T18:51:01.393869+00:00,49376211,17,Generic Methods in Go 1.27,45,16
+2026-08-20T18:51:01.393869+00:00,49348079,18,Mojo is now open source,265,62
+2026-08-20T18:51:01.393869+00:00,49374830,19,"Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",15,11
+2026-08-20T18:51:01.393869+00:00,49348141,20,Git at any scale,186,34
+2026-08-20T18:51:01.393869+00:00,49377535,21,URL shortener links stored in your ATProto PDS,13,2
+2026-08-20T18:51:01.393869+00:00,49374635,22,Every Model Cheats,54,32
+2026-08-20T18:51:01.393869+00:00,49374772,23,Hacking with Claude on a $27 Smart Watch,59,35
+2026-08-20T18:51:01.393869+00:00,49376038,24,Launch HN: Vendo (YC S26) – Let users build features on top of your product,24,12
+2026-08-20T18:51:01.393869+00:00,49374873,25,An elliptic curve of rank ≥ 30,66,20
+2026-08-20T18:51:01.393869+00:00,49371006,26,Windows brings out the Rorschach test in everyone (2003),326,119
+2026-08-20T18:51:01.393869+00:00,49375244,27,Show HN: Open-source Stripe Connect alternative,40,19
+2026-08-20T18:51:01.393869+00:00,49375237,28,Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours,49,26
+2026-08-20T18:51:01.393869+00:00,49312999,29,Show HN: sce (Simple Console Editor),5,0
+2026-08-20T18:51:01.393869+00:00,49360140,30,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,149,64
+2026-08-20T18:51:01.393869+00:00,49377155,31,AI at Home Part 2: Multi-GPU Drifting,6,0
+2026-08-20T18:51:01.393869+00:00,49336772,32,"Nearly 1,400 live streams from Japan",83,15
+2026-08-20T18:51:01.393869+00:00,49322868,33,Double-double: 31 digits of precision without leaving the FPU,32,7
+2026-08-20T18:51:01.393869+00:00,49375996,34,Clean up Claude 5's token vomit with a separate LLM,111,113
+2026-08-20T18:51:01.393869+00:00,49375719,35,Anti-AI fonts are useless and harmful,61,49
+2026-08-20T18:51:01.393869+00:00,49369408,36,Turns are Better than Radians (2022),322,187
+2026-08-20T18:51:01.393869+00:00,49376971,37,"Webmux: Like Tmux, but for the Browser",5,0
+2026-08-20T18:51:01.393869+00:00,49375390,38,Could AIs Become Conscious?,14,29
+2026-08-20T18:51:01.393869+00:00,49374036,39,Why the Ocean Cleanup hasn't solved the plastic pollution crisis,80,74
+2026-08-20T18:51:01.393869+00:00,49333091,40,Theory of Fluids Enters the 21st Century,55,4
+2026-08-20T18:51:01.393869+00:00,49372661,41,Risk Engineering,62,10
+2026-08-20T18:51:01.393869+00:00,49323795,42,A faster way to calculate the day of the week,235,73
+2026-08-20T18:51:01.393869+00:00,49372994,43,Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery,46,26
+2026-08-20T18:51:01.393869+00:00,49366067,44,Router by Ramp,93,57
+2026-08-20T18:51:01.393869+00:00,49374797,45,Bun 1.4,184,119
+2026-08-20T18:51:01.393869+00:00,49321515,46,An American Mosaic (interactive map of ancestry census data),25,8
+2026-08-20T18:51:01.393869+00:00,49377316,47,Why It Might Be Time to Rethink the Human Family Tree,5,0
+2026-08-20T18:51:01.393869+00:00,49348189,48,Sol loves to cheat,224,181
+2026-08-20T18:51:01.393869+00:00,49377196,49,The Depth of Wiles's Proof of Fermat's Last Theorem,3,0
+2026-08-20T18:51:01.393869+00:00,49374503,50,CI jobs artifacts should not be difficult,17,14
