@@ -37336,3 +37336,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-21T04:47:23.855199+00:00,49374965,48,Slack Code,64,96
 2026-08-21T04:47:23.855199+00:00,49374873,49,An elliptic curve of rank ≥ 30,90,27
 2026-08-21T04:47:23.855199+00:00,49380491,50,The Citizen Developer,49,71
+2026-08-21T05:38:58.894558+00:00,49383326,1,Codex on AWS bedrock bug causing 10x charges,62,17
+2026-08-21T05:38:58.894558+00:00,49378957,2,The August 17 outage,426,473
+2026-08-21T05:38:58.894558+00:00,49347543,3,I like 'em thick: an apology to my English teachers,646,274
+2026-08-21T05:38:58.894558+00:00,49362689,4,HTML Can Do That,662,174
+2026-08-21T05:38:58.894558+00:00,49374269,5,Malicious Rust crate Arrayref runs a build-time payload,437,386
+2026-08-21T05:38:58.894558+00:00,49377853,6,I should have loved biology (2020),230,89
+2026-08-21T05:38:58.894558+00:00,49381896,7,Ox Alpha,70,59
+2026-08-21T05:38:58.894558+00:00,49368886,8,CIA funding helped keep NeXT afloat in the 80s,383,228
+2026-08-21T05:38:58.894558+00:00,49383026,9,AI companies destroy physical books – let's scan rare books before it's too late,205,133
+2026-08-21T05:38:58.894558+00:00,49329919,10,Captain Zilog,30,3
+2026-08-21T05:38:58.894558+00:00,49382152,11,There's no such thing as a small software team anymore,55,94
+2026-08-21T05:38:58.894558+00:00,49378446,12,Why aren't smart people happier? (2022),132,188
+2026-08-21T05:38:58.894558+00:00,49375996,13,Vomit: Clean up Claude 5's token output with a separate LLM,219,229
+2026-08-21T05:38:58.894558+00:00,49304409,14,Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K,24,5
+2026-08-21T05:38:58.894558+00:00,49378768,15,Show HN: Huzzah – a novel approach to coding with AI,259,143
+2026-08-21T05:38:58.894558+00:00,49348079,16,Mojo is now open source,377,87
+2026-08-21T05:38:58.894558+00:00,49372583,17,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,936,295
+2026-08-21T05:38:58.894558+00:00,49376265,18,Linux 7.2,220,76
+2026-08-21T05:38:58.894558+00:00,49375719,19,Anti-AI fonts are useless and harmful,140,92
+2026-08-21T05:38:58.894558+00:00,49348141,20,Git at any scale,307,101
+2026-08-21T05:38:58.894558+00:00,49378933,21,SpacetimeDB: A Short Technical Review,75,16
+2026-08-21T05:38:58.894558+00:00,49295112,22,Speeding Up (Small) Ruby Hashes,36,0
+2026-08-21T05:38:58.894558+00:00,49378243,23,Consumer Rights Wiki,261,48
+2026-08-21T05:38:58.894558+00:00,49377739,24,Project Cybersyn (2022),55,43
+2026-08-21T05:38:58.894558+00:00,49376332,25,How to compromise your system with a job interview,140,129
+2026-08-21T05:38:58.894558+00:00,49360140,26,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,213,132
+2026-08-21T05:38:58.894558+00:00,49379550,27,"Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",1275,287
+2026-08-21T05:38:58.894558+00:00,49374635,28,Every Model Cheats,90,76
+2026-08-21T05:38:58.894558+00:00,49374287,29,DiffusionGemma Technical Report,144,34
+2026-08-21T05:38:58.894558+00:00,49374772,31,Hacking with Claude on a $27 smart watch,92,48
+2026-08-21T05:38:58.894558+00:00,49378950,32,Tidal Cycles – Live coding music with Algorithmic patterns,63,10
+2026-08-21T05:38:58.894558+00:00,49330622,33,Hard Problems and Heuristic Answers,5,1
+2026-08-21T05:38:58.894558+00:00,49371006,34,Windows brings out the Rorschach test in everyone (2003),342,133
+2026-08-21T05:38:58.894558+00:00,49382614,35,Artificial Intelligence Policy,34,27
+2026-08-21T05:38:58.894558+00:00,49381311,36,Detecting scraper bots through scroll behaviour,32,13
+2026-08-21T05:38:58.894558+00:00,49382022,37,"Show HN: ParqDB – Vector search in the browser from Parquet over HTTP""",11,4
+2026-08-21T05:38:58.894558+00:00,49369408,38,Turns are Better than Radians (2022),337,200
+2026-08-21T05:38:58.894558+00:00,49378630,39,Watching TikTok and Instagram deactivates the cognitive control network: Study,319,114
+2026-08-21T05:38:58.894558+00:00,49382809,40,Orbital Construction Pioneers,7,4
+2026-08-21T05:38:58.894558+00:00,49373456,41,Show HN: I trained a 125M model to autocomplete piano on-device,539,113
+2026-08-21T05:38:58.894558+00:00,49374965,42,Slack Code,67,97
+2026-08-21T05:38:58.894558+00:00,49375244,43,Show HN: Open-source Stripe Connect alternative,68,29
+2026-08-21T05:38:58.894558+00:00,49380303,44,Early-life stress leaves a 'scar' inside brain cells,29,8
+2026-08-21T05:38:58.894558+00:00,49374830,45,"Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",51,39
+2026-08-21T05:38:58.894558+00:00,49376211,46,Generic Methods in Go 1.27,62,34
+2026-08-21T05:38:58.894558+00:00,49323795,47,A faster way to calculate the day of the week,250,85
+2026-08-21T05:38:58.894558+00:00,49382041,48,Copyright does not protect AI-generated content in EU,161,164
+2026-08-21T05:38:58.894558+00:00,49374873,49,An elliptic curve of rank ≥ 30,92,27
+2026-08-21T05:38:58.894558+00:00,49348189,50,Sol loves to cheat,233,189
