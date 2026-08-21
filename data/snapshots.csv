@@ -38121,3 +38121,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-21T21:31:11.641039+00:00,49390739,48,"Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",33,14
 2026-08-21T21:31:11.641039+00:00,49391389,49,Rebuilding our Electron meeting-recording engine in Swift,35,9
 2026-08-21T21:31:11.641039+00:00,49392217,50,Volcanoes That Made History,5,0
+2026-08-21T22:31:48.237962+00:00,49390427,1,Kobo can run apps now,345,121
+2026-08-21T22:31:48.237962+00:00,49389430,2,Felony Bench,413,187
+2026-08-21T22:31:48.237962+00:00,49386895,3,Felony charges for citizen deleting phone data at US Border,375,472
+2026-08-21T22:31:48.237962+00:00,49392200,4,Scientists release biggest 2D map of the universe,102,30
+2026-08-21T22:31:48.237962+00:00,49388154,5,Kagi added a setting for removing paywalled links from search results,928,321
+2026-08-21T22:31:48.237962+00:00,49357530,6,"AI boosted homework scores, then exam scores dropped: study",191,244
+2026-08-21T22:31:48.237962+00:00,49387570,7,I accidentally logged hundreds of thousands of phone calls to military bases,384,43
+2026-08-21T22:31:48.237962+00:00,49386163,8,DeepSeek-v4-flash-vision-exp,433,141
+2026-08-21T22:31:48.237962+00:00,49389441,10,I ran Photoshop on a £0.60 computer chip,97,23
+2026-08-21T22:31:48.237962+00:00,49327408,11,People of ACM – Russ Cox,68,9
+2026-08-21T22:31:48.237962+00:00,49389952,12,How we made a text-to-speech model respond in sub-50 ms,80,13
+2026-08-21T22:31:48.237962+00:00,49374853,13,A look under our trunk: what's in our compute,70,19
+2026-08-21T22:31:48.237962+00:00,49392331,14,Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders,38,37
+2026-08-21T22:31:48.237962+00:00,49390308,15,What happens when a GPU reads memory,83,15
+2026-08-21T22:31:48.237962+00:00,49392465,16,Tumble Forth – from assembly to OS with C compiler,32,3
+2026-08-21T22:31:48.237962+00:00,49388752,17,Claudette: Make Claude stop talking like a BuzzFeed article,154,110
+2026-08-21T22:31:48.237962+00:00,49390463,18,"Building an (almost) fully self-hosted, sandboxed, agentic software factory",67,46
+2026-08-21T22:31:48.237962+00:00,49394028,19,Remotely Unlocking Electric Scooters,6,0
+2026-08-21T22:31:48.237962+00:00,49332812,20,Using an old Android phone as a music player,30,14
+2026-08-21T22:31:48.237962+00:00,49333557,21,The Size of the World Wide Web,19,4
+2026-08-21T22:31:48.237962+00:00,49346444,22,The coolest anti-surveillance tools at Defcon [video],122,8
+2026-08-21T22:31:48.237962+00:00,49386699,23,I'm becoming AI-blind,205,218
+2026-08-21T22:31:48.237962+00:00,49390206,24,Decayfmt – a file format that corrupts itself a little every time you open it,43,14
+2026-08-21T22:31:48.237962+00:00,49393051,25,Quick impressions: A week of using Codex more than Claude,60,68
+2026-08-21T22:31:48.237962+00:00,49383026,26,AI companies destroy physical books – let's scan rare books before it's too late,481,824
+2026-08-21T22:31:48.237962+00:00,49388095,27,"Kodak's ""pre-invented"" lunar orbiter camera; or, the fate of SAMOS readout",47,2
+2026-08-21T22:31:48.237962+00:00,49293983,28,Quantifying the honey bee dance floor,23,1
+2026-08-21T22:31:48.237962+00:00,49346135,29,Show HN: Shoehorn – Quantize any model down to run on your machine,69,17
+2026-08-21T22:31:48.237962+00:00,49386877,30,The road to ACID transactions in Cassandra 6,56,5
+2026-08-21T22:31:48.237962+00:00,49387856,31,Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle,93,32
+2026-08-21T22:31:48.237962+00:00,49387525,32,New Worlds: We are living in the future of J.G. Ballard or William Gibson,192,138
+2026-08-21T22:31:48.237962+00:00,49389491,33,The B-right/V R2 Operating System (2000),16,3
+2026-08-21T22:31:48.237962+00:00,49392654,34,Rust Glancer,12,0
+2026-08-21T22:31:48.237962+00:00,49387349,35,DuckDB V2 PEG-based SQL parser,55,6
+2026-08-21T22:31:48.237962+00:00,49391344,36,Man loses so much weight employer doesn't recognize him,21,6
+2026-08-21T22:31:48.237962+00:00,49390775,37,Another better lower bound for n=17 square packing,25,6
+2026-08-21T22:31:48.237962+00:00,49387497,38,Grand jury declines to indict Ohio man charged with destroying Flock camera,612,357
+2026-08-21T22:31:48.237962+00:00,49384896,39,The Lost Treasure of Sid Meier's Pirates,239,134
+2026-08-21T22:31:48.237962+00:00,49385860,40,"Small, native web tricks worth remembering",204,52
+2026-08-21T22:31:48.237962+00:00,49388963,41,How I came to write that paper with Leslie Lamport,38,9
+2026-08-21T22:31:48.237962+00:00,49386383,42,Kino: A high-performance Ractor web server for Ruby 4.0,68,14
+2026-08-21T22:31:48.237962+00:00,49392099,43,How Thailand Resisted Colonization,10,1
+2026-08-21T22:31:48.237962+00:00,49389524,44,Cancer-related mortality among US pilots and flight attendants,76,81
+2026-08-21T22:31:48.237962+00:00,49389339,45,Code Obfuscation via Local Mixing,26,1
+2026-08-21T22:31:48.237962+00:00,49391553,46,OTel Isn't Going Well (and I Made a Spreadsheet About It),10,2
+2026-08-21T22:31:48.237962+00:00,49379183,47,How orchids inspired the work of Charles Darwin,10,0
+2026-08-21T22:31:48.237962+00:00,49390739,48,"Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",34,14
+2026-08-21T22:31:48.237962+00:00,49331084,49,Flat Chair by Sara Paculdo,103,36
+2026-08-21T22:31:48.237962+00:00,49387433,50,Yes/No/Cancel causes Aspirin sales to soar (2007),71,65
