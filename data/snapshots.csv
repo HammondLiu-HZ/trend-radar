@@ -37189,3 +37189,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-20T23:32:37.184720+00:00,49380303,48,Early-life stress leaves a 'scar' inside brain cells,7,0
 2026-08-20T23:32:37.184720+00:00,49373932,49,Xorg-server 26.1.0 rc1,110,94
 2026-08-20T23:32:37.184720+00:00,49376038,50,Launch HN: Vendo (YC S26) – Let users build features on top of your product,33,17
+2026-08-21T01:48:07.186986+00:00,49382041,1,Copyright does not protect AI-generated content in EU,83,71
+2026-08-21T01:48:07.186986+00:00,49378957,2,"The August 17 outage, and the work ahead",316,361
+2026-08-21T01:48:07.186986+00:00,49378243,3,Consumer Rights Wiki,218,32
+2026-08-21T01:48:07.186986+00:00,49382152,4,There's no such thing as a small software team anymore,19,13
+2026-08-21T01:48:07.186986+00:00,49347543,5,I like 'em thick: an apology to my English teachers,560,258
+2026-08-21T01:48:07.186986+00:00,49372583,6,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,885,289
+2026-08-21T01:48:07.186986+00:00,49379550,7,"Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",975,225
+2026-08-21T01:48:07.186986+00:00,49362689,8,HTML Can Do That,576,163
+2026-08-21T01:48:07.186986+00:00,49377853,9,I should have loved biology (2020),199,74
+2026-08-21T01:48:07.186986+00:00,49381896,10,Stealth Model,26,11
+2026-08-21T01:48:07.186986+00:00,49374269,11,Malicious Rust crate Arrayref runs a build-time payload,395,364
+2026-08-21T01:48:07.186986+00:00,49382200,12,It is a sign of the times that Amazon gets to call this fair use,14,3
+2026-08-21T01:48:07.186986+00:00,49378768,13,Show HN: Huzzah – a novel approach to coding with AI,221,124
+2026-08-21T01:48:07.186986+00:00,49373456,14,Show HN: I trained a 125M model to autocomplete piano on-device,504,106
+2026-08-21T01:48:07.186986+00:00,49368886,15,CIA funding helped keep NeXT afloat in the 80s,333,208
+2026-08-21T01:48:07.186986+00:00,49328758,16,My Microscope Is a Dashcam,8,3
+2026-08-21T01:48:07.186986+00:00,49381311,17,Detecting scraper bots through scroll behaviour,26,9
+2026-08-21T01:48:07.186986+00:00,49378446,18,Why aren't smart people happier? (2022),85,140
+2026-08-21T01:48:07.186986+00:00,49375996,19,Vomit: Clean up Claude 5's token output with a separate LLM,193,202
+2026-08-21T01:48:07.186986+00:00,49376265,20,Linux 7.2,192,69
+2026-08-21T01:48:07.186986+00:00,49378933,21,SpacetimeDB: A Short Technical Review,59,12
+2026-08-21T01:48:07.186986+00:00,49376332,22,How to compromise your system with a job interview,118,102
+2026-08-21T01:48:07.186986+00:00,49378950,23,Tidal Cycles – Live coding music with Algorithmic patterns,55,9
+2026-08-21T01:48:07.186986+00:00,49375719,25,Anti-AI fonts are useless and harmful,115,80
+2026-08-21T01:48:07.186986+00:00,49348079,26,Mojo is now open source,344,76
+2026-08-21T01:48:07.186986+00:00,49330246,27,Speeding Up the Plush Garbage Collector,13,1
+2026-08-21T01:48:07.186986+00:00,49348141,28,Git at any scale,275,92
+2026-08-21T01:48:07.186986+00:00,49295112,29,Speeding Up (Small) Ruby Hashes,19,0
+2026-08-21T01:48:07.186986+00:00,49374635,30,Every Model Cheats,81,63
+2026-08-21T01:48:07.186986+00:00,49374772,31,Hacking with Claude on a $27 smart watch,85,46
+2026-08-21T01:48:07.186986+00:00,49374287,32,DiffusionGemma Technical Report,134,34
+2026-08-21T01:48:07.186986+00:00,49360140,33,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,192,112
+2026-08-21T01:48:07.186986+00:00,49378630,34,Watching TikTok and Instagram deactivates the cognitive control network: Study,302,113
+2026-08-21T01:48:07.186986+00:00,49382022,35,"Show HN: ParqDB – Vector search in the browser from Parquet over HTTP""",4,0
+2026-08-21T01:48:07.186986+00:00,49380303,36,Early-life stress leaves a 'scar' inside brain cells,14,0
+2026-08-21T01:48:07.186986+00:00,49380491,37,The Citizen Developer,41,66
+2026-08-21T01:48:07.186986+00:00,49380226,38,The Wonders of the Male Human Pelvis,37,22
+2026-08-21T01:48:07.186986+00:00,49371006,39,Windows brings out the Rorschach test in everyone (2003),338,130
+2026-08-21T01:48:07.186986+00:00,49377739,40,Project Cybersyn (2022),51,36
+2026-08-21T01:48:07.186986+00:00,49374830,41,"Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",48,38
+2026-08-21T01:48:07.186986+00:00,49369408,42,Turns are Better than Radians (2022),333,199
+2026-08-21T01:48:07.186986+00:00,49380128,43,Ameliorate,18,1
+2026-08-21T01:48:07.186986+00:00,49375244,44,Show HN: Open-source Stripe Connect alternative,64,25
+2026-08-21T01:48:07.186986+00:00,49376211,45,Generic Methods in Go 1.27,59,28
+2026-08-21T01:48:07.186986+00:00,49374873,46,An elliptic curve of rank ≥ 30,86,27
+2026-08-21T01:48:07.186986+00:00,49374965,47,Slack Code,57,93
+2026-08-21T01:48:07.186986+00:00,49290082,48,"Gauguin, Descartes, Bayes: A Diurnal Golem's Brain",20,4
+2026-08-21T01:48:07.186986+00:00,49377923,49,Optimizing things in the USSR (2016),39,35
+2026-08-21T01:48:07.186986+00:00,49377660,50,Show HN: We chased a weather balloon across Montana and never found it,51,22
