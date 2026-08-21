@@ -37385,3 +37385,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-21T05:38:58.894558+00:00,49382041,48,Copyright does not protect AI-generated content in EU,161,164
 2026-08-21T05:38:58.894558+00:00,49374873,49,An elliptic curve of rank ≥ 30,92,27
 2026-08-21T05:38:58.894558+00:00,49348189,50,Sol loves to cheat,233,189
+2026-08-21T06:58:48.691701+00:00,49383326,1,Codex on AWS bedrock bug causing 10x charges,99,31
+2026-08-21T06:58:48.691701+00:00,49378957,2,The August 17 outage,458,517
+2026-08-21T06:58:48.691701+00:00,49347543,3,I like 'em thick: an apology to my English teachers,683,283
+2026-08-21T06:58:48.691701+00:00,49362689,4,HTML Can Do That,711,178
+2026-08-21T06:58:48.691701+00:00,49384224,5,The Religious Experience of Philip K. Dick by R. Crumb (1986),13,3
+2026-08-21T06:58:48.691701+00:00,49374269,6,Malicious Rust crate Arrayref runs a build-time payload,467,394
+2026-08-21T06:58:48.691701+00:00,49381896,7,Ox Alpha,101,81
+2026-08-21T06:58:48.691701+00:00,49377853,8,I should have loved biology (2020),251,98
+2026-08-21T06:58:48.691701+00:00,49384180,9,"Japan tried to build an operating system for the world, the US intervened",39,10
+2026-08-21T06:58:48.691701+00:00,49382152,10,There's no such thing as a small software team anymore,75,122
+2026-08-21T06:58:48.691701+00:00,49329919,11,Captain Zilog,42,5
+2026-08-21T06:58:48.691701+00:00,49336358,12,Version Control for Everything,7,0
+2026-08-21T06:58:48.691701+00:00,49376038,13,Launch HN: Vendo (YC S26) – Let users build features on top of your product,34,18
+2026-08-21T06:58:48.691701+00:00,49378446,14,Why aren't smart people happier? (2022),148,199
+2026-08-21T06:58:48.691701+00:00,49368886,15,CIA funding helped keep NeXT afloat in the 80s,391,233
+2026-08-21T06:58:48.691701+00:00,49304409,16,Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K,34,6
+2026-08-21T06:58:48.691701+00:00,49378768,17,Show HN: Huzzah – a novel approach to coding with AI,283,150
+2026-08-21T06:58:48.691701+00:00,49375996,18,Vomit: Clean up Claude 5's token output with a separate LLM,236,235
+2026-08-21T06:58:48.691701+00:00,49383026,19,AI companies destroy physical books – let's scan rare books before it's too late,269,196
+2026-08-21T06:58:48.691701+00:00,49376265,20,Linux 7.2,233,78
+2026-08-21T06:58:48.691701+00:00,49372583,21,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,947,297
+2026-08-21T06:58:48.691701+00:00,49295112,22,Speeding Up (Small) Ruby Hashes,45,0
+2026-08-21T06:58:48.691701+00:00,49348141,23,Git at any scale,320,103
+2026-08-21T06:58:48.691701+00:00,49375719,24,Anti-AI fonts are useless and harmful,146,105
+2026-08-21T06:58:48.691701+00:00,49378933,25,SpacetimeDB: A Short Technical Review,83,17
+2026-08-21T06:58:48.691701+00:00,49360140,26,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,223,139
+2026-08-21T06:58:48.691701+00:00,49378243,27,Consumer Rights Wiki,267,49
+2026-08-21T06:58:48.691701+00:00,49377739,28,Project Cybersyn (2022),59,45
+2026-08-21T06:58:48.691701+00:00,49376332,29,How to compromise your system with a job interview,151,132
+2026-08-21T06:58:48.691701+00:00,49374635,30,Every Model Cheats,96,76
+2026-08-21T06:58:48.691701+00:00,49379550,31,"Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",1385,300
+2026-08-21T06:58:48.691701+00:00,49374287,33,DiffusionGemma Technical Report,147,35
+2026-08-21T06:58:48.691701+00:00,49383582,34,Micron announces $10B research hub in Boise,4,0
+2026-08-21T06:58:48.691701+00:00,49374772,35,Hacking with Claude on a $27 smart watch,92,48
+2026-08-21T06:58:48.691701+00:00,49371006,36,Windows brings out the Rorschach test in everyone (2003),342,133
+2026-08-21T06:58:48.691701+00:00,49378950,37,Tidal Cycles – Live coding music with Algorithmic patterns,63,10
+2026-08-21T06:58:48.691701+00:00,49369408,38,Turns are Better than Radians (2022),337,200
+2026-08-21T06:58:48.691701+00:00,49373456,39,Show HN: I trained a 125M model to autocomplete piano on-device,543,113
+2026-08-21T06:58:48.691701+00:00,49378630,40,Watching TikTok and Instagram deactivates the cognitive control network: Study,325,115
+2026-08-21T06:58:48.691701+00:00,49381311,41,Detecting scraper bots through scroll behaviour,35,14
+2026-08-21T06:58:48.691701+00:00,49382614,42,Artificial Intelligence Policy,35,27
+2026-08-21T06:58:48.691701+00:00,49380303,43,Early-life stress leaves a 'scar' inside brain cells,31,9
+2026-08-21T06:58:48.691701+00:00,49374965,44,Slack Code,68,97
+2026-08-21T06:58:48.691701+00:00,49382022,45,"Show HN: ParqDB – Vector search in the browser from Parquet over HTTP""",12,4
+2026-08-21T06:58:48.691701+00:00,49375244,46,Show HN: Open-source Stripe Connect alternative,70,29
+2026-08-21T06:58:48.691701+00:00,49323795,47,A faster way to calculate the day of the week,251,85
+2026-08-21T06:58:48.691701+00:00,49348189,48,Sol loves to cheat,235,189
+2026-08-21T06:58:48.691701+00:00,49348079,49,Mojo is now open source,392,88
+2026-08-21T06:58:48.691701+00:00,49376211,50,Generic Methods in Go 1.27,62,35
