@@ -37238,3 +37238,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-21T01:48:07.186986+00:00,49290082,48,"Gauguin, Descartes, Bayes: A Diurnal Golem's Brain",20,4
 2026-08-21T01:48:07.186986+00:00,49377923,49,Optimizing things in the USSR (2016),39,35
 2026-08-21T01:48:07.186986+00:00,49377660,50,Show HN: We chased a weather balloon across Montana and never found it,51,22
+2026-08-21T03:10:09.354105+00:00,49378957,1,The August 17 outage,360,408
+2026-08-21T03:10:09.354105+00:00,49347543,2,I like 'em thick: an apology to my English teachers,595,263
+2026-08-21T03:10:09.354105+00:00,49362689,3,HTML Can Do That,608,168
+2026-08-21T03:10:09.354105+00:00,49382152,4,There's no such thing as a small software team anymore,31,49
+2026-08-21T03:10:09.354105+00:00,49304409,5,Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K,13,0
+2026-08-21T03:10:09.354105+00:00,49374269,6,Malicious Rust crate Arrayref runs a build-time payload,409,371
+2026-08-21T03:10:09.354105+00:00,49377853,7,I should have loved biology (2020),204,78
+2026-08-21T03:10:09.354105+00:00,49381896,8,Stealth Model,47,32
+2026-08-21T03:10:09.354105+00:00,49368886,9,CIA funding helped keep NeXT afloat in the 80s,353,215
+2026-08-21T03:10:09.354105+00:00,49373456,10,Show HN: I trained a 125M model to autocomplete piano on-device,529,109
+2026-08-21T03:10:09.354105+00:00,49378446,11,Why aren't smart people happier? (2022),100,153
+2026-08-21T03:10:09.354105+00:00,49378768,12,Show HN: Huzzah – a novel approach to coding with AI,229,134
+2026-08-21T03:10:09.354105+00:00,49375996,13,Vomit: Clean up Claude 5's token output with a separate LLM,195,214
+2026-08-21T03:10:09.354105+00:00,49381311,14,Detecting scraper bots through scroll behaviour,29,10
+2026-08-21T03:10:09.354105+00:00,49376265,15,Linux 7.2,200,73
+2026-08-21T03:10:09.354105+00:00,49382041,16,Copyright does not protect AI-generated content in EU,145,133
+2026-08-21T03:10:09.354105+00:00,49378933,17,SpacetimeDB: A Short Technical Review,62,15
+2026-08-21T03:10:09.354105+00:00,49382614,18,Artificial Intelligence Policy,21,11
+2026-08-21T03:10:09.354105+00:00,49372583,19,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,913,295
+2026-08-21T03:10:09.354105+00:00,49378243,20,Consumer Rights Wiki,246,34
+2026-08-21T03:10:09.354105+00:00,49348079,21,Mojo is now open source,352,81
+2026-08-21T03:10:09.354105+00:00,49376332,22,How to compromise your system with a job interview,124,106
+2026-08-21T03:10:09.354105+00:00,49379550,23,"Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",1124,248
+2026-08-21T03:10:09.354105+00:00,49375719,24,Anti-AI fonts are useless and harmful,122,85
+2026-08-21T03:10:09.354105+00:00,49348141,25,Git at any scale,287,94
+2026-08-21T03:10:09.354105+00:00,49295112,27,Speeding Up (Small) Ruby Hashes,24,0
+2026-08-21T03:10:09.354105+00:00,49374287,28,DiffusionGemma Technical Report,137,34
+2026-08-21T03:10:09.354105+00:00,49374635,29,Every Model Cheats,81,70
+2026-08-21T03:10:09.354105+00:00,49374772,30,Hacking with Claude on a $27 smart watch,88,48
+2026-08-21T03:10:09.354105+00:00,49360140,31,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,192,120
+2026-08-21T03:10:09.354105+00:00,49378950,32,Tidal Cycles – Live coding music with Algorithmic patterns,59,9
+2026-08-21T03:10:09.354105+00:00,49380303,33,Early-life stress leaves a 'scar' inside brain cells,21,3
+2026-08-21T03:10:09.354105+00:00,49382022,34,"Show HN: ParqDB – Vector search in the browser from Parquet over HTTP""",7,1
+2026-08-21T03:10:09.354105+00:00,49378630,35,Watching TikTok and Instagram deactivates the cognitive control network: Study,309,114
+2026-08-21T03:10:09.354105+00:00,49382200,36,It is a sign of the times that Amazon gets to call this fair use,98,67
+2026-08-21T03:10:09.354105+00:00,49371006,37,Windows brings out the Rorschach test in everyone (2003),339,132
+2026-08-21T03:10:09.354105+00:00,49369408,38,Turns are Better than Radians (2022),334,200
+2026-08-21T03:10:09.354105+00:00,49377739,39,Project Cybersyn (2022),52,38
+2026-08-21T03:10:09.354105+00:00,49380491,40,The Citizen Developer,44,69
+2026-08-21T03:10:09.354105+00:00,49374830,41,"Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",49,38
+2026-08-21T03:10:09.354105+00:00,49380226,42,The Wonders of the Male Human Pelvis,37,23
+2026-08-21T03:10:09.354105+00:00,49375244,43,Show HN: Open-source Stripe Connect alternative,66,29
+2026-08-21T03:10:09.354105+00:00,49376211,44,Generic Methods in Go 1.27,61,31
+2026-08-21T03:10:09.354105+00:00,49374873,45,An elliptic curve of rank ≥ 30,87,27
+2026-08-21T03:10:09.354105+00:00,49374965,46,Slack Code,59,94
+2026-08-21T03:10:09.354105+00:00,49380128,47,Ameliorate,21,5
+2026-08-21T03:10:09.354105+00:00,49377660,48,Show HN: We chased a weather balloon across Montana and never found it,52,22
+2026-08-21T03:10:09.354105+00:00,49323795,49,A faster way to calculate the day of the week,247,85
+2026-08-21T03:10:09.354105+00:00,49382352,50,Darth Vader speaks out on Flock cameras at City Council meeting [video],12,0
