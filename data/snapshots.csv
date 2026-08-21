@@ -37581,3 +37581,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-21T09:44:49.368026+00:00,49374965,48,Slack Code,73,100
 2026-08-21T09:44:49.368026+00:00,49323795,49,A faster way to calculate the day of the week,254,85
 2026-08-21T09:44:49.368026+00:00,49348189,50,Sol loves to cheat,236,191
+2026-08-21T10:37:24.417523+00:00,49384896,1,The Lost Treasure of Sid Meier's Pirates,96,35
+2026-08-21T10:37:24.417523+00:00,49384716,2,We Rebuilt the Linux MicroVM Stack on Apple Silicon,78,38
+2026-08-21T10:37:24.417523+00:00,49385860,3,"Small, native web tricks worth remembering",21,2
+2026-08-21T10:37:24.417523+00:00,49378957,4,The August 17 outage,538,597
+2026-08-21T10:37:24.417523+00:00,49320866,5,The case against a C alternative (2022),33,26
+2026-08-21T10:37:24.417523+00:00,49347543,6,I like 'em thick: an apology to my English teachers,738,304
+2026-08-21T10:37:24.417523+00:00,49362689,7,HTML Can Do That,823,189
+2026-08-21T10:37:24.417523+00:00,49374269,8,Malicious Rust crate Arrayref runs a build-time payload,504,425
+2026-08-21T10:37:24.417523+00:00,49381896,9,Ox Alpha,166,124
+2026-08-21T10:37:24.417523+00:00,49377853,10,I should have loved biology (2020),284,107
+2026-08-21T10:37:24.417523+00:00,49331084,11,Flat Chair by Sara Paculdo,13,4
+2026-08-21T10:37:24.417523+00:00,49384224,12,The Religious Experience of Philip K. Dick by R. Crumb (1986),41,19
+2026-08-21T10:37:24.417523+00:00,49384180,13,"Japan tried to build an operating system for the world, the US intervened",179,83
+2026-08-21T10:37:24.417523+00:00,49383582,14,Micron announces $10B research hub in Boise,26,1
+2026-08-21T10:37:24.417523+00:00,49378446,15,Why aren't smart people happier? (2022),190,259
+2026-08-21T10:37:24.417523+00:00,49378768,16,Show HN: Huzzah – a novel approach to coding with AI,317,164
+2026-08-21T10:37:24.417523+00:00,49368886,17,CIA funding helped keep NeXT afloat in the 80s,403,247
+2026-08-21T10:37:24.417523+00:00,49376038,18,Launch HN: Vendo (YC S26) – Let users build features on top of your product,38,20
+2026-08-21T10:37:24.417523+00:00,49329919,19,Captain Zilog,59,7
+2026-08-21T10:37:24.417523+00:00,49375996,20,Vomit: Clean up Claude 5's token output with a separate LLM,260,255
+2026-08-21T10:37:24.417523+00:00,49376265,21,Linux 7.2,256,102
+2026-08-21T10:37:24.417523+00:00,49372583,22,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,973,306
+2026-08-21T10:37:24.417523+00:00,49360140,23,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025),243,178
+2026-08-21T10:37:24.417523+00:00,49384113,24,"Seed: Minimal, self-modifying agent harness",24,9
+2026-08-21T10:37:24.417523+00:00,49375719,25,Anti-AI fonts are useless and harmful,170,132
+2026-08-21T10:37:24.417523+00:00,49295112,26,Speeding Up (Small) Ruby Hashes,62,0
+2026-08-21T10:37:24.417523+00:00,49385296,27,Emacs 31.1 will release on 8/24,30,7
+2026-08-21T10:37:24.417523+00:00,49304409,28,Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K,40,11
+2026-08-21T10:37:24.417523+00:00,49383326,29,Codex on AWS bedrock bug causing 10x charges,133,50
+2026-08-21T10:37:24.417523+00:00,49378933,30,SpacetimeDB: a short technical review,98,20
+2026-08-21T10:37:24.417523+00:00,49378243,31,Consumer Rights Wiki,279,55
+2026-08-21T10:37:24.417523+00:00,49374635,32,Every Model Cheats,101,80
+2026-08-21T10:37:24.417523+00:00,49385068,33,Better Batteries,3,1
+2026-08-21T10:37:24.417523+00:00,49376332,34,How to compromise your system with a job interview,155,134
+2026-08-21T10:37:24.417523+00:00,49383026,35,AI companies destroy physical books – let's scan rare books before it's too late,340,249
+2026-08-21T10:37:24.417523+00:00,49377739,36,Project Cybersyn (2022),61,46
+2026-08-21T10:37:24.417523+00:00,49374287,37,DiffusionGemma Technical Report,152,38
+2026-08-21T10:37:24.417523+00:00,49373932,39,Xorg-server 26.1.0 rc1,127,105
+2026-08-21T10:37:24.417523+00:00,49384477,40,Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents,7,5
+2026-08-21T10:37:24.417523+00:00,49379550,41,"Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",1465,333
+2026-08-21T10:37:24.417523+00:00,49374772,42,Hacking with Claude on a $27 smart watch,97,54
+2026-08-21T10:37:24.417523+00:00,49371006,43,Windows brings out the Rorschach test in everyone (2003),348,135
+2026-08-21T10:37:24.417523+00:00,49385812,44,DeepSeek-V4-Flash-Vision-Exp Is Now Live on the DeepSeek API Platform,11,1
+2026-08-21T10:37:24.417523+00:00,49369408,45,Turns are Better than Radians (2022),342,202
+2026-08-21T10:37:24.417523+00:00,49385430,46,The smell of rain: how Aussie scientists invented a new word in 1964,8,0
+2026-08-21T10:37:24.417523+00:00,49378950,47,Tidal Cycles – Live coding music with Algorithmic patterns,68,11
+2026-08-21T10:37:24.417523+00:00,49373456,48,Show HN: I trained a 125M model to autocomplete piano on-device,556,113
+2026-08-21T10:37:24.417523+00:00,49348189,49,Sol loves to cheat,237,192
+2026-08-21T10:37:24.417523+00:00,49323795,50,A faster way to calculate the day of the week,254,85
