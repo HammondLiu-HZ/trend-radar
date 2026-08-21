@@ -37875,3 +37875,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-21T16:41:59.199588+00:00,49388641,48,Cool Italian retro computing (in English),6,1
 2026-08-21T16:41:59.199588+00:00,49387687,49,Convite,12,2
 2026-08-21T16:41:59.199588+00:00,49389493,50,"Show HN: AgentSight – eBPF observability for AI agents, no code changes",14,0
+2026-08-21T17:36:06.387597+00:00,49388154,1,Kagi added a setting for removing paywalled links from search results,646,230
+2026-08-21T17:36:06.387597+00:00,49389565,2,"AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",147,98
+2026-08-21T17:36:06.387597+00:00,49390099,3,I Just Want to Search,47,10
+2026-08-21T17:36:06.387597+00:00,49390427,4,Kobo can run apps now,35,7
+2026-08-21T17:36:06.387597+00:00,49386163,5,DeepSeek-v4-flash-vision-exp,371,123
+2026-08-21T17:36:06.387597+00:00,49387570,6,I accidentally logged phone calls to military bases,195,28
+2026-08-21T17:36:06.387597+00:00,49389430,7,Felony Bench,79,33
+2026-08-21T17:36:06.387597+00:00,49388682,8,"WPD won't replace stolen Flock cameras, citing public trust",73,38
+2026-08-21T17:36:06.387597+00:00,49390132,9,Omacom Foundation Launches with $8M,102,69
+2026-08-21T17:36:06.387597+00:00,49387525,10,We are living in a version of the future out of J.G. Ballard or William Gibson,111,61
+2026-08-21T17:36:06.387597+00:00,49387497,11,Grand jury declines to indict Ohio man charged with destroying Flock camera,501,273
+2026-08-21T17:36:06.387597+00:00,49390308,12,What happens when a GPU reads memory,15,1
+2026-08-21T17:36:06.387597+00:00,49388446,13,What We Lost When Search Stopped Making Us Think,71,40
+2026-08-21T17:36:06.387597+00:00,49387856,14,Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle,71,21
+2026-08-21T17:36:06.387597+00:00,49389524,15,Cancer-Related Mortality Among US Pilots and Flight Attendants,53,44
+2026-08-21T17:36:06.387597+00:00,49391389,16,Rebuilding our Electron meeting-recording engine in Swift,3,0
+2026-08-21T17:36:06.387597+00:00,49388963,17,I came to write THAT paper with Leslie Lamport,22,6
+2026-08-21T17:36:06.387597+00:00,49389339,18,Code Obfuscation via Local Mixing,17,0
+2026-08-21T17:36:06.387597+00:00,49386659,19,TigerBeetle Core System Architecture: Deconstructing Performance Engineering,119,39
+2026-08-21T17:36:06.387597+00:00,49383026,20,AI companies destroy physical books – let's scan rare books before it's too late,390,745
+2026-08-21T17:36:06.387597+00:00,49390463,21,A self hosted AI software factory,9,4
+2026-08-21T17:36:06.387597+00:00,49390775,22,Another Better Lower Bound for N=17 Square Packing,4,0
+2026-08-21T17:36:06.387597+00:00,49331391,23,Does whispering to agents in docs help?,11,0
+2026-08-21T17:36:06.387597+00:00,49384896,24,The Lost Treasure of Sid Meier's Pirates,224,126
+2026-08-21T17:36:06.387597+00:00,49388095,25,"Kodak's ""Pre-Invented"" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",25,0
+2026-08-21T17:36:06.387597+00:00,49386383,26,Kino: A high-performance Ractor web server for Ruby 4.0,62,11
+2026-08-21T17:36:06.387597+00:00,49385860,27,"Small, native web tricks worth remembering",186,50
+2026-08-21T17:36:06.387597+00:00,49387349,28,DuckDB V2 PEG-based SQL parser,44,4
+2026-08-21T17:36:06.387597+00:00,49389392,29,c100,91,76
+2026-08-21T17:36:06.387597+00:00,49389952,30,How We Made a Text-to-Speech Model Respond in Sub-50 ms,20,3
+2026-08-21T17:36:06.387597+00:00,49390286,31,Three ways to smuggle SQLite into Nix,5,0
+2026-08-21T17:36:06.387597+00:00,49390739,32,"Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",6,1
+2026-08-21T17:36:06.387597+00:00,49331084,33,Flat Chair by Sara Paculdo,102,33
+2026-08-21T17:36:06.387597+00:00,49389441,34,I ran Photoshop on a £0.60 computer chip,10,0
+2026-08-21T17:36:06.387597+00:00,49390206,35,Decayfmt – a file format that corrupts itself a little every time you open it,4,0
+2026-08-21T17:36:06.387597+00:00,49386877,36,The road to ACID transactions in Cassandra 6,31,1
+2026-08-21T17:36:06.387597+00:00,49387735,37,What Happens When the Cost of Intelligence Drops 100x,101,92
+2026-08-21T17:36:06.387597+00:00,49389491,38,The B-right/V R2 Operating System,11,2
+2026-08-21T17:36:06.387597+00:00,49323227,39,"Making stinkarm stink less, or more?",6,1
+2026-08-21T17:36:06.387597+00:00,49387221,40,Nothing Doing,27,12
+2026-08-21T17:36:06.387597+00:00,49390066,41,LLMs Are Proof That Unix Won,3,0
+2026-08-21T17:36:06.387597+00:00,49387915,42,"Getting silly with C, part and((int*)-8)[3]",21,2
+2026-08-21T17:36:06.387597+00:00,49389923,43,The US techlash is real,21,1
+2026-08-21T17:36:06.387597+00:00,49389972,44,"Show HN: Gramola, a CoverFlow-style music dock for macOS",4,2
+2026-08-21T17:36:06.387597+00:00,49388694,45,Zig's Io.Threaded Is Neat,10,1
+2026-08-21T17:36:06.387597+00:00,49387099,46,The Prague of Deus Ex: Mankind Divided,13,7
+2026-08-21T17:36:06.387597+00:00,49389846,47,"Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",3,0
+2026-08-21T17:36:06.387597+00:00,49389769,48,How we built a proxy to migrate Kafka producers with zero downtime,10,1
+2026-08-21T17:36:06.387597+00:00,49383582,49,Micron announces $10B research hub in Boise,107,55
+2026-08-21T17:36:06.387597+00:00,49388752,50,Claudette: Make Claude Stop Talking Like a BuzzFeed Article,74,69
