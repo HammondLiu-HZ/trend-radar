@@ -37826,3 +37826,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-21T15:40:41.697001+00:00,49376038,48,Launch HN: Vendo (YC S26) – Let users build features on top of your product,55,22
 2026-08-21T15:40:41.697001+00:00,49360140,49,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025),275,230
 2026-08-21T15:40:41.697001+00:00,49375996,50,Vomit: Clean up Claude 5's token output with a separate LLM,288,280
+2026-08-21T16:41:59.199588+00:00,49388154,1,Kagi added a setting for removing paywalled links from search results,524,188
+2026-08-21T16:41:59.199588+00:00,49385994,2,AI companies destroy physical books – let's scan rare books before it's too late,621,375
+2026-08-21T16:41:59.199588+00:00,49390132,3,Omacom Foundation Launches with $8M,44,30
+2026-08-21T16:41:59.199588+00:00,49389565,4,"AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",66,37
+2026-08-21T16:41:59.199588+00:00,49386163,5,DeepSeek-v4-flash-vision-exp,344,114
+2026-08-21T16:41:59.199588+00:00,49387570,6,I accidentally logged phone calls to military bases,147,24
+2026-08-21T16:41:59.199588+00:00,49389524,7,Cancer-Related Mortality Among US Pilots and Flight Attendants,33,15
+2026-08-21T16:41:59.199588+00:00,49389392,8,c100,76,49
+2026-08-21T16:41:59.199588+00:00,49389430,9,Felony Bench,37,13
+2026-08-21T16:41:59.199588+00:00,49388682,10,"WPD won't replace stolen Flock cameras, citing public trust",38,6
+2026-08-21T16:41:59.199588+00:00,49387525,11,We are living in a version of the future out of J.G. Ballard or William Gibson,85,36
+2026-08-21T16:41:59.199588+00:00,49387497,12,Grand jury declines to indict Ohio man charged with destroying Flock camera,421,227
+2026-08-21T16:41:59.199588+00:00,49388446,13,What We Lost When Search Stopped Making Us Think,56,31
+2026-08-21T16:41:59.199588+00:00,49387856,14,Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle,58,16
+2026-08-21T16:41:59.199588+00:00,49388963,15,I came to write THAT paper with Leslie Lamport,13,2
+2026-08-21T16:41:59.199588+00:00,49386659,16,TigerBeetle Core System Architecture: Deconstructing Performance Engineering,111,36
+2026-08-21T16:41:59.199588+00:00,49389339,17,Code Obfuscation via Local Mixing,8,0
+2026-08-21T16:41:59.199588+00:00,49387735,18,What Happens When the Cost of Intelligence Drops 100x,92,80
+2026-08-21T16:41:59.199588+00:00,49384896,19,The Lost Treasure of Sid Meier's Pirates,216,123
+2026-08-21T16:41:59.199588+00:00,49386383,20,Kino: A high-performance Ractor web server for Ruby 4.0,53,10
+2026-08-21T16:41:59.199588+00:00,49385860,21,"Small, native web tricks worth remembering",179,50
+2026-08-21T16:41:59.199588+00:00,49389952,22,How We Made a Text-to-Speech Model Respond in Sub-50 ms,12,1
+2026-08-21T16:41:59.199588+00:00,49387349,23,DuckDB V2 PEG-based SQL parser,35,4
+2026-08-21T16:41:59.199588+00:00,49389491,24,The B-right/V R2 Operating System,10,2
+2026-08-21T16:41:59.199588+00:00,49388095,25,"Kodak's ""Pre-Invented"" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",17,0
+2026-08-21T16:41:59.199588+00:00,49323227,26,"Making stinkarm stink less, or more?",6,1
+2026-08-21T16:41:59.199588+00:00,49331084,27,Flat Chair by Sara Paculdo,99,30
+2026-08-21T16:41:59.199588+00:00,49386877,28,The road to ACID transactions in Cassandra 6,29,1
+2026-08-21T16:41:59.199588+00:00,49390099,29,I Just Want to Search,5,0
+2026-08-21T16:41:59.199588+00:00,49387221,30,Nothing Doing,22,10
+2026-08-21T16:41:59.199588+00:00,49389593,31,Show HN: SteppeWM – a stacking IceWM-like Wayland compositor,5,2
+2026-08-21T16:41:59.199588+00:00,49387915,32,"Getting silly with C, part and((int*)-8)[3]",17,1
+2026-08-21T16:41:59.199588+00:00,49321549,33,John Berger: From Life by Tom Overton review – a vibrant biography,7,0
+2026-08-21T16:41:59.199588+00:00,49389441,34,I ran Photoshop on a £0.60 computer chip,3,0
+2026-08-21T16:41:59.199588+00:00,49384716,35,We Rebuilt the Linux MicroVM Stack on Apple Silicon,137,76
+2026-08-21T16:41:59.199588+00:00,49387755,37,Nvidia AVO scores 100% on the ARC-AGI-3 interactive reasoning benchmark,59,29
+2026-08-21T16:41:59.199588+00:00,49388694,38,Zig's Io.Threaded Is Neat,7,1
+2026-08-21T16:41:59.199588+00:00,49389923,39,The US techlash is real,11,0
+2026-08-21T16:41:59.199588+00:00,49386699,40,I'm Becoming AI-Blind,104,101
+2026-08-21T16:41:59.199588+00:00,49385068,41,Better Batteries,45,21
+2026-08-21T16:41:59.199588+00:00,49383582,42,Micron announces $10B research hub in Boise,104,51
+2026-08-21T16:41:59.199588+00:00,49387099,43,The Prague of Deus Ex: Mankind Divided,11,6
+2026-08-21T16:41:59.199588+00:00,49388752,44,Claudette: Make Claude Stop Talking Like a BuzzFeed Article,65,66
+2026-08-21T16:41:59.199588+00:00,49381896,45,Ox Alpha,214,172
+2026-08-21T16:41:59.199588+00:00,49388064,46,Rama 0.4: System proxy and PAC support,6,3
+2026-08-21T16:41:59.199588+00:00,49319733,47,The Mystery of Dark Oxygen,50,13
+2026-08-21T16:41:59.199588+00:00,49388641,48,Cool Italian retro computing (in English),6,1
+2026-08-21T16:41:59.199588+00:00,49387687,49,Convite,12,2
+2026-08-21T16:41:59.199588+00:00,49389493,50,"Show HN: AgentSight – eBPF observability for AI agents, no code changes",14,0
