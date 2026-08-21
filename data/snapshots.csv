@@ -37925,3 +37925,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-21T17:36:06.387597+00:00,49389769,48,How we built a proxy to migrate Kafka producers with zero downtime,10,1
 2026-08-21T17:36:06.387597+00:00,49383582,49,Micron announces $10B research hub in Boise,107,55
 2026-08-21T17:36:06.387597+00:00,49388752,50,Claudette: Make Claude Stop Talking Like a BuzzFeed Article,74,69
+2026-08-21T18:48:08.019773+00:00,49390427,1,Kobo can run apps now,130,58
+2026-08-21T18:48:08.019773+00:00,49388154,2,Kagi added a setting for removing paywalled links from search results,762,274
+2026-08-21T18:48:08.019773+00:00,49389430,3,Felony Bench,165,76
+2026-08-21T18:48:08.019773+00:00,49387570,4,I accidentally logged hundreds of thousands of phone calls to military bases,251,32
+2026-08-21T18:48:08.019773+00:00,49386163,5,DeepSeek-v4-flash-vision-exp,388,126
+2026-08-21T18:48:08.019773+00:00,49391389,6,Rebuilding our Electron meeting-recording engine in Swift,25,2
+2026-08-21T18:48:08.019773+00:00,49357530,7,"AI boosted homework scores, then exam scores dropped: study",65,141
+2026-08-21T18:48:08.019773+00:00,49389441,8,I ran Photoshop on a £0.60 computer chip,26,1
+2026-08-21T18:48:08.019773+00:00,49389952,9,How we made a text-to-speech model respond in sub-50 ms,31,7
+2026-08-21T18:48:08.019773+00:00,49386895,11,Felony charges for citizen deleting phone data at US Border,65,127
+2026-08-21T18:48:08.019773+00:00,49374853,12,A look under our trunk: what's in our compute,12,1
+2026-08-21T18:48:08.019773+00:00,49392200,13,Scientists release biggest 2D map of the universe,6,3
+2026-08-21T18:48:08.019773+00:00,49387525,14,New Worlds: We are living in the future of J.G. Ballard or William Gibson,151,98
+2026-08-21T18:48:08.019773+00:00,49293983,15,Quantifying the honey bee dance floor,12,1
+2026-08-21T18:48:08.019773+00:00,49388095,16,"Kodak's ""pre-invented"" lunar orbiter camera; or, the fate of SAMOS readout",36,1
+2026-08-21T18:48:08.019773+00:00,49390308,17,What happens when a GPU reads memory,37,8
+2026-08-21T18:48:08.019773+00:00,49331391,18,Does whispering to agents in docs help?,20,4
+2026-08-21T18:48:08.019773+00:00,49327408,19,People of ACM – Russ Cox,6,1
+2026-08-21T18:48:08.019773+00:00,49391348,20,Galactic Compass 2: now with new augmented reality mode,7,2
+2026-08-21T18:48:08.019773+00:00,49390775,21,Another better lower bound for n=17 square packing,13,1
+2026-08-21T18:48:08.019773+00:00,49390463,22,"Building an (almost) fully self-hosted, sandboxed, agentic software factory",26,18
+2026-08-21T18:48:08.019773+00:00,49390739,23,"Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",19,10
+2026-08-21T18:48:08.019773+00:00,49390066,24,LLMs are proof that Unix won,17,5
+2026-08-21T18:48:08.019773+00:00,49386877,25,The road to ACID transactions in Cassandra 6,41,1
+2026-08-21T18:48:08.019773+00:00,49387856,26,Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle,81,27
+2026-08-21T18:48:08.019773+00:00,49386699,27,I'm becoming AI-blind,124,122
+2026-08-21T18:48:08.019773+00:00,49346135,28,Show HN: Shoehorn – Quantize any model down to run on your machine,49,9
+2026-08-21T18:48:08.019773+00:00,49390206,29,Decayfmt – a file format that corrupts itself a little every time you open it,18,5
+2026-08-21T18:48:08.019773+00:00,49346444,30,The coolest anti-surveillance tools at Defcon [video],70,4
+2026-08-21T18:48:08.019773+00:00,49388752,31,Claudette: Make Claude stop talking like a BuzzFeed article,85,78
+2026-08-21T18:48:08.019773+00:00,49323227,32,"Making stinkarm stink less, or more – userspace armv7 emulator",6,3
+2026-08-21T18:48:08.019773+00:00,49387349,33,DuckDB V2 PEG-based SQL parser,50,6
+2026-08-21T18:48:08.019773+00:00,49388963,34,How I came to write that paper with Leslie Lamport,33,9
+2026-08-21T18:48:08.019773+00:00,49379183,35,How orchids inspired the work of Charles Darwin,7,0
+2026-08-21T18:48:08.019773+00:00,49389524,36,Cancer-related mortality among US pilots and flight attendants,65,72
+2026-08-21T18:48:08.019773+00:00,49389339,37,Code Obfuscation via Local Mixing,24,1
+2026-08-21T18:48:08.019773+00:00,49391358,38,When the shortage is the strategy,26,24
+2026-08-21T18:48:08.019773+00:00,49390099,39,I Just Want to Search,79,34
+2026-08-21T18:48:08.019773+00:00,49387497,40,Grand jury declines to indict Ohio man charged with destroying Flock camera,560,306
+2026-08-21T18:48:08.019773+00:00,49383026,41,AI companies destroy physical books – let's scan rare books before it's too late,425,774
+2026-08-21T18:48:08.019773+00:00,49389722,42,New York’s office market is home to the most tech workers: CBRE report,26,27
+2026-08-21T18:48:08.019773+00:00,49390132,43,Omacom Foundation launches with $8M,134,103
+2026-08-21T18:48:08.019773+00:00,49391469,44,Show HN: Declarative-forms – await an object the way prompt() awaits a string,5,0
+2026-08-21T18:48:08.019773+00:00,49386383,45,Kino: A high-performance Ractor web server for Ruby 4.0,65,13
+2026-08-21T18:48:08.019773+00:00,49384896,46,The Lost Treasure of Sid Meier's Pirates,235,129
+2026-08-21T18:48:08.019773+00:00,49385860,47,"Small, native web tricks worth remembering",192,51
+2026-08-21T18:48:08.019773+00:00,49387433,48,Yes/No/Cancel causes Aspirin sales to soar (2007),62,52
+2026-08-21T18:48:08.019773+00:00,49331084,49,Flat Chair by Sara Paculdo,102,36
+2026-08-21T18:48:08.019773+00:00,49389392,50,c100,94,79
