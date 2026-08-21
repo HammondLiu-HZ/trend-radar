@@ -37777,3 +37777,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-21T14:42:28.716302+00:00,49386568,48,Waterfox 6.7.0 – Supernova,7,0
 2026-08-21T14:42:28.716302+00:00,49388882,49,Getting the Steam Deck LCD working on a Raspberry Pi,3,0
 2026-08-21T14:42:28.716302+00:00,49312903,50,Four Levels of In-Place Initialization (Rust),5,0
+2026-08-21T15:40:41.697001+00:00,49388154,1,Kagi added a setting for removing paywalled links from search results,354,128
+2026-08-21T15:40:41.697001+00:00,49385994,2,AI companies destroy physical books – let's scan rare books before it's too late,492,330
+2026-08-21T15:40:41.697001+00:00,49388752,3,Claudette: Make Claude Stop Talking Like a BuzzFeed Article,49,37
+2026-08-21T15:40:41.697001+00:00,49386163,4,DeepSeek-v4-flash-vision-exp,312,101
+2026-08-21T15:40:41.697001+00:00,49388446,5,What We Lost When Search Stopped Making Us Think,36,16
+2026-08-21T15:40:41.697001+00:00,49389392,6,c100,18,8
+2026-08-21T15:40:41.697001+00:00,49387570,7,I accidentally logged phone calls to military bases,75,6
+2026-08-21T15:40:41.697001+00:00,49387497,8,Grand jury declines to indict Ohio man charged with destroying Flock camera,327,174
+2026-08-21T15:40:41.697001+00:00,49387735,9,What Happens When the Cost of Intelligence Drops 100x,69,51
+2026-08-21T15:40:41.697001+00:00,49387525,10,We are living in a version of the future out of J.G. Ballard or William Gibson,53,14
+2026-08-21T15:40:41.697001+00:00,49387856,11,Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle,36,12
+2026-08-21T15:40:41.697001+00:00,49386659,12,TigerBeetle Core System Architecture: Deconstructing Performance Engineering,98,35
+2026-08-21T15:40:41.697001+00:00,49385860,13,"Small, native web tricks worth remembering",168,43
+2026-08-21T15:40:41.697001+00:00,49387433,14,Yes/No/Cancel causes Aspirin sales to soar,43,28
+2026-08-21T15:40:41.697001+00:00,49384896,15,The Lost Treasure of Sid Meier's Pirates,204,118
+2026-08-21T15:40:41.697001+00:00,49388095,16,"Kodak's ""Pre-Invented"" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",15,0
+2026-08-21T15:40:41.697001+00:00,49386383,17,Kino: A high-performance Ractor web server for Ruby 4.0,47,9
+2026-08-21T15:40:41.697001+00:00,49389491,18,The B-right/V R2 Operating System,3,0
+2026-08-21T15:40:41.697001+00:00,49386877,19,The road to ACID transactions in Cassandra 6,23,0
+2026-08-21T15:40:41.697001+00:00,49387349,20,DuckDB V2 PEG-based SQL parser,22,1
+2026-08-21T15:40:41.697001+00:00,49331084,21,Flat Chair by Sara Paculdo,90,28
+2026-08-21T15:40:41.697001+00:00,49384716,22,We Rebuilt the Linux MicroVM Stack on Apple Silicon,133,72
+2026-08-21T15:40:41.697001+00:00,49387915,23,"Getting silly with C, part and((int*)-8)[3]",9,0
+2026-08-21T15:40:41.697001+00:00,49321549,24,John Berger: From Life by Tom Overton review – a vibrant biography,7,0
+2026-08-21T15:40:41.697001+00:00,49387755,25,Nvidia AVO scores 100% on the ARC-AGI-3 interactive reasoning benchmark,56,23
+2026-08-21T15:40:41.697001+00:00,49378957,26,The August 17 outage,610,706
+2026-08-21T15:40:41.697001+00:00,49387221,27,Nothing Doing,11,7
+2026-08-21T15:40:41.697001+00:00,49388064,28,Rama 0.4: System proxy and PAC support,6,3
+2026-08-21T15:40:41.697001+00:00,49388694,29,Zig's Io.Threaded Is Neat,3,0
+2026-08-21T15:40:41.697001+00:00,49388682,30,"WPD won't replace stolen Flock cameras, citing public trust",5,0
+2026-08-21T15:40:41.697001+00:00,49388641,31,Cool Italian retro computing (in English),3,1
+2026-08-21T15:40:41.697001+00:00,49386699,32,I'm Becoming AI-Blind,90,83
+2026-08-21T15:40:41.697001+00:00,49385068,33,Better Batteries,44,20
+2026-08-21T15:40:41.697001+00:00,49383582,34,Micron announces $10B research hub in Boise,102,49
+2026-08-21T15:40:41.697001+00:00,49319733,35,The Mystery of Dark Oxygen,49,13
+2026-08-21T15:40:41.697001+00:00,49387687,36,Convite,12,2
+2026-08-21T15:40:41.697001+00:00,49381896,37,Ox Alpha,210,165
+2026-08-21T15:40:41.697001+00:00,49377853,38,I should have loved biology (2020),319,120
+2026-08-21T15:40:41.697001+00:00,49387099,39,The Prague of Deus Ex: Mankind Divided,6,1
+2026-08-21T15:40:41.697001+00:00,49312903,40,Four Levels of In-Place Initialization (Rust),7,0
+2026-08-21T15:40:41.697001+00:00,49386885,41,We burned 11.7B tokens to find the best cyber AI model,8,6
+2026-08-21T15:40:41.697001+00:00,49386568,43,Waterfox 6.7.0 – Supernova,11,0
+2026-08-21T15:40:41.697001+00:00,49378446,44,Why aren't smart people happier? (2022),239,357
+2026-08-21T15:40:41.697001+00:00,49318718,45,Siemens PC-X (2015),13,3
+2026-08-21T15:40:41.697001+00:00,49368886,46,CIA funding helped keep NeXT afloat in the 80s,436,258
+2026-08-21T15:40:41.697001+00:00,49384180,47,"Japan tried to build an operating system for the world, the US intervened",315,175
+2026-08-21T15:40:41.697001+00:00,49376038,48,Launch HN: Vendo (YC S26) – Let users build features on top of your product,55,22
+2026-08-21T15:40:41.697001+00:00,49360140,49,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025),275,230
+2026-08-21T15:40:41.697001+00:00,49375996,50,Vomit: Clean up Claude 5's token output with a separate LLM,288,280
