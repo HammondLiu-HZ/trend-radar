@@ -37434,3 +37434,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-21T06:58:48.691701+00:00,49348189,48,Sol loves to cheat,235,189
 2026-08-21T06:58:48.691701+00:00,49348079,49,Mojo is now open source,392,88
 2026-08-21T06:58:48.691701+00:00,49376211,50,Generic Methods in Go 1.27,62,35
+2026-08-21T07:52:14.224138+00:00,49378957,1,The August 17 outage,480,549
+2026-08-21T07:52:14.224138+00:00,49347543,2,I like 'em thick: an apology to my English teachers,700,290
+2026-08-21T07:52:14.224138+00:00,49362689,3,HTML Can Do That,741,184
+2026-08-21T07:52:14.224138+00:00,49384716,4,We Rebuilt the Linux MicroVM Stack on Apple Silicon,10,0
+2026-08-21T07:52:14.224138+00:00,49384224,5,The Religious Experience of Philip K. Dick by R. Crumb (1986),22,9
+2026-08-21T07:52:14.224138+00:00,49336358,6,Version Control for Everything,21,7
+2026-08-21T07:52:14.224138+00:00,49384896,7,The Lost Treasure of Sid Meier's Pirates,4,0
+2026-08-21T07:52:14.224138+00:00,49374269,8,Malicious Rust crate Arrayref runs a build-time payload,478,406
+2026-08-21T07:52:14.224138+00:00,49381896,9,Ox Alpha,122,92
+2026-08-21T07:52:14.224138+00:00,49377853,10,I should have loved biology (2020),260,100
+2026-08-21T07:52:14.224138+00:00,49384180,11,"Japan tried to build an operating system for the world, the US intervened",73,30
+2026-08-21T07:52:14.224138+00:00,49378446,12,Why aren't smart people happier? (2022),158,217
+2026-08-21T07:52:14.224138+00:00,49368886,13,CIA funding helped keep NeXT afloat in the 80s,392,234
+2026-08-21T07:52:14.224138+00:00,49376038,14,Launch HN: Vendo (YC S26) – Let users build features on top of your product,34,18
+2026-08-21T07:52:14.224138+00:00,49329919,15,Captain Zilog,46,6
+2026-08-21T07:52:14.224138+00:00,49378768,16,Show HN: Huzzah – a novel approach to coding with AI,289,154
+2026-08-21T07:52:14.224138+00:00,49304409,17,Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K,37,8
+2026-08-21T07:52:14.224138+00:00,49384113,18,"Seed: Minimal, self-modifying agent harness",8,0
+2026-08-21T07:52:14.224138+00:00,49383326,19,Codex on AWS bedrock bug causing 10x charges,126,38
+2026-08-21T07:52:14.224138+00:00,49384477,20,Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents,5,1
+2026-08-21T07:52:14.224138+00:00,49375996,21,Vomit: Clean up Claude 5's token output with a separate LLM,242,241
+2026-08-21T07:52:14.224138+00:00,49310857,22,I Ported Moonshine to JavaScript,4,1
+2026-08-21T07:52:14.224138+00:00,49376265,23,Linux 7.2,243,89
+2026-08-21T07:52:14.224138+00:00,49372583,24,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,951,298
+2026-08-21T07:52:14.224138+00:00,49348141,25,Git at any scale,325,102
+2026-08-21T07:52:14.224138+00:00,49295112,26,Speeding Up (Small) Ruby Hashes,49,0
+2026-08-21T07:52:14.224138+00:00,49360140,27,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025),225,148
+2026-08-21T07:52:14.224138+00:00,49378933,28,SpacetimeDB: a short technical review,88,17
+2026-08-21T07:52:14.224138+00:00,49375719,29,Anti-AI fonts are useless and harmful,151,110
+2026-08-21T07:52:14.224138+00:00,49383026,30,AI companies destroy physical books – let's scan rare books before it's too late,289,211
+2026-08-21T07:52:14.224138+00:00,49383582,31,Micron announces $10B research hub in Boise,8,0
+2026-08-21T07:52:14.224138+00:00,49378243,32,Consumer Rights Wiki,272,52
+2026-08-21T07:52:14.224138+00:00,49377739,33,Project Cybersyn (2022),59,45
+2026-08-21T07:52:14.224138+00:00,49374635,34,Every Model Cheats,99,77
+2026-08-21T07:52:14.224138+00:00,49376332,36,How to compromise your system with a job interview,153,132
+2026-08-21T07:52:14.224138+00:00,49374287,37,DiffusionGemma Technical Report,152,36
+2026-08-21T07:52:14.224138+00:00,49379550,38,"Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",1406,306
+2026-08-21T07:52:14.224138+00:00,49374772,39,Hacking with Claude on a $27 smart watch,94,50
+2026-08-21T07:52:14.224138+00:00,49373932,40,Xorg-server 26.1.0 rc1,121,104
+2026-08-21T07:52:14.224138+00:00,49371006,41,Windows brings out the Rorschach test in everyone (2003),344,134
+2026-08-21T07:52:14.224138+00:00,49369408,42,Turns are Better than Radians (2022),340,202
+2026-08-21T07:52:14.224138+00:00,49378950,43,Tidal Cycles – Live coding music with Algorithmic patterns,63,10
+2026-08-21T07:52:14.224138+00:00,49373456,44,Show HN: I trained a 125M model to autocomplete piano on-device,548,113
+2026-08-21T07:52:14.224138+00:00,49378630,45,Watching TikTok and Instagram deactivates the cognitive control network: Study,328,115
+2026-08-21T07:52:14.224138+00:00,49374965,46,Slack Code,69,97
+2026-08-21T07:52:14.224138+00:00,49381311,47,Detecting scraper bots through scroll behaviour,35,14
+2026-08-21T07:52:14.224138+00:00,49375244,48,Show HN: Open-source Stripe Connect alternative,70,30
+2026-08-21T07:52:14.224138+00:00,49323795,49,A faster way to calculate the day of the week,252,85
+2026-08-21T07:52:14.224138+00:00,49380303,50,Early-life stress leaves a 'scar' inside brain cells,32,9
