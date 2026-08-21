@@ -37679,3 +37679,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-21T11:32:43.678578+00:00,49378950,48,Tidal Cycles – Live coding music with Algorithmic patterns,69,11
 2026-08-21T11:32:43.678578+00:00,49348189,49,Sol loves to cheat,239,194
 2026-08-21T11:32:43.678578+00:00,49380303,50,Early-life stress leaves a 'scar' inside brain cells,38,11
+2026-08-21T13:02:08.164852+00:00,49386163,1,DeepSeek-v4-flash-vision-exp,191,47
+2026-08-21T13:02:08.164852+00:00,49385994,2,AI companies destroy physical books – let's scan rare books before it's too late,163,101
+2026-08-21T13:02:08.164852+00:00,49386659,3,TigerBeetle Core System Architecture: Deconstructing Performance Engineering,45,13
+2026-08-21T13:02:08.164852+00:00,49384896,4,The Lost Treasure of Sid Meier's Pirates,150,80
+2026-08-21T13:02:08.164852+00:00,49385860,5,"Small, native web tricks worth remembering",104,24
+2026-08-21T13:02:08.164852+00:00,49386383,6,Kino: A high-performance Ractor web server for Ruby 4.0,18,1
+2026-08-21T13:02:08.164852+00:00,49384716,7,We Rebuilt the Linux MicroVM Stack on Apple Silicon,114,54
+2026-08-21T13:02:08.164852+00:00,49331084,8,Flat Chair by Sara Paculdo,59,18
+2026-08-21T13:02:08.164852+00:00,49378957,9,The August 17 outage,582,644
+2026-08-21T13:02:08.164852+00:00,49319733,10,The Mystery of Dark Oxygen,16,5
+2026-08-21T13:02:08.164852+00:00,49347543,11,I like 'em thick: an apology to my English teachers,785,321
+2026-08-21T13:02:08.164852+00:00,49362689,12,HTML Can Do That,892,201
+2026-08-21T13:02:08.164852+00:00,49318718,13,Siemens PC-X (2015),6,1
+2026-08-21T13:02:08.164852+00:00,49374269,14,Malicious Rust crate Arrayref runs a build-time payload,519,449
+2026-08-21T13:02:08.164852+00:00,49381896,15,Ox Alpha,187,147
+2026-08-21T13:02:08.164852+00:00,49383582,16,Micron announces $10B research hub in Boise,61,19
+2026-08-21T13:02:08.164852+00:00,49377853,17,I should have loved biology (2020),305,115
+2026-08-21T13:02:08.164852+00:00,49384224,18,The Religious Experience of Philip K. Dick by R. Crumb (1986),66,42
+2026-08-21T13:02:08.164852+00:00,49378446,19,Why aren't smart people happier? (2022),219,308
+2026-08-21T13:02:08.164852+00:00,49368886,20,CIA funding helped keep NeXT afloat in the 80s,425,257
+2026-08-21T13:02:08.164852+00:00,49384113,21,"Seed: Minimal, self-modifying agent harness",41,15
+2026-08-21T13:02:08.164852+00:00,49376038,22,Launch HN: Vendo (YC S26) – Let users build features on top of your product,47,20
+2026-08-21T13:02:08.164852+00:00,49384180,23,"Japan tried to build an operating system for the world, the US intervened",264,149
+2026-08-21T13:02:08.164852+00:00,49375996,24,Vomit: Clean up Claude 5's token output with a separate LLM,270,265
+2026-08-21T13:02:08.164852+00:00,49360140,25,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025),263,217
+2026-08-21T13:02:08.164852+00:00,49376265,26,Linux 7.2,271,114
+2026-08-21T13:02:08.164852+00:00,49375719,27,Anti-AI fonts are useless and harmful,184,137
+2026-08-21T13:02:08.164852+00:00,49385068,28,Better Batteries,16,11
+2026-08-21T13:02:08.164852+00:00,49372583,29,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,984,314
+2026-08-21T13:02:08.164852+00:00,49329919,30,Captain Zilog,63,8
+2026-08-21T13:02:08.164852+00:00,49378768,31,Show HN: Huzzah – a novel approach to coding with AI,338,188
+2026-08-21T13:02:08.164852+00:00,49295112,32,Speeding Up (Small) Ruby Hashes,69,0
+2026-08-21T13:02:08.164852+00:00,49376332,33,How to compromise your system with a job interview,163,139
+2026-08-21T13:02:08.164852+00:00,49315836,34,Attention Through Arithmetic Intensity,9,0
+2026-08-21T13:02:08.164852+00:00,49304409,35,Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K,43,12
+2026-08-21T13:02:08.164852+00:00,49378933,36,SpacetimeDB: a short technical review,105,22
+2026-08-21T13:02:08.164852+00:00,49374635,38,Every Model Cheats,104,82
+2026-08-21T13:02:08.164852+00:00,49378243,39,Consumer Rights Wiki,287,57
+2026-08-21T13:02:08.164852+00:00,49374287,40,DiffusionGemma Technical Report,156,38
+2026-08-21T13:02:08.164852+00:00,49377739,41,Project Cybersyn (2022),63,47
+2026-08-21T13:02:08.164852+00:00,49373932,42,Xorg-server 26.1.0 rc1,131,108
+2026-08-21T13:02:08.164852+00:00,49371006,43,Windows brings out the Rorschach test in everyone (2003),348,135
+2026-08-21T13:02:08.164852+00:00,49383326,44,Codex on AWS bedrock bug causing 10x charges,141,56
+2026-08-21T13:02:08.164852+00:00,49369408,45,Turns are Better than Radians (2022),345,208
+2026-08-21T13:02:08.164852+00:00,49374772,46,Hacking with Claude on a $27 smart watch,100,55
+2026-08-21T13:02:08.164852+00:00,49379550,47,"Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",1509,342
+2026-08-21T13:02:08.164852+00:00,49385296,48,Emacs 31.1 will release on 8/24,50,14
+2026-08-21T13:02:08.164852+00:00,49386445,49,Bandai don't sue me please,5,0
+2026-08-21T13:02:08.164852+00:00,49383026,50,AI companies destroy physical books – let's scan rare books before it's too late,368,276
