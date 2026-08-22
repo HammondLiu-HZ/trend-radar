@@ -38219,3 +38219,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-21T23:30:30.226607+00:00,49392331,48,Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders,40,45
 2026-08-21T23:30:30.226607+00:00,49389524,49,Cancer-related mortality among US pilots and flight attendants,76,85
 2026-08-21T23:30:30.226607+00:00,49331084,50,Flat Chair by Sara Paculdo,105,36
+2026-08-22T01:41:24.152826+00:00,49390427,1,Kobo can run apps now,434,147
+2026-08-22T01:41:24.152826+00:00,49389430,2,Felony Bench,523,225
+2026-08-22T01:41:24.152826+00:00,49394496,3,Three important steps in my maturation process,47,9
+2026-08-22T01:41:24.152826+00:00,49392200,4,Scientists release biggest 2D map of the universe,149,47
+2026-08-22T01:41:24.152826+00:00,49388154,5,Kagi added a setting for removing paywalled links from search results,1011,341
+2026-08-22T01:41:24.152826+00:00,49394827,6,"Show HN: OzBrain, a shared brain for knowledge between agents and your team",35,11
+2026-08-22T01:41:24.152826+00:00,49393052,7,Rust Glancer: Rust LSP using 100x less RAM,21,14
+2026-08-22T01:41:24.152826+00:00,49395628,8,There's no reason for software to be slow anymore,4,1
+2026-08-22T01:41:24.152826+00:00,49395171,9,HN: The Good Parts (2016),16,6
+2026-08-22T01:41:24.152826+00:00,49387570,10,I accidentally logged hundreds of thousands of phone calls to military bases,447,50
+2026-08-22T01:41:24.152826+00:00,49386895,11,Felony charges for citizen deleting phone data at US Border,560,734
+2026-08-22T01:41:24.152826+00:00,49327408,12,People of ACM – Russ Cox,92,11
+2026-08-22T01:41:24.152826+00:00,49386163,13,DeepSeek-v4-flash-vision-exp,465,143
+2026-08-22T01:41:24.152826+00:00,49357530,14,"AI boosted homework scores, then exam scores dropped: study",232,289
+2026-08-22T01:41:24.152826+00:00,49389952,16,How we made a text-to-speech model respond in sub-50 ms,105,28
+2026-08-22T01:41:24.152826+00:00,49395605,17,Initial focus for our partnership with Motorola is a regular non-folding device,3,0
+2026-08-22T01:41:24.152826+00:00,49389441,18,I ran Photoshop on a £0.60 computer chip,120,29
+2026-08-22T01:41:24.152826+00:00,49388752,19,Claudette: Make Claude stop talking like a BuzzFeed article,202,142
+2026-08-22T01:41:24.152826+00:00,49374853,20,A look under our trunk: what's in our compute,95,50
+2026-08-22T01:41:24.152826+00:00,49387525,21,New Worlds: We are living in the future of J.G. Ballard or William Gibson,205,146
+2026-08-22T01:41:24.152826+00:00,49392465,22,Tumble Forth – from assembly to OS with C compiler (2023),56,8
+2026-08-22T01:41:24.152826+00:00,49391553,23,OTel isn't going well (and I made a spreadsheet about it),17,3
+2026-08-22T01:41:24.152826+00:00,49376197,24,Autolith: A programming agent with a live runtime,23,2
+2026-08-22T01:41:24.152826+00:00,49379026,25,"GitHub, autoscaling, and the component substitution fallacy",28,0
+2026-08-22T01:41:24.152826+00:00,49376769,26,Everyone says assembly is untyped—everyone is wrong,37,13
+2026-08-22T01:41:24.152826+00:00,49386699,27,I'm becoming AI-blind,267,278
+2026-08-22T01:41:24.152826+00:00,49346444,28,The coolest anti-surveillance tools at Defcon [video],159,9
+2026-08-22T01:41:24.152826+00:00,49388095,29,"Kodak's ""pre-invented"" lunar orbiter camera; or, the fate of SAMOS readout",55,3
+2026-08-22T01:41:24.152826+00:00,49326852,30,"Show HN: Rex, a parallel functional language for scientific workflows",7,0
+2026-08-22T01:41:24.152826+00:00,49390308,31,What happens when a GPU reads memory,100,18
+2026-08-22T01:41:24.152826+00:00,49332812,32,Using an old Android phone as a music player,36,20
+2026-08-22T01:41:24.152826+00:00,49390463,33,"Building an (almost) fully self-hosted, sandboxed, agentic software factory",85,50
+2026-08-22T01:41:24.152826+00:00,49395638,34,OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%,8,0
+2026-08-22T01:41:24.152826+00:00,49395700,35,Ask HN: Just saw a YC25 job posting front page that looks like a 7-day work week,5,1
+2026-08-22T01:41:24.152826+00:00,49387856,36,Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle,96,32
+2026-08-22T01:41:24.152826+00:00,49346135,37,Show HN: Shoehorn – Quantize any model down to run on your machine,80,17
+2026-08-22T01:41:24.152826+00:00,49386877,38,The road to ACID transactions in Cassandra 6,67,16
+2026-08-22T01:41:24.152826+00:00,49333557,39,The Size of the World Wide Web,22,6
+2026-08-22T01:41:24.152826+00:00,49390206,40,Decayfmt – a file format that corrupts itself a little every time you open it,46,18
+2026-08-22T01:41:24.152826+00:00,49384896,41,The Lost Treasure of Sid Meier's Pirates,250,136
+2026-08-22T01:41:24.152826+00:00,49394028,42,Remotely unlocking electric scooters,27,3
+2026-08-22T01:41:24.152826+00:00,49387349,43,DuckDB V2 PEG-based SQL parser,58,6
+2026-08-22T01:41:24.152826+00:00,49383026,44,AI companies destroy physical books – let's scan rare books before it's too late,534,837
+2026-08-22T01:41:24.152826+00:00,49293983,45,Quantifying the honey bee dance floor,24,1
+2026-08-22T01:41:24.152826+00:00,49390286,46,Three ways to smuggle SQLite into Nix,17,6
+2026-08-22T01:41:24.152826+00:00,49385860,47,"Small, native web tricks worth remembering",210,54
+2026-08-22T01:41:24.152826+00:00,49394148,48,Run 290B+ frontier MoE models locally on your gaming PC,8,0
+2026-08-22T01:41:24.152826+00:00,49393051,49,Quick impressions: A week of using Codex more than Claude,80,84
+2026-08-22T01:41:24.152826+00:00,49386383,50,Kino: A high-performance Ractor web server for Ruby 4.0,68,16
