@@ -39199,3 +39199,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-22T21:28:32.289542+00:00,49357530,47,"AI boosted homework scores, then exam scores dropped: study",368,366
 2026-08-22T21:28:32.289542+00:00,49403831,49,Books That Will Change the Way You Look at the World,3,0
 2026-08-22T21:28:32.289542+00:00,49388752,50,Claudette: Make Claude stop talking like a BuzzFeed article,341,230
+2026-08-22T22:29:27.141217+00:00,49402741,1,hdiutil is deprecated in macOS 27 Golden Gate,137,44
+2026-08-22T22:29:27.141217+00:00,49402189,2,Scrap,193,80
+2026-08-22T22:29:27.141217+00:00,49402781,3,NetBSD and My Life (2005),68,17
+2026-08-22T22:29:27.141217+00:00,49402232,4,Why your local LLM feels dumber than it is,101,27
+2026-08-22T22:29:27.141217+00:00,49400408,5,"ElevenLabs, TwelveLabs, ThirteenLabs",271,89
+2026-08-22T22:29:27.141217+00:00,49351802,6,"Hister – A private, full content search index that you control",180,56
+2026-08-22T22:29:27.141217+00:00,49387959,7,How a Texas student blew the whistle on a rogue AI hacking attempt,82,13
+2026-08-22T22:29:27.141217+00:00,49399898,8,A Friendly Introduction to Racket,168,70
+2026-08-22T22:29:27.141217+00:00,49355659,9,RF Cafe,115,12
+2026-08-22T22:29:27.141217+00:00,49346854,10,typ.ing,132,37
+2026-08-22T22:29:27.141217+00:00,49404282,11,A New Kind of Science by Stephen Wolfram: Monster Raving Egomania,6,1
+2026-08-22T22:29:27.141217+00:00,49379732,12,ATProto spaces: A new extension to ATProto that enables non-public data,81,10
+2026-08-22T22:29:27.141217+00:00,49397074,13,Canada will match US tariffs 'dollar for dollar' as trade talks break down,385,1070
+2026-08-22T22:29:27.141217+00:00,49402907,14,English ↔ Claudish Translator,25,20
+2026-08-22T22:29:27.141217+00:00,49374729,15,Guess which of these LLM outputs is watermarked,52,52
+2026-08-22T22:29:27.141217+00:00,49392536,16,One night in Uzbekistan: Why was this one data point so influential?,50,4
+2026-08-22T22:29:27.141217+00:00,49398152,17,Munder Difflin – Agent harness to run an office of your clones,235,110
+2026-08-22T22:29:27.141217+00:00,49352470,18,Mythic's analog compute-in-memory architecture,39,22
+2026-08-22T22:29:27.141217+00:00,49377316,19,Why it might be time to rethink the human family tree,46,25
+2026-08-22T22:29:27.141217+00:00,49381991,20,Dynamical dark energy and the week that broke cosmology,33,8
+2026-08-22T22:29:27.141217+00:00,49398158,21,Z80 – The 1970s Microprocessor Still Alive (2021),109,51
+2026-08-22T22:29:27.141217+00:00,49364296,22,Show HN: terminal-code – VS Code inside the terminal,55,15
+2026-08-22T22:29:27.141217+00:00,49370284,23,"MiniageOS: ""Dumbphone"" Version of LineageOS",35,19
+2026-08-22T22:29:27.141217+00:00,49393052,24,Rust Glancer: Rust LSP using 100x less RAM,392,94
+2026-08-22T22:29:27.141217+00:00,49401549,25,Anthropic appears to be A/B testing reduced effort levels in Claude Code,141,135
+2026-08-22T22:29:27.141217+00:00,49399591,26,New MCP Roadmap,163,120
+2026-08-22T22:29:27.141217+00:00,49360643,27,What's in a PowerPoint File?,41,20
+2026-08-22T22:29:27.141217+00:00,49403228,28,Fast and Hard Code,17,10
+2026-08-22T22:29:27.141217+00:00,49402202,29,Thinking in Python by Bruce Eckel,12,1
+2026-08-22T22:29:27.141217+00:00,49393537,30,The Creation of Abulafia,25,7
+2026-08-22T22:29:27.141217+00:00,49375176,31,ProgramBench Vetted: Reverse Engineering from a Runnable Binary,21,1
+2026-08-22T22:29:27.141217+00:00,49384210,32,Stop Making TUIs,371,485
+2026-08-22T22:29:27.141217+00:00,49361478,33,Show HN: Anonymous age verification with passkey-powered encryption,32,16
+2026-08-22T22:29:27.141217+00:00,49389846,34,"Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",18,6
+2026-08-22T22:29:27.141217+00:00,49373822,35,Conway's Game of Life in real life,19,3
+2026-08-22T22:29:27.141217+00:00,49401621,36,Belgian car salesman becomes prince after DNA test proves royal parentage,89,71
+2026-08-22T22:29:27.141217+00:00,49391168,37,Show HN: Rotation via Double Reflection,50,9
+2026-08-22T22:29:27.141217+00:00,49392677,38,Show HN: Zcomplete – Shell Typo Correction,15,2
+2026-08-22T22:29:27.141217+00:00,49380128,39,Ameliorate,79,20
+2026-08-22T22:29:27.141217+00:00,49392200,40,Scientists release biggest 2D map of the universe,251,66
+2026-08-22T22:29:27.141217+00:00,49388694,41,Zig’s Io.Threaded is neat,143,89
+2026-08-22T22:29:27.141217+00:00,49404320,42,AI Made Me Faster. I'm Not Sure It Made Me Better,4,0
+2026-08-22T22:29:27.141217+00:00,49395628,43,There's no reason for software to be slow anymore,616,477
+2026-08-22T22:29:27.141217+00:00,49392099,44,How Thailand Resisted Colonization,116,43
+2026-08-22T22:29:27.141217+00:00,49391553,46,OTel isn’t going well,211,106
+2026-08-22T22:29:27.141217+00:00,49357530,47,"AI boosted homework scores, then exam scores dropped: study",369,370
+2026-08-22T22:29:27.141217+00:00,49401082,48,The war on data centres is a bit fake,16,10
+2026-08-22T22:29:27.141217+00:00,49398904,49,"Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",198,158
+2026-08-22T22:29:27.141217+00:00,49380303,50,Early-life stress leaves a 'scar' inside brain cells in mice,136,69
