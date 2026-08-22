@@ -38660,3 +38660,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-22T10:31:33.669123+00:00,49387349,48,DuckDB V2 PEG-based SQL parser,69,6
 2026-08-22T10:31:33.669123+00:00,49360140,49,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025),290,243
 2026-08-22T10:31:33.669123+00:00,49394827,50,"Show HN: OzBrain, a shared brain for knowledge between agents and your team",69,44
+2026-08-22T11:26:57.910253+00:00,49398304,1,Canada suspends trade negotiations with USA and match tariffs dollar for dollar,115,52
+2026-08-22T11:26:57.910253+00:00,49398152,2,Munder Difflin – Agent harness to run an office of your clones,12,0
+2026-08-22T11:26:57.910253+00:00,49398158,3,Z80–The 1970s Microprocessor Still Alive,12,7
+2026-08-22T11:26:57.910253+00:00,49393052,4,Rust Glancer: Rust LSP using 100x less RAM,272,55
+2026-08-22T11:26:57.910253+00:00,49389430,5,Felony Bench,733,280
+2026-08-22T11:26:57.910253+00:00,49390427,6,Kobo can run apps now,570,189
+2026-08-22T11:26:57.910253+00:00,49386895,7,Felony charges for citizen deleting phone data at US Border,827,957
+2026-08-22T11:26:57.910253+00:00,49395628,8,There's no reason for software to be slow anymore,446,315
+2026-08-22T11:26:57.910253+00:00,49387570,9,I accidentally logged hundreds of thousands of phone calls to military bases,568,69
+2026-08-22T11:26:57.910253+00:00,49388154,10,Kagi added a setting for removing paywalled links from search results,1148,370
+2026-08-22T11:26:57.910253+00:00,49388694,11,Zig’s io.threaded is neat,85,46
+2026-08-22T11:26:57.910253+00:00,49394496,12,Three important steps in my maturation process,152,71
+2026-08-22T11:26:57.910253+00:00,49392200,13,Scientists release biggest 2D map of the universe,215,57
+2026-08-22T11:26:57.910253+00:00,49384210,14,Stop Making TUIs,168,229
+2026-08-22T11:26:57.910253+00:00,49391553,15,OTel isn’t going well,135,55
+2026-08-22T11:26:57.910253+00:00,49391661,16,Optimizing meshoptimizer to process billions of triangles in minutes (2025),40,0
+2026-08-22T11:26:57.910253+00:00,49357530,17,"AI boosted homework scores, then exam scores dropped: study",317,324
+2026-08-22T11:26:57.910253+00:00,49391348,18,Galactic Compass 2: now with new augmented reality mode,13,2
+2026-08-22T11:26:57.910253+00:00,49388752,19,Claudette: Make Claude stop talking like a BuzzFeed article,288,187
+2026-08-22T11:26:57.910253+00:00,49327408,20,People of ACM – Russ Cox,140,14
+2026-08-22T11:26:57.910253+00:00,49386699,21,I'm becoming AI-blind,386,382
+2026-08-22T11:26:57.910253+00:00,49380303,22,Early-life stress leaves a 'scar' inside brain cells in mice,94,43
+2026-08-22T11:26:57.910253+00:00,49387525,23,New Worlds: We are living in the future of J.G. Ballard or William Gibson,246,165
+2026-08-22T11:26:57.910253+00:00,49389952,24,How we made a text-to-speech model respond in sub-50 ms,153,37
+2026-08-22T11:26:57.910253+00:00,49364721,25,A revisit of remote Spectre attacks on Cloudflare Workers,55,0
+2026-08-22T11:26:57.910253+00:00,49376769,26,Everyone says assembly is untyped—everyone is wrong,85,36
+2026-08-22T11:26:57.910253+00:00,49346444,27,The coolest anti-surveillance tools at Defcon [video],205,34
+2026-08-22T11:26:57.910253+00:00,49376197,28,Autolith: A programming agent with a live runtime,70,23
+2026-08-22T11:26:57.910253+00:00,49395171,29,HN: The Good Parts (2016),54,10
+2026-08-22T11:26:57.910253+00:00,49395605,30,Initial focus for our partnership with Motorola is a regular non-folding device,121,44
+2026-08-22T11:26:57.910253+00:00,49329506,31,ESP32 Firmware Development with Docker Sandboxes,25,7
+2026-08-22T11:26:57.910253+00:00,49374853,32,A look under our trunk: what's in our compute,126,70
+2026-08-22T11:26:57.910253+00:00,49381542,33,"Ozone: The fault is not in our trees, but in ourselves",32,1
+2026-08-22T11:26:57.910253+00:00,49389441,35,I ran Photoshop on a £0.60 computer chip,137,41
+2026-08-22T11:26:57.910253+00:00,49392465,36,Tumble Forth – from assembly to OS with C compiler (2023),79,11
+2026-08-22T11:26:57.910253+00:00,49388095,37,"Kodak's ""pre-invented"" lunar orbiter camera; or, the fate of SAMOS readout",60,4
+2026-08-22T11:26:57.910253+00:00,49379026,38,"GitHub, autoscaling, and the component substitution fallacy",51,0
+2026-08-22T11:26:57.910253+00:00,49383026,39,AI companies destroy physical books – let's scan rare books before it's too late,572,855
+2026-08-22T11:26:57.910253+00:00,49332812,40,Using an old Android phone as a music player,52,24
+2026-08-22T11:26:57.910253+00:00,49390463,41,"Building an (almost) fully self-hosted, sandboxed, agentic software factory",105,55
+2026-08-22T11:26:57.910253+00:00,49390308,42,What happens when a GPU reads memory,108,19
+2026-08-22T11:26:57.910253+00:00,49384896,43,The Lost Treasure of Sid Meier's Pirates,261,142
+2026-08-22T11:26:57.910253+00:00,49386163,44,DeepSeek-v4-flash-vision-exp,483,151
+2026-08-22T11:26:57.910253+00:00,49397409,45,"Building a Quantum Computer, One Fragile Qubit at a Time",4,0
+2026-08-22T11:26:57.910253+00:00,49385860,46,"Small, native web tricks worth remembering",223,54
+2026-08-22T11:26:57.910253+00:00,49387856,47,Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle,105,33
+2026-08-22T11:26:57.910253+00:00,49379183,48,How orchids inspired the work of Charles Darwin,16,0
+2026-08-22T11:26:57.910253+00:00,49326852,49,"Show HN: Rex, a parallel functional language for scientific workflows",22,3
+2026-08-22T11:26:57.910253+00:00,49387349,50,DuckDB V2 PEG-based SQL parser,69,6
