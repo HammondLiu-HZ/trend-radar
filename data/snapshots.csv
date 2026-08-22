@@ -38464,3 +38464,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-22T06:52:19.251017+00:00,49396348,48,Giving an LLM your prod database is easy. Taking access away is the hard part,3,2
 2026-08-22T06:52:19.251017+00:00,49387349,49,DuckDB V2 PEG-based SQL parser,63,6
 2026-08-22T06:52:19.251017+00:00,49346135,50,Show HN: Shoehorn – Quantize any model down to run on your machine,85,18
+2026-08-22T07:37:43.106065+00:00,49389430,1,Felony Bench,654,262
+2026-08-22T07:37:43.106065+00:00,49393052,2,Rust Glancer: Rust LSP using 100x less RAM,132,33
+2026-08-22T07:37:43.106065+00:00,49390427,3,Kobo can run apps now,508,178
+2026-08-22T07:37:43.106065+00:00,49395628,4,There's no reason for software to be slow anymore,333,241
+2026-08-22T07:37:43.106065+00:00,49391661,5,Optimizing meshoptimizer to process billions of triangles in minutes (2025),15,0
+2026-08-22T07:37:43.106065+00:00,49386895,6,Felony charges for citizen deleting phone data at US Border,730,859
+2026-08-22T07:37:43.106065+00:00,49394496,7,Three important steps in my maturation process,122,48
+2026-08-22T07:37:43.106065+00:00,49388694,8,Zig’s io.threaded is neat,51,14
+2026-08-22T07:37:43.106065+00:00,49388154,9,Kagi added a setting for removing paywalled links from search results,1093,359
+2026-08-22T07:37:43.106065+00:00,49387570,10,I accidentally logged hundreds of thousands of phone calls to military bases,518,58
+2026-08-22T07:37:43.106065+00:00,49392200,11,Scientists release biggest 2D map of the universe,187,55
+2026-08-22T07:37:43.106065+00:00,49391553,12,OTel isn’t going well,93,34
+2026-08-22T07:37:43.106065+00:00,49357530,13,"AI boosted homework scores, then exam scores dropped: study",294,310
+2026-08-22T07:37:43.106065+00:00,49395605,14,Initial focus for our partnership with Motorola is a regular non-folding device,100,32
+2026-08-22T07:37:43.106065+00:00,49327408,15,People of ACM – Russ Cox,126,13
+2026-08-22T07:37:43.106065+00:00,49384210,16,Stop Making TUIs,95,163
+2026-08-22T07:37:43.106065+00:00,49394827,17,"Show HN: OzBrain, a shared brain for knowledge between agents and your team",65,36
+2026-08-22T07:37:43.106065+00:00,49364721,18,A revisit of remote Spectre attacks on Cloudflare Workers,44,0
+2026-08-22T07:37:43.106065+00:00,49380303,19,Early-life stress leaves a 'scar' inside brain cells in mice,81,29
+2026-08-22T07:37:43.106065+00:00,49388752,20,Claudette: Make Claude stop talking like a BuzzFeed article,251,173
+2026-08-22T07:37:43.106065+00:00,49387525,21,New Worlds: We are living in the future of J.G. Ballard or William Gibson,232,164
+2026-08-22T07:37:43.106065+00:00,49386699,22,I'm becoming AI-blind,339,348
+2026-08-22T07:37:43.106065+00:00,49389952,23,How we made a text-to-speech model respond in sub-50 ms,137,33
+2026-08-22T07:37:43.106065+00:00,49397074,24,Canada will match US tariffs 'dollar for dollar' as trade talks break down,26,3
+2026-08-22T07:37:43.106065+00:00,49395171,25,HN: The Good Parts (2016),40,8
+2026-08-22T07:37:43.106065+00:00,49376769,26,Everyone says assembly is untyped—everyone is wrong,69,25
+2026-08-22T07:37:43.106065+00:00,49374853,28,A look under our trunk: what's in our compute,121,67
+2026-08-22T07:37:43.106065+00:00,49346444,29,The coolest anti-surveillance tools at Defcon [video],191,26
+2026-08-22T07:37:43.106065+00:00,49381542,30,"Ozone: The fault is not in our trees, but in ourselves",22,1
+2026-08-22T07:37:43.106065+00:00,49392465,31,Tumble Forth – from assembly to OS with C compiler (2023),72,11
+2026-08-22T07:37:43.106065+00:00,49389441,32,I ran Photoshop on a £0.60 computer chip,129,38
+2026-08-22T07:37:43.106065+00:00,49379026,33,"GitHub, autoscaling, and the component substitution fallacy",47,0
+2026-08-22T07:37:43.106065+00:00,49379183,34,How orchids inspired the work of Charles Darwin,14,0
+2026-08-22T07:37:43.106065+00:00,49388095,35,"Kodak's ""pre-invented"" lunar orbiter camera; or, the fate of SAMOS readout",59,4
+2026-08-22T07:37:43.106065+00:00,49332812,36,Using an old Android phone as a music player,50,22
+2026-08-22T07:37:43.106065+00:00,49396590,37,GPT 5.6 Sol 20% price reduction,62,47
+2026-08-22T07:37:43.106065+00:00,49390308,38,What happens when a GPU reads memory,106,18
+2026-08-22T07:37:43.106065+00:00,49376197,39,Autolith: A programming agent with a live runtime,60,16
+2026-08-22T07:37:43.106065+00:00,49326852,40,"Show HN: Rex, a parallel functional language for scientific workflows",19,2
+2026-08-22T07:37:43.106065+00:00,49390463,41,"Building an (almost) fully self-hosted, sandboxed, agentic software factory",97,53
+2026-08-22T07:37:43.106065+00:00,49383026,42,AI companies destroy physical books – let's scan rare books before it's too late,554,852
+2026-08-22T07:37:43.106065+00:00,49384896,43,The Lost Treasure of Sid Meier's Pirates,257,141
+2026-08-22T07:37:43.106065+00:00,49386163,44,DeepSeek-v4-flash-vision-exp,476,149
+2026-08-22T07:37:43.106065+00:00,49394148,45,Run 290B+ frontier MoE models locally on your gaming PC,20,0
+2026-08-22T07:37:43.106065+00:00,49387856,46,Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle,104,33
+2026-08-22T07:37:43.106065+00:00,49385860,47,"Small, native web tricks worth remembering",217,54
+2026-08-22T07:37:43.106065+00:00,49396742,48,Silicon Valley Executives Are Tech Fans. Just Not for Their Kids,12,2
+2026-08-22T07:37:43.106065+00:00,49387349,49,DuckDB V2 PEG-based SQL parser,66,6
+2026-08-22T07:37:43.106065+00:00,49346135,50,Show HN: Shoehorn – Quantize any model down to run on your machine,86,18
