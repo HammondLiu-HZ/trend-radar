@@ -39101,3 +39101,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-22T19:28:04.537045+00:00,49391553,48,OTel isn’t going well,207,103
 2026-08-22T19:28:04.537045+00:00,49392099,49,How Thailand Resisted Colonization,109,41
 2026-08-22T19:28:04.537045+00:00,49357530,50,"AI boosted homework scores, then exam scores dropped: study",365,364
+2026-08-22T20:31:03.175609+00:00,49402741,1,hdiutil is deprecated in macOS 27 Golden Gate,71,21
+2026-08-22T20:31:03.175609+00:00,49402189,2,Scrap,107,28
+2026-08-22T20:31:03.175609+00:00,49402781,3,NetBSD and My Life (2005),38,4
+2026-08-22T20:31:03.175609+00:00,49400408,4,"ElevenLabs, TwelveLabs, ThirteenLabs",233,77
+2026-08-22T20:31:03.175609+00:00,49351802,5,"Hister – A private, full content search index that you control",116,42
+2026-08-22T20:31:03.175609+00:00,49399898,6,A Friendly Introduction to Racket,106,44
+2026-08-22T20:31:03.175609+00:00,49402521,7,Show HN: Make your logo extra bright on HDR screens,19,15
+2026-08-22T20:31:03.175609+00:00,49346854,8,typ.ing,88,27
+2026-08-22T20:31:03.175609+00:00,49402232,9,Why your local LLM feels dumber than it is,18,4
+2026-08-22T20:31:03.175609+00:00,49355659,10,RF Cafe,76,10
+2026-08-22T20:31:03.175609+00:00,49387959,11,How a Texas student blew the whistle on a rogue AI hacking attempt,52,4
+2026-08-22T20:31:03.175609+00:00,49379732,12,ATProto spaces: A new extension to ATProto that enables non-public data,50,7
+2026-08-22T20:31:03.175609+00:00,49402907,13,English ↔ Claudish Translator,6,2
+2026-08-22T20:31:03.175609+00:00,49398152,14,Munder Difflin – Agent harness to run an office of your clones,226,103
+2026-08-22T20:31:03.175609+00:00,49397074,15,Canada will match US tariffs 'dollar for dollar' as trade talks break down,263,923
+2026-08-22T20:31:03.175609+00:00,49377316,16,Why it might be time to rethink the human family tree,33,19
+2026-08-22T20:31:03.175609+00:00,49352470,17,Mythic's analog compute-in-memory architecture,31,4
+2026-08-22T20:31:03.175609+00:00,49392536,18,One night in Uzbekistan: Why was this one data point so influential?,25,2
+2026-08-22T20:31:03.175609+00:00,49398158,19,Z80 – The 1970s Microprocessor Still Alive (2021),101,49
+2026-08-22T20:31:03.175609+00:00,49370284,20,"MiniageOS: ""Dumbphone"" Version of LineageOS",27,17
+2026-08-22T20:31:03.175609+00:00,49364296,21,Show HN: terminal-code – VS Code inside the terminal,33,10
+2026-08-22T20:31:03.175609+00:00,49401549,22,Anthropic appears to be A/B testing reduced effort levels in Claude Code,94,96
+2026-08-22T20:31:03.175609+00:00,49401621,23,Belgian car salesman becomes prince after DNA test proves royal parentage,74,47
+2026-08-22T20:31:03.175609+00:00,49399591,24,New MCP Roadmap,150,116
+2026-08-22T20:31:03.175609+00:00,49393537,25,The Creation of Abulafia,19,3
+2026-08-22T20:31:03.175609+00:00,49375176,26,ProgramBench Vetted: Reverse Engineering from a Runnable Binary,16,1
+2026-08-22T20:31:03.175609+00:00,49393052,27,Rust Glancer: Rust LSP using 100x less RAM,381,91
+2026-08-22T20:31:03.175609+00:00,49389430,28,Felony Bench,812,325
+2026-08-22T20:31:03.175609+00:00,49380128,29,Ameliorate,71,19
+2026-08-22T20:31:03.175609+00:00,49360643,30,What's in a PowerPoint File?,28,18
+2026-08-22T20:31:03.175609+00:00,49389846,31,"Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",16,3
+2026-08-22T20:31:03.175609+00:00,49386895,32,Felony charges for citizen deleting phone data at US Border,1034,1258
+2026-08-22T20:31:03.175609+00:00,49390427,33,Kobo can run apps now,639,202
+2026-08-22T20:31:03.175609+00:00,49373822,34,Conway's Game of Life in real life,16,3
+2026-08-22T20:31:03.175609+00:00,49392677,35,Show HN: Zcomplete – Shell Typo Correction,13,2
+2026-08-22T20:31:03.175609+00:00,49381991,36,Dynamical dark energy and the week that broke cosmology,26,8
+2026-08-22T20:31:03.175609+00:00,49384210,37,Stop Making TUIs,364,473
+2026-08-22T20:31:03.175609+00:00,49361478,38,Show HN: Anonymous age verification with passkey-powered encryption,28,14
+2026-08-22T20:31:03.175609+00:00,49391168,39,Show HN: Rotation via Double Reflection,46,9
+2026-08-22T20:31:03.175609+00:00,49387570,40,I accidentally logged hundreds of thousands of phone calls to military bases,646,83
+2026-08-22T20:31:03.175609+00:00,49380200,41,Protocol-Aware Deterministic Simulation Testing,8,0
+2026-08-22T20:31:03.175609+00:00,49402202,42,Thinking in Python by Bruce Eckel,4,0
+2026-08-22T20:31:03.175609+00:00,49388154,43,Kagi added a setting for removing paywalled links from search results,1225,383
+2026-08-22T20:31:03.175609+00:00,49401082,44,The war on data centres is a bit fake,9,7
+2026-08-22T20:31:03.175609+00:00,49388694,45,Zig’s Io.Threaded is neat,143,88
+2026-08-22T20:31:03.175609+00:00,49392200,47,Scientists release biggest 2D map of the universe,250,65
+2026-08-22T20:31:03.175609+00:00,49395628,48,There's no reason for software to be slow anymore,609,462
+2026-08-22T20:31:03.175609+00:00,49398904,49,"Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",194,155
+2026-08-22T20:31:03.175609+00:00,49392099,50,How Thailand Resisted Colonization,111,43
