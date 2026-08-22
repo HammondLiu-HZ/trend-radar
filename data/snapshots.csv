@@ -39052,3 +39052,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-22T18:40:10.799614+00:00,49397947,48,Embedded AI,30,9
 2026-08-22T18:40:10.799614+00:00,49389952,49,How we made a text-to-speech model respond in sub-50 ms,164,40
 2026-08-22T18:40:10.799614+00:00,49401122,50,"Learning about ""The Unix Time-Sharing System""",15,3
+2026-08-22T19:28:04.537045+00:00,49402741,1,hdiutil is deprecated in macOS 27 Golden Gate,24,1
+2026-08-22T19:28:04.537045+00:00,49402189,2,Scrap,49,9
+2026-08-22T19:28:04.537045+00:00,49400408,3,"ElevenLabs, TwelveLabs, ThirteenLabs",192,64
+2026-08-22T19:28:04.537045+00:00,49399898,4,A Friendly Introduction to Racket,91,30
+2026-08-22T19:28:04.537045+00:00,49351802,5,"Hister – A private, full content search index that you control",71,17
+2026-08-22T19:28:04.537045+00:00,49387959,6,How a Texas student blew the whistle on a rogue AI hacking attempt,30,3
+2026-08-22T19:28:04.537045+00:00,49355659,7,RF Cafe,53,8
+2026-08-22T19:28:04.537045+00:00,49346854,8,typ.ing,56,17
+2026-08-22T19:28:04.537045+00:00,49402781,9,NetBSD and My Life (2005),3,0
+2026-08-22T19:28:04.537045+00:00,49398152,10,Munder Difflin – Agent harness to run an office of your clones,221,92
+2026-08-22T19:28:04.537045+00:00,49379732,11,ATProto spaces: A new extension to ATProto that enables non-public data,29,4
+2026-08-22T19:28:04.537045+00:00,49374729,12,Guess which of these LLM outputs is watermarked,25,17
+2026-08-22T19:28:04.537045+00:00,49398158,13,Z80 – The 1970s Microprocessor Still Alive (2021),95,47
+2026-08-22T19:28:04.537045+00:00,49377316,14,Why it might be time to rethink the human family tree,23,15
+2026-08-22T19:28:04.537045+00:00,49399591,15,New MCP Roadmap,141,109
+2026-08-22T19:28:04.537045+00:00,49352470,16,Mythic's analog compute-in-memory architecture,20,0
+2026-08-22T19:28:04.537045+00:00,49397074,17,Canada will match US tariffs 'dollar for dollar' as trade talks break down,209,825
+2026-08-22T19:28:04.537045+00:00,49375176,18,ProgramBench Vetted: Reverse Engineering from a Runnable Binary,15,1
+2026-08-22T19:28:04.537045+00:00,49380128,19,Ameliorate,63,18
+2026-08-22T19:28:04.537045+00:00,49370284,20,"MiniageOS: ""Dumbphone"" Version of LineageOS",20,12
+2026-08-22T19:28:04.537045+00:00,49392536,21,One night in Uzbekistan: Why was this one data point so influential?,15,2
+2026-08-22T19:28:04.537045+00:00,49391168,22,Show HN: Rotation via Double Reflection,45,9
+2026-08-22T19:28:04.537045+00:00,49401549,23,Anthropic appears to be A/B testing reduced effort levels in Claude Code,70,75
+2026-08-22T19:28:04.537045+00:00,49399642,24,Chinese robot runs 100M sprint quicker than Usain Bolt's world record,45,44
+2026-08-22T19:28:04.537045+00:00,49393537,25,The Creation of Abulafia,15,2
+2026-08-22T19:28:04.537045+00:00,49361478,26,Show HN: Anonymous age verification with passkey-powered encryption,24,13
+2026-08-22T19:28:04.537045+00:00,49360643,27,What's in a PowerPoint File?,22,18
+2026-08-22T19:28:04.537045+00:00,49401621,28,Belgian car salesman becomes prince after DNA test proves royal parentage,58,41
+2026-08-22T19:28:04.537045+00:00,49364296,29,Show HN: terminal-code – VS Code inside the terminal,20,3
+2026-08-22T19:28:04.537045+00:00,49393052,30,Rust Glancer: Rust LSP using 100x less RAM,373,86
+2026-08-22T19:28:04.537045+00:00,49389846,31,"Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",14,1
+2026-08-22T19:28:04.537045+00:00,49389430,32,Felony Bench,808,323
+2026-08-22T19:28:04.537045+00:00,49381991,33,Dynamical dark energy and the week that broke cosmology,25,7
+2026-08-22T19:28:04.537045+00:00,49373822,34,Conway's Game of Life in real life,14,3
+2026-08-22T19:28:04.537045+00:00,49392677,35,Show HN: Zcomplete – Shell Typo Correction,11,2
+2026-08-22T19:28:04.537045+00:00,49386895,36,Felony charges for citizen deleting phone data at US Border,1028,1245
+2026-08-22T19:28:04.537045+00:00,49390427,37,Kobo can run apps now,637,202
+2026-08-22T19:28:04.537045+00:00,49384210,38,Stop Making TUIs,354,461
+2026-08-22T19:28:04.537045+00:00,49380200,39,Protocol-Aware Deterministic Simulation Testing,4,0
+2026-08-22T19:28:04.537045+00:00,49387570,40,I accidentally logged hundreds of thousands of phone calls to military bases,643,83
+2026-08-22T19:28:04.537045+00:00,49398904,41,"Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",189,149
+2026-08-22T19:28:04.537045+00:00,49388154,42,Kagi added a setting for removing paywalled links from search results,1221,381
+2026-08-22T19:28:04.537045+00:00,49401082,43,The war on data centres is a bit fake,6,1
+2026-08-22T19:28:04.537045+00:00,49388694,44,Zig’s Io.Threaded is neat,143,88
+2026-08-22T19:28:04.537045+00:00,49395628,46,There's no reason for software to be slow anymore,602,454
+2026-08-22T19:28:04.537045+00:00,49392200,47,Scientists release biggest 2D map of the universe,248,65
+2026-08-22T19:28:04.537045+00:00,49391553,48,OTel isn’t going well,207,103
+2026-08-22T19:28:04.537045+00:00,49392099,49,How Thailand Resisted Colonization,109,41
+2026-08-22T19:28:04.537045+00:00,49357530,50,"AI boosted homework scores, then exam scores dropped: study",365,364
