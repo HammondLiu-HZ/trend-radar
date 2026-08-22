@@ -39248,3 +39248,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-22T22:29:27.141217+00:00,49401082,48,The war on data centres is a bit fake,16,10
 2026-08-22T22:29:27.141217+00:00,49398904,49,"Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",198,158
 2026-08-22T22:29:27.141217+00:00,49380303,50,Early-life stress leaves a 'scar' inside brain cells in mice,136,69
+2026-08-22T23:27:31.804380+00:00,49402189,1,Scrap,241,97
+2026-08-22T23:27:31.804380+00:00,49402232,2,Why your local LLM feels dumber than it is,139,37
+2026-08-22T23:27:31.804380+00:00,49402781,3,NetBSD and my life (2005),82,21
+2026-08-22T23:27:31.804380+00:00,49400408,4,"ElevenLabs, TwelveLabs, ThirteenLabs",281,92
+2026-08-22T23:27:31.804380+00:00,49351802,5,"Hister – A private, full content search index that you control",195,62
+2026-08-22T23:27:31.804380+00:00,49355659,6,RF Cafe,127,16
+2026-08-22T23:27:31.804380+00:00,49387959,7,How a Texas student blew the whistle on a rogue AI hacking attempt,90,25
+2026-08-22T23:27:31.804380+00:00,49346854,8,typ.ing,152,45
+2026-08-22T23:27:31.804380+00:00,49402741,9,hdiutil is deprecated in macOS 27 Golden Gate,148,54
+2026-08-22T23:27:31.804380+00:00,49399898,10,A Friendly Introduction to Racket,177,82
+2026-08-22T23:27:31.804380+00:00,49379732,11,ATProto spaces: A new extension to ATProto that enables non-public data,91,10
+2026-08-22T23:27:31.804380+00:00,49404380,12,NanoGPT Speedrun Frontier,6,0
+2026-08-22T23:27:31.804380+00:00,49392536,13,One night in Uzbekistan: Why was this one data point so influential?,65,8
+2026-08-22T23:27:31.804380+00:00,49398152,14,Munder Difflin – Agent harness to run an office of your clones,242,112
+2026-08-22T23:27:31.804380+00:00,49402907,15,English ↔ Claudish Translator,39,22
+2026-08-22T23:27:31.804380+00:00,49397074,16,Canada will match US tariffs 'dollar for dollar' as trade talks break down,425,1147
+2026-08-22T23:27:31.804380+00:00,49393051,17,A week of using Codex more than Claude,105,107
+2026-08-22T23:27:31.804380+00:00,49374729,18,Guess which of these LLM outputs is watermarked,61,65
+2026-08-22T23:27:31.804380+00:00,49376197,19,Autolith: A programming agent with a live runtime,104,41
+2026-08-22T23:27:31.804380+00:00,49377316,20,Why it might be time to rethink the human family tree,51,26
+2026-08-22T23:27:31.804380+00:00,49399524,21,"A Kantian Critique of ""Sorry"" by Justin Bieber",191,82
+2026-08-22T23:27:31.804380+00:00,49381991,22,Dynamical dark energy and the week that broke cosmology,36,8
+2026-08-22T23:27:31.804380+00:00,49373822,23,Conway's Game of Life in real life,20,3
+2026-08-22T23:27:31.804380+00:00,49394827,24,"Show HN: OzBrain, a shared brain for knowledge between agents and your team",75,46
+2026-08-22T23:27:31.804380+00:00,49398158,25,Z80 – The 1970s Microprocessor Still Alive (2021),113,54
+2026-08-22T23:27:31.804380+00:00,49402521,26,Show HN: Make your logo extra bright on HDR screens,40,48
+2026-08-22T23:27:31.804380+00:00,49399591,27,New MCP Roadmap,169,120
+2026-08-22T23:27:31.804380+00:00,49402202,28,Thinking in Python by Bruce Eckel,24,3
+2026-08-22T23:27:31.804380+00:00,49364296,29,Show HN: terminal-code – VS Code inside the terminal,65,16
+2026-08-22T23:27:31.804380+00:00,49370284,30,"MiniageOS: ""Dumbphone"" Version of LineageOS",36,22
+2026-08-22T23:27:31.804380+00:00,49360643,31,What's in a PowerPoint File?,47,25
+2026-08-22T23:27:31.804380+00:00,49393052,32,Rust Glancer: Rust LSP using 100x less RAM,392,96
+2026-08-22T23:27:31.804380+00:00,49352470,33,Mythic's analog compute-in-memory architecture,41,22
+2026-08-22T23:27:31.804380+00:00,49401549,34,Anthropic appears to be A/B testing reduced effort levels in Claude Code,156,146
+2026-08-22T23:27:31.804380+00:00,49393537,35,The Creation of Abulafia,27,7
+2026-08-22T23:27:31.804380+00:00,49384210,36,Stop Making TUIs,377,496
+2026-08-22T23:27:31.804380+00:00,49375176,37,ProgramBench Vetted: Reverse Engineering from a Runnable Binary,23,1
+2026-08-22T23:27:31.804380+00:00,49361478,38,Show HN: Anonymous age verification with passkey-powered encryption,35,16
+2026-08-22T23:27:31.804380+00:00,49389846,39,"Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",19,6
+2026-08-22T23:27:31.804380+00:00,49391168,40,Show HN: Rotation via Double Reflection,52,10
+2026-08-22T23:27:31.804380+00:00,49380128,41,Ameliorate,79,20
+2026-08-22T23:27:31.804380+00:00,49392677,42,Show HN: Zcomplete – Shell Typo Correction,15,2
+2026-08-22T23:27:31.804380+00:00,49392200,43,Scientists release biggest 2D map of the universe,251,66
+2026-08-22T23:27:31.804380+00:00,49388694,44,Zig’s Io.Threaded is neat,145,90
+2026-08-22T23:27:31.804380+00:00,49395628,45,There's no reason for software to be slow anymore,618,478
+2026-08-22T23:27:31.804380+00:00,49357530,46,"AI boosted homework scores, then exam scores dropped: study",369,370
+2026-08-22T23:27:31.804380+00:00,49391553,47,OTel isn’t going well,212,107
+2026-08-22T23:27:31.804380+00:00,49392099,49,How Thailand Resisted Colonization,119,43
+2026-08-22T23:27:31.804380+00:00,49401621,50,Belgian car salesman becomes prince after DNA test proves royal parentage,91,76
