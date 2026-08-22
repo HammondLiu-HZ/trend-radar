@@ -39150,3 +39150,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-22T20:31:03.175609+00:00,49395628,48,There's no reason for software to be slow anymore,609,462
 2026-08-22T20:31:03.175609+00:00,49398904,49,"Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",194,155
 2026-08-22T20:31:03.175609+00:00,49392099,50,How Thailand Resisted Colonization,111,43
+2026-08-22T21:28:32.289542+00:00,49402741,1,hdiutil is deprecated in macOS 27 Golden Gate,104,31
+2026-08-22T21:28:32.289542+00:00,49402189,2,Scrap,152,58
+2026-08-22T21:28:32.289542+00:00,49402781,3,NetBSD and My Life (2005),59,13
+2026-08-22T21:28:32.289542+00:00,49400408,4,"ElevenLabs, TwelveLabs, ThirteenLabs",257,85
+2026-08-22T21:28:32.289542+00:00,49351802,5,"Hister – A private, full content search index that you control",156,52
+2026-08-22T21:28:32.289542+00:00,49402232,6,Why your local LLM feels dumber than it is,46,15
+2026-08-22T21:28:32.289542+00:00,49399898,7,A Friendly Introduction to Racket,125,56
+2026-08-22T21:28:32.289542+00:00,49355659,8,RF Cafe,95,10
+2026-08-22T21:28:32.289542+00:00,49379732,9,ATProto spaces: A new extension to ATProto that enables non-public data,67,9
+2026-08-22T21:28:32.289542+00:00,49346854,10,typ.ing,103,34
+2026-08-22T21:28:32.289542+00:00,49387959,11,How a Texas student blew the whistle on a rogue AI hacking attempt,62,11
+2026-08-22T21:28:32.289542+00:00,49397074,12,Canada will match US tariffs 'dollar for dollar' as trade talks break down,320,991
+2026-08-22T21:28:32.289542+00:00,49392536,13,One night in Uzbekistan: Why was this one data point so influential?,39,2
+2026-08-22T21:28:32.289542+00:00,49398152,14,Munder Difflin – Agent harness to run an office of your clones,234,108
+2026-08-22T21:28:32.289542+00:00,49403228,15,Fast and Hard Code,10,4
+2026-08-22T21:28:32.289542+00:00,49352470,16,Mythic's analog compute-in-memory architecture,37,13
+2026-08-22T21:28:32.289542+00:00,49402907,17,English ↔ Claudish Translator,15,10
+2026-08-22T21:28:32.289542+00:00,49377316,18,Why it might be time to rethink the human family tree,40,24
+2026-08-22T21:28:32.289542+00:00,49403484,19,Knowing When to Stop: The Art of Making a Loop Converge,15,4
+2026-08-22T21:28:32.289542+00:00,49398158,20,Z80 – The 1970s Microprocessor Still Alive (2021),106,50
+2026-08-22T21:28:32.289542+00:00,49364296,21,Show HN: terminal-code – VS Code inside the terminal,42,14
+2026-08-22T21:28:32.289542+00:00,49370284,22,"MiniageOS: ""Dumbphone"" Version of LineageOS",32,19
+2026-08-22T21:28:32.289542+00:00,49393537,23,The Creation of Abulafia,25,4
+2026-08-22T21:28:32.289542+00:00,49399591,24,New MCP Roadmap,157,118
+2026-08-22T21:28:32.289542+00:00,49401549,25,Anthropic appears to be A/B testing reduced effort levels in Claude Code,111,118
+2026-08-22T21:28:32.289542+00:00,49380128,26,Ameliorate,77,20
+2026-08-22T21:28:32.289542+00:00,49393052,27,Rust Glancer: Rust LSP using 100x less RAM,387,92
+2026-08-22T21:28:32.289542+00:00,49401621,28,Belgian car salesman becomes prince after DNA test proves royal parentage,84,58
+2026-08-22T21:28:32.289542+00:00,49374729,29,Guess which of these LLM outputs is watermarked,36,43
+2026-08-22T21:28:32.289542+00:00,49360643,30,What's in a PowerPoint File?,31,19
+2026-08-22T21:28:32.289542+00:00,49375176,31,ProgramBench Vetted: Reverse Engineering from a Runnable Binary,18,1
+2026-08-22T21:28:32.289542+00:00,49389846,32,"Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",17,3
+2026-08-22T21:28:32.289542+00:00,49392677,33,Show HN: Zcomplete – Shell Typo Correction,14,2
+2026-08-22T21:28:32.289542+00:00,49384210,34,Stop Making TUIs,366,480
+2026-08-22T21:28:32.289542+00:00,49361478,35,Show HN: Anonymous age verification with passkey-powered encryption,29,15
+2026-08-22T21:28:32.289542+00:00,49381991,36,Dynamical dark energy and the week that broke cosmology,27,8
+2026-08-22T21:28:32.289542+00:00,49391168,37,Show HN: Rotation via Double Reflection,47,9
+2026-08-22T21:28:32.289542+00:00,49402202,38,Thinking in Python by Bruce Eckel,6,0
+2026-08-22T21:28:32.289542+00:00,49373822,39,Conway's Game of Life in real life,16,3
+2026-08-22T21:28:32.289542+00:00,49401082,40,The war on data centres is a bit fake,14,8
+2026-08-22T21:28:32.289542+00:00,49388694,41,Zig’s Io.Threaded is neat,143,89
+2026-08-22T21:28:32.289542+00:00,49392200,42,Scientists release biggest 2D map of the universe,250,65
+2026-08-22T21:28:32.289542+00:00,49395628,43,There's no reason for software to be slow anymore,612,471
+2026-08-22T21:28:32.289542+00:00,49380200,44,Protocol-Aware Deterministic Simulation Testing,8,0
+2026-08-22T21:28:32.289542+00:00,49392099,45,How Thailand Resisted Colonization,116,43
+2026-08-22T21:28:32.289542+00:00,49391553,46,OTel isn’t going well,208,105
+2026-08-22T21:28:32.289542+00:00,49357530,47,"AI boosted homework scores, then exam scores dropped: study",368,366
+2026-08-22T21:28:32.289542+00:00,49403831,49,Books That Will Change the Way You Look at the World,3,0
+2026-08-22T21:28:32.289542+00:00,49388752,50,Claudette: Make Claude stop talking like a BuzzFeed article,341,230
