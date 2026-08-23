@@ -39297,3 +39297,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-22T23:27:31.804380+00:00,49391553,47,OTel isn’t going well,212,107
 2026-08-22T23:27:31.804380+00:00,49392099,49,How Thailand Resisted Colonization,119,43
 2026-08-22T23:27:31.804380+00:00,49401621,50,Belgian car salesman becomes prince after DNA test proves royal parentage,91,76
+2026-08-23T01:51:15.668381+00:00,49402213,1,Figmimic – A bookmarklet to copy any webpage into Figma as editable layers,19,0
+2026-08-23T01:51:15.668381+00:00,49404380,2,NanoGPT Speedrun Frontier,44,12
+2026-08-23T01:51:15.668381+00:00,49402189,3,Scrap (2006),314,176
+2026-08-23T01:51:15.668381+00:00,49402232,4,Why your local LLM feels dumber than it is,181,62
+2026-08-23T01:51:15.668381+00:00,49351802,5,"Hister – A private, full content search index that you control",234,66
+2026-08-23T01:51:15.668381+00:00,49400408,6,"ElevenLabs, TwelveLabs, ThirteenLabs",306,101
+2026-08-23T01:51:15.668381+00:00,49402781,7,NetBSD and my life (2005),96,24
+2026-08-23T01:51:15.668381+00:00,49402181,8,I set a trap for a book-marketing scammer (2025),6,6
+2026-08-23T01:51:15.668381+00:00,49346854,9,typ.ing,181,56
+2026-08-23T01:51:15.668381+00:00,49355659,10,RF Cafe,150,25
+2026-08-23T01:51:15.668381+00:00,49387959,11,How a Texas student blew the whistle on a rogue AI hacking attempt,110,42
+2026-08-23T01:51:15.668381+00:00,49399898,12,A Friendly Introduction to Racket,192,98
+2026-08-23T01:51:15.668381+00:00,49379732,13,ATProto spaces: A new extension to ATProto that enables non-public data,112,13
+2026-08-23T01:51:15.668381+00:00,49402107,14,Reading Maps – Journeys from fiction drawn on the real world,6,0
+2026-08-23T01:51:15.668381+00:00,49405110,15,US Military newspaper editor voices censorship fears after being fired,32,6
+2026-08-23T01:51:15.668381+00:00,49402741,16,hdiutil is deprecated in macOS 27 Golden Gate,159,68
+2026-08-23T01:51:15.668381+00:00,49392536,17,One night in Uzbekistan: Why was this one data point so influential?,77,13
+2026-08-23T01:51:15.668381+00:00,49398152,18,Munder Difflin – Agent harness to run an office of your clones,250,114
+2026-08-23T01:51:15.668381+00:00,49405117,19,Software Engineering in the Agentic Era,3,0
+2026-08-23T01:51:15.668381+00:00,49402202,20,Thinking in Python by Bruce Eckel,50,12
+2026-08-23T01:51:15.668381+00:00,49393051,21,A week of using Codex more than Claude,131,133
+2026-08-23T01:51:15.668381+00:00,49397074,22,Canada will match US tariffs 'dollar for dollar' as trade talks break down,490,1230
+2026-08-23T01:51:15.668381+00:00,49373822,23,Conway's Game of Life in real life,35,8
+2026-08-23T01:51:15.668381+00:00,49376197,24,Autolith: A programming agent with a live runtime,111,43
+2026-08-23T01:51:15.668381+00:00,49375176,25,ProgramBench Vetted: Reverse Engineering from a Runnable Binary,24,1
+2026-08-23T01:51:15.668381+00:00,49360643,26,What's in a PowerPoint File?,56,29
+2026-08-23T01:51:15.668381+00:00,49377316,27,Why it might be time to rethink the human family tree,58,31
+2026-08-23T01:51:15.668381+00:00,49394827,28,"Show HN: OzBrain, a shared brain for knowledge between agents and your team",79,46
+2026-08-23T01:51:15.668381+00:00,49398158,29,Z80 – The 1970s Microprocessor Still Alive (2021),116,55
+2026-08-23T01:51:15.668381+00:00,49393052,30,Rust Glancer: Rust LSP using 100x less RAM,395,97
+2026-08-23T01:51:15.668381+00:00,49399524,31,"A Kantian Critique of ""Sorry"" by Justin Bieber",196,83
+2026-08-23T01:51:15.668381+00:00,49381991,32,Dynamical dark energy and the week that broke cosmology,42,15
+2026-08-23T01:51:15.668381+00:00,49399591,33,New MCP Roadmap,173,126
+2026-08-23T01:51:15.668381+00:00,49364296,34,Show HN: terminal-code – VS Code inside the terminal,73,19
+2026-08-23T01:51:15.668381+00:00,49370284,35,"MiniageOS: ""Dumbphone"" Version of LineageOS",38,23
+2026-08-23T01:51:15.668381+00:00,49402521,36,Show HN: Make your logo extra bright on HDR screens,52,60
+2026-08-23T01:51:15.668381+00:00,49384210,37,Stop Making TUIs,381,501
+2026-08-23T01:51:15.668381+00:00,49352470,38,Mythic's analog compute-in-memory architecture,46,23
+2026-08-23T01:51:15.668381+00:00,49401549,39,Anthropic appears to be A/B testing reduced effort levels in Claude Code,163,154
+2026-08-23T01:51:15.668381+00:00,49404869,40,AI has failed to win people's trust. Its makers? less trusted,16,1
+2026-08-23T01:51:15.668381+00:00,49393537,41,The Creation of Abulafia,27,7
+2026-08-23T01:51:15.668381+00:00,49361478,42,Show HN: Anonymous age verification with passkey-powered encryption,37,17
+2026-08-23T01:51:15.668381+00:00,49392200,43,Scientists release biggest 2D map of the universe,253,67
+2026-08-23T01:51:15.668381+00:00,49388694,44,Zig’s Io.Threaded is neat,147,91
+2026-08-23T01:51:15.668381+00:00,49374729,45,Guess which of these LLM outputs is watermarked,63,73
+2026-08-23T01:51:15.668381+00:00,49391553,46,OTel isn’t going well,216,112
+2026-08-23T01:51:15.668381+00:00,49391168,47,Show HN: Rotation via Double Reflection,53,10
+2026-08-23T01:51:15.668381+00:00,49357530,48,"AI boosted homework scores, then exam scores dropped: study",370,371
+2026-08-23T01:51:15.668381+00:00,49395628,49,There's no reason for software to be slow anymore,620,480
+2026-08-23T01:51:15.668381+00:00,49389846,50,"Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",20,7
