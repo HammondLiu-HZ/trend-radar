@@ -39947,3 +39947,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-23T14:30:11.367705+00:00,49405697,48,How to archive Everything and share It,10,3
 2026-08-23T14:30:11.367705+00:00,49404968,49,Hacker News RSS,21,0
 2026-08-23T14:30:11.367705+00:00,49377316,50,Why it might be time to rethink the human family tree,69,43
+2026-08-23T15:29:33.460922+00:00,49408550,1,Malware infects Android-based automotive head unit firmware,93,43
+2026-08-23T15:29:33.460922+00:00,49408858,2,"My favorite nonfiction books about cults, scams, and schemes",49,15
+2026-08-23T15:29:33.460922+00:00,49409092,3,What Is a Harness?,38,24
+2026-08-23T15:29:33.460922+00:00,49402491,4,Things I want in a modern relational query language,20,9
+2026-08-23T15:29:33.460922+00:00,49409200,5,Slovakia finds Russian backdoor in traffic speed cameras,37,5
+2026-08-23T15:29:33.460922+00:00,49405870,6,"To become a better writer, read as much as you can",320,210
+2026-08-23T15:29:33.460922+00:00,49406333,7,The End of an Athlon,145,57
+2026-08-23T15:29:33.460922+00:00,49407309,8,Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive,37,18
+2026-08-23T15:29:33.460922+00:00,49407507,9,I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes,167,81
+2026-08-23T15:29:33.460922+00:00,49405816,10,MartyPC is a cross-platform emulator of early PCs written in Rust,157,55
+2026-08-23T15:29:33.460922+00:00,49402232,11,Why your local LLM feels dumber than it is,420,171
+2026-08-23T15:29:33.460922+00:00,49406285,12,Fast and Hard Code,83,45
+2026-08-23T15:29:33.460922+00:00,49407576,13,Sydney Marathon medal mistakenly depicts Munich stadium,95,63
+2026-08-23T15:29:33.460922+00:00,49408889,14,"Death to px, long live ch",25,16
+2026-08-23T15:29:33.460922+00:00,49406387,15,JIT Compiling Code in 5μs,124,80
+2026-08-23T15:29:33.460922+00:00,49405331,16,The Art and Beauty of Blade Runner (2015),136,70
+2026-08-23T15:29:33.460922+00:00,49351802,17,"Hister – A private, full content search index that you control",424,95
+2026-08-23T15:29:33.460922+00:00,49400408,18,"ElevenLabs, TwelveLabs, ThirteenLabs",440,132
+2026-08-23T15:29:33.460922+00:00,49346854,19,typ.ing,323,102
+2026-08-23T15:29:33.460922+00:00,49402202,20,Thinking in Python,251,50
+2026-08-23T15:29:33.460922+00:00,49402189,21,Scrap (2006),387,212
+2026-08-23T15:29:33.460922+00:00,49355659,22,RF Cafe,227,44
+2026-08-23T15:29:33.460922+00:00,49399591,23,New MCP Roadmap,242,144
+2026-08-23T15:29:33.460922+00:00,49404380,24,NanoGPT Speedrun Frontier,127,31
+2026-08-23T15:29:33.460922+00:00,49406398,25,Risk of transmission of amyloid β pathology via transfused blood products,25,8
+2026-08-23T15:29:33.460922+00:00,49409184,26,Authoritarianism of Code,10,4
+2026-08-23T15:29:33.460922+00:00,49407509,27,Iranian hackers shut down UK power plant for 4 days,57,37
+2026-08-23T15:29:33.460922+00:00,49387959,28,How a Texas student blew the whistle on a rogue AI hacking attempt,188,98
+2026-08-23T15:29:33.460922+00:00,49379732,29,ATProto spaces: A new extension to ATProto that enables non-public data,160,28
+2026-08-23T15:29:33.460922+00:00,49402781,30,NetBSD and my life (2005),139,32
+2026-08-23T15:29:33.460922+00:00,49398152,31,Munder Difflin – Agent harness to run an office of your clones,294,132
+2026-08-23T15:29:33.460922+00:00,49402213,32,Figmimic – A bookmarklet to copy any webpage into Figma as editable layers,119,20
+2026-08-23T15:29:33.460922+00:00,49409210,33,Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi,3,0
+2026-08-23T15:29:33.460922+00:00,49399898,34,A Friendly Introduction to Racket,252,142
+2026-08-23T15:29:33.460922+00:00,49398158,35,Z80 – The 1970s Microprocessor Still Alive (2021),149,74
+2026-08-23T15:29:33.460922+00:00,49407944,36,"Andrew Ng: ""AI Engineering Skills Map: Building and Deploying AI Applications""",16,0
+2026-08-23T15:29:33.460922+00:00,49407237,37,Rust 1.98 got a P-critical miscompilation,8,1
+2026-08-23T15:29:33.460922+00:00,49406539,38,Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed,157,117
+2026-08-23T15:29:33.460922+00:00,49392536,39,One night in Uzbekistan: Why was this one data point so influential?,103,25
+2026-08-23T15:29:33.460922+00:00,49389846,40,"Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",52,12
+2026-08-23T15:29:33.460922+00:00,49397074,41,Canada will match US tariffs 'dollar for dollar' as trade talks break down,645,1512
+2026-08-23T15:29:33.460922+00:00,49373822,42,Conway's Game of Life in real life,64,13
+2026-08-23T15:29:33.460922+00:00,49399524,43,"A Kantian Critique of ""Sorry"" by Justin Bieber",223,96
+2026-08-23T15:29:33.460922+00:00,49406751,44,Steve French (SMB3/CIFSFS Linux kernel maintainer) has died,36,0
+2026-08-23T15:29:33.460922+00:00,49402181,45,I set a trap for a book-marketing scammer (2025),65,41
+2026-08-23T15:29:33.460922+00:00,49406757,46,Why aren't my two Cortex-A9 cores cache coherent?,8,4
+2026-08-23T15:29:33.460922+00:00,49393051,47,A week of using Codex more than Claude,231,244
+2026-08-23T15:29:33.460922+00:00,49407341,48,The Sloppification of Peptides,74,60
+2026-08-23T15:29:33.460922+00:00,49408732,49,Airbus bows to remote working demands after series of strikes,7,4
+2026-08-23T15:29:33.460922+00:00,49360643,50,What's in a PowerPoint File?,91,53
