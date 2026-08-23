@@ -39647,3 +39647,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-23T08:39:05.253181+00:00,49381991,48,Dynamical dark energy and the week that broke cosmology,47,17
 2026-08-23T08:39:05.253181+00:00,49406751,49,Steve French (SMB3/CIFSFS Linux kernel maintainer) has died,7,0
 2026-08-23T08:39:05.253181+00:00,49370284,50,"MiniageOS: ""Dumbphone"" Version of LineageOS",41,23
+2026-08-23T09:34:47.985811+00:00,49406333,1,The End of an Athlon,77,19
+2026-08-23T09:34:47.985811+00:00,49405870,2,"To become a better writer, read as much as you can",133,82
+2026-08-23T09:34:47.985811+00:00,49406387,3,JIT Compiling Code in 5μs,53,17
+2026-08-23T09:34:47.985811+00:00,49405816,4,MartyPC is a cross-platform emulator of early PCs written in Rust,112,34
+2026-08-23T09:34:47.985811+00:00,49407143,5,"Tragically, as many as 9625 out of every 10k individuals may be neurotypical",27,16
+2026-08-23T09:34:47.985811+00:00,49402232,6,Why your local LLM feels dumber than it is,345,121
+2026-08-23T09:34:47.985811+00:00,49406285,7,Fast and Hard Code,17,2
+2026-08-23T09:34:47.985811+00:00,49405682,8,I Dream of Quieter Computing,68,45
+2026-08-23T09:34:47.985811+00:00,49405331,9,The Art and Beauty of Blade Runner (2015),78,23
+2026-08-23T09:34:47.985811+00:00,49402189,10,Scrap (2006),371,197
+2026-08-23T09:34:47.985811+00:00,49400408,11,"ElevenLabs, TwelveLabs, ThirteenLabs",398,118
+2026-08-23T09:34:47.985811+00:00,49351802,12,"Hister – A private, full content search index that you control",347,80
+2026-08-23T09:34:47.985811+00:00,49404380,13,NanoGPT Speedrun Frontier,98,26
+2026-08-23T09:34:47.985811+00:00,49346854,14,typ.ing,271,91
+2026-08-23T09:34:47.985811+00:00,49355659,15,RF Cafe,199,36
+2026-08-23T09:34:47.985811+00:00,49402202,16,Thinking in Python,169,34
+2026-08-23T09:34:47.985811+00:00,49387959,17,How a Texas student blew the whistle on a rogue AI hacking attempt,156,62
+2026-08-23T09:34:47.985811+00:00,49399591,18,New MCP Roadmap,207,131
+2026-08-23T09:34:47.985811+00:00,49402181,19,I set a trap for a book-marketing scammer (2025),43,30
+2026-08-23T09:34:47.985811+00:00,49406539,20,Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed,92,76
+2026-08-23T09:34:47.985811+00:00,49402781,21,NetBSD and my life (2005),127,29
+2026-08-23T09:34:47.985811+00:00,49393051,22,A week of using Codex more than Claude,192,222
+2026-08-23T09:34:47.985811+00:00,49379732,23,ATProto spaces: A new extension to ATProto that enables non-public data,143,18
+2026-08-23T09:34:47.985811+00:00,49399898,24,A Friendly Introduction to Racket,229,128
+2026-08-23T09:34:47.985811+00:00,49398152,25,Munder Difflin – Agent harness to run an office of your clones,277,119
+2026-08-23T09:34:47.985811+00:00,49389846,26,"Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",42,8
+2026-08-23T09:34:47.985811+00:00,49402213,27,Figmimic – A bookmarklet to copy any webpage into Figma as editable layers,97,12
+2026-08-23T09:34:47.985811+00:00,49398158,28,Z80 – The 1970s Microprocessor Still Alive (2021),138,68
+2026-08-23T09:34:47.985811+00:00,49360643,29,What's in a PowerPoint File?,86,45
+2026-08-23T09:34:47.985811+00:00,49405083,30,Mathematicians will probably become obsolete before anyone else [pdf],35,7
+2026-08-23T09:34:47.985811+00:00,49406069,31,"Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",44,14
+2026-08-23T09:34:47.985811+00:00,49392536,32,One night in Uzbekistan: Why was this one data point so influential?,92,18
+2026-08-23T09:34:47.985811+00:00,49373822,33,Conway's Game of Life in real life,57,13
+2026-08-23T09:34:47.985811+00:00,49402741,34,hdiutil is deprecated in macOS 27 Golden Gate,181,76
+2026-08-23T09:34:47.985811+00:00,49399524,35,"A Kantian Critique of ""Sorry"" by Justin Bieber",214,91
+2026-08-23T09:34:47.985811+00:00,49406751,36,Steve French (SMB3/CIFSFS Linux kernel maintainer) has died,10,0
+2026-08-23T09:34:47.985811+00:00,49377316,37,Why it might be time to rethink the human family tree,66,40
+2026-08-23T09:34:47.985811+00:00,49402107,38,Reading Maps – Journeys from fiction drawn on the real world,34,3
+2026-08-23T09:34:47.985811+00:00,49407052,39,Nobody Explained the Schrödinger Equation Like This [video],4,0
+2026-08-23T09:34:47.985811+00:00,49397074,40,Canada will match US tariffs 'dollar for dollar' as trade talks break down,614,1421
+2026-08-23T09:34:47.985811+00:00,49352470,41,Mythic's analog compute-in-memory architecture,54,31
+2026-08-23T09:34:47.985811+00:00,49364296,42,Show HN: terminal-code – VS Code inside the terminal,92,23
+2026-08-23T09:34:47.985811+00:00,49404968,43,Hacker News RSS,14,0
+2026-08-23T09:34:47.985811+00:00,49357530,44,"AI boosted homework scores, then exam scores dropped: study",374,372
+2026-08-23T09:34:47.985811+00:00,49406239,45,A historic El Nino is forming. Here's why scientists are worried [video],18,1
+2026-08-23T09:34:47.985811+00:00,49381991,46,Dynamical dark energy and the week that broke cosmology,47,18
+2026-08-23T09:34:47.985811+00:00,49370284,47,"MiniageOS: ""Dumbphone"" Version of LineageOS",41,24
+2026-08-23T09:34:47.985811+00:00,49404932,48,A look at CrossPoint e-reader firmware,12,1
+2026-08-23T09:34:47.985811+00:00,49391553,49,OTel isn’t going well,227,116
+2026-08-23T09:34:47.985811+00:00,49402521,50,Show HN: Make your logo extra bright on HDR screens,62,75
