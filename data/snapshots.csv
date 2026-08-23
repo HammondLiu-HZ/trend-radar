@@ -39847,3 +39847,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-23T12:54:04.175186+00:00,49364296,48,Show HN: terminal-code – VS Code inside the terminal,94,25
 2026-08-23T12:54:04.175186+00:00,49406523,49,The market is underpricing memory bandwidth,6,0
 2026-08-23T12:54:04.175186+00:00,49380303,50,Early-life stress leaves a 'scar' inside brain cells in mice,142,74
+2026-08-23T13:37:48.841529+00:00,49408550,1,Malware infects Android-based automotive head unit firmware,35,4
+2026-08-23T13:37:48.841529+00:00,49407576,2,Sydney Marathon medal mistakenly depicts Munich stadium,60,36
+2026-08-23T13:37:48.841529+00:00,49405870,3,"To become a better writer, read as much as you can",260,175
+2026-08-23T13:37:48.841529+00:00,49406333,4,The End of an Athlon,129,50
+2026-08-23T13:37:48.841529+00:00,49406387,5,JIT Compiling Code in 5μs,103,55
+2026-08-23T13:37:48.841529+00:00,49407309,6,Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive,25,2
+2026-08-23T13:37:48.841529+00:00,49405816,7,MartyPC is a cross-platform emulator of early PCs written in Rust,144,53
+2026-08-23T13:37:48.841529+00:00,49407507,8,I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes,98,44
+2026-08-23T13:37:48.841529+00:00,49406285,9,Fast and Hard Code,66,30
+2026-08-23T13:37:48.841529+00:00,49402232,10,Why your local LLM feels dumber than it is,396,159
+2026-08-23T13:37:48.841529+00:00,49405331,11,The Art and Beauty of Blade Runner (2015),121,50
+2026-08-23T13:37:48.841529+00:00,49351802,12,"Hister – A private, full content search index that you control",399,88
+2026-08-23T13:37:48.841529+00:00,49402189,13,Scrap (2006),384,206
+2026-08-23T13:37:48.841529+00:00,49402202,14,Thinking in Python,226,43
+2026-08-23T13:37:48.841529+00:00,49400408,15,"ElevenLabs, TwelveLabs, ThirteenLabs",425,129
+2026-08-23T13:37:48.841529+00:00,49407341,16,The Sloppification of Peptides,63,45
+2026-08-23T13:37:48.841529+00:00,49346854,17,typ.ing,306,94
+2026-08-23T13:37:48.841529+00:00,49355659,18,RF Cafe,218,42
+2026-08-23T13:37:48.841529+00:00,49404380,19,NanoGPT Speedrun Frontier,118,29
+2026-08-23T13:37:48.841529+00:00,49399591,20,New MCP Roadmap,231,138
+2026-08-23T13:37:48.841529+00:00,49393051,21,A week of using Codex more than Claude,222,238
+2026-08-23T13:37:48.841529+00:00,49387959,22,How a Texas student blew the whistle on a rogue AI hacking attempt,181,91
+2026-08-23T13:37:48.841529+00:00,49399898,23,A Friendly Introduction to Racket,246,132
+2026-08-23T13:37:48.841529+00:00,49402781,24,NetBSD and my life (2005),135,29
+2026-08-23T13:37:48.841529+00:00,49379732,25,ATProto spaces: A new extension to ATProto that enables non-public data,154,22
+2026-08-23T13:37:48.841529+00:00,49407509,26,Iranian hackers shut down UK power plant for 4 days,28,9
+2026-08-23T13:37:48.841529+00:00,49398152,27,Munder Difflin – Agent harness to run an office of your clones,292,127
+2026-08-23T13:37:48.841529+00:00,49402213,28,Figmimic – A bookmarklet to copy any webpage into Figma as editable layers,113,14
+2026-08-23T13:37:48.841529+00:00,49406539,29,Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed,143,104
+2026-08-23T13:37:48.841529+00:00,49398158,30,Z80 – The 1970s Microprocessor Still Alive (2021),145,74
+2026-08-23T13:37:48.841529+00:00,49389846,31,"Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",51,9
+2026-08-23T13:37:48.841529+00:00,49406757,32,Why aren't my two Cortex-A9 cores cache coherent?,6,4
+2026-08-23T13:37:48.841529+00:00,49406398,33,Risk of transmission of amyloid β pathology via transfused blood products,7,0
+2026-08-23T13:37:48.841529+00:00,49392536,34,One night in Uzbekistan: Why was this one data point so influential?,100,23
+2026-08-23T13:37:48.841529+00:00,49373822,35,Conway's Game of Life in real life,63,13
+2026-08-23T13:37:48.841529+00:00,49406751,36,Steve French (SMB3/CIFSFS Linux kernel maintainer) has died,28,0
+2026-08-23T13:37:48.841529+00:00,49399524,37,"A Kantian Critique of ""Sorry"" by Justin Bieber",221,93
+2026-08-23T13:37:48.841529+00:00,49397074,38,Canada will match US tariffs 'dollar for dollar' as trade talks break down,631,1469
+2026-08-23T13:37:48.841529+00:00,49360643,39,What's in a PowerPoint File?,90,51
+2026-08-23T13:37:48.841529+00:00,49402107,40,Reading Maps – Journeys from fiction drawn on the real world,39,5
+2026-08-23T13:37:48.841529+00:00,49402741,41,hdiutil is deprecated in macOS 27 Golden Gate,184,82
+2026-08-23T13:37:48.841529+00:00,49404968,42,Hacker News RSS,19,0
+2026-08-23T13:37:48.841529+00:00,49377316,43,Why it might be time to rethink the human family tree,69,43
+2026-08-23T13:37:48.841529+00:00,49352470,44,Mythic's analog compute-in-memory architecture,57,31
+2026-08-23T13:37:48.841529+00:00,49364296,45,Show HN: terminal-code – VS Code inside the terminal,98,26
+2026-08-23T13:37:48.841529+00:00,49388694,46,Zig’s Io.Threaded is neat,154,93
+2026-08-23T13:37:48.841529+00:00,49381991,47,Dynamical dark energy and the week that broke cosmology,49,23
+2026-08-23T13:37:48.841529+00:00,49380303,48,Early-life stress leaves a 'scar' inside brain cells in mice,142,73
+2026-08-23T13:37:48.841529+00:00,49395628,49,There's no reason for software to be slow anymore,635,484
+2026-08-23T13:37:48.841529+00:00,49402181,50,I set a trap for a book-marketing scammer (2025),59,40
