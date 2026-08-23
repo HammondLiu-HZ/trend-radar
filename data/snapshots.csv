@@ -39897,3 +39897,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-23T13:37:48.841529+00:00,49380303,48,Early-life stress leaves a 'scar' inside brain cells in mice,142,73
 2026-08-23T13:37:48.841529+00:00,49395628,49,There's no reason for software to be slow anymore,635,484
 2026-08-23T13:37:48.841529+00:00,49402181,50,I set a trap for a book-marketing scammer (2025),59,40
+2026-08-23T14:30:11.367705+00:00,49408550,1,Malware infects Android-based automotive head unit firmware,71,22
+2026-08-23T14:30:11.367705+00:00,49408858,2,"My favorite nonfiction books about cults, scams, and schemes",14,1
+2026-08-23T14:30:11.367705+00:00,49407576,3,Sydney Marathon medal mistakenly depicts Munich stadium,77,47
+2026-08-23T14:30:11.367705+00:00,49405870,4,"To become a better writer, read as much as you can",291,188
+2026-08-23T14:30:11.367705+00:00,49406333,5,The End of an Athlon,139,53
+2026-08-23T14:30:11.367705+00:00,49407309,6,Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive,33,9
+2026-08-23T14:30:11.367705+00:00,49407507,7,I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes,128,67
+2026-08-23T14:30:11.367705+00:00,49402491,8,Things I want in a modern relational query language,4,0
+2026-08-23T14:30:11.367705+00:00,49405816,9,MartyPC is a cross-platform emulator of early PCs written in Rust,150,55
+2026-08-23T14:30:11.367705+00:00,49406387,10,JIT Compiling Code in 5μs,115,70
+2026-08-23T14:30:11.367705+00:00,49406285,11,Fast and Hard Code,76,37
+2026-08-23T14:30:11.367705+00:00,49402232,12,Why your local LLM feels dumber than it is,404,165
+2026-08-23T14:30:11.367705+00:00,49408889,13,"Death to px, long live ch",8,1
+2026-08-23T14:30:11.367705+00:00,49405331,14,The Art and Beauty of Blade Runner (2015),128,60
+2026-08-23T14:30:11.367705+00:00,49351802,15,"Hister – A private, full content search index that you control",412,92
+2026-08-23T14:30:11.367705+00:00,49402202,16,Thinking in Python,236,43
+2026-08-23T14:30:11.367705+00:00,49400408,17,"ElevenLabs, TwelveLabs, ThirteenLabs",433,129
+2026-08-23T14:30:11.367705+00:00,49346854,18,typ.ing,315,98
+2026-08-23T14:30:11.367705+00:00,49402189,19,Scrap (2006),384,208
+2026-08-23T14:30:11.367705+00:00,49355659,20,RF Cafe,223,44
+2026-08-23T14:30:11.367705+00:00,49404380,21,NanoGPT Speedrun Frontier,125,30
+2026-08-23T14:30:11.367705+00:00,49399591,22,New MCP Roadmap,238,141
+2026-08-23T14:30:11.367705+00:00,49387959,23,How a Texas student blew the whistle on a rogue AI hacking attempt,184,92
+2026-08-23T14:30:11.367705+00:00,49407509,24,Iranian hackers shut down UK power plant for 4 days,42,22
+2026-08-23T14:30:11.367705+00:00,49379732,25,ATProto spaces: A new extension to ATProto that enables non-public data,158,25
+2026-08-23T14:30:11.367705+00:00,49402781,26,NetBSD and my life (2005),137,29
+2026-08-23T14:30:11.367705+00:00,49406398,27,Risk of transmission of amyloid β pathology via transfused blood products,15,0
+2026-08-23T14:30:11.367705+00:00,49399898,28,A Friendly Introduction to Racket,250,134
+2026-08-23T14:30:11.367705+00:00,49398152,29,Munder Difflin – Agent harness to run an office of your clones,294,130
+2026-08-23T14:30:11.367705+00:00,49402213,30,Figmimic – A bookmarklet to copy any webpage into Figma as editable layers,117,17
+2026-08-23T14:30:11.367705+00:00,49407237,31,Rust 1.98 got a P-critical miscompilation,7,1
+2026-08-23T14:30:11.367705+00:00,49398158,32,Z80 – The 1970s Microprocessor Still Alive (2021),148,74
+2026-08-23T14:30:11.367705+00:00,49408732,33,Airbus bows to remote working demands after series of strikes,3,1
+2026-08-23T14:30:11.367705+00:00,49406539,34,Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed,151,110
+2026-08-23T14:30:11.367705+00:00,49407944,35,"Andrew Ng: ""AI Engineering Skills Map: Building and Deploying AI Applications""",10,0
+2026-08-23T14:30:11.367705+00:00,49407341,36,The Sloppification of Peptides,72,58
+2026-08-23T14:30:11.367705+00:00,49389846,37,"Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",52,11
+2026-08-23T14:30:11.367705+00:00,49402181,38,I set a trap for a book-marketing scammer (2025),64,40
+2026-08-23T14:30:11.367705+00:00,49392536,39,One night in Uzbekistan: Why was this one data point so influential?,101,25
+2026-08-23T14:30:11.367705+00:00,49406757,40,Why aren't my two Cortex-A9 cores cache coherent?,8,4
+2026-08-23T14:30:11.367705+00:00,49373822,41,Conway's Game of Life in real life,64,13
+2026-08-23T14:30:11.367705+00:00,49406751,42,Steve French (SMB3/CIFSFS Linux kernel maintainer) has died,31,0
+2026-08-23T14:30:11.367705+00:00,49397074,43,Canada will match US tariffs 'dollar for dollar' as trade talks break down,638,1499
+2026-08-23T14:30:11.367705+00:00,49399524,44,"A Kantian Critique of ""Sorry"" by Justin Bieber",221,95
+2026-08-23T14:30:11.367705+00:00,49393051,45,A week of using Codex more than Claude,224,242
+2026-08-23T14:30:11.367705+00:00,49402741,46,hdiutil is deprecated in macOS 27 Golden Gate,185,83
+2026-08-23T14:30:11.367705+00:00,49402107,47,Reading Maps – Journeys from fiction drawn on the real world,39,5
+2026-08-23T14:30:11.367705+00:00,49405697,48,How to archive Everything and share It,10,3
+2026-08-23T14:30:11.367705+00:00,49404968,49,Hacker News RSS,21,0
+2026-08-23T14:30:11.367705+00:00,49377316,50,Why it might be time to rethink the human family tree,69,43
