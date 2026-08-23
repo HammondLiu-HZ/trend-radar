@@ -39497,3 +39497,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-23T05:35:55.951319+00:00,49380200,48,Protocol-Aware Deterministic Simulation Testing,11,0
 2026-08-23T05:35:55.951319+00:00,49357530,49,"AI boosted homework scores, then exam scores dropped: study",372,371
 2026-08-23T05:35:55.951319+00:00,49391553,50,OTel isn’t going well,223,113
+2026-08-23T06:53:03.912054+00:00,49405816,1,MartyPC is a cross-platform emulator of early PCs written in Rust,77,15
+2026-08-23T06:53:03.912054+00:00,49405870,2,The Golden Rule for Becoming a Better Writer,58,29
+2026-08-23T06:53:03.912054+00:00,49406333,3,The End of an Athlon,14,0
+2026-08-23T06:53:03.912054+00:00,49406387,4,JIT Compiling Code in 5μs,6,0
+2026-08-23T06:53:03.912054+00:00,49405682,5,I Dream of Quieter Computing,48,16
+2026-08-23T06:53:03.912054+00:00,49405331,6,The Art and Beauty of Blade Runner (2015),54,13
+2026-08-23T06:53:03.912054+00:00,49402232,7,Why your local LLM feels dumber than it is,282,93
+2026-08-23T06:53:03.912054+00:00,49402189,8,Scrap (2006),364,194
+2026-08-23T06:53:03.912054+00:00,49406539,9,Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed,10,0
+2026-08-23T06:53:03.912054+00:00,49402181,10,I set a trap for a book-marketing scammer (2025),31,17
+2026-08-23T06:53:03.912054+00:00,49400408,11,"ElevenLabs, TwelveLabs, ThirteenLabs",366,113
+2026-08-23T06:53:03.912054+00:00,49351802,12,"Hister – A private, full content search index that you control",307,77
+2026-08-23T06:53:03.912054+00:00,49404380,13,NanoGPT Speedrun Frontier,85,25
+2026-08-23T06:53:03.912054+00:00,49355659,14,RF Cafe,188,32
+2026-08-23T06:53:03.912054+00:00,49346854,15,typ.ing,242,73
+2026-08-23T06:53:03.912054+00:00,49387959,16,How a Texas student blew the whistle on a rogue AI hacking attempt,149,48
+2026-08-23T06:53:03.912054+00:00,49402202,17,Thinking in Python,129,24
+2026-08-23T06:53:03.912054+00:00,49397074,18,Canada will match US tariffs 'dollar for dollar' as trade talks break down,600,1387
+2026-08-23T06:53:03.912054+00:00,49399898,19,A Friendly Introduction to Racket,220,115
+2026-08-23T06:53:03.912054+00:00,49402781,20,NetBSD and my life (2005),112,28
+2026-08-23T06:53:03.912054+00:00,49379732,21,ATProto spaces: A new extension to ATProto that enables non-public data,135,18
+2026-08-23T06:53:03.912054+00:00,49389846,22,"Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",34,7
+2026-08-23T06:53:03.912054+00:00,49393051,23,A week of using Codex more than Claude,180,196
+2026-08-23T06:53:03.912054+00:00,49398152,24,Munder Difflin – Agent harness to run an office of your clones,275,118
+2026-08-23T06:53:03.912054+00:00,49399591,25,New MCP Roadmap,194,130
+2026-08-23T06:53:03.912054+00:00,49376197,26,Autolith: A programming agent with a live runtime,121,48
+2026-08-23T06:53:03.912054+00:00,49402213,27,Figmimic – A bookmarklet to copy any webpage into Figma as editable layers,85,12
+2026-08-23T06:53:03.912054+00:00,49360643,28,What's in a PowerPoint File?,80,40
+2026-08-23T06:53:03.912054+00:00,49398158,29,Z80 – The 1970s Microprocessor Still Alive (2021),133,63
+2026-08-23T06:53:03.912054+00:00,49406069,30,"Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",20,4
+2026-08-23T06:53:03.912054+00:00,49394827,31,"Show HN: OzBrain, a shared brain for knowledge between agents and your team",83,49
+2026-08-23T06:53:03.912054+00:00,49402741,32,hdiutil is deprecated in macOS 27 Golden Gate,179,73
+2026-08-23T06:53:03.912054+00:00,49373822,33,Conway's Game of Life in real life,53,12
+2026-08-23T06:53:03.912054+00:00,49384210,34,Stop Making TUIs,393,512
+2026-08-23T06:53:03.912054+00:00,49392536,35,One night in Uzbekistan: Why was this one data point so influential?,91,17
+2026-08-23T06:53:03.912054+00:00,49406239,36,A historic El Nino is forming. Here's why scientists are worried [video],8,0
+2026-08-23T06:53:03.912054+00:00,49399524,37,"A Kantian Critique of ""Sorry"" by Justin Bieber",211,90
+2026-08-23T06:53:03.912054+00:00,49404932,38,A look at CrossPoint e-reader firmware,10,1
+2026-08-23T06:53:03.912054+00:00,49406426,39,This Silicon Valley campus was a paradise. Bulldoze it,5,3
+2026-08-23T06:53:03.912054+00:00,49377316,40,Why it might be time to rethink the human family tree,64,39
+2026-08-23T06:53:03.912054+00:00,49402107,41,Reading Maps – Journeys from fiction drawn on the real world,28,3
+2026-08-23T06:53:03.912054+00:00,49381991,42,Dynamical dark energy and the week that broke cosmology,47,16
+2026-08-23T06:53:03.912054+00:00,49375176,43,ProgramBench Vetted: Reverse Engineering from a Runnable Binary,27,1
+2026-08-23T06:53:03.912054+00:00,49352470,44,Mythic's analog compute-in-memory architecture,53,29
+2026-08-23T06:53:03.912054+00:00,49364296,45,Show HN: terminal-code – VS Code inside the terminal,89,20
+2026-08-23T06:53:03.912054+00:00,49370284,46,"MiniageOS: ""Dumbphone"" Version of LineageOS",41,23
+2026-08-23T06:53:03.912054+00:00,49405117,47,Software Engineering in the Agentic Era,20,7
+2026-08-23T06:53:03.912054+00:00,49405697,48,How to archive Everything and share It,3,1
+2026-08-23T06:53:03.912054+00:00,49392200,49,Scientists release biggest 2D map of the universe,256,67
+2026-08-23T06:53:03.912054+00:00,49402521,50,Show HN: Make your logo extra bright on HDR screens,57,69
