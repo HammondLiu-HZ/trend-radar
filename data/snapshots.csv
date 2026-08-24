@@ -40947,3 +40947,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-24T14:50:20.204243+00:00,49408889,48,"Death to px, long live ch",85,67
 2026-08-24T14:50:20.204243+00:00,49412176,49,Decoding silent reading from non-invasive EEG,48,30
 2026-08-24T14:50:20.204243+00:00,49402491,50,Things I want in a modern relational query language,104,101
+2026-08-24T15:47:27.682400+00:00,49420873,1,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",90,22
+2026-08-24T15:47:27.682400+00:00,49421074,2,OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21),31,17
+2026-08-24T15:47:27.682400+00:00,49419237,3,How Europe is killing makers and micro-entrepreneurs,508,352
+2026-08-24T15:47:27.682400+00:00,49418255,4,SeL4 security proofs now complete on AArch64,109,28
+2026-08-24T15:47:27.682400+00:00,49421158,5,MS Paint and Photos inivisibly watermark even locally generated output with GUID,12,1
+2026-08-24T15:47:27.682400+00:00,49420592,6,Hot Chips 2026: Applying High Bandwidth Flash (HBF),16,4
+2026-08-24T15:47:27.682400+00:00,49412396,7,"I were 17, I'd learn how to build LLMs from scratch",360,477
+2026-08-24T15:47:27.682400+00:00,49413320,8,"Everything I own, owned",1236,316
+2026-08-24T15:47:27.682400+00:00,49420902,9,"Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",55,35
+2026-08-24T15:47:27.682400+00:00,49415271,10,Executable Is a SQLite Database,304,56
+2026-08-24T15:47:27.682400+00:00,49418184,11,Why older tech is sometimes safer from hackers,59,40
+2026-08-24T15:47:27.682400+00:00,49415893,12,FDA clears blood test to aid evaluation for Alzheimer's disease,125,55
+2026-08-24T15:47:27.682400+00:00,49411102,13,Anthropic's best AI model struggles to attract users as cheaper tools thrive,696,613
+2026-08-24T15:47:27.682400+00:00,49419351,14,"Show HN: A techno machine in one HTML file, with verifiable renders",45,9
+2026-08-24T15:47:27.682400+00:00,49416652,15,Fast drilldown dashboards from a single Parquet file,117,8
+2026-08-24T15:47:27.682400+00:00,49418163,16,Agent Is Not the Model,51,22
+2026-08-24T15:47:27.682400+00:00,49411643,17,How I find problems to solve as a staff engineer,514,147
+2026-08-24T15:47:27.682400+00:00,49416055,18,Andreessen Horowitz is investing billions into a bleak future,505,240
+2026-08-24T15:47:27.682400+00:00,49413561,19,I built a low-latency AI companion that plays Skyrim with me,283,56
+2026-08-24T15:47:27.682400+00:00,49415852,20,OCR It – pull text out of un-copyable documents for your LLM,98,24
+2026-08-24T15:47:27.682400+00:00,49409092,21,What Is a Harness?,522,164
+2026-08-24T15:47:27.682400+00:00,49417684,22,Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System,18,6
+2026-08-24T15:47:27.682400+00:00,49410932,23,My agent.md to improve LLM-assisted code quality,369,153
+2026-08-24T15:47:27.682400+00:00,49411717,24,Google Workspace thinks my domain is an email provider (2025),367,140
+2026-08-24T15:47:27.682400+00:00,49417394,25,Woman stranded in Spain after UK's eVisa system mistakes her for twin sister,145,108
+2026-08-24T15:47:27.682400+00:00,49415265,26,Mourning Steve French,60,2
+2026-08-24T15:47:27.682400+00:00,49409473,27,How Complex Systems Fail (1998),359,74
+2026-08-24T15:47:27.682400+00:00,49415621,28,New EU-wide product repair rules come into force,213,119
+2026-08-24T15:47:27.682400+00:00,49405657,29,AI Chip Architectures,125,41
+2026-08-24T15:47:27.682400+00:00,49408550,30,Malware infects Android-based automotive head unit firmware,256,136
+2026-08-24T15:47:27.682400+00:00,49408858,31,"My favorite nonfiction books about cults, scams, and schemes",267,112
+2026-08-24T15:47:27.682400+00:00,49411468,32,Fable and the end of the free lunch,209,204
+2026-08-24T15:47:27.682400+00:00,49411020,33,Explain it to me like I'm ten,182,64
+2026-08-24T15:47:27.682400+00:00,49416553,34,Most AI Work Can Wait,17,0
+2026-08-24T15:47:27.682400+00:00,49416097,35,"Over 5,200 Ebola cases recorded in Congo",108,55
+2026-08-24T15:47:27.682400+00:00,49416953,36,The Future Belongs to the Weird,88,60
+2026-08-24T15:47:27.682400+00:00,49409862,37,Why Sal Khan't: On Learning by Making but Teaching by Telling,188,113
+2026-08-24T15:47:27.682400+00:00,49410362,38,A website for debloated open source alternatives,369,117
+2026-08-24T15:47:27.682400+00:00,49414338,39,"Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",66,55
+2026-08-24T15:47:27.682400+00:00,49417207,40,A For-Profit Hospital Slashed Costs. Then a Patient Froze to Death on Its Roof,36,2
+2026-08-24T15:47:27.682400+00:00,49407341,41,The Sloppification of Peptides,148,137
+2026-08-24T15:47:27.682400+00:00,49412909,42,Implementation of GPT-2 in pure CMake,88,19
+2026-08-24T15:47:27.682400+00:00,49416530,43,"Anger, Anxiety and Agency",8,0
+2026-08-24T15:47:27.682400+00:00,49410111,44,Kodak DC50 now usable on the Apple II,73,9
+2026-08-24T15:47:27.682400+00:00,49414096,45,The first search engine for Internet-connected devices,23,6
+2026-08-24T15:47:27.682400+00:00,49417605,46,Continuous Diffusion Language Models,4,0
+2026-08-24T15:47:27.682400+00:00,49415405,47,Elevated Errors for Multiple Models,31,11
+2026-08-24T15:47:27.682400+00:00,49415907,48,Anthropic Claude and API service outages,71,60
+2026-08-24T15:47:27.682400+00:00,49414569,49,Mac OS X on Xbox 360,14,1
+2026-08-24T15:47:27.682400+00:00,49409210,50,Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi,68,9
