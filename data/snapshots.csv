@@ -40797,3 +40797,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-24T10:47:05.737116+00:00,49406387,48,JIT Compiling Code in 5μs,160,98
 2026-08-24T10:47:05.737116+00:00,49416030,49,Hugging Face has been fielding M&A interest for a deal worth at least $13B,8,2
 2026-08-24T10:47:05.737116+00:00,49406539,50,Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed,320,263
+2026-08-24T11:35:51.855882+00:00,49412396,1,"I were 17, I'd learn how to build LLMs from scratch",189,279
+2026-08-24T11:35:51.855882+00:00,49413320,2,"Everything I own, owned",1017,280
+2026-08-24T11:35:51.855882+00:00,49415893,3,FDA clears blood test to aid evaluation for Alzheimer's disease,67,17
+2026-08-24T11:35:51.855882+00:00,49415852,4,OCR It – pull text out of un-copyable documents for your LLM,58,11
+2026-08-24T11:35:51.855882+00:00,49411102,5,Anthropic's best AI model struggles to attract users as cheaper tools thrive,563,504
+2026-08-24T11:35:51.855882+00:00,49415271,6,Executable Is a SQLite Database,127,15
+2026-08-24T11:35:51.855882+00:00,49416652,7,Fast drilldown dashboards from a single Parquet file,29,0
+2026-08-24T11:35:51.855882+00:00,49417394,8,Woman stranded in Spain after UK's eVisa system mistakes her for twin sister,59,38
+2026-08-24T11:35:51.855882+00:00,49411643,9,How I find problems to solve as a staff engineer,430,133
+2026-08-24T11:35:51.855882+00:00,49416953,10,The Future Belongs to the Weird,20,5
+2026-08-24T11:35:51.855882+00:00,49416055,11,Andreessen Horowitz is investing billions into a bleak future,229,78
+2026-08-24T11:35:51.855882+00:00,49413561,12,I built a low-latency AI companion that plays Skyrim with me,183,36
+2026-08-24T11:35:51.855882+00:00,49417941,13,The treasury bond mess: is this the demise of the US as a safe haven?,16,3
+2026-08-24T11:35:51.855882+00:00,49411717,14,Google Workspace thinks my domain is an email provider (2025),318,104
+2026-08-24T11:35:51.855882+00:00,49409092,15,What Is a Harness?,469,155
+2026-08-24T11:35:51.855882+00:00,49410932,16,My agent.md to improve LLM-assisted code quality,327,138
+2026-08-24T11:35:51.855882+00:00,49415621,17,New EU-wide product repair rules come into force,153,82
+2026-08-24T11:35:51.855882+00:00,49409473,18,How Complex Systems Fail (1998),329,72
+2026-08-24T11:35:51.855882+00:00,49405657,19,AI Chip Architectures,96,34
+2026-08-24T11:35:51.855882+00:00,49408550,20,Malware infects Android-based automotive head unit firmware,246,126
+2026-08-24T11:35:51.855882+00:00,49416097,21,"Over 5,200 Ebola cases recorded in Congo",65,20
+2026-08-24T11:35:51.855882+00:00,49414934,22,Why is Anthropic's public writing style so unlike Claude's?,40,28
+2026-08-24T11:35:51.855882+00:00,49411468,23,Fable and the end of the free lunch,164,154
+2026-08-24T11:35:51.855882+00:00,49417766,24,Ask HN: Those making $500/month on side projects in 2026 – Show and tell,17,11
+2026-08-24T11:35:51.855882+00:00,49408858,25,"My favorite nonfiction books about cults, scams, and schemes",241,89
+2026-08-24T11:35:51.855882+00:00,49411020,26,Explain it to me like I'm ten,149,55
+2026-08-24T11:35:51.855882+00:00,49415265,27,Mourning Steve French,15,0
+2026-08-24T11:35:51.855882+00:00,49409862,28,Why Sal Khan't: On Learning by Making but Teaching by Telling,180,106
+2026-08-24T11:35:51.855882+00:00,49415405,29,Elevated Errors for Multiple Models,30,10
+2026-08-24T11:35:51.855882+00:00,49410362,30,A website for debloated open source alternatives,354,109
+2026-08-24T11:35:51.855882+00:00,49412909,31,Implementation of GPT-2 in pure CMake,83,17
+2026-08-24T11:35:51.855882+00:00,49414338,32,"Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",59,50
+2026-08-24T11:35:51.855882+00:00,49414096,33,The first search engine for Internet-connected devices,21,4
+2026-08-24T11:35:51.855882+00:00,49415907,34,Anthropic Claude and API service outages,62,59
+2026-08-24T11:35:51.855882+00:00,49407341,35,The Sloppification of Peptides,138,132
+2026-08-24T11:35:51.855882+00:00,49410111,36,Kodak DC50 now usable on the Apple II,66,9
+2026-08-24T11:35:51.855882+00:00,49411395,37,Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?,261,131
+2026-08-24T11:35:51.855882+00:00,49412467,38,Declarative WebGPU with S-Expressions,41,10
+2026-08-24T11:35:51.855882+00:00,49412176,39,Decoding silent reading from non-invasive EEG,47,27
+2026-08-24T11:35:51.855882+00:00,49409210,40,Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi,64,8
+2026-08-24T11:35:51.855882+00:00,49410545,41,The Remote Work Challenge: Lessons from 5 Cities,54,34
+2026-08-24T11:35:51.855882+00:00,49408889,42,"Death to px, long live ch",81,65
+2026-08-24T11:35:51.855882+00:00,49402491,43,Things I want in a modern relational query language,100,98
+2026-08-24T11:35:51.855882+00:00,49411199,44,The Vibe Tax,152,131
+2026-08-24T11:35:51.855882+00:00,49405870,45,"To become a better writer, read as much as you can",456,257
+2026-08-24T11:35:51.855882+00:00,49417207,46,A For-Profit Hospital Slashed Costs. Then a Patient Froze to Death on Its Roof,6,0
+2026-08-24T11:35:51.855882+00:00,49409780,47,Coconut oil jet fuel matches kerosene's efficiency in engine tests,173,201
+2026-08-24T11:35:51.855882+00:00,49414556,48,Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency,59,38
+2026-08-24T11:35:51.855882+00:00,49406387,49,JIT Compiling Code in 5μs,160,98
+2026-08-24T11:35:51.855882+00:00,49406539,50,Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed,321,264
