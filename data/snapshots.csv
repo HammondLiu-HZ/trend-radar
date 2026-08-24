@@ -41047,3 +41047,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-24T16:47:19.703418+00:00,49405657,48,AI Chip Architectures,134,43
 2026-08-24T16:47:19.703418+00:00,49422226,49,Ox-Alpha Is GLM,7,0
 2026-08-24T16:47:19.703418+00:00,49408550,50,Malware infects Android-based automotive head unit firmware,257,138
+2026-08-24T17:36:45.887455+00:00,49420873,1,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",345,197
+2026-08-24T17:36:45.887455+00:00,49421158,2,MS Paint and Photos inivisibly watermark even locally generated output with GUID,192,79
+2026-08-24T17:36:45.887455+00:00,49421489,3,IPFS Maintainers Winding Down,126,44
+2026-08-24T17:36:45.887455+00:00,49422204,4,"A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",53,17
+2026-08-24T17:36:45.887455+00:00,49422227,5,Public services are increasingly strained by LLM-written appeals for benefits,31,38
+2026-08-24T17:36:45.887455+00:00,49419237,6,How Europe is killing makers and micro-entrepreneurs,680,454
+2026-08-24T17:36:45.887455+00:00,49422784,7,The entire city of San Francisco as a video game,22,2
+2026-08-24T17:36:45.887455+00:00,49421074,8,OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21),147,139
+2026-08-24T17:36:45.887455+00:00,49422548,9,Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam,16,1
+2026-08-24T17:36:45.887455+00:00,49421536,10,Jabber/XMPP: 25 Years of Digital Independence,38,14
+2026-08-24T17:36:45.887455+00:00,49422800,11,Where Did All the Public Bathrooms Go?,10,4
+2026-08-24T17:36:45.887455+00:00,49418255,12,SeL4 security proofs now complete on AArch64,137,31
+2026-08-24T17:36:45.887455+00:00,49421806,13,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",18,0
+2026-08-24T17:36:45.887455+00:00,49421554,14,Coding expertise is going to collapse from AI reliance,173,212
+2026-08-24T17:36:45.887455+00:00,49412396,15,"I were 17, I'd learn how to build LLMs from scratch",404,520
+2026-08-24T17:36:45.887455+00:00,49420592,16,Hot Chips 2026: Applying High Bandwidth Flash (HBF),31,11
+2026-08-24T17:36:45.887455+00:00,49421948,17,"Show HN: GlassBox – what the browser reveals, and how identifiable you are",22,6
+2026-08-24T17:36:45.887455+00:00,49422481,18,EuroHPC Launches 6 Quantum Calls with €119M in Funding,5,1
+2026-08-24T17:36:45.887455+00:00,49420832,19,Adafruit USB Type C CC Resistor Fixer,30,10
+2026-08-24T17:36:45.887455+00:00,49357290,20,Curvature Beziers – Improving on a timeless recipe,15,0
+2026-08-24T17:36:45.887455+00:00,49420861,21,Could We Dredge the Netherlands Without Fossil Fuels?,18,9
+2026-08-24T17:36:45.887455+00:00,49415271,22,Executable Is a SQLite Database,359,70
+2026-08-24T17:36:45.887455+00:00,49420781,23,Hot Chips 2026: Samsung and HBM Base Die Opportunities,9,2
+2026-08-24T17:36:45.887455+00:00,49415893,24,FDA clears blood test to aid evaluation for Alzheimer's disease,150,70
+2026-08-24T17:36:45.887455+00:00,49419351,25,"Show HN: A techno machine in one HTML file, with verifiable renders",72,15
+2026-08-24T17:36:45.887455+00:00,49422404,26,Man Dressed as Darth Vader Defends Flock Cameras to San Diego City Council,25,2
+2026-08-24T17:36:45.887455+00:00,49420902,27,"Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",151,93
+2026-08-24T17:36:45.887455+00:00,49420999,28,NetBSD GSoC 2026 Improving RAIDframe,13,1
+2026-08-24T17:36:45.887455+00:00,49421347,29,Three Generations in E7,7,1
+2026-08-24T17:36:45.887455+00:00,49416652,30,Fast drilldown dashboards from a single Parquet file,135,12
+2026-08-24T17:36:45.887455+00:00,49420556,31,Codefloe Is a Professionally Hosted Public Git Forge,8,0
+2026-08-24T17:36:45.887455+00:00,49420530,32,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,8,0
+2026-08-24T17:36:45.887455+00:00,49413320,33,"Everything I own, owned",1287,328
+2026-08-24T17:36:45.887455+00:00,49420783,34,Show HN: Free Inference Engineer and Model Training Roadmap,14,3
+2026-08-24T17:36:45.887455+00:00,49420714,35,Show HN: How to Mentally Calculate the Day of the Week for Any Date,8,2
+2026-08-24T17:36:45.887455+00:00,49420650,36,"Show HN: Tblue – 614 passive security scanners for any website, runs locally",7,0
+2026-08-24T17:36:45.887455+00:00,49413561,37,I built a low-latency AI companion that plays Skyrim with me,309,65
+2026-08-24T17:36:45.887455+00:00,49418184,38,Why older tech is sometimes safer from hackers,75,61
+2026-08-24T17:36:45.887455+00:00,49416055,39,Andreessen Horowitz is investing billions into a bleak future,576,300
+2026-08-24T17:36:45.887455+00:00,49420619,40,Release Nvim 0.12.5,5,0
+2026-08-24T17:36:45.887455+00:00,49420598,41,Walgit – a Git server that is one binary in front of an object store,7,0
+2026-08-24T17:36:45.887455+00:00,49415852,42,OCR It – pull text out of un-copyable documents for your LLM,103,26
+2026-08-24T17:36:45.887455+00:00,49421758,43,Firefox intent to ship: JPEG XL,27,12
+2026-08-24T17:36:45.887455+00:00,49418163,44,Agent Is Not the Model,56,29
+2026-08-24T17:36:45.887455+00:00,49417394,45,Woman stranded in Spain after UK's eVisa system mistakes her for twin sister,166,123
+2026-08-24T17:36:45.887455+00:00,49422304,46,IBM's next-gen mainframe chip is the first to run Arm and Z workloads,6,0
+2026-08-24T17:36:45.887455+00:00,49420146,47,Play Dates,4,0
+2026-08-24T17:36:45.887455+00:00,49422226,48,Ox-Alpha Is GLM,17,0
+2026-08-24T17:36:45.887455+00:00,49420116,49,Crafting QR Codes: A deep dive into QR code art,5,0
+2026-08-24T17:36:45.887455+00:00,49420065,50,Tiny-Net: learned token embeddings in 2D,4,0
