@@ -40997,3 +40997,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-24T15:47:27.682400+00:00,49415907,48,Anthropic Claude and API service outages,71,60
 2026-08-24T15:47:27.682400+00:00,49414569,49,Mac OS X on Xbox 360,14,1
 2026-08-24T15:47:27.682400+00:00,49409210,50,Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi,68,9
+2026-08-24T16:47:19.703418+00:00,49420873,1,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",243,143
+2026-08-24T16:47:19.703418+00:00,49421158,2,MS Paint and Photos inivisibly watermark even locally generated output with GUID,115,48
+2026-08-24T16:47:19.703418+00:00,49421489,3,IPFS Maintainers Winding Down,70,18
+2026-08-24T16:47:19.703418+00:00,49422204,4,"A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",14,1
+2026-08-24T16:47:19.703418+00:00,49421074,5,OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21),103,88
+2026-08-24T16:47:19.703418+00:00,49419237,6,How Europe is killing makers and micro-entrepreneurs,599,411
+2026-08-24T16:47:19.703418+00:00,49418255,7,SeL4 security proofs now complete on AArch64,128,30
+2026-08-24T16:47:19.703418+00:00,49421554,8,Coding expertise is going to collapse from AI reliance,99,105
+2026-08-24T16:47:19.703418+00:00,49421536,9,Jabber/XMPP: 25 Years of Digital Independence,10,2
+2026-08-24T16:47:19.703418+00:00,49420592,10,Hot Chips 2026: Applying High Bandwidth Flash (HBF),26,9
+2026-08-24T16:47:19.703418+00:00,49412396,11,"I were 17, I'd learn how to build LLMs from scratch",380,502
+2026-08-24T16:47:19.703418+00:00,49422220,12,A Server Lost Power at 00:32. We Found Out at 08:18,6,2
+2026-08-24T16:47:19.703418+00:00,49422278,13,A Practical Intuition for C++20 Coroutines,5,1
+2026-08-24T16:47:19.703418+00:00,49420832,14,Adafruit USB Type C CC Resistor Fixer,15,3
+2026-08-24T16:47:19.703418+00:00,49422243,15,"Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",6,0
+2026-08-24T16:47:19.703418+00:00,49422227,16,Public services are increasingly strained by LLM-written appeals for benefits,4,0
+2026-08-24T16:47:19.703418+00:00,49415271,17,Executable Is a SQLite Database,332,67
+2026-08-24T16:47:19.703418+00:00,49415893,18,FDA clears blood test to aid evaluation for Alzheimer's disease,140,65
+2026-08-24T16:47:19.703418+00:00,49419351,19,"Show HN: A techno machine in one HTML file, with verifiable renders",64,14
+2026-08-24T16:47:19.703418+00:00,49420781,20,Hot Chips 2026: Samsung and HBM Base Die Opportunities,6,1
+2026-08-24T16:47:19.703418+00:00,49421948,21,"Show HN: GlassBox – what the browser reveals, and how identifiable you are",5,0
+2026-08-24T16:47:19.703418+00:00,49420999,22,NetBSD GSoC 2026 Improving RAIDframe,8,0
+2026-08-24T16:47:19.703418+00:00,49421806,23,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",3,0
+2026-08-24T16:47:19.703418+00:00,49411102,24,Anthropic's best AI model struggles to attract users as cheaper tools thrive,715,641
+2026-08-24T16:47:19.703418+00:00,49420902,25,"Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",110,72
+2026-08-24T16:47:19.703418+00:00,49418184,26,Why older tech is sometimes safer from hackers,70,51
+2026-08-24T16:47:19.703418+00:00,49416652,27,Fast drilldown dashboards from a single Parquet file,129,11
+2026-08-24T16:47:19.703418+00:00,49421347,28,Three Generations in E7,5,1
+2026-08-24T16:47:19.703418+00:00,49411643,29,How I find problems to solve as a staff engineer,525,151
+2026-08-24T16:47:19.703418+00:00,49420783,30,Show HN: Free Inference Engineer and Model Training Roadmap,9,1
+2026-08-24T16:47:19.703418+00:00,49413320,31,"Everything I own, owned",1275,327
+2026-08-24T16:47:19.703418+00:00,49416055,32,Andreessen Horowitz is investing billions into a bleak future,560,280
+2026-08-24T16:47:19.703418+00:00,49413561,33,I built a low-latency AI companion that plays Skyrim with me,302,60
+2026-08-24T16:47:19.703418+00:00,49420861,34,Could We Dredge the Netherlands Without Fossil Fuels?,6,1
+2026-08-24T16:47:19.703418+00:00,49418163,35,Agent Is Not the Model,55,26
+2026-08-24T16:47:19.703418+00:00,49420714,36,Show HN: How to Mentally Calculate the Day of the Week for Any Date,4,0
+2026-08-24T16:47:19.703418+00:00,49415852,37,OCR It – pull text out of un-copyable documents for your LLM,103,26
+2026-08-24T16:47:19.703418+00:00,49409092,38,What Is a Harness?,530,173
+2026-08-24T16:47:19.703418+00:00,49410932,39,My agent.md to improve LLM-assisted code quality,379,164
+2026-08-24T16:47:19.703418+00:00,49417394,40,Woman stranded in Spain after UK's eVisa system mistakes her for twin sister,162,114
+2026-08-24T16:47:19.703418+00:00,49411717,41,Google Workspace thinks my domain is an email provider (2025),372,143
+2026-08-24T16:47:19.703418+00:00,49417684,42,Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System,19,7
+2026-08-24T16:47:19.703418+00:00,49421758,43,Firefox intent to ship: JPEG XL,17,8
+2026-08-24T16:47:19.703418+00:00,49415265,44,Mourning Steve French,64,3
+2026-08-24T16:47:19.703418+00:00,49409473,45,How Complex Systems Fail (1998),364,74
+2026-08-24T16:47:19.703418+00:00,49415621,46,New EU-wide product repair rules come into force,223,126
+2026-08-24T16:47:19.703418+00:00,49422304,47,IBM's next-gen mainframe chip is the first to run Arm and Z workloads,3,0
+2026-08-24T16:47:19.703418+00:00,49405657,48,AI Chip Architectures,134,43
+2026-08-24T16:47:19.703418+00:00,49422226,49,Ox-Alpha Is GLM,7,0
+2026-08-24T16:47:19.703418+00:00,49408550,50,Malware infects Android-based automotive head unit firmware,257,138
