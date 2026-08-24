@@ -40697,3 +40697,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-24T08:57:05.599277+00:00,49405870,48,"To become a better writer, read as much as you can",448,255
 2026-08-24T08:57:05.599277+00:00,49415854,49,Your Open Source Model Could Have a Hidden Time-Release Backdoor,47,52
 2026-08-24T08:57:05.599277+00:00,49411024,50,AI and Infrastructure Engineering,66,30
+2026-08-24T09:57:10.700691+00:00,49413320,1,"Everything I own, owned",907,257
+2026-08-24T09:57:10.700691+00:00,49412396,2,"I were 17, I'd learn how to build LLMs from scratch",114,197
+2026-08-24T09:57:10.700691+00:00,49417313,3,We never use AI. For anything,13,3
+2026-08-24T09:57:10.700691+00:00,49415893,4,FDA clears blood test to aid evaluation for Alzheimer's disease,44,12
+2026-08-24T09:57:10.700691+00:00,49411102,5,Anthropic's best AI model struggles to attract users as cheaper tools thrive,518,455
+2026-08-24T09:57:10.700691+00:00,49415852,6,OCR It – pull text out of un-copyable documents for your LLM,31,7
+2026-08-24T09:57:10.700691+00:00,49411643,7,How I find problems to solve as a staff engineer,415,132
+2026-08-24T09:57:10.700691+00:00,49415271,8,Executable Is a SQLite Database,69,6
+2026-08-24T09:57:10.700691+00:00,49416055,9,Andreessen Horowitz is investing billions into a bleak future,143,35
+2026-08-24T09:57:10.700691+00:00,49413561,10,I built a low-latency AI companion that plays Skyrim with me,157,30
+2026-08-24T09:57:10.700691+00:00,49415621,11,New EU-wide product repair rules come into force,124,39
+2026-08-24T09:57:10.700691+00:00,49411717,12,Google Workspace thinks my domain is an email provider (2025),304,101
+2026-08-24T09:57:10.700691+00:00,49410932,13,My agent.md to improve LLM-assisted code quality,313,134
+2026-08-24T09:57:10.700691+00:00,49409092,14,What Is a Harness?,450,152
+2026-08-24T09:57:10.700691+00:00,49416953,15,The Future Belongs to the Weird,3,0
+2026-08-24T09:57:10.700691+00:00,49416097,16,"Over 5,200 Ebola cases recorded in Congo",50,6
+2026-08-24T09:57:10.700691+00:00,49409473,17,How Complex Systems Fail (1998),315,72
+2026-08-24T09:57:10.700691+00:00,49416652,18,Fast drilldown dashboards from a single Parquet file,4,0
+2026-08-24T09:57:10.700691+00:00,49405657,19,AI Chip Architectures,80,29
+2026-08-24T09:57:10.700691+00:00,49408550,20,Malware infects Android-based automotive head unit firmware,243,124
+2026-08-24T09:57:10.700691+00:00,49417394,21,Woman stranded in Spain after UK's eVisa system mistakes her for twin sister,6,0
+2026-08-24T09:57:10.700691+00:00,49411468,22,Fable and the end of the free lunch,153,138
+2026-08-24T09:57:10.700691+00:00,49414338,23,"Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",57,45
+2026-08-24T09:57:10.700691+00:00,49408858,24,"My favorite nonfiction books about cults, scams, and schemes",237,86
+2026-08-24T09:57:10.700691+00:00,49411020,25,Explain it to me like I'm ten,137,51
+2026-08-24T09:57:10.700691+00:00,49409862,26,Why Sal Khan't: On Learning by Making but Teaching by Telling,178,104
+2026-08-24T09:57:10.700691+00:00,49414934,27,Why is Anthropic's public writing style so unlike Claude's?,29,9
+2026-08-24T09:57:10.700691+00:00,49415907,28,Anthropic Claude and API service outages,57,54
+2026-08-24T09:57:10.700691+00:00,49410362,29,A website for debloated open source alternatives,340,105
+2026-08-24T09:57:10.700691+00:00,49415405,30,Elevated Errors for Multiple Models,26,9
+2026-08-24T09:57:10.700691+00:00,49412909,31,Implementation of GPT-2 in pure CMake,79,15
+2026-08-24T09:57:10.700691+00:00,49415265,32,Mourning Steve French,10,0
+2026-08-24T09:57:10.700691+00:00,49414096,33,The first search engine for Internet-connected devices,20,2
+2026-08-24T09:57:10.700691+00:00,49410111,34,Kodak DC50 now usable on the Apple II,64,9
+2026-08-24T09:57:10.700691+00:00,49407341,35,The Sloppification of Peptides,136,127
+2026-08-24T09:57:10.700691+00:00,49412176,36,Decoding silent reading from non-invasive EEG,47,27
+2026-08-24T09:57:10.700691+00:00,49411395,37,Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?,254,131
+2026-08-24T09:57:10.700691+00:00,49412467,38,Declarative WebGPU with S-Expressions,39,9
+2026-08-24T09:57:10.700691+00:00,49410545,39,The Remote Work Challenge: Lessons from 5 Cities,54,32
+2026-08-24T09:57:10.700691+00:00,49409210,40,Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi,61,8
+2026-08-24T09:57:10.700691+00:00,49408889,41,"Death to px, long live ch",81,61
+2026-08-24T09:57:10.700691+00:00,49402491,42,Things I want in a modern relational query language,100,96
+2026-08-24T09:57:10.700691+00:00,49411199,43,The Vibe Tax,149,128
+2026-08-24T09:57:10.700691+00:00,49409780,44,Coconut oil jet fuel matches kerosene's efficiency in engine tests,172,198
+2026-08-24T09:57:10.700691+00:00,49416030,45,Hugging Face has been fielding M&A interest for a deal worth at least $13B,8,2
+2026-08-24T09:57:10.700691+00:00,49405870,46,"To become a better writer, read as much as you can",450,257
+2026-08-24T09:57:10.700691+00:00,49414556,47,Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency,52,36
+2026-08-24T09:57:10.700691+00:00,49411024,48,AI and Infrastructure Engineering,67,31
+2026-08-24T09:57:10.700691+00:00,49412328,49,Rural Village in Spain Is Welcoming Digital Nomads with Open Arms,92,102
+2026-08-24T09:57:10.700691+00:00,49406387,50,JIT Compiling Code in 5μs,160,98
