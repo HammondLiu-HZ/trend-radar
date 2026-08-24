@@ -41244,3 +41244,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-24T20:38:53.771861+00:00,49423219,48,Government Proposes New Six-Figure Fee for H1B Visas,32,12
 2026-08-24T20:38:53.771861+00:00,49420116,49,Crafting QR Codes: A deep dive into QR code art,19,0
 2026-08-24T20:38:53.771861+00:00,49415852,50,OCR It – pull text out of un-copyable documents for your LLM,115,26
+2026-08-24T21:36:14.803858+00:00,49420873,1,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",622,414
+2026-08-24T21:36:14.803858+00:00,49425819,2,One corner of China’s internet is insisting that the Tang Dynasty never existed,28,12
+2026-08-24T21:36:14.803858+00:00,49421158,3,MS Paint and Photos inivisibly watermark even locally generated output with GUID,445,175
+2026-08-24T21:36:14.803858+00:00,49422784,4,The entire city of San Francisco as a video game,243,85
+2026-08-24T21:36:14.803858+00:00,49421489,5,IPFS Maintainers Winding Down,278,144
+2026-08-24T21:36:14.803858+00:00,49424606,6,Oceans hit highest temperature on record,239,107
+2026-08-24T21:36:14.803858+00:00,49419237,7,How Europe is killing makers and micro-entrepreneurs,914,594
+2026-08-24T21:36:14.803858+00:00,49421536,8,Jabber/XMPP: 25 Years of Digital Independence,121,45
+2026-08-24T21:36:14.803858+00:00,49425800,9,Vintage Artificial Intelligence: Before It Got Awkward,9,1
+2026-08-24T21:36:14.803858+00:00,49422800,10,Where did all the public bathrooms go?,75,122
+2026-08-24T21:36:14.803858+00:00,49424082,11,"Anger, Anxiety and Agency",58,68
+2026-08-24T21:36:14.803858+00:00,49422548,12,Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam,60,8
+2026-08-24T21:36:14.803858+00:00,49423539,14,Octopus intelligence may be related to never-before-seen mutation,29,12
+2026-08-24T21:36:14.803858+00:00,49421806,15,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",63,9
+2026-08-24T21:36:14.803858+00:00,49424387,16,LLMs could control their host machines by exploiting inference engines,52,24
+2026-08-24T21:36:14.803858+00:00,49423927,17,"Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",35,5
+2026-08-24T21:36:14.803858+00:00,49412396,18,"I were 17, I'd learn how to build LLMs from scratch",484,575
+2026-08-24T21:36:14.803858+00:00,49418255,19,SeL4 security proofs now complete on AArch64,157,34
+2026-08-24T21:36:14.803858+00:00,49421074,20,OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21),246,230
+2026-08-24T21:36:14.803858+00:00,49420530,21,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,64,38
+2026-08-24T21:36:14.803858+00:00,49421554,22,Coding expertise is going to collapse from AI reliance,357,374
+2026-08-24T21:36:14.803858+00:00,49423799,23,What Is a Syslog Server?,32,15
+2026-08-24T21:36:14.803858+00:00,49424167,24,"Removed all counters, replies, following/ers, timestamps, from textlog",28,16
+2026-08-24T21:36:14.803858+00:00,49415271,25,Executable Is a SQLite Database,453,88
+2026-08-24T21:36:14.803858+00:00,49419351,26,"Show HN: A techno machine in one HTML file, with verifiable renders",137,27
+2026-08-24T21:36:14.803858+00:00,49415893,27,FDA clears blood test to aid evaluation for Alzheimer's disease,172,85
+2026-08-24T21:36:14.803858+00:00,49421948,28,"Show HN: GlassBox – what the browser reveals, and how identifiable you are",75,36
+2026-08-24T21:36:14.803858+00:00,49420556,29,Codefloe Is a Professionally Hosted Public Git Forge,41,16
+2026-08-24T21:36:14.803858+00:00,49423146,30,"Fences, Not Sandboxes",19,9
+2026-08-24T21:36:14.803858+00:00,49420592,31,Hot Chips 2026: Applying High Bandwidth Flash (HBF),43,14
+2026-08-24T21:36:14.803858+00:00,49390993,32,Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour,12,6
+2026-08-24T21:36:14.803858+00:00,49423077,33,Agent Lightning v1.0,13,1
+2026-08-24T21:36:14.803858+00:00,49422204,34,"A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",103,45
+2026-08-24T21:36:14.803858+00:00,49423886,35,"The ""File"" menu isn't about files",35,48
+2026-08-24T21:36:14.803858+00:00,49424882,36,Greg Abbott says data centers:'basically dug their own grave',26,7
+2026-08-24T21:36:14.803858+00:00,49423045,37,Tracking Costco Gas Prices During a Global Fuel Crisis,12,3
+2026-08-24T21:36:14.803858+00:00,49424951,38,"Qwen 3.6 is now much easier to run locally on your Mac, thanks to JetBrains",15,10
+2026-08-24T21:36:14.803858+00:00,49424936,39,The Government Report That Made Me Stop Trusting Our Statistical Agencies,20,2
+2026-08-24T21:36:14.803858+00:00,49413320,40,"Everything I own, owned",1337,334
+2026-08-24T21:36:14.803858+00:00,49420714,41,Show HN: How to Mentally Calculate the Day of the Week for Any Date,25,5
+2026-08-24T21:36:14.803858+00:00,49420781,42,Hot Chips 2026: Samsung and HBM Base Die Opportunities,17,4
+2026-08-24T21:36:14.803858+00:00,49424758,43,A Claude Code skill that recovers export-blocked Kindle highlights,39,7
+2026-08-24T21:36:14.803858+00:00,49425599,44,"Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",7,0
+2026-08-24T21:36:14.803858+00:00,49416652,45,Fast drilldown dashboards from a single Parquet file,144,15
+2026-08-24T21:36:14.803858+00:00,49422481,46,EuroHPC Launches 6 Quantum Calls with €119M in Funding,13,14
+2026-08-24T21:36:14.803858+00:00,49420598,47,Walgit – a Git server that is one binary in front of an object store,27,2
+2026-08-24T21:36:14.803858+00:00,49413561,48,I built a low-latency AI companion that plays Skyrim with me,326,69
+2026-08-24T21:36:14.803858+00:00,49425340,49,"Amazon hikes hardware prices by 60 percent, blaming memory shortage",10,0
+2026-08-24T21:36:14.803858+00:00,49420999,50,NetBSD GSoC 2026 Improving RAIDframe,20,5
