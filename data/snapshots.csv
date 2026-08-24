@@ -40447,3 +40447,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-24T01:48:51.662174+00:00,49411779,48,"Fixable Things That Make Life Harder for the Elderly, the Sick, and the Poor",28,2
 2026-08-24T01:48:51.662174+00:00,49406398,49,Risk of transmission of amyloid β pathology via transfused blood products,39,19
 2026-08-24T01:48:51.662174+00:00,49402232,50,Why your local LLM feels dumber than it is,474,197
+2026-08-24T03:11:16.752753+00:00,49413320,1,"Everything I own, owned",357,109
+2026-08-24T03:11:16.752753+00:00,49411643,2,How I find problems to solve as a staff engineer,300,109
+2026-08-24T03:11:16.752753+00:00,49411102,3,Anthropic's best AI model struggles to attract users as cheaper tools thrive,274,234
+2026-08-24T03:11:16.752753+00:00,49414676,4,Fastmail Pricing Changes,8,2
+2026-08-24T03:11:16.752753+00:00,49414338,5,"Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",16,5
+2026-08-24T03:11:16.752753+00:00,49411717,6,Google Workspace thinks my domain is an email provider (2025),196,50
+2026-08-24T03:11:16.752753+00:00,49410932,7,My agent.md to improve LLM-assisted code quality,189,85
+2026-08-24T03:11:16.752753+00:00,49409092,8,What Is a Harness?,330,138
+2026-08-24T03:11:16.752753+00:00,49409473,9,How Complex Systems Fail (1998),253,63
+2026-08-24T03:11:16.752753+00:00,49408550,10,Malware infects Android-based automotive head unit firmware,219,108
+2026-08-24T03:11:16.752753+00:00,49408858,11,"My favorite nonfiction books about cults, scams, and schemes",203,69
+2026-08-24T03:11:16.752753+00:00,49412909,12,Implementation of GPT-2 in pure CMake,40,11
+2026-08-24T03:11:16.752753+00:00,49409862,13,Why Sal Khan't: On Learning by Making but Teaching by Telling,144,89
+2026-08-24T03:11:16.752753+00:00,49410362,14,A website for debloated open source alternatives,276,92
+2026-08-24T03:11:16.752753+00:00,49411020,15,Explain it to me like I'm ten,86,42
+2026-08-24T03:11:16.752753+00:00,49412328,16,Rural Village in Spain Is Welcoming Digital Nomads with Open Arms,34,21
+2026-08-24T03:11:16.752753+00:00,49410111,17,Kodak DC50 now usable on the Apple II,46,8
+2026-08-24T03:11:16.752753+00:00,49412176,18,Decoding silent reading from non-invasive EEG,34,14
+2026-08-24T03:11:16.752753+00:00,49411024,19,AI and Infrastructure Engineering,50,17
+2026-08-24T03:11:16.752753+00:00,49411395,20,Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?,191,83
+2026-08-24T03:11:16.752753+00:00,49412467,21,Declarative WebGPU with S-Expressions,23,3
+2026-08-24T03:11:16.752753+00:00,49413093,22,Parallel development without the headaches using Git worktree,26,20
+2026-08-24T03:11:16.752753+00:00,49410545,23,The Remote Work Challenge: Lessons from 5 Cities,42,17
+2026-08-24T03:11:16.752753+00:00,49411199,24,The Vibe Tax,113,91
+2026-08-24T03:11:16.752753+00:00,49402491,25,Things I want in a modern relational query language,91,88
+2026-08-24T03:11:16.752753+00:00,49411468,26,Fable and the end of the free lunch,127,103
+2026-08-24T03:11:16.752753+00:00,49407341,27,The Sloppification of Peptides,107,86
+2026-08-24T03:11:16.752753+00:00,49409780,28,Coconut oil jet fuel matches kerosene's efficiency in engine tests,155,185
+2026-08-24T03:11:16.752753+00:00,49408889,29,"Death to px, long live ch",66,46
+2026-08-24T03:11:16.752753+00:00,49413004,30,The planet now has more trees than it did 35 years ago (2018),63,39
+2026-08-24T03:11:16.752753+00:00,49411800,31,Training AI to Paint with Code,22,2
+2026-08-24T03:11:16.752753+00:00,49412947,32,A complex structure on S^6 [pdf],48,17
+2026-08-24T03:11:16.752753+00:00,49405870,33,"To become a better writer, read as much as you can",434,253
+2026-08-24T03:11:16.752753+00:00,49414556,34,Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency,7,3
+2026-08-24T03:11:16.752753+00:00,49406539,35,Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed,306,244
+2026-08-24T03:11:16.752753+00:00,49405682,36,I dream of quieter computing,116,111
+2026-08-24T03:11:16.752753+00:00,49406387,37,JIT Compiling Code in 5μs,156,97
+2026-08-24T03:11:16.752753+00:00,49413705,38,Wrong antibody used in over 50 cell aging studies,18,1
+2026-08-24T03:11:16.752753+00:00,49405657,39,AI Chip Architectures,53,17
+2026-08-24T03:11:16.752753+00:00,49402181,40,I set a trap for a book-marketing scammer (2025),82,53
+2026-08-24T03:11:16.752753+00:00,49407507,41,I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes,318,140
+2026-08-24T03:11:16.752753+00:00,49413278,42,GCC Patch Adjusting AMD Zen 5 Misprediction Cost Nets 12% Win in Benchmark,13,1
+2026-08-24T03:11:16.752753+00:00,49410936,43,I turned Unix talk from 1983 into the interface for my AI,20,9
+2026-08-24T03:11:16.752753+00:00,49406333,44,The End of an Athlon,175,86
+2026-08-24T03:11:16.752753+00:00,49407309,45,Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive,62,37
+2026-08-24T03:11:16.752753+00:00,49409073,46,I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day,624,268
+2026-08-24T03:11:16.752753+00:00,49402232,47,Why your local LLM feels dumber than it is,478,198
+2026-08-24T03:11:16.752753+00:00,49410949,48,Predicting AI model release dates with stats,28,3
+2026-08-24T03:11:16.752753+00:00,49406398,49,Risk of transmission of amyloid β pathology via transfused blood products,39,19
+2026-08-24T03:11:16.752753+00:00,49409200,50,Slovakia finds Russian backdoor in traffic speed cameras,363,139
