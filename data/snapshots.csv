@@ -40847,3 +40847,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-24T11:35:51.855882+00:00,49414556,48,Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency,59,38
 2026-08-24T11:35:51.855882+00:00,49406387,49,JIT Compiling Code in 5μs,160,98
 2026-08-24T11:35:51.855882+00:00,49406539,50,Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed,321,264
+2026-08-24T13:04:32.774252+00:00,49418255,1,SeL4 security proofs now complete on AArch64,46,10
+2026-08-24T13:04:32.774252+00:00,49412396,2,"I were 17, I'd learn how to build LLMs from scratch",250,360
+2026-08-24T13:04:32.774252+00:00,49413320,3,"Everything I own, owned",1086,295
+2026-08-24T13:04:32.774252+00:00,49415893,4,FDA clears blood test to aid evaluation for Alzheimer's disease,86,28
+2026-08-24T13:04:32.774252+00:00,49416953,5,The Future Belongs to the Weird,49,25
+2026-08-24T13:04:32.774252+00:00,49415271,6,Executable Is a SQLite Database,182,25
+2026-08-24T13:04:32.774252+00:00,49418163,7,Agent Is Not the Model,15,0
+2026-08-24T13:04:32.774252+00:00,49411102,8,Anthropic's best AI model struggles to attract users as cheaper tools thrive,604,535
+2026-08-24T13:04:32.774252+00:00,49418675,9,Ask HN: Why do corporate failures always seem to punish the wrong people?,28,12
+2026-08-24T13:04:32.774252+00:00,49416652,10,Fast drilldown dashboards from a single Parquet file,56,1
+2026-08-24T13:04:32.774252+00:00,49411643,11,How I find problems to solve as a staff engineer,446,136
+2026-08-24T13:04:32.774252+00:00,49415852,12,OCR It – pull text out of un-copyable documents for your LLM,70,13
+2026-08-24T13:04:32.774252+00:00,49416055,13,Andreessen Horowitz is investing billions into a bleak future,314,114
+2026-08-24T13:04:32.774252+00:00,49413561,14,I built a low-latency AI companion that plays Skyrim with me,220,41
+2026-08-24T13:04:32.774252+00:00,49411717,15,Google Workspace thinks my domain is an email provider (2025),337,116
+2026-08-24T13:04:32.774252+00:00,49409092,16,What Is a Harness?,485,157
+2026-08-24T13:04:32.774252+00:00,49410932,17,My agent.md to improve LLM-assisted code quality,336,144
+2026-08-24T13:04:32.774252+00:00,49415621,18,New EU-wide product repair rules come into force,170,100
+2026-08-24T13:04:32.774252+00:00,49417394,19,Woman stranded in Spain after UK's eVisa system mistakes her for twin sister,88,68
+2026-08-24T13:04:32.774252+00:00,49409473,20,How Complex Systems Fail (1998),338,72
+2026-08-24T13:04:32.774252+00:00,49418449,21,Anthropic candidates face blunt money question,18,18
+2026-08-24T13:04:32.774252+00:00,49417941,22,The treasury bond mess: is this the demise of the US as a safe haven?,51,25
+2026-08-24T13:04:32.774252+00:00,49408550,23,Malware infects Android-based automotive head unit firmware,249,126
+2026-08-24T13:04:32.774252+00:00,49405657,24,AI Chip Architectures,101,36
+2026-08-24T13:04:32.774252+00:00,49411468,25,Fable and the end of the free lunch,179,167
+2026-08-24T13:04:32.774252+00:00,49416097,26,"Over 5,200 Ebola cases recorded in Congo",79,32
+2026-08-24T13:04:32.774252+00:00,49415265,27,Mourning Steve French,30,0
+2026-08-24T13:04:32.774252+00:00,49408858,28,"My favorite nonfiction books about cults, scams, and schemes",249,96
+2026-08-24T13:04:32.774252+00:00,49411020,29,Explain it to me like I'm ten,157,58
+2026-08-24T13:04:32.774252+00:00,49409862,30,Why Sal Khan't: On Learning by Making but Teaching by Telling,184,106
+2026-08-24T13:04:32.774252+00:00,49414338,31,"Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",62,50
+2026-08-24T13:04:32.774252+00:00,49418117,32,Omakase Computing,43,41
+2026-08-24T13:04:32.774252+00:00,49410362,33,A website for debloated open source alternatives,362,114
+2026-08-24T13:04:32.774252+00:00,49417207,34,A For-Profit Hospital Slashed Costs. Then a Patient Froze to Death on Its Roof,18,0
+2026-08-24T13:04:32.774252+00:00,49416530,35,"Anger, Anxiety and Agency",5,0
+2026-08-24T13:04:32.774252+00:00,49415405,36,Elevated Errors for Multiple Models,30,11
+2026-08-24T13:04:32.774252+00:00,49412909,37,Implementation of GPT-2 in pure CMake,87,17
+2026-08-24T13:04:32.774252+00:00,49414096,38,The first search engine for Internet-connected devices,23,5
+2026-08-24T13:04:32.774252+00:00,49407341,39,The Sloppification of Peptides,142,136
+2026-08-24T13:04:32.774252+00:00,49414934,40,Why is Anthropic's public writing style so unlike Claude's?,59,46
+2026-08-24T13:04:32.774252+00:00,49410111,41,Kodak DC50 now usable on the Apple II,68,9
+2026-08-24T13:04:32.774252+00:00,49415907,42,Anthropic Claude and API service outages,66,60
+2026-08-24T13:04:32.774252+00:00,49416553,43,Most AI Work Can Wait,4,0
+2026-08-24T13:04:32.774252+00:00,49411395,44,Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?,270,140
+2026-08-24T13:04:32.774252+00:00,49412467,45,Declarative WebGPU with S-Expressions,43,10
+2026-08-24T13:04:32.774252+00:00,49412176,46,Decoding silent reading from non-invasive EEG,48,30
+2026-08-24T13:04:32.774252+00:00,49409210,47,Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi,66,9
+2026-08-24T13:04:32.774252+00:00,49410545,48,The Remote Work Challenge: Lessons from 5 Cities,56,36
+2026-08-24T13:04:32.774252+00:00,49408889,49,"Death to px, long live ch",83,65
+2026-08-24T13:04:32.774252+00:00,49402491,50,Things I want in a modern relational query language,101,100
