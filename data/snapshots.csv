@@ -41146,3 +41146,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-24T18:50:59.648830+00:00,49423511,48,"Mojang is enforcing ""inappropriate"" MOTDs even on private whitelisted servers",9,0
 2026-08-24T18:50:59.648830+00:00,49416055,49,Andreessen Horowitz is investing billions into a bleak future,600,314
 2026-08-24T18:50:59.648830+00:00,49415852,50,OCR It – pull text out of un-copyable documents for your LLM,108,26
+2026-08-24T19:35:22.931945+00:00,49420873,1,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",495,323
+2026-08-24T19:35:22.931945+00:00,49421158,2,MS Paint and Photos inivisibly watermark even locally generated output with GUID,333,139
+2026-08-24T19:35:22.931945+00:00,49421489,3,IPFS Maintainers Winding Down,228,103
+2026-08-24T19:35:22.931945+00:00,49422784,4,The entire city of San Francisco as a video game,132,50
+2026-08-24T19:35:22.931945+00:00,49424082,5,"Anger, Anxiety and Agency",32,22
+2026-08-24T19:35:22.931945+00:00,49419237,6,How Europe is killing makers and micro-entrepreneurs,796,533
+2026-08-24T19:35:22.931945+00:00,49424387,7,LLMs could control their host machines by exploiting inference engines,9,1
+2026-08-24T19:35:22.931945+00:00,49421536,8,Jabber/XMPP: 25 Years of Digital Independence,74,30
+2026-08-24T19:35:22.931945+00:00,49422548,10,Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam,49,4
+2026-08-24T19:35:22.931945+00:00,49421806,11,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",45,3
+2026-08-24T19:35:22.931945+00:00,49421074,12,OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21),202,183
+2026-08-24T19:35:22.931945+00:00,49423799,13,What Is a Syslog Server?,15,7
+2026-08-24T19:35:22.931945+00:00,49418255,14,SeL4 security proofs now complete on AArch64,148,31
+2026-08-24T19:35:22.931945+00:00,49421948,15,"Show HN: GlassBox – what the browser reveals, and how identifiable you are",57,30
+2026-08-24T19:35:22.931945+00:00,49423886,16,"Your ""File"" Menu Isn't About Files",21,22
+2026-08-24T19:35:22.931945+00:00,49412396,17,"I were 17, I'd learn how to build LLMs from scratch",441,547
+2026-08-24T19:35:22.931945+00:00,49423927,18,"Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",11,0
+2026-08-24T19:35:22.931945+00:00,49424167,19,"Removed all counters, replies, following/ers, timestamps, from textlog",7,4
+2026-08-24T19:35:22.931945+00:00,49357290,20,Curvature Beziers – Improving on a timeless recipe,33,2
+2026-08-24T19:35:22.931945+00:00,49421554,21,Coding expertise is going to collapse from AI reliance,278,318
+2026-08-24T19:35:22.931945+00:00,49415271,22,Executable Is a SQLite Database,402,81
+2026-08-24T19:35:22.931945+00:00,49422204,23,"A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",84,26
+2026-08-24T19:35:22.931945+00:00,49419351,24,"Show HN: A techno machine in one HTML file, with verifiable renders",106,18
+2026-08-24T19:35:22.931945+00:00,49420592,25,Hot Chips 2026: Applying High Bandwidth Flash (HBF),35,12
+2026-08-24T19:35:22.931945+00:00,49415893,26,FDA clears blood test to aid evaluation for Alzheimer's disease,162,76
+2026-08-24T19:35:22.931945+00:00,49420530,27,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,28,9
+2026-08-24T19:35:22.931945+00:00,49420861,28,Could We Dredge the Netherlands Without Fossil Fuels?,27,23
+2026-08-24T19:35:22.931945+00:00,49422481,29,EuroHPC Launches 6 Quantum Calls with €119M in Funding,11,10
+2026-08-24T19:35:22.931945+00:00,49420556,30,Codefloe Is a Professionally Hosted Public Git Forge,26,8
+2026-08-24T19:35:22.931945+00:00,49420598,31,Walgit – a Git server that is one binary in front of an object store,22,2
+2026-08-24T19:35:22.931945+00:00,49420781,32,Hot Chips 2026: Samsung and HBM Base Die Opportunities,14,4
+2026-08-24T19:35:22.931945+00:00,49420714,33,Show HN: How to Mentally Calculate the Day of the Week for Any Date,17,4
+2026-08-24T19:35:22.931945+00:00,49420902,34,"Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",210,132
+2026-08-24T19:35:22.931945+00:00,49423077,35,Agent Lightning v1.0,6,0
+2026-08-24T19:35:22.931945+00:00,49423045,36,Tracking Costco Gas Prices During a Global Fuel Crisis,7,2
+2026-08-24T19:35:22.931945+00:00,49416652,37,Fast drilldown dashboards from a single Parquet file,141,13
+2026-08-24T19:35:22.931945+00:00,49413320,38,"Everything I own, owned",1316,330
+2026-08-24T19:35:22.931945+00:00,49420999,39,NetBSD GSoC 2026 Improving RAIDframe,19,5
+2026-08-24T19:35:22.931945+00:00,49422227,40,Public services are increasingly strained by LLM-written appeals for benefits,56,68
+2026-08-24T19:35:22.931945+00:00,49423219,41,Government Proposes New Six-Figure Fee for H1B Visas,23,5
+2026-08-24T19:35:22.931945+00:00,49421347,42,Three Generations in E7,14,1
+2026-08-24T19:35:22.931945+00:00,49413561,43,I built a low-latency AI companion that plays Skyrim with me,319,66
+2026-08-24T19:35:22.931945+00:00,49423152,44,Creating under 256 byte 32-bit x86 based Linux binaries,5,0
+2026-08-24T19:35:22.931945+00:00,49423146,45,"Fences, Not Sandboxes",6,0
+2026-08-24T19:35:22.931945+00:00,49423801,46,ICE officers with electric-shock gloves,27,4
+2026-08-24T19:35:22.931945+00:00,49420650,47,"Show HN: Tblue – 614 passive security scanners for any website, runs locally",9,2
+2026-08-24T19:35:22.931945+00:00,49420619,48,Release Nvim 0.12.5,13,0
+2026-08-24T19:35:22.931945+00:00,49420116,49,Crafting QR Codes: A deep dive into QR code art,17,0
+2026-08-24T19:35:22.931945+00:00,49416055,50,Andreessen Horowitz is investing billions into a bleak future,607,317
