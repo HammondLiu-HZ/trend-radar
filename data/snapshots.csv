@@ -41636,3 +41636,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-25T06:59:22.795583+00:00,49421948,48,"Show HN: GlassBox – what the browser reveals, and how identifiable you are",106,50
 2026-08-25T06:59:22.795583+00:00,49428842,49,Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?,13,5
 2026-08-25T06:59:22.795583+00:00,49428663,50,Right-Sized Language Model,3,0
+2026-08-25T07:53:02.812635+00:00,49426564,1,iCloud+ Hide My Email addresses will remain on icloud.com,415,108
+2026-08-25T07:53:02.812635+00:00,49399722,2,Nostr is an inclusive communication commons,113,36
+2026-08-25T07:53:02.812635+00:00,49420873,3,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",840,592
+2026-08-25T07:53:02.812635+00:00,49421158,4,MS Paint and Photos inivisibly watermark even locally generated output with GUID,684,272
+2026-08-25T07:53:02.812635+00:00,49428121,5,How Universities Should Prepare Founders,99,124
+2026-08-25T07:53:02.812635+00:00,49428882,6,Headlong: A Microharness for Persistent Agents,49,15
+2026-08-25T07:53:02.812635+00:00,49428638,7,SiFive's First Server Platform,36,7
+2026-08-25T07:53:02.812635+00:00,49419237,8,How Europe is killing makers and micro-entrepreneurs,1272,770
+2026-08-25T07:53:02.812635+00:00,49429095,9,"Show HN: Screen memory without screenshots, just text to Markdown",32,12
+2026-08-25T07:53:02.812635+00:00,49426466,10,Moon (2024),166,30
+2026-08-25T07:53:02.812635+00:00,49422784,11,The entire city of San Francisco as a video game,440,139
+2026-08-25T07:53:02.812635+00:00,49427001,12,Bookshelf – Self-hosted eBook library that runs on object storage,85,32
+2026-08-25T07:53:02.812635+00:00,49428080,13,Was modern art a CIA psy-op? (2020),68,82
+2026-08-25T07:53:02.812635+00:00,49419252,14,What's new in Emacs 31.1,108,23
+2026-08-25T07:53:02.812635+00:00,49422800,15,Where did all the public bathrooms go?,222,512
+2026-08-25T07:53:02.812635+00:00,49411800,16,Training AI to Paint with Code,81,7
+2026-08-25T07:53:02.812635+00:00,49410814,17,Show HN: I wrote a BASIC interpreter that boots on UEFI machines,44,11
+2026-08-25T07:53:02.812635+00:00,49421536,18,Jabber/XMPP: 25 Years of Digital Independence,218,110
+2026-08-25T07:53:02.812635+00:00,49425800,19,Vintage Artificial Intelligence: Before It Got Awkward,86,18
+2026-08-25T07:53:02.812635+00:00,49420116,20,Crafting QR Codes: A deep dive into QR code art (2024),56,1
+2026-08-25T07:53:02.812635+00:00,49420530,21,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,144,71
+2026-08-25T07:53:02.812635+00:00,49423539,22,Octopus intelligence may be related to never-before-seen mutation,142,104
+2026-08-25T07:53:02.812635+00:00,49428972,23,Volcanoes that made history,4,0
+2026-08-25T07:53:02.812635+00:00,49424387,24,LLMs could control their host machines by exploiting inference engines,133,63
+2026-08-25T07:53:02.812635+00:00,49420598,25,Walgit – a Git server that is one binary in front of an object store,72,11
+2026-08-25T07:53:02.812635+00:00,49418255,26,SeL4 security proofs now complete on AArch64,186,42
+2026-08-25T07:53:02.812635+00:00,49412396,27,"I were 17, I'd learn how to build LLMs from scratch",540,620
+2026-08-25T07:53:02.812635+00:00,49428318,28,Thomson Reuters Launches Its Own Frontier Model,94,37
+2026-08-25T07:53:02.812635+00:00,49424606,30,Oceans hit highest temperature on record,517,417
+2026-08-25T07:53:02.812635+00:00,49420861,31,Could we dredge the Netherlands without fossil fuels? (2018),49,56
+2026-08-25T07:53:02.812635+00:00,49421806,32,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",113,22
+2026-08-25T07:53:02.812635+00:00,49422548,33,Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam,86,11
+2026-08-25T07:53:02.812635+00:00,49421489,34,IPFS Maintainers Winding Down,342,172
+2026-08-25T07:53:02.812635+00:00,49422243,35,"Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",49,16
+2026-08-25T07:53:02.812635+00:00,49422227,36,Characterizing Agentic Flooding of Government Services,68,77
+2026-08-25T07:53:02.812635+00:00,49423146,37,"Fences, Not Sandboxes",66,71
+2026-08-25T07:53:02.812635+00:00,49424167,38,"Removed all counters, replies, following/ers, timestamps, from textlog",69,33
+2026-08-25T07:53:02.812635+00:00,49419351,39,"Show HN: A techno machine in one HTML file, with verifiable renders",197,35
+2026-08-25T07:53:02.812635+00:00,49420714,40,Show HN: How to mentally calculate the day of the week for any date,66,19
+2026-08-25T07:53:02.812635+00:00,49425819,41,One corner of China’s internet is insisting that the Tang Dynasty never existed,159,143
+2026-08-25T07:53:02.812635+00:00,49389593,42,Show HN: SteppeWM – a stacking IceWM-like Wayland compositor,15,5
+2026-08-25T07:53:02.812635+00:00,49413320,43,"Everything I own, owned",1377,338
+2026-08-25T07:53:02.812635+00:00,49422226,44,Ox-Alpha Is GLM?,74,51
+2026-08-25T07:53:02.812635+00:00,49429204,45,Not a natural calamity: it is being done to us knowingly,20,4
+2026-08-25T07:53:02.812635+00:00,49423799,46,What Is a Syslog Server?,60,44
+2026-08-25T07:53:02.812635+00:00,49421074,47,OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21),319,303
+2026-08-25T07:53:02.812635+00:00,49420556,48,Codefloe Is a Professionally Hosted Public Git Forge,59,27
+2026-08-25T07:53:02.812635+00:00,49413561,49,I built a low-latency AI companion that plays Skyrim with me,354,70
+2026-08-25T07:53:02.812635+00:00,49421948,50,"Show HN: GlassBox – what the browser reveals, and how identifiable you are",106,50
