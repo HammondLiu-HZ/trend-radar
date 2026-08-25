@@ -42224,3 +42224,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-25T19:37:47.847270+00:00,49427001,48,Bookshelf – Self-hosted eBook library that runs on object storage,161,56
 2026-08-25T19:37:47.847270+00:00,49420530,49,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,221,105
 2026-08-25T19:37:47.847270+00:00,49438349,50,Anthropic expected to tell investors it sees over $30T in potential revenue,10,1
+2026-08-25T20:37:20.122566+00:00,49433292,1,Apple introduces M6 and M5 Ultra,799,709
+2026-08-25T20:37:20.122566+00:00,49439017,2,FDA authorizes first wearable device that monitors ketone and blood sugar levels,57,30
+2026-08-25T20:37:20.122566+00:00,49433316,3,New Mac Studio with M5 Max and M5 Ultra,629,380
+2026-08-25T20:37:20.122566+00:00,49437210,4,Black hole singularity is a surface not a point,115,62
+2026-08-25T20:37:20.122566+00:00,49437069,5,My Friend Aaron,264,64
+2026-08-25T20:37:20.122566+00:00,49437483,6,Run OpenBSD on DigitalOcean for $4/month,74,27
+2026-08-25T20:37:20.122566+00:00,49433450,7,"New Mac mini, featuring M6 and M5 Pro",359,196
+2026-08-25T20:37:20.122566+00:00,49435675,8,Show HN: I made a Raspberry with Qwen my local car AI,38,11
+2026-08-25T20:37:20.122566+00:00,49438052,9,Dolly Parton has died,731,110
+2026-08-25T20:37:20.122566+00:00,49434820,10,Bomb fishing is wreaking havoc on Indonesia's coral reefs,200,113
+2026-08-25T20:37:20.122566+00:00,49437049,11,Show HN: LatticeDB – Like SQLite but for graph databases,59,20
+2026-08-25T20:37:20.122566+00:00,49437946,13,Firefox 157 will include JPEG XL by default on all platforms,143,18
+2026-08-25T20:37:20.122566+00:00,49434645,14,"Building a backyard office, the build and cost breakdown",188,144
+2026-08-25T20:37:20.122566+00:00,49436822,15,"Starbase, LA",140,176
+2026-08-25T20:37:20.122566+00:00,49432319,16,Don't Wordle,256,109
+2026-08-25T20:37:20.122566+00:00,49437283,17,Nitter project received cease and desist,326,227
+2026-08-25T20:37:20.122566+00:00,49434378,18,OpenAI Jalapeño: Better than Nvidia Blackwell,163,110
+2026-08-25T20:37:20.122566+00:00,49436786,19,"Tooltips need a delay, and then they need to skip it",60,14
+2026-08-25T20:37:20.122566+00:00,49437165,20,A new ceiling for Λ: the de Bruijn–Newman constant,38,8
+2026-08-25T20:37:20.122566+00:00,49436706,21,Fuzzing the Gleam Compiler,31,2
+2026-08-25T20:37:20.122566+00:00,49437361,22,Show HN: Lightweight system monitor for Linux VPS written in Go,27,11
+2026-08-25T20:37:20.122566+00:00,49423878,23,Visualizing Binary Files,46,12
+2026-08-25T20:37:20.122566+00:00,49435641,24,Behaviorally fingerprinting Ox Alpha's provenance,11,3
+2026-08-25T20:37:20.122566+00:00,49438492,25,Pgbot: A 5.9 MB read-only Postgres tool for humans and agents,44,9
+2026-08-25T20:37:20.122566+00:00,49439535,26,Perplexity Portable Computer,10,5
+2026-08-25T20:37:20.122566+00:00,49435781,27,Warnock: Harnessing GPU geometry amplification for vector graphics,31,2
+2026-08-25T20:37:20.122566+00:00,49432786,28,Solving the 1+N Query Problem,41,29
+2026-08-25T20:37:20.122566+00:00,49435495,29,"Otto Dix, Nietzsche, and the Great War (2019)",33,18
+2026-08-25T20:37:20.122566+00:00,49410814,30,Show HN: I wrote a BASIC interpreter that boots on UEFI machines,105,36
+2026-08-25T20:37:20.122566+00:00,49432227,31,HelloAssembly: The smallest possible complete Windows application (2021),73,42
+2026-08-25T20:37:20.122566+00:00,49436400,32,Run Minecraft in a Windows sandbox for computer use agents,19,6
+2026-08-25T20:37:20.122566+00:00,49428638,33,SiFive's First Server Platform,127,40
+2026-08-25T20:37:20.122566+00:00,49432317,34,Qwen 3.8-Flash-Next releasing tomorrow (125B a6B),290,126
+2026-08-25T20:37:20.122566+00:00,49439489,35,OpenAI's Head of Data Centers Has Left the Company,12,0
+2026-08-25T20:37:20.122566+00:00,49411800,36,Training AI to Paint with Code,190,23
+2026-08-25T20:37:20.122566+00:00,49430007,37,"Windows 95 released August 24, 1995",103,72
+2026-08-25T20:37:20.122566+00:00,49435728,38,How much of HN is AI?,225,239
+2026-08-25T20:37:20.122566+00:00,49428121,39,How Universities Should Prepare Founders,230,275
+2026-08-25T20:37:20.122566+00:00,49419252,40,What's new in Emacs 31.1,321,95
+2026-08-25T20:37:20.122566+00:00,49422784,41,The entire city of San Francisco as a video game,582,165
+2026-08-25T20:37:20.122566+00:00,49426466,42,Moon (2024),254,40
+2026-08-25T20:37:20.122566+00:00,49434709,43,Servus München: Waymo Is Coming to Germany,24,1
+2026-08-25T20:37:20.122566+00:00,49422800,44,Where did all the public bathrooms go?,332,762
+2026-08-25T20:37:20.122566+00:00,49427001,45,Bookshelf – Self-hosted eBook library that runs on object storage,161,56
+2026-08-25T20:37:20.122566+00:00,49437637,46,DOJ prosecutes single FOIA dodger while defending systemwide evasion,34,2
+2026-08-25T20:37:20.122566+00:00,49420530,47,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,222,106
+2026-08-25T20:37:20.122566+00:00,49421158,48,MS Paint and Photos inivisibly watermark even locally generated output with GUID,833,420
+2026-08-25T20:37:20.122566+00:00,49437966,49,Trial is 40 days. Not until you're 40,33,2
+2026-08-25T20:37:20.122566+00:00,49438661,50,Dolly Parton Has Died,75,6
