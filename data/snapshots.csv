@@ -41538,3 +41538,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-25T04:46:50.072669+00:00,49423077,48,Agent Lightning v1.0,48,5
 2026-08-25T04:46:50.072669+00:00,49413561,49,I built a low-latency AI companion that plays Skyrim with me,347,69
 2026-08-25T04:46:50.072669+00:00,49420592,50,Hot Chips 2026: Applying High Bandwidth Flash (HBF),49,15
+2026-08-25T05:37:56.908378+00:00,49426564,1,iCloud+ Hide My Email addresses will remain on icloud.com,342,90
+2026-08-25T05:37:56.908378+00:00,49420873,2,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",794,547
+2026-08-25T05:37:56.908378+00:00,49421158,3,MS Paint and Photos inivisibly watermark even locally generated output with GUID,634,254
+2026-08-25T05:37:56.908378+00:00,49428121,4,How Universities Should Prepare Founders,70,63
+2026-08-25T05:37:56.908378+00:00,49399722,5,Nostr is an inclusive communication commons,62,14
+2026-08-25T05:37:56.908378+00:00,49428882,6,Headlong: A Microharness for Persistent Agents,22,7
+2026-08-25T05:37:56.908378+00:00,49426466,7,Moon (2024),137,22
+2026-08-25T05:37:56.908378+00:00,49419237,8,How Europe is killing makers and micro-entrepreneurs,1169,690
+2026-08-25T05:37:56.908378+00:00,49422784,9,The entire city of San Francisco as a video game,407,131
+2026-08-25T05:37:56.908378+00:00,49422226,10,Ox-Alpha Is GLM?,47,24
+2026-08-25T05:37:56.908378+00:00,49427001,11,Bookshelf – Self-hosted eBook library that runs on object storage,68,26
+2026-08-25T05:37:56.908378+00:00,49422800,12,Where did all the public bathrooms go?,199,436
+2026-08-25T05:37:56.908378+00:00,49428080,13,Was modern art a CIA psy-op? (2020),48,53
+2026-08-25T05:37:56.908378+00:00,49421536,14,Jabber/XMPP: 25 Years of Digital Independence,201,93
+2026-08-25T05:37:56.908378+00:00,49429095,15,"Show HN: Screen memory without screenshots, just text to Markdown",6,1
+2026-08-25T05:37:56.908378+00:00,49423539,16,Octopus intelligence may be related to never-before-seen mutation,119,88
+2026-08-25T05:37:56.908378+00:00,49419252,17,What's new in Emacs 31.1,72,12
+2026-08-25T05:37:56.908378+00:00,49411800,18,Training AI to Paint with Code,58,5
+2026-08-25T05:37:56.908378+00:00,49425800,19,Vintage Artificial Intelligence: Before It Got Awkward,75,17
+2026-08-25T05:37:56.908378+00:00,49410814,20,Show HN: I wrote a BASIC interpreter that boots on UEFI machines,28,7
+2026-08-25T05:37:56.908378+00:00,49420116,21,Crafting QR Codes: A deep dive into QR code art (2024),38,0
+2026-08-25T05:37:56.908378+00:00,49422243,22,"Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",36,15
+2026-08-25T05:37:56.908378+00:00,49428638,23,SiFive's First Server Platform,7,1
+2026-08-25T05:37:56.908378+00:00,49420530,24,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,119,69
+2026-08-25T05:37:56.908378+00:00,49424387,25,LLMs could control their host machines by exploiting inference engines,116,58
+2026-08-25T05:37:56.908378+00:00,49428318,26,Thomson Reuters Launches Its Own Frontier Model,63,22
+2026-08-25T05:37:56.908378+00:00,49418255,27,SeL4 security proofs now complete on AArch64,177,39
+2026-08-25T05:37:56.908378+00:00,49425819,29,One corner of China’s internet is insisting that the Tang Dynasty never existed,154,132
+2026-08-25T05:37:56.908378+00:00,49424606,30,Oceans hit highest temperature on record,471,384
+2026-08-25T05:37:56.908378+00:00,49420861,31,Could we dredge the Netherlands without fossil fuels? (2018),47,52
+2026-08-25T05:37:56.908378+00:00,49421806,32,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",107,20
+2026-08-25T05:37:56.908378+00:00,49412396,33,"I were 17, I'd learn how to build LLMs from scratch",532,618
+2026-08-25T05:37:56.908378+00:00,49389593,34,Show HN: SteppeWM – a stacking IceWM-like Wayland compositor,11,5
+2026-08-25T05:37:56.908378+00:00,49421489,35,IPFS Maintainers Winding Down,340,170
+2026-08-25T05:37:56.908378+00:00,49422548,36,Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam,84,10
+2026-08-25T05:37:56.908378+00:00,49420598,37,Walgit – a Git server that is one binary in front of an object store,53,7
+2026-08-25T05:37:56.908378+00:00,49428842,38,Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?,11,2
+2026-08-25T05:37:56.908378+00:00,49423146,39,"Fences, Not Sandboxes",64,69
+2026-08-25T05:37:56.908378+00:00,49420714,40,Show HN: How to mentally calculate the day of the week for any date,54,12
+2026-08-25T05:37:56.908378+00:00,49419351,41,"Show HN: A techno machine in one HTML file, with verifiable renders",187,35
+2026-08-25T05:37:56.908378+00:00,49422227,42,Characterizing Agentic Flooding of Government Services,64,77
+2026-08-25T05:37:56.908378+00:00,49424167,43,"Removed all counters, replies, following/ers, timestamps, from textlog",63,30
+2026-08-25T05:37:56.908378+00:00,49421074,44,OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21),315,292
+2026-08-25T05:37:56.908378+00:00,49423799,45,What Is a Syslog Server?,56,44
+2026-08-25T05:37:56.908378+00:00,49413320,46,"Everything I own, owned",1369,338
+2026-08-25T05:37:56.908378+00:00,49420556,47,Codefloe Is a Professionally Hosted Public Git Forge,57,27
+2026-08-25T05:37:56.908378+00:00,49421948,48,"Show HN: GlassBox – what the browser reveals, and how identifiable you are",104,50
+2026-08-25T05:37:56.908378+00:00,49424082,49,"Anger, Anxiety and Agency",110,118
+2026-08-25T05:37:56.908378+00:00,49423077,50,Agent Lightning v1.0,48,5
