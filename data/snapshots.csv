@@ -42028,3 +42028,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-25T15:51:15.298350+00:00,49421806,48,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",142,28
 2026-08-25T15:51:15.298350+00:00,49420861,49,Could we dredge the Netherlands without fossil fuels? (2018),56,63
 2026-08-25T15:51:15.298350+00:00,49434830,50,Apple Releases New Polishing Cloth,73,25
+2026-08-25T16:46:37.558392+00:00,49433292,1,Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute,495,406
+2026-08-25T16:46:37.558392+00:00,49433316,2,New Mac Studio with M5 Max and M5 Ultra,451,289
+2026-08-25T16:46:37.558392+00:00,49433450,3,"New Mac mini, featuring M6 and M5 Pro",222,124
+2026-08-25T16:46:37.558392+00:00,49434820,4,Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs,108,73
+2026-08-25T16:46:37.558392+00:00,49432317,5,Qwen 3.8-Flash-Next releasing tomorrow (125B a6B),201,85
+2026-08-25T16:46:37.558392+00:00,49432319,6,Don't Wordle,199,83
+2026-08-25T16:46:37.558392+00:00,49434645,7,"Building a backyard office, the build and cost breakdown",94,53
+2026-08-25T16:46:37.558392+00:00,49432227,8,HelloAssembly The smallest possible complete Windows application,64,34
+2026-08-25T16:46:37.558392+00:00,49435495,9,Beyond Good and Evil: Nietzsche and the Great War,14,8
+2026-08-25T16:46:37.558392+00:00,49435147,10,"AI is hitting entry-level jobs hardest, Stanford study finds",57,39
+2026-08-25T16:46:37.558392+00:00,49434613,11,"MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",18,6
+2026-08-25T16:46:37.558392+00:00,49426564,12,iCloud+ Hide My Email addresses will remain on icloud.com,570,180
+2026-08-25T16:46:37.558392+00:00,49436536,13,Anthropic Sees over $30T in Potential Revenue,16,32
+2026-08-25T16:46:37.558392+00:00,49421158,14,MS Paint and Photos inivisibly watermark even locally generated output with GUID,814,408
+2026-08-25T16:46:37.558392+00:00,49423878,15,Visualizing Binary Files,13,3
+2026-08-25T16:46:37.558392+00:00,49420873,16,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",953,688
+2026-08-25T16:46:37.558392+00:00,49430007,17,"Windows 95 released August 24, 1995",63,26
+2026-08-25T16:46:37.558392+00:00,49435728,18,How much of HN is AI?,159,128
+2026-08-25T16:46:37.558392+00:00,49428121,19,How Universities Should Prepare Founders,215,255
+2026-08-25T16:46:37.558392+00:00,49428638,20,SiFive's First Server Platform,110,36
+2026-08-25T16:46:37.558392+00:00,49434291,21,Anthropic tells staff to work from home due to possible security team strike,57,62
+2026-08-25T16:46:37.558392+00:00,49419252,22,What's new in Emacs 31.1,300,72
+2026-08-25T16:46:37.558392+00:00,49419237,23,How Europe is killing makers and micro-entrepreneurs,1558,969
+2026-08-25T16:46:37.558392+00:00,49422784,24,The entire city of San Francisco as a video game,565,163
+2026-08-25T16:46:37.558392+00:00,49432786,25,Solving the 1+N Query Problem,9,0
+2026-08-25T16:46:37.558392+00:00,49426466,26,Moon (2024),243,38
+2026-08-25T16:46:37.558392+00:00,49427001,27,Bookshelf – Self-hosted eBook library that runs on object storage,155,56
+2026-08-25T16:46:37.558392+00:00,49422800,28,Where did all the public bathrooms go?,318,722
+2026-08-25T16:46:37.558392+00:00,49411800,29,Training AI to Paint with Code,174,19
+2026-08-25T16:46:37.558392+00:00,49420530,31,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,214,102
+2026-08-25T16:46:37.558392+00:00,49420116,32,Crafting QR Codes: A deep dive into QR code art (2024),118,11
+2026-08-25T16:46:37.558392+00:00,49410814,33,Show HN: I wrote a BASIC interpreter that boots on UEFI machines,96,32
+2026-08-25T16:46:37.558392+00:00,49425800,34,Vintage Artificial Intelligence: Before It Got Awkward,143,28
+2026-08-25T16:46:37.558392+00:00,49424387,35,LLMs could control their host machines by exploiting inference engines,179,88
+2026-08-25T16:46:37.558392+00:00,49428080,36,Was modern art a CIA psy-op? (2020),132,223
+2026-08-25T16:46:37.558392+00:00,49412396,37,"I were 17, I'd learn how to build LLMs from scratch",584,656
+2026-08-25T16:46:37.558392+00:00,49421536,38,Jabber/XMPP: 25 Years of Digital Independence,254,161
+2026-08-25T16:46:37.558392+00:00,49428882,39,Headlong: A Microharness for Persistent Agents,107,50
+2026-08-25T16:46:37.558392+00:00,49420598,40,Walgit – a Git server that is one binary in front of an object store,129,55
+2026-08-25T16:46:37.558392+00:00,49434378,41,OpenAI JalapeñO: Better Than Nvidia Blackwell,14,0
+2026-08-25T16:46:37.558392+00:00,49413320,42,"Everything I own, owned",1408,346
+2026-08-25T16:46:37.558392+00:00,49432879,43,OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users,99,107
+2026-08-25T16:46:37.558392+00:00,49422548,44,Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam,95,12
+2026-08-25T16:46:37.558392+00:00,49419351,45,"Show HN: A techno machine in one HTML file, with verifiable renders",219,43
+2026-08-25T16:46:37.558392+00:00,49413561,46,I built a low-latency AI companion that plays Skyrim with me,380,75
+2026-08-25T16:46:37.558392+00:00,49422227,47,Characterizing Agentic Flooding of Government Services,72,84
+2026-08-25T16:46:37.558392+00:00,49423146,48,"Fences, Not Sandboxes",82,84
+2026-08-25T16:46:37.558392+00:00,49424167,49,"Removed all counters, replies, following/ers, timestamps, from textlog",78,34
+2026-08-25T16:46:37.558392+00:00,49421806,50,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",142,28
