@@ -42273,3 +42273,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-25T20:37:20.122566+00:00,49421158,48,MS Paint and Photos inivisibly watermark even locally generated output with GUID,833,420
 2026-08-25T20:37:20.122566+00:00,49437966,49,Trial is 40 days. Not until you're 40,33,2
 2026-08-25T20:37:20.122566+00:00,49438661,50,Dolly Parton Has Died,75,6
+2026-08-25T21:35:43.447928+00:00,49439017,1,FDA authorizes first wearable device that monitors ketone and blood sugar levels,129,84
+2026-08-25T21:35:43.447928+00:00,49433292,2,Apple introduces M6 and M5 Ultra,842,769
+2026-08-25T21:35:43.447928+00:00,49434378,3,OpenAI Jalapeño: Better than Nvidia Blackwell,196,134
+2026-08-25T21:35:43.447928+00:00,49433316,4,New Mac Studio with M5 Max and M5 Ultra,650,396
+2026-08-25T21:35:43.447928+00:00,49437210,5,Black hole singularity is a surface not a point,139,89
+2026-08-25T21:35:43.447928+00:00,49435675,6,Show HN: I made a Raspberry with Qwen my local car AI,59,14
+2026-08-25T21:35:43.447928+00:00,49437483,7,Run OpenBSD on DigitalOcean for $4/month,87,35
+2026-08-25T21:35:43.447928+00:00,49433450,8,"New Mac mini, featuring M6 and M5 Pro",381,212
+2026-08-25T21:35:43.447928+00:00,49439499,9,C2PA Cameras Do Not Survive Contact with Reality,15,4
+2026-08-25T21:35:43.447928+00:00,49434820,10,Bomb fishing is wreaking havoc on Indonesia's coral reefs,220,121
+2026-08-25T21:35:43.447928+00:00,49438052,11,Dolly Parton has died,900,131
+2026-08-25T21:35:43.447928+00:00,49437283,12,Nitter project received cease and desist,387,268
+2026-08-25T21:35:43.447928+00:00,49437049,13,Show HN: LatticeDB – Like SQLite but for graph databases,72,25
+2026-08-25T21:35:43.447928+00:00,49434645,15,"Building a backyard office, the build and cost breakdown",211,158
+2026-08-25T21:35:43.447928+00:00,49437069,16,My Friend Aaron,341,88
+2026-08-25T21:35:43.447928+00:00,49437946,17,Firefox 157 will include JPEG XL by default on all platforms,192,33
+2026-08-25T21:35:43.447928+00:00,49436786,18,"Tooltips need a delay, and then they need to skip it",80,17
+2026-08-25T21:35:43.447928+00:00,49440410,19,When str.lower() is a security vulnerability in Python – Seth Larson,7,0
+2026-08-25T21:35:43.447928+00:00,49432319,20,Don't Wordle,269,110
+2026-08-25T21:35:43.447928+00:00,49436822,21,"Starbase, LA",169,240
+2026-08-25T21:35:43.447928+00:00,49435641,22,Behaviorally fingerprinting Ox Alpha's provenance,19,8
+2026-08-25T21:35:43.447928+00:00,49437165,23,A new ceiling for Λ: the de Bruijn–Newman constant,42,13
+2026-08-25T21:35:43.447928+00:00,49423045,24,Tracking Costco gas prices,50,47
+2026-08-25T21:35:43.447928+00:00,49436706,25,Fuzzing the Gleam Compiler,38,3
+2026-08-25T21:35:43.447928+00:00,49423878,26,Visualizing Binary Files,55,14
+2026-08-25T21:35:43.447928+00:00,49437361,27,Show HN: Lightweight system monitor for Linux VPS written in Go,32,12
+2026-08-25T21:35:43.447928+00:00,49435781,28,Warnock: Harnessing GPU geometry amplification for vector graphics,35,2
+2026-08-25T21:35:43.447928+00:00,49432786,29,Solving the 1+N Query Problem,46,38
+2026-08-25T21:35:43.447928+00:00,49435495,30,"Otto Dix, Nietzsche, and the Great War (2019)",36,22
+2026-08-25T21:35:43.447928+00:00,49410814,31,Show HN: I wrote a BASIC interpreter that boots on UEFI machines,119,36
+2026-08-25T21:35:43.447928+00:00,49432227,32,HelloAssembly: The smallest possible complete Windows application (2021),76,44
+2026-08-25T21:35:43.447928+00:00,49428638,33,SiFive's First Server Platform,128,40
+2026-08-25T21:35:43.447928+00:00,49432317,34,Qwen 3.8-Flash-Next releasing tomorrow (125B a6B),296,131
+2026-08-25T21:35:43.447928+00:00,49411800,35,Training AI to Paint with Code,190,23
+2026-08-25T21:35:43.447928+00:00,49439489,36,OpenAI's Head of Data Centers Has Left the Company,21,7
+2026-08-25T21:35:43.447928+00:00,49430007,37,"Windows 95 released August 24, 1995",105,74
+2026-08-25T21:35:43.447928+00:00,49428121,38,How Universities Should Prepare Founders,230,278
+2026-08-25T21:35:43.447928+00:00,49419252,39,What's new in Emacs 31.1,322,97
+2026-08-25T21:35:43.447928+00:00,49422784,40,The entire city of San Francisco as a video game,584,167
+2026-08-25T21:35:43.447928+00:00,49435728,41,How much of HN is AI?,231,251
+2026-08-25T21:35:43.447928+00:00,49434709,42,Servus München: Waymo Is Coming to Germany,27,2
+2026-08-25T21:35:43.447928+00:00,49426466,43,Moon (2024),256,40
+2026-08-25T21:35:43.447928+00:00,49440739,44,Grokipedia Stopped Reviewing Edits in April. It Didn't Tell Anyone,3,0
+2026-08-25T21:35:43.447928+00:00,49440699,45,Treasury bonds are becoming less special,5,0
+2026-08-25T21:35:43.447928+00:00,49422800,46,Where did all the public bathrooms go?,334,765
+2026-08-25T21:35:43.447928+00:00,49427001,47,Bookshelf – Self-hosted eBook library that runs on object storage,162,61
+2026-08-25T21:35:43.447928+00:00,49421158,48,MS Paint and Photos inivisibly watermark even locally generated output with GUID,836,421
+2026-08-25T21:35:43.447928+00:00,49438661,49,Dolly Parton Has Died,82,7
+2026-08-25T21:35:43.447928+00:00,49420873,50,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",975,706
