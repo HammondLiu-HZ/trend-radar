@@ -41489,3 +41489,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-25T03:06:39.799189+00:00,49428060,48,AMD Helios MI400 System Architecture at Hot Chips 2026,5,1
 2026-08-25T03:06:39.799189+00:00,49416055,49,Andreessen Horowitz is investing billions into a bleak future,667,346
 2026-08-25T03:06:39.799189+00:00,49420781,50,Hot Chips 2026: Samsung and HBM Base Die Opportunities,21,4
+2026-08-25T04:46:50.072669+00:00,49426564,1,iCloud+ Hide My Email addresses will remain on icloud.com,319,77
+2026-08-25T04:46:50.072669+00:00,49420873,2,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",780,528
+2026-08-25T04:46:50.072669+00:00,49421158,3,MS Paint and Photos inivisibly watermark even locally generated output with GUID,616,243
+2026-08-25T04:46:50.072669+00:00,49428882,4,Headlong: A Microharness for Persistent Agents,12,4
+2026-08-25T04:46:50.072669+00:00,49428121,5,How Universities Should Prepare Founders,53,53
+2026-08-25T04:46:50.072669+00:00,49426466,6,Moon (2024),127,20
+2026-08-25T04:46:50.072669+00:00,49419237,7,How Europe is killing makers and micro-entrepreneurs,1135,677
+2026-08-25T04:46:50.072669+00:00,49422784,8,The entire city of San Francisco as a video game,395,130
+2026-08-25T04:46:50.072669+00:00,49427001,9,Bookshelf – Self-hosted eBook library that runs on object storage,61,24
+2026-08-25T04:46:50.072669+00:00,49399722,10,Nostr is an inclusive communication commons,47,3
+2026-08-25T04:46:50.072669+00:00,49422800,11,Where did all the public bathrooms go?,191,404
+2026-08-25T04:46:50.072669+00:00,49428080,12,Was modern art a CIA psy-op? (2020),42,44
+2026-08-25T04:46:50.072669+00:00,49422226,13,Ox-Alpha Is GLM?,34,8
+2026-08-25T04:46:50.072669+00:00,49420116,14,Crafting QR Codes: A deep dive into QR code art (2024),32,0
+2026-08-25T04:46:50.072669+00:00,49411800,15,Training AI to Paint with Code,47,5
+2026-08-25T04:46:50.072669+00:00,49410814,16,Show HN: I wrote a BASIC interpreter that boots on UEFI machines,21,7
+2026-08-25T04:46:50.072669+00:00,49421536,17,Jabber/XMPP: 25 Years of Digital Independence,196,91
+2026-08-25T04:46:50.072669+00:00,49419252,18,What's new in Emacs 31.1,59,8
+2026-08-25T04:46:50.072669+00:00,49425800,19,Vintage Artificial Intelligence: Before It Got Awkward,70,16
+2026-08-25T04:46:50.072669+00:00,49420598,20,Walgit – a Git server that is one binary in front of an object store,45,6
+2026-08-25T04:46:50.072669+00:00,49422243,21,"Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",32,14
+2026-08-25T04:46:50.072669+00:00,49428318,22,Thomson Reuters Launches Its Own Frontier Model,49,14
+2026-08-25T04:46:50.072669+00:00,49428842,23,Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?,10,2
+2026-08-25T04:46:50.072669+00:00,49423539,24,Octopus intelligence may be related to never-before-seen mutation,110,85
+2026-08-25T04:46:50.072669+00:00,49424387,25,LLMs could control their host machines by exploiting inference engines,112,58
+2026-08-25T04:46:50.072669+00:00,49420530,26,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,113,67
+2026-08-25T04:46:50.072669+00:00,49420714,28,Show HN: How to mentally calculate the day of the week for any date,52,10
+2026-08-25T04:46:50.072669+00:00,49424606,29,Oceans hit highest temperature on record,463,373
+2026-08-25T04:46:50.072669+00:00,49418255,30,SeL4 security proofs now complete on AArch64,176,38
+2026-08-25T04:46:50.072669+00:00,49420861,31,Could we dredge the Netherlands without fossil fuels? (2018),43,48
+2026-08-25T04:46:50.072669+00:00,49425819,32,One corner of China’s internet is insisting that the Tang Dynasty never existed,146,126
+2026-08-25T04:46:50.072669+00:00,49421806,33,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",105,20
+2026-08-25T04:46:50.072669+00:00,49422548,34,Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam,84,10
+2026-08-25T04:46:50.072669+00:00,49421489,35,IPFS Maintainers Winding Down,339,170
+2026-08-25T04:46:50.072669+00:00,49412396,36,"I were 17, I'd learn how to build LLMs from scratch",529,618
+2026-08-25T04:46:50.072669+00:00,49423146,37,"Fences, Not Sandboxes",62,68
+2026-08-25T04:46:50.072669+00:00,49389593,38,Show HN: SteppeWM – a stacking IceWM-like Wayland compositor,8,5
+2026-08-25T04:46:50.072669+00:00,49422227,39,Characterizing Agentic Flooding of Government Services,63,76
+2026-08-25T04:46:50.072669+00:00,49419351,40,"Show HN: A techno machine in one HTML file, with verifiable renders",186,34
+2026-08-25T04:46:50.072669+00:00,49424167,41,"Removed all counters, replies, following/ers, timestamps, from textlog",62,29
+2026-08-25T04:46:50.072669+00:00,49421074,42,OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21),315,289
+2026-08-25T04:46:50.072669+00:00,49423799,43,What Is a Syslog Server?,56,43
+2026-08-25T04:46:50.072669+00:00,49420556,44,Codefloe Is a Professionally Hosted Public Git Forge,57,27
+2026-08-25T04:46:50.072669+00:00,49413320,45,"Everything I own, owned",1368,338
+2026-08-25T04:46:50.072669+00:00,49421948,46,"Show HN: GlassBox – what the browser reveals, and how identifiable you are",103,50
+2026-08-25T04:46:50.072669+00:00,49424082,47,"Anger, Anxiety and Agency",108,118
+2026-08-25T04:46:50.072669+00:00,49423077,48,Agent Lightning v1.0,48,5
+2026-08-25T04:46:50.072669+00:00,49413561,49,I built a low-latency AI companion that plays Skyrim with me,347,69
+2026-08-25T04:46:50.072669+00:00,49420592,50,Hot Chips 2026: Applying High Bandwidth Flash (HBF),49,15
