@@ -41881,3 +41881,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-25T11:34:58.254511+00:00,49428318,48,Thomson Reuters Launches Its Own Frontier Model,120,52
 2026-08-25T11:34:58.254511+00:00,49420556,49,Codefloe Is a Professionally Hosted Public Git Forge,62,29
 2026-08-25T11:34:58.254511+00:00,49421948,50,"Show HN: GlassBox – what the browser reveals, and how identifiable you are",116,53
+2026-08-25T13:01:18.775925+00:00,49432319,1,Don't Wordle,67,24
+2026-08-25T13:01:18.775925+00:00,49433064,2,France's tax agency got hacked (in French),16,2
+2026-08-25T13:01:18.775925+00:00,49432227,3,HelloAssembly The smallest possible complete Windows application,17,12
+2026-08-25T13:01:18.775925+00:00,49426564,4,iCloud+ Hide My Email addresses will remain on icloud.com,517,157
+2026-08-25T13:01:18.775925+00:00,49421158,5,MS Paint and Photos inivisibly watermark even locally generated output with GUID,762,374
+2026-08-25T13:01:18.775925+00:00,49420873,6,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",917,656
+2026-08-25T13:01:18.775925+00:00,49428121,7,How Universities Should Prepare Founders,170,200
+2026-08-25T13:01:18.775925+00:00,49428638,8,SiFive's First Server Platform,81,22
+2026-08-25T13:01:18.775925+00:00,49419237,9,How Europe is killing makers and micro-entrepreneurs,1470,923
+2026-08-25T13:01:18.775925+00:00,49422784,10,The entire city of San Francisco as a video game,521,151
+2026-08-25T13:01:18.775925+00:00,49426466,11,Moon (2024),219,38
+2026-08-25T13:01:18.775925+00:00,49419252,12,What's new in Emacs 31.1,192,43
+2026-08-25T13:01:18.775925+00:00,49427001,13,Bookshelf – Self-hosted eBook library that runs on object storage,124,47
+2026-08-25T13:01:18.775925+00:00,49428882,14,Headlong: A Microharness for Persistent Agents,90,36
+2026-08-25T13:01:18.775925+00:00,49422800,15,Where did all the public bathrooms go?,279,597
+2026-08-25T13:01:18.775925+00:00,49425800,16,Vintage Artificial Intelligence: Before It Got Awkward,122,23
+2026-08-25T13:01:18.775925+00:00,49420530,17,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,186,87
+2026-08-25T13:01:18.775925+00:00,49420598,18,Walgit – a Git server that is one binary in front of an object store,118,36
+2026-08-25T13:01:18.775925+00:00,49411800,19,Training AI to Paint with Code,129,15
+2026-08-25T13:01:18.775925+00:00,49432879,20,OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users,6,1
+2026-08-25T13:01:18.775925+00:00,49410814,21,Show HN: I wrote a BASIC interpreter that boots on UEFI machines,83,29
+2026-08-25T13:01:18.775925+00:00,49421536,22,Jabber/XMPP: 25 Years of Digital Independence,244,143
+2026-08-25T13:01:18.775925+00:00,49420116,23,Crafting QR Codes: A deep dive into QR code art (2024),102,10
+2026-08-25T13:01:18.775925+00:00,49428080,24,Was modern art a CIA psy-op? (2020),107,185
+2026-08-25T13:01:18.775925+00:00,49431560,25,Quantum battery upends the rules of charging,44,50
+2026-08-25T13:01:18.775925+00:00,49399722,26,Nostr is an inclusive communication commons,171,116
+2026-08-25T13:01:18.775925+00:00,49432201,27,Credit Card Rewards Became a $9.2B Wealth Transfer,103,178
+2026-08-25T13:01:18.775925+00:00,49424387,28,LLMs could control their host machines by exploiting inference engines,165,80
+2026-08-25T13:01:18.775925+00:00,49412396,29,"I were 17, I'd learn how to build LLMs from scratch",566,645
+2026-08-25T13:01:18.775925+00:00,49418255,31,SeL4 security proofs now complete on AArch64,192,48
+2026-08-25T13:01:18.775925+00:00,49424606,32,Oceans hit highest temperature on record,628,489
+2026-08-25T13:01:18.775925+00:00,49423539,33,Octopus intelligence may be related to never-before-seen mutation,181,137
+2026-08-25T13:01:18.775925+00:00,49422548,34,Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam,91,11
+2026-08-25T13:01:18.775925+00:00,49413320,35,"Everything I own, owned",1391,339
+2026-08-25T13:01:18.775925+00:00,49424167,36,"Removed all counters, replies, following/ers, timestamps, from textlog",74,33
+2026-08-25T13:01:18.775925+00:00,49420861,37,Could we dredge the Netherlands without fossil fuels? (2018),52,59
+2026-08-25T13:01:18.775925+00:00,49422227,38,Characterizing Agentic Flooding of Government Services,71,80
+2026-08-25T13:01:18.775925+00:00,49421806,39,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",138,24
+2026-08-25T13:01:18.775925+00:00,49429095,40,"Show HN: Screen memory without screenshots, just text to Markdown",56,22
+2026-08-25T13:01:18.775925+00:00,49419351,41,"Show HN: A techno machine in one HTML file, with verifiable renders",207,38
+2026-08-25T13:01:18.775925+00:00,49423146,42,"Fences, Not Sandboxes",73,81
+2026-08-25T13:01:18.775925+00:00,49428972,43,Volcanoes that made history,13,3
+2026-08-25T13:01:18.775925+00:00,49413561,44,I built a low-latency AI companion that plays Skyrim with me,367,73
+2026-08-25T13:01:18.775925+00:00,49430007,45,"Windows 95 released August 24, 1995",6,0
+2026-08-25T13:01:18.775925+00:00,49429914,46,Hot Chips 2026: Intel's Diamond Rapids,6,0
+2026-08-25T13:01:18.775925+00:00,49421489,47,IPFS Maintainers Winding Down,350,189
+2026-08-25T13:01:18.775925+00:00,49422243,48,"Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",54,19
+2026-08-25T13:01:18.775925+00:00,49431364,49,Why some US restaurants are banning tips,159,308
+2026-08-25T13:01:18.775925+00:00,49425819,50,One corner of China’s internet is insisting that the Tang Dynasty never existed,169,153
