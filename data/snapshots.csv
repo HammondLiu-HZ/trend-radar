@@ -42371,3 +42371,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-25T22:34:55.707053+00:00,49440699,48,Treasury bonds are becoming less special,10,1
 2026-08-25T22:34:55.707053+00:00,49426466,49,Moon (2024),257,40
 2026-08-25T22:34:55.707053+00:00,49435728,50,How much of HN is AI?,239,274
+2026-08-25T23:30:53.068989+00:00,49439017,1,FDA authorizes first wearable device that monitors ketone and blood sugar levels,207,125
+2026-08-25T23:30:53.068989+00:00,49441033,2,Python's pre-declared constants are kinda weird,86,28
+2026-08-25T23:30:53.068989+00:00,49433292,3,Apple introduces M6 and M5 Ultra,902,856
+2026-08-25T23:30:53.068989+00:00,49434378,4,OpenAI Jalapeño: Better than Nvidia Blackwell,270,187
+2026-08-25T23:30:53.068989+00:00,49433316,5,New Mac Studio with M5 Max and M5 Ultra,680,417
+2026-08-25T23:30:53.068989+00:00,49441375,6,"Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",21,3
+2026-08-25T23:30:53.068989+00:00,49437210,7,Black hole singularity is a surface not a point,162,119
+2026-08-25T23:30:53.068989+00:00,49439499,8,C2PA Cameras Do Not Survive Contact with Reality,57,19
+2026-08-25T23:30:53.068989+00:00,49440410,9,When str.lower() is a security vulnerability in Python – Seth Larson,34,21
+2026-08-25T23:30:53.068989+00:00,49435675,10,Show HN: I made a Raspberry with Qwen my local car AI,81,15
+2026-08-25T23:30:53.068989+00:00,49440786,11,"XCancel also down, at least for time being",125,30
+2026-08-25T23:30:53.068989+00:00,49433450,12,"New Mac mini, featuring M6 and M5 Pro",407,236
+2026-08-25T23:30:53.068989+00:00,49437283,13,Nitter project received cease and desist,541,374
+2026-08-25T23:30:53.068989+00:00,49434820,14,Bomb fishing is wreaking havoc on Indonesia's coral reefs,243,133
+2026-08-25T23:30:53.068989+00:00,49438052,15,Dolly Parton has died,1081,163
+2026-08-25T23:30:53.068989+00:00,49437483,16,Run OpenBSD on DigitalOcean for $4/month,105,46
+2026-08-25T23:30:53.068989+00:00,49434645,17,"Building a backyard office, the build and cost breakdown",242,178
+2026-08-25T23:30:53.068989+00:00,49439296,19,A brief history of federal lift ticket regulation,14,0
+2026-08-25T23:30:53.068989+00:00,49437049,20,Show HN: LatticeDB – Like SQLite but for graph databases,93,30
+2026-08-25T23:30:53.068989+00:00,49437069,21,My Friend Aaron,400,106
+2026-08-25T23:30:53.068989+00:00,49432319,22,Don't Wordle,291,112
+2026-08-25T23:30:53.068989+00:00,49436786,23,"Tooltips need a delay, and then they need to skip it",99,19
+2026-08-25T23:30:53.068989+00:00,49423045,24,Tracking Costco gas prices,64,67
+2026-08-25T23:30:53.068989+00:00,49437946,25,Firefox 157 will include JPEG XL by default on all platforms,239,54
+2026-08-25T23:30:53.068989+00:00,49436822,26,"Starbase, LA",198,357
+2026-08-25T23:30:53.068989+00:00,49430259,27,Show HN: I built self-hosted deployment automation tool for Windows and IIS,9,3
+2026-08-25T23:30:53.068989+00:00,49441781,28,More Fucked Today Than Yesterday,21,1
+2026-08-25T23:30:53.068989+00:00,49423878,29,Visualizing Binary Files,71,15
+2026-08-25T23:30:53.068989+00:00,49436706,30,Fuzzing the Gleam Compiler,52,4
+2026-08-25T23:30:53.068989+00:00,49437165,31,A new ceiling for Λ: the de Bruijn–Newman constant,46,19
+2026-08-25T23:30:53.068989+00:00,49435641,32,Behaviorally fingerprinting Ox Alpha's provenance,26,14
+2026-08-25T23:30:53.068989+00:00,49441297,33,Category Theory for Kids,4,1
+2026-08-25T23:30:53.068989+00:00,49437361,34,Show HN: Lightweight system monitor for Linux VPS written in Go,44,14
+2026-08-25T23:30:53.068989+00:00,49435781,35,Warnock: Harnessing GPU geometry amplification for vector graphics,37,2
+2026-08-25T23:30:53.068989+00:00,49410814,36,Show HN: I wrote a BASIC interpreter that boots on UEFI machines,122,38
+2026-08-25T23:30:53.068989+00:00,49428638,37,SiFive's First Server Platform,129,40
+2026-08-25T23:30:53.068989+00:00,49432227,38,HelloAssembly: The smallest possible complete Windows application (2021),81,46
+2026-08-25T23:30:53.068989+00:00,49435495,39,"Otto Dix, Nietzsche, and the Great War (2019)",36,24
+2026-08-25T23:30:53.068989+00:00,49434709,40,Servus München: Waymo Is Coming to Germany,36,2
+2026-08-25T23:30:53.068989+00:00,49440770,41,The service XCancel is stopped until further notice,27,12
+2026-08-25T23:30:53.068989+00:00,49411800,42,Training AI to Paint with Code,193,23
+2026-08-25T23:30:53.068989+00:00,49432317,43,Qwen 3.8-Flash-Next releasing tomorrow (125B a6B),310,134
+2026-08-25T23:30:53.068989+00:00,49428121,44,How Universities Should Prepare Founders,232,282
+2026-08-25T23:30:53.068989+00:00,49419252,45,What's new in Emacs 31.1,324,100
+2026-08-25T23:30:53.068989+00:00,49440102,46,Cross-vendor byte-identical inference for a 72B LLM (AMD MI300X vs. Nvidia H100),3,0
+2026-08-25T23:30:53.068989+00:00,49441101,47,"One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",14,3
+2026-08-25T23:30:53.068989+00:00,49426466,48,Moon (2024),258,40
+2026-08-25T23:30:53.068989+00:00,49439943,49,Memory Ordering in CPUs,3,0
+2026-08-25T23:30:53.068989+00:00,49432786,50,Solving the 1+N Query Problem,49,45
