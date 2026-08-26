@@ -42910,3 +42910,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-26T13:06:10.368477+00:00,49444514,48,More than half of adults in U.S. say they lack basic statistical understanding,119,181
 2026-08-26T13:06:10.368477+00:00,49411800,49,Training AI to Paint with Code,211,26
 2026-08-26T13:06:10.368477+00:00,49436706,50,Fuzzing the Gleam Compiler,69,9
+2026-08-26T14:51:43.863281+00:00,49448321,1,AWS Acquires DuckDB,436,98
+2026-08-26T14:51:43.863281+00:00,49449507,2,GLM-5.3-Flash,166,49
+2026-08-26T14:51:43.863281+00:00,49448210,3,"Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",241,78
+2026-08-26T14:51:43.863281+00:00,49445727,4,RAG Is Simpler Than You Think,267,112
+2026-08-26T14:51:43.863281+00:00,49448150,5,A curmudgeon tries a language server,38,15
+2026-08-26T14:51:43.863281+00:00,49445873,6,Oldinsurancemaps.net is now a Charter Project,124,21
+2026-08-26T14:51:43.863281+00:00,49448819,7,Meta reaches $16.68B settlement over social media harms to children,189,139
+2026-08-26T14:51:43.863281+00:00,49449082,8,AI Is a Harsh Mistress,7,0
+2026-08-26T14:51:43.863281+00:00,49446422,9,Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights,320,118
+2026-08-26T14:51:43.863281+00:00,49449576,10,Twitter Viewer – View Twitter Without Account,27,7
+2026-08-26T14:51:43.863281+00:00,49433292,11,Apple introduces M6 and M5 Ultra,1252,1194
+2026-08-26T14:51:43.863281+00:00,49446442,13,Beyond Recall and the Illusion of Competence,58,18
+2026-08-26T14:51:43.863281+00:00,49395802,14,Stalking the Wily Hacker: 40 years later – Cliff Stoll [video],184,53
+2026-08-26T14:51:43.863281+00:00,49448560,15,Wiped out: US faces surging toilet paper prices amid trade war with Canada,43,22
+2026-08-26T14:51:43.863281+00:00,49439017,16,FDA authorizes first wearable device that monitors ketone and blood sugar levels,466,214
+2026-08-26T14:51:43.863281+00:00,49445884,17,Value Classes Still Need Compiler Sympathy,61,24
+2026-08-26T14:51:43.863281+00:00,49442589,18,Queryable Executables,268,74
+2026-08-26T14:51:43.863281+00:00,49434378,19,OpenAI Jalapeño: Better than Nvidia Blackwell,551,348
+2026-08-26T14:51:43.863281+00:00,49433316,20,New Mac Studio with M5 Max and M5 Ultra,804,535
+2026-08-26T14:51:43.863281+00:00,49444232,21,Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War,68,18
+2026-08-26T14:51:43.863281+00:00,49437210,22,Black hole singularity is a surface not a point,288,198
+2026-08-26T14:51:43.863281+00:00,49433450,23,"New Mac mini, featuring M6 and M5 Pro",525,326
+2026-08-26T14:51:43.863281+00:00,49447724,24,LibreOffice 26.8 Released with Many Nice Improvements,22,1
+2026-08-26T14:51:43.863281+00:00,49441666,25,"Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",104,63
+2026-08-26T14:51:43.863281+00:00,49445286,26,Show HN: Buslens – where can I get to by bus? (UK),70,48
+2026-08-26T14:51:43.863281+00:00,49440410,27,When str.lower() is a security vulnerability in Python,163,69
+2026-08-26T14:51:43.863281+00:00,49434645,28,"Building a backyard office, the build and cost breakdown",398,246
+2026-08-26T14:51:43.863281+00:00,49437283,29,Nitter and XCancel receive cease and desist notices,1083,912
+2026-08-26T14:51:43.863281+00:00,49450073,30,Who Makes Your Supplements?,3,0
+2026-08-26T14:51:43.863281+00:00,49446984,31,"Radiation link in flight attendant's breast cancer, French court finds",7,0
+2026-08-26T14:51:43.863281+00:00,49436786,32,"Tooltips need a delay, and then they need to skip it",215,75
+2026-08-26T14:51:43.863281+00:00,49437483,33,Run OpenBSD on DigitalOcean for $4/month,196,89
+2026-08-26T14:51:43.863281+00:00,49434820,34,Bomb fishing is wreaking havoc on Indonesia's coral reefs,343,189
+2026-08-26T14:51:43.863281+00:00,49432319,35,Don't Wordle,372,127
+2026-08-26T14:51:43.863281+00:00,49432201,36,How credit card rewards became a $9.2B wealth transfer,225,380
+2026-08-26T14:51:43.863281+00:00,49446748,37,U.S. gov't moves to suppress pushback on data centers,136,114
+2026-08-26T14:51:43.863281+00:00,49437049,38,Show HN: LatticeDB – Like SQLite but for graph databases,168,45
+2026-08-26T14:51:43.863281+00:00,49447222,39,"Apple Maps Ads Are Here, and There's No Way to Turn Them Off",25,8
+2026-08-26T14:51:43.863281+00:00,49441375,40,"Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",108,26
+2026-08-26T14:51:43.863281+00:00,49448756,41,Meta agrees to settle social media addiction suit with states for up to $16B,8,2
+2026-08-26T14:51:43.863281+00:00,49437069,42,My Friend Aaron,608,170
+2026-08-26T14:51:43.863281+00:00,49438052,43,Dolly Parton has died,1519,232
+2026-08-26T14:51:43.863281+00:00,49423878,44,Visualizing Binary Files,120,18
+2026-08-26T14:51:43.863281+00:00,49443523,45,Agentic Context Management: Memory and Cost as Architecture Problems,73,26
+2026-08-26T14:51:43.863281+00:00,49410814,46,Show HN: I wrote a BASIC interpreter that boots on UEFI machines,147,40
+2026-08-26T14:51:43.863281+00:00,49439499,47,C2PA Cameras Do Not Survive Contact with Reality,176,124
+2026-08-26T14:51:43.863281+00:00,49437946,48,Firefox 157 will include JPEG XL by default on all platforms,406,120
+2026-08-26T14:51:43.863281+00:00,49448967,49,Meta agrees multi-billion settlement to claims that its platforms harm children,6,1
+2026-08-26T14:51:43.863281+00:00,49428638,50,SiFive's First Server Platform,138,45
