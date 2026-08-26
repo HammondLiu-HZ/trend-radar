@@ -42665,3 +42665,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-26T07:00:27.995277+00:00,49441033,48,Python's pre-declared constants are kinda weird,167,168
 2026-08-26T07:00:27.995277+00:00,49432317,49,Qwen 3.8-Flash-Next releasing tomorrow (125B a6B),315,146
 2026-08-26T07:00:27.995277+00:00,49421158,50,MS Paint and Photos inivisibly watermark even locally generated output with GUID,844,426
+2026-08-26T08:53:30.986142+00:00,49433292,1,Apple introduces M6 and M5 Ultra,1124,1080
+2026-08-26T08:53:30.986142+00:00,49395802,2,Stalking the Wily Hacker: 40 years later – Cliff Stoll [video],83,24
+2026-08-26T08:53:30.986142+00:00,49439017,3,FDA authorizes first wearable device that monitors ketone and blood sugar levels,382,188
+2026-08-26T08:53:30.986142+00:00,49444232,4,Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War,33,9
+2026-08-26T08:53:30.986142+00:00,49442589,5,Queryable Executables,171,37
+2026-08-26T08:53:30.986142+00:00,49434378,6,OpenAI Jalapeño: Better than Nvidia Blackwell,471,302
+2026-08-26T08:53:30.986142+00:00,49433316,7,New Mac Studio with M5 Max and M5 Ultra,767,506
+2026-08-26T08:53:30.986142+00:00,49437210,8,Black hole singularity is a surface not a point,238,174
+2026-08-26T08:53:30.986142+00:00,49441666,9,"Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",78,44
+2026-08-26T08:53:30.986142+00:00,49433450,10,"New Mac mini, featuring M6 and M5 Pro",492,302
+2026-08-26T08:53:30.986142+00:00,49440410,11,When str.lower() is a security vulnerability in Python,118,48
+2026-08-26T08:53:30.986142+00:00,49443523,12,Agentic Context Management: Memory and Cost as Architecture Problems,50,16
+2026-08-26T08:53:30.986142+00:00,49439499,13,C2PA Cameras Do Not Survive Contact with Reality,147,87
+2026-08-26T08:53:30.986142+00:00,49445252,14,Disrupting a new covert influence campaign from Russia,31,10
+2026-08-26T08:53:30.986142+00:00,49437283,15,Nitter and XCancel receive cease and desist notices,902,748
+2026-08-26T08:53:30.986142+00:00,49434645,16,"Building a backyard office, the build and cost breakdown",340,212
+2026-08-26T08:53:30.986142+00:00,49444514,17,More than half of adults in U.S. say they lack basic statistical understanding,80,114
+2026-08-26T08:53:30.986142+00:00,49436786,18,"Tooltips need a delay, and then they need to skip it",172,45
+2026-08-26T08:53:30.986142+00:00,49434820,19,Bomb fishing is wreaking havoc on Indonesia's coral reefs,314,162
+2026-08-26T08:53:30.986142+00:00,49437483,20,Run OpenBSD on DigitalOcean for $4/month,162,73
+2026-08-26T08:53:30.986142+00:00,49432319,21,Don't Wordle,348,121
+2026-08-26T08:53:30.986142+00:00,49437049,22,Show HN: LatticeDB – Like SQLite but for graph databases,152,39
+2026-08-26T08:53:30.986142+00:00,49435675,23,Show HN: I made a Raspberry with Qwen my local car AI,135,39
+2026-08-26T08:53:30.986142+00:00,49432201,24,How credit card rewards became a $9.2B wealth transfer,170,315
+2026-08-26T08:53:30.986142+00:00,49438052,25,Dolly Parton has died,1448,222
+2026-08-26T08:53:30.986142+00:00,49437069,26,My Friend Aaron,552,149
+2026-08-26T08:53:30.986142+00:00,49441375,27,"Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",92,20
+2026-08-26T08:53:30.986142+00:00,49437946,28,Firefox 157 will include JPEG XL by default on all platforms,374,94
+2026-08-26T08:53:30.986142+00:00,49423878,29,Visualizing Binary Files,115,18
+2026-08-26T08:53:30.986142+00:00,49445362,30,"US removes Syria from terrorism sponsor list, lifting major investment obstacle",8,2
+2026-08-26T08:53:30.986142+00:00,49439296,31,A brief history of federal lift ticket regulation,63,11
+2026-08-26T08:53:30.986142+00:00,49444863,33,I miss the old Claude Code,22,4
+2026-08-26T08:53:30.986142+00:00,49423045,34,Tracking Costco gas prices,115,102
+2026-08-26T08:53:30.986142+00:00,49410814,35,Show HN: I wrote a BASIC interpreter that boots on UEFI machines,139,39
+2026-08-26T08:53:30.986142+00:00,49436706,36,Fuzzing the Gleam Compiler,65,8
+2026-08-26T08:53:30.986142+00:00,49428638,37,SiFive's First Server Platform,135,41
+2026-08-26T08:53:30.986142+00:00,49411800,38,Training AI to Paint with Code,207,24
+2026-08-26T08:53:30.986142+00:00,49443040,39,Hot Chips 2026: Fujitsu's Monaka CPU,8,0
+2026-08-26T08:53:30.986142+00:00,49430259,40,Show HN: I built self-hosted deployment automation tool for Windows and IIS,29,18
+2026-08-26T08:53:30.986142+00:00,49441866,41,I think the data center backlash is mostly about data centers,17,11
+2026-08-26T08:53:30.986142+00:00,49419252,42,What's new in Emacs 31.1,330,107
+2026-08-26T08:53:30.986142+00:00,49437361,43,Show HN: Lightweight system monitor for Linux VPS written in Go,57,17
+2026-08-26T08:53:30.986142+00:00,49441101,44,"One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",31,15
+2026-08-26T08:53:30.986142+00:00,49435781,45,Warnock: Harnessing GPU geometry amplification for vector graphics,42,4
+2026-08-26T08:53:30.986142+00:00,49432227,46,HelloAssembly: The smallest possible complete Windows application (2021),87,46
+2026-08-26T08:53:30.986142+00:00,49434709,47,Servus München: Waymo Is Coming to Germany,50,10
+2026-08-26T08:53:30.986142+00:00,49439220,48,BSDnas – fork that continues TrueNAS CORE on current FreeBSD,19,1
+2026-08-26T08:53:30.986142+00:00,49442223,49,The Qualcomm Oryon CPU is the first mobile CPU to reach 5GHz,13,3
+2026-08-26T08:53:30.986142+00:00,49439943,50,Memory Ordering in CPUs,13,2
