@@ -43155,3 +43155,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-27T08:56:09.475772+00:00,49442589,48,Queryable Executables,320,82
 2026-08-27T08:56:09.475772+00:00,49459861,49,"1,000 missing after catastrophic floods caused by a glacial collapse",22,2
 2026-08-27T08:56:09.475772+00:00,49446984,50,"Radiation link in flight attendant's breast cancer, French court finds",90,47
+2026-08-27T19:47:48.047947+00:00,49468083,1,Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache,219,53
+2026-08-27T19:47:48.047947+00:00,49466917,2,Small Models Have Arrived,232,102
+2026-08-27T19:47:48.047947+00:00,49465169,3,507 Mechanical Movements,361,54
+2026-08-27T19:47:48.047947+00:00,49468642,4,We found a division by zero bug in FFmpeg with a vibecoded fuzzer,53,31
+2026-08-27T19:47:48.047947+00:00,49467922,5,Gemini Omni 1.1 Flash,91,33
+2026-08-27T19:47:48.047947+00:00,49469249,6,Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force,32,10
+2026-08-27T19:47:48.047947+00:00,49469098,7,Autism mutations drive neurodevelopmental pathology,26,7
+2026-08-27T19:47:48.047947+00:00,49466006,8,Decompiling a Nintendo 64 game in 84 days,109,39
+2026-08-27T19:47:48.047947+00:00,49466894,9,"Suica, Japan's First IC Transit Card",109,83
+2026-08-27T19:47:48.047947+00:00,49462763,10,Microduck,387,150
+2026-08-27T19:47:48.047947+00:00,49468593,11,M5Stack Launches PaperMono,33,7
+2026-08-27T19:47:48.047947+00:00,49468834,13,Previewing the Model Hardware Standard,22,11
+2026-08-27T19:47:48.047947+00:00,49464543,14,Emacs 31: An unofficial guide to Markdown-ts-mode,124,51
+2026-08-27T19:47:48.047947+00:00,49457722,15,Afterglow: Run classic After Dark screen savers on modern macOS,26,5
+2026-08-27T19:47:48.047947+00:00,49447057,16,The turbulent AI era is here,97,362
+2026-08-27T19:47:48.047947+00:00,49465732,17,Launching Route 53 Files,67,26
+2026-08-27T19:47:48.047947+00:00,49466622,18,Engineered yeast for converting plastic and biomass compounds into food,36,28
+2026-08-27T19:47:48.047947+00:00,49466715,19,Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots,28,18
+2026-08-27T19:47:48.047947+00:00,49458161,20,Nvidia agrees to acquire Hugging Face for $13B,1762,820
+2026-08-27T19:47:48.047947+00:00,49461817,21,Show HN: The load-bearing vocabulary of Claude,192,98
+2026-08-27T19:47:48.047947+00:00,49448150,22,A curmudgeon tries a language server,91,57
+2026-08-27T19:47:48.047947+00:00,49466188,23,The terrifying mechanics of the Nepali flash flood,30,1
+2026-08-27T19:47:48.047947+00:00,49468816,24,Show HN: Voronoi Go,13,0
+2026-08-27T19:47:48.047947+00:00,49464896,25,Trade (and Tariffs),357,152
+2026-08-27T19:47:48.047947+00:00,49464414,26,Aphantasia Beginner's Guide,68,181
+2026-08-27T19:47:48.047947+00:00,49458875,27,Humanity has the debate about AI consciousness backwards,49,155
+2026-08-27T19:47:48.047947+00:00,49468507,28,Show HN: Yet another minimal and lightweight terminal multiplexer written in Go.,21,7
+2026-08-27T19:47:48.047947+00:00,49465291,29,Show HN: Restoredrill – proves your Postgres backups restore,33,16
+2026-08-27T19:47:48.047947+00:00,49468315,30,Two German airport workers die of malaria after 'mosquito arrives on plane',110,60
+2026-08-27T19:47:48.047947+00:00,49464637,31,CoMaps integration with the wider FLOSS ecosystem,120,22
+2026-08-27T19:47:48.047947+00:00,49466988,32,Markdown Database Pattern,18,4
+2026-08-27T19:47:48.047947+00:00,49450816,33,"Show HN: A lightweight, stateless database for agent memory",13,8
+2026-08-27T19:47:48.047947+00:00,49464314,34,"MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",84,63
+2026-08-27T19:47:48.047947+00:00,49467551,35,"Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",53,40
+2026-08-27T19:47:48.047947+00:00,49457512,36,Zohran and the Short Link,280,175
+2026-08-27T19:47:48.047947+00:00,49467699,37,Compromising Signal's Contact Discovery Enclave (SGX),8,1
+2026-08-27T19:47:48.047947+00:00,49467750,38,Flock CEO gets his house blurred out on Google Maps and Zillow,102,30
+2026-08-27T19:47:48.047947+00:00,49467554,39,Show HN: See fiber breaks linked to a map,12,2
+2026-08-27T19:47:48.047947+00:00,49464459,40,Show HN: RealDiff – runtime behavior diffing for pull requests (six languages),35,6
+2026-08-27T19:47:48.047947+00:00,49466989,41,Why HPSC Is a Big Deal for Space Exploration,21,6
+2026-08-27T19:47:48.047947+00:00,49467481,42,"CMS with AI, Not AI CMS: Wagtail 8.0's New API",15,7
+2026-08-27T19:47:48.047947+00:00,49466902,43,"The broadcast squeezeback, rebuilt with CSS Grid and WebVTT",14,8
+2026-08-27T19:47:48.047947+00:00,49465464,44,French CII's Mitra-15 in SIMH. Work in Progress,20,2
+2026-08-27T19:47:48.047947+00:00,49466016,45,"Peter Cullen, Voice of Optimus Prime in 'Transformers,' Dies at 85",87,16
+2026-08-27T19:47:48.047947+00:00,49465158,46,Tmp.0ut Volume 5,15,0
+2026-08-27T19:47:48.047947+00:00,49466512,47,Amazon now hides all customer reviews on products,49,18
+2026-08-27T19:47:48.047947+00:00,49458418,48,CEO fired developers to make room for AI. Developers create open source AI CEO,903,616
+2026-08-27T19:47:48.047947+00:00,49468286,49,Gemma 4 E2B inference in 700 lines of C,5,0
+2026-08-27T19:47:48.047947+00:00,49466250,50,Needle: The benchmark your search engine can't memorize,30,8
