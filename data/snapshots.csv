@@ -43253,3 +43253,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-28T04:11:09.402300+00:00,49454728,48,GitHub Outage Tracker: Is GitHub Cooked?,254,183
 2026-08-28T04:11:09.402300+00:00,49464637,49,CoMaps integration with the wider FLOSS ecosystem,133,31
 2026-08-28T04:11:09.402300+00:00,49449507,50,GLM-5.3-Flash,1105,557
+2026-08-28T17:18:48.074263+00:00,49478340,1,Get your Windows license refund,350,125
+2026-08-28T17:18:48.074263+00:00,49480466,2,Just the rumour of a bug is enough to find an exploit these days,66,18
+2026-08-28T17:18:48.074263+00:00,49477854,3,U.S. sanctions against the A/I Collective,217,198
+2026-08-28T17:18:48.074263+00:00,49477564,4,Inception-style curved map for turn-by-turn directions,238,81
+2026-08-28T17:18:48.074263+00:00,49478178,5,Htmx 4.0.0,123,29
+2026-08-28T17:18:48.074263+00:00,49479878,6,GLM-5.3 is now open-weight,224,81
+2026-08-28T17:18:48.074263+00:00,49479837,8,GUIs should be fully keyboard-driven,66,44
+2026-08-28T17:18:48.074263+00:00,49478401,9,State of the Map 2026,76,23
+2026-08-28T17:18:48.074263+00:00,49480220,10,How Dactyl Works,36,5
+2026-08-28T17:18:48.074263+00:00,49479302,11,The conservationists helping to restore Africa’s wild dog populations,28,10
+2026-08-28T17:18:48.074263+00:00,49472216,12,The Twelve-Factor App,84,45
+2026-08-28T17:18:48.074263+00:00,49477212,13,OpenAI: Migrating to HTTPX2,149,62
+2026-08-28T17:18:48.074263+00:00,49476143,14,Hilariously Fast Volume Computation with the Divergence Theorem (2018),198,51
+2026-08-28T17:18:48.074263+00:00,49477813,15,An investigation into the state of corvid–human relations,55,37
+2026-08-28T17:18:48.074263+00:00,49479072,16,Verschlimmbesserung: The Word Your Software Updates Need,24,7
+2026-08-28T17:18:48.074263+00:00,49477600,17,“It works better in the app”,536,347
+2026-08-28T17:18:48.074263+00:00,49479898,18,"Barrier lake continues to pose flood risk, China warns",13,1
+2026-08-28T17:18:48.074263+00:00,49477559,19,Smaller reactors bring nuclear power closer to fulfilling its promise,53,74
+2026-08-28T17:18:48.074263+00:00,49475079,20,Luanti removed from Google Play due to baseless AI copyright notice,264,77
+2026-08-28T17:18:48.074263+00:00,49441316,21,Global demand has spawned a worldwide boom in illegal sand mining (2015),7,0
+2026-08-28T17:18:48.074263+00:00,49479826,22,Don't use musl if you care about performance,24,11
+2026-08-28T17:18:48.074263+00:00,49476894,23,Show HN: SubSmith – Turn your own videos into language-learning material,54,42
+2026-08-28T17:18:48.074263+00:00,49477157,24,HTTPX2 – A next-generation HTTP client for Python,72,25
+2026-08-28T17:18:48.074263+00:00,49479924,25,EasyEffects: Essential for Enhancing Laptop Speaker Sound on Linux Distributions,6,2
+2026-08-28T17:18:48.074263+00:00,49473522,26,Judge rules Trump administration’s blacklisting of Anthropic was illegal,292,252
+2026-08-28T17:18:48.074263+00:00,49478942,27,"Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",13,2
+2026-08-28T17:18:48.074263+00:00,49478489,28,“Weird” is a weird word,31,13
+2026-08-28T17:18:48.074263+00:00,49475979,29,Interactive Warhammer 40k Galaxy Map,109,32
+2026-08-28T17:18:48.074263+00:00,49478091,30,I used AWS cognito for a startup. I wouldn't do it again,131,104
+2026-08-28T17:18:48.074263+00:00,49477925,31,Interactive pattern discovery in binaries (FF-16-TUI),25,2
+2026-08-28T17:18:48.074263+00:00,49477292,32,Bhartrhari's Paradox,34,33
+2026-08-28T17:18:48.074263+00:00,49479951,33,Run Qwen3.8 27B locally: real numbers from my Mac Studio,50,45
+2026-08-28T17:18:48.074263+00:00,49477311,34,AI Agent Has Root,37,61
+2026-08-28T17:18:48.074263+00:00,49478099,35,AutoSaddler: Automatic Harness Optimization,12,0
+2026-08-28T17:18:48.074263+00:00,49480449,36,Nvidia Insists It Can Keep Printing Money to Fund the AI Boom,20,22
+2026-08-28T17:18:48.074263+00:00,49477302,37,ALMA Reveals Long-Lived Hotspots on Betelgeuse's Bubbling Surface,30,3
+2026-08-28T17:18:48.074263+00:00,49479823,38,Superhuman Attention,9,1
+2026-08-28T17:18:48.074263+00:00,49472090,39,Doctors are finally learning to manage antidepressant withdrawal,242,308
+2026-08-28T17:18:48.074263+00:00,49478153,40,The Loss of Changelogs,10,0
+2026-08-28T17:18:48.074263+00:00,49481474,41,The teenage girls behind a $25 minimum wage fight in rural Alaska,5,0
+2026-08-28T17:18:48.074263+00:00,49474786,42,Sovereign Tech Agency invests €500k in Flatpak,242,133
+2026-08-28T17:18:48.074263+00:00,49478170,43,KHMS – a file-based long-term memory an LLM agent installs into itself,7,0
+2026-08-28T17:18:48.074263+00:00,49479862,44,Zig to remove support for wasi-libc,6,2
+2026-08-28T17:18:48.074263+00:00,49478348,45,"Autistici/Inventati case sets a new counterterrorism precedent, Irdi says",33,4
+2026-08-28T17:18:48.074263+00:00,49477682,46,A Badass Way to Connect Programs Togther What Is OSC?,7,0
+2026-08-28T17:18:48.074263+00:00,49468083,47,Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache,864,255
+2026-08-28T17:18:48.074263+00:00,49477481,48,Terry Rozier and the Teleprompt Operator,13,5
+2026-08-28T17:18:48.074263+00:00,49480741,49,Cherish your physical books and media,6,0
+2026-08-28T17:18:48.074263+00:00,49458161,50,Nvidia agrees to acquire Hugging Face for $13B,1935,895
