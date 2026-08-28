@@ -43204,3 +43204,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-27T19:47:48.047947+00:00,49458418,48,CEO fired developers to make room for AI. Developers create open source AI CEO,903,616
 2026-08-27T19:47:48.047947+00:00,49468286,49,Gemma 4 E2B inference in 700 lines of C,5,0
 2026-08-27T19:47:48.047947+00:00,49466250,50,Needle: The benchmark your search engine can't memorize,30,8
+2026-08-28T04:11:09.402300+00:00,49468083,1,Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache,597,174
+2026-08-28T04:11:09.402300+00:00,49466917,2,Small Models Have Arrived,526,237
+2026-08-28T04:11:09.402300+00:00,49472820,3,Terminal-Bench-Science: Evaluating AI agents on scientific research workflows,55,11
+2026-08-28T04:11:09.402300+00:00,49471965,4,"Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",99,21
+2026-08-28T04:11:09.402300+00:00,49465169,5,507 Mechanical Movements,510,69
+2026-08-28T04:11:09.402300+00:00,49473522,6,Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal,125,54
+2026-08-28T04:11:09.402300+00:00,49468818,8,Gemini-3.5-Transcribe,184,52
+2026-08-28T04:11:09.402300+00:00,49462763,9,Microduck,551,191
+2026-08-28T04:11:09.402300+00:00,49471407,10,Show HN: We built open OpenRouter that turns usage into a better model,133,24
+2026-08-28T04:11:09.402300+00:00,49471714,11,"AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",67,7
+2026-08-28T04:11:09.402300+00:00,49473868,12,Bootstrappable Builds: How and Why,7,0
+2026-08-28T04:11:09.402300+00:00,49472161,13,Select * from Internet.blogposts,61,22
+2026-08-28T04:11:09.402300+00:00,49447057,14,The turbulent AI era is here,240,499
+2026-08-28T04:11:09.402300+00:00,49468642,15,We found a division by zero bug in FFmpeg with a vibecoded fuzzer,195,155
+2026-08-28T04:11:09.402300+00:00,49461817,16,Show HN: The load-bearing vocabulary of Claude,394,184
+2026-08-28T04:11:09.402300+00:00,49466006,17,Decompiling a Nintendo 64 game in 84 days,197,124
+2026-08-28T04:11:09.402300+00:00,49457722,18,Afterglow: Run classic After Dark screen savers on modern macOS,113,37
+2026-08-28T04:11:09.402300+00:00,49473483,19,Stripe said to abandon $50B pursuit of PayPal,45,9
+2026-08-28T04:11:09.402300+00:00,49473536,20,USDA recalls 30k pounds of Argentine beef sold in Texas and Florida,35,12
+2026-08-28T04:11:09.402300+00:00,49468834,21,Previewing the Model Hardware Standard,95,34
+2026-08-28T04:11:09.402300+00:00,49458161,22,Nvidia agrees to acquire Hugging Face for $13B,1850,863
+2026-08-28T04:11:09.402300+00:00,49464543,23,Emacs 31: An unofficial guide to Markdown-ts-mode,157,65
+2026-08-28T04:11:09.402300+00:00,49473767,24,Show HN: IndexFlow – Open-source indexing infrastructure built with Rust,6,2
+2026-08-28T04:11:09.402300+00:00,49468593,25,M5Stack Launches PaperMono,102,42
+2026-08-28T04:11:09.402300+00:00,49466894,26,"Suica, Japan's First IC Transit Card",209,181
+2026-08-28T04:11:09.402300+00:00,49467922,27,Gemini Omni 1.1 Flash,204,148
+2026-08-28T04:11:09.402300+00:00,49468816,28,Show HN: Voronoi Go,101,13
+2026-08-28T04:11:09.402300+00:00,49466622,29,Engineered yeast for converting plastic and biomass compounds to food additives,88,64
+2026-08-28T04:11:09.402300+00:00,49466715,30,Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots,43,27
+2026-08-28T04:11:09.402300+00:00,49464314,31,"MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",123,72
+2026-08-28T04:11:09.402300+00:00,49466188,32,The mechanics of the Nepali flash flood,91,50
+2026-08-28T04:11:09.402300+00:00,49464414,33,Aphantasia Beginner's Guide,146,364
+2026-08-28T04:11:09.402300+00:00,49473629,34,Alphabet stock sheds $700B as AI bills climb,17,3
+2026-08-28T04:11:09.402300+00:00,49458875,35,Humanity has the debate about AI consciousness backwards,92,296
+2026-08-28T04:11:09.402300+00:00,49465732,36,Launching Route 53 Files,107,38
+2026-08-28T04:11:09.402300+00:00,49448150,37,A curmudgeon tries a language server,100,70
+2026-08-28T04:11:09.402300+00:00,49457512,38,Zohran and the Short Link,292,195
+2026-08-28T04:11:09.402300+00:00,49473230,39,Grand Theft Auto VI: An Extended Look [video],24,11
+2026-08-28T04:11:09.402300+00:00,49464896,40,Trade (and Tariffs),487,238
+2026-08-28T04:11:09.402300+00:00,49469098,41,Autism mutations drive neurodevelopmental pathology,89,122
+2026-08-28T04:11:09.402300+00:00,49465158,42,Tmp.0ut Volume 5,37,2
+2026-08-28T04:11:09.402300+00:00,49473184,43,"The ""I don't know, Claude wrote this"" pandemic",10,1
+2026-08-28T04:11:09.402300+00:00,49450816,44,"Show HN: A lightweight, stateless database for agent memory",27,10
+2026-08-28T04:11:09.402300+00:00,49458418,45,CEO fired developers to make room for AI. Developers create open source AI CEO,950,651
+2026-08-28T04:11:09.402300+00:00,49451313,46,The turbulent AI era is here,351,360
+2026-08-28T04:11:09.402300+00:00,49465291,47,Show HN: Restoredrill – proves your Postgres backups restore,44,21
+2026-08-28T04:11:09.402300+00:00,49454728,48,GitHub Outage Tracker: Is GitHub Cooked?,254,183
+2026-08-28T04:11:09.402300+00:00,49464637,49,CoMaps integration with the wider FLOSS ecosystem,133,31
+2026-08-28T04:11:09.402300+00:00,49449507,50,GLM-5.3-Flash,1105,557
