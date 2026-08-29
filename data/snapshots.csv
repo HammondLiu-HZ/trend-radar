@@ -43498,3 +43498,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-29T18:19:09.709795+00:00,49481455,48,Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment,115,37
 2026-08-29T18:19:09.709795+00:00,49428343,49,"Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",36,8
 2026-08-29T18:19:09.709795+00:00,49485452,50,9th Circuit sides with states in Kalshi gambling fight,159,145
+2026-08-29T21:38:18.632309+00:00,49492632,1,Tencent Releases and Open-Sources Tencent Hy4 Preview,69,25
+2026-08-29T21:38:18.632309+00:00,49492067,2,vLLM v0.28.0,48,16
+2026-08-29T21:38:18.632309+00:00,49415386,3,"Tether: iMessage, SMS, etc. on Linux",231,104
+2026-08-29T21:38:18.632309+00:00,49491714,4,Calibrate Before You Accelerate: Bias Toward Action in a New Role,64,21
+2026-08-29T21:38:18.632309+00:00,49492184,5,LLMs are making me lose my savviness,33,36
+2026-08-29T21:38:18.632309+00:00,49482833,6,Nancy Grace Roman Space Telescope Launches this Sunday,18,1
+2026-08-29T21:38:18.632309+00:00,49492219,7,"DHS is using obscure law to snoop on journalists, non-profits, unions",186,24
+2026-08-29T21:38:18.632309+00:00,49493244,8,What we want is a hunter gatherer lifestyle with space age tools,10,2
+2026-08-29T21:38:18.632309+00:00,49426995,9,SQLite as a Document Database (2020),136,42
+2026-08-29T21:38:18.632309+00:00,49492584,10,Domain-Driven Agents,17,1
+2026-08-29T21:38:18.632309+00:00,49491568,11,"Good Culture Is the Biggest Productivity Hack, Not AI",161,27
+2026-08-29T21:38:18.632309+00:00,49492368,12,Functional State Machines in Rust: Typestate and Newtype Patterns,9,1
+2026-08-29T21:38:18.632309+00:00,49424320,13,Glacier Mice,224,45
+2026-08-29T21:38:18.632309+00:00,49490138,14,Indirect Calling of Nested Functions on GCC Without Executable Stack,60,36
+2026-08-29T21:38:18.632309+00:00,49447178,15,Show HN: Typebase – A single-folder back end you write in TypeScript,84,19
+2026-08-29T21:38:18.632309+00:00,49428756,16,Sleepwalker: Passive Backdoor with Its Own Command Language,46,6
+2026-08-29T21:38:18.632309+00:00,49487341,17,Samsung's Processing-in-Memory (PIM),226,86
+2026-08-29T21:38:18.632309+00:00,49433328,18,EVE Online moves to Python 3,259,134
+2026-08-29T21:38:18.632309+00:00,49417662,19,Kmart Digicam Mod Part 2,9,0
+2026-08-29T21:38:18.632309+00:00,49490832,20,Quantifying Colour,49,5
+2026-08-29T21:38:18.632309+00:00,49491544,21,A better SQL in 11 lines of code,32,32
+2026-08-29T21:38:18.632309+00:00,49492488,22,A safe MySQL upgrade that wasn't so safe,4,0
+2026-08-29T21:38:18.632309+00:00,49478178,23,Htmx 4.0,791,202
+2026-08-29T21:38:18.632309+00:00,49479546,24,Creating the Aetheryte Radio,56,12
+2026-08-29T21:38:18.632309+00:00,49490702,25,GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE),198,77
+2026-08-29T21:38:18.632309+00:00,49485267,26,Boot a Virtual iPhone via Apple's Virtualization.framework,366,98
+2026-08-29T21:38:18.632309+00:00,49448583,27,Recovering Corrupt Zip Files,12,1
+2026-08-29T21:38:18.632309+00:00,49491175,28,Trees for a Changing Climate and Resilient Urban Forest (2022),10,2
+2026-08-29T21:38:18.632309+00:00,49420524,29,"Show HN: Galaxium, an experimental WebGPU space explorer",94,30
+2026-08-29T21:38:18.632309+00:00,49490870,30,Nancy Grace Roman Space Telescope,97,35
+2026-08-29T21:38:18.632309+00:00,49450782,31,Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems,103,13
+2026-08-29T21:38:18.632309+00:00,49486081,32,"StemDeck, a free, open-source and local AI stem separator",188,57
+2026-08-29T21:38:18.632309+00:00,49492432,33,Warp builds self-improving agents on Claude,47,47
+2026-08-29T21:38:18.632309+00:00,49477564,34,Inception-style curved map for turn-by-turn directions,602,187
+2026-08-29T21:38:18.632309+00:00,49485416,35,I accidentally turned LLM memory into program analysis,265,71
+2026-08-29T21:38:18.632309+00:00,49435595,36,Time complexity of operations on Python's built-in types,86,34
+2026-08-29T21:38:18.632309+00:00,49492193,37,The internet is kind of a predatory cesspit now,351,232
+2026-08-29T21:38:18.632309+00:00,49456819,38,Europe's last regular standard-gauge steam passenger service,105,24
+2026-08-29T21:38:18.632309+00:00,49480466,39,Just the rumour of a bug is enough to find an exploit these days,374,118
+2026-08-29T21:38:18.632309+00:00,49486334,40,TurboKV: Insanely fast Rust key-value store,169,82
+2026-08-29T21:38:18.632309+00:00,49491609,41,Animal Size Comparison,6,2
+2026-08-29T21:38:18.632309+00:00,49487786,42,Manifesto – who we are and what do we want (2002),96,54
+2026-08-29T21:38:18.632309+00:00,49491968,43,Show HN: PhpEZ – A tiny PHP framework for shared LAMP hosting,4,1
+2026-08-29T21:38:18.632309+00:00,49414891,44,Vim's UserGettingBored Autocmd,31,5
+2026-08-29T21:38:18.632309+00:00,49491755,45,Show HN: Flint – A minimal C/C++ package manager and build tool written in C,6,0
+2026-08-29T21:38:18.632309+00:00,49493018,46,Zod v4.5 adds schema compilation (3-9x faster validation),6,0
+2026-08-29T21:38:18.632309+00:00,49493225,47,Scott Bessent Is at War with Prices – and Prices Are Winning,4,0
+2026-08-29T21:38:18.632309+00:00,49489982,48,"Debian votes to allow ""responsible use of generative AI""",461,411
+2026-08-29T21:38:18.632309+00:00,49417298,49,Monzo Stand-In,120,57
+2026-08-29T21:38:18.632309+00:00,49479837,50,GUIs should be fully keyboard-driven,993,487
