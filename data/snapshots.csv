@@ -43351,3 +43351,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-29T01:42:19.559969+00:00,49485673,48,A Great Rebalancing Is Coming,9,0
 2026-08-29T01:42:19.559969+00:00,49483052,49,Flock CEO's Address Spread Online as Surveillance Backlash Explodes,64,43
 2026-08-29T01:42:19.559969+00:00,49476143,50,Hilariously fast volume computation with the divergence theorem (2018),249,65
+2026-08-29T08:56:01.799627+00:00,49487341,1,Samsung's Processing-in-Memory (PIM),54,9
+2026-08-29T08:56:01.799627+00:00,49456819,2,Europe's last regular standard-gauge steam passenger service,24,5
+2026-08-29T08:56:01.799627+00:00,49479837,3,GUIs should be fully keyboard-driven,780,393
+2026-08-29T08:56:01.799627+00:00,49485267,4,Boot a Virtual iPhone via Apple's Virtualization.framework,249,71
+2026-08-29T08:56:01.799627+00:00,49486334,5,TurboKV: Insanely fast Rust key-value store,92,33
+2026-08-29T08:56:01.799627+00:00,49478178,6,Htmx 4.0,640,160
+2026-08-29T08:56:01.799627+00:00,49477854,7,U.S. sanctions against the A/I Collective,580,567
+2026-08-29T08:56:01.799627+00:00,49485416,8,I accidentally turned LLM memory into program analysis,133,28
+2026-08-29T08:56:01.799627+00:00,49487506,9,e is a customizable self-aware Emacs-like editor written in Chez Scheme,16,11
+2026-08-29T08:56:01.799627+00:00,49486081,10,"StemDeck, a free, open-source and local AI stem separator",88,19
+2026-08-29T08:56:01.799627+00:00,49485532,11,Does the Sumerian King List Align with Paleoclimate Events?,98,39
+2026-08-29T08:56:01.799627+00:00,49480466,12,Just the rumour of a bug is enough to find an exploit these days,307,110
+2026-08-29T08:56:01.799627+00:00,49487786,13,Autistici/inventati: Manifesto – who we are and what do we want (2002),37,18
+2026-08-29T08:56:01.799627+00:00,49477564,14,Inception-style curved map for turn-by-turn directions,495,167
+2026-08-29T08:56:01.799627+00:00,49486172,15,Our decision on Cursor following its acquisition by SpaceX,498,256
+2026-08-29T08:56:01.799627+00:00,49485452,16,9th Circuit sides with states in Kalshi gambling fight,126,100
+2026-08-29T08:56:01.799627+00:00,49486176,17,Kumander Linux – A Linux Distro with a Windows 7 Desktop,47,22
+2026-08-29T08:56:01.799627+00:00,49417298,18,Monzo Stand-In,70,15
+2026-08-29T08:56:01.799627+00:00,49419409,19,Experiments with Plotter Art,49,2
+2026-08-29T08:56:01.799627+00:00,49422397,20,Queen Caroline turned King Arthur into an 18C royal PR strategy,11,1
+2026-08-29T08:56:01.799627+00:00,49428343,21,"Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",16,4
+2026-08-29T08:56:01.799627+00:00,49422743,22,Curvature Beziers: Improving on a timeless recipe,115,12
+2026-08-29T08:56:01.799627+00:00,49472216,23,The Twelve-Factor App (2025),266,149
+2026-08-29T08:56:01.799627+00:00,49479878,24,GLM-5.3 is now open-weight,684,229
+2026-08-29T08:56:01.799627+00:00,49479924,25,EasyEffects can improve laptop speaker sound quality,145,53
+2026-08-29T08:56:01.799627+00:00,49479072,26,Verschlimmbesserung: The Word Your Software Updates Need,129,88
+2026-08-29T08:56:01.799627+00:00,49481455,27,Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment,103,25
+2026-08-29T08:56:01.799627+00:00,49443783,28,Visual Analysis of Binary Files,81,22
+2026-08-29T08:56:01.799627+00:00,49477212,29,Migrating to HTTPX2,195,86
+2026-08-29T08:56:01.799627+00:00,49418813,30,Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo,35,14
+2026-08-29T08:56:01.799627+00:00,49478401,31,State of the Map 2026,164,54
+2026-08-29T08:56:01.799627+00:00,49479951,32,Run Qwen3.8 27B locally: real numbers from my Mac Studio,106,84
+2026-08-29T08:56:01.799627+00:00,49477559,33,Smaller reactors bring nuclear power closer to fulfilling its promise,138,197
+2026-08-29T08:56:01.799627+00:00,49473522,34,Judge rules Trump administration’s blacklisting of Anthropic was illegal,573,414
+2026-08-29T08:56:01.799627+00:00,49477813,35,An investigation into the state of corvid–human relations,130,78
+2026-08-29T08:56:01.799627+00:00,49484925,37,Identifying fake cosmetics using AI,53,21
+2026-08-29T08:56:01.799627+00:00,49478340,38,Get your Windows license refund,679,282
+2026-08-29T08:56:01.799627+00:00,49483038,39,"Show HN: Sesame - a local-first, open-source password manager",51,67
+2026-08-29T08:56:01.799627+00:00,49441316,40,Global demand for sand spawned a worldwide boom in illegal mining (2015),63,27
+2026-08-29T08:56:01.799627+00:00,49415923,41,Sloc Cloc and Code 4.0 (scc) – Finding the files that need the most attention,40,4
+2026-08-29T08:56:01.799627+00:00,49477157,42,HTTPX2 – A next-generation HTTP client for Python,120,39
+2026-08-29T08:56:01.799627+00:00,49479302,43,Some conservationists are helping to restore Africa’s wild dog populations,71,28
+2026-08-29T08:56:01.799627+00:00,49454182,44,Processing in Memory: DRAM Is About to Do Math,87,40
+2026-08-29T08:56:01.799627+00:00,49475979,45,Interactive Warhammer 40k Galaxy Map,135,43
+2026-08-29T08:56:01.799627+00:00,49472090,46,Doctors are finally learning to manage antidepressant withdrawal,265,333
+2026-08-29T08:56:01.799627+00:00,49478942,47,"Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",74,33
+2026-08-29T08:56:01.799627+00:00,49483080,48,Aspirational Clownmaxxing and Joey's cadillac todo list,41,17
+2026-08-29T08:56:01.799627+00:00,49487906,49,"ICANN de-accredits ""bulletproof"" domain registrar Trustname",4,0
+2026-08-29T08:56:01.799627+00:00,49477600,50,“It works better in the app”,651,444
