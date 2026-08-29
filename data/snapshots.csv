@@ -43449,3 +43449,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-29T14:23:25.363798+00:00,49458161,48,Nvidia agrees to acquire Hugging Face for $13B,1958,902
 2026-08-29T14:23:25.363798+00:00,49479302,49,Some conservationists are helping to restore Africa’s wild dog populations,72,29
 2026-08-29T14:23:25.363798+00:00,49418813,50,Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo,52,34
+2026-08-29T18:19:09.709795+00:00,49426995,1,SQLite as a Document Database (2020),91,11
+2026-08-29T18:19:09.709795+00:00,49415386,2,"Tether: iMessage, SMS, etc. on Linux",102,49
+2026-08-29T18:19:09.709795+00:00,49428756,3,Sleepwalker: Passive Backdoor with Its Own Command Language,24,0
+2026-08-29T18:19:09.709795+00:00,49490138,4,Indirect Calling of Nested Functions on GCC Without Executable Stack,43,15
+2026-08-29T18:19:09.709795+00:00,49447178,5,Show HN: Typebase – A single-folder back end you write in TypeScript,63,13
+2026-08-29T18:19:09.709795+00:00,49424320,6,Glacier Mice,181,34
+2026-08-29T18:19:09.709795+00:00,49487341,7,Samsung's Processing-in-Memory (PIM),212,67
+2026-08-29T18:19:09.709795+00:00,49490832,8,Quantifying Colour,23,1
+2026-08-29T18:19:09.709795+00:00,49479837,9,GUIs should be fully keyboard-driven,980,480
+2026-08-29T18:19:09.709795+00:00,49490870,10,Nancy Grace Roman Space Telescope,58,18
+2026-08-29T18:19:09.709795+00:00,49479546,11,Creating the Aetheryte Radio,44,8
+2026-08-29T18:19:09.709795+00:00,49433328,12,EVE Online moves to Python 3,197,96
+2026-08-29T18:19:09.709795+00:00,49490702,13,GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE),104,44
+2026-08-29T18:19:09.709795+00:00,49485267,14,Boot a Virtual iPhone via Apple's Virtualization.framework,354,96
+2026-08-29T18:19:09.709795+00:00,49489982,15,"Debian votes to allow ""responsible use of generative AI""",418,339
+2026-08-29T18:19:09.709795+00:00,49478178,16,Htmx 4.0,765,192
+2026-08-29T18:19:09.709795+00:00,49450782,17,Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems,91,11
+2026-08-29T18:19:09.709795+00:00,49420524,18,"Show HN: Galaxium, an experimental WebGPU space explorer",75,23
+2026-08-29T18:19:09.709795+00:00,49414891,19,Vim's UserGettingBored Autocmd,3,0
+2026-08-29T18:19:09.709795+00:00,49477854,20,U.S. sanctions against the A/I Collective,686,703
+2026-08-29T18:19:09.709795+00:00,49486081,21,"StemDeck, a free, open-source and local AI stem separator",180,49
+2026-08-29T18:19:09.709795+00:00,49456819,22,Europe's last regular standard-gauge steam passenger service,97,24
+2026-08-29T18:19:09.709795+00:00,49485416,23,I accidentally turned LLM memory into program analysis,248,69
+2026-08-29T18:19:09.709795+00:00,49435595,24,Time complexity of operations on Python's built-in types,62,20
+2026-08-29T18:19:09.709795+00:00,49477564,25,Inception-style curved map for turn-by-turn directions,576,185
+2026-08-29T18:19:09.709795+00:00,49486334,26,TurboKV: Insanely fast Rust key-value store,161,79
+2026-08-29T18:19:09.709795+00:00,49480466,27,Just the rumour of a bug is enough to find an exploit these days,366,117
+2026-08-29T18:19:09.709795+00:00,49490826,28,Parsing the Infamous Japanese Postal CSV,32,2
+2026-08-29T18:19:09.709795+00:00,49491568,29,"Good Culture Is the Biggest Productivity Hack, Not AI",24,0
+2026-08-29T18:19:09.709795+00:00,49489057,30,Iceland votes on whether to restart talks on joining EU,304,360
+2026-08-29T18:19:09.709795+00:00,49417298,31,Monzo Stand-In,116,52
+2026-08-29T18:19:09.709795+00:00,49486172,32,Our decision on Cursor following its acquisition by SpaceX,749,452
+2026-08-29T18:19:09.709795+00:00,49419409,33,Experiments with Plotter Art,87,8
+2026-08-29T18:19:09.709795+00:00,49485532,34,Does the Sumerian King List Align with Paleoclimate Events?,125,74
+2026-08-29T18:19:09.709795+00:00,49422397,35,Queen Caroline turned King Arthur into an 18C royal PR strategy,39,15
+2026-08-29T18:19:09.709795+00:00,49472216,36,The Twelve-Factor App (2025),299,165
+2026-08-29T18:19:09.709795+00:00,49422743,38,Curvature Beziers: Improving on a timeless recipe,148,24
+2026-08-29T18:19:09.709795+00:00,49479924,39,EasyEffects can improve laptop speaker sound quality,192,77
+2026-08-29T18:19:09.709795+00:00,49443783,40,Visual Analysis of Binary Files,104,26
+2026-08-29T18:19:09.709795+00:00,49479878,41,GLM-5.3 is now open-weight,765,260
+2026-08-29T18:19:09.709795+00:00,49479072,42,Verschlimmbesserung: The Word Your Software Updates Need,161,108
+2026-08-29T18:19:09.709795+00:00,49477212,43,Migrating to HTTPX2,206,95
+2026-08-29T18:19:09.709795+00:00,49491468,44,Senator calls for criminal investigation of RFK Jr after Guardian report,17,2
+2026-08-29T18:19:09.709795+00:00,49473522,45,Judge rules Trump administration’s blacklisting of Anthropic was illegal,596,420
+2026-08-29T18:19:09.709795+00:00,49479951,46,Run Qwen3.8 27B locally: real numbers from my Mac Studio,126,96
+2026-08-29T18:19:09.709795+00:00,49478401,47,State of the Map 2026,174,54
+2026-08-29T18:19:09.709795+00:00,49481455,48,Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment,115,37
+2026-08-29T18:19:09.709795+00:00,49428343,49,"Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",36,8
+2026-08-29T18:19:09.709795+00:00,49485452,50,9th Circuit sides with states in Kalshi gambling fight,159,145
