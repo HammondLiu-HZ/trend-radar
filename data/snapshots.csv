@@ -43548,3 +43548,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-29T21:38:18.632309+00:00,49489982,48,"Debian votes to allow ""responsible use of generative AI""",461,411
 2026-08-29T21:38:18.632309+00:00,49417298,49,Monzo Stand-In,120,57
 2026-08-29T21:38:18.632309+00:00,49479837,50,GUIs should be fully keyboard-driven,993,487
+2026-08-30T00:04:13.147922+00:00,49494036,1,Defrag98: Windows 98 Disk Defragmenter Simulator Online,52,25
+2026-08-30T00:04:13.147922+00:00,49492632,2,Tencent Releases and Open-Sources Tencent Hy4 Preview,158,98
+2026-08-30T00:04:13.147922+00:00,49492067,3,vLLM v0.28.0,89,31
+2026-08-30T00:04:13.147922+00:00,49482833,4,Nancy Grace Roman Space Telescope Launches this Sunday,54,7
+2026-08-30T00:04:13.147922+00:00,49415386,5,"Tether: iMessage, SMS, etc. on Linux",302,127
+2026-08-30T00:04:13.147922+00:00,49491714,6,Calibrate Before You Accelerate: Bias Toward Action in a New Role,90,37
+2026-08-30T00:04:13.147922+00:00,49426995,7,SQLite as a Document Database (2020),158,43
+2026-08-30T00:04:13.147922+00:00,49494151,8,I co-founded Burning Man. The festival has lost its soul,29,17
+2026-08-30T00:04:13.147922+00:00,49492584,9,Domain-Driven Agents,36,6
+2026-08-30T00:04:13.147922+00:00,49492368,10,Functional State Machines in Rust: Typestate and Newtype Patterns,35,3
+2026-08-30T00:04:13.147922+00:00,49494231,11,Highest-ever ocean temperature measured as powerful El Niño forms,15,2
+2026-08-30T00:04:13.147922+00:00,49491568,12,"Good Culture Is the Biggest Productivity Hack, Not AI",222,47
+2026-08-30T00:04:13.147922+00:00,49492219,13,"DHS is using obscure law to snoop on journalists, non-profits, unions",266,41
+2026-08-30T00:04:13.147922+00:00,49424320,14,Glacier Mice,245,48
+2026-08-30T00:04:13.147922+00:00,49433328,15,EVE Online moves to Python 3,290,151
+2026-08-30T00:04:13.147922+00:00,49487341,16,Samsung's Processing-in-Memory (PIM),241,91
+2026-08-30T00:04:13.147922+00:00,49447178,17,Show HN: Typebase – A single-folder back end you write in TypeScript,95,24
+2026-08-30T00:04:13.147922+00:00,49490138,18,Indirect Calling of Nested Functions on GCC Without Executable Stack,64,39
+2026-08-30T00:04:13.147922+00:00,49448583,19,Recovering Corrupt Zip Files,30,6
+2026-08-30T00:04:13.147922+00:00,49428756,20,Sleepwalker: Passive Backdoor with Its Own Command Language,52,7
+2026-08-30T00:04:13.147922+00:00,49490832,21,Quantifying Colour,63,6
+2026-08-30T00:04:13.147922+00:00,49479546,22,Creating the Aetheryte Radio,66,12
+2026-08-30T00:04:13.147922+00:00,49485267,23,Boot a Virtual iPhone via Apple's Virtualization.framework,376,101
+2026-08-30T00:04:13.147922+00:00,49491175,24,Trees for a Changing Climate and Resilient Urban Forest (2022),26,4
+2026-08-30T00:04:13.147922+00:00,49465250,25,The Wandering Yamamura Theater Troupe,5,0
+2026-08-30T00:04:13.147922+00:00,49478287,26,The Finn – an agent that lives in my router and complains about it,10,2
+2026-08-30T00:04:13.147922+00:00,49490702,27,GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE),249,115
+2026-08-30T00:04:13.147922+00:00,49492488,28,A safe MySQL upgrade that wasn't so safe,26,4
+2026-08-30T00:04:13.147922+00:00,49494023,29,Twitter (Not affiliated with X Corp),10,4
+2026-08-30T00:04:13.147922+00:00,49486081,30,"StemDeck, a free, open-source and local AI stem separator",199,58
+2026-08-30T00:04:13.147922+00:00,49485416,31,I accidentally turned LLM memory into program analysis,272,71
+2026-08-30T00:04:13.147922+00:00,49417662,32,Kmart Digicam Mod Part 2,12,0
+2026-08-30T00:04:13.147922+00:00,49420524,33,"Show HN: Galaxium, an experimental WebGPU space explorer",104,34
+2026-08-30T00:04:13.147922+00:00,49494212,34,Police departments weren’t looking for Flock abuse. We did it for them.,6,0
+2026-08-30T00:04:13.147922+00:00,49435595,35,Time complexity of operations on Python's built-in types,93,35
+2026-08-30T00:04:13.147922+00:00,49480466,36,Just the rumour of a bug is enough to find an exploit these days,376,122
+2026-08-30T00:04:13.147922+00:00,49450782,37,Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems,105,13
+2026-08-30T00:04:13.147922+00:00,49490870,38,Nancy Grace Roman Space Telescope,111,47
+2026-08-30T00:04:13.147922+00:00,49456819,39,Europe's last regular standard-gauge steam passenger service,108,24
+2026-08-30T00:04:13.147922+00:00,49486334,40,TurboKV: Insanely fast Rust key-value store,169,83
+2026-08-30T00:04:13.147922+00:00,49487786,41,Manifesto – who we are and what do we want (2002),100,55
+2026-08-30T00:04:13.147922+00:00,49494182,42,Lawmakers added $1 to car insurance policies. That money paid for Flock cameras,8,1
+2026-08-30T00:04:13.147922+00:00,49478178,43,Htmx 4.0,796,209
+2026-08-30T00:04:13.147922+00:00,49479837,44,GUIs should be fully keyboard-driven,998,490
+2026-08-30T00:04:13.147922+00:00,49472216,45,The Twelve-Factor App (2025),303,167
+2026-08-30T00:04:13.147922+00:00,49493018,46,Zod v4.5 adds schema compilation (3-9x faster validation),17,5
+2026-08-30T00:04:13.147922+00:00,49417298,47,Monzo Stand-In,122,61
+2026-08-30T00:04:13.147922+00:00,49490478,48,Google translate is a better writer than me,9,2
+2026-08-30T00:04:13.147922+00:00,49492193,49,The internet is kind of a predatory cesspit now,387,258
+2026-08-30T00:04:13.147922+00:00,49486172,50,Our decision on Cursor following its acquisition by SpaceX,793,484
