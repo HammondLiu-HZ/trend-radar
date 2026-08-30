@@ -43747,3 +43747,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-30T17:19:09.698583+00:00,49494571,48,Open Oscar Server: open-source server compatible with AIM and ICQ clients,53,18
 2026-08-30T17:19:09.698583+00:00,49497540,49,He Did Not Conquer: Franklin's Failure to Annex Canada,6,0
 2026-08-30T17:19:09.698583+00:00,49491714,50,Calibrate Before You Accelerate: Bias Toward Action in a New Role,170,73
+2026-08-30T20:55:40.585629+00:00,49491791,1,Creepy Crawlies,641,317
+2026-08-30T20:55:40.585629+00:00,49499867,2,Haiku R1/beta6 has been released,187,50
+2026-08-30T20:55:40.585629+00:00,49502214,3,Cores in space: The core memory module from a 1980 Spacelab computer,15,2
+2026-08-30T20:55:40.585629+00:00,49499891,4,Coordination Headwind: How Organizations Are Like Slime Molds,86,35
+2026-08-30T20:55:40.585629+00:00,49501611,5,Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver,27,16
+2026-08-30T20:55:40.585629+00:00,49478426,6,NFC Energy-Harvesting PCB Business Card with an MCU,13,1
+2026-08-30T20:55:40.585629+00:00,49435285,7,Sort branches by last commit date,27,7
+2026-08-30T20:55:40.585629+00:00,49498787,8,METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack,152,85
+2026-08-30T20:55:40.585629+00:00,49497810,9,Hacking IKEA Furniture,225,132
+2026-08-30T20:55:40.585629+00:00,49499095,10,Zig: Pointer Stability for ArrayLists,62,24
+2026-08-30T20:55:40.585629+00:00,49501791,11,The world may have less time than it thinks on climate change,49,32
+2026-08-30T20:55:40.585629+00:00,49496918,12,Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel,184,76
+2026-08-30T20:55:40.585629+00:00,49499394,13,European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy,266,102
+2026-08-30T20:55:40.585629+00:00,49499854,15,Omarchy: Any User Process Can Escalate to Root,292,280
+2026-08-30T20:55:40.585629+00:00,49468126,16,Dad’s Custom Atari Peripherals,60,9
+2026-08-30T20:55:40.585629+00:00,49471614,17,"Storm Summoner, a MIDI controller for effects pedals",16,4
+2026-08-30T20:55:40.585629+00:00,49496782,18,Longest Straight Line Paths on Water or Land on the Earth (2018),179,51
+2026-08-30T20:55:40.585629+00:00,49463397,19,Electric rain can eat through metal,66,12
+2026-08-30T20:55:40.585629+00:00,49463888,20,Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video],261,138
+2026-08-30T20:55:40.585629+00:00,49474515,21,Synchronisation and SMPTE timecode (time code),16,2
+2026-08-30T20:55:40.585629+00:00,49498978,22,Europe's summer drought is so extreme that desertification is a growing threat,187,217
+2026-08-30T20:55:40.585629+00:00,49497854,23,Automating Immersive Reading,76,23
+2026-08-30T20:55:40.585629+00:00,49419381,24,What my dad taught me about AI coding in the 90s,111,54
+2026-08-30T20:55:40.585629+00:00,49497819,25,An implementation of Conway's Game of Life for Windows 3.1x and later,45,11
+2026-08-30T20:55:40.585629+00:00,49497200,26,Building my own network stack,90,70
+2026-08-30T20:55:40.585629+00:00,49492632,27,Hy4 preview,373,235
+2026-08-30T20:55:40.585629+00:00,49489274,28,"When fruit is scarce, these monkeys hunt animals",46,26
+2026-08-30T20:55:40.585629+00:00,49498201,29,Claude Session URL appended to commit messages and PR descriptions by default,161,184
+2026-08-30T20:55:40.585629+00:00,49495372,30,California lawmakers unanimously pass Linux exemption from age-verification law,658,329
+2026-08-30T20:55:40.585629+00:00,49437117,31,Orbs,86,38
+2026-08-30T20:55:40.585629+00:00,49499831,32,Startup Anti-Patterns,14,3
+2026-08-30T20:55:40.585629+00:00,49430745,33,"JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",91,9
+2026-08-30T20:55:40.585629+00:00,49453232,34,The Einstein-Szilard Refrigerator (2020),95,45
+2026-08-30T20:55:40.585629+00:00,49497928,35,monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter,39,11
+2026-08-30T20:55:40.585629+00:00,49494301,36,The Rise and Fall of Agent Civilizations,201,117
+2026-08-30T20:55:40.585629+00:00,49497712,37,One Nix flake to rule them all,73,9
+2026-08-30T20:55:40.585629+00:00,49490870,38,Nancy Grace Roman Space Telescope,275,97
+2026-08-30T20:55:40.585629+00:00,49494856,39,FreeCORE TrueNAS Core – Continued,165,91
+2026-08-30T20:55:40.585629+00:00,49497404,40,Berlin is being blackmailed by hackers,20,0
+2026-08-30T20:55:40.585629+00:00,49500613,41,Being kicked out of the tech industry,8,1
+2026-08-30T20:55:40.585629+00:00,49425252,42,RISC-V is now officially supported by CPython,288,52
+2026-08-30T20:55:40.585629+00:00,49496543,43,Xcena and Samsung's Near Memory Compute CXL Device,52,6
+2026-08-30T20:55:40.585629+00:00,49497334,44,What We Tell AI,27,7
+2026-08-30T20:55:40.585629+00:00,49494520,45,Bug Blindness,379,241
+2026-08-30T20:55:40.585629+00:00,49500679,46,Debian: Retiring from the Project (Vv221),28,8
+2026-08-30T20:55:40.585629+00:00,49501938,47,Google Maps changed to show Lake Ontario as Lake America,7,5
+2026-08-30T20:55:40.585629+00:00,49438865,48,"Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",83,63
+2026-08-30T20:55:40.585629+00:00,49469786,49,Benchmarking Pocket-Scale Inference,79,15
+2026-08-30T20:55:40.585629+00:00,49501901,50,El Niño Will Be Unlike Any in the Past Eight Decades,8,1
