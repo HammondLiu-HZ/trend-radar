@@ -43648,3 +43648,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-30T06:28:02.129568+00:00,49465250,48,The Wandering Yamamura Theater Troupe,10,1
 2026-08-30T06:28:02.129568+00:00,49478178,49,Htmx 4.0,801,215
 2026-08-30T06:28:02.129568+00:00,49472216,50,The Twelve-Factor App (2025),306,168
+2026-08-30T12:45:29.951707+00:00,49496782,1,Longest Straight Line Paths on Water or Land on the Earth (2018),105,24
+2026-08-30T12:45:29.951707+00:00,49496918,2,Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel,76,31
+2026-08-30T12:45:29.951707+00:00,49497063,3,Brits would quite like their private messages to stay private,150,89
+2026-08-30T12:45:29.951707+00:00,49497200,4,Everyone Should Build Their Own Network Stack,37,24
+2026-08-30T12:45:29.951707+00:00,49425252,5,RISC-V is now officially supported by CPython,211,40
+2026-08-30T12:45:29.951707+00:00,49497265,6,Spark: Sparklines in your shell,36,7
+2026-08-30T12:45:29.951707+00:00,49430745,7,"JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",41,4
+2026-08-30T12:45:29.951707+00:00,49492632,8,Hy4 preview,337,200
+2026-08-30T12:45:29.951707+00:00,49463888,9,Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video],14,0
+2026-08-30T12:45:29.951707+00:00,49496543,10,Xcena and Samsung's Near Memory Compute CXL Device,26,2
+2026-08-30T12:45:29.951707+00:00,49497227,11,Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website,18,0
+2026-08-30T12:45:29.951707+00:00,49495372,12,California lawmakers unanimously pass Linux exemption from age-verification law,392,177
+2026-08-30T12:45:29.951707+00:00,49453232,13,The Einstein-Szilard Refrigerator (2020),53,15
+2026-08-30T12:45:29.951707+00:00,49494856,14,FreeCORE TrueNAS Core – Continued,127,71
+2026-08-30T12:45:29.951707+00:00,49415386,15,"Tether: iMessage, SMS, etc. on Linux",484,189
+2026-08-30T12:45:29.951707+00:00,49494520,16,Bug Blindness,296,182
+2026-08-30T12:45:29.951707+00:00,49490870,17,Nancy Grace Roman Space Telescope,225,81
+2026-08-30T12:45:29.951707+00:00,49437117,18,Orbs,30,11
+2026-08-30T12:45:29.951707+00:00,49469786,19,Benchmarking Pocket-Scale Inference,59,5
+2026-08-30T12:45:29.951707+00:00,49433554,20,"Creating Teensy ELF Executables for Linux (Or, ""Size Is Everything"") (1999)",58,12
+2026-08-30T12:45:29.951707+00:00,49494751,21,Benjamin Franklin's Alter Egos Gave Him the Most Freedom,79,39
+2026-08-30T12:45:29.951707+00:00,49497357,22,Fair Work Commission condemns 'plain wrong' AI legal advice,28,7
+2026-08-30T12:45:29.951707+00:00,49426995,23,SQLite as a Document Database (2020),220,54
+2026-08-30T12:45:29.951707+00:00,49433328,24,EVE Online moves to Python 3,375,204
+2026-08-30T12:45:29.951707+00:00,49494182,25,Lawmakers added $1 to car insurance policies. That money paid for Flock cameras,331,197
+2026-08-30T12:45:29.951707+00:00,49424320,26,Glacier Mice,313,63
+2026-08-30T12:45:29.951707+00:00,49492368,27,Functional State Machines in Rust: Typestate and Newtype Patterns,98,36
+2026-08-30T12:45:29.951707+00:00,49494571,28,Open Oscar Server: open-source server compatible with AIM and ICQ clients,48,17
+2026-08-30T12:45:29.951707+00:00,49487341,29,Samsung's Processing-in-Memory (PIM),268,104
+2026-08-30T12:45:29.951707+00:00,49447719,30,"Pop-2000, a lingua-franca POP-2 dialect",19,1
+2026-08-30T12:45:29.951707+00:00,49491714,31,Calibrate Before You Accelerate: Bias Toward Action in a New Role,165,66
+2026-08-30T12:45:29.951707+00:00,49491568,32,"Good Culture Is the Biggest Productivity Hack, Not AI",410,101
+2026-08-30T12:45:29.951707+00:00,49450248,33,Is it safe to call print in a Python signal handler?,54,31
+2026-08-30T12:45:29.951707+00:00,49495127,34,Algorithmic rent-pricing litigation expands under new state and local laws,87,53
+2026-08-30T12:45:29.951707+00:00,49485416,35,I accidentally turned LLM memory into program analysis,295,80
+2026-08-30T12:45:29.951707+00:00,49448583,36,Recovering Corrupt Zip Files,66,30
+2026-08-30T12:45:29.951707+00:00,49492219,37,"DHS is using obscure law to snoop on journalists, non-profits, unions",416,93
+2026-08-30T12:45:29.951707+00:00,49486081,38,"StemDeck, a free, open-source and local AI stem separator",228,61
+2026-08-30T12:45:29.951707+00:00,49494301,39,The Rise and Fall of Agent Civilizations,136,78
+2026-08-30T12:45:29.951707+00:00,49428756,40,Sleepwalker: Passive Backdoor with Its Own Command Language,73,15
+2026-08-30T12:45:29.951707+00:00,49484520,41,A few feral cats in an ALGOL trenchcoat.,16,3
+2026-08-30T12:45:29.951707+00:00,49492584,42,Domain-Driven Agents,86,17
+2026-08-30T12:45:29.951707+00:00,49490832,43,Quantifying Colour,92,8
+2026-08-30T12:45:29.951707+00:00,49447178,44,Show HN: Typebase – A single-folder back end you write in TypeScript,107,30
+2026-08-30T12:45:29.951707+00:00,49479546,45,Creating the Aetheryte Radio,74,16
+2026-08-30T12:45:29.951707+00:00,49496842,46,Creepy Crawlies,13,0
+2026-08-30T12:45:29.951707+00:00,49477697,47,Daycare Pseudoscience,43,16
+2026-08-30T12:45:29.951707+00:00,49497217,48,Memo to Ridley Scott: no one needs more Alien: Covenant movies,10,6
+2026-08-30T12:45:29.951707+00:00,49486334,49,TurboKV: Insanely fast Rust key-value store,173,85
+2026-08-30T12:45:29.951707+00:00,49435595,50,Time complexity of operations on Python's built-in types,100,41
