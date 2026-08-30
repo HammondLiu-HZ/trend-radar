@@ -43598,3 +43598,53 @@ captured_at,story_id,rank,title,score,comments
 2026-08-30T00:04:13.147922+00:00,49490478,48,Google translate is a better writer than me,9,2
 2026-08-30T00:04:13.147922+00:00,49492193,49,The internet is kind of a predatory cesspit now,387,258
 2026-08-30T00:04:13.147922+00:00,49486172,50,Our decision on Cursor following its acquisition by SpaceX,793,484
+2026-08-30T06:28:02.129568+00:00,49494520,1,Bug Blindness,176,78
+2026-08-30T06:28:02.129568+00:00,49425252,2,RISC-V is now officially supported by CPython,95,15
+2026-08-30T06:28:02.129568+00:00,49492632,3,Hy4 preview,253,148
+2026-08-30T06:28:02.129568+00:00,49494856,4,FreeCORE TrueNAS Core – Continued,71,43
+2026-08-30T06:28:02.129568+00:00,49433554,5,"Creating Teensy ELF Executables for Linux (Or, ""Size Is Everything"")",29,3
+2026-08-30T06:28:02.129568+00:00,49415386,6,"Tether: iMessage, SMS, etc. on Linux",422,167
+2026-08-30T06:28:02.129568+00:00,49469786,7,Benchmarking Pocket-Scale Inference,24,1
+2026-08-30T06:28:02.129568+00:00,49490870,8,Nancy Grace Roman Space Telescope,176,70
+2026-08-30T06:28:02.129568+00:00,49494751,9,Benjamin Franklin's Alter Egos Gave Him the Most Freedom,38,9
+2026-08-30T06:28:02.129568+00:00,49495372,10,California lawmakers unanimously pass Linux exemption from age-verification law,83,10
+2026-08-30T06:28:02.129568+00:00,49494182,11,Lawmakers added $1 to car insurance policies. That money paid for Flock cameras,236,116
+2026-08-30T06:28:02.129568+00:00,49494301,12,The Rise and Fall of Agent Civilizations,32,2
+2026-08-30T06:28:02.129568+00:00,49450248,13,Is it safe to call print in a Python signal handler?,35,17
+2026-08-30T06:28:02.129568+00:00,49495127,14,Algorithmic rent-pricing litigation expands under new state and local laws,63,30
+2026-08-30T06:28:02.129568+00:00,49426995,15,SQLite as a Document Database (2020),193,47
+2026-08-30T06:28:02.129568+00:00,49492368,16,Functional State Machines in Rust: Typestate and Newtype Patterns,75,30
+2026-08-30T06:28:02.129568+00:00,49484520,17,A few feral cats in an ALGOL trenchcoat.,10,1
+2026-08-30T06:28:02.129568+00:00,49491714,18,Calibrate Before You Accelerate: Bias Toward Action in a New Role,139,56
+2026-08-30T06:28:02.129568+00:00,49424320,19,Glacier Mice,282,55
+2026-08-30T06:28:02.129568+00:00,49433328,20,EVE Online moves to Python 3,332,181
+2026-08-30T06:28:02.129568+00:00,49477697,21,Daycare Pseudoscience,23,1
+2026-08-30T06:28:02.129568+00:00,49492584,22,Domain-Driven Agents,73,14
+2026-08-30T06:28:02.129568+00:00,49494571,23,Open Oscar Server: open-source server compatible with AIM and ICQ clients,19,7
+2026-08-30T06:28:02.129568+00:00,49487341,24,Samsung's Processing-in-Memory (PIM),255,98
+2026-08-30T06:28:02.129568+00:00,49491568,25,"Good Culture Is the Biggest Productivity Hack, Not AI",337,80
+2026-08-30T06:28:02.129568+00:00,49438865,26,"Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",44,34
+2026-08-30T06:28:02.129568+00:00,49492219,27,"DHS is using obscure law to snoop on journalists, non-profits, unions",378,71
+2026-08-30T06:28:02.129568+00:00,49485267,28,Boot a Virtual iPhone via Apple's Virtualization.framework,394,106
+2026-08-30T06:28:02.129568+00:00,49448583,29,Recovering Corrupt Zip Files,54,24
+2026-08-30T06:28:02.129568+00:00,49491175,30,Trees for a Changing Climate and Resilient Urban Forest (2022),47,6
+2026-08-30T06:28:02.129568+00:00,49495845,31,The Internet Archive's Vintage AI Collection,7,0
+2026-08-30T06:28:02.129568+00:00,49428756,32,Sleepwalker: Passive Backdoor with Its Own Command Language,67,12
+2026-08-30T06:28:02.129568+00:00,49490832,33,Quantifying Colour,85,8
+2026-08-30T06:28:02.129568+00:00,49486081,34,"StemDeck, a free, open-source and local AI stem separator",216,60
+2026-08-30T06:28:02.129568+00:00,49447178,35,Show HN: Typebase – A single-folder back end you write in TypeScript,105,29
+2026-08-30T06:28:02.129568+00:00,49485416,36,I accidentally turned LLM memory into program analysis,284,76
+2026-08-30T06:28:02.129568+00:00,49480466,37,Just the rumour of a bug is enough to find an exploit these days,383,123
+2026-08-30T06:28:02.129568+00:00,49479546,38,Creating the Aetheryte Radio,72,16
+2026-08-30T06:28:02.129568+00:00,49490138,39,Indirect Calling of Nested Functions on GCC Without Executable Stack,72,49
+2026-08-30T06:28:02.129568+00:00,49492488,40,A safe MySQL upgrade that wasn't so safe,39,10
+2026-08-30T06:28:02.129568+00:00,49495350,41,You have to beat the models at something,17,0
+2026-08-30T06:28:02.129568+00:00,49435595,42,Time complexity of operations on Python's built-in types,98,39
+2026-08-30T06:28:02.129568+00:00,49486334,43,TurboKV: Insanely fast Rust key-value store,171,84
+2026-08-30T06:28:02.129568+00:00,49456819,44,Europe's last regular standard-gauge steam passenger service,109,25
+2026-08-30T06:28:02.129568+00:00,49450782,45,Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems,107,14
+2026-08-30T06:28:02.129568+00:00,49420524,46,"Show HN: Galaxium, an experimental WebGPU space explorer",114,34
+2026-08-30T06:28:02.129568+00:00,49494036,47,Defrag98: Windows 98 Disk Defragmenter Simulator Online,108,64
+2026-08-30T06:28:02.129568+00:00,49465250,48,The Wandering Yamamura Theater Troupe,10,1
+2026-08-30T06:28:02.129568+00:00,49478178,49,Htmx 4.0,801,215
+2026-08-30T06:28:02.129568+00:00,49472216,50,The Twelve-Factor App (2025),306,168
