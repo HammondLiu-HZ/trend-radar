@@ -43845,3 +43845,52 @@ captured_at,story_id,rank,title,score,comments
 2026-08-30T23:22:38.146336+00:00,49497404,48,Berlin is being blackmailed by hackers,24,0
 2026-08-30T23:22:38.146336+00:00,49425252,49,RISC-V is now officially supported by CPython,289,53
 2026-08-30T23:22:38.146336+00:00,49501938,50,Google Maps changed to show Lake Ontario as Lake America,31,25
+2026-08-31T05:15:15.115234+00:00,49503601,1,“I just chose words carefully”,475,122
+2026-08-31T05:15:15.115234+00:00,49505219,2,P99 0 ms* autocomplete for 240M domain names,30,16
+2026-08-31T05:15:15.115234+00:00,49491791,3,Creepy Crawlies,1006,494
+2026-08-31T05:15:15.115234+00:00,49480091,4,It takes 5 cloud services to hear my doorbell,69,48
+2026-08-31T05:15:15.115234+00:00,49505351,5,The EU has begun enforcing the AI Act: first RFIs to model providers,27,23
+2026-08-31T05:15:15.115234+00:00,49481141,6,My hobby of building miniatures and taking pretty pictures,16,2
+2026-08-31T05:15:15.115234+00:00,49503934,7,Matrox: Graphics for Professionals,58,13
+2026-08-31T05:15:15.115234+00:00,49504905,8,Internet centralization and the original sin of NAT,13,4
+2026-08-31T05:15:15.115234+00:00,49499867,9,Haiku R1/beta6 has been released,277,84
+2026-08-31T05:15:15.115234+00:00,49504625,10,Understanding ChatGPT Work,103,35
+2026-08-31T05:15:15.115234+00:00,49502214,11,Cores in space: The core memory module from a 1980 Spacelab computer,93,16
+2026-08-31T05:15:15.115234+00:00,49503956,12,How to build a diffusion language model,38,2
+2026-08-31T05:15:15.115234+00:00,49478426,13,Show HN: NFC Energy-Harvesting PCB Business Card with an MCU,132,14
+2026-08-31T05:15:15.115234+00:00,49505288,14,UC Berkeley indefinitely suspends international student work authorizations,68,53
+2026-08-31T05:15:15.115234+00:00,49435285,15,Sort branches by last commit date,106,35
+2026-08-31T05:15:15.115234+00:00,49502611,16,Continuous Diffusion Language Models (CDLM's),73,29
+2026-08-31T05:15:15.115234+00:00,49501611,17,Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver,92,35
+2026-08-31T05:15:15.115234+00:00,49497810,18,Hacking IKEA Furniture,283,195
+2026-08-31T05:15:15.115234+00:00,49446705,19,Relm4 makes developing beautiful cross-platform applications idiomatic,24,13
+2026-08-31T05:15:15.115234+00:00,49483622,20,Racter (1984),19,6
+2026-08-31T05:15:15.115234+00:00,49450461,21,Commercially Available Bike Generators Are Not Sustainable (2011),39,32
+2026-08-31T05:15:15.115234+00:00,49499891,22,Coordination Headwind: How Organizations Are Like Slime Molds,140,45
+2026-08-31T05:15:15.115234+00:00,49499831,23,Startup Anti-Patterns,114,63
+2026-08-31T05:15:15.115234+00:00,49468126,24,Dad’s Custom Atari Peripherals,119,16
+2026-08-31T05:15:15.115234+00:00,49464287,25,How would you know whether an ancient culture had zero?,38,13
+2026-08-31T05:15:15.115234+00:00,49496918,26,Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel,216,88
+2026-08-31T05:15:15.115234+00:00,49496782,27,Longest Straight Line Paths on Water or Land on the Earth (2018),199,58
+2026-08-31T05:15:15.115234+00:00,49499095,28,Zig: Pointer Stability for ArrayLists,93,65
+2026-08-31T05:15:15.115234+00:00,49499854,30,Omarchy: Any User Process Can Escalate to Root,473,451
+2026-08-31T05:15:15.115234+00:00,49463397,31,Electric rain can eat through metal,103,21
+2026-08-31T05:15:15.115234+00:00,49499394,32,European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy,382,162
+2026-08-31T05:15:15.115234+00:00,49505062,33,"SolarWindow launches 0.85 mm-thick, self-adhesive solar film",19,10
+2026-08-31T05:15:15.115234+00:00,49474515,34,Synchronisation and SMPTE timecode (time code),43,13
+2026-08-31T05:15:15.115234+00:00,49505006,35,DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned,20,0
+2026-08-31T05:15:15.115234+00:00,49497854,36,Automating Immersive Reading,95,43
+2026-08-31T05:15:15.115234+00:00,49486419,37,Quest for the Eternal Dock – Lambdock,16,3
+2026-08-31T05:15:15.115234+00:00,49498978,38,Europe's summer drought is so extreme that desertification is a growing threat,280,330
+2026-08-31T05:15:15.115234+00:00,49502718,39,Are We Sixel Yet?,16,4
+2026-08-31T05:15:15.115234+00:00,49505040,40,Flock Safety's controversial CEO just got a taste of his own medicine,44,24
+2026-08-31T05:15:15.115234+00:00,49497819,41,An implementation of Conway's Game of Life for Windows 3.1x and later,51,12
+2026-08-31T05:15:15.115234+00:00,49463888,42,Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video],305,180
+2026-08-31T05:15:15.115234+00:00,49415793,43,Adding a directional cost bias to a TSP heuristic reveals better local optima,5,1
+2026-08-31T05:15:15.115234+00:00,49495372,44,California lawmakers unanimously pass Linux exemption from age-verification law,722,350
+2026-08-31T05:15:15.115234+00:00,49489274,45,"When fruit is scarce, these monkeys hunt animals",64,34
+2026-08-31T05:15:15.115234+00:00,49494301,46,The Rise and Fall of Agent Civilizations,231,145
+2026-08-31T05:15:15.115234+00:00,49498787,47,METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack,235,191
+2026-08-31T05:15:15.115234+00:00,49505278,48,Harvard Professor on Why You Should Learn C in 2026 [video],5,0
+2026-08-31T05:15:15.115234+00:00,49419381,49,What my dad taught me about AI coding in the 90s,135,75
+2026-08-31T05:15:15.115234+00:00,49497404,50,Berlin is being blackmailed by hackers,37,4
