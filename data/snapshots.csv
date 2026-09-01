@@ -44237,3 +44237,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-01T18:20:31.563453+00:00,49460419,48,Flat vs. segmented memory – it's recursive,48,1
 2026-09-01T18:20:31.563453+00:00,49510000,49,ChatGPT Work Tool and Skill Reference,233,57
 2026-09-01T18:20:31.563453+00:00,49434518,50,Codes – typed application outcomes for Kotlin and Java,15,3
+2026-09-01T21:41:38.763177+00:00,49525378,1,Claude Fable 5.1 and Claude Mythos 5.1,700,668
+2026-09-01T21:41:38.763177+00:00,49527232,2,Refurbishing a Tektronix TDS7104 Oscilloscope,43,14
+2026-09-01T21:41:38.763177+00:00,49527396,3,The ChatGPT/Codex app bundles a full copy of LibreOffice,114,67
+2026-09-01T21:41:38.763177+00:00,49520022,4,AnkiDroid: Google Play no longer allowing Open Collective donation link,778,224
+2026-09-01T21:41:38.763177+00:00,49525153,5,Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development,90,33
+2026-09-01T21:41:38.763177+00:00,49521973,6,Introducing Ad Blocker for Firefox on iOS,219,85
+2026-09-01T21:41:38.763177+00:00,49523387,7,Ambient CSS v3 – Blender meets CSS,161,60
+2026-09-01T21:41:38.763177+00:00,49524447,8,Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s,106,72
+2026-09-01T21:41:38.763177+00:00,49524320,9,"Movie Scene Map – 13,312 films, series, games, anime and manga",110,27
+2026-09-01T21:41:38.763177+00:00,49527595,10,Path to Astra: critical capabilities and frontier safeguards,28,3
+2026-09-01T21:41:38.763177+00:00,49519939,11,I trained a small transformer in 1.5hrs and it beats many LLMs,503,141
+2026-09-01T21:41:38.763177+00:00,49523754,12,"Play Store blocks AuroraStore, hurting GrapheneOS users",426,170
+2026-09-01T21:41:38.763177+00:00,49522897,13,Ask HN: Who is hiring? (September 2026),162,175
+2026-09-01T21:41:38.763177+00:00,49527573,14,Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit,78,32
+2026-09-01T21:41:38.763177+00:00,49527879,16,Dyson CameraJet electric toothbrush,63,71
+2026-09-01T21:41:38.763177+00:00,49490498,17,Magic eye tube,51,16
+2026-09-01T21:41:38.763177+00:00,49524469,18,Show HN: Newton's Orchard – Browser-based space/gravity playground,8,0
+2026-09-01T21:41:38.763177+00:00,49488224,19,How bicycle coaster brakes work (2018),28,27
+2026-09-01T21:41:38.763177+00:00,49448019,20,Specifications Don't Exist (2025),29,2
+2026-09-01T21:41:38.763177+00:00,49525297,21,The creator of Jujutsu has joined ERSC,136,109
+2026-09-01T21:41:38.763177+00:00,49525160,22,Atlas: A World Model for Spatial Intelligence,95,16
+2026-09-01T21:41:38.763177+00:00,49496554,23,Java is memory efficient [audio],8,3
+2026-09-01T21:41:38.763177+00:00,49528057,24,"Show HN: HN Match Maker – Matching ""Who Wants to Be Hired?"" With ""Who's Hiring?""",5,1
+2026-09-01T21:41:38.763177+00:00,49522896,25,Ask HN: Who wants to be hired? (September 2026),50,194
+2026-09-01T21:41:38.763177+00:00,49493468,26,American Airlines mechanic Azriel “Al” Blackman has died,357,146
+2026-09-01T21:41:38.763177+00:00,49521623,27,Io_uring Without Readahead,99,31
+2026-09-01T21:41:38.763177+00:00,49517448,28,Fastpotify,792,524
+2026-09-01T21:41:38.763177+00:00,49526131,29,I used Fable to rewrite 65kLoC of Go in Rust. It cost $400,19,14
+2026-09-01T21:41:38.763177+00:00,49491398,30,Dr. Melvin Scheinman: 40th Anniversary of Catheter Ablation,57,16
+2026-09-01T21:41:38.763177+00:00,49497741,31,Physically Immutable Optical Archive Libraries,31,12
+2026-09-01T21:41:38.763177+00:00,49509655,32,We are rebuilding Monica,92,64
+2026-09-01T21:41:38.763177+00:00,49523720,33,Dwarf Fortress' creator says the industry's in shambles over AI,180,159
+2026-09-01T21:41:38.763177+00:00,49517624,34,Restroom Archive,357,80
+2026-09-01T21:41:38.763177+00:00,49516059,35,Tmp.0ut Volume 5,188,38
+2026-09-01T21:41:38.763177+00:00,49523361,36,A browser-based viewer for Office Open XML documents,47,13
+2026-09-01T21:41:38.763177+00:00,49526069,37,How accurate have Ed Zitron's AI skeptic predictions been?,173,207
+2026-09-01T21:41:38.763177+00:00,49527287,38,The EU's repair policies are changing the way tech is designed,14,0
+2026-09-01T21:41:38.763177+00:00,49523473,39,Keenable SELECT: an agent that searches the web in SQL,48,12
+2026-09-01T21:41:38.763177+00:00,49503521,40,Terence Tao explains 6 essential mathematical concepts [video],600,81
+2026-09-01T21:41:38.763177+00:00,49516209,41,Has early Scratch experience led to fulfilling careers?,109,80
+2026-09-01T21:41:38.763177+00:00,49492094,42,Fractal Jittered Voronoi Partitions,69,6
+2026-09-01T21:41:38.763177+00:00,49512975,43,A walkable ASCII cyberpunk city in one HTML file [video],387,59
+2026-09-01T21:41:38.763177+00:00,49526279,44,Industry Standard Tools,3,0
+2026-09-01T21:41:38.763177+00:00,49526244,45,What's the Scam?,20,5
+2026-09-01T21:41:38.763177+00:00,49517297,46,RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3,140,41
+2026-09-01T21:41:38.763177+00:00,49528414,47,Apple Maps Renames Lake Ontario 'Lake America',3,3
+2026-09-01T21:41:38.763177+00:00,49500504,48,Cheap GPS jammers are filling the world with navigation dead zones,212,220
+2026-09-01T21:41:38.763177+00:00,49526255,49,James Dyson Sold Us on a $400 Hair Dryer. Now He's Trying a $499 Toothbrush,18,12
+2026-09-01T21:41:38.763177+00:00,49528318,50,failfs,3,0
