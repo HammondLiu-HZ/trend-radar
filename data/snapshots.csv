@@ -44482,3 +44482,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-02T14:18:02.179333+00:00,49523387,48,Ambient CSS v3 – Blender meets CSS,296,88
 2026-09-02T14:18:02.179333+00:00,49525297,49,The creator of Jujutsu has joined ERSC,256,199
 2026-09-02T14:18:02.179333+00:00,49527396,50,The ChatGPT/Codex app bundles a full copy of LibreOffice,454,213
+2026-09-02T18:32:20.450387+00:00,49537553,1,Gemini 3.8 Flash and 3.8 Flash Cyber,511,299
+2026-09-02T18:32:20.450387+00:00,49535752,2,A Note from LWN,592,122
+2026-09-02T18:32:20.450387+00:00,49539872,3,I Don't Have a Smartphone,46,35
+2026-09-02T18:32:20.450387+00:00,49539389,4,Paint.net 5.2 alpha now runs on Linux,53,25
+2026-09-02T18:32:20.450387+00:00,49535284,5,"Mistral now trains on user input by default, except on enterprise tier",275,122
+2026-09-02T18:32:20.450387+00:00,49536079,6,Biggest dark matter detector spots a single weird particle,168,39
+2026-09-02T18:32:20.450387+00:00,49536384,7,GrapheneOS says Pixel 11 has MTE support after all,145,91
+2026-09-02T18:32:20.450387+00:00,49536606,8,Exit the Cave,126,26
+2026-09-02T18:32:20.450387+00:00,49536201,9,A third of Perplexity's citations don't contain the number they're cited for,105,37
+2026-09-02T18:32:20.450387+00:00,49536375,10,"Three sites made 215,128 “best software” pages for AI. Perplexity cites them",206,101
+2026-09-02T18:32:20.450387+00:00,49537738,11,SteamdDB Joins Nexus Mods,46,16
+2026-09-02T18:32:20.450387+00:00,49513856,12,A Selection of Los Alamos Rolodex Business Cards,90,19
+2026-09-02T18:32:20.450387+00:00,49535548,13,Aging Brains Blend Memories Together Instead of Just Forgetting Them,117,48
+2026-09-02T18:32:20.450387+00:00,49533497,14,"Commodore 64 released September 1, 1982",276,134
+2026-09-02T18:32:20.450387+00:00,49536177,15,Poisson Disk Sampling,86,12
+2026-09-02T18:32:20.450387+00:00,49502367,16,Making the Internet Boring,15,2
+2026-09-02T18:32:20.450387+00:00,49536411,17,WebLLM: high-performance in-browser LLM inference engine,56,11
+2026-09-02T18:32:20.450387+00:00,49538490,18,"Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",40,16
+2026-09-02T18:32:20.450387+00:00,49540297,19,Why do so many tools have JSON config files?,3,0
+2026-09-02T18:32:20.450387+00:00,49536114,20,Six curl CVEs after OpenAI and Anthropic came back with zero,129,44
+2026-09-02T18:32:20.450387+00:00,49516047,21,Discontinuation of third level domain registrations for the .name TLD [pdf],26,11
+2026-09-02T18:32:20.450387+00:00,49538745,22,How to debloat your Xiaomi 15 Ultra without root access,16,9
+2026-09-02T18:32:20.450387+00:00,49539024,23,Tangle – Visual ML Pipeline Editor,11,1
+2026-09-02T18:32:20.450387+00:00,49534132,24,Quasar 438B: Europe's Leading AI Model,143,94
+2026-09-02T18:32:20.450387+00:00,49535201,25,Check if a file was made with Claude,108,77
+2026-09-02T18:32:20.450387+00:00,49535586,27,LLMs: Intelligence vs. Cost,58,24
+2026-09-02T18:32:20.450387+00:00,49531651,28,The Emergent Symbolic Structure of Artificial Neural Networks,260,88
+2026-09-02T18:32:20.450387+00:00,49539064,29,How Railroad Crossings Work,15,6
+2026-09-02T18:32:20.450387+00:00,49538633,30,The race to engineer new knobs for the human brain,13,0
+2026-09-02T18:32:20.450387+00:00,49534041,31,Banca Etica Suspends A/I's Account While Condemning the Sanctions Behind It,80,48
+2026-09-02T18:32:20.450387+00:00,49538375,32,Saving money on Google Photos with Immich: Your own personal photo storage,78,85
+2026-09-02T18:32:20.450387+00:00,49535583,33,The Cables That Connect the World,45,9
+2026-09-02T18:32:20.450387+00:00,49507370,34,"AI, ex-Soviet engineers, and the Holy Grail of rocketry",29,6
+2026-09-02T18:32:20.450387+00:00,49535324,35,Using jq to format JSON on the clipboard,45,17
+2026-09-02T18:32:20.450387+00:00,49539214,36,Black Hole Museum: A New Idea for the Los Alamos Community (2025),3,1
+2026-09-02T18:32:20.450387+00:00,49524863,37,"Fine, I'll build my own text editor",220,222
+2026-09-02T18:32:20.450387+00:00,49540182,38,No AI until high school:NYC schools announce major classroom technology overhaul,6,0
+2026-09-02T18:32:20.450387+00:00,49539043,39,Show HN: Kekoso – On-device dictation and transcription for macOS,5,2
+2026-09-02T18:32:20.450387+00:00,49525378,40,Claude Fable 5.1 and Claude Mythos 5.1,1360,1312
+2026-09-02T18:32:20.450387+00:00,49538195,41,Show HN: Aura – a Rust agent that investigates and fixes production incidents,17,2
+2026-09-02T18:32:20.450387+00:00,49529132,42,My local model setup on an M4 Pro Mac Mini,275,172
+2026-09-02T18:32:20.450387+00:00,49535526,43,"Dutch central bank moves share of gold from U.S., Canada to London",197,192
+2026-09-02T18:32:20.450387+00:00,49538757,44,Show HN: Skatanica – Browse and share skate clips by location,4,2
+2026-09-02T18:32:20.450387+00:00,49537946,45,Retirement Is Dead,58,6
+2026-09-02T18:32:20.450387+00:00,49482099,46,Sonic Pi,225,54
+2026-09-02T18:32:20.450387+00:00,49494236,47,Open Battery Information,44,10
+2026-09-02T18:32:20.450387+00:00,49538400,48,Unusual Suspects,11,0
+2026-09-02T18:32:20.450387+00:00,49529621,49,FBI Probes Service Selling 153M+ Drivers Licenses,351,230
+2026-09-02T18:32:20.450387+00:00,49535246,50,Uber is laying off 10% of staff,82,27
