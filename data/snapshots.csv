@@ -44335,3 +44335,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-01T23:57:17.117268+00:00,49488224,48,How bicycle coaster brakes work (2018),42,43
 2026-09-01T23:57:17.117268+00:00,49517448,49,Fastpotify,801,534
 2026-09-01T23:57:17.117268+00:00,49516209,50,Has early Scratch experience led to fulfilling careers?,111,84
+2026-09-02T04:17:31.980830+00:00,49525378,1,Claude Fable 5.1 and Claude Mythos 5.1,1011,948
+2026-09-02T04:17:31.980830+00:00,49526069,2,How accurate have Ed Zitron's AI skeptic predictions been?,515,603
+2026-09-02T04:17:31.980830+00:00,49530989,3,True Rate of Unemployment,33,2
+2026-09-02T04:17:31.980830+00:00,49531525,4,WebFPGA,6,2
+2026-09-02T04:17:31.980830+00:00,49529898,5,The efficient frontier of LLM inference,63,10
+2026-09-02T04:17:31.980830+00:00,49529132,6,My local model setup on an M4 Pro Mac Mini,103,51
+2026-09-02T04:17:31.980830+00:00,49528895,7,Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos,84,25
+2026-09-02T04:17:31.980830+00:00,49529621,8,FBI Probes Service Selling 153M+ Drivers Licenses,77,19
+2026-09-02T04:17:31.980830+00:00,49521973,9,Introducing Ad Blocker for Firefox on iOS,355,118
+2026-09-02T04:17:31.980830+00:00,49524863,10,"Fine, I'll build my own text editor",7,2
+2026-09-02T04:17:31.980830+00:00,49482099,11,Sonic Pi,64,9
+2026-09-02T04:17:31.980830+00:00,49527396,12,The ChatGPT/Codex app bundles a full copy of LibreOffice,293,133
+2026-09-02T04:17:31.980830+00:00,49525153,13,Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development,124,42
+2026-09-02T04:17:31.980830+00:00,49525297,14,The creator of Jujutsu has joined ERSC,204,155
+2026-09-02T04:17:31.980830+00:00,49527595,15,Path to Astra: critical capabilities and frontier safeguards,106,49
+2026-09-02T04:17:31.980830+00:00,49523387,16,Ambient CSS v3 – Blender meets CSS,218,69
+2026-09-02T04:17:31.980830+00:00,49528057,17,"Show HN: HN Match Maker – Matching ""Who Wants to Be Hired?"" With ""Who's Hiring?""",55,29
+2026-09-02T04:17:31.980830+00:00,49489098,18,Building Autonomous Goal Loops That Deliver,26,3
+2026-09-02T04:17:31.980830+00:00,49524320,19,"Movie Scene Map – 13,312 films, series, games, anime and manga",176,29
+2026-09-02T04:17:31.980830+00:00,49527232,20,Refurbishing a Tektronix TDS7104 Oscilloscope,100,48
+2026-09-02T04:17:31.980830+00:00,49484796,21,Forgotten History of Small Nuclear Reactors (2015),12,0
+2026-09-02T04:17:31.980830+00:00,49524447,22,Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s,172,90
+2026-09-02T04:17:31.980830+00:00,49479909,23,Building an interactive instrument for a one-of-a-kind festival,24,3
+2026-09-02T04:17:31.980830+00:00,49522897,24,Ask HN: Who is hiring? (September 2026),200,217
+2026-09-02T04:17:31.980830+00:00,49494344,25,Laurie Anderson’s next manuscript to be locked away for 88 years,19,8
+2026-09-02T04:17:31.980830+00:00,49508619,26,Solving the Flat Cube,14,2
+2026-09-02T04:17:31.980830+00:00,49525160,27,Atlas: A World Model for Spatial Intelligence,175,42
+2026-09-02T04:17:31.980830+00:00,49523754,28,"Play Store blocks AuroraStore, hurting GrapheneOS users",482,203
+2026-09-02T04:17:31.980830+00:00,49490498,30,Magic eye tube,87,23
+2026-09-02T04:17:31.980830+00:00,49520022,31,AnkiDroid: Google Play no longer allowing Open Collective donation link,852,253
+2026-09-02T04:17:31.980830+00:00,49528366,32,Fluorescent lamps (don't) have ears,37,9
+2026-09-02T04:17:31.980830+00:00,49522896,33,Ask HN: Who wants to be hired? (September 2026),83,255
+2026-09-02T04:17:31.980830+00:00,49527748,34,Hang on to Your Firefox,722,377
+2026-09-02T04:17:31.980830+00:00,49530972,35,'Idiocracy' Predicted All of This,41,29
+2026-09-02T04:17:31.980830+00:00,49529567,36,Improving our alignment and security efforts,19,15
+2026-09-02T04:17:31.980830+00:00,49479673,37,Make a Portable Wide-screen Mechanical TV,32,5
+2026-09-02T04:17:31.980830+00:00,49521623,38,Io_uring Without Readahead,107,36
+2026-09-02T04:17:31.980830+00:00,49519939,39,I trained a small transformer in 1.5hrs and it beats many LLMs,595,155
+2026-09-02T04:17:31.980830+00:00,49509655,40,We are rebuilding Monica,100,70
+2026-09-02T04:17:31.980830+00:00,49530298,41,"Anthropic banned me for ""suspicious signals""",29,17
+2026-09-02T04:17:31.980830+00:00,49526131,42,I used Fable to rewrite 65kLoC of Go in Rust. It cost $400,53,37
+2026-09-02T04:17:31.980830+00:00,49528663,43,AI is making back-office work extinct,21,1
+2026-09-02T04:17:31.980830+00:00,49529329,44,AI Coding Agent Skills for Real Engineers,16,5
+2026-09-02T04:17:31.980830+00:00,49524469,45,Show HN: Newton's Orchard – Browser-based space/gravity playground,21,1
+2026-09-02T04:17:31.980830+00:00,49516059,46,Tmp.0ut Volume 5,196,40
+2026-09-02T04:17:31.980830+00:00,49488224,47,How bicycle coaster brakes work (2018),54,44
+2026-09-02T04:17:31.980830+00:00,49527879,48,Dyson CameraJet electric toothbrush,101,108
+2026-09-02T04:17:31.980830+00:00,49518316,49,AI Can Make You Suck Faster Too,157,151
+2026-09-02T04:17:31.980830+00:00,49491398,50,Dr. Melvin Scheinman: 40th Anniversary of Catheter Ablation,63,18
