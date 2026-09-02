@@ -44580,3 +44580,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-02T21:43:11.901456+00:00,49540368,48,CFTC moots rules to stop prediction markets from giving affiliates advantages [pdf],7,0
 2026-09-02T21:43:11.901456+00:00,49540873,49,The Death of Physical Media,13,2
 2026-09-02T21:43:11.901456+00:00,49524863,50,"Fine, I'll build my own text editor",229,231
+2026-09-02T23:59:54.916858+00:00,49541256,1,Muse Spark 1.3,332,234
+2026-09-02T23:59:54.916858+00:00,49537553,2,Gemini 3.8 Flash and 3.8 Flash Cyber,792,471
+2026-09-02T23:59:54.916858+00:00,49543841,3,METR Report on OpenAI / Hugging Face Hacking Incident,38,18
+2026-09-02T23:59:54.916858+00:00,49537131,4,Google avoids a breakup of its ad tech business,227,136
+2026-09-02T23:59:54.916858+00:00,49543535,5,Maybe We Shouldn't Be Reviewing All This Code,28,36
+2026-09-02T23:59:54.916858+00:00,49543007,6,Uber shuts operations in Nigeria and Uganda with immediate effect,56,22
+2026-09-02T23:59:54.916858+00:00,49508608,7,Reverse Engineering Unknown File Formats with ImHex,77,10
+2026-09-02T23:59:54.916858+00:00,49541458,8,Fable 5.1 World Modeling,120,42
+2026-09-02T23:59:54.916858+00:00,49543530,9,Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s,11,13
+2026-09-02T23:59:54.916858+00:00,49536375,10,"Three sites made 215,128 “best software” pages for AI. Perplexity cites them",286,126
+2026-09-02T23:59:54.916858+00:00,49508405,11,Holden's Lightning Flight,21,0
+2026-09-02T23:59:54.916858+00:00,49535284,13,Can I opt out of my input or output data being used for training?,359,155
+2026-09-02T23:59:54.916858+00:00,49521031,14,Engineering of the fastest WebAssembly interpreters,28,0
+2026-09-02T23:59:54.916858+00:00,49517018,15,Wendell Berry has died,129,66
+2026-09-02T23:59:54.916858+00:00,49541754,16,Altair Basic Interpreter Source Code (1975) [pdf],37,11
+2026-09-02T23:59:54.916858+00:00,49543191,17,Reasons robotics is hard,16,1
+2026-09-02T23:59:54.916858+00:00,49540565,18,Qantas Airbus A380 engine failure in 2010 (2023),70,39
+2026-09-02T23:59:54.916858+00:00,49536079,19,Biggest dark matter detector spots a single weird particle,235,76
+2026-09-02T23:59:54.916858+00:00,49533497,20,"Commodore 64 released September 1, 1982",324,169
+2026-09-02T23:59:54.916858+00:00,49540415,21,Embedded Rust RTOS vs. C RTOS,51,24
+2026-09-02T23:59:54.916858+00:00,49535548,22,Aging brains blend memories together instead of just forgetting them,195,86
+2026-09-02T23:59:54.916858+00:00,49536606,23,Exit the Cave,201,67
+2026-09-02T23:59:54.916858+00:00,49541519,24,I wanna live an NPC life,163,159
+2026-09-02T23:59:54.916858+00:00,49513856,25,A Selection of Los Alamos Rolodex Business Cards,133,31
+2026-09-02T23:59:54.916858+00:00,49502367,26,Making the Internet Boring,68,43
+2026-09-02T23:59:54.916858+00:00,49536177,27,Poisson Disk Sampling,119,17
+2026-09-02T23:59:54.916858+00:00,49539805,28,"Earth's organisms developed via evolution. What if the cosmos did, too?",58,42
+2026-09-02T23:59:54.916858+00:00,49507807,29,Product Backlog Problems: Why Your Hierarchy Is Broken,11,4
+2026-09-02T23:59:54.916858+00:00,49521909,30,We could save petabytes of cache storage with Zstandard and Pingora,55,25
+2026-09-02T23:59:54.916858+00:00,49536411,31,WebLLM: high-performance in-browser LLM inference engine,81,17
+2026-09-02T23:59:54.916858+00:00,49528506,32,Show HN: OwnTime – a chess clock for your day's priorities,17,5
+2026-09-02T23:59:54.916858+00:00,49535752,33,A note on subscription prices from LWN,667,133
+2026-09-02T23:59:54.916858+00:00,49528174,34,A docs page is a search query to find AI agents and route them to your company,10,1
+2026-09-02T23:59:54.916858+00:00,49540574,35,Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form,21,7
+2026-09-02T23:59:54.916858+00:00,49531651,36,The Emergent Symbolic Structure of Artificial Neural Networks,269,98
+2026-09-02T23:59:54.916858+00:00,49534132,37,Quasar 438B: Europe's Leading AI Model,159,101
+2026-09-02T23:59:54.916858+00:00,49537738,38,SteamdDB Joins Nexus Mods,99,66
+2026-09-02T23:59:54.916858+00:00,49512593,39,A practical guide to running 8x RTX PRO 6000's,26,38
+2026-09-02T23:59:54.916858+00:00,49542123,40,Vidact – a compiler that turns React into direct DOM operations,10,8
+2026-09-02T23:59:54.916858+00:00,49539389,41,Paint.net 5.2 alpha now runs on Linux,168,134
+2026-09-02T23:59:54.916858+00:00,49540078,42,AI is stopping startups from completing puberty,22,1
+2026-09-02T23:59:54.916858+00:00,49542443,43,Mamdani Bans AI in NYC Schools,131,100
+2026-09-02T23:59:54.916858+00:00,49539872,44,I Don't Have a Smartphone,198,191
+2026-09-02T23:59:54.916858+00:00,49536114,45,Six curl CVEs after OpenAI and Anthropic came back with zero,150,54
+2026-09-02T23:59:54.916858+00:00,49543217,46,Show HN: Open source ML programming language playground,3,0
+2026-09-02T23:59:54.916858+00:00,49535586,47,LLMs: Intelligence vs. Cost,68,38
+2026-09-02T23:59:54.916858+00:00,49541619,48,The Silo · interactive 3D cutaway,13,1
+2026-09-02T23:59:54.916858+00:00,49538633,49,The race to engineer new knobs for the human brain,39,5
+2026-09-02T23:59:54.916858+00:00,49535201,50,Check if a file was made with Claude,149,110
