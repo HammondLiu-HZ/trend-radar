@@ -44678,3 +44678,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-03T04:15:24.881418+00:00,49524863,48,"Fine, I'll build my own text editor",237,233
 2026-09-03T04:15:24.881418+00:00,49529132,49,My local model setup on an M4 Pro Mac Mini,295,179
 2026-09-03T04:15:24.881418+00:00,49536384,50,GrapheneOS says Pixel 11 has MTE support after all,177,140
+2026-09-03T09:36:17.535148+00:00,49546753,1,Pre-Release of Polars 2.0,116,20
+2026-09-03T09:36:17.535148+00:00,49522137,2,The Browser's Main Thread Is Expensive,38,10
+2026-09-03T09:36:17.535148+00:00,49541256,3,Muse Spark 1.3,581,382
+2026-09-03T09:36:17.535148+00:00,49537553,4,Gemini 3.8 Flash and 3.8 Flash Cyber,1015,570
+2026-09-03T09:36:17.535148+00:00,49546800,5,Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016),43,14
+2026-09-03T09:36:17.535148+00:00,49530169,6,LLMs and Self-Referentiality,43,30
+2026-09-03T09:36:17.535148+00:00,49511493,7,The Computer Museum of America reclamation project,43,14
+2026-09-03T09:36:17.535148+00:00,49537131,8,Google avoids a breakup of its ad tech business,379,278
+2026-09-03T09:36:17.535148+00:00,49508405,9,Holden's Lightning Flight,151,33
+2026-09-03T09:36:17.535148+00:00,49536375,10,"Three sites made 215,128 “best software” pages for AI. Perplexity cites them",412,205
+2026-09-03T09:36:17.535148+00:00,49535284,11,Can I opt out of my input or output data being used for training?,441,200
+2026-09-03T09:36:17.535148+00:00,49508608,12,Reverse Engineering Unknown File Formats with ImHex,199,37
+2026-09-03T09:36:17.535148+00:00,49519792,13,Higher Multipoles of the Cow,68,22
+2026-09-03T09:36:17.535148+00:00,49541458,14,Fable 5.1 World Modeling,244,73
+2026-09-03T09:36:17.535148+00:00,49543530,15,Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s,60,69
+2026-09-03T09:36:17.535148+00:00,49536079,16,Biggest dark matter detector spots a single weird particle,296,103
+2026-09-03T09:36:17.535148+00:00,49517018,17,Wendell Berry has died,187,98
+2026-09-03T09:36:17.535148+00:00,49535548,18,Aging brains blend memories together instead of just forgetting them,280,118
+2026-09-03T09:36:17.535148+00:00,49540565,19,Qantas Airbus A380 engine failure in 2010 (2023),134,81
+2026-09-03T09:36:17.535148+00:00,49521031,20,Engineering of the fastest WebAssembly interpreters,91,8
+2026-09-03T09:36:17.535148+00:00,49536606,21,Exit the Cave,263,92
+2026-09-03T09:36:17.535148+00:00,49540415,22,Async Rust vs RTOS showdown (2022),90,44
+2026-09-03T09:36:17.535148+00:00,49543191,23,Reasons robotics is hard,94,51
+2026-09-03T09:36:17.535148+00:00,49513856,24,A Selection of Los Alamos Rolodex Business Cards,169,46
+2026-09-03T09:36:17.535148+00:00,49541754,25,Altair Basic Interpreter Source Code (1975) [pdf],60,34
+2026-09-03T09:36:17.535148+00:00,49521909,26,We could save petabytes of cache storage with Zstandard and Pingora,111,47
+2026-09-03T09:36:17.535148+00:00,49536177,27,Poisson Disk Sampling,162,19
+2026-09-03T09:36:17.535148+00:00,49536411,28,WebLLM: high-performance in-browser LLM inference engine,119,20
+2026-09-03T09:36:17.535148+00:00,49534132,30,Quasar 438B: Europe's Leading AI Model,176,112
+2026-09-03T09:36:17.535148+00:00,49528506,31,Show HN: OwnTime – a chess clock for your day's priorities,79,40
+2026-09-03T09:36:17.535148+00:00,49497996,32,The shrinking landscape of linguistic diversity in the age of LLMs,142,136
+2026-09-03T09:36:17.535148+00:00,49546988,33,"Syria, eyeing role as Middle East hub, offers options to bypass Hormuz",8,0
+2026-09-03T09:36:17.535148+00:00,49545411,34,"Show HN: The cheapest GPU cloud – H100s at $2.04/HR, H200s at $3/HR",23,7
+2026-09-03T09:36:17.535148+00:00,49502367,35,Making the Internet Boring,116,59
+2026-09-03T09:36:17.535148+00:00,49535752,36,A note on subscription prices from LWN,706,143
+2026-09-03T09:36:17.535148+00:00,49528771,37,Much Ado About Adenoids,28,0
+2026-09-03T09:36:17.535148+00:00,49547334,38,"Kids go from curious to frustrated playing with AI-stuffed toys, UW study finds",4,4
+2026-09-03T09:36:17.535148+00:00,49525378,39,Claude Fable 5.1 and Claude Mythos 5.1,1391,1351
+2026-09-03T09:36:17.535148+00:00,49541519,40,I wanna live an NPC life,256,218
+2026-09-03T09:36:17.535148+00:00,49537738,41,SteamdDB Joins Nexus Mods,114,73
+2026-09-03T09:36:17.535148+00:00,49536114,42,Six curl CVEs after OpenAI and Anthropic came back with zero,167,55
+2026-09-03T09:36:17.535148+00:00,49533497,43,"Commodore 64 released September 1, 1982",342,177
+2026-09-03T09:36:17.535148+00:00,49529132,44,My local model setup on an M4 Pro Mac Mini,306,184
+2026-09-03T09:36:17.535148+00:00,49547230,45,Denmark versus UK: which country gets more health for their money?,7,0
+2026-09-03T09:36:17.535148+00:00,49524863,46,"Fine, I'll build my own text editor",244,238
+2026-09-03T09:36:17.535148+00:00,49535586,47,LLMs: Intelligence vs. Cost,82,39
+2026-09-03T09:36:17.535148+00:00,49541619,48,The Silo · interactive 3D cutaway,55,10
+2026-09-03T09:36:17.535148+00:00,49540574,49,Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form,36,8
+2026-09-03T09:36:17.535148+00:00,49539389,50,Paint.net 5.2 alpha now runs on Linux,194,149
