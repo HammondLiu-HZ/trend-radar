@@ -44629,3 +44629,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-02T23:59:54.916858+00:00,49541619,48,The Silo · interactive 3D cutaway,13,1
 2026-09-02T23:59:54.916858+00:00,49538633,49,The race to engineer new knobs for the human brain,39,5
 2026-09-02T23:59:54.916858+00:00,49535201,50,Check if a file was made with Claude,149,110
+2026-09-03T04:15:24.881418+00:00,49541256,1,Muse Spark 1.3,447,299
+2026-09-03T04:15:24.881418+00:00,49537553,2,Gemini 3.8 Flash and 3.8 Flash Cyber,881,516
+2026-09-03T04:15:24.881418+00:00,49537131,3,Google avoids a breakup of its ad tech business,301,219
+2026-09-03T04:15:24.881418+00:00,49508405,4,Holden's Lightning Flight,86,13
+2026-09-03T04:15:24.881418+00:00,49497996,5,The shrinking landscape of linguistic diversity in the age of LLMs,67,43
+2026-09-03T04:15:24.881418+00:00,49536375,6,"Three sites made 215,128 “best software” pages for AI. Perplexity cites them",334,159
+2026-09-03T04:15:24.881418+00:00,49543530,7,Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s,35,43
+2026-09-03T04:15:24.881418+00:00,49508608,8,Reverse Engineering Unknown File Formats with ImHex,130,26
+2026-09-03T04:15:24.881418+00:00,49541458,9,Fable 5.1 World Modeling,163,54
+2026-09-03T04:15:24.881418+00:00,49535284,10,Can I opt out of my input or output data being used for training?,393,168
+2026-09-03T04:15:24.881418+00:00,49545547,11,Wk. 6 of Vibecoding an MMO,8,7
+2026-09-03T04:15:24.881418+00:00,49519792,12,Higher Multipoles of the Cow,18,7
+2026-09-03T04:15:24.881418+00:00,49543191,13,Reasons robotics is hard,61,24
+2026-09-03T04:15:24.881418+00:00,49536079,14,Biggest dark matter detector spots a single weird particle,260,85
+2026-09-03T04:15:24.881418+00:00,49521031,15,Engineering of the fastest WebAssembly interpreters,60,3
+2026-09-03T04:15:24.881418+00:00,49517018,16,Wendell Berry has died,154,84
+2026-09-03T04:15:24.881418+00:00,49535548,17,Aging brains blend memories together instead of just forgetting them,229,107
+2026-09-03T04:15:24.881418+00:00,49509606,18,Creating Backup Storage Sucks,6,1
+2026-09-03T04:15:24.881418+00:00,49524428,19,Whistleblower warns Postal Service mail ballot system has catastrophic problems,171,112
+2026-09-03T04:15:24.881418+00:00,49536606,21,Exit the Cave,221,81
+2026-09-03T04:15:24.881418+00:00,49540565,22,Qantas Airbus A380 engine failure in 2010 (2023),95,56
+2026-09-03T04:15:24.881418+00:00,49540415,23,Embedded Rust RTOS vs. C RTOS,68,35
+2026-09-03T04:15:24.881418+00:00,49541754,24,Altair Basic Interpreter Source Code (1975) [pdf],45,30
+2026-09-03T04:15:24.881418+00:00,49513856,25,A Selection of Los Alamos Rolodex Business Cards,148,37
+2026-09-03T04:15:24.881418+00:00,49536177,26,Poisson Disk Sampling,136,19
+2026-09-03T04:15:24.881418+00:00,49521909,27,We could save petabytes of cache storage with Zstandard and Pingora,82,32
+2026-09-03T04:15:24.881418+00:00,49545747,28,Dutch central bank moves 86 tonnes of gold from US citing 'geopolitical unrest',5,0
+2026-09-03T04:15:24.881418+00:00,49536411,29,WebLLM: high-performance in-browser LLM inference engine,94,17
+2026-09-03T04:15:24.881418+00:00,49502367,30,Making the Internet Boring,93,46
+2026-09-03T04:15:24.881418+00:00,49541519,31,I wanna live an NPC life,217,197
+2026-09-03T04:15:24.881418+00:00,49531651,32,The Emergent Symbolic Structure of Artificial Neural Networks,281,103
+2026-09-03T04:15:24.881418+00:00,49534132,33,Quasar 438B: Europe's Leading AI Model,164,105
+2026-09-03T04:15:24.881418+00:00,49545063,34,Kakistocracy,23,4
+2026-09-03T04:15:24.881418+00:00,49535752,35,A note on subscription prices from LWN,687,133
+2026-09-03T04:15:24.881418+00:00,49507807,36,Product Backlog Problems: Why Your Hierarchy Is Broken,22,16
+2026-09-03T04:15:24.881418+00:00,49543007,37,Uber shuts operations in Nigeria and Uganda with immediate effect,114,84
+2026-09-03T04:15:24.881418+00:00,49537738,38,SteamdDB Joins Nexus Mods,105,70
+2026-09-03T04:15:24.881418+00:00,49536114,39,Six curl CVEs after OpenAI and Anthropic came back with zero,161,54
+2026-09-03T04:15:24.881418+00:00,49544903,40,It's Like Having 150 Extra Engineers,22,0
+2026-09-03T04:15:24.881418+00:00,49540574,41,Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form,27,7
+2026-09-03T04:15:24.881418+00:00,49533497,42,"Commodore 64 released September 1, 1982",335,175
+2026-09-03T04:15:24.881418+00:00,49525378,43,Claude Fable 5.1 and Claude Mythos 5.1,1381,1339
+2026-09-03T04:15:24.881418+00:00,49544650,44,US gov sides with OpenAI on issue of training LLMs on copyrighted material,26,7
+2026-09-03T04:15:24.881418+00:00,49535586,45,LLMs: Intelligence vs. Cost,73,38
+2026-09-03T04:15:24.881418+00:00,49541619,46,The Silo · interactive 3D cutaway,31,6
+2026-09-03T04:15:24.881418+00:00,49539389,47,Paint.net 5.2 alpha now runs on Linux,180,140
+2026-09-03T04:15:24.881418+00:00,49524863,48,"Fine, I'll build my own text editor",237,233
+2026-09-03T04:15:24.881418+00:00,49529132,49,My local model setup on an M4 Pro Mac Mini,295,179
+2026-09-03T04:15:24.881418+00:00,49536384,50,GrapheneOS says Pixel 11 has MTE support after all,177,140
