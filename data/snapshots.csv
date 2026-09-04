@@ -45168,3 +45168,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-04T21:21:05.024782+00:00,49551760,48,K2 Horizon: A connected fleet of six open models,331,124
 2026-09-04T21:21:05.024782+00:00,49544618,49,GPS glitched across the US by as much as 33 feet,212,137
 2026-09-04T21:21:05.024782+00:00,49554520,50,Qwen 3.8 27B available on Cerebras at 1500 tokens/s,675,222
+2026-09-04T23:54:28.405207+00:00,49570669,1,Actively exploited sandbox RCE in all Chromium versions,118,49
+2026-09-04T23:54:28.405207+00:00,49568506,2,Formalizing Fermat's Last Theorem,435,285
+2026-09-04T23:54:28.405207+00:00,49569896,3,Statichost.eu – European static site hosting,144,47
+2026-09-04T23:54:28.405207+00:00,49563355,4,Discovery of a new OpenAI agent message board,1427,1150
+2026-09-04T23:54:28.405207+00:00,49570545,5,GPT-6 Astra on OpenRouter,74,31
+2026-09-04T23:54:28.405207+00:00,49569366,6,Can AI design circuit boards yet?,132,73
+2026-09-04T23:54:28.405207+00:00,49568579,7,Shutting down our public encrypted DNS,222,78
+2026-09-04T23:54:28.405207+00:00,49569663,8,An open DNS recursive service for free security and high privacy,52,9
+2026-09-04T23:54:28.405207+00:00,49546284,9,RSA-260 Factorized,44,15
+2026-09-04T23:54:28.405207+00:00,49567437,10,Show HN: Open-Source eInk Bike Computer,215,72
+2026-09-04T23:54:28.405207+00:00,49568828,11,Government Rails Site Hit Hours After CVE Patch,64,14
+2026-09-04T23:54:28.405207+00:00,49570772,12,Record-High 89% in U.S. Say Government Corruption Widespread,94,42
+2026-09-04T23:54:28.405207+00:00,49567873,13,The Rust React Compiler is now native in Vite,103,19
+2026-09-04T23:54:28.405207+00:00,49568697,14,Fermat's Last Theorem in Lean 4,49,10
+2026-09-04T23:54:28.405207+00:00,49571047,15,Can guitar frets perform multiplication?,9,0
+2026-09-04T23:54:28.405207+00:00,49570328,16,"Updates on HEIR, the Homomorphic Encryption Compiler Project",17,0
+2026-09-04T23:54:28.405207+00:00,49563851,17,IBM Bob,212,251
+2026-09-04T23:54:28.405207+00:00,49570597,18,Icons as a Service,12,0
+2026-09-04T23:54:28.405207+00:00,49529161,19,Decompiler Explorer,26,1
+2026-09-04T23:54:28.405207+00:00,49562657,20,Solving the Jane Street reverse engineering challenge,387,85
+2026-09-04T23:54:28.405207+00:00,49566193,21,deSEC – Free Secure DNS,103,40
+2026-09-04T23:54:28.405207+00:00,49569702,22,How to Create a Tor Exit Node (2015),33,18
+2026-09-04T23:54:28.405207+00:00,49512834,23,The Wormhole Hall of Shame,24,10
+2026-09-04T23:54:28.405207+00:00,49567053,24,Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive,312,191
+2026-09-04T23:54:28.405207+00:00,49566788,25,Project HydraFusion: Frontier quality via multi-model orchestration,59,29
+2026-09-04T23:54:28.405207+00:00,49567310,26,“Next-token predictor” is the wrong mental model for LLMs,66,155
+2026-09-04T23:54:28.405207+00:00,49534025,27,Fomu An FPGA board that fits inside your USB port,26,5
+2026-09-04T23:54:28.405207+00:00,49516691,28,Deadpan Photography: Enjoying the Pretence,30,14
+2026-09-04T23:54:28.405207+00:00,49571038,29,Christmas Village shoppers no longer will be allowed to enter booths,7,3
+2026-09-04T23:54:28.405207+00:00,49562219,31,Show HN: TERMy – A fast terminal assistant that does not use LLMs,87,27
+2026-09-04T23:54:28.405207+00:00,49516312,32,Elevator of the Year: Modernization of the Metropolis Trust Building,141,50
+2026-09-04T23:54:28.405207+00:00,49570206,33,"Without new landers or rovers, it's helicopters or bust for NASA's Mars program",8,0
+2026-09-04T23:54:28.405207+00:00,49527123,34,Getting Started with AT Protocol,72,24
+2026-09-04T23:54:28.405207+00:00,49566137,35,Corporate America is getting hooked on open-source AI,255,247
+2026-09-04T23:54:28.405207+00:00,49554643,36,GPT-6 Astra,2147,1962
+2026-09-04T23:54:28.405207+00:00,49547415,37,People that worked on the same idea for decades,51,26
+2026-09-04T23:54:28.405207+00:00,49570189,38,Some more thoughts on random_page_cost,8,0
+2026-09-04T23:54:28.405207+00:00,49563772,39,"Ok, but does it scale?",108,63
+2026-09-04T23:54:28.405207+00:00,49534936,40,The Two Abstractions of System Design: Hide or Reduce,96,10
+2026-09-04T23:54:28.405207+00:00,49570802,41,Almost half of ICANN-accredited registrars under the control of a single busines,18,0
+2026-09-04T23:54:28.405207+00:00,49555131,42,Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express',20,3
+2026-09-04T23:54:28.405207+00:00,49550772,43,.name Termination,2141,528
+2026-09-04T23:54:28.405207+00:00,49563386,44,Google AI Mode shows same products 21.6% more expensive than traditional search,362,72
+2026-09-04T23:54:28.405207+00:00,49569932,45,What is known about how Eric Lu factored the 862-bit RSA-260 after 35 years,6,0
+2026-09-04T23:54:28.405207+00:00,49541025,46,Digital Sovereignty is written in PHP,37,1
+2026-09-04T23:54:28.405207+00:00,49563839,47,Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region,59,64
+2026-09-04T23:54:28.405207+00:00,49569146,48,More Targets of the OpenAI Agent Swarm,8,1
+2026-09-04T23:54:28.405207+00:00,49569584,49,Searching for the Best Silicone USB Cable,6,1
+2026-09-04T23:54:28.405207+00:00,49570063,50,Thinking in Code,3,0
