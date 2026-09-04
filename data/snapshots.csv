@@ -45119,3 +45119,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-04T18:15:38.407622+00:00,49562648,48,The auto lobby spent millions on media manipulation,15,2
 2026-09-04T18:15:38.407622+00:00,49561975,49,"Carbon-aware electricity pricing, measured daily on 38 grids",81,68
 2026-09-04T18:15:38.407622+00:00,49555233,50,The asteroid currently hitting front end web development,198,247
+2026-09-04T21:21:05.024782+00:00,49568506,1,Formalizing Fermat's Last Theorem,286,169
+2026-09-04T21:21:05.024782+00:00,49563355,2,Discovery of a new OpenAI agent message board,1314,1068
+2026-09-04T21:21:05.024782+00:00,49569366,3,Can AI design circuit boards yet?,62,44
+2026-09-04T21:21:05.024782+00:00,49568579,4,Shutting down our public encrypted DNS,146,46
+2026-09-04T21:21:05.024782+00:00,49570133,5,Fermat's Last Theorem: Anthropic has beaten me to it,12,1
+2026-09-04T21:21:05.024782+00:00,49567437,6,Show HN: Open-Source eInk Bike Computer,172,57
+2026-09-04T21:21:05.024782+00:00,49569896,7,Statichost.eu – 100% European static site hosting,23,2
+2026-09-04T21:21:05.024782+00:00,49568828,8,Government Rails Site Hit Hours After CVE Patch,40,12
+2026-09-04T21:21:05.024782+00:00,49569663,9,An open DNS recursive service for free security and high privacy,16,4
+2026-09-04T21:21:05.024782+00:00,49567873,10,The Rust React Compiler is now native in Vite,73,13
+2026-09-04T21:21:05.024782+00:00,49566193,11,deSEC – Free Secure DNS,84,31
+2026-09-04T21:21:05.024782+00:00,49563851,12,IBM Bob,190,229
+2026-09-04T21:21:05.024782+00:00,49512834,13,The Wormhole Hall of Shame,8,5
+2026-09-04T21:21:05.024782+00:00,49562657,14,Solving the Jane Street reverse engineering challenge,355,81
+2026-09-04T21:21:05.024782+00:00,49568697,15,Fermat's Last Theorem in Lean 4,19,3
+2026-09-04T21:21:05.024782+00:00,49569702,16,How to Create a Tor Exit Node,12,7
+2026-09-04T21:21:05.024782+00:00,49567053,17,Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive,239,135
+2026-09-04T21:21:05.024782+00:00,49566788,18,Project HydraFusion: Frontier quality via multi-model orchestration,45,27
+2026-09-04T21:21:05.024782+00:00,49547415,19,People that worked on the same idea for decades,37,18
+2026-09-04T21:21:05.024782+00:00,49562219,20,Show HN: TERMy – A fast terminal assistant that does not use LLMs,67,24
+2026-09-04T21:21:05.024782+00:00,49566137,21,Corporate America is getting hooked on open-source AI,226,210
+2026-09-04T21:21:05.024782+00:00,49516312,22,Elevator of the Year: Modernization of the Metropolis Trust Building,132,48
+2026-09-04T21:21:05.024782+00:00,49567310,23,"""Next-token predictor"" is the wrong mental model for LLMs",34,78
+2026-09-04T21:21:05.024782+00:00,49527123,25,Getting Started with AT Protocol,65,23
+2026-09-04T21:21:05.024782+00:00,49516691,26,Deadpan Photography: Enjoying the Pretence,9,7
+2026-09-04T21:21:05.024782+00:00,49563772,27,"Ok, but does it scale?",99,62
+2026-09-04T21:21:05.024782+00:00,49534936,28,The Two Abstractions of System Design: Hide or Reduce,93,10
+2026-09-04T21:21:05.024782+00:00,49555131,29,Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express',16,3
+2026-09-04T21:21:05.024782+00:00,49554643,30,GPT-6 Astra,2134,1938
+2026-09-04T21:21:05.024782+00:00,49563386,31,Google AI Mode shows same products 21.6% more expensive than traditional search,352,70
+2026-09-04T21:21:05.024782+00:00,49526453,32,The largest electric aircraft just flew [video],460,345
+2026-09-04T21:21:05.024782+00:00,49563839,33,Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region,53,63
+2026-09-04T21:21:05.024782+00:00,49550772,34,.name Termination,2133,528
+2026-09-04T21:21:05.024782+00:00,49569749,35,The Sealed Document TikTok Doesn't Want Two Senators to See,9,1
+2026-09-04T21:21:05.024782+00:00,49533840,36,Resources to Get Good at Soldering?,66,42
+2026-09-04T21:21:05.024782+00:00,49563784,37,How Fairphone built the Fairphone Gen 6+,183,153
+2026-09-04T21:21:05.024782+00:00,49531073,38,A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf],12,1
+2026-09-04T21:21:05.024782+00:00,49507072,39,How an MIT research project became the Julia programming language,203,110
+2026-09-04T21:21:05.024782+00:00,49564555,40,US Military disables ad trackers on troops' phones,153,82
+2026-09-04T21:21:05.024782+00:00,49567357,41,Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace,60,18
+2026-09-04T21:21:05.024782+00:00,49567961,42,Hayes AT command set,31,8
+2026-09-04T21:21:05.024782+00:00,49550375,43,"Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",364,125
+2026-09-04T21:21:05.024782+00:00,49565547,44,Leading Theory for How Life on Earth Began Is 'Highly Unlikely',12,0
+2026-09-04T21:21:05.024782+00:00,49569707,45,GPT-6 Astra Generally Available,16,5
+2026-09-04T21:21:05.024782+00:00,49567417,46,Squeezing Performance Out of eBPF,5,0
+2026-09-04T21:21:05.024782+00:00,49564714,47,Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal,135,71
+2026-09-04T21:21:05.024782+00:00,49551760,48,K2 Horizon: A connected fleet of six open models,331,124
+2026-09-04T21:21:05.024782+00:00,49544618,49,GPS glitched across the US by as much as 33 feet,212,137
+2026-09-04T21:21:05.024782+00:00,49554520,50,Qwen 3.8 27B available on Cerebras at 1500 tokens/s,675,222
