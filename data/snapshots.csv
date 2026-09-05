@@ -45266,3 +45266,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-05T04:10:18.466876+00:00,49516370,48,When declaring an incident becomes everyone's favorite workaround,17,6
 2026-09-05T04:10:18.466876+00:00,49571131,49,Claude Code skills for advanced context engineering techniques and patterns,13,1
 2026-09-05T04:10:18.466876+00:00,49562657,50,Solving the Jane Street reverse engineering challenge,402,88
+2026-09-05T08:56:16.921270+00:00,49574167,1,"AI handles incidents, engineers lose touch with their systems",33,14
+2026-09-05T08:56:16.921270+00:00,49570669,2,Actively exploited sandbox RCE in all Chromium versions,482,266
+2026-09-05T08:56:16.921270+00:00,49573680,3,Git hosting that never leaves Europe,51,37
+2026-09-05T08:56:16.921270+00:00,49563355,4,Discovery of a new OpenAI agent message board,1690,1309
+2026-09-05T08:56:16.921270+00:00,49568506,5,Formalizing Fermat's Last Theorem,604,382
+2026-09-05T08:56:16.921270+00:00,49571634,6,Nitter has more working instances than before the takedowns,193,67
+2026-09-05T08:56:16.921270+00:00,49569896,7,Statichost.eu – European static site hosting,271,105
+2026-09-05T08:56:16.921270+00:00,49570545,8,GPT-6 Astra on OpenRouter,214,124
+2026-09-05T08:56:16.921270+00:00,49572875,9,"GPT-6 Astra in code review: Gains, privacy, and cost",37,19
+2026-09-05T08:56:16.921270+00:00,49569366,10,Can AI design circuit boards yet?,253,151
+2026-09-05T08:56:16.921270+00:00,49568579,11,Shutting down our public encrypted DNS,336,154
+2026-09-05T08:56:16.921270+00:00,49519850,12,Git Submodules as a Package Manager,55,6
+2026-09-05T08:56:16.921270+00:00,49571632,13,Artificial Analysis Intelligence Index v4.2,115,39
+2026-09-05T08:56:16.921270+00:00,49571465,14,Portal by Spotify cut my Claude Code token usage by 90%,120,56
+2026-09-05T08:56:16.921270+00:00,49513822,15,Things I Won't Work With: Straight Dimethyl Zinc,6,0
+2026-09-05T08:56:16.921270+00:00,49535024,16,Pointing at the error: compiler-style diagnostics in uutils coreutils,8,1
+2026-09-05T08:56:16.921270+00:00,49571047,17,Can guitar frets perform multiplication?,75,19
+2026-09-05T08:56:16.921270+00:00,49567437,18,Show HN: Open-Source eInk Bike Computer,282,102
+2026-09-05T08:56:16.921270+00:00,49533840,19,Ask HN: Resources to get good at soldering?,124,74
+2026-09-05T08:56:16.921270+00:00,49537340,20,The Highest Point in the Netherlands,45,33
+2026-09-05T08:56:16.921270+00:00,49563851,21,IBM Bob,267,287
+2026-09-05T08:56:16.921270+00:00,49569663,22,An open DNS recursive service for free security and high privacy,88,25
+2026-09-05T08:56:16.921270+00:00,49546284,23,RSA-260 Factorized,113,59
+2026-09-05T08:56:16.921270+00:00,49568697,24,Fermat's Last Theorem in Lean 4,104,20
+2026-09-05T08:56:16.921270+00:00,49570772,25,Record-High 89% in U.S. Say Government Corruption Widespread,409,311
+2026-09-05T08:56:16.921270+00:00,49567873,26,The Rust React Compiler is now native in Vite,137,31
+2026-09-05T08:56:16.921270+00:00,49529161,27,Decompiler Explorer,83,4
+2026-09-05T08:56:16.921270+00:00,49568828,28,Government Rails Site Hit Hours After CVE Patch,93,28
+2026-09-05T08:56:16.921270+00:00,49562219,29,Show HN: TERMy – A fast terminal assistant that does not use LLMs,127,34
+2026-09-05T08:56:16.921270+00:00,49570597,30,Icons as a Service,44,5
+2026-09-05T08:56:16.921270+00:00,49566193,31,deSEC – Free Secure DNS,130,46
+2026-09-05T08:56:16.921270+00:00,49554643,32,GPT-6 Astra,2172,1996
+2026-09-05T08:56:16.921270+00:00,49573455,33,Why are European countries moving their gold out of North America?,129,179
+2026-09-05T08:56:16.921270+00:00,49522194,34,Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain,16,14
+2026-09-05T08:56:16.921270+00:00,49567310,35,“Next-token predictor” is the wrong mental model for LLMs,111,242
+2026-09-05T08:56:16.921270+00:00,49571263,36,Connecting every app to every other app,38,2
+2026-09-05T08:56:16.921270+00:00,49570328,37,"Updates on HEIR, the Homomorphic Encryption Compiler Project",36,0
+2026-09-05T08:56:16.921270+00:00,49567053,38,Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive,386,225
+2026-09-05T08:56:16.921270+00:00,49516312,39,Elevator of the Year: Modernization of the Metropolis Trust Building,146,52
+2026-09-05T08:56:16.921270+00:00,49550772,40,.name Termination,2165,533
+2026-09-05T08:56:16.921270+00:00,49571537,41,Show HN: Moadim.io – A scheduler for agents,24,11
+2026-09-05T08:56:16.921270+00:00,49569702,42,How to Create a Tor Exit Node (2015),50,31
+2026-09-05T08:56:16.921270+00:00,49528484,43,Bugs happen: The easy way to compare solo PQ to ECC+PQ,18,7
+2026-09-05T08:56:16.921270+00:00,49566788,45,Project HydraFusion: Frontier quality via multi-model orchestration,66,31
+2026-09-05T08:56:16.921270+00:00,49529179,46,I Want a Wife (1971) [pdf],70,58
+2026-09-05T08:56:16.921270+00:00,49512834,47,The Wormhole Hall of Shame,41,17
+2026-09-05T08:56:16.921270+00:00,49534936,48,The Two Abstractions of System Design: Hide or Reduce,108,13
+2026-09-05T08:56:16.921270+00:00,49573370,49,New Zealand is determined not to keep China's espionage a secret,19,0
+2026-09-05T08:56:16.921270+00:00,49527123,50,Getting Started with AT Protocol,77,25
