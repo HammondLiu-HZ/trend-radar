@@ -45217,3 +45217,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-04T23:54:28.405207+00:00,49569146,48,More Targets of the OpenAI Agent Swarm,8,1
 2026-09-04T23:54:28.405207+00:00,49569584,49,Searching for the Best Silicone USB Cable,6,1
 2026-09-04T23:54:28.405207+00:00,49570063,50,Thinking in Code,3,0
+2026-09-05T04:10:18.466876+00:00,49570669,1,Actively exploited sandbox RCE in all Chromium versions,330,184
+2026-09-05T04:10:18.466876+00:00,49568506,2,Formalizing Fermat's Last Theorem,534,336
+2026-09-05T04:10:18.466876+00:00,49563355,3,Discovery of a new OpenAI agent message board,1546,1231
+2026-09-05T04:10:18.466876+00:00,49571632,4,Artificial Analysis Intelligence Index v4.2,78,21
+2026-09-05T04:10:18.466876+00:00,49569896,5,Statichost.eu – European static site hosting,189,64
+2026-09-05T04:10:18.466876+00:00,49570545,6,GPT-6 Astra on OpenRouter,151,79
+2026-09-05T04:10:18.466876+00:00,49569366,7,Can AI design circuit boards yet?,189,124
+2026-09-05T04:10:18.466876+00:00,49568579,8,Shutting down our public encrypted DNS,279,122
+2026-09-05T04:10:18.466876+00:00,49571047,9,Can guitar frets perform multiplication?,44,12
+2026-09-05T04:10:18.466876+00:00,49571465,10,Portal by Spotify cut my Claude Code token usage by 90%,57,25
+2026-09-05T04:10:18.466876+00:00,49519850,11,Git Submodules as a Package Manager,15,3
+2026-09-05T04:10:18.466876+00:00,49567437,12,Show HN: Open-Source eInk Bike Computer,252,88
+2026-09-05T04:10:18.466876+00:00,49546284,13,RSA-260 Factorized,81,37
+2026-09-05T04:10:18.466876+00:00,49528484,14,Bugs happen: The easy way to compare solo PQ to ECC+PQ,14,5
+2026-09-05T04:10:18.466876+00:00,49533840,15,Ask HN: Resources to get good at soldering?,75,54
+2026-09-05T04:10:18.466876+00:00,49568697,16,Fermat's Last Theorem in Lean 4,76,15
+2026-09-05T04:10:18.466876+00:00,49569663,17,An open DNS recursive service for free security and high privacy,69,19
+2026-09-05T04:10:18.466876+00:00,49568828,18,Government Rails Site Hit Hours After CVE Patch,79,24
+2026-09-05T04:10:18.466876+00:00,49567873,19,The Rust React Compiler is now native in Vite,123,24
+2026-09-05T04:10:18.466876+00:00,49563851,20,IBM Bob,240,276
+2026-09-05T04:10:18.466876+00:00,49562219,21,Show HN: TERMy – A fast terminal assistant that does not use LLMs,100,29
+2026-09-05T04:10:18.466876+00:00,49570772,22,Record-High 89% in U.S. Say Government Corruption Widespread,261,201
+2026-09-05T04:10:18.466876+00:00,49529161,23,Decompiler Explorer,47,1
+2026-09-05T04:10:18.466876+00:00,49570597,24,Icons as a Service,31,2
+2026-09-05T04:10:18.466876+00:00,49521631,25,ExactTex. A gradually-typed superset of LaTeX,22,3
+2026-09-05T04:10:18.466876+00:00,49571537,26,Show HN: Moadim.io – A scheduler for agents,20,11
+2026-09-05T04:10:18.466876+00:00,49571263,27,Connecting every app to every other app,21,2
+2026-09-05T04:10:18.466876+00:00,49571634,28,Nitter has more working instances than before the takedowns,34,9
+2026-09-05T04:10:18.466876+00:00,49566193,29,deSEC – Free Secure DNS,122,42
+2026-09-05T04:10:18.466876+00:00,49570328,30,"Updates on HEIR, the Homomorphic Encryption Compiler Project",30,0
+2026-09-05T04:10:18.466876+00:00,49569702,31,How to Create a Tor Exit Node (2015),46,22
+2026-09-05T04:10:18.466876+00:00,49567310,32,“Next-token predictor” is the wrong mental model for LLMs,94,214
+2026-09-05T04:10:18.466876+00:00,49567053,33,Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive,366,214
+2026-09-05T04:10:18.466876+00:00,49554643,34,GPT-6 Astra,2161,1978
+2026-09-05T04:10:18.466876+00:00,49512834,36,The Wormhole Hall of Shame,35,15
+2026-09-05T04:10:18.466876+00:00,49516312,37,Elevator of the Year: Modernization of the Metropolis Trust Building,145,52
+2026-09-05T04:10:18.466876+00:00,49566788,38,Project HydraFusion: Frontier quality via multi-model orchestration,63,29
+2026-09-05T04:10:18.466876+00:00,49572610,39,Tetris issues legal warning after White House releases arcade of parody games,8,0
+2026-09-05T04:10:18.466876+00:00,49534025,40,Fomu An FPGA board that fits inside your USB port,36,6
+2026-09-05T04:10:18.466876+00:00,49570206,41,"Without new landers or rovers, it's helicopters or bust for NASA's Mars program",16,0
+2026-09-05T04:10:18.466876+00:00,49516691,42,Deadpan Photography: Enjoying the Pretence,41,15
+2026-09-05T04:10:18.466876+00:00,49534936,43,The Two Abstractions of System Design: Hide or Reduce,103,12
+2026-09-05T04:10:18.466876+00:00,49550772,44,.name Termination,2152,530
+2026-09-05T04:10:18.466876+00:00,49527123,45,Getting Started with AT Protocol,73,25
+2026-09-05T04:10:18.466876+00:00,49566137,46,Corporate America is getting hooked on open-source AI,278,255
+2026-09-05T04:10:18.466876+00:00,49563772,47,"Ok, but does it scale?",113,65
+2026-09-05T04:10:18.466876+00:00,49516370,48,When declaring an incident becomes everyone's favorite workaround,17,6
+2026-09-05T04:10:18.466876+00:00,49571131,49,Claude Code skills for advanced context engineering techniques and patterns,13,1
+2026-09-05T04:10:18.466876+00:00,49562657,50,Solving the Jane Street reverse engineering challenge,402,88
