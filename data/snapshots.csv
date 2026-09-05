@@ -45513,3 +45513,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-05T21:05:25.515955+00:00,49529161,48,Decompiler Explorer,123,7
 2026-09-05T21:05:25.515955+00:00,49566193,49,deSEC – Free Secure DNS,149,53
 2026-09-05T21:05:25.515955+00:00,49516962,50,Kale: A Transformation-Safe Spreadsheet System,49,15
+2026-09-05T23:44:34.801326+00:00,49580369,1,"Private German rocket makes history, reaches orbit from European soil",280,134
+2026-09-05T23:44:34.801326+00:00,49578280,2,Learn Programming with OCaml,148,67
+2026-09-05T23:44:34.801326+00:00,49580329,3,Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014),50,20
+2026-09-05T23:44:34.801326+00:00,49581240,4,OKF Agent Memory – Git-native persistent memory for AI coding agents,7,2
+2026-09-05T23:44:34.801326+00:00,49576386,5,"The ""$60 Gaming PC"" – AMD BC-250 (2025)",256,76
+2026-09-05T23:44:34.801326+00:00,49581179,6,Falsehoods Programmers Believe About LANs,36,32
+2026-09-05T23:44:34.801326+00:00,49548852,7,How Swiss tables work in Go built-in map,27,1
+2026-09-05T23:44:34.801326+00:00,49576343,8,Visualizing Rust's Vtables: How dyn Trait Works In Memory,119,14
+2026-09-05T23:44:34.801326+00:00,49519101,9,Show HN: Fly By – retro biplane flying game,26,23
+2026-09-05T23:44:34.801326+00:00,49549778,10,Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor,47,8
+2026-09-05T23:44:34.801326+00:00,49563355,11,Discovery of a new OpenAI agent message board,2078,1507
+2026-09-05T23:44:34.801326+00:00,49580687,12,How AI is breaking the British state,21,18
+2026-09-05T23:44:34.801326+00:00,49570669,13,Actively exploited sandbox RCE in all Chromium versions,735,433
+2026-09-05T23:44:34.801326+00:00,49571634,14,Nitter has more working instances than before the takedowns,608,288
+2026-09-05T23:44:34.801326+00:00,49539110,15,Delidded Intel I9-14900KS CT Scan,49,0
+2026-09-05T23:44:34.801326+00:00,49580164,16,LLMs as a Cognitive Virus,145,129
+2026-09-05T23:44:34.801326+00:00,49580325,17,Isar Aerospace launch into orbit [video],74,18
+2026-09-05T23:44:34.801326+00:00,49580939,18,The revolt of the reader,13,4
+2026-09-05T23:44:34.801326+00:00,49580980,19,America's two largest school districts impose AI moratoriums,33,22
+2026-09-05T23:44:34.801326+00:00,49527599,20,Topologist's Map of the World,10,3
+2026-09-05T23:44:34.801326+00:00,49568506,21,Formalizing Fermat's Last Theorem,741,479
+2026-09-05T23:44:34.801326+00:00,49575150,22,Terpstra Keyboard,111,53
+2026-09-05T23:44:34.801326+00:00,49580778,23,South African diamond mines are closing due to weak sales and lab-grown stones,44,18
+2026-09-05T23:44:34.801326+00:00,49525188,24,Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber,46,5
+2026-09-05T23:44:34.801326+00:00,49579956,25,ISAR Aerospace 5 Sept Mission Onward and Upward,10,1
+2026-09-05T23:44:34.801326+00:00,49576258,26,.gitignore Everything by Default,149,146
+2026-09-05T23:44:34.801326+00:00,49569896,27,Statichost.eu – European static site hosting,437,199
+2026-09-05T23:44:34.801326+00:00,49552615,28,Steffen's Polyhedron,46,4
+2026-09-05T23:44:34.801326+00:00,49575859,29,"A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",72,9
+2026-09-05T23:44:34.801326+00:00,49569366,30,Can AI design circuit boards yet?,371,205
+2026-09-05T23:44:34.801326+00:00,49535940,31,Singapore subway (mrt) information display types,40,11
+2026-09-05T23:44:34.801326+00:00,49577975,32,Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA,258,121
+2026-09-05T23:44:34.801326+00:00,49540253,33,A Million Falcons Went Missing. Here’s How They Were Found,65,28
+2026-09-05T23:44:34.801326+00:00,49578866,34,The Real Luxuries In Life,420,197
+2026-09-05T23:44:34.801326+00:00,49573680,35,Git hosting that never leaves Europe,314,152
+2026-09-05T23:44:34.801326+00:00,49574167,36,"AI handles incidents, engineers lose touch with their systems",363,315
+2026-09-05T23:44:34.801326+00:00,49567437,37,Show HN: Open-Source eInk Bike Computer,387,117
+2026-09-05T23:44:34.801326+00:00,49533840,38,Ask HN: Resources to get good at soldering?,237,148
+2026-09-05T23:44:34.801326+00:00,49570545,39,GPT-6 Astra on OpenRouter,298,220
+2026-09-05T23:44:34.801326+00:00,49563851,40,IBM Bob,327,324
+2026-09-05T23:44:34.801326+00:00,49535024,41,Pointing at the error: compiler-style diagnostics in uutils coreutils,73,9
+2026-09-05T23:44:34.801326+00:00,49568579,42,Shutting down our public encrypted DNS,441,225
+2026-09-05T23:44:34.801326+00:00,49554643,43,GPT-6 Astra,2216,2037
+2026-09-05T23:44:34.801326+00:00,49545430,44,Write Software in Latin (2025) [video],40,18
+2026-09-05T23:44:34.801326+00:00,49562219,45,Show HN: TERMy – A fast terminal assistant that does not use LLMs,186,44
+2026-09-05T23:44:34.801326+00:00,49571465,46,Portal by Spotify cut my Claude Code token usage by 90%,243,153
+2026-09-05T23:44:34.801326+00:00,49571047,47,Can guitar frets perform multiplication?,128,35
+2026-09-05T23:44:34.801326+00:00,49550772,48,.name Termination,2191,536
+2026-09-05T23:44:34.801326+00:00,49519850,49,Git Submodules as a Package Manager,87,31
+2026-09-05T23:44:34.801326+00:00,49571632,50,Artificial Analysis Intelligence Index v4.2,147,62
