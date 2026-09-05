@@ -45364,3 +45364,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-05T12:35:08.939434+00:00,49563772,48,"Ok, but does it scale?",121,67
 2026-09-05T12:35:08.939434+00:00,49571537,49,Show HN: Moadim.io – A scheduler for agents,26,11
 2026-09-05T12:35:08.939434+00:00,49528484,50,Bugs happen: The easy way to compare solo PQ to ECC+PQ,19,7
+2026-09-05T15:55:13.042774+00:00,49576386,1,"The ""$60 Gaming PC"" – AMD BC-250 (2025)",94,27
+2026-09-05T15:55:13.042774+00:00,49570669,2,Actively exploited sandbox RCE in all Chromium versions,636,362
+2026-09-05T15:55:13.042774+00:00,49563355,3,Discovery of a new OpenAI agent message board,1881,1429
+2026-09-05T15:55:13.042774+00:00,49576986,4,"How the Planet-Altering Disaster of ""Forever Chemicals"" Was Kept Secret",50,2
+2026-09-05T15:55:13.042774+00:00,49571634,5,Nitter has more working instances than before the takedowns,420,169
+2026-09-05T15:55:13.042774+00:00,49575150,6,Terpstra Keyboard,50,17
+2026-09-05T15:55:13.042774+00:00,49568506,7,Formalizing Fermat's Last Theorem,682,427
+2026-09-05T15:55:13.042774+00:00,49576258,8,.gitignore Everything by Default,50,46
+2026-09-05T15:55:13.042774+00:00,49576124,9,"Global warming will exceed 1.5-degree limit, UN says",191,167
+2026-09-05T15:55:13.042774+00:00,49575143,10,Claude's new system prompt doesn't want to reproduce song lyrics,42,24
+2026-09-05T15:55:13.042774+00:00,49573680,11,Git hosting that never leaves Europe,182,97
+2026-09-05T15:55:13.042774+00:00,49540253,12,A Million Falcons Went Missing. Here’s How They Were Found,20,2
+2026-09-05T15:55:13.042774+00:00,49576611,13,Meet the Ig Nobel Prize Winners,35,4
+2026-09-05T15:55:13.042774+00:00,49575034,14,Netherlands pulls gold out of the US for fears of 'geopolitical unrest',240,140
+2026-09-05T15:55:13.042774+00:00,49569896,15,Statichost.eu – European static site hosting,371,173
+2026-09-05T15:55:13.042774+00:00,49574167,16,"AI handles incidents, engineers lose touch with their systems",272,239
+2026-09-05T15:55:13.042774+00:00,49575859,17,"A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",12,2
+2026-09-05T15:55:13.042774+00:00,49569366,18,Can AI design circuit boards yet?,306,183
+2026-09-05T15:55:13.042774+00:00,49577160,19,"Nationalists, theocrats and tech titans turned their backs on the future",9,0
+2026-09-05T15:55:13.042774+00:00,49570545,20,GPT-6 Astra on OpenRouter,271,182
+2026-09-05T15:55:13.042774+00:00,49571465,21,Portal by Spotify cut my Claude Code token usage by 90%,199,108
+2026-09-05T15:55:13.042774+00:00,49568579,22,Shutting down our public encrypted DNS,400,185
+2026-09-05T15:55:13.042774+00:00,49545430,23,Write Software in Latin (2025) [video],4,2
+2026-09-05T15:55:13.042774+00:00,49535024,24,Pointing at the error: compiler-style diagnostics in uutils coreutils,42,5
+2026-09-05T15:55:13.042774+00:00,49533840,25,Ask HN: Resources to get good at soldering?,183,110
+2026-09-05T15:55:13.042774+00:00,49516962,26,Kale: A Transformation-Safe Spreadsheet System,43,13
+2026-09-05T15:55:13.042774+00:00,49567437,27,Show HN: Open-Source eInk Bike Computer,341,111
+2026-09-05T15:55:13.042774+00:00,49577422,28,Rebuilding a 1995 GPS Time Server so I don't get Telstra'd,5,0
+2026-09-05T15:55:13.042774+00:00,49576704,29,There's No Limit to How Bad Code Can Get,71,49
+2026-09-05T15:55:13.042774+00:00,49563851,30,IBM Bob,304,313
+2026-09-05T15:55:13.042774+00:00,49571047,31,Can guitar frets perform multiplication?,109,29
+2026-09-05T15:55:13.042774+00:00,49568697,32,Fermat's Last Theorem in Lean 4,135,27
+2026-09-05T15:55:13.042774+00:00,49519850,33,Git Submodules as a Package Manager,75,18
+2026-09-05T15:55:13.042774+00:00,49567873,34,The Rust React Compiler is now native in Vite,158,47
+2026-09-05T15:55:13.042774+00:00,49571632,35,Artificial Analysis Intelligence Index v4.2,136,56
+2026-09-05T15:55:13.042774+00:00,49562219,36,Show HN: TERMy – A fast terminal assistant that does not use LLMs,163,42
+2026-09-05T15:55:13.042774+00:00,49554643,37,GPT-6 Astra,2203,2018
+2026-09-05T15:55:13.042774+00:00,49568828,38,Government Rails Site Hit Hours After CVE Patch,106,35
+2026-09-05T15:55:13.042774+00:00,49569663,39,An open DNS recursive service for free security and high privacy,107,34
+2026-09-05T15:55:13.042774+00:00,49548596,40,Sky Map 2000 – Star Atlas and Planetarium,31,4
+2026-09-05T15:55:13.042774+00:00,49529161,41,Decompiler Explorer,114,6
+2026-09-05T15:55:13.042774+00:00,49576187,42,"AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",11,2
+2026-09-05T15:55:13.042774+00:00,49566193,43,deSEC – Free Secure DNS,144,53
+2026-09-05T15:55:13.042774+00:00,49550772,44,.name Termination,2181,535
+2026-09-05T15:55:13.042774+00:00,49576156,45,Twenty Years of jQuery: How a Little Library Rewired Web Development,11,1
+2026-09-05T15:55:13.042774+00:00,49575176,46,LG TVs aren't the only ones spying on you [video],40,9
+2026-09-05T15:55:13.042774+00:00,49543082,47,Pushdown automata in statistical machine translation (2014),5,0
+2026-09-05T15:55:13.042774+00:00,49567310,48,“Next-token predictor” is the wrong mental model for LLMs,130,269
+2026-09-05T15:55:13.042774+00:00,49546284,49,RSA-260 Factorized,122,75
+2026-09-05T15:55:13.042774+00:00,49570597,50,Icons as a Service,51,5
