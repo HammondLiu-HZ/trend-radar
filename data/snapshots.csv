@@ -45463,3 +45463,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-05T18:06:32.346087+00:00,49548596,48,Sky Map 2000 – Star Atlas and Planetarium,32,4
 2026-09-05T18:06:32.346087+00:00,49570597,49,Icons as a Service,52,6
 2026-09-05T18:06:32.346087+00:00,49543082,50,Pushdown automata in statistical machine translation (2014),9,1
+2026-09-05T21:05:25.515955+00:00,49578866,1,The Real Luxuries In Life,250,104
+2026-09-05T21:05:25.515955+00:00,49580329,2,Finite time blowup for an averaged three-dimensional Navier-Stokes equation,24,3
+2026-09-05T21:05:25.515955+00:00,49580369,3,"Private German rocket makes history, reaches orbit from European soil",69,13
+2026-09-05T21:05:25.515955+00:00,49578280,4,Learn Programming with OCaml,101,40
+2026-09-05T21:05:25.515955+00:00,49576386,5,"The ""$60 Gaming PC"" – AMD BC-250 (2025)",215,71
+2026-09-05T21:05:25.515955+00:00,49580164,6,LLMs as a Cognitive Virus,8,0
+2026-09-05T21:05:25.515955+00:00,49580325,7,Isar Aerospace launch into orbit [video],30,4
+2026-09-05T21:05:25.515955+00:00,49549778,8,Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor,24,3
+2026-09-05T21:05:25.515955+00:00,49576343,9,Visualizing Rust's Vtables: How dyn Trait Works In Memory,82,6
+2026-09-05T21:05:25.515955+00:00,49563355,10,Discovery of a new OpenAI agent message board,2027,1489
+2026-09-05T21:05:25.515955+00:00,49580248,11,Space industry lacks workers needed to rebuild satellites lost in war: report,22,12
+2026-09-05T21:05:25.515955+00:00,49570669,12,Actively exploited sandbox RCE in all Chromium versions,720,414
+2026-09-05T21:05:25.515955+00:00,49571634,13,Nitter has more working instances than before the takedowns,568,256
+2026-09-05T21:05:25.515955+00:00,49552615,14,Steffen's Polyhedron,37,3
+2026-09-05T21:05:25.515955+00:00,49575150,15,Terpstra Keyboard,100,45
+2026-09-05T21:05:25.515955+00:00,49568506,16,Formalizing Fermat's Last Theorem,727,464
+2026-09-05T21:05:25.515955+00:00,49525188,17,Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber,30,2
+2026-09-05T21:05:25.515955+00:00,49539110,18,Delidded Intel I9-14900KS CT Scan,20,0
+2026-09-05T21:05:25.515955+00:00,49577975,19,Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA,216,92
+2026-09-05T21:05:25.515955+00:00,49575859,20,"A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",60,3
+2026-09-05T21:05:25.515955+00:00,49535940,21,Singapore subway (mrt) information display types,34,5
+2026-09-05T21:05:25.515955+00:00,49569896,22,Statichost.eu – European static site hosting,424,191
+2026-09-05T21:05:25.515955+00:00,49569366,23,Can AI design circuit boards yet?,346,202
+2026-09-05T21:05:25.515955+00:00,49540253,24,A Million Falcons Went Missing. Here’s How They Were Found,57,25
+2026-09-05T21:05:25.515955+00:00,49574167,25,"AI handles incidents, engineers lose touch with their systems",343,301
+2026-09-05T21:05:25.515955+00:00,49573680,26,Git hosting that never leaves Europe,287,141
+2026-09-05T21:05:25.515955+00:00,49576258,27,.gitignore Everything by Default,115,133
+2026-09-05T21:05:25.515955+00:00,49567437,28,Show HN: Open-Source eInk Bike Computer,377,117
+2026-09-05T21:05:25.515955+00:00,49568579,29,Shutting down our public encrypted DNS,431,213
+2026-09-05T21:05:25.515955+00:00,49533840,30,Ask HN: Resources to get good at soldering?,218,140
+2026-09-05T21:05:25.515955+00:00,49545430,31,Write Software in Latin (2025) [video],32,13
+2026-09-05T21:05:25.515955+00:00,49570545,32,GPT-6 Astra on OpenRouter,295,219
+2026-09-05T21:05:25.515955+00:00,49535024,33,Pointing at the error: compiler-style diagnostics in uutils coreutils,66,8
+2026-09-05T21:05:25.515955+00:00,49563851,34,IBM Bob,325,323
+2026-09-05T21:05:25.515955+00:00,49576986,35,"How the Disaster of ""Forever Chemicals"" Was Kept Secret",264,83
+2026-09-05T21:05:25.515955+00:00,49571465,36,Portal by Spotify cut my Claude Code token usage by 90%,239,146
+2026-09-05T21:05:25.515955+00:00,49579065,37,Google skates,16,0
+2026-09-05T21:05:25.515955+00:00,49576611,38,Meet the Ig Nobel Prize Winners,90,25
+2026-09-05T21:05:25.515955+00:00,49554643,39,GPT-6 Astra,2216,2031
+2026-09-05T21:05:25.515955+00:00,49519850,40,Git Submodules as a Package Manager,83,30
+2026-09-05T21:05:25.515955+00:00,49562219,41,Show HN: TERMy – A fast terminal assistant that does not use LLMs,184,43
+2026-09-05T21:05:25.515955+00:00,49571047,42,Can guitar frets perform multiplication?,123,33
+2026-09-05T21:05:25.515955+00:00,49571632,43,Artificial Analysis Intelligence Index v4.2,143,62
+2026-09-05T21:05:25.515955+00:00,49578046,44,"Show HN: Amaze Kings – a browser logic puzzle with 1,400 hand-graded levels",7,0
+2026-09-05T21:05:25.515955+00:00,49567873,45,The Rust React Compiler is now native in Vite,163,48
+2026-09-05T21:05:25.515955+00:00,49550772,46,.name Termination,2188,536
+2026-09-05T21:05:25.515955+00:00,49569663,47,An open DNS recursive service for free security and high privacy,113,35
+2026-09-05T21:05:25.515955+00:00,49529161,48,Decompiler Explorer,123,7
+2026-09-05T21:05:25.515955+00:00,49566193,49,deSEC – Free Secure DNS,149,53
+2026-09-05T21:05:25.515955+00:00,49516962,50,Kale: A Transformation-Safe Spreadsheet System,49,15
