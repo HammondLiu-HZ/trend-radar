@@ -45315,3 +45315,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-05T08:56:16.921270+00:00,49534936,48,The Two Abstractions of System Design: Hide or Reduce,108,13
 2026-09-05T08:56:16.921270+00:00,49573370,49,New Zealand is determined not to keep China's espionage a secret,19,0
 2026-09-05T08:56:16.921270+00:00,49527123,50,Getting Started with AT Protocol,77,25
+2026-09-05T12:35:08.939434+00:00,49570669,1,Actively exploited sandbox RCE in all Chromium versions,567,298
+2026-09-05T12:35:08.939434+00:00,49563355,2,Discovery of a new OpenAI agent message board,1787,1368
+2026-09-05T12:35:08.939434+00:00,49571634,3,Nitter has more working instances than before the takedowns,316,115
+2026-09-05T12:35:08.939434+00:00,49568506,4,Formalizing Fermat's Last Theorem,639,406
+2026-09-05T12:35:08.939434+00:00,49574167,5,"AI handles incidents, engineers lose touch with their systems",201,177
+2026-09-05T12:35:08.939434+00:00,49569896,6,Statichost.eu – European static site hosting,329,142
+2026-09-05T12:35:08.939434+00:00,49516962,7,Kale: A Transformation-Safe Spreadsheet System,25,9
+2026-09-05T12:35:08.939434+00:00,49570545,8,GPT-6 Astra on OpenRouter,242,154
+2026-09-05T12:35:08.939434+00:00,49548596,9,Sky Map 2000 – Star Atlas and Planetarium,19,2
+2026-09-05T12:35:08.939434+00:00,49569366,10,Can AI design circuit boards yet?,282,167
+2026-09-05T12:35:08.939434+00:00,49571465,11,Portal by Spotify cut my Claude Code token usage by 90%,163,72
+2026-09-05T12:35:08.939434+00:00,49568579,12,Shutting down our public encrypted DNS,369,167
+2026-09-05T12:35:08.939434+00:00,49519850,13,Git Submodules as a Package Manager,65,9
+2026-09-05T12:35:08.939434+00:00,49533840,14,Ask HN: Resources to get good at soldering?,153,84
+2026-09-05T12:35:08.939434+00:00,49571632,15,Artificial Analysis Intelligence Index v4.2,128,49
+2026-09-05T12:35:08.939434+00:00,49572875,16,"GPT-6 Astra in code review: Gains, privacy, and cost",62,47
+2026-09-05T12:35:08.939434+00:00,49567437,17,Show HN: Open-Source eInk Bike Computer,307,105
+2026-09-05T12:35:08.939434+00:00,49535024,18,Pointing at the error: compiler-style diagnostics in uutils coreutils,24,2
+2026-09-05T12:35:08.939434+00:00,49575034,19,Netherlands pulls gold out of the US for fears of 'geopolitical unrest',66,56
+2026-09-05T12:35:08.939434+00:00,49555121,20,'Fakers' by Rory Cormac Review,4,0
+2026-09-05T12:35:08.939434+00:00,49571047,21,Can guitar frets perform multiplication?,97,21
+2026-09-05T12:35:08.939434+00:00,49563851,22,IBM Bob,283,296
+2026-09-05T12:35:08.939434+00:00,49543082,23,Pushdown automata in statistical machine translation (2014),3,0
+2026-09-05T12:35:08.939434+00:00,49568697,24,Fermat's Last Theorem in Lean 4,122,21
+2026-09-05T12:35:08.939434+00:00,49567873,25,The Rust React Compiler is now native in Vite,149,38
+2026-09-05T12:35:08.939434+00:00,49562219,26,Show HN: TERMy – A fast terminal assistant that does not use LLMs,151,38
+2026-09-05T12:35:08.939434+00:00,49569663,27,An open DNS recursive service for free security and high privacy,100,29
+2026-09-05T12:35:08.939434+00:00,49568828,28,Government Rails Site Hit Hours After CVE Patch,101,31
+2026-09-05T12:35:08.939434+00:00,49554643,29,GPT-6 Astra,2182,2008
+2026-09-05T12:35:08.939434+00:00,49529161,30,Decompiler Explorer,102,5
+2026-09-05T12:35:08.939434+00:00,49570772,31,Record-High 89% in U.S. Say Government Corruption Widespread,480,377
+2026-09-05T12:35:08.939434+00:00,49566193,32,deSEC – Free Secure DNS,141,51
+2026-09-05T12:35:08.939434+00:00,49573680,33,Git hosting that never leaves Europe,111,74
+2026-09-05T12:35:08.939434+00:00,49546284,34,RSA-260 Factorized,120,72
+2026-09-05T12:35:08.939434+00:00,49570597,35,Icons as a Service,48,5
+2026-09-05T12:35:08.939434+00:00,49575176,36,LG TVs aren't the only ones spying on you [video],15,1
+2026-09-05T12:35:08.939434+00:00,49550772,37,.name Termination,2173,534
+2026-09-05T12:35:08.939434+00:00,49567310,38,“Next-token predictor” is the wrong mental model for LLMs,119,255
+2026-09-05T12:35:08.939434+00:00,49516312,39,Elevator of the Year: Modernization of the Metropolis Trust Building,147,52
+2026-09-05T12:35:08.939434+00:00,49570328,40,"Updates on HEIR, the Homomorphic Encryption Compiler Project",41,0
+2026-09-05T12:35:08.939434+00:00,49567053,41,Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive,396,230
+2026-09-05T12:35:08.939434+00:00,49569702,42,How to Create a Tor Exit Node (2015),54,32
+2026-09-05T12:35:08.939434+00:00,49571263,43,Connecting every app to every other app,40,2
+2026-09-05T12:35:08.939434+00:00,49566788,44,Project HydraFusion: Frontier quality via multi-model orchestration,69,31
+2026-09-05T12:35:08.939434+00:00,49534936,45,The Two Abstractions of System Design: Hide or Reduce,109,13
+2026-09-05T12:35:08.939434+00:00,49522194,47,Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain,18,14
+2026-09-05T12:35:08.939434+00:00,49563772,48,"Ok, but does it scale?",121,67
+2026-09-05T12:35:08.939434+00:00,49571537,49,Show HN: Moadim.io – A scheduler for agents,26,11
+2026-09-05T12:35:08.939434+00:00,49528484,50,Bugs happen: The easy way to compare solo PQ to ECC+PQ,19,7
