@@ -45563,3 +45563,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-05T23:44:34.801326+00:00,49550772,48,.name Termination,2191,536
 2026-09-05T23:44:34.801326+00:00,49519850,49,Git Submodules as a Package Manager,87,31
 2026-09-05T23:44:34.801326+00:00,49571632,50,Artificial Analysis Intelligence Index v4.2,147,62
+2026-09-06T04:18:33.747919+00:00,49582000,1,Cloud in a Bottle: making self-hosting accessible to everyone,223,96
+2026-09-06T04:18:33.747919+00:00,49582582,2,GPT-6 Astra on robot arms,82,39
+2026-09-06T04:18:33.747919+00:00,49580939,3,The revolt of the reader,190,67
+2026-09-06T04:18:33.747919+00:00,49539759,4,OpenBSD Stories: Strange Medieval Devices,12,2
+2026-09-06T04:18:33.747919+00:00,49581870,5,Chrome again exempts Google from user site data settings,167,21
+2026-09-06T04:18:33.747919+00:00,49580369,6,"Private German rocket makes history, reaches orbit from European soil",420,230
+2026-09-06T04:18:33.747919+00:00,49578280,7,Learn Programming with OCaml,199,78
+2026-09-06T04:18:33.747919+00:00,49576386,8,"The ""$60 Gaming PC"" – AMD BC-250 (2025)",309,90
+2026-09-06T04:18:33.747919+00:00,49563355,9,Discovery of a new OpenAI agent message board,2144,1528
+2026-09-06T04:18:33.747919+00:00,49527110,10,RecurseCenter.return(),26,2
+2026-09-06T04:18:33.747919+00:00,49548852,11,How Swiss tables work in Go built-in map,57,4
+2026-09-06T04:18:33.747919+00:00,49576343,12,Visualizing Rust's Vtables: How dyn Trait Works In Memory,146,22
+2026-09-06T04:18:33.747919+00:00,49570669,13,Actively exploited sandbox RCE in all Chromium versions,756,447
+2026-09-06T04:18:33.747919+00:00,49580329,14,Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014),64,31
+2026-09-06T04:18:33.747919+00:00,49582656,15,"AI, Tools and Transformation",4,0
+2026-09-06T04:18:33.747919+00:00,49571634,16,Nitter has more working instances than before the takedowns,649,318
+2026-09-06T04:18:33.747919+00:00,49527599,17,Topologist's Map of the World,49,17
+2026-09-06T04:18:33.747919+00:00,49580164,18,LLMs as a Cognitive Virus,212,174
+2026-09-06T04:18:33.747919+00:00,49539110,19,Delidded Intel I9-14900KS CT Scan,80,2
+2026-09-06T04:18:33.747919+00:00,49549778,20,Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor,68,9
+2026-09-06T04:18:33.747919+00:00,49575150,21,Terpstra Keyboard,122,56
+2026-09-06T04:18:33.747919+00:00,49579956,22,ISAR Aerospace 5 Sept Mission Onward and Upward,25,4
+2026-09-06T04:18:33.747919+00:00,49519101,23,Show HN: Fly By – retro biplane flying game,58,41
+2026-09-06T04:18:33.747919+00:00,49581240,24,OKF Agent Memory – Git-native persistent memory for AI coding agents,49,16
+2026-09-06T04:18:33.747919+00:00,49569896,25,Statichost.eu – European static site hosting,452,205
+2026-09-06T04:18:33.747919+00:00,49569366,26,Can AI design circuit boards yet?,393,209
+2026-09-06T04:18:33.747919+00:00,49525188,27,Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber,55,7
+2026-09-06T04:18:33.747919+00:00,49552615,28,Steffen's Polyhedron,56,5
+2026-09-06T04:18:33.747919+00:00,49543347,29,CHC5: Open Camera System – Image Sensor Specification Comparison,16,2
+2026-09-06T04:18:33.747919+00:00,49575859,30,"A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",86,12
+2026-09-06T04:18:33.747919+00:00,49535940,31,Singapore subway (mrt) information display types,48,17
+2026-09-06T04:18:33.747919+00:00,49580325,32,Isar Aerospace launch into orbit [video],93,18
+2026-09-06T04:18:33.747919+00:00,49576258,33,.gitignore Everything by Default,164,160
+2026-09-06T04:18:33.747919+00:00,49533840,34,Ask HN: Resources to get good at soldering?,250,154
+2026-09-06T04:18:33.747919+00:00,49540253,35,A Million Falcons Went Missing. Here’s How They Were Found,69,31
+2026-09-06T04:18:33.747919+00:00,49567437,36,Show HN: Open-Source eInk Bike Computer,389,118
+2026-09-06T04:18:33.747919+00:00,49580778,37,South African diamond mines are closing due to weak sales and lab-grown stones,129,108
+2026-09-06T04:18:33.747919+00:00,49568506,38,Formalizing Fermat's Last Theorem,749,481
+2026-09-06T04:18:33.747919+00:00,49573680,39,Git hosting that never leaves Europe,324,149
+2026-09-06T04:18:33.747919+00:00,49570545,40,GPT-6 Astra on OpenRouter,304,222
+2026-09-06T04:18:33.747919+00:00,49554643,41,GPT-6 Astra,2221,2043
+2026-09-06T04:18:33.747919+00:00,49577975,42,Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA,269,141
+2026-09-06T04:18:33.747919+00:00,49574167,43,"AI handles incidents, engineers lose touch with their systems",368,327
+2026-09-06T04:18:33.747919+00:00,49568579,44,Shutting down our public encrypted DNS,445,229
+2026-09-06T04:18:33.747919+00:00,49535024,45,Pointing at the error: compiler-style diagnostics in uutils coreutils,73,11
+2026-09-06T04:18:33.747919+00:00,49562219,46,Show HN: TERMy – A fast terminal assistant that does not use LLMs,191,44
+2026-09-06T04:18:33.747919+00:00,49550772,47,.name Termination,2197,536
+2026-09-06T04:18:33.747919+00:00,49582798,48,"I Missed Tilix, So I Built the Terminal I Wanted",3,0
+2026-09-06T04:18:33.747919+00:00,49571465,49,Portal by Spotify cut my Claude Code token usage by 90%,249,158
+2026-09-06T04:18:33.747919+00:00,49578866,50,The Real Luxuries In Life,453,215
