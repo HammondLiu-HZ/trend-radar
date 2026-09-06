@@ -45812,3 +45812,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-06T19:00:54.403250+00:00,49586207,48,Icy Moons Are Ocean Worlds,6,0
 2026-09-06T19:00:54.403250+00:00,49585520,49,'Old Person Smell',70,39
 2026-09-06T19:00:54.403250+00:00,49588635,50,German startup sends first commercial rocket into space from Europe,5,1
+2026-09-06T22:04:17.960577+00:00,49590611,1,It took a year to ship WebAssembly in Anubis,66,32
+2026-09-06T22:04:17.960577+00:00,49590738,2,Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple,38,12
+2026-09-06T22:04:17.960577+00:00,49590512,3,GrapheneOS Overhauled Default Apps and Secure Clipboard,58,15
+2026-09-06T22:04:17.960577+00:00,49585644,4,Your intellectual fly is open (2025),443,284
+2026-09-06T22:04:17.960577+00:00,49584083,5,Isar Aerospace reaches orbit and deploys payloads on second flight,519,168
+2026-09-06T22:04:17.960577+00:00,49587636,6,NetBSD 9.5 released and EOL for NetBSD-9,95,4
+2026-09-06T22:04:17.960577+00:00,49540637,7,Black Hole of Los Alamos Seller of surplus nuclear research materials (2011),17,4
+2026-09-06T22:04:17.960577+00:00,49590354,8,Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads,18,3
+2026-09-06T22:04:17.960577+00:00,49554622,9,Babylonian Lamb Stew with Beets (1750–1730 BCE),65,25
+2026-09-06T22:04:17.960577+00:00,49587903,10,Research carried out using NetBSD,64,14
+2026-09-06T22:04:17.960577+00:00,49590595,11,Harnessing the Universal Geometry of Embeddings,9,1
+2026-09-06T22:04:17.960577+00:00,49586698,12,Asahi Linux on M3,268,155
+2026-09-06T22:04:17.960577+00:00,49586898,13,A/I shuts down – Stay human,456,306
+2026-09-06T22:04:17.960577+00:00,49588080,14,An Alien Mind,271,210
+2026-09-06T22:04:17.960577+00:00,49540090,15,Electronic skin for prosthetics to sense temperature and pressure,34,5
+2026-09-06T22:04:17.960577+00:00,49561514,17,Reverse engineering the storage format for an undocumented database,4,0
+2026-09-06T22:04:17.960577+00:00,49585627,18,Doomscrolling Ourselves to Death,335,227
+2026-09-06T22:04:17.960577+00:00,49542123,19,Vidact – a compiler that turns React into direct DOM operations,39,18
+2026-09-06T22:04:17.960577+00:00,49590455,20,Human archive: They were only human,9,3
+2026-09-06T22:04:17.960577+00:00,49531619,21,M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years,169,77
+2026-09-06T22:04:17.960577+00:00,49580939,22,The revolt of the reader,556,270
+2026-09-06T22:04:17.960577+00:00,49582000,23,Cloud in a Bottle: making self-hosting accessible to everyone,597,294
+2026-09-06T22:04:17.960577+00:00,49587217,24,Research acceleration: The view inside OpenAI,87,59
+2026-09-06T22:04:17.960577+00:00,49588988,25,Nitter and XCancel resume service after legal advice,332,197
+2026-09-06T22:04:17.960577+00:00,49542471,26,Is There I/O After Death? What Happens to Io_uring When a Process Dies,56,26
+2026-09-06T22:04:17.960577+00:00,49590225,27,The car industry A/B tested selling a car with and without CarPlay,82,68
+2026-09-06T22:04:17.960577+00:00,49591036,28,"Windows 11's ""special"" developer edition looks like another marketing misfire",13,1
+2026-09-06T22:04:17.960577+00:00,49546198,29,IBM Quantum Nighthawk R2,78,35
+2026-09-06T22:04:17.960577+00:00,49541888,30,Music Theory for Programmers,344,219
+2026-09-06T22:04:17.960577+00:00,49586151,31,I'm teaching an introductory 12 week course on Quantum Oracle Engineering,55,18
+2026-09-06T22:04:17.960577+00:00,49585703,32,The pencil case model of creativity,56,19
+2026-09-06T22:04:17.960577+00:00,49586207,33,Icy Moons Are Ocean Worlds,21,2
+2026-09-06T22:04:17.960577+00:00,49580389,34,Ganon's Mysterious Origins (Revisited),26,8
+2026-09-06T22:04:17.960577+00:00,49587833,35,Cultivating Trust,10,1
+2026-09-06T22:04:17.960577+00:00,49529398,36,"The ColorChecker, photography's most important 24 squares, turns 50",120,23
+2026-09-06T22:04:17.960577+00:00,49569983,37,Household Laser Cuts,48,17
+2026-09-06T22:04:17.960577+00:00,49589730,38,Ask HN: UK Rescue Rocket Sheds/Houses Information,19,6
+2026-09-06T22:04:17.960577+00:00,49590414,39,The Leaked Audit That Exposes OpenAI's Real Financial Crisis [video],15,2
+2026-09-06T22:04:17.960577+00:00,49582719,40,AMD Based FreeBSD Desktop Reloaded,107,21
+2026-09-06T22:04:17.960577+00:00,49582656,41,"AI, Tools and Transformation",138,62
+2026-09-06T22:04:17.960577+00:00,49586435,42,The many mysteries and lessons of the Bayeux tapestry,58,10
+2026-09-06T22:04:17.960577+00:00,49586902,43,"Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",64,29
+2026-09-06T22:04:17.960577+00:00,49578280,44,Learn Programming with OCaml,305,133
+2026-09-06T22:04:17.960577+00:00,49576386,45,"The ""$60 Gaming PC"" – AMD BC-250 (2025)",370,109
+2026-09-06T22:04:17.960577+00:00,49590408,46,"Which came first, Windows 95's taskbar or NeXT's Dock? Neither",8,2
+2026-09-06T22:04:17.960577+00:00,49580164,47,LLMs as a Cognitive Virus,370,243
+2026-09-06T22:04:17.960577+00:00,49588006,48,Hot Chips 2026: Irrational Recap,8,0
+2026-09-06T22:04:17.960577+00:00,49587040,49,Recreating Minecraft Is Not a Benchmark,66,62
+2026-09-06T22:04:17.960577+00:00,49581870,50,Chrome again exempts Google from user site data settings,549,106
