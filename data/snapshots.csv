@@ -45613,3 +45613,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-06T04:18:33.747919+00:00,49582798,48,"I Missed Tilix, So I Built the Terminal I Wanted",3,0
 2026-09-06T04:18:33.747919+00:00,49571465,49,Portal by Spotify cut my Claude Code token usage by 90%,249,158
 2026-09-06T04:18:33.747919+00:00,49578866,50,The Real Luxuries In Life,453,215
+2026-09-06T09:17:17.972893+00:00,49584083,1,Isar Aerospace reaches orbit and deploys payloads on second flight,55,3
+2026-09-06T09:17:17.972893+00:00,49582000,2,Cloud in a Bottle: making self-hosting accessible to everyone,386,170
+2026-09-06T09:17:17.972893+00:00,49584123,3,Play GTA Vice City in the Browser,18,5
+2026-09-06T09:17:17.972893+00:00,49541888,4,Music Theory for Programmers,114,48
+2026-09-06T09:17:17.972893+00:00,49580939,5,The revolt of the reader,345,136
+2026-09-06T09:17:17.972893+00:00,49529398,6,"The ColorChecker, photography's most important 24 squares, turns 50",59,8
+2026-09-06T09:17:17.972893+00:00,49539759,7,OpenBSD Stories: Strange Medieval Devices,58,11
+2026-09-06T09:17:17.972893+00:00,49582656,8,"AI, Tools and Transformation",52,16
+2026-09-06T09:17:17.972893+00:00,49535634,9,"Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",24,19
+2026-09-06T09:17:17.972893+00:00,49582719,10,AMD Based FreeBSD Desktop Reloaded,47,3
+2026-09-06T09:17:17.972893+00:00,49581870,11,Chrome again exempts Google from user site data settings,389,53
+2026-09-06T09:17:17.972893+00:00,49563355,12,Discovery of a new OpenAI agent message board,2183,1542
+2026-09-06T09:17:17.972893+00:00,49578280,13,Learn Programming with OCaml,248,93
+2026-09-06T09:17:17.972893+00:00,49576386,14,"The ""$60 Gaming PC"" – AMD BC-250 (2025)",340,98
+2026-09-06T09:17:17.972893+00:00,49582582,15,GPT-6 Astra on robot arms,176,126
+2026-09-06T09:17:17.972893+00:00,49580369,16,"Private German rocket makes history, reaches orbit from European soil",581,301
+2026-09-06T09:17:17.972893+00:00,49570669,17,Actively exploited sandbox RCE in all Chromium versions,774,467
+2026-09-06T09:17:17.972893+00:00,49571634,18,Nitter has more working instances than before the takedowns,678,343
+2026-09-06T09:17:17.972893+00:00,49522072,19,A Computer History Time Capsule,5,0
+2026-09-06T09:17:17.972893+00:00,49576343,20,Visualizing Rust's Vtables: How dyn Trait Works In Memory,170,32
+2026-09-06T09:17:17.972893+00:00,49583842,21,Site Is Closed on Sundays,79,81
+2026-09-06T09:17:17.972893+00:00,49527599,22,Topologist's Map of the World,86,25
+2026-09-06T09:17:17.972893+00:00,49580164,23,LLMs as a Cognitive Virus,269,197
+2026-09-06T09:17:17.972893+00:00,49548852,24,How Swiss tables work in Go built-in map,77,5
+2026-09-06T09:17:17.972893+00:00,49527110,25,RecurseCenter.return(),49,8
+2026-09-06T09:17:17.972893+00:00,49554848,26,Matching Puzzle Pieces and Disappointing Benchmarks,5,0
+2026-09-06T09:17:17.972893+00:00,49549778,27,Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor,81,11
+2026-09-06T09:17:17.972893+00:00,49539110,28,Delidded Intel I9-14900KS CT Scan,100,5
+2026-09-06T09:17:17.972893+00:00,49569896,29,Statichost.eu – European static site hosting,478,222
+2026-09-06T09:17:17.972893+00:00,49575150,30,Terpstra Keyboard,134,60
+2026-09-06T09:17:17.972893+00:00,49569366,31,Can AI design circuit boards yet?,408,221
+2026-09-06T09:17:17.972893+00:00,49580329,32,Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014),68,41
+2026-09-06T09:17:17.972893+00:00,49579956,33,ISAR Aerospace 5 Sept Mission Onward and Upward,39,4
+2026-09-06T09:17:17.972893+00:00,49525188,34,Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber,66,9
+2026-09-06T09:17:17.972893+00:00,49575859,35,"A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",95,12
+2026-09-06T09:17:17.972893+00:00,49519101,36,Show HN: Fly By – retro biplane flying game,82,53
+2026-09-06T09:17:17.972893+00:00,49535940,37,Singapore subway (mrt) information display types,54,18
+2026-09-06T09:17:17.972893+00:00,49533840,38,Ask HN: Resources to get good at soldering?,257,159
+2026-09-06T09:17:17.972893+00:00,49567437,39,Show HN: Open-Source eInk Bike Computer,397,124
+2026-09-06T09:17:17.972893+00:00,49552615,40,Steffen's Polyhedron,63,5
+2026-09-06T09:17:17.972893+00:00,49554643,41,GPT-6 Astra,2231,2046
+2026-09-06T09:17:17.972893+00:00,49568506,42,Formalizing Fermat's Last Theorem,754,489
+2026-09-06T09:17:17.972893+00:00,49576258,43,.gitignore Everything by Default,171,165
+2026-09-06T09:17:17.972893+00:00,49570545,44,GPT-6 Astra on OpenRouter,311,224
+2026-09-06T09:17:17.972893+00:00,49543347,45,CHC5: Open Camera System – Image Sensor Specification Comparison,22,2
+2026-09-06T09:17:17.972893+00:00,49573680,46,Git hosting that never leaves Europe,340,155
+2026-09-06T09:17:17.972893+00:00,49540253,47,A Million Falcons Went Missing. Here’s How They Were Found,74,33
+2026-09-06T09:17:17.972893+00:00,49568579,48,Shutting down our public encrypted DNS,462,232
+2026-09-06T09:17:17.972893+00:00,49550772,49,.name Termination,2202,537
+2026-09-06T09:17:17.972893+00:00,49574167,50,"AI handles incidents, engineers lose touch with their systems",380,333
