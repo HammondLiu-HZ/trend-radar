@@ -45910,3 +45910,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-07T00:50:01.017873+00:00,49591856,48,One Hundred Authors Against Einstein,7,0
 2026-09-07T00:50:01.017873+00:00,49587833,49,Cultivating Trust,11,1
 2026-09-07T00:50:01.017873+00:00,49590736,50,XCancel is available again,30,1
+2026-09-07T05:56:20.028292+00:00,49593563,1,Keep Our Servers Running,166,40
+2026-09-07T05:56:20.028292+00:00,49591876,2,Making a Python interpreter in 1024 bytes,169,64
+2026-09-07T05:56:20.028292+00:00,49550276,3,I'm a seeing-eye dog for a computer,33,8
+2026-09-07T05:56:20.028292+00:00,49590611,4,It took a year to ship WebAssembly in Anubis,208,111
+2026-09-07T05:56:20.028292+00:00,49577129,5,"Ask HN: Fable hacked my piano, can I release the results?",75,37
+2026-09-07T05:56:20.028292+00:00,49589914,6,Ask HN: How do you manage skills files?,56,45
+2026-09-07T05:56:20.028292+00:00,49593066,7,Has anybody seen my keys? A key-hierarchy strategy for rack-level security,10,0
+2026-09-07T05:56:20.028292+00:00,49588988,8,Nitter and XCancel resume service after legal advice,600,295
+2026-09-07T05:56:20.028292+00:00,49583440,9,Ask HN: Would you read a statistics textbook?,38,18
+2026-09-07T05:56:20.028292+00:00,49564609,10,The NX bit is not just about security,48,33
+2026-09-07T05:56:20.028292+00:00,49554622,11,Babylonian Lamb Stew with Beets (1750–1730 BCE),125,72
+2026-09-07T05:56:20.028292+00:00,49590738,12,Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple,84,23
+2026-09-07T05:56:20.028292+00:00,49590595,13,Harnessing the Universal Geometry of Embeddings,65,23
+2026-09-07T05:56:20.028292+00:00,49592366,14,MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server,29,5
+2026-09-07T05:56:20.028292+00:00,49592840,15,Show HN: GET Together – A social network where you don't need POST to Post,27,10
+2026-09-07T05:56:20.028292+00:00,49590946,16,Signing TLS handshakes inside a TPM,15,6
+2026-09-07T05:56:20.028292+00:00,49555114,17,Every Novel Is Boring–Until It Isn't,37,26
+2026-09-07T05:56:20.028292+00:00,49587217,18,Research acceleration: The view inside OpenAI,149,97
+2026-09-07T05:56:20.028292+00:00,49590512,19,GrapheneOS Overhauled Default Apps and Secure Clipboard,245,185
+2026-09-07T05:56:20.028292+00:00,49588080,20,An Alien Mind,378,332
+2026-09-07T05:56:20.028292+00:00,49594189,21,Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI,12,9
+2026-09-07T05:56:20.028292+00:00,49586698,22,Asahi Linux on M3,401,244
+2026-09-07T05:56:20.028292+00:00,49593959,23,I refused to train the AI that could replace me,11,0
+2026-09-07T05:56:20.028292+00:00,49548196,24,"Please don't rearrange our shoes when we turn up, paramedics in Japan urge",53,59
+2026-09-07T05:56:20.028292+00:00,49561514,25,Reverse engineering the storage format for an undocumented database,41,3
+2026-09-07T05:56:20.028292+00:00,49540637,26,Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011),54,15
+2026-09-07T05:56:20.028292+00:00,49587636,27,NetBSD 9.5 released and EOL for NetBSD-9,122,11
+2026-09-07T05:56:20.028292+00:00,49591793,28,Is mathematics about to enter the conservatory?,27,45
+2026-09-07T05:56:20.028292+00:00,49585644,29,Your intellectual fly is open when you use an LLM to author a post (2025),625,399
+2026-09-07T05:56:20.028292+00:00,49587903,31,Research carried out using NetBSD,88,24
+2026-09-07T05:56:20.028292+00:00,49586898,32,A/I shuts down,562,444
+2026-09-07T05:56:20.028292+00:00,49542123,33,Vidact – a compiler that turns React into direct DOM operations,61,28
+2026-09-07T05:56:20.028292+00:00,49531619,34,M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years,195,92
+2026-09-07T05:56:20.028292+00:00,49593776,35,US Republicans revolt against Flock AI surveillance as backlash intensifies,13,1
+2026-09-07T05:56:20.028292+00:00,49584083,36,Isar Aerospace reaches orbit and deploys payloads on second flight,572,181
+2026-09-07T05:56:20.028292+00:00,49540090,37,Electronic skin for prosthetics to sense temperature and pressure,51,5
+2026-09-07T05:56:20.028292+00:00,49589768,38,D2 Is Non-Profit,38,15
+2026-09-07T05:56:20.028292+00:00,49591672,39,Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet,99,54
+2026-09-07T05:56:20.028292+00:00,49585627,40,Doomscrolling ourselves to death,387,284
+2026-09-07T05:56:20.028292+00:00,49586005,41,2026 Hugo Awards,82,45
+2026-09-07T05:56:20.028292+00:00,49564839,42,She Also Found It at the Movies,7,0
+2026-09-07T05:56:20.028292+00:00,49593050,43,ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo,5,1
+2026-09-07T05:56:20.028292+00:00,49593971,44,TiVo to charge money for skipping commercials in your own recordings,6,0
+2026-09-07T05:56:20.028292+00:00,49593962,45,HPE Gives Oracle Right to Buy 4.2M Shares for 1 Cent Each,7,1
+2026-09-07T05:56:20.028292+00:00,49546198,46,IBM Quantum Nighthawk R2,82,36
+2026-09-07T05:56:20.028292+00:00,49592375,47,216M Spy TVs – The LG Smart TV Problem [video],64,28
+2026-09-07T05:56:20.028292+00:00,49586207,48,Icy Moons Are Ocean Worlds,55,7
+2026-09-07T05:56:20.028292+00:00,49591747,49,Gotham Silicon: 1μ CMOS process that will ship custom chips for –$100 in <24hrs,6,6
+2026-09-07T05:56:20.028292+00:00,49582656,50,"AI, Tools and Transformation",151,65
