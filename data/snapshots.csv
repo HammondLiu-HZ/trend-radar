@@ -46008,3 +46008,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-07T12:17:38.963130+00:00,49540090,48,Electronic skin for prosthetics to sense temperature and pressure,53,5
 2026-09-07T12:17:38.963130+00:00,49589768,49,D2 Is Non-Profit,48,17
 2026-09-07T12:17:38.963130+00:00,49583440,50,Ask HN: Would you read a statistics textbook?,84,51
+2026-09-07T18:12:33.272883+00:00,49598291,1,bzip3,227,70
+2026-09-07T18:12:33.272883+00:00,49600233,2,Tell HN: OpenAI brings back 5 hour limit for plus and business standard users,77,50
+2026-09-07T18:12:33.272883+00:00,49593563,3,Keep Our Servers Running,823,205
+2026-09-07T18:12:33.272883+00:00,49600432,4,PostgreSQL 19 Interactive Tour,20,0
+2026-09-07T18:12:33.272883+00:00,49558685,5,Simple Is Not Small,89,28
+2026-09-07T18:12:33.272883+00:00,49596055,6,Caltech Mathathon – first hackathon ever devoted to research level mathematics,159,42
+2026-09-07T18:12:33.272883+00:00,49599609,7,C Is Not a Low-Level Language (2018),18,7
+2026-09-07T18:12:33.272883+00:00,49561002,8,Decoding the NEC V20 Microcode,38,0
+2026-09-07T18:12:33.272883+00:00,49595865,9,Live map of public transport in Belgium,151,66
+2026-09-07T18:12:33.272883+00:00,49589190,10,The Dataflow Model Revisited,29,6
+2026-09-07T18:12:33.272883+00:00,49594878,11,LG smart TVs caught logging audio with screen off and snooping on local devices,990,462
+2026-09-07T18:12:33.272883+00:00,49597907,12,De-Brainrot Vacations,409,167
+2026-09-07T18:12:33.272883+00:00,49596054,13,Speculative Decoding in vLLM on AMD GPUs,103,36
+2026-09-07T18:12:33.272883+00:00,49599719,14,Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set,70,39
+2026-09-07T18:12:33.272883+00:00,49597189,15,Smartphone makers don't bother to comply with EU repairability requirements,218,120
+2026-09-07T18:12:33.272883+00:00,49562440,16,Whistle Synth,24,7
+2026-09-07T18:12:33.272883+00:00,49596274,17,Impedance Matching (2017),64,20
+2026-09-07T18:12:33.272883+00:00,49597895,18,Splash-free urinals (2025),180,99
+2026-09-07T18:12:33.272883+00:00,49599481,19,Bill Gates tries to install MovieMaker,131,96
+2026-09-07T18:12:33.272883+00:00,49577129,20,"Ask HN: Fable hacked my piano, can I release the results?",255,146
+2026-09-07T18:12:33.272883+00:00,49591876,21,Making a Python interpreter in 1024 bytes,296,101
+2026-09-07T18:12:33.272883+00:00,49540827,22,Unified Arabic,103,39
+2026-09-07T18:12:33.272883+00:00,49590611,23,It took a year to ship WebAssembly in Anubis,338,170
+2026-09-07T18:12:33.272883+00:00,49589914,24,Ask HN: How do you manage skills files?,260,244
+2026-09-07T18:12:33.272883+00:00,49590512,25,GrapheneOS Overhauled Default Apps and Secure Clipboard,383,239
+2026-09-07T18:12:33.272883+00:00,49550436,26,I Connected My Withings Body+ to Home Assistant with an ESP32,66,20
+2026-09-07T18:12:33.272883+00:00,49596629,27,Tiny $70 Xteink X3 e-reader,162,171
+2026-09-07T18:12:33.272883+00:00,49596976,28,Apparently CodePen 2.0 sends data to their servers as you type,95,41
+2026-09-07T18:12:33.272883+00:00,49596797,29,VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent,85,37
+2026-09-07T18:12:33.272883+00:00,49591793,30,Is mathematics about to enter the conservatory?,114,127
+2026-09-07T18:12:33.272883+00:00,49588988,31,Nitter and XCancel resume service after legal advice,878,370
+2026-09-07T18:12:33.272883+00:00,49599767,32,Nördlinger Ries Impact Crater,13,2
+2026-09-07T18:12:33.272883+00:00,49534396,33,Why are there no flow batteries with symmetric ferrocyanide electrolytes?,48,31
+2026-09-07T18:12:33.272883+00:00,49550276,34,I'm a seeing-eye dog for a computer,100,85
+2026-09-07T18:12:33.272883+00:00,49595360,35,Programming is Art,174,178
+2026-09-07T18:12:33.272883+00:00,49590595,36,Harnessing the Universal Geometry of Embeddings,108,38
+2026-09-07T18:12:33.272883+00:00,49596119,37,'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes,284,214
+2026-09-07T18:12:33.272883+00:00,49597922,38,A Modest Proposal,4,0
+2026-09-07T18:12:33.272883+00:00,49586698,39,Asahi Linux on M3,538,337
+2026-09-07T18:12:33.272883+00:00,49587217,40,Research acceleration: The view inside OpenAI,199,172
+2026-09-07T18:12:33.272883+00:00,49550479,41,Show HN: I made a word building game supporting anagrams and one handed use,26,5
+2026-09-07T18:12:33.272883+00:00,49592840,42,Show HN: GET Together – A social network where you don't need POST to Post,98,52
+2026-09-07T18:12:33.272883+00:00,49585644,43,Your intellectual fly is open when you use an LLM to author a post (2025),691,422
+2026-09-07T18:12:33.272883+00:00,49594251,44,Switzerland's Federal Government Is Replacing Microsoft on 3k Computers,307,247
+2026-09-07T18:12:33.272883+00:00,49587636,45,NetBSD 9.5 released and EOL for NetBSD-9,145,14
+2026-09-07T18:12:33.272883+00:00,49588080,47,An Alien Mind,451,438
+2026-09-07T18:12:33.272883+00:00,49593971,48,TiVo to charge money for skipping commercials in your own recordings,155,89
+2026-09-07T18:12:33.272883+00:00,49537143,49,"Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",20,9
+2026-09-07T18:12:33.272883+00:00,49599058,50,"If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one",62,60
