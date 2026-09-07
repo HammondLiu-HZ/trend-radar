@@ -45959,3 +45959,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-07T05:56:20.028292+00:00,49586207,48,Icy Moons Are Ocean Worlds,55,7
 2026-09-07T05:56:20.028292+00:00,49591747,49,Gotham Silicon: 1μ CMOS process that will ship custom chips for –$100 in <24hrs,6,6
 2026-09-07T05:56:20.028292+00:00,49582656,50,"AI, Tools and Transformation",151,65
+2026-09-07T12:17:38.963130+00:00,49593563,1,Keep Our Servers Running,595,133
+2026-09-07T12:17:38.963130+00:00,49595865,2,Live map of public transport in Belgium,77,25
+2026-09-07T12:17:38.963130+00:00,49596055,3,Caltech Mathathon – first hackathon ever devoted to research level mathematics,44,6
+2026-09-07T12:17:38.963130+00:00,49596054,4,Speculative Decoding in vLLM on AMD GPUs,37,9
+2026-09-07T12:17:38.963130+00:00,49597189,5,Smartphone makers don't bother to comply with EU repairability requirements,26,1
+2026-09-07T12:17:38.963130+00:00,49596274,6,Impedance Matching (2017),26,6
+2026-09-07T12:17:38.963130+00:00,49594878,7,LG smart TVs caught logging audio with screen off and snooping on local devices,337,188
+2026-09-07T12:17:38.963130+00:00,49596119,8,'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes,97,46
+2026-09-07T12:17:38.963130+00:00,49550436,9,I Connected My Withings Body+ to Home Assistant with an ESP32,18,4
+2026-09-07T12:17:38.963130+00:00,49591876,10,Making a Python interpreter in 1024 bytes,251,88
+2026-09-07T12:17:38.963130+00:00,49596976,11,Apparently CodePen 2.0 sends data to their servers as you type,25,9
+2026-09-07T12:17:38.963130+00:00,49589914,12,Ask HN: How do you manage skills files?,170,149
+2026-09-07T12:17:38.963130+00:00,49590611,13,It took a year to ship WebAssembly in Anubis,293,139
+2026-09-07T12:17:38.963130+00:00,49596629,14,Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame,23,7
+2026-09-07T12:17:38.963130+00:00,49577129,15,"Ask HN: Fable hacked my piano, can I release the results?",182,112
+2026-09-07T12:17:38.963130+00:00,49534396,16,Why are there no flow batteries with symmetric ferrocyanide electrolytes?,30,15
+2026-09-07T12:17:38.963130+00:00,49590512,17,GrapheneOS Overhauled Default Apps and Secure Clipboard,318,220
+2026-09-07T12:17:38.963130+00:00,49592840,18,Show HN: GET Together – A social network where you don't need POST to Post,73,33
+2026-09-07T12:17:38.963130+00:00,49588988,19,Nitter and XCancel resume service after legal advice,781,343
+2026-09-07T12:17:38.963130+00:00,49537143,20,"Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",9,3
+2026-09-07T12:17:38.963130+00:00,49594008,21,"Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",48,11
+2026-09-07T12:17:38.963130+00:00,49591793,22,Is mathematics about to enter the conservatory?,74,83
+2026-09-07T12:17:38.963130+00:00,49590595,23,Harnessing the Universal Geometry of Embeddings,89,31
+2026-09-07T12:17:38.963130+00:00,49593971,24,TiVo to charge money for skipping commercials in your own recordings,111,59
+2026-09-07T12:17:38.963130+00:00,49594251,25,Switzerland's Federal Government Is Replacing Microsoft on 3k Computers,218,178
+2026-09-07T12:17:38.963130+00:00,49593066,26,Has anybody seen my keys? A key-hierarchy strategy for rack-level security,40,3
+2026-09-07T12:17:38.963130+00:00,49586698,27,Asahi Linux on M3,506,308
+2026-09-07T12:17:38.963130+00:00,49587217,28,Research acceleration: The view inside OpenAI,185,135
+2026-09-07T12:17:38.963130+00:00,49595360,29,Programming is Art,101,106
+2026-09-07T12:17:38.963130+00:00,49550276,30,I'm a seeing-eye dog for a computer,77,78
+2026-09-07T12:17:38.963130+00:00,49588080,31,An Alien Mind,426,390
+2026-09-07T12:17:38.963130+00:00,49587636,32,NetBSD 9.5 released and EOL for NetBSD-9,137,13
+2026-09-07T12:17:38.963130+00:00,49585644,33,Your intellectual fly is open when you use an LLM to author a post (2025),665,410
+2026-09-07T12:17:38.963130+00:00,49554622,34,Babylonian Lamb Stew with Beets (1750–1730 BCE),155,122
+2026-09-07T12:17:38.963130+00:00,49590738,36,Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple,93,31
+2026-09-07T12:17:38.963130+00:00,49540637,37,Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011),69,15
+2026-09-07T12:17:38.963130+00:00,49596221,38,"25 years ago, two strangers met in the twin towers and escaped on 9/11",15,1
+2026-09-07T12:17:38.963130+00:00,49548196,39,"Please don't rearrange our shoes when we turn up, paramedics in Japan urge",125,146
+2026-09-07T12:17:38.963130+00:00,49561514,40,Reverse engineering the storage format for an undocumented database,59,5
+2026-09-07T12:17:38.963130+00:00,49564609,41,The NX bit is not just about security,74,42
+2026-09-07T12:17:38.963130+00:00,49596797,42,VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent,7,1
+2026-09-07T12:17:38.963130+00:00,49584083,43,Isar Aerospace reaches orbit and deploys payloads on second flight,592,187
+2026-09-07T12:17:38.963130+00:00,49587903,44,Research carried out using NetBSD,95,25
+2026-09-07T12:17:38.963130+00:00,49593842,45,Coop – Isolated VM Environments for Running Claude Code and Codex,29,10
+2026-09-07T12:17:38.963130+00:00,49586898,46,A/I shuts down,589,485
+2026-09-07T12:17:38.963130+00:00,49542123,47,Vidact – a compiler that turns React into direct DOM operations,66,30
+2026-09-07T12:17:38.963130+00:00,49540090,48,Electronic skin for prosthetics to sense temperature and pressure,53,5
+2026-09-07T12:17:38.963130+00:00,49589768,49,D2 Is Non-Profit,48,17
+2026-09-07T12:17:38.963130+00:00,49583440,50,Ask HN: Would you read a statistics textbook?,84,51
