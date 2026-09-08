@@ -46207,3 +46207,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-08T05:48:11.157957+00:00,49555114,48,Every novel is boring until it isn't,75,65
 2026-09-08T05:48:11.157957+00:00,49604956,49,"AI cancer cures slowed by chip shortage, says Arm boss",9,8
 2026-09-08T05:48:11.157957+00:00,49564609,50,The NX bit is not just about security,91,48
+2026-09-08T11:05:01.841649+00:00,49607443,1,"Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",128,131
+2026-09-08T11:05:01.841649+00:00,49607991,2,Antiquated HTML Snippets and Artefacts,22,3
+2026-09-08T11:05:01.841649+00:00,49579443,3,We built our house for LAN parties,151,59
+2026-09-08T11:05:01.841649+00:00,49604637,4,I've factored the RSA keys of a Certificate Authority from the 90s,357,59
+2026-09-08T11:05:01.841649+00:00,49608023,5,Why getting your hands dirty is good for you,30,21
+2026-09-08T11:05:01.841649+00:00,49604870,6,"There's a new ""Google Jail"" for independent wikis",193,65
+2026-09-08T11:05:01.841649+00:00,49605767,7,Mistral raises €3B,504,354
+2026-09-08T11:05:01.841649+00:00,49605822,8,Multi-Agents LLM Financial Trading Framework,59,37
+2026-09-08T11:05:01.841649+00:00,49604150,9,TALA Is Open-Source,235,17
+2026-09-08T11:05:01.841649+00:00,49605246,10,How well do agents use test/verification techniques?,94,26
+2026-09-08T11:05:01.841649+00:00,49570411,11,End-to-end infrastructure for training and inferencing open weight models,11,0
+2026-09-08T11:05:01.841649+00:00,49605511,12,Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics,48,31
+2026-09-08T11:05:01.841649+00:00,49601655,13,"Watch Los Angeles get built, one building at a time (1880–2026)",299,147
+2026-09-08T11:05:01.841649+00:00,49602699,14,Leaving VMware just got harder after Broadcom pulled VDDK downloads,205,95
+2026-09-08T11:05:01.841649+00:00,49604861,15,Jellyfin 12.0,392,168
+2026-09-08T11:05:01.841649+00:00,49552299,16,WeatherNext 3,337,81
+2026-09-08T11:05:01.841649+00:00,49605691,17,We have a year to fix security everywhere,243,221
+2026-09-08T11:05:01.841649+00:00,49605644,18,"The VMs Powering Mobile Agents (Instinct, Claude Code)",36,7
+2026-09-08T11:05:01.841649+00:00,49569838,19,Scientists observe Einstein's gravity in the quantum world,225,65
+2026-09-08T11:05:01.841649+00:00,49605782,20,"My Feed, My Way",129,101
+2026-09-08T11:05:01.841649+00:00,49590199,21,Understanding Computer Memory Architecture and SSD Internals,45,3
+2026-09-08T11:05:01.841649+00:00,49560682,22,John Margolies' photographs of roadside America,87,24
+2026-09-08T11:05:01.841649+00:00,49583684,23,Robot writes in languages it has never seen before,3,1
+2026-09-08T11:05:01.841649+00:00,49575515,24,Trusting-Trust Attack against an Entire Linux Distribution,213,47
+2026-09-08T11:05:01.841649+00:00,49549327,25,Extinct Tasmanian tiger's 'snap' unlike any living mammal's bite,33,7
+2026-09-08T11:05:01.841649+00:00,49605915,26,Navier-Stokes – Tristan Buckmaster [pdf],284,142
+2026-09-08T11:05:01.841649+00:00,49595841,27,anystation: Calling any station A public board shaped like a tree. No account,7,12
+2026-09-08T11:05:01.841649+00:00,49605433,28,I tested 10 model/harness combinations on the same Three.js task,86,50
+2026-09-08T11:05:01.841649+00:00,49602490,29,Emacs Bedrock 2.0,124,27
+2026-09-08T11:05:01.841649+00:00,49586207,30,Icy Moons Are Ocean Worlds,186,24
+2026-09-08T11:05:01.841649+00:00,49568162,31,Show HN: Jigsaw Haiku,99,29
+2026-09-08T11:05:01.841649+00:00,49571096,32,This Month in Ladybird – August 2026,239,59
+2026-09-08T11:05:01.841649+00:00,49593563,33,Keep Our Servers Running,993,257
+2026-09-08T11:05:01.841649+00:00,49587115,34,Feather Atlas,13,2
+2026-09-08T11:05:01.841649+00:00,49564064,35,Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board,38,7
+2026-09-08T11:05:01.841649+00:00,49558685,36,Simple Is Not Small,246,80
+2026-09-08T11:05:01.841649+00:00,49559069,37,Show HN: Interactive Tree of Life,96,23
+2026-09-08T11:05:01.841649+00:00,49561002,38,Decoding the NEC V20 Microcode,136,9
+2026-09-08T11:05:01.841649+00:00,49603546,39,Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon,156,47
+2026-09-08T11:05:01.841649+00:00,49592375,40,216M Spy TVs – The LG Smart TV Problem [video],773,920
+2026-09-08T11:05:01.841649+00:00,49569748,41,Finding a bug in Dummit and Foote's Abstract Algebra,80,35
+2026-09-08T11:05:01.841649+00:00,49589190,42,The Dataflow Model Revisited,102,14
+2026-09-08T11:05:01.841649+00:00,49598291,43,bzip3,408,118
+2026-09-08T11:05:01.841649+00:00,49595865,44,Live map of public transport in Belgium,193,78
+2026-09-08T11:05:01.841649+00:00,49605182,45,Run an ArchiveTeam Warrior on your computer,10,0
+2026-09-08T11:05:01.841649+00:00,49602716,46,Macbeth and His Problems,55,20
+2026-09-08T11:05:01.841649+00:00,49564839,47,She Also Found It at the Movies,37,16
+2026-09-08T11:05:01.841649+00:00,49562440,48,Whistle Synth Mac App,81,18
+2026-09-08T11:05:01.841649+00:00,49555114,49,Every novel is boring until it isn't,80,68
+2026-09-08T11:05:01.841649+00:00,49557986,50,Methods for Random Gradients (2024),49,5
