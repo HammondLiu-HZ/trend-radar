@@ -46307,3 +46307,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-08T16:30:47.882004+00:00,49605644,48,"The VMs Powering Mobile Agents (Instinct, Claude Code)",61,23
 2026-09-08T16:30:47.882004+00:00,49583684,49,Robot writes in languages it has never seen before (2019),19,11
 2026-09-08T16:30:47.882004+00:00,49549327,50,Extinct Tasmanian tiger's 'snap' unlike any living mammal's bite,46,12
+2026-09-08T19:49:11.345955+00:00,49615537,1,"Muse: Meta's personal AI agent, features and capabilities",56,30
+2026-09-08T19:49:11.345955+00:00,49611251,2,Google DeepMind Releases AlphaGenome Atlas,372,92
+2026-09-08T19:49:11.345955+00:00,49610181,3,DaVinci Resolve 21.1,291,124
+2026-09-08T19:49:11.345955+00:00,49614557,4,100s of flights cancelled at UK airports due to ATC issue,36,14
+2026-09-08T19:49:11.345955+00:00,49611128,5,"Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",148,80
+2026-09-08T19:49:11.345955+00:00,49613262,6,On the Navier–Stokes Millennium Prize Problem,677,495
+2026-09-08T19:49:11.345955+00:00,49614720,7,ChatGPT Images 2.5,169,207
+2026-09-08T19:49:11.345955+00:00,49613068,8,Show HN: LLM Attention Visualization,57,12
+2026-09-08T19:49:11.345955+00:00,49612329,9,LG TVs caught spying even when offline or on standby,363,199
+2026-09-08T19:49:11.345955+00:00,49612635,10,Y Combinator Early Access Network,50,32
+2026-09-08T19:49:11.345955+00:00,49600901,11,The Helicopter with Radioactive Blades,107,25
+2026-09-08T19:49:11.345955+00:00,49610631,12,I-have-ADHD: A skill to stop coding agents from burying the answer,175,144
+2026-09-08T19:49:11.345955+00:00,49612818,13,Connecting the Machines,49,17
+2026-09-08T19:49:11.345955+00:00,49611051,14,The two Christian saints who are the Buddha,154,86
+2026-09-08T19:49:11.345955+00:00,49610059,15,Show HN: Copperhead – Hardware as Fast as Software,170,65
+2026-09-08T19:49:11.345955+00:00,49575766,16,Implementation of GCC's Nested Functions (vs. C++ Lambdas),13,0
+2026-09-08T19:49:11.345955+00:00,49575914,17,Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster,30,11
+2026-09-08T19:49:11.345955+00:00,49612191,18,C*: Unifying Programming and Verification in C,43,32
+2026-09-08T19:49:11.345955+00:00,49610641,19,AlphaGenome Atlas predictive map of every DNA letter change in the human genome,66,8
+2026-09-08T19:49:11.345955+00:00,49611230,20,ZX Spectrum: Experimenting with 1-Bit Sound,65,21
+2026-09-08T19:49:11.345955+00:00,49605915,21,Navier-Stokes – Tristan Buckmaster [pdf],678,341
+2026-09-08T19:49:11.345955+00:00,49615139,22,Function Arguments Are Not Function Colors,7,1
+2026-09-08T19:49:11.345955+00:00,49591563,23,The 92-Year-Old Mathematician and the Teenage Apprentice,69,5
+2026-09-08T19:49:11.345955+00:00,49610900,24,Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger,270,79
+2026-09-08T19:49:11.345955+00:00,49608023,25,Getting your hands dirty is good for you,186,158
+2026-09-08T19:49:11.345955+00:00,49604870,26,"There's a new ""Google Jail"" for independent wikis",480,200
+2026-09-08T19:49:11.345955+00:00,49610988,27,DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits,270,146
+2026-09-08T19:49:11.345955+00:00,49611549,28,Disappointed Optimists,47,2
+2026-09-08T19:49:11.345955+00:00,49609174,29,FreeBSD 14.5-Release,74,12
+2026-09-08T19:49:11.345955+00:00,49607991,30,Antiquated HTML Snippets and Artefacts,208,70
+2026-09-08T19:49:11.345955+00:00,49586667,31,Extracting Steering Vectors from J space,54,12
+2026-09-08T19:49:11.345955+00:00,49613312,32,Cognition (Devin) raises $2B at $48B valuation,8,0
+2026-09-08T19:49:11.345955+00:00,49605767,33,Mistral raises €3B,780,555
+2026-09-08T19:49:11.345955+00:00,49615639,34,"Countries with France,UK announce sanctions on Israeli settlements in WestBank",7,0
+2026-09-08T19:49:11.345955+00:00,49611329,35,"Reverse engineering the 2008 LogiCola, a logic drill program",18,2
+2026-09-08T19:49:11.345955+00:00,49574941,36,Picolibrary: A Small Press,50,11
+2026-09-08T19:49:11.345955+00:00,49555592,37,Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?,226,100
+2026-09-08T19:49:11.345955+00:00,49613026,38,Show HN: Infinite Sugar – a fruit fly emulation given a pleasant life,10,4
+2026-09-08T19:49:11.345955+00:00,49605246,39,How well do agents use test/verification techniques?,165,61
+2026-09-08T19:49:11.345955+00:00,49570411,40,End-to-end infrastructure for training and inferencing open weight models,66,13
+2026-09-08T19:49:11.345955+00:00,49611641,41,I Rewrote My Back End in Go in 72 Hours and Cut My AWS Bill by 94%,9,4
+2026-09-08T19:49:11.345955+00:00,49605511,42,Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics,78,59
+2026-09-08T19:49:11.345955+00:00,49612463,43,Do you think it happened? Research stolen from their Codex private chats,42,13
+2026-09-08T19:49:11.345955+00:00,49604637,44,I've factored the RSA keys of a Certificate Authority from the 90s,468,117
+2026-09-08T19:49:11.345955+00:00,49610538,45,LibreOffice breaks download records after declaring it has no AI features,614,209
+2026-09-08T19:49:11.345955+00:00,49613598,46,Nathan Fielder's Elizabeth Holmes Doc Met with Shock and Awe at Secret Screening,18,12
+2026-09-08T19:49:11.345955+00:00,49613527,47,EV batteries last longer than drivers feared,11,0
+2026-09-08T19:49:11.345955+00:00,49615732,48,Improve the model for everyone: OpenAI and the Navier–Stokes problem,3,1
+2026-09-08T19:49:11.345955+00:00,49612327,49,Why I'm Not Excited About the Graphene OS and Motorola Partnership,29,21
+2026-09-08T19:49:11.345955+00:00,49604861,50,Jellyfin 12.0,568,302
