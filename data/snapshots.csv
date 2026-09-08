@@ -46357,3 +46357,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-08T19:49:11.345955+00:00,49615732,48,Improve the model for everyone: OpenAI and the Navier–Stokes problem,3,1
 2026-09-08T19:49:11.345955+00:00,49612327,49,Why I'm Not Excited About the Graphene OS and Motorola Partnership,29,21
 2026-09-08T19:49:11.345955+00:00,49604861,50,Jellyfin 12.0,568,302
+2026-09-08T22:31:48.500001+00:00,49611251,1,Google DeepMind Releases AlphaGenome Atlas,451,107
+2026-09-08T22:31:48.500001+00:00,49605915,2,Navier-Stokes – Tristan Buckmaster [pdf],992,435
+2026-09-08T22:31:48.500001+00:00,49613262,3,On the Navier–Stokes Millennium Prize Problem,984,796
+2026-09-08T22:31:48.500001+00:00,49616257,4,"Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",173,75
+2026-09-08T22:31:48.500001+00:00,49617581,5,Large Language Models Develop Novel Social Biases Through Adaptive Exploration,18,3
+2026-09-08T22:31:48.500001+00:00,49610181,6,DaVinci Resolve 21.1,325,143
+2026-09-08T22:31:48.500001+00:00,49611128,7,"Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",194,97
+2026-09-08T22:31:48.500001+00:00,49616354,8,Mercury 2.5,82,9
+2026-09-08T22:31:48.500001+00:00,49615537,9,"Muse: Meta's personal AI agent, features and capabilities",199,187
+2026-09-08T22:31:48.500001+00:00,49616272,10,Animation in Bevy: The Big Picture,27,1
+2026-09-08T22:31:48.500001+00:00,49610631,11,I-have-ADHD: A skill to stop coding agents from burying the answer,257,203
+2026-09-08T22:31:48.500001+00:00,49575766,12,Implementation of GCC's Nested Functions (vs. C++ Lambdas),44,4
+2026-09-08T22:31:48.500001+00:00,49613068,13,Show HN: LLM Attention Visualization,97,18
+2026-09-08T22:31:48.500001+00:00,49562430,14,"Tracing np.add, all the way down",20,1
+2026-09-08T22:31:48.500001+00:00,49600901,15,The Helicopter with Radioactive Blades,138,33
+2026-09-08T22:31:48.500001+00:00,49575914,16,Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster,62,26
+2026-09-08T22:31:48.500001+00:00,49610059,17,Show HN: Copperhead – Hardware as Fast as Software,190,76
+2026-09-08T22:31:48.500001+00:00,49599825,18,Reverse Engineering an ASIC,7,0
+2026-09-08T22:31:48.500001+00:00,49591563,19,The 92-Year-Old Mathematician and the Teenage Apprentice,114,9
+2026-09-08T22:31:48.500001+00:00,49612191,20,C*: Unifying Programming and Verification in C,65,38
+2026-09-08T22:31:48.500001+00:00,49617255,21,How to Build a Printer,4,0
+2026-09-08T22:31:48.500001+00:00,49611051,22,The two Christian saints who are the Buddha,195,134
+2026-09-08T22:31:48.500001+00:00,49612818,23,Connecting the Machines,68,24
+2026-09-08T22:31:48.500001+00:00,49611230,24,ZX Spectrum: Experimenting with 1-Bit Sound,89,26
+2026-09-08T22:31:48.500001+00:00,49610641,25,AlphaGenome Atlas predictive map of every DNA letter change in the human genome,73,9
+2026-09-08T22:31:48.500001+00:00,49615139,26,Function Arguments Are Not Function Colors,24,9
+2026-09-08T22:31:48.500001+00:00,49616239,27,Trey Parker and Matt Stone Are Changing the Name of South Park to South America,107,45
+2026-09-08T22:31:48.500001+00:00,49609174,28,FreeBSD 14.5-Release,101,18
+2026-09-08T22:31:48.500001+00:00,49612635,29,Y Combinator Early Access Network,73,54
+2026-09-08T22:31:48.500001+00:00,49608023,30,Getting your hands dirty is good for you,205,171
+2026-09-08T22:31:48.500001+00:00,49610900,31,Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger,312,103
+2026-09-08T22:31:48.500001+00:00,49614720,32,ChatGPT Images 2.5,253,326
+2026-09-08T22:31:48.500001+00:00,49616968,33,Tao: Open math problems being non-renewably mined by AI,4,1
+2026-09-08T22:31:48.500001+00:00,49607991,34,Antiquated HTML Snippets and Artefacts,216,79
+2026-09-08T22:31:48.500001+00:00,49610988,35,DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits,304,180
+2026-09-08T22:31:48.500001+00:00,49611549,36,Disappointed Optimists,55,6
+2026-09-08T22:31:48.500001+00:00,49611641,37,I Rewrote My Back End in Go in 72 Hours and Cut My AWS Bill by 94%,30,9
+2026-09-08T22:31:48.500001+00:00,49605767,38,Mistral raises €3B,796,559
+2026-09-08T22:31:48.500001+00:00,49586667,39,Extracting Steering Vectors from J space,57,13
+2026-09-08T22:31:48.500001+00:00,49613312,40,Cognition (Devin) raises $2B at $48B valuation,14,1
+2026-09-08T22:31:48.500001+00:00,49614101,41,GrapheneOS on AI Usage,7,0
+2026-09-08T22:31:48.500001+00:00,49614557,42,Flights cancelled at UK airports due to ATC issue,112,97
+2026-09-08T22:31:48.500001+00:00,49615888,43,Meta Failed to Catch Hundreds of AI Child Abuse Ads,26,2
+2026-09-08T22:31:48.500001+00:00,49574941,44,Picolibrary: A Small Press,54,12
+2026-09-08T22:31:48.500001+00:00,49614983,45,"Real photos of young girls were in nudify-app ads on Facebook, Instagram",37,7
+2026-09-08T22:31:48.500001+00:00,49616696,46,'Lake America' makes one thing clear: We can't trust U.S. tech companies,49,27
+2026-09-08T22:31:48.500001+00:00,49612329,47,LG TVs caught spying even when offline or on standby,460,268
+2026-09-08T22:31:48.500001+00:00,49555592,48,Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?,233,111
+2026-09-08T22:31:48.500001+00:00,49605246,49,How well do agents use test/verification techniques?,170,64
+2026-09-08T22:31:48.500001+00:00,49612772,50,"Our GitHub Actions bill kept climbing, so we moved CI to one box",16,9
