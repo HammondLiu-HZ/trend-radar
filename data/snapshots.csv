@@ -46407,3 +46407,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-08T22:31:48.500001+00:00,49555592,48,Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?,233,111
 2026-09-08T22:31:48.500001+00:00,49605246,49,How well do agents use test/verification techniques?,170,64
 2026-09-08T22:31:48.500001+00:00,49612772,50,"Our GitHub Actions bill kept climbing, so we moved CI to one box",16,9
+2026-09-09T01:09:44.728507+00:00,49615537,1,Muse – Meta’s personal AI agent,277,267
+2026-09-09T01:09:44.728507+00:00,49617581,2,Large language models develop novel social biases through adaptive exploration,86,45
+2026-09-09T01:09:44.728507+00:00,49611251,3,AlphaGenome Atlas: a high-resolution map of human DNA,487,115
+2026-09-09T01:09:44.728507+00:00,49617255,4,How to build a printer,118,26
+2026-09-09T01:09:44.728507+00:00,49605915,5,Navier-Stokes – Tristan Buckmaster [pdf],1222,533
+2026-09-09T01:09:44.728507+00:00,49613262,6,On the Navier–Stokes Millennium Prize Problem,1093,953
+2026-09-09T01:09:44.728507+00:00,49610181,7,DaVinci Resolve 21.1,345,154
+2026-09-09T01:09:44.728507+00:00,49618050,8,"A Topological Picture Book, Rendered",41,5
+2026-09-09T01:09:44.728507+00:00,49591112,9,The Microeconomics of Artificial Intelligence (2025),23,6
+2026-09-09T01:09:44.728507+00:00,49611128,10,"Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",208,105
+2026-09-09T01:09:44.728507+00:00,49619227,11,I Resigned from Anthropic Today,32,24
+2026-09-09T01:09:44.728507+00:00,49616257,12,"Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",204,104
+2026-09-09T01:09:44.728507+00:00,49610631,13,I-have-ADHD: A skill to stop coding agents from burying the answer,309,243
+2026-09-09T01:09:44.728507+00:00,49616968,14,Tao: Open math problems being non-renewably mined by AI,120,79
+2026-09-09T01:09:44.728507+00:00,49616272,15,Animation in Bevy: The Big Picture,42,2
+2026-09-09T01:09:44.728507+00:00,49598009,16,"Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",7,5
+2026-09-09T01:09:44.728507+00:00,49616354,17,Mercury 2.5,120,15
+2026-09-09T01:09:44.728507+00:00,49575766,18,Implementation of GCC's Nested Functions (vs. C++ Lambdas),54,9
+2026-09-09T01:09:44.728507+00:00,49613068,19,Show HN: LLM Attention Visualization,119,19
+2026-09-09T01:09:44.728507+00:00,49575914,20,Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster,79,38
+2026-09-09T01:09:44.728507+00:00,49562430,21,"Tracing np.add, all the way down",35,2
+2026-09-09T01:09:44.728507+00:00,49598921,22,Getting phpBB 1.4.4 working in Docker,17,4
+2026-09-09T01:09:44.728507+00:00,49600901,23,The Helicopter with Radioactive Blades,146,43
+2026-09-09T01:09:44.728507+00:00,49610059,24,Show HN: Copperhead – Cursor for circuit boards,205,78
+2026-09-09T01:09:44.728507+00:00,49579443,25,We built our house for LAN parties (2024),407,308
+2026-09-09T01:09:44.728507+00:00,49611051,26,The two Christian saints who are the Buddha,218,153
+2026-09-09T01:09:44.728507+00:00,49599825,27,Reverse Engineering an ASIC,28,4
+2026-09-09T01:09:44.728507+00:00,49612191,28,C*: Unifying Programming and Verification in C (2025),70,41
+2026-09-09T01:09:44.728507+00:00,49591563,29,The 92-Year-Old Mathematician and the Teenage Apprentice,138,11
+2026-09-09T01:09:44.728507+00:00,49612818,30,Connecting the machines,76,27
+2026-09-09T01:09:44.728507+00:00,49610641,31,AlphaGenome Atlas predictive map of every DNA letter change in the human genome,78,11
+2026-09-09T01:09:44.728507+00:00,49609174,32,FreeBSD 14.5-Release,117,23
+2026-09-09T01:09:44.728507+00:00,49611230,33,ZX Spectrum: Experimenting with 1-Bit Sound,92,28
+2026-09-09T01:09:44.728507+00:00,49608023,34,Getting your hands dirty is good for you,213,177
+2026-09-09T01:09:44.728507+00:00,49615139,35,Function Arguments Are Not Function Colors,35,19
+2026-09-09T01:09:44.728507+00:00,49610900,36,Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger,330,112
+2026-09-09T01:09:44.728507+00:00,49618175,37,LG TV shown scanning LAN for third-party phones and other devices,28,0
+2026-09-09T01:09:44.728507+00:00,49614101,38,GrapheneOS on AI Usage,22,0
+2026-09-09T01:09:44.728507+00:00,49607991,39,Antiquated HTML Snippets and Artefacts,224,79
+2026-09-09T01:09:44.728507+00:00,49611641,40,I Rewrote My Back End in Go in 72 Hours and Cut My AWS Bill by 94%,44,19
+2026-09-09T01:09:44.728507+00:00,49611549,41,Disappointed Optimists,58,6
+2026-09-09T01:09:44.728507+00:00,49618447,42,Flock worker calls police on investigator filming public camera installation,15,4
+2026-09-09T01:09:44.728507+00:00,49605767,43,Mistral raises €3B,807,563
+2026-09-09T01:09:44.728507+00:00,49613312,44,Cognition (Devin) raises $2B at $48B valuation,21,3
+2026-09-09T01:09:44.728507+00:00,49610988,45,DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits,314,191
+2026-09-09T01:09:44.728507+00:00,49586667,46,Extracting Steering Vectors from J space,59,14
+2026-09-09T01:09:44.728507+00:00,49574941,47,Picolibrary: A Small Press,58,12
+2026-09-09T01:09:44.728507+00:00,49605246,48,How well do agents use test/verification techniques?,174,64
+2026-09-09T01:09:44.728507+00:00,49618622,49,Chinese AI Companies Conducting Distillation Campaigns Against U.S. AI Companies [pdf],11,8
+2026-09-09T01:09:44.728507+00:00,49614720,50,ChatGPT Images 2.5,270,360
