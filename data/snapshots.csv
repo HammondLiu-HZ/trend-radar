@@ -46457,3 +46457,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-09T01:09:44.728507+00:00,49605246,48,How well do agents use test/verification techniques?,174,64
 2026-09-09T01:09:44.728507+00:00,49618622,49,Chinese AI Companies Conducting Distillation Campaigns Against U.S. AI Companies [pdf],11,8
 2026-09-09T01:09:44.728507+00:00,49614720,50,ChatGPT Images 2.5,270,360
+2026-09-09T07:18:08.697259+00:00,49622042,1,Copyright does more harm than good and should be abolished,64,19
+2026-09-09T07:18:08.697259+00:00,49615537,2,Muse – Meta’s personal AI agent,468,499
+2026-09-09T07:18:08.697259+00:00,49621697,3,The Navier–Stokes Millennium Prize Problem,120,102
+2026-09-09T07:18:08.697259+00:00,49622305,4,Trying,6,0
+2026-09-09T07:18:08.697259+00:00,49546964,5,Tension wood: A 'muscle' that can both bend and straighten plants,99,16
+2026-09-09T07:18:08.697259+00:00,49605915,6,Navier-Stokes – Tristan Buckmaster [pdf],1560,666
+2026-09-09T07:18:08.697259+00:00,49580761,7,Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field,28,9
+2026-09-09T07:18:08.697259+00:00,49621102,8,"A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",30,5
+2026-09-09T07:18:08.697259+00:00,49617255,9,How to build a printer,280,53
+2026-09-09T07:18:08.697259+00:00,49611251,10,AlphaGenome Atlas: a high-resolution map of human DNA,543,118
+2026-09-09T07:18:08.697259+00:00,49621751,11,"""Tweet"" and the bird logo apparently enter the public domain",8,0
+2026-09-09T07:18:08.697259+00:00,49621223,12,AI Has a Discovery Problem,21,9
+2026-09-09T07:18:08.697259+00:00,49621074,13,The Nonfiction Book Market is Collapsing?,30,32
+2026-09-09T07:18:08.697259+00:00,49617581,14,Large language models develop novel social biases through adaptive exploration,146,77
+2026-09-09T07:18:08.697259+00:00,49616354,15,Mercury 2.5,182,26
+2026-09-09T07:18:08.697259+00:00,49619227,16,I resigned from Anthropic today,439,575
+2026-09-09T07:18:08.697259+00:00,49597806,17,The origins of Partner’s computer case,28,2
+2026-09-09T07:18:08.697259+00:00,49610181,18,DaVinci Resolve 21.1,392,174
+2026-09-09T07:18:08.697259+00:00,49619464,19,27.5KB language-agnostic WebGPU syntax highlighter,62,18
+2026-09-09T07:18:08.697259+00:00,49579482,20,An Accidental Blackboard,51,24
+2026-09-09T07:18:08.697259+00:00,49580389,21,Ganon's Mysterious Origins (Revisited),30,16
+2026-09-09T07:18:08.697259+00:00,49616968,22,Tao: Open math problems being non-renewably mined by AI,321,306
+2026-09-09T07:18:08.697259+00:00,49610631,23,I-have-ADHD: A skill to stop coding agents from burying the answer,409,293
+2026-09-09T07:18:08.697259+00:00,49612089,24,Into the depths of C: Elaborating the de facto standards (2016),15,1
+2026-09-09T07:18:08.697259+00:00,49613262,25,On the Navier–Stokes Millennium Prize Problem,1238,986
+2026-09-09T07:18:08.697259+00:00,49611128,26,"Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",241,112
+2026-09-09T07:18:08.697259+00:00,49618050,27,"A Topological Picture Book, Rendered",92,11
+2026-09-09T07:18:08.697259+00:00,49591112,28,The Microeconomics of Artificial Intelligence (2025),50,22
+2026-09-09T07:18:08.697259+00:00,49579443,29,We built our house for LAN parties (2024),490,322
+2026-09-09T07:18:08.697259+00:00,49614720,30,ChatGPT Images 2.5,326,395
+2026-09-09T07:18:08.697259+00:00,49575914,31,Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster,119,45
+2026-09-09T07:18:08.697259+00:00,49600901,32,The Helicopter with Radioactive Blades,173,54
+2026-09-09T07:18:08.697259+00:00,49616272,33,Animation in Bevy: The Big Picture,65,8
+2026-09-09T07:18:08.697259+00:00,49598921,34,Getting phpBB 1.4.4 working in Docker,43,31
+2026-09-09T07:18:08.697259+00:00,49616257,35,"Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",254,130
+2026-09-09T07:18:08.697259+00:00,49610059,36,Show HN: Copperhead – Cursor for circuit boards,225,90
+2026-09-09T07:18:08.697259+00:00,49575766,37,Implementation of GCC's Nested Functions (vs. C++ Lambdas),70,16
+2026-09-09T07:18:08.697259+00:00,49562430,38,"Tracing np.add, all the way down",54,2
+2026-09-09T07:18:08.697259+00:00,49613068,39,Show HN: LLM Attention Visualization,153,24
+2026-09-09T07:18:08.697259+00:00,49598009,40,"Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",26,28
+2026-09-09T07:18:08.697259+00:00,49591563,41,The 92-Year-Old Mathematician and the Teenage Apprentice,165,13
+2026-09-09T07:18:08.697259+00:00,49599825,42,Reverse Engineering an ASIC,52,8
+2026-09-09T07:18:08.697259+00:00,49609174,43,FreeBSD 14.5-Release,126,25
+2026-09-09T07:18:08.697259+00:00,49608023,44,Getting your hands dirty is good for you,228,190
+2026-09-09T07:18:08.697259+00:00,49610641,45,AlphaGenome Atlas predictive map of every DNA letter change in the human genome,83,11
+2026-09-09T07:18:08.697259+00:00,49611230,46,ZX Spectrum: Experimenting with 1-Bit Sound,95,33
+2026-09-09T07:18:08.697259+00:00,49611051,47,The two Christian saints who are the Buddha,235,176
+2026-09-09T07:18:08.697259+00:00,49612818,48,Connecting the machines,80,34
+2026-09-09T07:18:08.697259+00:00,49614101,49,GrapheneOS on AI Usage,36,0
+2026-09-09T07:18:08.697259+00:00,49607991,50,Antiquated HTML Snippets and Artefacts,233,83
