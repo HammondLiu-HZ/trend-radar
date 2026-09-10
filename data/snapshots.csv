@@ -46850,3 +46850,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-10T14:14:54.053171+00:00,49628614,48,Understanding the recent DDoS attack against Read the Docs,200,63
 2026-09-10T14:14:54.053171+00:00,49642877,49,"Okay, Sure, a Folding iPhone",5,1
 2026-09-10T14:14:54.053171+00:00,49587465,50,ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol,107,37
+2026-09-10T18:16:52.798230+00:00,49643546,1,Rust is tier-1 language at Microsoft,366,183
+2026-09-10T18:16:52.798230+00:00,49645443,2,"Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",140,70
+2026-09-10T18:16:52.798230+00:00,49639408,3,More questions about whether researchers can trust OpenAI with unpublished math,227,371
+2026-09-10T18:16:52.798230+00:00,49646181,4,I have a theory that software drives people insane,100,48
+2026-09-10T18:16:52.798230+00:00,49645437,5,NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth,85,13
+2026-09-10T18:16:52.798230+00:00,49643982,6,Shopify moves back to Native from React Native,490,351
+2026-09-10T18:16:52.798230+00:00,49645686,7,Neki,91,24
+2026-09-10T18:16:52.798230+00:00,49645907,8,Forgejo <=16.0.3 Critical RCE,41,19
+2026-09-10T18:16:52.798230+00:00,49587121,9,Douglas Hofstadter: Analogy as the Core of Cognition [video],43,15
+2026-09-10T18:16:52.798230+00:00,49645754,10,Silicon Valley Is Transforming the Military-Industrial Complex,49,56
+2026-09-10T18:16:52.798230+00:00,49627634,11,Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls,225,190
+2026-09-10T18:16:52.798230+00:00,49613072,12,>10x More Efficient Pretraining,74,43
+2026-09-10T18:16:52.798230+00:00,49645763,13,Neki is sharded Postgres by PlanetScale,71,18
+2026-09-10T18:16:52.798230+00:00,49639090,14,DeepSeek v4.1 Flash,806,453
+2026-09-10T18:16:52.798230+00:00,49646778,15,Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1,12,1
+2026-09-10T18:16:52.798230+00:00,49645826,16,Casablanca: How an unproduced play marched into movie history,30,8
+2026-09-10T18:16:52.798230+00:00,49640646,17,What algorithm did Windows XP use to choose your initial user picture?,283,139
+2026-09-10T18:16:52.798230+00:00,49647134,18,Music Theory for the 21st-Century Classroom,7,2
+2026-09-10T18:16:52.798230+00:00,49642531,19,"List of references on Sony websites to players ""owning"" their digital games",260,87
+2026-09-10T18:16:52.798230+00:00,49612470,20,Python sets and dictionaries can have quadratic-time performance,46,18
+2026-09-10T18:16:52.798230+00:00,49599992,21,Stockfish 19,217,127
+2026-09-10T18:16:52.798230+00:00,49630931,22,iPhone Duo,1355,2360
+2026-09-10T18:16:52.798230+00:00,49610780,23,"To write non-fiction, draw the trunk, then the rest of the tree",61,20
+2026-09-10T18:16:52.798230+00:00,49647404,24,JEP 544: Ahead-of-Time Code Compilation,8,4
+2026-09-10T18:16:52.798230+00:00,49645803,25,"Show HN: MultiMatte, a Promptable Image Background Removal Model",10,2
+2026-09-10T18:16:52.798230+00:00,49646988,26,Anthropic Says It Blocked Possible Efforts to Build Biological Weapons,29,18
+2026-09-10T18:16:52.798230+00:00,49630125,27,"Show HN: DOOM in the kernel, or fibers in eBPF",10,3
+2026-09-10T18:16:52.798230+00:00,49644647,28,The Four-Color Theorem Gets a Rare New Proof,14,3
+2026-09-10T18:16:52.798230+00:00,49644955,29,Show HN: Syq – copy files between machines fast (better than rsync),19,19
+2026-09-10T18:16:52.798230+00:00,49639730,30,The first drink-driving conviction may have happened in London,16,28
+2026-09-10T18:16:52.798230+00:00,49645804,31,Serverless DTLS,8,5
+2026-09-10T18:16:52.798230+00:00,49644294,32,AI 2027 (2025),12,8
+2026-09-10T18:16:52.798230+00:00,49611112,33,Show HN: Filament – Fast data movement engine in Go,19,3
+2026-09-10T18:16:52.798230+00:00,49577541,34,"Show HN: Art – draw one stroke, let symmetry complete it",77,32
+2026-09-10T18:16:52.798230+00:00,49626110,35,Liesegang Rings,23,4
+2026-09-10T18:16:52.798230+00:00,49621018,36,Larger Pacific striped octopus,118,60
+2026-09-10T18:16:52.798230+00:00,49644456,37,X86S with IGZO BEOL EDRAM,6,1
+2026-09-10T18:16:52.798230+00:00,49643864,38,Who Dung It? (Turdle.fun),13,18
+2026-09-10T18:16:52.798230+00:00,49647421,39,Alberta First Nation invokes treaty clause to set up gender-affirming care,6,1
+2026-09-10T18:16:52.798230+00:00,49646199,40,"Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf",5,0
+2026-09-10T18:16:52.798230+00:00,49580005,41,Discrete Dipole Approximation Code Ddscat 7.2 (2012),13,5
+2026-09-10T18:16:52.798230+00:00,49645037,42,Galaxy Z Fold 8 get the same folding animation as iPhone Duo,6,1
+2026-09-10T18:16:52.798230+00:00,49644179,43,AI Is Breaking This Thing We Call Trust,9,1
+2026-09-10T18:16:52.798230+00:00,49637385,44,Show HN: What if the speed of light was 5 km/h?,548,240
+2026-09-10T18:16:52.798230+00:00,49644915,45,"Show HN: We served 5k dynamic websites from a 2-vCPU, 4 GB VPS",7,0
+2026-09-10T18:16:52.798230+00:00,49593896,46,"Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",50,14
+2026-09-10T18:16:52.798230+00:00,49643853,47,A Crash Course in Predicate Logic,5,0
+2026-09-10T18:16:52.798230+00:00,49636283,48,Automattic's board forces CEO Matt Mullenweg into leave of absence,413,294
+2026-09-10T18:16:52.798230+00:00,49643556,49,Tell HN: OpenAI keeps re-enabling the 'allow training' setting,385,150
+2026-09-10T18:16:52.798230+00:00,49626190,50,Shopify acquires Tailwind,1111,437
