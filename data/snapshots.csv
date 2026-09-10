@@ -46950,3 +46950,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-10T21:32:13.550368+00:00,49643575,48,Kagi Translate Is Back,29,7
 2026-09-10T21:32:13.550368+00:00,49637385,49,Show HN: What if the speed of light was 5 km/h?,559,252
 2026-09-10T21:32:13.550368+00:00,49645037,50,Galaxy Z Fold 8 get the same folding animation as iPhone Duo,12,2
+2026-09-10T23:57:36.761446+00:00,49643982,1,Shopify is moving from React Native back to Swift and Kotlin,703,467
+2026-09-10T23:57:36.761446+00:00,49639408,2,More questions about whether researchers can trust OpenAI with unpublished math,592,594
+2026-09-10T23:57:36.761446+00:00,49649124,3,The Deathray: A simple way for an untrusted site to freeze a Mac,45,13
+2026-09-10T23:57:36.761446+00:00,49649213,4,OpenAI Agents API,89,62
+2026-09-10T23:57:36.761446+00:00,49645443,5,"Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",341,140
+2026-09-10T23:57:36.761446+00:00,49645393,6,Don't let anyone take away your big box of cables,280,221
+2026-09-10T23:57:36.761446+00:00,49645437,7,Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025),248,36
+2026-09-10T23:57:36.761446+00:00,49649222,8,"Proof of Capture: Apple Reference Image, but open source and using steganography",55,39
+2026-09-10T23:57:36.761446+00:00,49647134,9,Music Theory for the 21st-Century Classroom,140,66
+2026-09-10T23:57:36.761446+00:00,49645907,10,Forgejo <=16.0.3 Critical RCE,142,52
+2026-09-10T23:57:36.761446+00:00,49649789,11,Bodily Oddities,43,30
+2026-09-10T23:57:36.761446+00:00,49645686,12,Neki – Sharded Postgres,188,97
+2026-09-10T23:57:36.761446+00:00,49603335,13,Recursion into madness,25,5
+2026-09-10T23:57:36.761446+00:00,49650326,14,OpenAI’s Navier-Stokes release included a Lean 4 formal proof,123,119
+2026-09-10T23:57:36.761446+00:00,49627634,15,Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls,280,218
+2026-09-10T23:57:36.761446+00:00,49643546,16,Rust is tier-1 language at Microsoft,581,320
+2026-09-10T23:57:36.761446+00:00,49615922,17,What happens when a GPU writes memory,33,1
+2026-09-10T23:57:36.761446+00:00,49604581,18,Show HN: Vertumnus – printable posters of farmers' market produce seasonality,21,10
+2026-09-10T23:57:36.761446+00:00,49647404,19,JEP 544: Ahead-of-Time Code Compilation,68,24
+2026-09-10T23:57:36.761446+00:00,49647300,20,Detecting and countering misuse of AI: September 2026,70,135
+2026-09-10T23:57:36.761446+00:00,49645754,21,Silicon Valley is transforming the military-industrial complex?,141,274
+2026-09-10T23:57:36.761446+00:00,49608665,22,"Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",9,1
+2026-09-10T23:57:36.761446+00:00,49630931,23,iPhone Duo,1406,2425
+2026-09-10T23:57:36.761446+00:00,49587121,24,Douglas Hofstadter: Analogy as the Core of Cognition [video],130,70
+2026-09-10T23:57:36.761446+00:00,49640646,25,What algorithm did Windows XP use to choose your initial user picture?,335,164
+2026-09-10T23:57:36.761446+00:00,49648732,26,Creativity is the new moat,120,62
+2026-09-10T23:57:36.761446+00:00,49646778,27,Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1,54,25
+2026-09-10T23:57:36.761446+00:00,49599992,28,Stockfish 19,262,149
+2026-09-10T23:57:36.761446+00:00,49642531,29,"List of references on Sony websites to players ""owning"" their digital games",350,117
+2026-09-10T23:57:36.761446+00:00,49612470,30,Python sets and dictionaries can have quadratic-time performance,85,50
+2026-09-10T23:57:36.761446+00:00,49586139,31,Schemy Lisp En DOS,77,18
+2026-09-10T23:57:36.761446+00:00,49613072,32,Compute-efficient pretraining and scaling to trillion-parameter models,108,61
+2026-09-10T23:57:36.761446+00:00,49610780,33,"To write non-fiction, draw the trunk, then the rest of the tree",81,27
+2026-09-10T23:57:36.761446+00:00,49602716,34,Macbeth and His Problems,73,28
+2026-09-10T23:57:36.761446+00:00,49639090,35,DeepSeek v4.1 Flash,935,515
+2026-09-10T23:57:36.761446+00:00,49645803,36,"Show HN: MultiMatte, a Promptable Image Background Removal Model",35,7
+2026-09-10T23:57:36.761446+00:00,49630125,37,"Show HN: DOOM in the kernel, or fibers in eBPF",33,10
+2026-09-10T23:57:36.761446+00:00,49644179,38,AI Is Breaking This Thing We Call Trust,51,9
+2026-09-10T23:57:36.761446+00:00,49645826,39,Casablanca: How an unproduced play marched into movie history,44,16
+2026-09-10T23:57:36.761446+00:00,49644647,40,The Four-Color Theorem Gets a Rare New Proof,38,8
+2026-09-10T23:57:36.761446+00:00,49648784,41,On Next-Gen Transformer: Loops Are Not What You Need,12,0
+2026-09-10T23:57:36.761446+00:00,49650725,42,1M+ German households have hung solar panels off their balcony railings,22,2
+2026-09-10T23:57:36.761446+00:00,49651492,43,AI researchers leave Anthropic and Google: 'There are no adults in the room',5,0
+2026-09-10T23:57:36.761446+00:00,49648652,44,The Iron Heel by Jack London,10,3
+2026-09-10T23:57:36.761446+00:00,49651467,45,Stop externalizing the cost of your AI use to me,6,0
+2026-09-10T23:57:36.761446+00:00,49621018,46,Larger Pacific striped octopus,124,64
+2026-09-10T23:57:36.761446+00:00,49646181,47,I have a theory that software drives people insane,404,163
+2026-09-10T23:57:36.761446+00:00,49577541,48,"Show HN: Art – draw one stroke, let symmetry complete it",85,34
+2026-09-10T23:57:36.761446+00:00,49651528,49,"M. Williams, OpenAI: Human extinction in the next few years seems likely",5,1
+2026-09-10T23:57:36.761446+00:00,49643575,50,Kagi Translate Is Back,34,11
