@@ -46900,3 +46900,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-10T18:16:52.798230+00:00,49636283,48,Automattic's board forces CEO Matt Mullenweg into leave of absence,413,294
 2026-09-10T18:16:52.798230+00:00,49643556,49,Tell HN: OpenAI keeps re-enabling the 'allow training' setting,385,150
 2026-09-10T18:16:52.798230+00:00,49626190,50,Shopify acquires Tailwind,1111,437
+2026-09-10T21:32:13.550368+00:00,49645443,1,"Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",294,123
+2026-09-10T21:32:13.550368+00:00,49639408,2,More questions about whether researchers can trust OpenAI with unpublished math,451,504
+2026-09-10T21:32:13.550368+00:00,49645437,3,NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth,207,34
+2026-09-10T21:32:13.550368+00:00,49645393,4,Don't let anyone take away your big box of cables,171,134
+2026-09-10T21:32:13.550368+00:00,49645907,5,Forgejo <=16.0.3 Critical RCE,116,42
+2026-09-10T21:32:13.550368+00:00,49643982,6,Shopify moves back to Native from React Native,603,411
+2026-09-10T21:32:13.550368+00:00,49649222,7,"Proof of Capture: Apple Reference Image, but open source and using steganography",18,12
+2026-09-10T21:32:13.550368+00:00,49647134,8,Music Theory for the 21st-Century Classroom,100,51
+2026-09-10T21:32:13.550368+00:00,49649213,9,OpenAI Agents API,20,12
+2026-09-10T21:32:13.550368+00:00,49615922,10,What happens when a GPU writes memory,20,0
+2026-09-10T21:32:13.550368+00:00,49643546,11,Rust is tier-1 language at Microsoft,536,295
+2026-09-10T21:32:13.550368+00:00,49639090,12,DeepSeek v4.1 Flash,910,502
+2026-09-10T21:32:13.550368+00:00,49645686,13,Neki,169,69
+2026-09-10T21:32:13.550368+00:00,49627634,14,Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls,259,206
+2026-09-10T21:32:13.550368+00:00,49604581,15,Show HN: Vertumnus – printable posters of farmers' market produce seasonality,7,0
+2026-09-10T21:32:13.550368+00:00,49647404,16,JEP 544: Ahead-of-Time Code Compilation,48,21
+2026-09-10T21:32:13.550368+00:00,49587121,17,Douglas Hofstadter: Analogy as the Core of Cognition [video],103,60
+2026-09-10T21:32:13.550368+00:00,49650326,18,The part of Navier-Stokes no one is talking about,4,0
+2026-09-10T21:32:13.550368+00:00,49645754,19,Silicon Valley Is Transforming the Military-Industrial Complex,122,198
+2026-09-10T21:32:13.550368+00:00,49648732,20,Creativity is the New Moat,84,42
+2026-09-10T21:32:13.550368+00:00,49646778,21,Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1,42,19
+2026-09-10T21:32:13.550368+00:00,49640646,22,What algorithm did Windows XP use to choose your initial user picture?,320,158
+2026-09-10T21:32:13.550368+00:00,49630931,23,iPhone Duo,1397,2413
+2026-09-10T21:32:13.550368+00:00,49613072,24,Compute-efficient pretraining and scaling to trillion-parameter models,103,56
+2026-09-10T21:32:13.550368+00:00,49586139,25,Schemy Lisp En DOS,71,13
+2026-09-10T21:32:13.550368+00:00,49647300,26,Detecting and countering misuse of AI: September 2026,31,17
+2026-09-10T21:32:13.550368+00:00,49612470,27,Python sets and dictionaries can have quadratic-time performance,77,42
+2026-09-10T21:32:13.550368+00:00,49642531,28,"List of references on Sony websites to players ""owning"" their digital games",323,107
+2026-09-10T21:32:13.550368+00:00,49599992,29,Stockfish 19,249,143
+2026-09-10T21:32:13.550368+00:00,49610780,30,"To write non-fiction, draw the trunk, then the rest of the tree",76,27
+2026-09-10T21:32:13.550368+00:00,49602716,31,Macbeth and His Problems,71,27
+2026-09-10T21:32:13.550368+00:00,49630125,32,"Show HN: DOOM in the kernel, or fibers in eBPF",30,10
+2026-09-10T21:32:13.550368+00:00,49645803,33,"Show HN: MultiMatte, a Promptable Image Background Removal Model",31,6
+2026-09-10T21:32:13.550368+00:00,49645826,34,Casablanca: How an unproduced play marched into movie history,43,16
+2026-09-10T21:32:13.550368+00:00,49648652,35,The Iron Heel by Jack London,8,2
+2026-09-10T21:32:13.550368+00:00,49648784,36,On Next-Gen Transformer: Loops Are Not What You Need,7,0
+2026-09-10T21:32:13.550368+00:00,49644647,37,The Four-Color Theorem Gets a Rare New Proof,31,9
+2026-09-10T21:32:13.550368+00:00,49646181,38,I have a theory that software drives people insane,387,153
+2026-09-10T21:32:13.550368+00:00,49644179,39,AI Is Breaking This Thing We Call Trust,38,3
+2026-09-10T21:32:13.550368+00:00,49621018,40,Larger Pacific striped octopus,123,63
+2026-09-10T21:32:13.550368+00:00,49648105,41,Show HN: Nightshift – Your code gets better while you sleep,5,6
+2026-09-10T21:32:13.550368+00:00,49648709,42,I'm a Proud Luddite. That's Why I Use Linux,25,3
+2026-09-10T21:32:13.550368+00:00,49577541,43,"Show HN: Art – draw one stroke, let symmetry complete it",83,33
+2026-09-10T21:32:13.550368+00:00,49639730,44,The first drink-driving conviction may have happened in London,20,33
+2026-09-10T21:32:13.550368+00:00,49648330,45,CERN Renounces RHEL in Favor of Debian,17,8
+2026-09-10T21:32:13.550368+00:00,49611112,46,Show HN: Filament – Fast data movement engine in Go,21,4
+2026-09-10T21:32:13.550368+00:00,49626110,47,Liesegang Rings,26,4
+2026-09-10T21:32:13.550368+00:00,49643575,48,Kagi Translate Is Back,29,7
+2026-09-10T21:32:13.550368+00:00,49637385,49,Show HN: What if the speed of light was 5 km/h?,559,252
+2026-09-10T21:32:13.550368+00:00,49645037,50,Galaxy Z Fold 8 get the same folding animation as iPhone Duo,12,2
