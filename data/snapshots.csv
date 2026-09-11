@@ -47150,3 +47150,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-11T14:14:57.106050+00:00,49620760,48,Testing race conditions with mem access tracing and stack-based delay injection,13,0
 2026-09-11T14:14:57.106050+00:00,49652039,49,DeepSeek 4.1 Flash,35,0
 2026-09-11T14:14:57.106050+00:00,49610780,50,"To write non-fiction, draw the trunk, then the rest of the tree",93,29
+2026-09-11T18:21:11.369893+00:00,49662214,1,Λ Snap – An inviting programming language for kids and adults for CS study,24,8
+2026-09-11T18:21:11.369893+00:00,49660676,2,Show HN: Godot and Rust based multiplexer (terminal panes and more),53,30
+2026-09-11T18:21:11.369893+00:00,49662496,3,"Show HN: Toast, a beautiful by default in terminal IDE",9,0
+2026-09-11T18:21:11.369893+00:00,49660555,4,118M Queries per Second on Neki,45,22
+2026-09-11T18:21:11.369893+00:00,49622406,5,Logo Programming Language,147,73
+2026-09-11T18:21:11.369893+00:00,49601138,6,I've operated petabyte-scale ClickHouse clusters for 5 years,96,38
+2026-09-11T18:21:11.369893+00:00,49660576,7,Global Glacier Extinction Explorer,107,37
+2026-09-11T18:21:11.369893+00:00,49621546,8,So you want to use OpenRouter?,559,155
+2026-09-11T18:21:11.369893+00:00,49651046,10,Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe,46,31
+2026-09-11T18:21:11.369893+00:00,49662767,11,Litelm: LiteLLM Without the Bloat,4,0
+2026-09-11T18:21:11.369893+00:00,49613642,12,Kenyans Did College Students' Homework for Years. Then A.I. Arrived,48,42
+2026-09-11T18:21:11.369893+00:00,49656471,13,"RTK reports token savings, but our cost benchmarks disagree",117,57
+2026-09-11T18:21:11.369893+00:00,49660149,14,Rune is now open source,25,4
+2026-09-11T18:21:11.369893+00:00,49658311,15,Measuring the sloppiness of code,150,181
+2026-09-11T18:21:11.369893+00:00,49622411,16,How I Prompt,11,0
+2026-09-11T18:21:11.369893+00:00,49659245,17,HuggingFace: Security.txt,173,40
+2026-09-11T18:21:11.369893+00:00,49649789,18,Show HN: Bodily Oddities,82,77
+2026-09-11T18:21:11.369893+00:00,49662672,19,The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution,8,0
+2026-09-11T18:21:11.369893+00:00,49618087,20,Stop making swap partitions—use swap files instead,52,73
+2026-09-11T18:21:11.369893+00:00,49660783,21,"Show HN: Hacker News, Without AI",57,23
+2026-09-11T18:21:11.369893+00:00,49656225,22,Claude is only available to people over 18 years,388,453
+2026-09-11T18:21:11.369893+00:00,49610834,23,How the Chorleywood Bread Process transformed British bread,56,67
+2026-09-11T18:21:11.369893+00:00,49613507,24,Copper lined vest to help penguins with recovery,24,8
+2026-09-11T18:21:11.369893+00:00,49660884,25,Triple H Writes Anniversary Story for Spider-Man #1000,10,3
+2026-09-11T18:21:11.369893+00:00,49658302,26,"Re-Engineering YouTube for the Living Room: Bringing ""Chrobalt"" to RDK",29,12
+2026-09-11T18:21:11.369893+00:00,49655286,27,Cherenkov Radiation - traveling faster than light,190,86
+2026-09-11T18:21:11.369893+00:00,49652105,28,Google will buy half the electricity from one of Finland's nuclear power plants,235,252
+2026-09-11T18:21:11.369893+00:00,49658299,29,Houthis 'take control' of key island in global shipping route,301,480
+2026-09-11T18:21:11.369893+00:00,49611240,30,iPod Classic 6G in QEMU,129,27
+2026-09-11T18:21:11.369893+00:00,49658819,31,"New York thoracic surgeon: ""For many patients 9/11 is not over""",81,36
+2026-09-11T18:21:11.369893+00:00,49662367,32,Room 641A,10,1
+2026-09-11T18:21:11.369893+00:00,49603397,33,RISC-V Emulator and Linux System from Scratch,48,6
+2026-09-11T18:21:11.369893+00:00,49610596,34,An interactive tour of the spanning tree protocol,78,8
+2026-09-11T18:21:11.369893+00:00,49606281,35,Working with Git Worktrees in Magit,105,45
+2026-09-11T18:21:11.369893+00:00,49658483,36,Show HN: Clawfight.ai MCP-driven agentic game play,10,9
+2026-09-11T18:21:11.369893+00:00,49662312,37,Agents on Rails: Best model solves 35% of feature benchmark runs,7,2
+2026-09-11T18:21:11.369893+00:00,49660476,38,Child Sexual Abuse Material Persists on X,31,29
+2026-09-11T18:21:11.369893+00:00,49643982,39,Shopify is moving from React Native back to Swift and Kotlin,1208,900
+2026-09-11T18:21:11.369893+00:00,49654962,40,CSS Curiosities of the Past,77,47
+2026-09-11T18:21:11.369893+00:00,49660104,41,Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster,113,98
+2026-09-11T18:21:11.369893+00:00,49659647,42,"Show HN: Hacker News, without AI",115,66
+2026-09-11T18:21:11.369893+00:00,49660482,43,Hacker News with reduced priority for AI driven content,70,43
+2026-09-11T18:21:11.369893+00:00,49662740,44,Open-weights world models' parameter size doubles every ~6 months,3,1
+2026-09-11T18:21:11.369893+00:00,49649124,45,The Deathray: A simple way for an untrusted site to freeze a Mac,259,180
+2026-09-11T18:21:11.369893+00:00,49651221,46,Nine coding harnesses vs. your laptop,165,61
+2026-09-11T18:21:11.369893+00:00,49647134,47,Music Theory for the 21st-Century Classroom,280,138
+2026-09-11T18:21:11.369893+00:00,49645393,48,Don't let anyone take away your big box of cables,733,441
+2026-09-11T18:21:11.369893+00:00,49609169,49,Experiment – Projectional Viewer,14,3
+2026-09-11T18:21:11.369893+00:00,49657991,50,How to Build a $20B Semiconductor Fab (2024),10,4
