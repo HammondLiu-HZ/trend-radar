@@ -47000,3 +47000,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-10T23:57:36.761446+00:00,49577541,48,"Show HN: Art – draw one stroke, let symmetry complete it",85,34
 2026-09-10T23:57:36.761446+00:00,49651528,49,"M. Williams, OpenAI: Human extinction in the next few years seems likely",5,1
 2026-09-10T23:57:36.761446+00:00,49643575,50,Kagi Translate Is Back,34,11
+2026-09-11T04:26:26.888271+00:00,49643982,1,Shopify is moving from React Native back to Swift and Kotlin,879,601
+2026-09-11T04:26:26.888271+00:00,49639408,2,More questions about whether researchers can trust OpenAI with unpublished math,745,687
+2026-09-11T04:26:26.888271+00:00,49652237,3,Mexican student creates an acoustic fire extinguisher to put out fire in seconds,96,39
+2026-09-11T04:26:26.888271+00:00,49652028,4,YuE2 · Frontier Music with Symbolic Planning,67,52
+2026-09-11T04:26:26.888271+00:00,49607944,5,Finite time blowup with smooth forcing term for the incompressible porous medium,15,0
+2026-09-11T04:26:26.888271+00:00,49645393,6,Don't let anyone take away your big box of cables,380,277
+2026-09-11T04:26:26.888271+00:00,49649213,7,OpenAI Agents API,181,112
+2026-09-11T04:26:26.888271+00:00,49645443,8,"Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",373,158
+2026-09-11T04:26:26.888271+00:00,49645437,9,Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025),291,46
+2026-09-11T04:26:26.888271+00:00,49652105,10,Google will buy half the electricity from one of Finland's nuclear power plants,135,97
+2026-09-11T04:26:26.888271+00:00,49649124,11,The Deathray: A simple way for an untrusted site to freeze a Mac,114,73
+2026-09-11T04:26:26.888271+00:00,49651372,12,Thelio Mira AI Linux Workstation: 192 GB GPU Memory,63,38
+2026-09-11T04:26:26.888271+00:00,49650418,13,NTSB issues investigative update on B-767 runway excursion accident in Miami,78,123
+2026-09-11T04:26:26.888271+00:00,49653328,14,Exercise intensity is associated with cardiometabolic health,3,0
+2026-09-11T04:26:26.888271+00:00,49647134,15,Music Theory for the 21st-Century Classroom,180,81
+2026-09-11T04:26:26.888271+00:00,49649222,16,"Proof of Capture: Apple Reference Image, but open source and using steganography",80,51
+2026-09-11T04:26:26.888271+00:00,49645686,17,Neki – Sharded Postgres,215,118
+2026-09-11T04:26:26.888271+00:00,49652996,18,LLM Visualizer – Build a Transformer from Scratch,11,4
+2026-09-11T04:26:26.888271+00:00,49651221,19,Nine coding harnesses vs. your laptop,8,0
+2026-09-11T04:26:26.888271+00:00,49600657,20,Customizing my Compaq MX-11800 keyboard,18,4
+2026-09-11T04:26:26.888271+00:00,49645907,21,Forgejo <=16.0.3 Critical RCE,156,59
+2026-09-11T04:26:26.888271+00:00,49630931,22,iPhone Duo,1424,2454
+2026-09-11T04:26:26.888271+00:00,49643546,23,Rust is tier-1 language at Microsoft,633,361
+2026-09-11T04:26:26.888271+00:00,49627634,24,Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls,292,238
+2026-09-11T04:26:26.888271+00:00,49587121,25,Douglas Hofstadter: Analogy as the Core of Cognition [video],156,76
+2026-09-11T04:26:26.888271+00:00,49647300,26,Detecting and countering misuse of AI: September 2026,102,172
+2026-09-11T04:26:26.888271+00:00,49647404,27,JEP 544: Ahead-of-Time Code Compilation,83,29
+2026-09-11T04:26:26.888271+00:00,49652188,28,Herdr Studio,13,6
+2026-09-11T04:26:26.888271+00:00,49603335,29,Recursion into madness,50,14
+2026-09-11T04:26:26.888271+00:00,49615922,30,What happens when a GPU writes memory,54,1
+2026-09-11T04:26:26.888271+00:00,49609195,31,Bitap: My favorite string matching algorithm,9,1
+2026-09-11T04:26:26.888271+00:00,49652122,32,Setting up OpenCode with Ollama and sbx on Mac,17,11
+2026-09-11T04:26:26.888271+00:00,49604581,33,Show HN: Vertumnus – printable posters of farmers' market produce seasonality,34,15
+2026-09-11T04:26:26.888271+00:00,49645754,34,Silicon Valley is transforming the military-industrial complex? (2024),162,323
+2026-09-11T04:26:26.888271+00:00,49642531,35,"List of references on Sony websites to players ""owning"" their digital games",378,126
+2026-09-11T04:26:26.888271+00:00,49618633,36,Embedding a bitmap font in your HyperCard stack,26,2
+2026-09-11T04:26:26.888271+00:00,49650326,37,OpenAI’s Navier-Stokes release included a Lean 4 formal proof,148,154
+2026-09-11T04:26:26.888271+00:00,49646778,38,Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1,60,27
+2026-09-11T04:26:26.888271+00:00,49588483,39,YouTube had a bug – I used ChatGPT to investigate,18,15
+2026-09-11T04:26:26.888271+00:00,49651740,40,Countries 15x10 Pixel Flags,10,2
+2026-09-11T04:26:26.888271+00:00,49608665,41,"Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",16,2
+2026-09-11T04:26:26.888271+00:00,49612470,42,Python sets and dictionaries can have quadratic-time performance,94,52
+2026-09-11T04:26:26.888271+00:00,49610780,43,"To write non-fiction, draw the trunk, then the rest of the tree",88,27
+2026-09-11T04:26:26.888271+00:00,49613072,44,Compute-efficient pretraining and scaling to trillion-parameter models,112,61
+2026-09-11T04:26:26.888271+00:00,49648732,45,Creativity is the new moat,143,81
+2026-09-11T04:26:26.888271+00:00,49651384,46,Julia 1.13 Highlights,10,1
+2026-09-11T04:26:26.888271+00:00,49639090,47,DeepSeek v4.1 Flash,949,532
+2026-09-11T04:26:26.888271+00:00,49644179,48,AI Is Breaking This Thing We Call Trust,69,23
+2026-09-11T04:26:26.888271+00:00,49651982,49,Details.so,21,8
+2026-09-11T04:26:26.888271+00:00,49645803,50,"Show HN: MultiMatte, a Promptable Image Background Removal Model",43,8
