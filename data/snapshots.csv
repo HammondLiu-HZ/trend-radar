@@ -47050,3 +47050,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-11T04:26:26.888271+00:00,49644179,48,AI Is Breaking This Thing We Call Trust,69,23
 2026-09-11T04:26:26.888271+00:00,49651982,49,Details.so,21,8
 2026-09-11T04:26:26.888271+00:00,49645803,50,"Show HN: MultiMatte, a Promptable Image Background Removal Model",43,8
+2026-09-11T09:30:11.167987+00:00,49655286,1,Cherenkov Radiation - traveling faster than light,20,6
+2026-09-11T09:30:11.167987+00:00,49643982,2,Shopify is moving from React Native back to Swift and Kotlin,1057,730
+2026-09-11T09:30:11.167987+00:00,49645393,3,Don't let anyone take away your big box of cables,518,336
+2026-09-11T09:30:11.167987+00:00,49606281,4,Working with Git Worktrees in Magit,44,11
+2026-09-11T09:30:11.167987+00:00,49649213,5,OpenAI Agents API,258,144
+2026-09-11T09:30:11.167987+00:00,49649124,6,The Deathray: A simple way for an untrusted site to freeze a Mac,186,111
+2026-09-11T09:30:11.167987+00:00,49618087,7,Stop making swap partitions–use swap files instead,33,27
+2026-09-11T09:30:11.167987+00:00,49653699,8,The Gemini app is now available for Windows,48,34
+2026-09-11T09:30:11.167987+00:00,49651221,9,Nine coding harnesses vs. your laptop,94,23
+2026-09-11T09:30:11.167987+00:00,49645437,10,Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025),333,54
+2026-09-11T09:30:11.167987+00:00,49652237,11,Mexican student creates an acoustic fire extinguisher to put out fire in seconds,199,72
+2026-09-11T09:30:11.167987+00:00,49651372,12,Thelio Mira AI Linux Workstation: 192 GB GPU Memory,104,80
+2026-09-11T09:30:11.167987+00:00,49650418,13,NTSB issues investigative update on B-767 runway excursion accident in Miami,102,174
+2026-09-11T09:30:11.167987+00:00,49645443,14,"Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",412,172
+2026-09-11T09:30:11.167987+00:00,49639408,15,More questions about whether researchers can trust OpenAI with unpublished math,806,740
+2026-09-11T09:30:11.167987+00:00,49647134,16,Music Theory for the 21st-Century Classroom,222,93
+2026-09-11T09:30:11.167987+00:00,49645907,17,Forgejo <=16.0.3 Critical RCE,184,67
+2026-09-11T09:30:11.167987+00:00,49645686,18,Neki – Sharded Postgres,243,131
+2026-09-11T09:30:11.167987+00:00,49649222,19,"Proof of Capture: Apple Reference Image, but open source and using steganography",106,58
+2026-09-11T09:30:11.167987+00:00,49653985,20,GPT‑Live‑1 in the API,11,6
+2026-09-11T09:30:11.167987+00:00,49643546,21,Rust is tier-1 language at Microsoft,673,414
+2026-09-11T09:30:11.167987+00:00,49654229,22,Astra for Coding: Why Are We Doing This Again?,306,226
+2026-09-11T09:30:11.167987+00:00,49655176,23,Neijuan,10,1
+2026-09-11T09:30:11.167987+00:00,49621546,24,So you want to use OpenRouter?,61,3
+2026-09-11T09:30:11.167987+00:00,49620760,25,Testing race conditions with mem access tracing and stack-based delay injection,7,0
+2026-09-11T09:30:11.167987+00:00,49587121,26,Douglas Hofstadter: Analogy as the Core of Cognition [video],180,79
+2026-09-11T09:30:11.167987+00:00,49647300,27,Detecting and countering misuse of AI: September 2026,130,196
+2026-09-11T09:30:11.167987+00:00,49655012,28,US diesel hits record $6 a gallon on Iran supply shock,25,20
+2026-09-11T09:30:11.167987+00:00,49653328,29,Exercise intensity is associated with cardiometabolic health,96,42
+2026-09-11T09:30:11.167987+00:00,49652028,30,YuE2 · Frontier Music with Symbolic Planning,92,77
+2026-09-11T09:30:11.167987+00:00,49603335,31,Recursion into madness,69,17
+2026-09-11T09:30:11.167987+00:00,49647404,32,JEP 544: Ahead-of-Time Code Compilation,92,34
+2026-09-11T09:30:11.167987+00:00,49652985,33,What Comes After Git,47,13
+2026-09-11T09:30:11.167987+00:00,49600657,34,Customizing my Compaq MX-11800 keyboard,26,5
+2026-09-11T09:30:11.167987+00:00,49615922,35,What happens when a GPU writes memory,66,1
+2026-09-11T09:30:11.167987+00:00,49653448,36,Apple A20 Pro Geekbench Result,12,4
+2026-09-11T09:30:11.167987+00:00,49642531,37,"List of references on Sony websites to players ""owning"" their digital games",393,132
+2026-09-11T09:30:11.167987+00:00,49645754,38,Silicon Valley is transforming the military-industrial complex? (2024),168,341
+2026-09-11T09:30:11.167987+00:00,49604581,39,Show HN: Vertumnus – printable posters of farmers' market produce seasonality,42,15
+2026-09-11T09:30:11.167987+00:00,49654387,40,DeepSeek v4.1 Flash Uncensored,34,6
+2026-09-11T09:30:11.167987+00:00,49610780,41,"To write non-fiction, draw the trunk, then the rest of the tree",91,28
+2026-09-11T09:30:11.167987+00:00,49612470,42,Python sets and dictionaries can have quadratic-time performance,99,55
+2026-09-11T09:30:11.167987+00:00,49644179,43,AI Is Breaking This Thing We Call Trust,85,30
+2026-09-11T09:30:11.167987+00:00,49646778,44,Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1,61,27
+2026-09-11T09:30:11.167987+00:00,49613072,45,Compute-efficient pretraining and scaling to trillion-parameter models,114,62
+2026-09-11T09:30:11.167987+00:00,49652105,46,Google will buy half the electricity from one of Finland's nuclear power plants,209,203
+2026-09-11T09:30:11.167987+00:00,49652039,47,DeepSeek 4.1 Flash,22,0
+2026-09-11T09:30:11.167987+00:00,49639090,48,DeepSeek v4.1 Flash,971,546
+2026-09-11T09:30:11.167987+00:00,49652188,49,Herdr Studio,37,20
+2026-09-11T09:30:11.167987+00:00,49618633,50,Embedding a bitmap font in your HyperCard stack,28,3
