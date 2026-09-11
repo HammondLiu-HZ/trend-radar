@@ -47100,3 +47100,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-11T09:30:11.167987+00:00,49639090,48,DeepSeek v4.1 Flash,971,546
 2026-09-11T09:30:11.167987+00:00,49652188,49,Herdr Studio,37,20
 2026-09-11T09:30:11.167987+00:00,49618633,50,Embedding a bitmap font in your HyperCard stack,28,3
+2026-09-11T14:14:57.106050+00:00,49658299,1,Houthis 'take control' of key island in global shipping route,69,30
+2026-09-11T14:14:57.106050+00:00,49656496,2,The Waymo effect: how AI is quietly making research less collaborative,209,155
+2026-09-11T14:14:57.106050+00:00,49656471,3,"RTK reports token savings, but our cost benchmarks disagree",70,39
+2026-09-11T14:14:57.106050+00:00,49658192,4,Diesel prices in U.S. top $6 a gallon for first time,54,47
+2026-09-11T14:14:57.106050+00:00,49658311,5,"If coding is solved, what now?: Measuring the sloppiness of code",9,1
+2026-09-11T14:14:57.106050+00:00,49655286,6,Cherenkov Radiation - traveling faster than light,146,75
+2026-09-11T14:14:57.106050+00:00,49621546,7,So you want to use OpenRouter?,342,85
+2026-09-11T14:14:57.106050+00:00,49622406,8,Logo Programming Language,13,1
+2026-09-11T14:14:57.106050+00:00,49643982,9,Shopify is moving from React Native back to Swift and Kotlin,1159,844
+2026-09-11T14:14:57.106050+00:00,49658328,10,Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you,6,3
+2026-09-11T14:14:57.106050+00:00,49658302,11,"Re-Engineering YouTube for the Living Room: Bringing ""Chrobalt"" to RDK",5,0
+2026-09-11T14:14:57.106050+00:00,49611240,12,iPod Classic 6G in QEMU,76,12
+2026-09-11T14:14:57.106050+00:00,49645393,13,Don't let anyone take away your big box of cables,649,402
+2026-09-11T14:14:57.106050+00:00,49609169,14,Experiment – Projectional Viewer,7,1
+2026-09-11T14:14:57.106050+00:00,49603397,15,RISC-V Emulator and Linux System from Scratch,20,2
+2026-09-11T14:14:57.106050+00:00,49654962,16,CSS Curiosities of the Past,42,22
+2026-09-11T14:14:57.106050+00:00,49656225,17,Claude is no longer available for minors,223,297
+2026-09-11T14:14:57.106050+00:00,49649213,18,OpenAI Agents API,301,160
+2026-09-11T14:14:57.106050+00:00,49657850,19,Ask HN: Can we please limit the AI news flood?,251,147
+2026-09-11T14:14:57.106050+00:00,49606281,20,Working with Git Worktrees in Magit,79,32
+2026-09-11T14:14:57.106050+00:00,49645437,21,Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025),357,57
+2026-09-11T14:14:57.106050+00:00,49652237,22,Mexican student creates an acoustic fire extinguisher to put out fire in seconds,297,95
+2026-09-11T14:14:57.106050+00:00,49649124,23,The Deathray: A simple way for an untrusted site to freeze a Mac,237,159
+2026-09-11T14:14:57.106050+00:00,49610596,24,An interactive tour of the spanning tree protocol,38,4
+2026-09-11T14:14:57.106050+00:00,49639408,25,More questions about whether researchers can trust OpenAI with unpublished math,837,779
+2026-09-11T14:14:57.106050+00:00,49647134,26,Music Theory for the 21st-Century Classroom,254,118
+2026-09-11T14:14:57.106050+00:00,49650418,27,NTSB issues investigative update on B-767 runway excursion accident in Miami,130,228
+2026-09-11T14:14:57.106050+00:00,49651221,28,Nine coding harnesses vs. your laptop,139,46
+2026-09-11T14:14:57.106050+00:00,49645907,29,Forgejo <=16.0.3 Critical RCE,199,77
+2026-09-11T14:14:57.106050+00:00,49645686,30,Neki – Sharded Postgres,256,140
+2026-09-11T14:14:57.106050+00:00,49655176,31,Neijuan,91,30
+2026-09-11T14:14:57.106050+00:00,49649222,32,"Proof of Capture: Apple Reference Image, but open source and using steganography",124,77
+2026-09-11T14:14:57.106050+00:00,49645443,33,"Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",428,181
+2026-09-11T14:14:57.106050+00:00,49643546,34,Rust is tier-1 language at Microsoft,707,465
+2026-09-11T14:14:57.106050+00:00,49587121,35,Douglas Hofstadter: Analogy as the Core of Cognition [video],201,88
+2026-09-11T14:14:57.106050+00:00,49603335,36,Recursion into madness,92,26
+2026-09-11T14:14:57.106050+00:00,49658370,37,Why Bullshit Jobs Are (Finally) Dying [video],4,0
+2026-09-11T14:14:57.106050+00:00,49658355,38,My HTML Boilerplate,4,0
+2026-09-11T14:14:57.106050+00:00,49647300,39,Detecting and countering misuse of AI: September 2026,152,219
+2026-09-11T14:14:57.106050+00:00,49656698,40,Moonshot serves Claude instead of Kimi and collects exchanges for model training,43,38
+2026-09-11T14:14:57.106050+00:00,49647404,41,JEP 544: Ahead-of-Time Code Compilation,98,42
+2026-09-11T14:14:57.106050+00:00,49656948,42,Show HN: Foldelight – the iPhone Duo folding effect the MacBook was owed,14,7
+2026-09-11T14:14:57.106050+00:00,49642531,43,"List of references on Sony websites to players ""owning"" their digital games",409,145
+2026-09-11T14:14:57.106050+00:00,49653448,44,Apple A20 Pro Geekbench Result,24,16
+2026-09-11T14:14:57.106050+00:00,49645754,45,Silicon Valley is transforming the military-industrial complex? (2024),171,354
+2026-09-11T14:14:57.106050+00:00,49656564,46,Instagram's head says engagement falls by half without the algorithm,67,76
+2026-09-11T14:14:57.106050+00:00,49653328,47,Exercise intensity is associated with cardiometabolic health,117,55
+2026-09-11T14:14:57.106050+00:00,49620760,48,Testing race conditions with mem access tracing and stack-based delay injection,13,0
+2026-09-11T14:14:57.106050+00:00,49652039,49,DeepSeek 4.1 Flash,35,0
+2026-09-11T14:14:57.106050+00:00,49610780,50,"To write non-fiction, draw the trunk, then the rest of the tree",93,29
