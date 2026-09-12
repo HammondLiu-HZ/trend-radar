@@ -47542,3 +47542,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-12T20:27:49.548798+00:00,49676324,48,LG Says We're Fake News [video],5,0
 2026-09-12T20:27:49.548798+00:00,49674666,49,"Revolut confirms customer data breach, falling for fake government requests",18,2
 2026-09-12T20:27:49.548798+00:00,49660149,50,Rune is now open source,210,68
+2026-09-12T22:56:24.027379+00:00,49674050,1,Make your first edit to OpenStreetMap,253,69
+2026-09-12T22:56:24.027379+00:00,49676820,2,"Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",55,38
+2026-09-12T22:56:24.027379+00:00,49673098,3,Nvidia is the central bank of AI,335,233
+2026-09-12T22:56:24.027379+00:00,49619848,4,Apple iPod Engraver (2019),59,5
+2026-09-12T22:56:24.027379+00:00,49625056,5,Stabilizing Rust's Never Type,107,15
+2026-09-12T22:56:24.027379+00:00,49676577,6,Benchmark: CadQuery vs. OpenSCAD for agentic CAD work,25,36
+2026-09-12T22:56:24.027379+00:00,49636479,7,Getting 50 GB/S Back from the Apple Neural Engine,12,2
+2026-09-12T22:56:24.027379+00:00,49645480,8,"LG denies TV spying claims, says tracking and snooping concerns 'not true'",359,316
+2026-09-12T22:56:24.027379+00:00,49674498,9,Will There Be a 7G?,67,117
+2026-09-12T22:56:24.027379+00:00,49639647,10,IKEA made a mod for Skyrim [video],533,139
+2026-09-12T22:56:24.027379+00:00,49672510,11,We must pace the frontier,471,651
+2026-09-12T22:56:24.027379+00:00,49672842,12,I made a build visualizer to understand Bun's compile times,80,15
+2026-09-12T22:56:24.027379+00:00,49673580,13,Microcode in Intel's 8087 floating-point chip: the scale instruction,75,23
+2026-09-12T22:56:24.027379+00:00,49675902,14,Linux Zoom client proactively reading everything written to X11 clipboard,110,32
+2026-09-12T22:56:24.027379+00:00,49671237,15,How Trail of Bits helps verify the integrity of Signal chats,40,21
+2026-09-12T22:56:24.027379+00:00,49676324,16,LG Says We're Fake News [video],77,10
+2026-09-12T22:56:24.027379+00:00,49676849,17,OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026,38,28
+2026-09-12T22:56:24.027379+00:00,49658672,18,I fixed a tractor using John Deere's self-repair service. Farmers aren't sold,89,99
+2026-09-12T22:56:24.027379+00:00,49670032,19,Retrospectively Reverse-Engineering Apple's Neural Engine,212,30
+2026-09-12T22:56:24.027379+00:00,49647860,20,The Magic Behind Cubacadabra,8,1
+2026-09-12T22:56:24.027379+00:00,49672365,21,A Mathematical Framework for Transformer Circuits (2021),70,17
+2026-09-12T22:56:24.027379+00:00,49665502,22,Android NAT-T keepalive offload bypasses VPN lockdown,164,44
+2026-09-12T22:56:24.027379+00:00,49623933,23,Performance of WebAssembly Runtimes in 2026,81,20
+2026-09-12T22:56:24.027379+00:00,49625108,24,Eating Fruit Skins,68,158
+2026-09-12T22:56:24.027379+00:00,49668706,25,Navier-Stokes Announcement,302,242
+2026-09-12T22:56:24.027379+00:00,49677391,26,Financial Times' 404 Page not Found,17,5
+2026-09-12T22:56:24.027379+00:00,49643543,27,LRU is harder to beat than the KV-cache papers suggest,92,44
+2026-09-12T22:56:24.027379+00:00,49671159,28,The worst spam emails: iLands AI agent hustle,99,47
+2026-09-12T22:56:24.027379+00:00,49662214,29,λ Snap – An inviting programming language for kids and adults for CS study,170,108
+2026-09-12T22:56:24.027379+00:00,49626718,30,A Design Space Exploration of Async/Await,413,121
+2026-09-12T22:56:24.027379+00:00,49637381,31,How we manage and engage with our horses shapes their personality,33,14
+2026-09-12T22:56:24.027379+00:00,49677836,32,"Killing with a car costs $1.6M, California requires drivers to carry $30K",4,0
+2026-09-12T22:56:24.027379+00:00,49668386,33,google.com/goto: Google's anti-scraping update,621,481
+2026-09-12T22:56:24.027379+00:00,49662371,34,A misalignment of AI in mathematics,1173,1131
+2026-09-12T22:56:24.027379+00:00,49671972,35,A few good ideas in programming languages,77,51
+2026-09-12T22:56:24.027379+00:00,49624456,36,Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them,145,44
+2026-09-12T22:56:24.027379+00:00,49677715,37,StarCraft returns in 2030 as an open-world shooter,6,0
+2026-09-12T22:56:24.027379+00:00,49653509,38,Reconstructing Concurrency Invariants Through Medieval East Asian Logic,16,4
+2026-09-12T22:56:24.027379+00:00,49668777,39,Usenet rewind archive search engine,122,36
+2026-09-12T22:56:24.027379+00:00,49672549,40,"Waymo pulls over, calls cops on juvenile riders who had 'ghost gun""",114,179
+2026-09-12T22:56:24.027379+00:00,49595505,41,Inverse Kinematics and Foot Locking,135,14
+2026-09-12T22:56:24.027379+00:00,49662990,42,I spent $220 on Google app ads and 60% of the installs were robots,726,402
+2026-09-12T22:56:24.027379+00:00,49662020,43,Psychoactive substances helped spur Andean civilization,212,144
+2026-09-12T22:56:24.027379+00:00,49671329,44,"Fuck it, make it anyway",531,530
+2026-09-12T22:56:24.027379+00:00,49662767,45,Litelm: LiteLLM Without the Bloat,171,61
+2026-09-12T22:56:24.027379+00:00,49665549,46,Forgotten Woodlands,42,13
+2026-09-12T22:56:24.027379+00:00,49666735,48,OpenAI agents carried out an undisclosed attack on RubyGems,917,570
+2026-09-12T22:56:24.027379+00:00,49643011,49,Designing for Dual Screen and Foldable Devices with CSS (2023),55,16
+2026-09-12T22:56:24.027379+00:00,49672557,50,"Europe's ""Less"" Is Doing More Than Anyone Gives It Credit For",89,45
