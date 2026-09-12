@@ -47395,3 +47395,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-12T10:34:11.983876+00:00,49658311,48,Measuring the sloppiness of code,262,228
 2026-09-12T10:34:11.983876+00:00,49667188,49,Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents,36,17
 2026-09-12T10:34:11.983876+00:00,49655286,50,Cherenkov Radiation,224,101
+2026-09-12T13:59:13.299327+00:00,49671329,1,"Fuck it, make it anyway",210,148
+2026-09-12T13:59:13.299327+00:00,49639647,2,IKEA made a mod for Skyrim [video],323,71
+2026-09-12T13:59:13.299327+00:00,49670032,3,Retrospectively Reverse-Engineering Apple's Neural Engine,144,19
+2026-09-12T13:59:13.299327+00:00,49671159,4,The Worst Spam Emails: Inside iLands' AI Agent Hustle,44,19
+2026-09-12T13:59:13.299327+00:00,49662371,5,A misalignment of AI in mathematics,1047,1000
+2026-09-12T13:59:13.299327+00:00,49662990,6,I spent $220 on Google app ads and 60% of the installs were robots,622,340
+2026-09-12T13:59:13.299327+00:00,49658672,7,I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold,15,21
+2026-09-12T13:59:13.299327+00:00,49665549,8,Forgotten Woodlands,19,4
+2026-09-12T13:59:13.299327+00:00,49643543,9,LRU is harder to beat than the KV-cache papers suggest,13,4
+2026-09-12T13:59:13.299327+00:00,49640729,10,Finding Slow Code with Wrapture,9,2
+2026-09-12T13:59:13.299327+00:00,49626718,11,A Design Space Exploration of Async/Await,349,93
+2026-09-12T13:59:13.299327+00:00,49624456,12,Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them,96,21
+2026-09-12T13:59:13.299327+00:00,49595505,13,Inverse Kinematics and Foot Locking,87,9
+2026-09-12T13:59:13.299327+00:00,49649789,14,Show HN: Bodily Oddities,289,180
+2026-09-12T13:59:13.299327+00:00,49668777,15,Usenet rewind archive search engine,86,27
+2026-09-12T13:59:13.299327+00:00,49668386,16,google.com/goto: Google's anti-scraping update,502,402
+2026-09-12T13:59:13.299327+00:00,49622406,17,Logo Programming,295,119
+2026-09-12T13:59:13.299327+00:00,49668706,18,Navier-Stokes Announcement,222,152
+2026-09-12T13:59:13.299327+00:00,49671296,19,Crypto farm in Mexican mountains puts spotlight on cartel funding,24,2
+2026-09-12T13:59:13.299327+00:00,49666735,20,OpenAI agents carried out an undisclosed attack on RubyGems,810,464
+2026-09-12T13:59:13.299327+00:00,49662020,21,Mind-altering drugs played key role in rise of Andean civilization,185,121
+2026-09-12T13:59:13.299327+00:00,49643011,22,Designing for Dual Screen and Foldable Devices with CSS (2023),45,9
+2026-09-12T13:59:13.299327+00:00,49642396,23,SystemIO conflicts are not firmware bugs,16,2
+2026-09-12T13:59:13.299327+00:00,49670981,24,We've followed their lives for six decades; now the stars of 7 Up are bowing out,45,10
+2026-09-12T13:59:13.299327+00:00,49662767,25,Litelm: LiteLLM Without the Bloat,157,51
+2026-09-12T13:59:13.299327+00:00,49601138,26,I've operated petabyte-scale ClickHouse clusters for 5 years,232,82
+2026-09-12T13:59:13.299327+00:00,49660149,27,Rune is now open source,203,65
+2026-09-12T13:59:13.299327+00:00,49670493,28,"Resistance Training Prescription for Muscle Function, Hypertrophy in Health",37,21
+2026-09-12T13:59:13.299327+00:00,49663373,29,GrapheneOS' rewritten Messages app is released,288,212
+2026-09-12T13:59:13.299327+00:00,49666146,30,Project Blinkenlights,102,32
+2026-09-12T13:59:13.299327+00:00,49662214,31,Λ Snap – An inviting programming language for kids and adults for CS study,154,91
+2026-09-12T13:59:13.299327+00:00,49624717,32,AlphaGenome maps 9B DNA variants,93,7
+2026-09-12T13:59:13.299327+00:00,49628367,33,Bomb Sense (2021),17,1
+2026-09-12T13:59:13.299327+00:00,49665502,34,Another way to leak traffic on Android has been discovered,112,20
+2026-09-12T13:59:13.299327+00:00,49665864,35,"Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",63,24
+2026-09-12T13:59:13.299327+00:00,49656225,36,Claude is only available to people over 18 years,655,632
+2026-09-12T13:59:13.299327+00:00,49610834,37,How the Chorleywood Bread Process transformed British bread,119,115
+2026-09-12T13:59:13.299327+00:00,49634928,38,Testing Race Conditions,60,3
+2026-09-12T13:59:13.299327+00:00,49662672,39,The EPA is planning to scrap public review rules for data center pollution,475,348
+2026-09-12T13:59:13.299327+00:00,49656471,41,"RTK reports token savings, but our cost benchmarks disagree",165,81
+2026-09-12T13:59:13.299327+00:00,49635043,42,How we rebuilt complex permissions without migrating to Zanzibar,62,15
+2026-09-12T13:59:13.299327+00:00,49669276,43,WeWorm: Zero-Click WeChat Worm,31,1
+2026-09-12T13:59:13.299327+00:00,49643982,44,Shopify is moving from React Native back to Swift and Kotlin,1243,930
+2026-09-12T13:59:13.299327+00:00,49646113,45,Detailed report on the use of solar geoengineering,17,4
+2026-09-12T13:59:13.299327+00:00,49618087,46,Stop making swap partitions—use swap files instead,131,227
+2026-09-12T13:59:13.299327+00:00,49660555,47,118M Queries per Second on Neki,96,49
+2026-09-12T13:59:13.299327+00:00,49621546,48,So you want to use OpenRouter?,728,194
+2026-09-12T13:59:13.299327+00:00,49660676,49,Show HN: Godot and Rust based multiplexer (terminal panes and more),88,46
+2026-09-12T13:59:13.299327+00:00,49663054,50,CIA Releases President's Daily Briefs in Commemoration of 9/11,142,70
