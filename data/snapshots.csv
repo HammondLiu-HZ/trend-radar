@@ -47248,3 +47248,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-11T21:39:16.931692+00:00,49662496,48,"Show HN: Toast, a beautiful by default in terminal IDE",70,70
 2026-09-11T21:39:16.931692+00:00,49658483,49,Show HN: Clawfight.ai MCP-driven agentic game play,13,11
 2026-09-11T21:39:16.931692+00:00,49661856,50,Show HN: Extension to filter LLM written articles,7,0
+2026-09-12T00:04:46.928688+00:00,49666735,1,OpenAI agents carried out an undisclosed attack on RubyGems,79,22
+2026-09-12T00:04:46.928688+00:00,49662371,2,A misalignment of AI in mathematics,562,624
+2026-09-12T00:04:46.928688+00:00,49662990,3,I spent $220 on Google app ads and 60% of the installs were robots,236,127
+2026-09-12T00:04:46.928688+00:00,49663373,4,GrapheneOS' rewritten Messages app is released,175,102
+2026-09-12T00:04:46.928688+00:00,49626718,5,A Design Space Exploration of Async/Await,103,21
+2026-09-12T00:04:46.928688+00:00,49666146,6,Project Blinkenlights,29,12
+2026-09-12T00:04:46.928688+00:00,49665864,7,"Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",19,8
+2026-09-12T00:04:46.928688+00:00,49662767,8,Litelm: LiteLLM Without the Bloat,85,34
+2026-09-12T00:04:46.928688+00:00,49662214,9,Λ Snap – An inviting programming language for kids and adults for CS study,100,53
+2026-09-12T00:04:46.928688+00:00,49640741,10,Hepburn Romanization: How to Read Japanese in the Latin Alphabet,14,2
+2026-09-12T00:04:46.928688+00:00,49624717,11,AlphaGenome maps 9B DNA variants,63,6
+2026-09-12T00:04:46.928688+00:00,49666155,12,QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf],11,1
+2026-09-12T00:04:46.928688+00:00,49660149,13,Rune is now open source,131,53
+2026-09-12T00:04:46.928688+00:00,49662672,14,The EPA is planning to scrap public review rules for data center pollution,314,211
+2026-09-12T00:04:46.928688+00:00,49601138,15,I've operated petabyte-scale ClickHouse clusters for 5 years,170,62
+2026-09-12T00:04:46.928688+00:00,49621546,16,So you want to use OpenRouter?,690,189
+2026-09-12T00:04:46.928688+00:00,49622406,17,Logo Programming Language,234,95
+2026-09-12T00:04:46.928688+00:00,49662020,18,Mind-altering drugs played key role in rise of Andean civilization,86,65
+2026-09-12T00:04:46.928688+00:00,49660676,19,Show HN: Godot and Rust based multiplexer (terminal panes and more),76,41
+2026-09-12T00:04:46.928688+00:00,49663054,21,CIA Releases President's Daily Briefs in Commemoration of 9/11,97,54
+2026-09-12T00:04:46.928688+00:00,49635043,22,There is no 10x RBAC,14,5
+2026-09-12T00:04:46.928688+00:00,49656225,23,Claude is only available to people over 18 years,557,584
+2026-09-12T00:04:46.928688+00:00,49649789,24,Show HN: Bodily Oddities,154,122
+2026-09-12T00:04:46.928688+00:00,49656471,25,"RTK reports token savings, but our cost benchmarks disagree",143,71
+2026-09-12T00:04:46.928688+00:00,49610834,26,How the Chorleywood Bread Process transformed British bread,97,101
+2026-09-12T00:04:46.928688+00:00,49613507,27,Copper lined vest to help penguins with recovery,56,16
+2026-09-12T00:04:46.928688+00:00,49660576,28,Global Glacier Extinction Explorer,149,49
+2026-09-12T00:04:46.928688+00:00,49660555,29,118M Queries per Second on Neki,84,44
+2026-09-12T00:04:46.928688+00:00,49664322,30,"Txt: A fast, keyboard-driven terminal text editor for engineers",20,22
+2026-09-12T00:04:46.928688+00:00,49652105,31,Google will buy half the electricity from one of Finland's nuclear power plants,304,291
+2026-09-12T00:04:46.928688+00:00,49658311,32,Measuring the sloppiness of code,239,222
+2026-09-12T00:04:46.928688+00:00,49618087,33,Stop making swap partitions—use swap files instead,110,183
+2026-09-12T00:04:46.928688+00:00,49647403,34,From Front Panel to Program: Thinking Like a PDP-8,14,3
+2026-09-12T00:04:46.928688+00:00,49666425,35,Houthis used Anthropic to develop guided weapons,11,1
+2026-09-12T00:04:46.928688+00:00,49662367,36,Room 641A,153,54
+2026-09-12T00:04:46.928688+00:00,49659647,37,"Show HN: Hacker News, without AI",167,83
+2026-09-12T00:04:46.928688+00:00,49665711,38,AI researchers debate how close we are to recursive self-improvement,3,0
+2026-09-12T00:04:46.928688+00:00,49659245,39,HuggingFace: Security.txt,245,63
+2026-09-12T00:04:46.928688+00:00,49655286,40,Cherenkov Radiation,215,96
+2026-09-12T00:04:46.928688+00:00,49660482,41,Hacker News with reduced priority for AI driven content,107,54
+2026-09-12T00:04:46.928688+00:00,49611240,42,iPod Classic 6G in QEMU,142,45
+2026-09-12T00:04:46.928688+00:00,49665502,43,Another way to leak traffic on Android has been discovered,12,1
+2026-09-12T00:04:46.928688+00:00,49666139,44,Gov Newsom Signs Student-Backed Digital Literacy Bills Alongside Misguided Bans,10,4
+2026-09-12T00:04:46.928688+00:00,49606281,45,Working with Git Worktrees in Magit,137,49
+2026-09-12T00:04:46.928688+00:00,49643982,46,Shopify is moving from React Native back to Swift and Kotlin,1222,912
+2026-09-12T00:04:46.928688+00:00,49610596,47,An interactive tour of the spanning tree protocol,92,8
+2026-09-12T00:04:46.928688+00:00,49660783,48,"Show HN: Hacker News, Without AI",169,73
+2026-09-12T00:04:46.928688+00:00,49651046,49,Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe,68,55
+2026-09-12T00:04:46.928688+00:00,49663429,50,Show HN: I built a hand-modeled 3D Windows 98 portfolio with Three.js,7,1
