@@ -47297,3 +47297,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-12T00:04:46.928688+00:00,49660783,48,"Show HN: Hacker News, Without AI",169,73
 2026-09-12T00:04:46.928688+00:00,49651046,49,Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe,68,55
 2026-09-12T00:04:46.928688+00:00,49663429,50,Show HN: I built a hand-modeled 3D Windows 98 portfolio with Three.js,7,1
+2026-09-12T05:35:39.152797+00:00,49668386,1,Google no longer provides direct URLs in search results,193,101
+2026-09-12T05:35:39.152797+00:00,49668777,2,Usenet rewind archive search engine,23,1
+2026-09-12T05:35:39.152797+00:00,49668706,3,Clay Mathematics Institute on the Navier-Stokes Problem,34,7
+2026-09-12T05:35:39.152797+00:00,49662371,4,A misalignment of AI in mathematics,785,787
+2026-09-12T05:35:39.152797+00:00,49662990,5,I spent $220 on Google app ads and 60% of the installs were robots,413,213
+2026-09-12T05:35:39.152797+00:00,49624456,6,Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them,33,2
+2026-09-12T05:35:39.152797+00:00,49626718,7,A Design Space Exploration of Async/Await,213,48
+2026-09-12T05:35:39.152797+00:00,49668198,8,Pandas Should Go Extinct,98,59
+2026-09-12T05:35:39.152797+00:00,49666735,9,OpenAI agents carried out an undisclosed attack on RubyGems,528,313
+2026-09-12T05:35:39.152797+00:00,49643011,10,Designing for Dual Screen and Foldable Devices with CSS (2023),14,2
+2026-09-12T05:35:39.152797+00:00,49663373,11,GrapheneOS' rewritten Messages app is released,235,151
+2026-09-12T05:35:39.152797+00:00,49662020,12,Mind-altering drugs played key role in rise of Andean civilization,133,86
+2026-09-12T05:35:39.152797+00:00,49662767,13,Litelm: LiteLLM Without the Bloat,114,39
+2026-09-12T05:35:39.152797+00:00,49666146,14,Project Blinkenlights,67,28
+2026-09-12T05:35:39.152797+00:00,49665711,15,AI researchers debate how close we are to recursive self-improvement,84,70
+2026-09-12T05:35:39.152797+00:00,49665864,16,"Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",48,14
+2026-09-12T05:35:39.152797+00:00,49667188,17,Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents,28,11
+2026-09-12T05:35:39.152797+00:00,49601138,18,I've operated petabyte-scale ClickHouse clusters for 5 years,191,73
+2026-09-12T05:35:39.152797+00:00,49634928,19,Testing Race Conditions,34,0
+2026-09-12T05:35:39.152797+00:00,49624717,20,AlphaGenome maps 9B DNA variants,77,7
+2026-09-12T05:35:39.152797+00:00,49660149,21,Rune is now open source,163,56
+2026-09-12T05:35:39.152797+00:00,49662214,22,Λ Snap – An inviting programming language for kids and adults for CS study,130,71
+2026-09-12T05:35:39.152797+00:00,49662672,23,The EPA is planning to scrap public review rules for data center pollution,414,296
+2026-09-12T05:35:39.152797+00:00,49622406,24,Logo Programming Language,255,105
+2026-09-12T05:35:39.152797+00:00,49646524,25,The kernel does not care what you named the tool,3,1
+2026-09-12T05:35:39.152797+00:00,49649789,26,Show HN: Bodily Oddities,189,146
+2026-09-12T05:35:39.152797+00:00,49667375,27,Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies,81,46
+2026-09-12T05:35:39.152797+00:00,49656225,29,Claude is only available to people over 18 years,609,620
+2026-09-12T05:35:39.152797+00:00,49635043,30,How we rebuilt complex permissions without migrating to Zanzibar,40,10
+2026-09-12T05:35:39.152797+00:00,49652105,31,Google will buy half the electricity from one of Finland's nuclear power plants,326,299
+2026-09-12T05:35:39.152797+00:00,49656471,32,"RTK reports token savings, but our cost benchmarks disagree",151,77
+2026-09-12T05:35:39.152797+00:00,49610834,33,How the Chorleywood Bread Process transformed British bread,109,108
+2026-09-12T05:35:39.152797+00:00,49663054,34,CIA Releases President's Daily Briefs in Commemoration of 9/11,130,64
+2026-09-12T05:35:39.152797+00:00,49660676,35,Show HN: Godot and Rust based multiplexer (terminal panes and more),85,43
+2026-09-12T05:35:39.152797+00:00,49666155,36,QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf],24,8
+2026-09-12T05:35:39.152797+00:00,49618087,37,Stop making swap partitions—use swap files instead,122,195
+2026-09-12T05:35:39.152797+00:00,49613507,38,Copper lined vest to help penguins with recovery,60,17
+2026-09-12T05:35:39.152797+00:00,49660555,39,118M Queries per Second on Neki,88,47
+2026-09-12T05:35:39.152797+00:00,49658311,40,Measuring the sloppiness of code,254,224
+2026-09-12T05:35:39.152797+00:00,49665502,41,Another way to leak traffic on Android has been discovered,29,1
+2026-09-12T05:35:39.152797+00:00,49621546,42,So you want to use OpenRouter?,702,191
+2026-09-12T05:35:39.152797+00:00,49655286,43,Cherenkov Radiation,218,100
+2026-09-12T05:35:39.152797+00:00,49660576,44,Global Glacier Extinction Explorer,151,57
+2026-09-12T05:35:39.152797+00:00,49643982,45,Shopify is moving from React Native back to Swift and Kotlin,1232,919
+2026-09-12T05:35:39.152797+00:00,49668196,46,Ask HN: Did Google kill its enterprise workhorse model?,10,4
+2026-09-12T05:35:39.152797+00:00,49667253,47,Bernie's AI bill proposes to sentence AI developers to 20 years in prison,39,12
+2026-09-12T05:35:39.152797+00:00,49611240,48,iPod Classic 6G in QEMU,148,46
+2026-09-12T05:35:39.152797+00:00,49606281,49,Working with Git Worktrees in Magit,139,51
+2026-09-12T05:35:39.152797+00:00,49666425,50,Houthis used Anthropic to develop guided weapons,33,15
