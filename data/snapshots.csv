@@ -47841,3 +47841,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-13T19:17:39.274434+00:00,49629624,48,Vintage Scientific Papers with LaTeX,106,10
 2026-09-13T19:17:39.274434+00:00,49672510,49,We must pace the frontier,723,996
 2026-09-13T19:17:39.274434+00:00,49684042,50,"Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",29,3
+2026-09-13T22:19:10.127347+00:00,49688695,1,"Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",134,34
+2026-09-13T22:19:10.127347+00:00,49688157,2,"Mark Zuckerberg: ""Cambridge Analytica"" (2017)",193,76
+2026-09-13T22:19:10.127347+00:00,49686445,3,Why is Google still serving dodgy ads?,418,200
+2026-09-13T22:19:10.127347+00:00,49642645,4,Julia 1.13 Highlights,94,6
+2026-09-13T22:19:10.127347+00:00,49684393,5,Astra and Fable still hack on simple variants of alignment evals from 2025,334,154
+2026-09-13T22:19:10.127347+00:00,49688391,6,Flawed Routers Flood University of Wisconsin Internet Time Server (2003),20,2
+2026-09-13T22:19:10.127347+00:00,49683953,7,Data collected by cars and sold to third parties,233,126
+2026-09-13T22:19:10.127347+00:00,49686697,8,Global Shortage Has Led to Motor Oil Rationing at Costco,172,128
+2026-09-13T22:19:10.127347+00:00,49681152,9,JetKVM Mini,496,192
+2026-09-13T22:19:10.127347+00:00,49643059,10,Bad Code Is Kudzu,18,3
+2026-09-13T22:19:10.127347+00:00,49683262,11,Why is the x86 undefined instruction called ud2? Why 2?,168,41
+2026-09-13T22:19:10.127347+00:00,49684196,12,Making Startups Powerful,117,55
+2026-09-13T22:19:10.127347+00:00,49638071,13,Reverse engineering my e-scooter and rewriting the firmware in Rust,315,77
+2026-09-13T22:19:10.127347+00:00,49684356,14,CUDA for AMD on Windows,120,63
+2026-09-13T22:19:10.127347+00:00,49651567,15,Sean Carroll explains the biggest ideas in the universe – Full Interview [video],63,13
+2026-09-13T22:19:10.127347+00:00,49653311,16,Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace,36,9
+2026-09-13T22:19:10.127347+00:00,49678969,17,"Why are AI agents lying, cheating and coordinating?",562,637
+2026-09-13T22:19:10.127347+00:00,49687869,18,There Is No AI (It's Just People) with Jaron Lanier,47,56
+2026-09-13T22:19:10.127347+00:00,49685253,19,"Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",283,140
+2026-09-13T22:19:10.127347+00:00,49660296,20,Why a dispute costs $229 on a $129 pair of shoes,6,5
+2026-09-13T22:19:10.127347+00:00,49686503,21,Device Drivers lab exercise – COSC562,20,2
+2026-09-13T22:19:10.127347+00:00,49686766,22,"I'm being cyberattacked by Tesla, Inc",356,101
+2026-09-13T22:19:10.127347+00:00,49685037,23,Libraries Run Rust Inside Python (With PyO3),49,30
+2026-09-13T22:19:10.127347+00:00,49687334,24,AI recursive self-improvement might not come so quickly after all (August 2026),42,33
+2026-09-13T22:19:10.127347+00:00,49684778,25,"Cpak – OCI application package format for Linux desktops, servers and devices",38,13
+2026-09-13T22:19:10.127347+00:00,49683033,26,'Fingerprints' inside the Sun could reveal if it once swallowed a planet,105,40
+2026-09-13T22:19:10.127347+00:00,49678423,27,TailTalk: A modern async user space AppleTalk stack with Rust and Tokio,60,13
+2026-09-13T22:19:10.127347+00:00,49674050,28,Make your first edit to OpenStreetMap,585,138
+2026-09-13T22:19:10.127347+00:00,49660196,29,Alan's Random Insult Generator (1999),63,23
+2026-09-13T22:19:10.127347+00:00,49686134,30,Romania soccer introduces black card to 'combat abusive behaviour' from parents,88,54
+2026-09-13T22:19:10.127347+00:00,49688115,31,A computational constitution to stop LLM agents from bricking servers,3,0
+2026-09-13T22:19:10.127347+00:00,49688761,32,"Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?",8,3
+2026-09-13T22:19:10.127347+00:00,49681545,33,Homebrew 7.0.0,519,206
+2026-09-13T22:19:10.127347+00:00,49685991,34,David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models,206,156
+2026-09-13T22:19:10.127347+00:00,49651107,35,On Binary Translation and Its Consequences,45,17
+2026-09-13T22:19:10.127347+00:00,49655450,36,Base84 deserves a place in file names,51,48
+2026-09-13T22:19:10.127347+00:00,49679459,37,The Interim Computer Museum,159,24
+2026-09-13T22:19:10.127347+00:00,49677577,38,Don't be the out of touch Kung Fu master,246,367
+2026-09-13T22:19:10.127347+00:00,49619848,39,Apple iPod Engraver (2019),283,75
+2026-09-13T22:19:10.127347+00:00,49684101,40,"Key symbols we lost to time, pt. 1: The PC side",87,27
+2026-09-13T22:19:10.127347+00:00,49640913,41,I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant,165,82
+2026-09-13T22:19:10.127347+00:00,49673098,42,Nvidia is the central bank of AI,557,391
+2026-09-13T22:19:10.127347+00:00,49664413,43,A Brief Retrospective on the Sprite Network Operating System,16,11
+2026-09-13T22:19:10.127347+00:00,49625056,44,Stabilizing Rust's Never Type,239,92
+2026-09-13T22:19:10.127347+00:00,49679643,45,Aligned to whom?,170,112
+2026-09-13T22:19:10.127347+00:00,49685025,46,How Google Sees Your Site,10,1
+2026-09-13T22:19:10.127347+00:00,49686952,47,Built a Lego minifigure configurator. Shuffle until something makes you laugh,3,0
+2026-09-13T22:19:10.127347+00:00,49687150,48,Suicidal Compassion: Utilitarianism at AI Companies Endangers Humanity,14,0
+2026-09-13T22:19:10.127347+00:00,49678683,49,Everyone should slow down AI development except for me,733,430
+2026-09-13T22:19:10.127347+00:00,49687855,50,The Seizure of Bab El-Mandeb: Why Tanker Rates Are Exploding [video],8,0
