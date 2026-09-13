@@ -47791,3 +47791,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-13T16:05:47.311254+00:00,49658672,48,I fixed a tractor using John Deere's self-repair service. Farmers aren't sold,135,148
 2026-09-13T16:05:47.311254+00:00,49681268,49,"Texts Reveal Kash Patel Ordering Staff to Fight ""Ifindretards"" Account",47,0
 2026-09-13T16:05:47.311254+00:00,49676820,50,"Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",257,140
+2026-09-13T19:17:39.274434+00:00,49686445,1,Why is Google still serving dodgy ads?,152,73
+2026-09-13T19:17:39.274434+00:00,49684393,2,Astra and Fable still hack on simple variants of alignment evals from 2025,257,104
+2026-09-13T19:17:39.274434+00:00,49686766,3,"I'm being cyberattacked by Tesla, Inc",229,56
+2026-09-13T19:17:39.274434+00:00,49681152,4,JetKVM Mini,438,168
+2026-09-13T19:17:39.274434+00:00,49683953,5,Data collected by cars and sold to third parties,120,76
+2026-09-13T19:17:39.274434+00:00,49684356,6,CUDA for AMD on Windows,95,43
+2026-09-13T19:17:39.274434+00:00,49683262,7,Why is the x86 undefined instruction called ud2? Why 2?,123,32
+2026-09-13T19:17:39.274434+00:00,49651567,8,Sean Carroll explains the biggest ideas in the universe – Full Interview [video],26,3
+2026-09-13T19:17:39.274434+00:00,49684196,9,Making Startups Powerful,78,28
+2026-09-13T19:17:39.274434+00:00,49638071,10,Reverse engineering my e-scooter and rewriting the firmware in Rust,233,65
+2026-09-13T19:17:39.274434+00:00,49687312,11,Flock cameras used to arrest a child for playing on a swing,27,7
+2026-09-13T19:17:39.274434+00:00,49685253,12,"Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",203,94
+2026-09-13T19:17:39.274434+00:00,49678969,13,"Why are AI agents lying, cheating and coordinating?",515,600
+2026-09-13T19:17:39.274434+00:00,49684778,14,"Cpak – OCI application package format for Linux desktops, servers and devices",26,11
+2026-09-13T19:17:39.274434+00:00,49686503,15,Device Drivers lab exercise – COSC562,6,1
+2026-09-13T19:17:39.274434+00:00,49653311,16,Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace,7,0
+2026-09-13T19:17:39.274434+00:00,49685991,17,David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models,125,91
+2026-09-13T19:17:39.274434+00:00,49683033,18,'Fingerprints' inside the Sun could reveal if it once swallowed a planet,90,33
+2026-09-13T19:17:39.274434+00:00,49678423,19,TailTalk: A modern async user space AppleTalk stack with Rust and Tokio,56,13
+2026-09-13T19:17:39.274434+00:00,49686134,20,Romania soccer introduces black card to 'combat abusive behaviour' from parents,52,39
+2026-09-13T19:17:39.274434+00:00,49685037,21,Libraries Run Rust Inside Python (With PyO3),36,26
+2026-09-13T19:17:39.274434+00:00,49686697,22,Global Shortage Has Led to Motor Oil Rationing at Costco,5,0
+2026-09-13T19:17:39.274434+00:00,49685347,23,Making Startups Powerful,15,5
+2026-09-13T19:17:39.274434+00:00,49660196,24,Alan's Random Insult Generator (1999),48,22
+2026-09-13T19:17:39.274434+00:00,49674050,25,Make your first edit to OpenStreetMap,568,136
+2026-09-13T19:17:39.274434+00:00,49655450,26,Base84 deserves a place in file names,44,34
+2026-09-13T19:17:39.274434+00:00,49681545,27,Homebrew 7.0.0,465,191
+2026-09-13T19:17:39.274434+00:00,49651107,28,On Binary Translation and Its Consequences,36,15
+2026-09-13T19:17:39.274434+00:00,49685642,29,Docket – Per-commit evidence records for agent-written code,9,1
+2026-09-13T19:17:39.274434+00:00,49684101,30,"Key symbols we lost to time, pt. 1: The PC side",66,26
+2026-09-13T19:17:39.274434+00:00,49664413,31,A Brief Retrospective on the Sprite Network Operating System,13,8
+2026-09-13T19:17:39.274434+00:00,49687334,32,AI recursive self-improvement might not come so quickly after all (August 2026),6,0
+2026-09-13T19:17:39.274434+00:00,49679643,33,Aligned to whom?,163,104
+2026-09-13T19:17:39.274434+00:00,49679459,34,The Interim Computer Museum,155,22
+2026-09-13T19:17:39.274434+00:00,49640913,35,I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant,160,75
+2026-09-13T19:17:39.274434+00:00,49677577,36,Don't be the out of touch Kung Fu master,235,350
+2026-09-13T19:17:39.274434+00:00,49685025,37,How Google Sees Your Site,6,1
+2026-09-13T19:17:39.274434+00:00,49619848,38,Apple iPod Engraver (2019),277,74
+2026-09-13T19:17:39.274434+00:00,49673098,39,Nvidia is the central bank of AI,550,387
+2026-09-13T19:17:39.274434+00:00,49625056,40,Stabilizing Rust's Never Type,237,92
+2026-09-13T19:17:39.274434+00:00,49683729,41,US Customs supervisor busted for stealing hardware from Homeland Security PCs,106,86
+2026-09-13T19:17:39.274434+00:00,49678683,42,Everyone should slow down AI development except for me,708,413
+2026-09-13T19:17:39.274434+00:00,49682087,43,Revolut confirms customer data breach through fake government requests,158,112
+2026-09-13T19:17:39.274434+00:00,49644241,44,Ode to Metadata,14,2
+2026-09-13T19:17:39.274434+00:00,49645480,45,"LG denies TV spying claims, says tracking and snooping concerns 'not true'",606,458
+2026-09-13T19:17:39.274434+00:00,49636479,46,Getting 50 GB/S Back from the Apple Neural Engine,204,31
+2026-09-13T19:17:39.274434+00:00,49679734,47,A wandering black hole caught feeding on the run,59,44
+2026-09-13T19:17:39.274434+00:00,49629624,48,Vintage Scientific Papers with LaTeX,106,10
+2026-09-13T19:17:39.274434+00:00,49672510,49,We must pace the frontier,723,996
+2026-09-13T19:17:39.274434+00:00,49684042,50,"Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",29,3
