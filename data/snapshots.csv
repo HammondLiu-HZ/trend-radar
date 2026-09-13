@@ -47741,3 +47741,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-13T11:37:01.314449+00:00,49662990,48,I spent $220 on Google app ads and 60% of the installs were robots,741,412
 2026-09-13T11:37:01.314449+00:00,49679765,49,JWST finds extreme star-forming galaxies masquerading as faint quasars,6,1
 2026-09-13T11:37:01.314449+00:00,49678432,50,No Atlantic hurricanes by Sept. 12 breaks a 60-year record,66,50
+2026-09-13T16:05:47.311254+00:00,49684393,1,Astra and Fable still hack on simple variants of alignment evals from 2025,77,20
+2026-09-13T16:05:47.311254+00:00,49681152,2,JetKVM Mini,349,135
+2026-09-13T16:05:47.311254+00:00,49683033,3,'Fingerprints' inside the Sun could reveal if it once swallowed a planet,61,16
+2026-09-13T16:05:47.311254+00:00,49685037,4,Libraries Run Rust Inside Python (With PyO3),8,3
+2026-09-13T16:05:47.311254+00:00,49638071,5,Reverse engineering my e-scooter and rewriting the firmware in Rust,119,37
+2026-09-13T16:05:47.311254+00:00,49683262,6,Why is the x86 undefined instruction called ud2? Why 2?,28,10
+2026-09-13T16:05:47.311254+00:00,49678969,7,"Why are AI agents lying, cheating and coordinating?",447,515
+2026-09-13T16:05:47.311254+00:00,49678423,8,TailTalk: A modern async user space AppleTalk stack with Rust and Tokio,42,11
+2026-09-13T16:05:47.311254+00:00,49684356,9,CUDA for AMD on Windows,15,0
+2026-09-13T16:05:47.311254+00:00,49684879,10,Predictive intelligence to anticipate anything.,4,3
+2026-09-13T16:05:47.311254+00:00,49681545,11,Homebrew 7.0.0,346,139
+2026-09-13T16:05:47.311254+00:00,49679643,12,Aligned to whom?,139,77
+2026-09-13T16:05:47.311254+00:00,49684196,13,Making Startups Powerful,9,0
+2026-09-13T16:05:47.311254+00:00,49684101,14,"Key symbols we lost to time, pt. 1: The PC side",30,3
+2026-09-13T16:05:47.311254+00:00,49674050,15,Make your first edit to OpenStreetMap,541,134
+2026-09-13T16:05:47.311254+00:00,49651107,16,On Binary Translation and Its Consequences,26,9
+2026-09-13T16:05:47.311254+00:00,49660196,17,Alan's Random Insult Generator (1999),5,3
+2026-09-13T16:05:47.311254+00:00,49683729,18,US Customs supervisor busted for stealing hardware from Homeland Security PCs,74,56
+2026-09-13T16:05:47.311254+00:00,49679459,19,The Interim Computer Museum,148,17
+2026-09-13T16:05:47.311254+00:00,49644241,20,Ode to Metadata,9,1
+2026-09-13T16:05:47.311254+00:00,49655450,21,Base84 deserves a place in file names,29,14
+2026-09-13T16:05:47.311254+00:00,49640913,22,I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant,131,64
+2026-09-13T16:05:47.311254+00:00,49682087,23,Revolut confirms customer data breach through fake government requests,126,86
+2026-09-13T16:05:47.311254+00:00,49619848,24,Apple iPod Engraver (2019),260,68
+2026-09-13T16:05:47.311254+00:00,49677577,25,Don't be the out of touch Kung Fu master,209,278
+2026-09-13T16:05:47.311254+00:00,49684042,26,"Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",21,1
+2026-09-13T16:05:47.311254+00:00,49673098,27,Nvidia is the central bank of AI,533,382
+2026-09-13T16:05:47.311254+00:00,49625056,28,Stabilizing Rust's Never Type,228,86
+2026-09-13T16:05:47.311254+00:00,49679734,29,A wandering black hole caught feeding on the run,53,38
+2026-09-13T16:05:47.311254+00:00,49678683,30,Everyone should slow down AI development except for me,670,395
+2026-09-13T16:05:47.311254+00:00,49684266,31,Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic,51,45
+2026-09-13T16:05:47.311254+00:00,49636479,32,Getting 50 GB/S Back from the Apple Neural Engine,198,30
+2026-09-13T16:05:47.311254+00:00,49629624,33,Vintage Scientific Papers with LaTeX,104,8
+2026-09-13T16:05:47.311254+00:00,49682946,34,Show HN: Analyst Index – analysts who make money telling you good stock calls,8,6
+2026-09-13T16:05:47.311254+00:00,49645480,35,"LG denies TV spying claims, says tracking and snooping concerns 'not true'",594,452
+2026-09-13T16:05:47.311254+00:00,49684180,36,"Security through obscurity is dead, and AI delivered the fatal blow",10,5
+2026-09-13T16:05:47.311254+00:00,49672510,37,We must pace the frontier,711,972
+2026-09-13T16:05:47.311254+00:00,49644784,38,Operation Smart Kettle – Börzels Blog,41,18
+2026-09-13T16:05:47.311254+00:00,49684989,39,Ask HN: What is Y Combinator's position on Flock's standing today?,10,1
+2026-09-13T16:05:47.311254+00:00,49683953,40,Your car is selling your data,62,51
+2026-09-13T16:05:47.311254+00:00,49674498,41,Will there be a 7G?,117,171
+2026-09-13T16:05:47.311254+00:00,49626110,42,Liesegang Rings,47,5
+2026-09-13T16:05:47.311254+00:00,49673580,43,Microcode in Intel's 8087 floating-point chip: the scale instruction,118,42
+2026-09-13T16:05:47.311254+00:00,49672842,44,I made a build visualizer to understand Bun's compile times,155,30
+2026-09-13T16:05:47.311254+00:00,49626718,45,A Design Space Exploration of Async/Await,449,129
+2026-09-13T16:05:47.311254+00:00,49635621,46,Durable execution without history replay,34,17
+2026-09-13T16:05:47.311254+00:00,49678435,47,AgentsDock: An IDE designed for agentic AI research,74,31
+2026-09-13T16:05:47.311254+00:00,49658672,48,I fixed a tractor using John Deere's self-repair service. Farmers aren't sold,135,148
+2026-09-13T16:05:47.311254+00:00,49681268,49,"Texts Reveal Kash Patel Ordering Staff to Fight ""Ifindretards"" Account",47,0
+2026-09-13T16:05:47.311254+00:00,49676820,50,"Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",257,140
