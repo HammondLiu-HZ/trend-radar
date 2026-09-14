@@ -48041,3 +48041,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-14T13:51:04.383257+00:00,49681152,48,JetKVM Mini,555,224
 2026-09-14T13:51:04.383257+00:00,49660631,49,Five Words from Vanishing Fleece,13,1
 2026-09-14T13:51:04.383257+00:00,49676324,50,LG says we're fake news [video],369,192
+2026-09-14T19:13:37.481439+00:00,49700477,1,"Pion, an agent designed to run any company autonomously",120,120
+2026-09-14T19:13:37.481439+00:00,49699158,2,Distributed Systems Classics (2017),122,26
+2026-09-14T19:13:37.481439+00:00,49699648,3,Why don't machine learning research agents overfit?,62,30
+2026-09-14T19:13:37.481439+00:00,49700661,4,Steam Frame starts at $1059,192,97
+2026-09-14T19:13:37.481439+00:00,49698607,5,Principles for Fast Tokio Applications,90,15
+2026-09-14T19:13:37.481439+00:00,49695876,6,OpenAI bots knew about the RubyGems caching vulnerability,226,213
+2026-09-14T19:13:37.481439+00:00,49698699,7,A Beginning for Mathematics,62,12
+2026-09-14T19:13:37.481439+00:00,49699489,8,How my e-reader lost its stripes,46,3
+2026-09-14T19:13:37.481439+00:00,49701004,9,"iOS 27, iPadOS 27, and macOS 27",166,152
+2026-09-14T19:13:37.481439+00:00,49699267,11,"Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",15,5
+2026-09-14T19:13:37.481439+00:00,49700255,12,Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%,19,5
+2026-09-14T19:13:37.481439+00:00,49697014,13,Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama,89,40
+2026-09-14T19:13:37.481439+00:00,49694296,14,XCancel service is suspended until further notice,222,494
+2026-09-14T19:13:37.481439+00:00,49699590,15,"When LLM judges agree, should we believe them?",34,14
+2026-09-14T19:13:37.481439+00:00,49699134,16,Truncated SVD (2023),25,1
+2026-09-14T19:13:37.481439+00:00,49670852,17,An atlas of periodic solutions to the three-body problem,275,63
+2026-09-14T19:13:37.481439+00:00,49699145,18,The Tudor Kings,18,1
+2026-09-14T19:13:37.481439+00:00,49631365,19,Show HN: Apollo Lunar Module landing simulation,9,0
+2026-09-14T19:13:37.481439+00:00,49699159,20,Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme,72,41
+2026-09-14T19:13:37.481439+00:00,49686380,21,Ask HN: What are you working on? (September 2026),258,796
+2026-09-14T19:13:37.481439+00:00,49697094,22,Adversarial Fashion Makes a Statement on AI Panopticon,65,28
+2026-09-14T19:13:37.481439+00:00,49693610,23,EuroBirdPortal – Live bird movements across Europe,199,60
+2026-09-14T19:13:37.481439+00:00,49671831,24,NüshuRescue: Reviving the Endangered Nüshu Language with AI,4,0
+2026-09-14T19:13:37.481439+00:00,49638555,25,Trying to Make a Loop Auto-Vectorize,38,12
+2026-09-14T19:13:37.481439+00:00,49693613,26,A 386 PC for Your RP2350,186,61
+2026-09-14T19:13:37.481439+00:00,49699373,27,Claude is a Contrarian,85,112
+2026-09-14T19:13:37.481439+00:00,49696402,28,Show HN: Pelican-bicycle alternatives,69,28
+2026-09-14T19:13:37.481439+00:00,49659557,29,Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row,45,36
+2026-09-14T19:13:37.481439+00:00,49696125,30,How to write an effective software design document,264,113
+2026-09-14T19:13:37.481439+00:00,49699297,31,"Microsoft patches Windows and Excel – breaks audio, remote access, and paste",81,31
+2026-09-14T19:13:37.481439+00:00,49699075,32,Show HN: Fly.exe – An EON systems like virtual fruit fly uploaded to computer,19,4
+2026-09-14T19:13:37.481439+00:00,49690174,33,Apple's Dimensional Drawings,358,121
+2026-09-14T19:13:37.481439+00:00,49695408,34,Show HN: Kinesis – Control your Mac with the Meta Neural Band,103,31
+2026-09-14T19:13:37.481439+00:00,49697965,35,"One Gets Through – Missile Command, but you launch the missiles",15,2
+2026-09-14T19:13:37.481439+00:00,49701104,36,Iranian banks' SSL certificates are being revoked due to OFAC sanctions,62,84
+2026-09-14T19:13:37.481439+00:00,49697893,37,"Dario, Please",26,6
+2026-09-14T19:13:37.481439+00:00,49638510,38,Spaceships (Reverse Asteroid),350,68
+2026-09-14T19:13:37.481439+00:00,49688695,39,"Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",1159,534
+2026-09-14T19:13:37.481439+00:00,49699696,40,Fitting Neural Textures and PBR Material Maps with ES (No Backprop),8,0
+2026-09-14T19:13:37.481439+00:00,49695805,41,"SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI",42,4
+2026-09-14T19:13:37.481439+00:00,49700413,42,"US 10-Year Breaches 5% as Inflation, Supply Worries Mount",23,6
+2026-09-14T19:13:37.481439+00:00,49699493,43,"Cops Search Flock Cameras for Reasons of 'LMAO,' 'IDK,' and 'Asdfg'",59,6
+2026-09-14T19:13:37.481439+00:00,49698664,44,"China's Regulators Take Aim at ""AI Boyfriends""",50,36
+2026-09-14T19:13:37.481439+00:00,49695829,45,Texas judge rules TikTok misled users on child safety feature,136,64
+2026-09-14T19:13:37.481439+00:00,49697912,46,Show HN: Pushie – Get notified with a simple webhook,13,5
+2026-09-14T19:13:37.481439+00:00,49693384,47,OpenArch – PyTorch implementations of modern LLM architectures,123,29
+2026-09-14T19:13:37.481439+00:00,49695409,48,"Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",207,140
+2026-09-14T19:13:37.481439+00:00,49698443,49,Transitions.dev: UI transitions for AI agents,20,7
+2026-09-14T19:13:37.481439+00:00,49698952,50,ProGantt: Gantt charts your AI agent can read and write via MCP,6,7
