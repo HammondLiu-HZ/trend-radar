@@ -48090,3 +48090,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-14T19:13:37.481439+00:00,49695409,48,"Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",207,140
 2026-09-14T19:13:37.481439+00:00,49698443,49,Transitions.dev: UI transitions for AI agents,20,7
 2026-09-14T19:13:37.481439+00:00,49698952,50,ProGantt: Gantt charts your AI agent can read and write via MCP,6,7
+2026-09-14T23:03:22.655847+00:00,49700477,1,"Pion, an agent designed to run any company autonomously",235,247
+2026-09-14T23:03:22.655847+00:00,49704008,2,Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit,135,138
+2026-09-14T23:03:22.655847+00:00,49699158,3,Distributed Systems Classics (2017),210,40
+2026-09-14T23:03:22.655847+00:00,49673689,4,Compressing a Flag to 11 Bits,22,6
+2026-09-14T23:03:22.655847+00:00,49695876,5,OpenAI bots knew about the RubyGems caching vulnerability,336,289
+2026-09-14T23:03:22.655847+00:00,49698699,6,A Beginning for Mathematics,150,85
+2026-09-14T23:03:22.655847+00:00,49699489,7,How my e-reader lost its stripes,126,17
+2026-09-14T23:03:22.655847+00:00,49698607,8,Principles for Fast Tokio Applications,151,34
+2026-09-14T23:03:22.655847+00:00,49704246,9,Charts built for Chat,27,6
+2026-09-14T23:03:22.655847+00:00,49694296,10,XCancel service is suspended until further notice,388,703
+2026-09-14T23:03:22.655847+00:00,49699648,11,Why don't machine learning research agents overfit?,91,53
+2026-09-14T23:03:22.655847+00:00,49700255,12,Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%,72,20
+2026-09-14T23:03:22.655847+00:00,49670699,13,Optimizing a Spin-Lock,24,9
+2026-09-14T23:03:22.655847+00:00,49703003,14,GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?,76,94
+2026-09-14T23:03:22.655847+00:00,49699159,15,Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme,125,54
+2026-09-14T23:03:22.655847+00:00,49670852,16,An atlas of periodic solutions to the three-body problem,325,73
+2026-09-14T23:03:22.655847+00:00,49699297,18,"Microsoft patches Windows and Excel – breaks audio, remote access, and paste",176,94
+2026-09-14T23:03:22.655847+00:00,49686380,19,Ask HN: What are you working on? (September 2026),286,889
+2026-09-14T23:03:22.655847+00:00,49699267,20,"Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",58,12
+2026-09-14T23:03:22.655847+00:00,49697014,21,Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama,105,57
+2026-09-14T23:03:22.655847+00:00,49696132,22,"Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",37,5
+2026-09-14T23:03:22.655847+00:00,49693610,23,EuroBirdPortal – Live bird movements across Europe,212,63
+2026-09-14T23:03:22.655847+00:00,49697094,24,Adversarial Fashion Makes a Statement on AI Panopticon,89,43
+2026-09-14T23:03:22.655847+00:00,49699134,25,Truncated SVD (2023),40,7
+2026-09-14T23:03:22.655847+00:00,49697893,26,"Dario, Please",196,89
+2026-09-14T23:03:22.655847+00:00,49696402,27,Show HN: Pelican-bicycle alternatives,105,41
+2026-09-14T23:03:22.655847+00:00,49701182,28,Backprop Alternative: Augmented Lagrangian Predictive Coding,19,4
+2026-09-14T23:03:22.655847+00:00,49638555,29,Trying to Make a Loop Auto-Vectorize,64,15
+2026-09-14T23:03:22.655847+00:00,49700661,30,Steam Frame starts at $1059,438,322
+2026-09-14T23:03:22.655847+00:00,49693613,31,A 386 PC for Your RP2350,201,76
+2026-09-14T23:03:22.655847+00:00,49704001,32,US coal 'biggest contributor by far' to rise in global emissions,5,1
+2026-09-14T23:03:22.655847+00:00,49690174,33,Apple's Dimensional Drawings,371,125
+2026-09-14T23:03:22.655847+00:00,49659557,34,Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row,52,39
+2026-09-14T23:03:22.655847+00:00,49701004,35,"iOS 27, iPadOS 27, and macOS 27",287,304
+2026-09-14T23:03:22.655847+00:00,49638510,36,Spaceships (Reverse Asteroid),359,69
+2026-09-14T23:03:22.655847+00:00,49688695,37,"Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",1167,541
+2026-09-14T23:03:22.655847+00:00,49702239,38,Oracle’s 6am layoff emails hit staff amid new wave of cuts,136,124
+2026-09-14T23:03:22.655847+00:00,49697965,39,"One Gets Through – Missile Command, but you launch the missiles",29,5
+2026-09-14T23:03:22.655847+00:00,49704226,40,Tell HN: iOS 27 does not allow Apple Intelligence to be disabled,34,5
+2026-09-14T23:03:22.655847+00:00,49696125,41,How to write an effective software design document,289,128
+2026-09-14T23:03:22.655847+00:00,49699373,42,Claude is a Contrarian,105,133
+2026-09-14T23:03:22.655847+00:00,49695408,43,Show HN: Kinesis – Control your Mac with the Meta Neural Band,106,34
+2026-09-14T23:03:22.655847+00:00,49699145,44,The Tudor Kings,24,2
+2026-09-14T23:03:22.655847+00:00,49699696,45,Fitting Neural Textures and PBR Material Maps with ES (No Backprop),12,2
+2026-09-14T23:03:22.655847+00:00,49695805,46,"SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI",50,11
+2026-09-14T23:03:22.655847+00:00,49693384,47,OpenArch – PyTorch implementations of modern LLM architectures,129,31
+2026-09-14T23:03:22.655847+00:00,49690554,48,The case against JPEG XL,255,337
+2026-09-14T23:03:22.655847+00:00,49699075,49,Show HN: Fly.exe – An EON systems like virtual fruit fly uploaded to computer,21,4
+2026-09-14T23:03:22.655847+00:00,49700413,50,"US 10-Year Breaches 5% as Inflation, Supply Worries Mount",54,30
