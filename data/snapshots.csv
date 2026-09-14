@@ -47941,3 +47941,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-14T00:53:59.480629+00:00,49619848,48,Apple iPod Engraver (2019),284,78
 2026-09-14T00:53:59.480629+00:00,49673098,49,Nvidia is the central bank of AI,560,389
 2026-09-14T00:53:59.480629+00:00,49625056,50,Stabilizing Rust's Never Type,243,92
+2026-09-14T06:01:43.392539+00:00,49688695,1,"Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",718,306
+2026-09-14T06:01:43.392539+00:00,49686445,2,Why is Google still serving dodgy ads?,730,333
+2026-09-14T06:01:43.392539+00:00,49638510,3,Spaceships (Reverse Asteroid),133,27
+2026-09-14T06:01:43.392539+00:00,49689048,4,Registration without a phone number on Signal will use zero-knowledge proofs,180,82
+2026-09-14T06:01:43.392539+00:00,49690260,5,Open-Source AI and Open Models Reading List,76,7
+2026-09-14T06:01:43.392539+00:00,49690554,6,The case against JPEG XL,91,113
+2026-09-14T06:01:43.392539+00:00,49690174,7,Apple's Dimensional Drawings,115,33
+2026-09-14T06:01:43.392539+00:00,49684393,8,Astra and Fable still hack on simple variants of alignment evals from 2025,415,188
+2026-09-14T06:01:43.392539+00:00,49662246,9,"Rope, twine and thread: Invisible technologies of the Stone Age",26,1
+2026-09-14T06:01:43.392539+00:00,49692118,10,Who Gets to Define the Rules for AI?,10,5
+2026-09-14T06:01:43.392539+00:00,49690678,11,The Malicious Use of Artificial Intelligence,36,9
+2026-09-14T06:01:43.392539+00:00,49642645,12,Julia 1.13 highlights,194,16
+2026-09-14T06:01:43.392539+00:00,49683953,13,Data collected by cars and sold to third parties,370,198
+2026-09-14T06:01:43.392539+00:00,49686380,14,Ask HN: What are you working on? (September 2026),127,340
+2026-09-14T06:01:43.392539+00:00,49690279,15,Writing a better reality: The case for optimistic sci-fi,44,21
+2026-09-14T06:01:43.392539+00:00,49688259,16,Mullenweg has returned as CEO after attempted board ouster,96,145
+2026-09-14T06:01:43.392539+00:00,49688391,17,Flawed routers flood University of Wisconsin internet time server (2003),76,8
+2026-09-14T06:01:43.392539+00:00,49649164,18,The GDR and Vietnam: From Fake Coffee to Coffee Empire,53,18
+2026-09-14T06:01:43.392539+00:00,49645654,19,"Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",15,2
+2026-09-14T06:01:43.392539+00:00,49684196,20,Making Startups Powerful,191,85
+2026-09-14T06:01:43.392539+00:00,49683262,21,Why is the x86 undefined instruction called ud2? Why 2?,237,55
+2026-09-14T06:01:43.392539+00:00,49690139,22,"""Chilling"" warning or overreaction? AI bioweapons report divides experts",24,10
+2026-09-14T06:01:43.392539+00:00,49667916,23,"Necker, 1832: ""An optical phænomenon on viewing a figure of a geometrical solid""",19,4
+2026-09-14T06:01:43.392539+00:00,49684356,24,CUDA for AMD on Windows,150,78
+2026-09-14T06:01:43.392539+00:00,49691584,25,"Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",25,8
+2026-09-14T06:01:43.392539+00:00,49690614,26,Show HN: Exploring the intersection of prediction markets and social media,9,1
+2026-09-14T06:01:43.392539+00:00,49653311,27,Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace,75,18
+2026-09-14T06:01:43.392539+00:00,49690051,28,The Coming War on General Computation (2011),79,23
+2026-09-14T06:01:43.392539+00:00,49688766,29,Why is privacy so hard? (2019),37,43
+2026-09-14T06:01:43.392539+00:00,49643059,30,Bad code is kudzu,57,16
+2026-09-14T06:01:43.392539+00:00,49691152,31,"OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",15,2
+2026-09-14T06:01:43.392539+00:00,49651567,32,Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025),84,24
+2026-09-14T06:01:43.392539+00:00,49681152,33,JetKVM Mini,538,221
+2026-09-14T06:01:43.392539+00:00,49655450,34,Base84 deserves a place in file names,64,54
+2026-09-14T06:01:43.392539+00:00,49685253,35,"Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",380,212
+2026-09-14T06:01:43.392539+00:00,49689460,36,The contagion of fear,194,138
+2026-09-14T06:01:43.392539+00:00,49692344,37,Airbnb Preventing the Use of BnB,6,1
+2026-09-14T06:01:43.392539+00:00,49685991,38,David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models,292,214
+2026-09-14T06:01:43.392539+00:00,49691060,39,Show HN: Dllog – Replay debug logs when an operation fails,3,0
+2026-09-14T06:01:43.392539+00:00,49638071,40,Reverse engineering my e-scooter and rewriting the firmware in Rust,405,95
+2026-09-14T06:01:43.392539+00:00,49683033,41,'Fingerprints' inside the Sun could reveal if it once swallowed a planet,119,40
+2026-09-14T06:01:43.392539+00:00,49685037,42,Libraries Run Rust Inside Python (With PyO3),62,33
+2026-09-14T06:01:43.392539+00:00,49676324,43,LG says we're fake news [video],330,171
+2026-09-14T06:01:43.392539+00:00,49640913,44,I added a non-wi-fi Mitsubishi AC to Home Assistant,190,95
+2026-09-14T06:01:43.392539+00:00,49690411,45,AI Robots – When will they be in our homes,18,15
+2026-09-14T06:01:43.392539+00:00,49684778,46,"Cpak – OCI application package format for Linux desktops, servers and devices",50,19
+2026-09-14T06:01:43.392539+00:00,49678423,47,TailTalk: A modern async user space AppleTalk stack with Rust and Tokio,73,13
+2026-09-14T06:01:43.392539+00:00,49689488,48,The End of Friday Nights with Friends,13,3
+2026-09-14T06:01:43.392539+00:00,49686503,49,Device Drivers lab exercise – COSC562,38,5
+2026-09-14T06:01:43.392539+00:00,49678969,50,"Why are AI agents lying, cheating and coordinating?",608,665
