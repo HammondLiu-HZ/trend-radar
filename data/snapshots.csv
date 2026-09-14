@@ -47991,3 +47991,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-14T06:01:43.392539+00:00,49689488,48,The End of Friday Nights with Friends,13,3
 2026-09-14T06:01:43.392539+00:00,49686503,49,Device Drivers lab exercise – COSC562,38,5
 2026-09-14T06:01:43.392539+00:00,49678969,50,"Why are AI agents lying, cheating and coordinating?",608,665
+2026-09-14T13:51:04.383257+00:00,49693610,1,EuroBirdPortal – Live bird movements across Europe,148,49
+2026-09-14T13:51:04.383257+00:00,49688695,2,"Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",1094,495
+2026-09-14T13:51:04.383257+00:00,49695408,3,Show HN: Kinesis – Control your Mac with the Meta Neural Band,63,19
+2026-09-14T13:51:04.383257+00:00,49693613,4,A 386 PC for Your RP2350,112,28
+2026-09-14T13:51:04.383257+00:00,49670852,5,An atlas of periodic solutions to the three-body problem,126,31
+2026-09-14T13:51:04.383257+00:00,49695409,6,"Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",87,26
+2026-09-14T13:51:04.383257+00:00,49630353,7,Drawably: Hand-Drawn UI Controls,20,13
+2026-09-14T13:51:04.383257+00:00,49695829,8,Texas judge rules TikTok misled users on child safety feature,36,6
+2026-09-14T13:51:04.383257+00:00,49693384,9,OpenArch – PyTorch implementations of modern LLM architectures,86,18
+2026-09-14T13:51:04.383257+00:00,49689048,10,Registration without a phone number on Signal will use zero-knowledge proofs,336,167
+2026-09-14T13:51:04.383257+00:00,49696313,11,Volkswagen Just Built an EV That Can Go Nearly 900 Miles on a Charge,21,21
+2026-09-14T13:51:04.383257+00:00,49659557,12,Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row,8,7
+2026-09-14T13:51:04.383257+00:00,49638510,13,Spaceships (Reverse Asteroid),293,55
+2026-09-14T13:51:04.383257+00:00,49695459,14,"XCancel suspended ""due to a new development in the ongoing legal proceedings""",169,130
+2026-09-14T13:51:04.383257+00:00,49690174,15,Apple's Dimensional Drawings,286,94
+2026-09-14T13:51:04.383257+00:00,49690554,16,The case against JPEG XL,216,281
+2026-09-14T13:51:04.383257+00:00,49651735,17,A Vacuum Diode for Make: Magazine,22,2
+2026-09-14T13:51:04.383257+00:00,49688259,18,Mullenweg has returned as CEO after attempted board ouster,221,296
+2026-09-14T13:51:04.383257+00:00,49695876,19,What a time to be alive – rouge AI agents attack RubyGems.org,70,87
+2026-09-14T13:51:04.383257+00:00,49686380,20,Ask HN: What are you working on? (September 2026),222,663
+2026-09-14T13:51:04.383257+00:00,49662246,21,"Rope, twine and thread: Invisible technologies of the Stone Age",98,39
+2026-09-14T13:51:04.383257+00:00,49642645,22,Julia 1.13 highlights,255,40
+2026-09-14T13:51:04.383257+00:00,49655621,23,"Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",48,32
+2026-09-14T13:51:04.383257+00:00,49694596,24,Big AI sets out its terms for regulatory capture,34,2
+2026-09-14T13:51:04.383257+00:00,49686445,25,Why is Google still serving dodgy ads?,889,384
+2026-09-14T13:51:04.383257+00:00,49649164,26,The GDR and Vietnam: From Fake Coffee to Coffee Empire,101,57
+2026-09-14T13:51:04.383257+00:00,49696335,27,Temporal raises $550M at a $12.55B valuation,5,0
+2026-09-14T13:51:04.383257+00:00,49693226,28,Show HN: 1080p is 920px tall – 1k real browser viewports,33,20
+2026-09-14T13:51:04.383257+00:00,49694404,29,"Show HN: ChaosTree – A zero-dependency Java tree library (AVL,RBT,B-Tree,B+Tree)",7,9
+2026-09-14T13:51:04.383257+00:00,49688391,30,Flawed routers flood University of Wisconsin internet time server (2003),100,12
+2026-09-14T13:51:04.383257+00:00,49691343,31,Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout,229,304
+2026-09-14T13:51:04.383257+00:00,49695065,32,D-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026,11,3
+2026-09-14T13:51:04.383257+00:00,49690260,33,Open-source AI and open models reading list,134,24
+2026-09-14T13:51:04.383257+00:00,49695220,34,Rockstar had a mole in the union worker discord server,16,2
+2026-09-14T13:51:04.383257+00:00,49694905,35,"HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",32,44
+2026-09-14T13:51:04.383257+00:00,49695304,36,'Offensively cheap': solar power is looking up,10,1
+2026-09-14T13:51:04.383257+00:00,49694722,37,Who Aligns the Aligners?,58,76
+2026-09-14T13:51:04.383257+00:00,49690678,38,The Malicious Use of Artificial Intelligence,76,21
+2026-09-14T13:51:04.383257+00:00,49684393,39,Astra and Fable still hack on simple variants of alignment evals from 2025,451,212
+2026-09-14T13:51:04.383257+00:00,49653311,40,Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace,103,21
+2026-09-14T13:51:04.383257+00:00,49694311,41,Pkgsrc Is Cool (2022),23,8
+2026-09-14T13:51:04.383257+00:00,49683953,42,Data collected by cars and sold to third parties,444,230
+2026-09-14T13:51:04.383257+00:00,49694035,43,Intelligence per Watt: Measuring Intelligence Efficiency of Local AI,5,0
+2026-09-14T13:51:04.383257+00:00,49695535,44,Goldman CIO: Don't rule out open models,6,1
+2026-09-14T13:51:04.383257+00:00,49645654,45,"Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",45,20
+2026-09-14T13:51:04.383257+00:00,49667916,46,"Necker, 1832: ""An optical phænomenon on viewing a figure of a geometrical solid""",33,18
+2026-09-14T13:51:04.383257+00:00,49688766,47,Why is privacy so hard? (2019),54,57
+2026-09-14T13:51:04.383257+00:00,49681152,48,JetKVM Mini,555,224
+2026-09-14T13:51:04.383257+00:00,49660631,49,Five Words from Vanishing Fleece,13,1
+2026-09-14T13:51:04.383257+00:00,49676324,50,LG says we're fake news [video],369,192
