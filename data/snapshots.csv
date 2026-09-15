@@ -48188,3 +48188,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-15T04:39:24.063899+00:00,49697965,48,"One Gets Through – Missile Command, but you launch the missiles",35,8
 2026-09-15T04:39:24.063899+00:00,49670852,49,An atlas of periodic solutions to the three-body problem,351,81
 2026-09-15T04:39:24.063899+00:00,49706451,50,US military reveals it has weapons in space,27,8
+2026-09-15T09:58:25.952679+00:00,49708431,1,I can't stop thinking about Papua New Guinea,164,50
+2026-09-15T09:58:25.952679+00:00,49701004,2,"iOS 27, iPadOS 27, and macOS 27",602,685
+2026-09-15T09:58:25.952679+00:00,49684289,3,OpenArm: An open-source 7DOF humanoid arm,90,18
+2026-09-15T09:58:25.952679+00:00,49707627,4,Linux from Scratch,183,58
+2026-09-15T09:58:25.952679+00:00,49700477,5,"Pion, an agent designed to run any company autonomously",408,511
+2026-09-15T09:58:25.952679+00:00,49675817,6,"4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",134,40
+2026-09-15T09:58:25.952679+00:00,49704246,7,Charts built for Chat,230,70
+2026-09-15T09:58:25.952679+00:00,49694296,8,XCancel service is suspended until further notice,638,939
+2026-09-15T09:58:25.952679+00:00,49676425,9,Show HN: Redis City – Explore how Redis works in an interactive 3D model,89,15
+2026-09-15T09:58:25.952679+00:00,49697477,11,Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen),114,27
+2026-09-15T09:58:25.952679+00:00,49695876,12,OpenAI bots knew about the RubyGems caching vulnerability,462,372
+2026-09-15T09:58:25.952679+00:00,49698699,13,A beginning for mathematics,226,121
+2026-09-15T09:58:25.952679+00:00,49699158,14,Distributed Systems Classics (2017),308,66
+2026-09-15T09:58:25.952679+00:00,49673689,15,Compressing a flag to 11 bits,144,59
+2026-09-15T09:58:25.952679+00:00,49709381,16,Alternatives to MinIO for single-node local S3,4,2
+2026-09-15T09:58:25.952679+00:00,49695331,17,High-performance garbage collection for C++,39,5
+2026-09-15T09:58:25.952679+00:00,49707473,18,US confirms for first time it has deployed space weapons,40,8
+2026-09-15T09:58:25.952679+00:00,49665549,19,Forgotten Woodlands,61,22
+2026-09-15T09:58:25.952679+00:00,49661835,20,Glyph Immersive,3,1
+2026-09-15T09:58:25.952679+00:00,49705442,21,Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS,73,18
+2026-09-15T09:58:25.952679+00:00,49696697,22,Ubuntu 26.10 completes transition to Rust-based coreutils,187,196
+2026-09-15T09:58:25.952679+00:00,49698607,23,Principles for Fast Tokio Applications,213,52
+2026-09-15T09:58:25.952679+00:00,49686380,24,Ask HN: What are you working on? (September 2026),336,1030
+2026-09-15T09:58:25.952679+00:00,49709129,25,The k-server conjecture is true,4,0
+2026-09-15T09:58:25.952679+00:00,49696453,26,People who can't picture anything are rewriting the science of imagination,169,243
+2026-09-15T09:58:25.952679+00:00,49661104,27,Synthesizing Loop-Free Programs with Rust and Z3 (2020),14,0
+2026-09-15T09:58:25.952679+00:00,49700661,28,Steam Frame starts at $1059,674,512
+2026-09-15T09:58:25.952679+00:00,49701182,29,Backprop Alternative: Augmented Lagrangian Predictive Coding,95,34
+2026-09-15T09:58:25.952679+00:00,49699489,30,How my e-reader lost its stripes,212,40
+2026-09-15T09:58:25.952679+00:00,49697893,31,"Dario, Please",541,257
+2026-09-15T09:58:25.952679+00:00,49670699,32,Optimizing a Spin-Lock,69,33
+2026-09-15T09:58:25.952679+00:00,49700255,33,Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%,112,32
+2026-09-15T09:58:25.952679+00:00,49699648,34,Why don't machine learning research agents overfit?,130,71
+2026-09-15T09:58:25.952679+00:00,49697014,35,Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama,133,71
+2026-09-15T09:58:25.952679+00:00,49706223,36,"Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",169,106
+2026-09-15T09:58:25.952679+00:00,49704008,37,Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit,207,202
+2026-09-15T09:58:25.952679+00:00,49690174,38,Apple's Dimensional Drawings,390,128
+2026-09-15T09:58:25.952679+00:00,49688695,39,"Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",1188,560
+2026-09-15T09:58:25.952679+00:00,49638510,40,Spaceships (Reverse Asteroid),367,69
+2026-09-15T09:58:25.952679+00:00,49638555,41,Trying to Make a Loop Auto-Vectorize,81,19
+2026-09-15T09:58:25.952679+00:00,49693613,42,A 386 PC for Your RP2350,211,79
+2026-09-15T09:58:25.952679+00:00,49696402,43,Show HN: Pelican-bicycle alternatives,120,44
+2026-09-15T09:58:25.952679+00:00,49699267,44,"Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",81,28
+2026-09-15T09:58:25.952679+00:00,49697094,45,Adversarial Fashion Makes a Statement on AI Panopticon,102,46
+2026-09-15T09:58:25.952679+00:00,49703003,46,GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?,147,132
+2026-09-15T09:58:25.952679+00:00,49699297,47,"Microsoft patches Windows and Excel – breaks audio, remote access, and paste",243,155
+2026-09-15T09:58:25.952679+00:00,49699134,48,Truncated SVD (2023),49,8
+2026-09-15T09:58:25.952679+00:00,49690084,49,The biggest dinosaurs couldn't sit on their eggs,42,15
+2026-09-15T09:58:25.952679+00:00,49693690,50,"When code is a maze, smart developers make maps (2025)",35,43
