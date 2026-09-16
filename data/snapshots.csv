@@ -48580,3 +48580,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-16T18:06:46.947982+00:00,49717280,48,Learning to solve hard problems in RL for LLMs by never giving up,111,8
 2026-09-16T18:06:46.947982+00:00,49717605,49,"WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",173,61
 2026-09-16T18:06:46.947982+00:00,49689062,50,Douglas Adams and the exterminated Doctor Who adventure,62,54
+2026-09-16T22:02:09.010238+00:00,49731285,1,Training a 4B model to produce 81% faster query plans than Postgres,251,43
+2026-09-16T22:02:09.010238+00:00,49732931,2,Breaking the 1.58-bit Barrier for Ternary LLMs,50,0
+2026-09-16T22:02:09.010238+00:00,49732270,3,Xiaomi Mimo 2.6 live post-training dashboard,126,38
+2026-09-16T22:02:09.010238+00:00,49729000,4,Small programming tricks,313,158
+2026-09-16T22:02:09.010238+00:00,49732036,5,macOS 27 Golden Gate – Review,71,59
+2026-09-16T22:02:09.010238+00:00,49719249,6,AWS says it can't restore some data from mideast facilities struck by Iran,94,50
+2026-09-16T22:02:09.010238+00:00,49674451,7,Reversing Factorio's RNG,68,8
+2026-09-16T22:02:09.010238+00:00,49731360,8,Accurate Models of AMD Matrix Cores,45,5
+2026-09-16T22:02:09.010238+00:00,49711424,9,Performance Improvements in .NET 11,79,3
+2026-09-16T22:02:09.010238+00:00,49731620,10,How good are frontier models at physics?,41,14
+2026-09-16T22:02:09.010238+00:00,49731054,11,Vectorized and performance-portable Quicksort (2022),156,24
+2026-09-16T22:02:09.010238+00:00,49727592,12,Anatomy of a Texture,55,10
+2026-09-16T22:02:09.010238+00:00,49726955,13,Dream-RSI: Recursive Self-Improvement through Evolving Worlds,168,48
+2026-09-16T22:02:09.010238+00:00,49677916,14,Japan's book scene is moving from bookstores to libraries,46,6
+2026-09-16T22:02:09.010238+00:00,49723408,15,"Mistral X Mozilla: Private, Multilingual AI Browsing",498,177
+2026-09-16T22:02:09.010238+00:00,49711544,16,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,2016,235
+2026-09-16T22:02:09.010238+00:00,49692844,17,"Anecdotally, programmers dislike ""reduce""",45,81
+2026-09-16T22:02:09.010238+00:00,49717298,18,The Siberian Ice Maiden and the Scythian World,41,3
+2026-09-16T22:02:09.010238+00:00,49660791,19,WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL,23,4
+2026-09-16T22:02:09.010238+00:00,49729816,20,Training Text-to-Image Models 3.6× Faster,14,1
+2026-09-16T22:02:09.010238+00:00,49710903,21,Tell the speakers that you liked their talks,256,72
+2026-09-16T22:02:09.010238+00:00,49727659,22,The DeepMind Institute,108,35
+2026-09-16T22:02:09.010238+00:00,49710968,23,Show HN: Restarted – a 2026 remake of the classic 2015 startup generator,13,2
+2026-09-16T22:02:09.010238+00:00,49699477,24,Show HN: AttaLambda: a language where types and data are made of untyped lambdas,27,0
+2026-09-16T22:02:09.010238+00:00,49727580,25,A warning about 'model welfare',168,443
+2026-09-16T22:02:09.010238+00:00,49731282,27,Reverse-engineered Jev-like model,19,4
+2026-09-16T22:02:09.010238+00:00,49712185,28,How big are factorials?,73,30
+2026-09-16T22:02:09.010238+00:00,49729412,29,Claude Cowork and chat are now one Claude,187,194
+2026-09-16T22:02:09.010238+00:00,49689062,30,Douglas Adams and the exterminated Doctor Who adventure,70,67
+2026-09-16T22:02:09.010238+00:00,49728536,31,Autism is genetic – and why this information matters now,27,4
+2026-09-16T22:02:09.010238+00:00,49724927,32,The Google Play app review process now regularly takes longer than a week,330,319
+2026-09-16T22:02:09.010238+00:00,49726586,33,Hackers Got Inside a Flock Camera,396,193
+2026-09-16T22:02:09.010238+00:00,49710420,34,Randomized query complexity can beat certificate complexity,4,0
+2026-09-16T22:02:09.010238+00:00,49731235,35,Berlin-based Langdock moves its parent company from the US to Germany,46,15
+2026-09-16T22:02:09.010238+00:00,49726343,36,Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models,66,44
+2026-09-16T22:02:09.010238+00:00,49724488,37,Salesforce Global Outage,256,166
+2026-09-16T22:02:09.010238+00:00,49717558,38,Introducing System One Models and Jev,1776,472
+2026-09-16T22:02:09.010238+00:00,49726350,39,Scaling Golang CI by Replacing actions/setup-go,63,20
+2026-09-16T22:02:09.010238+00:00,49728781,40,Show HN: SeasonMap – when to travel where? visualized with climate data,8,8
+2026-09-16T22:02:09.010238+00:00,49728733,41,Can we stop with the uptime percentages?,125,96
+2026-09-16T22:02:09.010238+00:00,49705944,42,Doing Everyone Else's Job,192,90
+2026-09-16T22:02:09.010238+00:00,49725356,43,Original Sony PlayStation 2 security chip 'broken wide open' after 26 years,252,70
+2026-09-16T22:02:09.010238+00:00,49731216,44,Tell HN: An inside view of Montana's new biotech law,30,13
+2026-09-16T22:02:09.010238+00:00,49694035,45,Intelligence per Watt: Measuring Intelligence Efficiency of Local AI,156,54
+2026-09-16T22:02:09.010238+00:00,49730239,46,ER visits for gambling disorders doubled after expanded online gambling market,135,124
+2026-09-16T22:02:09.010238+00:00,49729228,47,This Code Is CRAP (2011),71,52
+2026-09-16T22:02:09.010238+00:00,49731395,48,A coffee shop owner used AI to make a menu poster. Then came the angry DMs,52,200
+2026-09-16T22:02:09.010238+00:00,49730929,49,"An agent fleet needs a new kind of OS, not a bigger harness",7,3
+2026-09-16T22:02:09.010238+00:00,49710201,50,Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling,27,13
