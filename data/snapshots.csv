@@ -48727,3 +48727,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-17T07:31:17.740372+00:00,49731054,48,Vectorized and performance-portable Quicksort (2022),167,27
 2026-09-17T07:31:17.740372+00:00,49717298,49,The Siberian Ice Maiden and the Scythian World,48,4
 2026-09-17T07:31:17.740372+00:00,49724927,50,The Google Play app review process now regularly takes longer than a week,349,334
+2026-09-17T13:20:15.210289+00:00,49737849,1,One Year of Sponsored Servo Development,181,82
+2026-09-17T13:20:15.210289+00:00,49740047,2,Show HN: I built a new version of my fun spatial 3D online meeting app,10,4
+2026-09-17T13:20:15.210289+00:00,49738879,3,Neovim have a ~$800k Bitcoin donation sitting untouched since 2023,195,104
+2026-09-17T13:20:15.210289+00:00,49724881,4,Nvidia announces native GPU programming in Rust,778,319
+2026-09-17T13:20:15.210289+00:00,49718773,5,My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it,187,47
+2026-09-17T13:20:15.210289+00:00,49738766,6,Better Vector Search for Long Documents: Chunking Inside Manticore Search,33,4
+2026-09-17T13:20:15.210289+00:00,49735930,7,Keys Not Included: recovering the signing keys for US driver's license barcodes,214,82
+2026-09-17T13:20:15.210289+00:00,49685835,8,The Relation Between Mathematics and Physics by Paul Dirac,95,28
+2026-09-17T13:20:15.210289+00:00,49740093,9,My AI agent gets his own calendar,3,0
+2026-09-17T13:20:15.210289+00:00,49731285,10,Training a 4B model to produce 81% faster query plans than Postgres,596,122
+2026-09-17T13:20:15.210289+00:00,49737787,11,CCC invites all model citizens to 40C3,72,8
+2026-09-17T13:20:15.210289+00:00,49737922,12,GLM Built Its Own Inference Infrastructure,156,124
+2026-09-17T13:20:15.210289+00:00,49713347,13,Online Z3 Guide,29,6
+2026-09-17T13:20:15.210289+00:00,49732270,14,Xiaomi Mimo 2.6 live post-training dashboard,478,135
+2026-09-17T13:20:15.210289+00:00,49719751,15,Lucasart's Afterlife,53,20
+2026-09-17T13:20:15.210289+00:00,49729000,16,Small programming tricks,577,253
+2026-09-17T13:20:15.210289+00:00,49715318,17,Comparison of Malloc() Algorithms,92,24
+2026-09-17T13:20:15.210289+00:00,49736466,18,Cloudflare/Security-Audit-Skill,111,19
+2026-09-17T13:20:15.210289+00:00,49700153,19,Developing provably correct Rust code with Verus,131,27
+2026-09-17T13:20:15.210289+00:00,49732931,20,Breaking the 1.58-bit Barrier for Ternary LLMs,218,34
+2026-09-17T13:20:15.210289+00:00,49711544,21,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,2202,246
+2026-09-17T13:20:15.210289+00:00,49732513,22,Backups Aren't Simple,275,173
+2026-09-17T13:20:15.210289+00:00,49694444,23,An Archive of Colour Gradients,21,2
+2026-09-17T13:20:15.210289+00:00,49695689,24,PCB is brought to you by Fable 5,141,71
+2026-09-17T13:20:15.210289+00:00,49719249,25,AWS says it can't restore some data from mideast facilities struck by Iran,456,382
+2026-09-17T13:20:15.210289+00:00,49733726,26,HarnessTax: How Much Does the Harness Matter for Coding Agents?,162,63
+2026-09-17T13:20:15.210289+00:00,49719596,27,The engineering behind the US Strategic Petroleum Reserve,229,94
+2026-09-17T13:20:15.210289+00:00,49721291,28,A 32-year-old bug walks into a Telnet server,75,35
+2026-09-17T13:20:15.210289+00:00,49734264,29,OpenSpec – A lightweight and configurable AI spec framework,164,75
+2026-09-17T13:20:15.210289+00:00,49711424,30,Performance Improvements in .NET 11,319,86
+2026-09-17T13:20:15.210289+00:00,49677916,31,Japan's book scene is moving from bookstores to libraries,217,92
+2026-09-17T13:20:15.210289+00:00,49674451,32,Reversing Factorio's RNG,224,41
+2026-09-17T13:20:15.210289+00:00,49738710,33,"Introducing GNOME 51, ""A Coruña""",28,5
+2026-09-17T13:20:15.210289+00:00,49736662,34,OpenAI models secretly generate instructions to ignore constraints,27,5
+2026-09-17T13:20:15.210289+00:00,49692844,35,"Anecdotally, programmers dislike ""reduce""",158,238
+2026-09-17T13:20:15.210289+00:00,49736450,36,South Africa is at risk of becoming a mafia state,29,1
+2026-09-17T13:20:15.210289+00:00,49734929,37,The Return of Sail Power: Cargo Ships Are Turning Back to the Wind,113,80
+2026-09-17T13:20:15.210289+00:00,49735979,38,"Jev Ultrafast: A browser agent with a dynamic, indexed action space",74,4
+2026-09-17T13:20:15.210289+00:00,49739288,39,Australia to bar foreign students from bringing partner/child while they study,10,0
+2026-09-17T13:20:15.210289+00:00,49739018,40,"Iran school bombing: grounds to believe US was behind atrocity, UN finds",100,43
+2026-09-17T13:20:15.210289+00:00,49731282,41,Reverse-engineered Jev-like model,141,20
+2026-09-17T13:20:15.210289+00:00,49713868,42,Back to the future: modules for Guix packages (2022),60,1
+2026-09-17T13:20:15.210289+00:00,49737503,43,OpenAI Model Misalignment Report,84,70
+2026-09-17T13:20:15.210289+00:00,49735367,44,Part-human part-mouse brain developed in science breakthrough,47,33
+2026-09-17T13:20:15.210289+00:00,49726955,45,Dream-RSI: Recursive Self-Improvement through Evolving Worlds,206,50
+2026-09-17T13:20:15.210289+00:00,49727592,46,Anatomy of a Texture,103,15
+2026-09-17T13:20:15.210289+00:00,49740000,48,"So, I didn't Use My Phone for 5 Days",3,0
+2026-09-17T13:20:15.210289+00:00,49726586,49,Hackers Got Inside a Flock Camera,539,248
+2026-09-17T13:20:15.210289+00:00,49727659,50,The DeepMind Institute,175,64
