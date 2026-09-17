@@ -48825,3 +48825,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-17T18:06:51.039328+00:00,49734264,48,OpenSpec – A lightweight and configurable AI spec framework,183,90
 2026-09-17T18:06:51.039328+00:00,49721291,49,A 32-year-old bug walks into a Telnet server,99,43
 2026-09-17T18:06:51.039328+00:00,49674451,50,Reversing Factorio's RNG,236,42
+2026-09-17T22:02:30.960891+00:00,49745940,1,Astra for Law,158,144
+2026-09-17T22:02:30.960891+00:00,49746163,2,Bend – A language that blocks AI mistakes via proof and runs on GPUs,144,62
+2026-09-17T22:02:30.960891+00:00,49746986,3,I Hate You Microsoft,49,12
+2026-09-17T22:02:30.960891+00:00,49746618,4,Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint,32,9
+2026-09-17T22:02:30.960891+00:00,49743097,5,Hister: A private search engine for the pages you visit and the files you keep,356,114
+2026-09-17T22:02:30.960891+00:00,49726007,6,Wax motor,138,28
+2026-09-17T22:02:30.960891+00:00,49715813,7,Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA,464,168
+2026-09-17T22:02:30.960891+00:00,49745570,8,Everybody's Lost Their Minds,209,107
+2026-09-17T22:02:30.960891+00:00,49742355,9,CrowdSec Source Code Leak,110,32
+2026-09-17T22:02:30.960891+00:00,49743483,10,Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data,84,25
+2026-09-17T22:02:30.960891+00:00,49742353,11,Rate limits on GitLab.com are changing,131,101
+2026-09-17T22:02:30.960891+00:00,49743527,12,Towards Self-Driving Codebases,84,70
+2026-09-17T22:02:30.960891+00:00,49714096,13,TSMC revealing details about next gen A14 node,67,23
+2026-09-17T22:02:30.960891+00:00,49740260,14,The American Religion of Self-Storage Facilities,159,273
+2026-09-17T22:02:30.960891+00:00,49738091,15,Why I didn’t sign the Fields medallists’ letter,179,232
+2026-09-17T22:02:30.960891+00:00,49737922,17,How GLM built its own inference infrastructure,343,252
+2026-09-17T22:02:30.960891+00:00,49671157,18,André Weil and the Hodge Conjecture,23,7
+2026-09-17T22:02:30.960891+00:00,49746290,19,Flet 1.0 – Build cross-platform apps in Python,6,2
+2026-09-17T22:02:30.960891+00:00,49704503,20,Running Ubuntu on the Lenovo IdeaPad Duet,56,15
+2026-09-17T22:02:30.960891+00:00,49711931,21,GraphViz Pocket Reference – Make a Graph,6,0
+2026-09-17T22:02:30.960891+00:00,49715936,22,How do we prevent mathemathics from devolving into the Medieval Era of secrecy?,43,23
+2026-09-17T22:02:30.960891+00:00,49737849,23,One year of sponsored Servo development,335,136
+2026-09-17T22:02:30.960891+00:00,49744715,24,Canto: A speech model built for the real world,20,9
+2026-09-17T22:02:30.960891+00:00,49737787,25,CCC invites all model citizens to 40C3,309,171
+2026-09-17T22:02:30.960891+00:00,49746407,26,The most important product decision is what you don't build,5,3
+2026-09-17T22:02:30.960891+00:00,49743049,27,Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents,33,42
+2026-09-17T22:02:30.960891+00:00,49740105,28,"Show HN: Share your AI Setup, Learn from others",155,79
+2026-09-17T22:02:30.960891+00:00,49734929,29,The Return of Sail Power: Cargo Ships Are Turning Back to the Wind,170,119
+2026-09-17T22:02:30.960891+00:00,49743691,30,T. Rex Had a Body Temperature of 97 Degrees,49,82
+2026-09-17T22:02:30.960891+00:00,49714196,31,Grand MS-DOS Gaming General MIDI Showdown,75,10
+2026-09-17T22:02:30.960891+00:00,49746654,32,"Sex, AI, and the Apocalypse",6,1
+2026-09-17T22:02:30.960891+00:00,49746628,33,How Uber Protects Against Retry Storms,3,0
+2026-09-17T22:02:30.960891+00:00,49744530,34,Don't Make Job Referrals Public,26,12
+2026-09-17T22:02:30.960891+00:00,49742439,35,Vinix – A modern operating system written in V,83,56
+2026-09-17T22:02:30.960891+00:00,49742437,36,LLM Classification Is Feature Engineering,82,17
+2026-09-17T22:02:30.960891+00:00,49718773,37,My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it,316,96
+2026-09-17T22:02:30.960891+00:00,49706708,38,Vibe Coding is the new Internet Dating?,49,87
+2026-09-17T22:02:30.960891+00:00,49743459,39,"Show HN: Craigslist for agent skills, curated by a human",19,16
+2026-09-17T22:02:30.960891+00:00,49746809,40,Eric S. Raymond – This is the case against AI Doom – pass it on,9,0
+2026-09-17T22:02:30.960891+00:00,49745266,41,Don't Just Say Hello,57,36
+2026-09-17T22:02:30.960891+00:00,49746371,42,"Computer Reset, Dallas",5,0
+2026-09-17T22:02:30.960891+00:00,49746362,43,Who Are We Now?,4,0
+2026-09-17T22:02:30.960891+00:00,49746346,44,"Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",4,0
+2026-09-17T22:02:30.960891+00:00,49746203,45,Bend 2 Is Here,7,2
+2026-09-17T22:02:30.960891+00:00,49746184,46,The Harness Margin Opportunity,5,0
+2026-09-17T22:02:30.960891+00:00,49746155,47,Abusing ID3 chapters to turn videos into glanceable podcasts,3,0
+2026-09-17T22:02:30.960891+00:00,49742714,48,Whoisinspace.com/,120,70
+2026-09-17T22:02:30.960891+00:00,49746075,49,A Netflix documentary led to resurrecting a 9/11 memorial,4,0
+2026-09-17T22:02:30.960891+00:00,49707643,50,Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo,39,8
