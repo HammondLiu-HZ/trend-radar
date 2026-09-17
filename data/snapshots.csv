@@ -48678,3 +48678,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-17T01:16:38.022332+00:00,49735049,48,What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI,5,0
 2026-09-17T01:16:38.022332+00:00,49723408,49,"Mistral X Mozilla: Private, Multilingual AI Browsing",536,186
 2026-09-17T01:16:38.022332+00:00,49724488,50,Salesforce Global Outage,264,166
+2026-09-17T07:31:17.740372+00:00,49735930,1,Keys Not Included: recovering the signing keys for US driver's license barcodes,136,47
+2026-09-17T07:31:17.740372+00:00,49724881,2,Nvidia announces native GPU programming in Rust,582,216
+2026-09-17T07:31:17.740372+00:00,49718773,3,My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it,49,7
+2026-09-17T07:31:17.740372+00:00,49731285,4,Training a 4B model to produce 81% faster query plans than Postgres,514,107
+2026-09-17T07:31:17.740372+00:00,49715318,5,Comparison of Malloc() Algorithms,41,2
+2026-09-17T07:31:17.740372+00:00,49732270,6,Xiaomi Mimo 2.6 live post-training dashboard,409,100
+2026-09-17T07:31:17.740372+00:00,49732513,7,Backups Aren't Simple,205,112
+2026-09-17T07:31:17.740372+00:00,49700153,8,Developing provably correct Rust code with Verus,95,12
+2026-09-17T07:31:17.740372+00:00,49729000,9,Small programming tricks,496,217
+2026-09-17T07:31:17.740372+00:00,49721291,10,A 32-year-old bug walks into a Telnet server,45,15
+2026-09-17T07:31:17.740372+00:00,49732931,11,Breaking the 1.58-bit Barrier for Ternary LLMs,192,29
+2026-09-17T07:31:17.740372+00:00,49719596,12,The engineering behind the US Strategic Petroleum Reserve,183,71
+2026-09-17T07:31:17.740372+00:00,49734929,13,The Return of Sail Power: Cargo Ships Are Turning Back to the Wind,79,40
+2026-09-17T07:31:17.740372+00:00,49734264,14,OpenSpec – A lightweight and configurable AI spec framework,129,51
+2026-09-17T07:31:17.740372+00:00,49685835,15,The Relation Between Mathematics and Physics by Paul Dirac,5,1
+2026-09-17T07:31:17.740372+00:00,49719249,16,AWS says it can't restore some data from mideast facilities struck by Iran,358,300
+2026-09-17T07:31:17.740372+00:00,49711424,17,Performance Improvements in .NET 11,270,50
+2026-09-17T07:31:17.740372+00:00,49733726,18,HarnessTax: How Much Does the Harness Matter for Coding Agents?,107,38
+2026-09-17T07:31:17.740372+00:00,49711544,19,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,2143,243
+2026-09-17T07:31:17.740372+00:00,49695689,20,PCB is brought to you by Fable 5,77,32
+2026-09-17T07:31:17.740372+00:00,49674451,21,Reversing Factorio's RNG,195,24
+2026-09-17T07:31:17.740372+00:00,49677916,22,Japan's book scene is moving from bookstores to libraries,172,72
+2026-09-17T07:31:17.740372+00:00,49736466,23,Cloudflare/Security-Audit-Skill,18,4
+2026-09-17T07:31:17.740372+00:00,49735367,24,Part-human part-mouse brain developed in science breakthrough,29,22
+2026-09-17T07:31:17.740372+00:00,49734409,25,US interest rates raised for first time in three years,33,4
+2026-09-17T07:31:17.740372+00:00,49735979,26,"Jev Ultrafast: A browser agent with a dynamic, indexed action space",32,2
+2026-09-17T07:31:17.740372+00:00,49692844,27,"Anecdotally, programmers dislike ""reduce""",140,216
+2026-09-17T07:31:17.740372+00:00,49731282,28,Reverse-engineered Jev-like model,115,16
+2026-09-17T07:31:17.740372+00:00,49726955,29,Dream-RSI: Recursive Self-Improvement through Evolving Worlds,197,49
+2026-09-17T07:31:17.740372+00:00,49735692,30,"Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",65,22
+2026-09-17T07:31:17.740372+00:00,49727592,31,Anatomy of a Texture,90,15
+2026-09-17T07:31:17.740372+00:00,49726586,32,Hackers Got Inside a Flock Camera,520,236
+2026-09-17T07:31:17.740372+00:00,49727659,33,The DeepMind Institute,167,59
+2026-09-17T07:31:17.740372+00:00,49735410,34,DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression,111,8
+2026-09-17T07:31:17.740372+00:00,49717525,35,Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps,14,3
+2026-09-17T07:31:17.740372+00:00,49731360,36,Accurate Models of AMD Matrix Cores,71,9
+2026-09-17T07:31:17.740372+00:00,49729816,37,Training Text-to-Image Models 3.6× Faster,50,10
+2026-09-17T07:31:17.740372+00:00,49710903,38,Tell the speakers that you liked their talks,287,79
+2026-09-17T07:31:17.740372+00:00,49660791,39,WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL,51,7
+2026-09-17T07:31:17.740372+00:00,49717558,40,Introducing System One Models and Jev,1813,478
+2026-09-17T07:31:17.740372+00:00,49728536,41,Autism is genetic – and why this information matters now,77,65
+2026-09-17T07:31:17.740372+00:00,49689062,42,Douglas Adams and the exterminated Doctor Who adventure,76,79
+2026-09-17T07:31:17.740372+00:00,49731620,43,How good are frontier models at physics?,90,46
+2026-09-17T07:31:17.740372+00:00,49727580,45,A warning about 'model welfare',213,589
+2026-09-17T07:31:17.740372+00:00,49712185,46,How big are factorials?,85,39
+2026-09-17T07:31:17.740372+00:00,49699477,47,Show HN: AttaLambda: a language where types and data are made of untyped lambdas,40,4
+2026-09-17T07:31:17.740372+00:00,49731054,48,Vectorized and performance-portable Quicksort (2022),167,27
+2026-09-17T07:31:17.740372+00:00,49717298,49,The Siberian Ice Maiden and the Scythian World,48,4
+2026-09-17T07:31:17.740372+00:00,49724927,50,The Google Play app review process now regularly takes longer than a week,349,334
