@@ -48629,3 +48629,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-16T22:02:09.010238+00:00,49731395,48,A coffee shop owner used AI to make a menu poster. Then came the angry DMs,52,200
 2026-09-16T22:02:09.010238+00:00,49730929,49,"An agent fleet needs a new kind of OS, not a bigger harness",7,3
 2026-09-16T22:02:09.010238+00:00,49710201,50,Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling,27,13
+2026-09-17T01:16:38.022332+00:00,49724881,1,Nvidia announces native GPU programming in Rust,235,82
+2026-09-17T01:16:38.022332+00:00,49731285,2,Training a 4B model to produce 81% faster query plans than Postgres,387,81
+2026-09-17T01:16:38.022332+00:00,49732931,3,Breaking the 1.58-bit Barrier for Ternary LLMs,136,15
+2026-09-17T01:16:38.022332+00:00,49732270,4,Xiaomi Mimo 2.6 live post-training dashboard,242,60
+2026-09-17T01:16:38.022332+00:00,49732513,5,Backups Aren't Simple,72,26
+2026-09-17T01:16:38.022332+00:00,49729000,6,Small programming tricks,390,181
+2026-09-17T01:16:38.022332+00:00,49734264,7,OpenSpec – A lightweight and configurable AI spec framework,56,15
+2026-09-17T01:16:38.022332+00:00,49719596,8,The engineering behind the US Strategic Petroleum Reserve,88,27
+2026-09-17T01:16:38.022332+00:00,49674451,9,Reversing Factorio's RNG,141,16
+2026-09-17T01:16:38.022332+00:00,49711424,10,Performance Improvements in .NET 11,154,31
+2026-09-17T01:16:38.022332+00:00,49733726,11,HarnessTax: How Much Does the Harness Matter for Coding Agents?,25,3
+2026-09-17T01:16:38.022332+00:00,49734171,12,Australia says it could follow Canada in forging deeper ties with EU,113,65
+2026-09-17T01:16:38.022332+00:00,49731282,13,Reverse-engineered Jev-like model,72,9
+2026-09-17T01:16:38.022332+00:00,49719249,14,AWS says it can't restore some data from mideast facilities struck by Iran,223,190
+2026-09-17T01:16:38.022332+00:00,49677916,15,Japan's book scene is moving from bookstores to libraries,102,39
+2026-09-17T01:16:38.022332+00:00,49711544,16,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,2075,239
+2026-09-17T01:16:38.022332+00:00,49732087,17,Why Does the Universe Expand?,22,10
+2026-09-17T01:16:38.022332+00:00,49731620,18,How good are frontier models at physics?,80,36
+2026-09-17T01:16:38.022332+00:00,49692844,19,"Anecdotally, programmers dislike ""reduce""",90,150
+2026-09-17T01:16:38.022332+00:00,49727592,20,Anatomy of a Texture,73,12
+2026-09-17T01:16:38.022332+00:00,49726955,21,Dream-RSI: Recursive Self-Improvement through Evolving Worlds,180,49
+2026-09-17T01:16:38.022332+00:00,49731360,22,Accurate Models of AMD Matrix Cores,59,7
+2026-09-17T01:16:38.022332+00:00,49700598,23,"Destroy After Reading: photocopiers,cheap paper and DIY gave metal it's look",15,3
+2026-09-17T01:16:38.022332+00:00,49726501,24,I replaced my brown-noise browser tab with a menu bar app,19,7
+2026-09-17T01:16:38.022332+00:00,49729816,25,Training Text-to-Image Models 3.6× Faster,34,7
+2026-09-17T01:16:38.022332+00:00,49726586,26,Hackers Got Inside a Flock Camera,464,217
+2026-09-17T01:16:38.022332+00:00,49727659,27,The DeepMind Institute,140,43
+2026-09-17T01:16:38.022332+00:00,49731054,28,Vectorized and performance-portable Quicksort (2022),162,27
+2026-09-17T01:16:38.022332+00:00,49710903,29,Tell the speakers that you liked their talks,272,75
+2026-09-17T01:16:38.022332+00:00,49660791,30,WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL,39,5
+2026-09-17T01:16:38.022332+00:00,49721907,32,William Buckland's Theology of Geology,4,0
+2026-09-17T01:16:38.022332+00:00,49728536,33,Autism is genetic – and why this information matters now,49,33
+2026-09-17T01:16:38.022332+00:00,49735180,34,OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior,6,1
+2026-09-17T01:16:38.022332+00:00,49717298,35,The Siberian Ice Maiden and the Scythian World,45,4
+2026-09-17T01:16:38.022332+00:00,49699477,36,Show HN: AttaLambda: a language where types and data are made of untyped lambdas,35,2
+2026-09-17T01:16:38.022332+00:00,49727580,37,A warning about 'model welfare',198,530
+2026-09-17T01:16:38.022332+00:00,49689062,38,Douglas Adams and the exterminated Doctor Who adventure,72,73
+2026-09-17T01:16:38.022332+00:00,49734724,39,Paramount 'Leaks' Study Saying California Will Suffer If Its Merger Is Blocked,12,1
+2026-09-17T01:16:38.022332+00:00,49712185,40,How big are factorials?,82,39
+2026-09-17T01:16:38.022332+00:00,49733435,41,Common Crawl Data Stored on a Hugging Face Bucket,8,0
+2026-09-17T01:16:38.022332+00:00,49710968,42,Show HN: Restarted – a 2026 remake of the classic 2015 startup generator,17,4
+2026-09-17T01:16:38.022332+00:00,49734970,43,OpenAI discloses six new AI safety incidents,9,1
+2026-09-17T01:16:38.022332+00:00,49724927,44,The Google Play app review process now regularly takes longer than a week,341,330
+2026-09-17T01:16:38.022332+00:00,49717558,45,Introducing System One Models and Jev,1791,474
+2026-09-17T01:16:38.022332+00:00,49729412,46,Claude Cowork and chat are now one Claude,202,206
+2026-09-17T01:16:38.022332+00:00,49733526,47,Write Linters and Tools Before Code,5,0
+2026-09-17T01:16:38.022332+00:00,49735049,48,What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI,5,0
+2026-09-17T01:16:38.022332+00:00,49723408,49,"Mistral X Mozilla: Private, Multilingual AI Browsing",536,186
+2026-09-17T01:16:38.022332+00:00,49724488,50,Salesforce Global Outage,264,166
