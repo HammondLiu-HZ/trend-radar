@@ -48776,3 +48776,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-17T13:20:15.210289+00:00,49740000,48,"So, I didn't Use My Phone for 5 Days",3,0
 2026-09-17T13:20:15.210289+00:00,49726586,49,Hackers Got Inside a Flock Camera,539,248
 2026-09-17T13:20:15.210289+00:00,49727659,50,The DeepMind Institute,175,64
+2026-09-17T18:06:51.039328+00:00,49715813,1,Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA,351,133
+2026-09-17T18:06:51.039328+00:00,49743097,2,hister,73,18
+2026-09-17T18:06:51.039328+00:00,49742353,3,Rate limits on GitLab.com are changing,83,73
+2026-09-17T18:06:51.039328+00:00,49742355,4,CrowdSec Source Code Leak,47,23
+2026-09-17T18:06:51.039328+00:00,49742714,5,Whoisinspace.com/,80,32
+2026-09-17T18:06:51.039328+00:00,49743049,6,Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents,14,5
+2026-09-17T18:06:51.039328+00:00,49742437,7,LLM Classification Is Feature Engineering,48,11
+2026-09-17T18:06:51.039328+00:00,49737922,9,How GLM built its own inference infrastructure,273,221
+2026-09-17T18:06:51.039328+00:00,49738091,10,Why I didn’t sign the Fields medallists’ letter,89,139
+2026-09-17T18:06:51.039328+00:00,49743483,11,Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data,10,0
+2026-09-17T18:06:51.039328+00:00,49737849,12,One Year of Sponsored Servo Development,297,125
+2026-09-17T18:06:51.039328+00:00,49714196,13,Grand MS-DOS Gaming General MIDI Showdown,36,2
+2026-09-17T18:06:51.039328+00:00,49743382,14,"Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",12,5
+2026-09-17T18:06:51.039328+00:00,49740260,15,The American Religion of Self-Storage Facilities,85,138
+2026-09-17T18:06:51.039328+00:00,49742439,16,Vinix – A modern operating system written in V,44,28
+2026-09-17T18:06:51.039328+00:00,49737787,17,CCC invites all model citizens to 40C3,251,102
+2026-09-17T18:06:51.039328+00:00,49704503,18,Running Ubuntu on the Lenovo IdeaPad Duet,9,1
+2026-09-17T18:06:51.039328+00:00,49707643,19,Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo,24,4
+2026-09-17T18:06:51.039328+00:00,49734929,20,The Return of Sail Power: Cargo Ships Are Turning Back to the Wind,126,93
+2026-09-17T18:06:51.039328+00:00,49740105,21,"Show HN: Share your AI Setup, Learn from others",92,58
+2026-09-17T18:06:51.039328+00:00,49743685,22,Economic Policy for AGI,5,0
+2026-09-17T18:06:51.039328+00:00,49742021,23,Artificial intelligence now beats some of the best human forecasters,79,67
+2026-09-17T18:06:51.039328+00:00,49718773,24,My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it,286,80
+2026-09-17T18:06:51.039328+00:00,49742976,25,Ask HN: How to recover Google auth after phone stolen?,51,39
+2026-09-17T18:06:51.039328+00:00,49743527,26,Towards Self-Driving Codebases,5,1
+2026-09-17T18:06:51.039328+00:00,49743478,27,Show HN: AutoBot – live voice control for long-running AI work,6,0
+2026-09-17T18:06:51.039328+00:00,49740047,28,Show HN: I built a new version of my fun spatial 3D online meeting app,81,49
+2026-09-17T18:06:51.039328+00:00,49685835,29,The Relation Between Mathematics and Physics by Paul Dirac (1939),141,47
+2026-09-17T18:06:51.039328+00:00,49735930,30,Keys Not Included: recovering the signing keys for US driver's license barcodes,263,137
+2026-09-17T18:06:51.039328+00:00,49743756,31,"Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",15,2
+2026-09-17T18:06:51.039328+00:00,49743400,32,"Priest, Monk, and Mathematician",4,0
+2026-09-17T18:06:51.039328+00:00,49738766,33,Better Vector Search for Long Documents: Chunking Inside Manticore Search,72,11
+2026-09-17T18:06:51.039328+00:00,49719751,34,Lucasart's Afterlife,93,41
+2026-09-17T18:06:51.039328+00:00,49724881,35,Nvidia announces native GPU programming in Rust,900,356
+2026-09-17T18:06:51.039328+00:00,49711544,36,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,2255,253
+2026-09-17T18:06:51.039328+00:00,49736466,37,Cloudflare/Security-Audit-Skill,174,36
+2026-09-17T18:06:51.039328+00:00,49740834,38,I Don't Like LLMs,136,193
+2026-09-17T18:06:51.039328+00:00,49713347,39,Online Z3 Guide,58,15
+2026-09-17T18:06:51.039328+00:00,49715318,40,Comparison of Malloc() Algorithms,128,34
+2026-09-17T18:06:51.039328+00:00,49736662,41,OpenAI models secretly generate instructions to ignore constraints,79,22
+2026-09-17T18:06:51.039328+00:00,49737985,42,AI safety is mostly a sex cult,184,141
+2026-09-17T18:06:51.039328+00:00,49700153,43,Developing provably correct Rust code with Verus,149,56
+2026-09-17T18:06:51.039328+00:00,49742697,44,New evidence for hidden chambers beyond Tutankhamun's tomb,12,0
+2026-09-17T18:06:51.039328+00:00,49731285,45,Training a 4B model to produce 81% faster query plans than Postgres,655,131
+2026-09-17T18:06:51.039328+00:00,49737503,46,Our framework for reporting model misalignment,97,90
+2026-09-17T18:06:51.039328+00:00,49739018,47,"Iran school bombing: grounds to believe US was behind atrocity, UN finds",242,173
+2026-09-17T18:06:51.039328+00:00,49734264,48,OpenSpec – A lightweight and configurable AI spec framework,183,90
+2026-09-17T18:06:51.039328+00:00,49721291,49,A 32-year-old bug walks into a Telnet server,99,43
+2026-09-17T18:06:51.039328+00:00,49674451,50,Reversing Factorio's RNG,236,42
