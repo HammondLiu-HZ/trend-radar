@@ -49021,3 +49021,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-18T12:54:19.046296+00:00,49721122,48,Khipu (Quipu) Field Guide,19,0
 2026-09-18T12:54:19.046296+00:00,49740105,49,"Show HN: Share your AI Setup, Learn from others",220,121
 2026-09-18T12:54:19.046296+00:00,49749744,50,Code Scans,24,6
+2026-09-18T17:02:17.056213+00:00,49754785,1,Cloudflare Quick Tunnels,193,97
+2026-09-18T17:02:17.056213+00:00,49753878,2,An Empirical Study of Harness Design for Coding Agents,162,35
+2026-09-18T17:02:17.056213+00:00,49755160,3,North Korean nuclear test sets off years of earthquakes,76,60
+2026-09-18T17:02:17.056213+00:00,49755024,4,I vibed a proof of Conway's conjecture,95,86
+2026-09-18T17:02:17.056213+00:00,49746401,5,Show HN: Microsoft Office running with Wine on Linux with no virtualization,41,21
+2026-09-18T17:02:17.056213+00:00,49752041,6,OpenJev,379,201
+2026-09-18T17:02:17.056213+00:00,49746406,7,C++26: Trivial infinite loops are no longer undefined behaviour,48,83
+2026-09-18T17:02:17.056213+00:00,49748553,8,Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash,24,8
+2026-09-18T17:02:17.056213+00:00,49755095,9,Mathematicians Build Long-Awaited Graph Sandwich,25,3
+2026-09-18T17:02:17.056213+00:00,49749656,10,A heap overflow and SSO misconfiguration to compromise OpenAI internal repos,419,175
+2026-09-18T17:02:17.056213+00:00,49755431,11,GrassLobster: AI Agentic Generation of Parametric Geometry Workflows,19,3
+2026-09-18T17:02:17.056213+00:00,49753211,12,I don't like passkeys,503,483
+2026-09-18T17:02:17.056213+00:00,49721507,13,The Shadows Lurking in the Equations – Underwater Islands,45,9
+2026-09-18T17:02:17.056213+00:00,49754064,14,NATS publishes preliminary report on technical incident of 8 September,32,22
+2026-09-18T17:02:17.056213+00:00,49756171,15,US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments,62,29
+2026-09-18T17:02:17.056213+00:00,49750152,17,Jemalloc 5.4.0,286,70
+2026-09-18T17:02:17.056213+00:00,49750094,18,The scourge of x86 emulation,242,67
+2026-09-18T17:02:17.056213+00:00,49754823,19,BeanShell3 in Development,18,8
+2026-09-18T17:02:17.056213+00:00,49746618,20,Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint,538,174
+2026-09-18T17:02:17.056213+00:00,49752614,21,"Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",215,146
+2026-09-18T17:02:17.056213+00:00,49755337,22,Build Faster Feedback Loops Using Qualitative User Research,15,0
+2026-09-18T17:02:17.056213+00:00,49755590,23,AI is an elite crime spree,78,18
+2026-09-18T17:02:17.056213+00:00,49747925,24,Qwen 3.8 Omni Flash,303,114
+2026-09-18T17:02:17.056213+00:00,49748041,25,"Show HN: Scry, programmable internet search w/ congestion pricing",8,1
+2026-09-18T17:02:17.056213+00:00,49754687,26,Second Circuit Allows Government to Search Electronic Devices at the Border,62,31
+2026-09-18T17:02:17.056213+00:00,49755312,27,Show HN: Rickub – The Smartest Git in the Universe,22,14
+2026-09-18T17:02:17.056213+00:00,49752056,28,Microsoft exec called AI scraping 'the largest theft of labor in human history',708,608
+2026-09-18T17:02:17.056213+00:00,49747070,29,How to Write with an LLM,268,185
+2026-09-18T17:02:17.056213+00:00,49749771,30,Pre-Greek: The lost language hidden within Ancient Greek,138,59
+2026-09-18T17:02:17.056213+00:00,49754253,31,HEIF Heist: image parser RCE exploit,9,4
+2026-09-18T17:02:17.056213+00:00,49726614,32,When the fractional part of a float fixes your shader,90,16
+2026-09-18T17:02:17.056213+00:00,49742438,33,Rabbit Hole: Minimum L-seams,5,0
+2026-09-18T17:02:17.056213+00:00,49751222,34,New wild cat species discovered – with only one known living member,42,11
+2026-09-18T17:02:17.056213+00:00,49727245,35,Replacing Pull Requests with Delta,109,67
+2026-09-18T17:02:17.056213+00:00,49715408,36,Subnormal floating-point numbers are expensive on Intel processors,56,45
+2026-09-18T17:02:17.056213+00:00,49745940,37,Astra for Law,557,656
+2026-09-18T17:02:17.056213+00:00,49710447,38,"Diplodocus, Long Thought Exclusively American, Turns Up in Spain",91,54
+2026-09-18T17:02:17.056213+00:00,49749393,39,Shapelearn Qwen 3.8 27B (13.1 GB VRAM),95,35
+2026-09-18T17:02:17.056213+00:00,49711544,40,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,2308,255
+2026-09-18T17:02:17.056213+00:00,49746290,41,Flet 1.0 – Build cross-platform apps in Python,149,77
+2026-09-18T17:02:17.056213+00:00,49753179,42,Bend 2 and the Vibe-Coding Trap,284,213
+2026-09-18T17:02:17.056213+00:00,49748957,43,Telstra outage: The night a network decided the year was 2006,84,32
+2026-09-18T17:02:17.056213+00:00,49743097,44,Hister: A private search engine for the pages you visit and the files you keep,680,180
+2026-09-18T17:02:17.056213+00:00,49746407,45,The most important product decision is what you don't build,138,48
+2026-09-18T17:02:17.056213+00:00,49726007,46,Wax motor,493,95
+2026-09-18T17:02:17.056213+00:00,49749171,47,Ask A Monk – A digital wilderness for thoughts with no immediate answer,57,29
+2026-09-18T17:02:17.056213+00:00,49756250,48,Court shines a further light on who was at fault in SVB implosion,7,0
+2026-09-18T17:02:17.056213+00:00,49750694,49,Inside ZCode: Silently Uploading Your Git History to the Cloud,172,19
+2026-09-18T17:02:17.056213+00:00,49752422,50,"ZCode, the GLM coding agent, silently uploads your Git history",250,62
