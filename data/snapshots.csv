@@ -49070,3 +49070,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-18T17:02:17.056213+00:00,49756250,48,Court shines a further light on who was at fault in SVB implosion,7,0
 2026-09-18T17:02:17.056213+00:00,49750694,49,Inside ZCode: Silently Uploading Your Git History to the Cloud,172,19
 2026-09-18T17:02:17.056213+00:00,49752422,50,"ZCode, the GLM coding agent, silently uploads your Git history",250,62
+2026-09-18T20:48:07.078728+00:00,49759466,1,Korea raises data breach fines to 10% of revenue,84,20
+2026-09-18T20:48:07.078728+00:00,49758736,2,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,201,91
+2026-09-18T20:48:07.078728+00:00,49754785,3,Cloudflare Quick Tunnels,428,192
+2026-09-18T20:48:07.078728+00:00,49758580,4,Saving another 100TB of RAM with math (and Rust),76,9
+2026-09-18T20:48:07.078728+00:00,49758419,5,Apple releases iPhone Duo simulator and Xcode 27.1 beta,65,30
+2026-09-18T20:48:07.078728+00:00,49758615,6,Cache-to-Cache: Direct Semantic Communication Between Large Language Models,34,5
+2026-09-18T20:48:07.078728+00:00,49757050,7,Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug,116,35
+2026-09-18T20:48:07.078728+00:00,49748553,8,Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash,119,59
+2026-09-18T20:48:07.078728+00:00,49752041,9,OpenJev,486,233
+2026-09-18T20:48:07.078728+00:00,49758689,10,The Implications of Linguistic Illegibility for LLM Security,23,10
+2026-09-18T20:48:07.078728+00:00,49746406,11,C++26: Trivial infinite loops are no longer undefined behaviour,113,141
+2026-09-18T20:48:07.078728+00:00,49755533,12,Our brain evolved from two primitive nervous systems that merged: Study,63,37
+2026-09-18T20:48:07.078728+00:00,49744704,13,The first new cat species discovered in 100 years,61,17
+2026-09-18T20:48:07.078728+00:00,49758028,14,Border agents can search cellphones without a warrant or reasonable suspicion,113,70
+2026-09-18T20:48:07.078728+00:00,49755024,15,I vibed a proof of Conway's conjecture,171,163
+2026-09-18T20:48:07.078728+00:00,49746626,16,How SpaceX streamlined the Raptor engine,96,13
+2026-09-18T20:48:07.078728+00:00,49755160,17,North Korean nuclear test sets off years of earthquakes,153,135
+2026-09-18T20:48:07.078728+00:00,49750694,18,Inside ZCode: Silently uploading your Git history to the cloud,217,84
+2026-09-18T20:48:07.078728+00:00,49749369,19,Minimal Phone 2,109,104
+2026-09-18T20:48:07.078728+00:00,49744416,20,Show HN: Ax-check.com – Can agents use your product?,23,22
+2026-09-18T20:48:07.078728+00:00,49749724,21,Warez: The Infrastructure and Aesthetics of Piracy (2021),51,8
+2026-09-18T20:48:07.078728+00:00,49714157,22,A search-and-inference database from scratch in pure Zig,28,6
+2026-09-18T20:48:07.078728+00:00,49757520,23,US Military had close call after using AI for hallucinated intelligence report,277,224
+2026-09-18T20:48:07.078728+00:00,49747070,25,How to Write with an LLM,307,212
+2026-09-18T20:48:07.078728+00:00,49748041,26,"Show HN: Scry, programmable internet search w/ congestion pricing",32,15
+2026-09-18T20:48:07.078728+00:00,49740371,27,"""From Geometry to Algebra and Back Again: 4000 Years of Papers"" by Jack Rusher [video]",5,0
+2026-09-18T20:48:07.078728+00:00,49750152,28,Jemalloc 5.4.0,316,85
+2026-09-18T20:48:07.078728+00:00,49755095,29,Mathematicians Build Long-Awaited Graph Sandwich,52,16
+2026-09-18T20:48:07.078728+00:00,49750094,30,The scourge of x86 emulation,261,73
+2026-09-18T20:48:07.078728+00:00,49753211,31,I don't like passkeys,678,666
+2026-09-18T20:48:07.078728+00:00,49754064,32,NATS publishes preliminary report on technical incident of 8 September,43,24
+2026-09-18T20:48:07.078728+00:00,49758709,33,How did AMD Ryzen get 50% faster in two years?,22,2
+2026-09-18T20:48:07.078728+00:00,49759970,34,Senior Engineers Are the Next DRAM Shortage,4,0
+2026-09-18T20:48:07.078728+00:00,49752614,35,"Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",274,186
+2026-09-18T20:48:07.078728+00:00,49721507,36,The Shadows Lurking in the Equations – Underwater Islands,60,13
+2026-09-18T20:48:07.078728+00:00,49727245,37,Replacing Pull Requests with Delta,128,87
+2026-09-18T20:48:07.078728+00:00,49754250,38,AI chatbots are becoming experts at changing people's minds,71,91
+2026-09-18T20:48:07.078728+00:00,49755431,39,GrassLobster: AI Agentic Generation of Parametric Geometry Workflows,26,5
+2026-09-18T20:48:07.078728+00:00,49754823,40,BeanShell3 in Development,31,18
+2026-09-18T20:48:07.078728+00:00,49749771,41,Pre-Greek: The lost language hidden within Ancient Greek,162,65
+2026-09-18T20:48:07.078728+00:00,49753179,42,Bend 2 and the Vibe-Coding Trap,300,227
+2026-09-18T20:48:07.078728+00:00,49753878,43,An empirical study of harness design for coding agents,194,53
+2026-09-18T20:48:07.078728+00:00,49758250,44,Anthropic finally adds AGENTS.md support to Claude Code,32,4
+2026-09-18T20:48:07.078728+00:00,49754687,45,Second Circuit allows government to search electronic devices at the border,105,67
+2026-09-18T20:48:07.078728+00:00,49726614,46,When the fractional part of a float fixes your shader,98,18
+2026-09-18T20:48:07.078728+00:00,49749656,47,A heap overflow and SSO misconfiguration to compromise OpenAI internal repos,458,195
+2026-09-18T20:48:07.078728+00:00,49757883,48,Ctenophores Aren't Just Beautiful. They're Biological Wonders,7,1
+2026-09-18T20:48:07.078728+00:00,49752056,49,Microsoft exec called AI scraping 'the largest theft of labor in human history',818,715
+2026-09-18T20:48:07.078728+00:00,49757757,50,Show HN: Jeff – A read-only CLI for semantic code review using Jev,4,0
