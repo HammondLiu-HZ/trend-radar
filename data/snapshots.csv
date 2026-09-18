@@ -49119,3 +49119,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-18T20:48:07.078728+00:00,49757883,48,Ctenophores Aren't Just Beautiful. They're Biological Wonders,7,1
 2026-09-18T20:48:07.078728+00:00,49752056,49,Microsoft exec called AI scraping 'the largest theft of labor in human history',818,715
 2026-09-18T20:48:07.078728+00:00,49757757,50,Show HN: Jeff – A read-only CLI for semantic code review using Jev,4,0
+2026-09-18T23:11:08.647031+00:00,49760187,1,Claude Code now reads AGENTS.md if there is no Claude.md,324,133
+2026-09-18T23:11:08.647031+00:00,49758736,2,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,393,184
+2026-09-18T23:11:08.647031+00:00,49758580,3,Saving another 100TB of RAM,166,33
+2026-09-18T23:11:08.647031+00:00,49754785,4,Cloudflare Quick Tunnels,511,218
+2026-09-18T23:11:08.647031+00:00,49758419,5,Xcode 27.1 Beta Release Notes,102,58
+2026-09-18T23:11:08.647031+00:00,49758615,6,Cache-to-Cache: Direct Semantic Communication Between LLMs (2025),55,11
+2026-09-18T23:11:08.647031+00:00,49757050,7,Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug,136,44
+2026-09-18T23:11:08.647031+00:00,49748553,8,Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash,147,71
+2026-09-18T23:11:08.647031+00:00,49747070,9,How to Write with an LLM,355,241
+2026-09-18T23:11:08.647031+00:00,49761178,10,US troop deaths during Iran war exceed Pentagon count by at least four,47,16
+2026-09-18T23:11:08.647031+00:00,49752041,11,OpenJev,524,237
+2026-09-18T23:11:08.647031+00:00,49744704,12,The first new cat species discovered in 100 years,126,35
+2026-09-18T23:11:08.647031+00:00,49758689,13,The Implications of Linguistic Illegibility for LLM Security,40,17
+2026-09-18T23:11:08.647031+00:00,49755533,14,Two parallel neural ectoderm progenitors contribute to the developing brain,98,51
+2026-09-18T23:11:08.647031+00:00,49731413,15,Cyclomatic Complexity in C#,17,9
+2026-09-18T23:11:08.647031+00:00,49740371,16,From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video],22,0
+2026-09-18T23:11:08.647031+00:00,49746406,17,C++26: Trivial infinite loops are no longer undefined behaviour,131,167
+2026-09-18T23:11:08.647031+00:00,49749369,18,Minimal Phone 2,154,146
+2026-09-18T23:11:08.647031+00:00,49746626,19,How SpaceX streamlined the Raptor engine,141,24
+2026-09-18T23:11:08.647031+00:00,49749724,20,Warez: The Infrastructure and Aesthetics of Piracy (2021),81,12
+2026-09-18T23:11:08.647031+00:00,49735057,21,Size-Specialized Memory Allocation,9,3
+2026-09-18T23:11:08.647031+00:00,49750694,22,Inside ZCode: Silently uploading your Git history to the cloud,241,89
+2026-09-18T23:11:08.647031+00:00,49755024,23,I vibed a proof of Conway's conjecture,199,174
+2026-09-18T23:11:08.647031+00:00,49714157,24,A search-and-inference database from scratch in pure Zig,46,16
+2026-09-18T23:11:08.647031+00:00,49759466,25,Korea raises data breach fines to 10% of revenue,228,71
+2026-09-18T23:11:08.647031+00:00,49755095,27,Mathematicians Build Long-Awaited Graph Sandwich,66,15
+2026-09-18T23:11:08.647031+00:00,49757520,28,US Military had close call after using AI for hallucinated intelligence report,349,280
+2026-09-18T23:11:08.647031+00:00,49758028,29,Border agents can search cellphones without a warrant or reasonable suspicion,175,135
+2026-09-18T23:11:08.647031+00:00,49755160,30,North Korean nuclear test sets off years of earthquakes,166,148
+2026-09-18T23:11:08.647031+00:00,49748041,31,"Show HN: Scry, programmable internet search w/ congestion pricing",41,18
+2026-09-18T23:11:08.647031+00:00,49750094,32,The scourge of x86 emulation,272,80
+2026-09-18T23:11:08.647031+00:00,49744416,33,Show HN: Ax-check.com – Can agents use your product?,27,30
+2026-09-18T23:11:08.647031+00:00,49757883,34,Ctenophores Aren't Just Beautiful. They're Biological Wonders,13,1
+2026-09-18T23:11:08.647031+00:00,49756671,35,We made Playwright 2x faster and 80% more token efficient,36,14
+2026-09-18T23:11:08.647031+00:00,49753211,36,I don't like passkeys,705,702
+2026-09-18T23:11:08.647031+00:00,49727245,37,Replacing Pull Requests with Delta,132,91
+2026-09-18T23:11:08.647031+00:00,49758709,38,How did AMD Ryzen get 50% faster in two years?,41,5
+2026-09-18T23:11:08.647031+00:00,49752614,39,"Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",283,187
+2026-09-18T23:11:08.647031+00:00,49754250,40,AI chatbots are becoming experts at changing people's minds,78,94
+2026-09-18T23:11:08.647031+00:00,49721507,41,The Shadows Lurking in the Equations – Underwater Islands,62,13
+2026-09-18T23:11:08.647031+00:00,49754064,42,NATS publishes preliminary report on technical incident of 8 September,50,24
+2026-09-18T23:11:08.647031+00:00,49761106,43,The US 'Kill Chain' That Destroyed an Iranian School,7,0
+2026-09-18T23:11:08.647031+00:00,49757757,44,Show HN: Jeff – A read-only CLI for semantic code review using Jev,9,1
+2026-09-18T23:11:08.647031+00:00,49749771,45,Pre-Greek: The lost language hidden within Ancient Greek,166,66
+2026-09-18T23:11:08.647031+00:00,49749656,46,A heap overflow and SSO misconfiguration to compromise OpenAI internal repos,464,196
+2026-09-18T23:11:08.647031+00:00,49760758,47,"Valve has open-sourced Lepton, its tool to bring Android games to Steam",8,0
+2026-09-18T23:11:08.647031+00:00,49760971,48,US and Denmark reach deal over Greenland security,7,0
+2026-09-18T23:11:08.647031+00:00,49754823,49,BeanShell3 in Development,32,18
+2026-09-18T23:11:08.647031+00:00,49726614,50,When the fractional part of a float fixes your shader,101,18
