@@ -49315,3 +49315,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-19T13:50:38.936974+00:00,49761840,47,Alibaba open-sources AI model that can detect cancer and nearly 150 conditions,133,15
 2026-09-19T13:50:38.936974+00:00,49733523,49,LispBM is a concurrent Lisp for microcontrollers with message passing,31,5
 2026-09-19T13:50:38.936974+00:00,49749369,50,Minimal Phone 2,297,240
+2026-09-19T17:08:47.673808+00:00,49765348,1,Laya the open source version of Jev,570,142
+2026-09-19T17:08:47.673808+00:00,49766676,2,A graphical desktop for the ZX Spectrum,71,53
+2026-09-19T17:08:47.673808+00:00,49764791,3,AI-generated posters don’t have to be horrible,771,464
+2026-09-19T17:08:47.673808+00:00,49763697,4,"Human brain is two separate organs, Stanford Medicine-led research finds",497,183
+2026-09-19T17:08:47.673808+00:00,49766611,5,Tin: full-text search for Postgres,90,43
+2026-09-19T17:08:47.673808+00:00,49734467,7,Asking Authors About Their Own Papers,71,38
+2026-09-19T17:08:47.673808+00:00,49720143,8,“The Secret Life of Circuits” is here,196,52
+2026-09-19T17:08:47.673808+00:00,49749789,9,I built the fastest PHP webserver in the world,34,32
+2026-09-19T17:08:47.673808+00:00,49756121,10,Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots',50,14
+2026-09-19T17:08:47.673808+00:00,49758736,11,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,990,553
+2026-09-19T17:08:47.673808+00:00,49763296,12,San Francisco Onion Futures Company,308,117
+2026-09-19T17:08:47.673808+00:00,49742697,13,New evidence for hidden chambers beyond Tutankhamun's tomb,28,6
+2026-09-19T17:08:47.673808+00:00,49763987,14,GPT-6 Astra Solves a WWI German Radio Cipher,257,133
+2026-09-19T17:08:47.673808+00:00,49763928,15,"If math is more than proof, we need to better celebrate the rest of it",235,193
+2026-09-19T17:08:47.673808+00:00,49766637,16,"What Zig felt like, coming from Rust",102,110
+2026-09-19T17:08:47.673808+00:00,49766976,17,"Agreement between the USA and Denmark (1951,2004) [pdf]",19,17
+2026-09-19T17:08:47.673808+00:00,49754785,18,Cloudflare Quick Tunnels,775,301
+2026-09-19T17:08:47.673808+00:00,49747070,19,How to Write with an LLM,562,360
+2026-09-19T17:08:47.673808+00:00,49730069,20,You can run Git on object storage if you re-make packfiles,103,24
+2026-09-19T17:08:47.673808+00:00,49758580,21,Saving another 100TB of RAM,421,90
+2026-09-19T17:08:47.673808+00:00,49736823,22,Communication by means of modulated Johnson noise,39,19
+2026-09-19T17:08:47.673808+00:00,49762744,23,SDCC – Small Device C Compiler,113,23
+2026-09-19T17:08:47.673808+00:00,49738518,24,Ray Ozzie and the Optimism of Being Early,17,11
+2026-09-19T17:08:47.673808+00:00,49762687,25,Science Is Open Software,137,51
+2026-09-19T17:08:47.673808+00:00,49734131,26,Why building a Rust LSP is hard,118,45
+2026-09-19T17:08:47.673808+00:00,49744704,27,The first new cat species discovered in 100 years,319,124
+2026-09-19T17:08:47.673808+00:00,49752041,28,OpenJev,670,280
+2026-09-19T17:08:47.673808+00:00,49735541,29,Ctenophores: Wonders of Biology,57,8
+2026-09-19T17:08:47.673808+00:00,49743490,30,From Stonemasons to Carpenters,36,4
+2026-09-19T17:08:47.673808+00:00,49767937,31,Almost Never Use AI to Write Anything Substantive,7,0
+2026-09-19T17:08:47.673808+00:00,49761432,32,How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip,172,121
+2026-09-19T17:08:47.673808+00:00,49748553,33,Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash,216,89
+2026-09-19T17:08:47.673808+00:00,49726773,34,Goroutine Leak Profiles,56,6
+2026-09-19T17:08:47.673808+00:00,49757050,35,Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug,209,83
+2026-09-19T17:08:47.673808+00:00,49766821,36,Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy,47,43
+2026-09-19T17:08:47.673808+00:00,49763379,37,NASA-IBM Lunar Foundation open-Source Geospatial AI Model,48,5
+2026-09-19T17:08:47.673808+00:00,49749724,38,Warez: The Infrastructure and Aesthetics of Piracy (2021),200,97
+2026-09-19T17:08:47.673808+00:00,49750694,39,Inside ZCode: Silently uploading your Git history to the cloud,322,107
+2026-09-19T17:08:47.673808+00:00,49758615,40,Cache-to-Cache: Direct Semantic Communication Between LLMs (2025),101,18
+2026-09-19T17:08:47.673808+00:00,49728602,41,Veronese's Dogs,23,2
+2026-09-19T17:08:47.673808+00:00,49731413,42,Cyclomatic Complexity in C#,72,28
+2026-09-19T17:08:47.673808+00:00,49767386,43,Jobs Without LeetCode,18,8
+2026-09-19T17:08:47.673808+00:00,49746626,44,How SpaceX streamlined the Raptor engine,225,94
+2026-09-19T17:08:47.673808+00:00,49756671,45,We made Playwright 2x faster and 80% more token efficient,112,32
+2026-09-19T17:08:47.673808+00:00,49755533,46,Two parallel neural ectoderm progenitors contribute to the developing brain,123,66
+2026-09-19T17:08:47.673808+00:00,49711544,47,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,2340,259
+2026-09-19T17:08:47.673808+00:00,49744174,48,Show HN: I wrote a custom assembler for CHIP-8 in C++,23,4
+2026-09-19T17:08:47.673808+00:00,49746406,49,C++26: Trivial infinite loops are no longer undefined behaviour,166,266
+2026-09-19T17:08:47.673808+00:00,49768108,50,"Lawsuit: Illegal Agreement of Anthropic, OpenAI, SpaceXAI, Google on AI Slowdown",5,0
