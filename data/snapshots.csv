@@ -49413,3 +49413,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-19T20:28:48.580663+00:00,49769183,48,Open Weights Are Good. Open Source Is Better,9,1
 2026-09-19T20:28:48.580663+00:00,49769395,49,Disney+ changes subscriber agreement to allow ads on every plan,19,4
 2026-09-19T20:28:48.580663+00:00,49731413,50,Cyclomatic Complexity in C#,75,28
+2026-09-19T22:52:05.223478+00:00,49769944,1,English: A vs. An,77,51
+2026-09-19T22:52:05.223478+00:00,49765348,2,I built non-autoregressive decision models with RL a year ago,1017,233
+2026-09-19T22:52:05.223478+00:00,49764791,3,AI-generated posters don’t have to be horrible,1278,707
+2026-09-19T22:52:05.223478+00:00,49770293,4,"How Hacker News ranking works: scoring, controversy, and penalties (2013)",28,8
+2026-09-19T22:52:05.223478+00:00,49769676,5,Measure internet censorship. Contribute to the largest open dataset,57,34
+2026-09-19T22:52:05.223478+00:00,49766966,6,Brood War Bench,100,56
+2026-09-19T22:52:05.223478+00:00,49763697,7,Two parallel neural ectoderm progenitors contribute to the developing brain,596,228
+2026-09-19T22:52:05.223478+00:00,49743934,8,Compiler-style optimization for drawing via Skia,29,6
+2026-09-19T22:52:05.223478+00:00,49770362,9,Mayday Mysteries,12,3
+2026-09-19T22:52:05.223478+00:00,49731996,10,Deodands put a price on objects that caused death,26,11
+2026-09-19T22:52:05.223478+00:00,49767564,11,Show HN: CUA-S1 – A System One Model for Computer Use,46,4
+2026-09-19T22:52:05.223478+00:00,49769405,12,ZK-JPEG: Zero-Knowledge Image Editing and Compression,42,6
+2026-09-19T22:52:05.223478+00:00,49754194,13,"UFO Series Home Page: ""UFO"" TV Series from 1970",35,18
+2026-09-19T22:52:05.223478+00:00,49758736,14,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,1099,640
+2026-09-19T22:52:05.223478+00:00,49770256,15,You can defeat the Dream Devourer from Chrono Trigger using an int overflow,11,2
+2026-09-19T22:52:05.223478+00:00,49766611,16,Tin: full-text search for Postgres,171,70
+2026-09-19T22:52:05.223478+00:00,49735010,17,Suzanne Ciani's Buchla Cookbook,48,20
+2026-09-19T22:52:05.223478+00:00,49720143,19,The Secret Life of Circuits,272,69
+2026-09-19T22:52:05.223478+00:00,49742697,20,New evidence for hidden chambers beyond Tutankhamun's tomb,91,35
+2026-09-19T22:52:05.223478+00:00,49756121,21,Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots',84,43
+2026-09-19T22:52:05.223478+00:00,49763987,22,GPT-6 Astra Solves a WWI German Radio Cipher,349,159
+2026-09-19T22:52:05.223478+00:00,49767937,23,I think you should almost never use AI to write,177,100
+2026-09-19T22:52:05.223478+00:00,49763296,24,San Francisco Onion Futures Company,358,150
+2026-09-19T22:52:05.223478+00:00,49745049,25,Adventures in Microcontroller Circuit Debugging,31,6
+2026-09-19T22:52:05.223478+00:00,49768921,26,Microsoft director: AI scraping 'the largest theft of labor in human history',80,22
+2026-09-19T22:52:05.223478+00:00,49747070,27,How to Write with an LLM,609,372
+2026-09-19T22:52:05.223478+00:00,49754785,28,Cloudflare Quick Tunnels,807,306
+2026-09-19T22:52:05.223478+00:00,49763928,29,"If math is more than proof, we need to better celebrate the rest of it",292,230
+2026-09-19T22:52:05.223478+00:00,49758580,30,Saving another 100TB of RAM,459,108
+2026-09-19T22:52:05.223478+00:00,49730069,31,You can run Git on object storage if you re-make packfiles,137,31
+2026-09-19T22:52:05.223478+00:00,49770322,32,What happens to TLDs when their country stops existing?,5,1
+2026-09-19T22:52:05.223478+00:00,49762744,33,SDCC – Small Device C Compiler,122,31
+2026-09-19T22:52:05.223478+00:00,49744704,34,The first new cat species discovered in 100 years,361,135
+2026-09-19T22:52:05.223478+00:00,49762687,35,Science Is Open Software,150,66
+2026-09-19T22:52:05.223478+00:00,49768833,36,Btrfs/ZFS/bcachefs under workloads classic benchmarks skip,81,76
+2026-09-19T22:52:05.223478+00:00,49736823,37,Communication by means of modulated Johnson noise,55,28
+2026-09-19T22:52:05.223478+00:00,49734467,38,Asking Authors About Their Own Papers,109,62
+2026-09-19T22:52:05.223478+00:00,49734131,39,Why building a Rust LSP is hard,132,58
+2026-09-19T22:52:05.223478+00:00,49766637,40,"What Zig felt like, coming from Rust",168,201
+2026-09-19T22:52:05.223478+00:00,49761432,41,How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip,196,130
+2026-09-19T22:52:05.223478+00:00,49735541,42,Ctenophores: Wonders of Biology,70,13
+2026-09-19T22:52:05.223478+00:00,49748553,43,Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash,224,90
+2026-09-19T22:52:05.223478+00:00,49769183,44,Open Weights Are Good. Open Source Is Better,25,1
+2026-09-19T22:52:05.223478+00:00,49749724,45,Warez: The Infrastructure and Aesthetics of Piracy (2021),212,103
+2026-09-19T22:52:05.223478+00:00,49757050,46,Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug,213,85
+2026-09-19T22:52:05.223478+00:00,49743490,47,From Stonemasons to Carpenters,46,8
+2026-09-19T22:52:05.223478+00:00,49770455,48,There Are Over 1M NYC Street Signs. Here is How They Are Made.,5,1
+2026-09-19T22:52:05.223478+00:00,49738518,49,Ray Ozzie and the Optimism of Being Early,31,25
+2026-09-19T22:52:05.223478+00:00,49726773,50,Goroutine Leak Profiles,60,6
