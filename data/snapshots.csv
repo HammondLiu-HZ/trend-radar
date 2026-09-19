@@ -49168,3 +49168,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-18T23:11:08.647031+00:00,49760971,48,US and Denmark reach deal over Greenland security,7,0
 2026-09-18T23:11:08.647031+00:00,49754823,49,BeanShell3 in Development,32,18
 2026-09-18T23:11:08.647031+00:00,49726614,50,When the fractional part of a float fixes your shader,101,18
+2026-09-19T04:22:21.875748+00:00,49758736,1,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,653,318
+2026-09-19T04:22:21.875748+00:00,49762687,2,Science Is Open Software,32,15
+2026-09-19T04:22:21.875748+00:00,49762744,3,SDCC – Small Device C Compiler,21,4
+2026-09-19T04:22:21.875748+00:00,49754785,4,Cloudflare Quick Tunnels,630,262
+2026-09-19T04:22:21.875748+00:00,49758580,5,Saving another 100TB of RAM,273,56
+2026-09-19T04:22:21.875748+00:00,49747070,6,How to Write with an LLM,431,291
+2026-09-19T04:22:21.875748+00:00,49734131,7,Why building a Rust LSP is hard,21,9
+2026-09-19T04:22:21.875748+00:00,49762099,8,Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe,25,27
+2026-09-19T04:22:21.875748+00:00,49758419,9,Xcode 27.1 Beta Release Notes,123,75
+2026-09-19T04:22:21.875748+00:00,49744704,10,The first new cat species discovered in 100 years,207,77
+2026-09-19T04:22:21.875748+00:00,49761432,11,How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip,75,66
+2026-09-19T04:22:21.875748+00:00,49757050,12,Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug,167,61
+2026-09-19T04:22:21.875748+00:00,49748553,13,Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash,175,79
+2026-09-19T04:22:21.875748+00:00,49744036,14,The Farnese letter,33,5
+2026-09-19T04:22:21.875748+00:00,49752041,15,OpenJev,578,249
+2026-09-19T04:22:21.875748+00:00,49758615,16,Cache-to-Cache: Direct Semantic Communication Between LLMs (2025),74,12
+2026-09-19T04:22:21.875748+00:00,49733523,17,LispBM is a concurrent Lisp for microcontrollers with message passing,18,2
+2026-09-19T04:22:21.875748+00:00,49760187,18,Claude Code now reads AGENTS.md if there is no Claude.md,564,203
+2026-09-19T04:22:21.875748+00:00,49726773,19,Goroutine Leak Profiles,7,0
+2026-09-19T04:22:21.875748+00:00,49731413,20,Cyclomatic Complexity in C#,41,15
+2026-09-19T04:22:21.875748+00:00,49749369,21,Minimal Phone 2,213,196
+2026-09-19T04:22:21.875748+00:00,49749724,22,Warez: The Infrastructure and Aesthetics of Piracy (2021),121,37
+2026-09-19T04:22:21.875748+00:00,49761840,23,Alibaba open-sources AI model that can detect cancer and nearly 150 conditions,64,8
+2026-09-19T04:22:21.875748+00:00,49746626,24,How SpaceX streamlined the Raptor engine,181,50
+2026-09-19T04:22:21.875748+00:00,49750694,25,Inside ZCode: Silently uploading your Git history to the cloud,270,94
+2026-09-19T04:22:21.875748+00:00,49746406,26,C++26: Trivial infinite loops are no longer undefined behaviour,154,212
+2026-09-19T04:22:21.875748+00:00,49755533,27,Two parallel neural ectoderm progenitors contribute to the developing brain,107,60
+2026-09-19T04:22:21.875748+00:00,49758689,28,The Implications of Linguistic Illegibility for LLM Security,57,21
+2026-09-19T04:22:21.875748+00:00,49735057,29,Size-Specialized Memory Allocation,25,3
+2026-09-19T04:22:21.875748+00:00,49714157,30,A search-and-inference database from scratch in pure Zig,55,17
+2026-09-19T04:22:21.875748+00:00,49755160,31,North Korean nuclear test sets off years of earthquakes,191,156
+2026-09-19T04:22:21.875748+00:00,49756671,32,We made Playwright 2x faster and 80% more token efficient,66,15
+2026-09-19T04:22:21.875748+00:00,49755024,33,I vibed a proof of Conway's conjecture,219,195
+2026-09-19T04:22:21.875748+00:00,49755095,34,Mathematicians Build Long-Awaited Graph Sandwich,72,19
+2026-09-19T04:22:21.875748+00:00,49762835,35,Flock Offers Employees Buyouts as Customers Flee,11,0
+2026-09-19T04:22:21.875748+00:00,49729631,36,Column built an issuer processor from scratch,23,6
+2026-09-19T04:22:21.875748+00:00,49757520,37,US Military had close call after using AI for hallucinated intelligence report,420,317
+2026-09-19T04:22:21.875748+00:00,49740371,39,From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video],30,0
+2026-09-19T04:22:21.875748+00:00,49748041,40,"Show HN: Scry, programmable internet search w/ congestion pricing",48,22
+2026-09-19T04:22:21.875748+00:00,49754250,41,AI chatbots are becoming experts at changing people's minds,92,97
+2026-09-19T04:22:21.875748+00:00,49753211,42,I don't like passkeys,744,723
+2026-09-19T04:22:21.875748+00:00,49759733,43,Human brain is two separate organs,15,1
+2026-09-19T04:22:21.875748+00:00,49727245,44,Replacing Pull Requests with Delta,135,94
+2026-09-19T04:22:21.875748+00:00,49749771,45,Pre-Greek: The lost language hidden within Ancient Greek,174,67
+2026-09-19T04:22:21.875748+00:00,49711544,46,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,2321,255
+2026-09-19T04:22:21.875748+00:00,49744416,47,Show HN: Ax-check.com – Can agents use your product?,28,34
+2026-09-19T04:22:21.875748+00:00,49752614,48,"Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",293,193
+2026-09-19T04:22:21.875748+00:00,49757883,49,Ctenophores Aren't Just Beautiful. They're Biological Wonders,22,2
+2026-09-19T04:22:21.875748+00:00,49761866,50,Prepare your iPhone 18 Pro Max to ship,24,2
