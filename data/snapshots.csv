@@ -49364,3 +49364,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-19T17:08:47.673808+00:00,49744174,48,Show HN: I wrote a custom assembler for CHIP-8 in C++,23,4
 2026-09-19T17:08:47.673808+00:00,49746406,49,C++26: Trivial infinite loops are no longer undefined behaviour,166,266
 2026-09-19T17:08:47.673808+00:00,49768108,50,"Lawsuit: Illegal Agreement of Anthropic, OpenAI, SpaceXAI, Google on AI Slowdown",5,0
+2026-09-19T20:28:48.580663+00:00,49765348,1,I built non-autoregressive decision models with RL a year ago,872,214
+2026-09-19T20:28:48.580663+00:00,49764791,2,AI-generated posters don’t have to be horrible,1104,618
+2026-09-19T20:28:48.580663+00:00,49768833,3,Btrfs/ZFS/bcachefs under workloads classic benchmarks skip,56,42
+2026-09-19T20:28:48.580663+00:00,49763697,4,Two parallel neural ectoderm progenitors contribute to the developing brain,579,219
+2026-09-19T20:28:48.580663+00:00,49769405,5,ZK-JPEG: Zero-Knowledge Image Editing and Compression,8,0
+2026-09-19T20:28:48.580663+00:00,49766966,6,Brood War Bench,23,5
+2026-09-19T20:28:48.580663+00:00,49767564,7,Show HN: CUA-S1 – A System One Model for Computer Use,23,1
+2026-09-19T20:28:48.580663+00:00,49735010,8,Suzanne Ciani's Buchla Cookbook,30,9
+2026-09-19T20:28:48.580663+00:00,49766611,9,Tin: full-text search for Postgres,146,64
+2026-09-19T20:28:48.580663+00:00,49769676,10,Measure internet censorship. Contribute to the largest open dataset,4,0
+2026-09-19T20:28:48.580663+00:00,49720143,11,The Secret Life of Circuits,244,63
+2026-09-19T20:28:48.580663+00:00,49758736,12,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,1065,623
+2026-09-19T20:28:48.580663+00:00,49756121,14,Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots',78,37
+2026-09-19T20:28:48.580663+00:00,49742697,15,New evidence for hidden chambers beyond Tutankhamun's tomb,68,24
+2026-09-19T20:28:48.580663+00:00,49754194,16,"UFO Series Home Page: ""UFO"" TV Series from 1970",13,4
+2026-09-19T20:28:48.580663+00:00,49763987,17,GPT-6 Astra Solves a WWI German Radio Cipher,313,152
+2026-09-19T20:28:48.580663+00:00,49745049,18,Adventures in Microcontroller Circuit Debugging,22,1
+2026-09-19T20:28:48.580663+00:00,49769668,19,OpenAI and Anthropic oversold AI security breaches,15,6
+2026-09-19T20:28:48.580663+00:00,49763296,20,San Francisco Onion Futures Company,337,141
+2026-09-19T20:28:48.580663+00:00,49767937,21,Almost Never Use AI to Write Anything Substantive,116,72
+2026-09-19T20:28:48.580663+00:00,49769421,22,Economics Nobel Laureates' Letter Supporting the California Billionaire Tax [pdf],14,8
+2026-09-19T20:28:48.580663+00:00,49747070,23,How to Write with an LLM,596,368
+2026-09-19T20:28:48.580663+00:00,49754785,24,Cloudflare Quick Tunnels,799,305
+2026-09-19T20:28:48.580663+00:00,49763928,25,"If math is more than proof, we need to better celebrate the rest of it",269,224
+2026-09-19T20:28:48.580663+00:00,49758580,26,Saving another 100TB of RAM,445,100
+2026-09-19T20:28:48.580663+00:00,49730069,27,You can run Git on object storage if you re-make packfiles,126,30
+2026-09-19T20:28:48.580663+00:00,49766637,28,"What Zig felt like, coming from Rust",152,179
+2026-09-19T20:28:48.580663+00:00,49736823,29,Communication by means of modulated Johnson noise,50,26
+2026-09-19T20:28:48.580663+00:00,49762744,30,SDCC – Small Device C Compiler,119,28
+2026-09-19T20:28:48.580663+00:00,49762687,31,Science Is Open Software,148,65
+2026-09-19T20:28:48.580663+00:00,49744704,32,The first new cat species discovered in 100 years,354,134
+2026-09-19T20:28:48.580663+00:00,49761432,33,How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip,192,128
+2026-09-19T20:28:48.580663+00:00,49735541,34,Ctenophores: Wonders of Biology,69,11
+2026-09-19T20:28:48.580663+00:00,49734131,35,Why building a Rust LSP is hard,128,56
+2026-09-19T20:28:48.580663+00:00,49734467,36,Asking Authors About Their Own Papers,105,59
+2026-09-19T20:28:48.580663+00:00,49738518,37,Ray Ozzie and the Optimism of Being Early,29,24
+2026-09-19T20:28:48.580663+00:00,49748553,38,Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash,221,90
+2026-09-19T20:28:48.580663+00:00,49768921,39,Microsoft director: AI scraping 'the largest theft of labor in human history',13,2
+2026-09-19T20:28:48.580663+00:00,49757050,40,Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug,211,85
+2026-09-19T20:28:48.580663+00:00,49749724,41,Warez: The Infrastructure and Aesthetics of Piracy (2021),207,100
+2026-09-19T20:28:48.580663+00:00,49726773,42,Goroutine Leak Profiles,58,6
+2026-09-19T20:28:48.580663+00:00,49768826,43,Ask HN: How do you interview devs in a post-AI world?,11,4
+2026-09-19T20:28:48.580663+00:00,49743490,44,From Stonemasons to Carpenters,40,6
+2026-09-19T20:28:48.580663+00:00,49750694,45,Inside ZCode: Silently uploading your Git history to the cloud,324,108
+2026-09-19T20:28:48.580663+00:00,49763379,46,NASA-IBM Lunar Foundation open-Source Geospatial AI Model,50,5
+2026-09-19T20:28:48.580663+00:00,49758615,47,Cache-to-Cache: Direct Semantic Communication Between LLMs (2025),101,18
+2026-09-19T20:28:48.580663+00:00,49769183,48,Open Weights Are Good. Open Source Is Better,9,1
+2026-09-19T20:28:48.580663+00:00,49769395,49,Disney+ changes subscriber agreement to allow ads on every plan,19,4
+2026-09-19T20:28:48.580663+00:00,49731413,50,Cyclomatic Complexity in C#,75,28
