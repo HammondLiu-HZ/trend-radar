@@ -49217,3 +49217,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-19T04:22:21.875748+00:00,49752614,48,"Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",293,193
 2026-09-19T04:22:21.875748+00:00,49757883,49,Ctenophores Aren't Just Beautiful. They're Biological Wonders,22,2
 2026-09-19T04:22:21.875748+00:00,49761866,50,Prepare your iPhone 18 Pro Max to ship,24,2
+2026-09-19T09:21:27.355171+00:00,49763697,1,"Human brain is two separate organs, Stanford Medicine-led research finds",196,75
+2026-09-19T09:21:27.355171+00:00,49763928,2,"If math is more than proof, we need to better celebrate the rest of it",72,41
+2026-09-19T09:21:27.355171+00:00,49763987,3,GPT-6 Astra Solves a WWI German Radio Cipher,91,42
+2026-09-19T09:21:27.355171+00:00,49763296,4,San Francisco Onion Futures Company,180,62
+2026-09-19T09:21:27.355171+00:00,49758736,5,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,824,404
+2026-09-19T09:21:27.355171+00:00,49763883,6,Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7,26,15
+2026-09-19T09:21:27.355171+00:00,49733647,7,Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step,76,43
+2026-09-19T09:21:27.355171+00:00,49754785,8,Cloudflare Quick Tunnels,700,278
+2026-09-19T09:21:27.355171+00:00,49762744,9,SDCC – Small Device C Compiler,75,17
+2026-09-19T09:21:27.355171+00:00,49762687,10,Science Is Open Software,86,36
+2026-09-19T09:21:27.355171+00:00,49730069,11,You can run Git on object storage if you re-make packfiles,42,12
+2026-09-19T09:21:27.355171+00:00,49747070,12,How to Write with an LLM,485,324
+2026-09-19T09:21:27.355171+00:00,49734131,13,Why building a Rust LSP is hard,68,31
+2026-09-19T09:21:27.355171+00:00,49758580,14,Saving another 100TB of RAM,353,70
+2026-09-19T09:21:27.355171+00:00,49735541,15,Ctenophores: Wonders of Biology,21,5
+2026-09-19T09:21:27.355171+00:00,49761432,16,How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip,119,85
+2026-09-19T09:21:27.355171+00:00,49763379,17,NASA-IBM Lunar Foundation open-Source Geospatial AI Model,22,2
+2026-09-19T09:21:27.355171+00:00,49744704,18,The first new cat species discovered in 100 years,267,104
+2026-09-19T09:21:27.355171+00:00,49752041,19,OpenJev,624,262
+2026-09-19T09:21:27.355171+00:00,49726773,20,Goroutine Leak Profiles,30,2
+2026-09-19T09:21:27.355171+00:00,49748553,21,Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash,198,88
+2026-09-19T09:21:27.355171+00:00,49757050,22,Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug,191,69
+2026-09-19T09:21:27.355171+00:00,49749369,23,Minimal Phone 2,273,220
+2026-09-19T09:21:27.355171+00:00,49758615,24,Cache-to-Cache: Direct Semantic Communication Between LLMs (2025),85,12
+2026-09-19T09:21:27.355171+00:00,49728602,25,Veronese's Dogs,5,0
+2026-09-19T09:21:27.355171+00:00,49740606,26,Suppress vulnerabilities applying Kubernetes context to scans,3,1
+2026-09-19T09:21:27.355171+00:00,49749724,27,Warez: The Infrastructure and Aesthetics of Piracy (2021),155,61
+2026-09-19T09:21:27.355171+00:00,49750694,28,Inside ZCode: Silently uploading your Git history to the cloud,296,98
+2026-09-19T09:21:27.355171+00:00,49731413,29,Cyclomatic Complexity in C#,59,19
+2026-09-19T09:21:27.355171+00:00,49763660,30,Stepfun Step 5 Preview (LLM): On AA Pareto frontier,8,2
+2026-09-19T09:21:27.355171+00:00,49758419,31,Xcode 27.1 Beta Release Notes,139,102
+2026-09-19T09:21:27.355171+00:00,49760187,32,Claude Code now reads AGENTS.md if there is no Claude.md,652,232
+2026-09-19T09:21:27.355171+00:00,49746626,33,How SpaceX streamlined the Raptor engine,205,83
+2026-09-19T09:21:27.355171+00:00,49755533,34,Two parallel neural ectoderm progenitors contribute to the developing brain,116,64
+2026-09-19T09:21:27.355171+00:00,49746406,35,C++26: Trivial infinite loops are no longer undefined behaviour,161,244
+2026-09-19T09:21:27.355171+00:00,49733523,36,LispBM is a concurrent Lisp for microcontrollers with message passing,28,5
+2026-09-19T09:21:27.355171+00:00,49761840,37,Alibaba open-sources AI model that can detect cancer and nearly 150 conditions,118,15
+2026-09-19T09:21:27.355171+00:00,49758689,38,The Implications of Linguistic Illegibility for LLM Security,68,27
+2026-09-19T09:21:27.355171+00:00,49756671,39,We made Playwright 2x faster and 80% more token efficient,87,20
+2026-09-19T09:21:27.355171+00:00,49764141,40,"The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",13,6
+2026-09-19T09:21:27.355171+00:00,49763822,41,Google's Gemini AI hacked three companies in security test,17,5
+2026-09-19T09:21:27.355171+00:00,49755160,42,North Korean nuclear test sets off years of earthquakes,203,163
+2026-09-19T09:21:27.355171+00:00,49764030,43,Claude couldn't hack OpenAI. Then Anthropic shipped Opus 5,8,0
+2026-09-19T09:21:27.355171+00:00,49755024,45,I vibed a proof of Conway's conjecture,238,221
+2026-09-19T09:21:27.355171+00:00,49762835,46,Flock Offers Employees Buyouts as Customers Flee,57,9
+2026-09-19T09:21:27.355171+00:00,49711544,47,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,2329,256
+2026-09-19T09:21:27.355171+00:00,49714157,48,A search-and-inference database from scratch in pure Zig,56,19
+2026-09-19T09:21:27.355171+00:00,49754250,49,AI chatbots are becoming experts at changing people's minds,106,97
+2026-09-19T09:21:27.355171+00:00,49755095,50,Mathematicians Build Long-Awaited Graph Sandwich,77,19
