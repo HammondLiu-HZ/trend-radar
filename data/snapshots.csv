@@ -49560,3 +49560,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-20T06:01:44.407248+00:00,49720143,48,The Secret Life of Circuits,297,74
 2026-09-20T06:01:44.407248+00:00,49770018,49,Qualcomm's Adreno X2 GPU,13,0
 2026-09-20T06:01:44.407248+00:00,49766611,50,Tin: full-text search for Postgres,207,79
+2026-09-20T12:12:34.387750+00:00,49774329,1,AI and the Destruction of the Creative Commons,65,14
+2026-09-20T12:12:34.387750+00:00,49774795,2,"If AI coding is lowering your code quality, you're not managing quality right",11,8
+2026-09-20T12:12:34.387750+00:00,49774521,3,Why Do We Need Human Mathematicians Anymore?,11,3
+2026-09-20T12:12:34.387750+00:00,49771110,4,Exfiltrate Your Weights,465,184
+2026-09-20T12:12:34.387750+00:00,49735159,5,Weeping whales: Stillborn humpback whale grieving documented,120,96
+2026-09-20T12:12:34.387750+00:00,49769944,6,English: A vs. An,264,336
+2026-09-20T12:12:34.387750+00:00,49771966,7,RSA-896,159,58
+2026-09-20T12:12:34.387750+00:00,49772532,8,Step 5 Preview: Advancing the Pareto Frontier,83,22
+2026-09-20T12:12:34.387750+00:00,49754055,9,Regeneration of used batteries via electrode–electrolyte interphase dissolution,61,4
+2026-09-20T12:12:34.387750+00:00,49757493,10,A Model for Winning Survivor,13,5
+2026-09-20T12:12:34.387750+00:00,49766966,11,Brood War Bench,278,118
+2026-09-20T12:12:34.387750+00:00,49772662,12,Telling a Computer to Do Things,44,18
+2026-09-20T12:12:34.387750+00:00,49757929,13,"Seeing Circles, Sines, and Signals",25,5
+2026-09-20T12:12:34.387750+00:00,49769676,14,Measure internet censorship,166,108
+2026-09-20T12:12:34.387750+00:00,49774665,15,I'm Tired of the AI Tone,20,15
+2026-09-20T12:12:34.387750+00:00,49773998,16,Microsoft agentically ports Copilot runtime to Rust for $120K,32,38
+2026-09-20T12:12:34.387750+00:00,49764981,17,Cube,12,0
+2026-09-20T12:12:34.387750+00:00,49764791,18,AI-generated posters don’t have to be horrible,1631,855
+2026-09-20T12:12:34.387750+00:00,49756319,19,Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?,23,8
+2026-09-20T12:12:34.387750+00:00,49765348,20,I built non-autoregressive decision models with RL a year ago,1233,295
+2026-09-20T12:12:34.387750+00:00,49767242,21,The Lamentable Later Life of Lemmings,106,18
+2026-09-20T12:12:34.387750+00:00,49764631,22,Chess Atlas,33,12
+2026-09-20T12:12:34.387750+00:00,49734467,23,Asking authors about their own papers,177,92
+2026-09-20T12:12:34.387750+00:00,49770256,24,You can defeat the Dream Devourer from Chrono Trigger using an int overflow,132,77
+2026-09-20T12:12:34.387750+00:00,49763928,25,"If math is more than proof, we need to better celebrate the rest of it",363,269
+2026-09-20T12:12:34.387750+00:00,49769405,26,ZK-JPEG: Zero-Knowledge Image Editing and Compression,90,19
+2026-09-20T12:12:34.387750+00:00,49768833,27,Btrfs/ZFS/bcachefs under workloads classic benchmarks skip,143,128
+2026-09-20T12:12:34.387750+00:00,49766637,28,"What Zig felt like, coming from Rust",233,283
+2026-09-20T12:12:34.387750+00:00,49747070,29,How to Write with an LLM,680,395
+2026-09-20T12:12:34.387750+00:00,49772961,30,Spain Orders Blocks on Archive.today and Its Mirrors,165,148
+2026-09-20T12:12:34.387750+00:00,49772677,31,UTF-8000: Unlimited UTF-8,78,52
+2026-09-20T12:12:34.387750+00:00,49731996,32,Deodands put a price on objects that caused death,87,35
+2026-09-20T12:12:34.387750+00:00,49737326,33,Faster NumPy in the Browser,38,6
+2026-09-20T12:12:34.387750+00:00,49754194,34,"UFO Series Home Page: ""UFO"" TV Series from 1970",82,35
+2026-09-20T12:12:34.387750+00:00,49774000,35,Benchmarking Wild vs. Mold,22,0
+2026-09-20T12:12:34.387750+00:00,49770809,36,An open source roguelike adventure through dungeons,61,12
+2026-09-20T12:12:34.387750+00:00,49743934,38,Compiler-style optimization for drawing via Skia,119,22
+2026-09-20T12:12:34.387750+00:00,49735010,39,Suzanne Ciani's Buchla Cookbook,87,26
+2026-09-20T12:12:34.387750+00:00,49773646,40,It's finally here: Porsche puts wireless EV charging into production,16,9
+2026-09-20T12:12:34.387750+00:00,49766821,41,Learning another language may be one of the best ways to keep your brain healthy,95,86
+2026-09-20T12:12:34.387750+00:00,49763697,42,Two parallel neural ectoderm progenitors contribute to the developing brain,630,247
+2026-09-20T12:12:34.387750+00:00,49756121,43,Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots',100,54
+2026-09-20T12:12:34.387750+00:00,49773104,44,Dropbox's Jan 1st 2027 terms of service,40,82
+2026-09-20T12:12:34.387750+00:00,49767564,45,Show HN: CUA-S1 – A System One Model for Computer Use,81,8
+2026-09-20T12:12:34.387750+00:00,49770701,46,PyPy v8.0.0 Release,38,4
+2026-09-20T12:12:34.387750+00:00,49773511,47,Every Nvidia GPU has 10 to 30 RISC-V cores inside it,17,0
+2026-09-20T12:12:34.387750+00:00,49758736,48,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,1139,685
+2026-09-20T12:12:34.387750+00:00,49770847,49,Can you tell which images are AI-generated?,92,72
+2026-09-20T12:12:34.387750+00:00,49770362,50,Mayday Mysteries,48,11
