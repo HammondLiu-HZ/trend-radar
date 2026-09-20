@@ -49609,3 +49609,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-20T12:12:34.387750+00:00,49758736,48,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,1139,685
 2026-09-20T12:12:34.387750+00:00,49770847,49,Can you tell which images are AI-generated?,92,72
 2026-09-20T12:12:34.387750+00:00,49770362,50,Mayday Mysteries,48,11
+2026-09-20T16:44:37.737037+00:00,49776699,1,Pirate Face Rescues LLM Models from Deletion,76,17
+2026-09-20T16:44:37.737037+00:00,49775499,2,"Qwen-Image-2.1: Compact, efficient, and unified image creation",252,95
+2026-09-20T16:44:37.737037+00:00,49776627,3,Sherline Tools Is Going Out of Business,74,37
+2026-09-20T16:44:37.737037+00:00,49768347,4,"Key symbols we lost to time, pt. 2: The Mac side",49,23
+2026-09-20T16:44:37.737037+00:00,49776717,5,Singapore Is Paying People to Put Down Their Phones and Read Books,54,11
+2026-09-20T16:44:37.737037+00:00,49755378,6,A custom virtual machine for the Stars 4X game,45,7
+2026-09-20T16:44:37.737037+00:00,49771110,7,Exfiltrate Your Weights,543,207
+2026-09-20T16:44:37.737037+00:00,49777111,8,Prompts Aren't Real,4,0
+2026-09-20T16:44:37.737037+00:00,49777106,9,Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second),4,0
+2026-09-20T16:44:37.737037+00:00,49735159,10,Weeping whales: Stillborn humpback whale grieving documented,181,122
+2026-09-20T16:44:37.737037+00:00,49776960,11,Custom home server built from spare parts,3,0
+2026-09-20T16:44:37.737037+00:00,49776826,12,One-Electron Universe,33,14
+2026-09-20T16:44:37.737037+00:00,49765354,13,Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI,44,22
+2026-09-20T16:44:37.737037+00:00,49776887,14,Jev Collection,3,0
+2026-09-20T16:44:37.737037+00:00,49766671,15,"So I have a weatherman, which also tells me the news",9,0
+2026-09-20T16:44:37.737037+00:00,49765798,16,FreeBSD on Aoostar WTR Pro NAS,26,2
+2026-09-20T16:44:37.737037+00:00,49769944,17,English: A vs. An,320,434
+2026-09-20T16:44:37.737037+00:00,49775082,18,The Millennium Problems for Biology,71,70
+2026-09-20T16:44:37.737037+00:00,49775579,19,Do birds have accents? the regional differences in birdsong,48,8
+2026-09-20T16:44:37.737037+00:00,49772532,20,Step 5 Preview: Advancing the Pareto Frontier,112,31
+2026-09-20T16:44:37.737037+00:00,49766966,21,Brood War Bench,310,138
+2026-09-20T16:44:37.737037+00:00,49757493,22,A Model for Winning Survivor,39,22
+2026-09-20T16:44:37.737037+00:00,49772677,23,UTF-8000: Unlimited UTF-8,99,75
+2026-09-20T16:44:37.737037+00:00,49742642,24,Go-based Robotics Framework built around NATS.io,3,0
+2026-09-20T16:44:37.737037+00:00,49754055,25,Regeneration of used batteries via electrode–electrolyte interphase dissolution,77,9
+2026-09-20T16:44:37.737037+00:00,49771966,26,RSA-896,190,77
+2026-09-20T16:44:37.737037+00:00,49772662,27,Telling a Computer to Do Things,76,32
+2026-09-20T16:44:37.737037+00:00,49775104,28,Chat-based Large Language Models replicate the mechanisms of a psychic's con,136,175
+2026-09-20T16:44:37.737037+00:00,49757929,29,"Seeing Circles, Sines, and Signals",56,8
+2026-09-20T16:44:37.737037+00:00,49769676,30,Measure internet censorship,192,117
+2026-09-20T16:44:37.737037+00:00,49764791,31,AI-generated posters don’t have to be horrible,1726,888
+2026-09-20T16:44:37.737037+00:00,49734467,32,Asking authors about their own papers,213,107
+2026-09-20T16:44:37.737037+00:00,49767242,33,The Lamentable Later Life of Lemmings,132,28
+2026-09-20T16:44:37.737037+00:00,49765348,34,I built non-autoregressive decision models with RL a year ago,1270,304
+2026-09-20T16:44:37.737037+00:00,49775802,35,Mathematical Billiards (2024),7,3
+2026-09-20T16:44:37.737037+00:00,49763928,36,"If math is more than proof, we need to better celebrate the rest of it",388,277
+2026-09-20T16:44:37.737037+00:00,49747070,37,How to Write with an LLM,701,396
+2026-09-20T16:44:37.737037+00:00,49770256,38,You can defeat the Dream Devourer from Chrono Trigger using an int overflow,152,91
+2026-09-20T16:44:37.737037+00:00,49769405,39,ZK-JPEG: Zero-Knowledge Image Editing and Compression,99,26
+2026-09-20T16:44:37.737037+00:00,49768833,40,Btrfs/ZFS/bcachefs under workloads classic benchmarks skip,158,152
+2026-09-20T16:44:37.737037+00:00,49766637,42,"What Zig felt like, coming from Rust",249,302
+2026-09-20T16:44:37.737037+00:00,49731996,43,Deodands put a price on objects that caused death,100,38
+2026-09-20T16:44:37.737037+00:00,49756319,44,Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?,27,8
+2026-09-20T16:44:37.737037+00:00,49754194,45,"UFO Series Home Page: ""UFO"" TV Series from 1970",89,37
+2026-09-20T16:44:37.737037+00:00,49737326,46,Faster NumPy in the Browser,43,7
+2026-09-20T16:44:37.737037+00:00,49766821,47,Learning another language may be one of the best ways to keep your brain healthy,106,98
+2026-09-20T16:44:37.737037+00:00,49743934,48,Compiler-style optimization for drawing via Skia,129,24
+2026-09-20T16:44:37.737037+00:00,49770809,49,An open source roguelike adventure through dungeons,68,12
+2026-09-20T16:44:37.737037+00:00,49735010,50,Suzanne Ciani's Buchla Cookbook,89,26
