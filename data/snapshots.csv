@@ -49511,3 +49511,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-20T00:56:23.792188+00:00,49734131,48,Why building a Rust LSP is hard,134,63
 2026-09-20T00:56:23.792188+00:00,49770070,49,ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking,5,1
 2026-09-20T00:56:23.792188+00:00,49771266,50,The Hugging Face Hack Wasn't What It Was Cracked Up to Be,4,1
+2026-09-20T06:01:44.407248+00:00,49771110,1,Exfiltrate Your Weights,279,106
+2026-09-20T06:01:44.407248+00:00,49771966,2,RSA-896,90,25
+2026-09-20T06:01:44.407248+00:00,49735159,3,Weeping whales: Stillborn humpback whale grieving documented,42,4
+2026-09-20T06:01:44.407248+00:00,49769944,4,English: A vs. An,168,209
+2026-09-20T06:01:44.407248+00:00,49772532,5,Step 5 Preview: Advancing the Pareto Frontier,24,2
+2026-09-20T06:01:44.407248+00:00,49754055,6,Regeneration of used batteries via electrode–electrolyte interphase dissolution,24,1
+2026-09-20T06:01:44.407248+00:00,49769676,7,Measure internet censorship,133,82
+2026-09-20T06:01:44.407248+00:00,49772569,8,BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video],28,28
+2026-09-20T06:01:44.407248+00:00,49766966,9,Brood War Bench,210,90
+2026-09-20T06:01:44.407248+00:00,49770256,10,You can defeat the Dream Devourer from Chrono Trigger using an int overflow,93,50
+2026-09-20T06:01:44.407248+00:00,49764791,11,AI-generated posters don’t have to be horrible,1496,807
+2026-09-20T06:01:44.407248+00:00,49765348,12,I built non-autoregressive decision models with RL a year ago,1169,284
+2026-09-20T06:01:44.407248+00:00,49767242,13,The Lamentable Later Life of Lemmings,54,11
+2026-09-20T06:01:44.407248+00:00,49770809,14,An open source roguelike adventure through dungeons,35,4
+2026-09-20T06:01:44.407248+00:00,49737326,15,Faster NumPy in the Browser,24,0
+2026-09-20T06:01:44.407248+00:00,49734467,16,Asking authors about their own papers,129,72
+2026-09-20T06:01:44.407248+00:00,49731996,17,Deodands put a price on objects that caused death,70,28
+2026-09-20T06:01:44.407248+00:00,49766637,18,"What Zig felt like, coming from Rust",196,231
+2026-09-20T06:01:44.407248+00:00,49768833,19,Btrfs/ZFS/bcachefs under workloads classic benchmarks skip,104,83
+2026-09-20T06:01:44.407248+00:00,49769405,20,ZK-JPEG: Zero-Knowledge Image Editing and Compression,71,14
+2026-09-20T06:01:44.407248+00:00,49763928,21,"If math is more than proof, we need to better celebrate the rest of it",336,254
+2026-09-20T06:01:44.407248+00:00,49754194,23,"UFO Series Home Page: ""UFO"" TV Series from 1970",71,33
+2026-09-20T06:01:44.407248+00:00,49743934,24,Compiler-style optimization for drawing via Skia,94,21
+2026-09-20T06:01:44.407248+00:00,49772541,25,Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters,15,5
+2026-09-20T06:01:44.407248+00:00,49735010,26,Suzanne Ciani's Buchla Cookbook,78,24
+2026-09-20T06:01:44.407248+00:00,49742697,27,New evidence for hidden chambers beyond Tutankhamun's tomb,123,66
+2026-09-20T06:01:44.407248+00:00,49756548,28,"Why isn't mutable a subtype of immutable, or vice versa?",4,2
+2026-09-20T06:01:44.407248+00:00,49747070,29,How to Write with an LLM,655,383
+2026-09-20T06:01:44.407248+00:00,49770362,30,Mayday Mysteries,44,11
+2026-09-20T06:01:44.407248+00:00,49767564,31,Show HN: CUA-S1 – A System One Model for Computer Use,72,8
+2026-09-20T06:01:44.407248+00:00,49770847,32,Can you tell which images are AI-generated?,72,63
+2026-09-20T06:01:44.407248+00:00,49756121,33,Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots',93,48
+2026-09-20T06:01:44.407248+00:00,49766821,34,Learning another language may be one of the best ways to keep your brain healthy,75,67
+2026-09-20T06:01:44.407248+00:00,49770701,35,PyPy v8.0.0 Release,20,1
+2026-09-20T06:01:44.407248+00:00,49742438,36,Rabbit Hole: Minimum L-seams,14,5
+2026-09-20T06:01:44.407248+00:00,49763697,37,Two parallel neural ectoderm progenitors contribute to the developing brain,617,242
+2026-09-20T06:01:44.407248+00:00,49771112,38,Largest wildlife overpass in North America reduced wildlife collision by 91%,63,37
+2026-09-20T06:01:44.407248+00:00,49767937,39,I think you should almost never use AI to write,272,137
+2026-09-20T06:01:44.407248+00:00,49770369,40,"HellGates, custom CPU gate-level challenge",22,3
+2026-09-20T06:01:44.407248+00:00,49758736,41,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,1127,669
+2026-09-20T06:01:44.407248+00:00,49772544,42,Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it,6,0
+2026-09-20T06:01:44.407248+00:00,49745049,43,Adventures in Microcontroller Circuit Debugging,36,12
+2026-09-20T06:01:44.407248+00:00,49770883,44,Notes on discrete-time Fourier series and transform,6,0
+2026-09-20T06:01:44.407248+00:00,49772602,45,Infillion acquires location data company Foursquare,4,0
+2026-09-20T06:01:44.407248+00:00,49768921,46,Microsoft director: AI scraping 'the largest theft of labor in human history',153,46
+2026-09-20T06:01:44.407248+00:00,49772597,47,The quest for open PDKs (silicon foundry Process Development Kits) [video],4,0
+2026-09-20T06:01:44.407248+00:00,49720143,48,The Secret Life of Circuits,297,74
+2026-09-20T06:01:44.407248+00:00,49770018,49,Qualcomm's Adreno X2 GPU,13,0
+2026-09-20T06:01:44.407248+00:00,49766611,50,Tin: full-text search for Postgres,207,79
