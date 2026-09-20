@@ -49462,3 +49462,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-19T22:52:05.223478+00:00,49770455,48,There Are Over 1M NYC Street Signs. Here is How They Are Made.,5,1
 2026-09-19T22:52:05.223478+00:00,49738518,49,Ray Ozzie and the Optimism of Being Early,31,25
 2026-09-19T22:52:05.223478+00:00,49726773,50,Goroutine Leak Profiles,60,6
+2026-09-20T00:56:23.792188+00:00,49771110,1,Exfiltrate Your Weights,78,21
+2026-09-20T00:56:23.792188+00:00,49770293,2,"How Hacker News ranking works: scoring, controversy, and penalties (2013)",130,65
+2026-09-20T00:56:23.792188+00:00,49765348,3,I built non-autoregressive decision models with RL a year ago,1071,256
+2026-09-20T00:56:23.792188+00:00,49764791,4,AI-generated posters don’t have to be horrible,1350,762
+2026-09-20T00:56:23.792188+00:00,49770847,5,Can you tell which images are AI-generated?,28,20
+2026-09-20T00:56:23.792188+00:00,49769676,6,Measure internet censorship. Contribute to the largest open dataset,86,44
+2026-09-20T00:56:23.792188+00:00,49766966,7,Brood War Bench,137,64
+2026-09-20T00:56:23.792188+00:00,49770256,8,You can defeat the Dream Devourer from Chrono Trigger using an int overflow,36,22
+2026-09-20T00:56:23.792188+00:00,49743934,9,Compiler-style optimization for drawing via Skia,68,20
+2026-09-20T00:56:23.792188+00:00,49770362,10,Mayday Mysteries,28,3
+2026-09-20T00:56:23.792188+00:00,49771118,11,Show HN: I created an open source locally usable full fledged AI platform,7,6
+2026-09-20T00:56:23.792188+00:00,49769405,12,ZK-JPEG: Zero-Knowledge Image Editing and Compression,55,8
+2026-09-20T00:56:23.792188+00:00,49731996,13,Deodands put a price on objects that caused death,39,18
+2026-09-20T00:56:23.792188+00:00,49770580,14,Why AI Cannot Save an Enterprise That Doesn't Understand Its Data,13,3
+2026-09-20T00:56:23.792188+00:00,49754194,15,"UFO Series Home Page: ""UFO"" TV Series from 1970",49,29
+2026-09-20T00:56:23.792188+00:00,49767564,16,Show HN: CUA-S1 – A System One Model for Computer Use,60,7
+2026-09-20T00:56:23.792188+00:00,49766611,17,Tin: full-text search for Postgres,188,72
+2026-09-20T00:56:23.792188+00:00,49720143,18,The Secret Life of Circuits,282,72
+2026-09-20T00:56:23.792188+00:00,49742438,19,Rabbit Hole: Minimum L-seams,8,0
+2026-09-20T00:56:23.792188+00:00,49735010,20,Suzanne Ciani's Buchla Cookbook,58,21
+2026-09-20T00:56:23.792188+00:00,49742697,22,New evidence for hidden chambers beyond Tutankhamun's tomb,97,46
+2026-09-20T00:56:23.792188+00:00,49763987,23,GPT-6 Astra Solves a WWI German Radio Cipher,363,166
+2026-09-20T00:56:23.792188+00:00,49767242,24,The Lamentable Later Life of Lemmings,13,6
+2026-09-20T00:56:23.792188+00:00,49756121,25,Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots',85,47
+2026-09-20T00:56:23.792188+00:00,49769944,26,English: A vs. An,107,130
+2026-09-20T00:56:23.792188+00:00,49763296,27,San Francisco Onion Futures Company,371,156
+2026-09-20T00:56:23.792188+00:00,49747070,28,How to Write with an LLM,624,373
+2026-09-20T00:56:23.792188+00:00,49767937,29,I think you should almost never use AI to write,213,117
+2026-09-20T00:56:23.792188+00:00,49763697,30,Two parallel neural ectoderm progenitors contribute to the developing brain,613,236
+2026-09-20T00:56:23.792188+00:00,49770369,31,"HellGates, custom CPU gate-level challenge",10,2
+2026-09-20T00:56:23.792188+00:00,49768921,32,Microsoft director: AI scraping 'the largest theft of labor in human history',119,35
+2026-09-20T00:56:23.792188+00:00,49745049,33,Adventures in Microcontroller Circuit Debugging,32,9
+2026-09-20T00:56:23.792188+00:00,49770204,34,We are unconsciously becoming someone else,7,3
+2026-09-20T00:56:23.792188+00:00,49763928,35,"If math is more than proof, we need to better celebrate the rest of it",309,237
+2026-09-20T00:56:23.792188+00:00,49770018,36,Qualcomm's Adreno X2 GPU,7,0
+2026-09-20T00:56:23.792188+00:00,49758736,37,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,1115,660
+2026-09-20T00:56:23.792188+00:00,49770381,38,Roundabouts Database,7,0
+2026-09-20T00:56:23.792188+00:00,49770365,39,Skills Explorer: understand your SKILLs visually,4,0
+2026-09-20T00:56:23.792188+00:00,49730069,40,You can run Git on object storage if you re-make packfiles,140,33
+2026-09-20T00:56:23.792188+00:00,49770287,41,Partnering with Accenture on Embedded Evaluation,6,2
+2026-09-20T00:56:23.792188+00:00,49770894,42,How did Apple Silicon get 50% faster in three years? – Daniel Lemire's blog,7,0
+2026-09-20T00:56:23.792188+00:00,49762744,43,SDCC – Small Device C Compiler,126,32
+2026-09-20T00:56:23.792188+00:00,49771112,44,Largest wildlife overpass in North America reduced wildlife collision by 91%,6,1
+2026-09-20T00:56:23.792188+00:00,49770157,45,Show HN: Frost – frosted-glass Linux icons where file types say what they are,4,0
+2026-09-20T00:56:23.792188+00:00,49770132,46,MPEG-CENC: Defective by Specification (2024),6,0
+2026-09-20T00:56:23.792188+00:00,49762687,47,Science Is Open Software,153,67
+2026-09-20T00:56:23.792188+00:00,49734131,48,Why building a Rust LSP is hard,134,63
+2026-09-20T00:56:23.792188+00:00,49770070,49,ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking,5,1
+2026-09-20T00:56:23.792188+00:00,49771266,50,The Hugging Face Hack Wasn't What It Was Cracked Up to Be,4,1
