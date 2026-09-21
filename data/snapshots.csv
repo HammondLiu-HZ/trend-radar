@@ -49907,3 +49907,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-21T13:53:09.719770+00:00,49780849,48,Show HN: jevals – replacing LLM judges with typed Jev decisions,30,1
 2026-09-21T13:53:09.719770+00:00,49783849,49,Raspberry Pi 5 EEPROM update now blocks manual RAM upgrades,39,19
 2026-09-21T13:53:09.719770+00:00,49774795,50,"If AI coding is lowering your code quality, you're not managing quality right",106,150
+2026-09-21T19:15:29.060517+00:00,49787436,1,What Sun got wrong,363,193
+2026-09-21T19:15:29.060517+00:00,49790409,2,Turn off and restrict access to Apple Intelligence features on Mac,81,41
+2026-09-21T19:15:29.060517+00:00,49787726,3,Attention is all you have,335,96
+2026-09-21T19:15:29.060517+00:00,49791378,4,Why Does an NPM Math Library Need an Encrypted Loader?,18,0
+2026-09-21T19:15:29.060517+00:00,49788838,5,Grok 4.7,323,266
+2026-09-21T19:15:29.060517+00:00,49791117,6,Avoiding the babbling-idiot failure in a time-triggered communication system,12,1
+2026-09-21T19:15:29.060517+00:00,49789224,7,Fable 5 – Median thinking declined in August,219,140
+2026-09-21T19:15:29.060517+00:00,49791509,8,"US halts flights at busy East Coast airports, says fiber line cut",29,12
+2026-09-21T19:15:29.060517+00:00,49787142,9,Python Workers are now generally available,112,14
+2026-09-21T19:15:29.060517+00:00,49789228,10,This Digital Radio Gets Messages to the World’s Remotest Locations,46,24
+2026-09-21T19:15:29.060517+00:00,49788773,11,A restored PDP-11/83 serving this page on 211BSD Unix,56,23
+2026-09-21T19:15:29.060517+00:00,49790389,12,Advisory Group on Mathematics and Artificial Intelligence,21,10
+2026-09-21T19:15:29.060517+00:00,49783999,13,Kev: Tiny Jev-like family of decision models built on top of Qwen3.5,330,154
+2026-09-21T19:15:29.060517+00:00,49789081,14,How do Traffic Signals Work (2019),31,21
+2026-09-21T19:15:29.060517+00:00,49789982,15,Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com,101,87
+2026-09-21T19:15:29.060517+00:00,49791380,16,Help 404 Media Find Out How Your Local Police Are Surveiling You,21,1
+2026-09-21T19:15:29.060517+00:00,49783495,17,Grim Fandango Puzzle Document (1996) [pdf],336,76
+2026-09-21T19:15:29.060517+00:00,49780820,18,What happened to the Snowden archive,643,457
+2026-09-21T19:15:29.060517+00:00,49787684,19,"Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",34,20
+2026-09-21T19:15:29.060517+00:00,49780797,20,AX – Google’s Open Agentic Orchestrator,619,284
+2026-09-21T19:15:29.060517+00:00,49780226,21,Whirlpool Washer Transmission Repair (2007),26,25
+2026-09-21T19:15:29.060517+00:00,49787313,22,M5 Ultra Mac Studio Review,184,157
+2026-09-21T19:15:29.060517+00:00,49787535,23,macOS 27: Workaround to avoid downloading AI models and save storage,148,70
+2026-09-21T19:15:29.060517+00:00,49778029,24,Samsung is expected to more than double output of its HBM4 and HBM4E DRAM,542,422
+2026-09-21T19:15:29.060517+00:00,49783101,25,Heretic removes restrictions from language models,187,74
+2026-09-21T19:15:29.060517+00:00,49786689,26,Raspberry Pi blocks changing RAM chips,177,141
+2026-09-21T19:15:29.060517+00:00,49787548,27,Apple Mac mini review,86,48
+2026-09-21T19:15:29.060517+00:00,49783133,28,Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM,234,50
+2026-09-21T19:15:29.060517+00:00,49786419,29,Show HN: Lossless-memory – a personal AI memory that never summarizes,49,16
+2026-09-21T19:15:29.060517+00:00,49785397,30,ZuckOff is a free app that sees Meta glasses before they see you,336,315
+2026-09-21T19:15:29.060517+00:00,49771110,31,Exfiltrate your Weights,709,294
+2026-09-21T19:15:29.060517+00:00,49779329,32,MCP was always a bad idea?,311,291
+2026-09-21T19:15:29.060517+00:00,49768336,33,The Effect of CRTs on Pixel Art (2024),301,117
+2026-09-21T19:15:29.060517+00:00,49777467,34,I am often wrong,316,220
+2026-09-21T19:15:29.060517+00:00,49789558,35,"Grok 4.7 Intelligence, Performance and Price Analysis",6,0
+2026-09-21T19:15:29.060517+00:00,49786609,36,Ask HN: Is it impossible to disable Siri on macOS 27?,129,69
+2026-09-21T19:15:29.060517+00:00,49781436,37,"Amiga Unix, Again",138,58
+2026-09-21T19:15:29.060517+00:00,49776717,38,Singapore’s National Library Board offers micropayments to build reading habits,278,139
+2026-09-21T19:15:29.060517+00:00,49783932,39,Sublime Text Build 4213,57,34
+2026-09-21T19:15:29.060517+00:00,49791246,40,U.S. Small Biz Can't Ship to the EU Anymore,7,1
+2026-09-21T19:15:29.060517+00:00,49775104,41,The LLMentalist Effect (2023),219,298
+2026-09-21T19:15:29.060517+00:00,49771218,42,Apple iPhone 18 Pro Camera test,195,167
+2026-09-21T19:15:29.060517+00:00,49791384,43,"Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",8,1
+2026-09-21T19:15:29.060517+00:00,49776627,44,Sherline Tools Is Going Out of Business,248,178
+2026-09-21T19:15:29.060517+00:00,49783568,45,Elektron Machinedrum in the Browser,47,22
+2026-09-21T19:15:29.060517+00:00,49775499,46,Qwen Image 2.1,713,192
+2026-09-21T19:15:29.060517+00:00,49782775,47,Winning the visa lottery,97,101
+2026-09-21T19:15:29.060517+00:00,49790501,48,Seattle Bans Rental Junk Fees,62,121
+2026-09-21T19:15:29.060517+00:00,49791321,49,Boomers love making AI images of their grandkids. Millennial parents hate it,10,0
+2026-09-21T19:15:29.060517+00:00,49780022,50,Ogre Battle 64 Recompiled Project at 99.05%,103,43
