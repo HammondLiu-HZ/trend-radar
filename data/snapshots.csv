@@ -50107,3 +50107,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-22T09:49:05.188255+00:00,49781436,48,"Amiga Unix, Again",142,64
 2026-09-22T09:49:05.188255+00:00,49794478,49,Markdown in /src,16,4
 2026-09-22T09:49:05.188255+00:00,49775104,50,The LLMentalist Effect (2023),226,304
+2026-09-22T14:38:12.268065+00:00,49801324,1,OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005,94,107
+2026-09-22T14:38:12.268065+00:00,49801329,2,Show HN: Drop – a rootless Linux sandbox with gVisor support,16,1
+2026-09-22T14:38:12.268065+00:00,49797323,3,Can gzip be a language model?,282,105
+2026-09-22T14:38:12.268065+00:00,49792730,4,MiMo v2.6,995,447
+2026-09-22T14:38:12.268065+00:00,49794615,5,"Spymarks, Not Watermarks",571,136
+2026-09-22T14:38:12.268065+00:00,49780622,6,Line Scan Photos from MUNI Heritage Weekend in San Francisco,66,11
+2026-09-22T14:38:12.268065+00:00,49799965,7,AI Has No Wisdom and Neither Will You,257,351
+2026-09-22T14:38:12.268065+00:00,49787726,8,Attention is all you have,944,285
+2026-09-22T14:38:12.268065+00:00,49792342,9,Transformers Explained Visually,522,79
+2026-09-22T14:38:12.268065+00:00,49798204,10,AMD's random number generator can't generate a 0?,165,120
+2026-09-22T14:38:12.268065+00:00,49797982,11,I said no and Apple said yes,522,422
+2026-09-22T14:38:12.268065+00:00,49787436,12,What Sun got wrong,635,366
+2026-09-22T14:38:12.268065+00:00,49774161,13,A font that reads what you wrote,53,30
+2026-09-22T14:38:12.268065+00:00,49801330,14,Stanford R&DE Uses AI to Race Swap Students for Advertising,33,15
+2026-09-22T14:38:12.268065+00:00,49794330,15,I don't want to read what you didn't write,853,352
+2026-09-22T14:38:12.268065+00:00,49799083,16,"9 Ads per Minute: FIFA Cup 26 – ""the price of the beautiful game""",132,170
+2026-09-22T14:38:12.268065+00:00,49785202,17,Engineering Memory: On learning to memorize first 100 digits of pi (2024),42,25
+2026-09-22T14:38:12.268065+00:00,49796660,18,"MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",119,47
+2026-09-22T14:38:12.268065+00:00,49792067,19,"AI coding has made CI a bottleneck, so we reworked ours to keep up",282,346
+2026-09-22T14:38:12.268065+00:00,49776999,20,We broke an Over-The-Air update on the ESP32 on purpose,5,0
+2026-09-22T14:38:12.268065+00:00,49801939,21,"Apple has added persistent 'ads' to iOS, and it's driving users crazy",9,1
+2026-09-22T14:38:12.268065+00:00,49769561,22,Divide by depth for instant 3D,189,34
+2026-09-22T14:38:12.268065+00:00,49780175,23,What It's Like to Work in One of America's Data Centers,38,33
+2026-09-22T14:38:12.268065+00:00,49798597,24,Verda (Finland) raises $189M in Series B,73,26
+2026-09-22T14:38:12.268065+00:00,49794736,25,Looking forward to Git 2.56 – and 3.0,170,90
+2026-09-22T14:38:12.268065+00:00,49791939,26,NASA’s Mars Sample Return mission is dead,427,348
+2026-09-22T14:38:12.268065+00:00,49772263,27,World Wide Words,34,3
+2026-09-22T14:38:12.268065+00:00,49786643,28,A build graph that rolls dice,14,2
+2026-09-22T14:38:12.268065+00:00,49795579,29,Claude Status – Elevated errors for multiple models,135,102
+2026-09-22T14:38:12.268065+00:00,49791997,30,The Advisory Group on Mathematics and Artificial Intelligence,150,76
+2026-09-22T14:38:12.268065+00:00,49800953,31,People Training OpenAI's AI Fired for Using AI to Train the AI,26,11
+2026-09-22T14:38:12.268065+00:00,49789228,32,HERMES radio enables voice and data communication over vast distances,166,66
+2026-09-22T14:38:12.268065+00:00,49787142,33,Python Workers are now generally available,255,39
+2026-09-22T14:38:12.268065+00:00,49789081,34,How do traffic signals work? (2019),100,73
+2026-09-22T14:38:12.268065+00:00,49767024,35,JavaFX 27 Native Image on a Raspberry Pi 5,38,8
+2026-09-22T14:38:12.268065+00:00,49791125,36,Apple Copland D11E4 Booting in the Browser,155,44
+2026-09-22T14:38:12.268065+00:00,49788838,37,Grok 4.7,590,498
+2026-09-22T14:38:12.268065+00:00,49771110,38,Exfiltrate your Weights,728,300
+2026-09-22T14:38:12.268065+00:00,49790409,39,Turn off and restrict access to Apple Intelligence features on Mac,329,209
+2026-09-22T14:38:12.268065+00:00,49801190,40,Texas police department ordered to close for failing to provide public benefit,25,8
+2026-09-22T14:38:12.268065+00:00,49796730,41,Used ThinkPad Buyer's Guide (2019),42,36
+2026-09-22T14:38:12.268065+00:00,49771543,42,More floating point alternatives,42,35
+2026-09-22T14:38:12.268065+00:00,49795122,43,Socrates vs. the Written Word (2011),61,41
+2026-09-22T14:38:12.268065+00:00,49791378,44,Why does mathmain need an encrypted loader?,133,39
+2026-09-22T14:38:12.268065+00:00,49791647,45,Frontier AI on Your Own Hardware,173,91
+2026-09-22T14:38:12.268065+00:00,49791720,46,Roboharm: Do frontier robot policies refuse unsafe instructions?,57,23
+2026-09-22T14:38:12.268065+00:00,49785609,47,First Shader from Zero in Godot 4,86,11
+2026-09-22T14:38:12.268065+00:00,49783101,48,Heretic removes restrictions from language models,257,108
+2026-09-22T14:38:12.268065+00:00,49789224,49,Fable 5 – Median thinking declined in August,405,286
+2026-09-22T14:38:12.268065+00:00,49783133,50,Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM,267,68
