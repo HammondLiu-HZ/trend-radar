@@ -50057,3 +50057,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-22T04:35:17.966212+00:00,49795533,48,"ECB will invest in tokenised securities, and settle trades on its own new rail",12,0
 2026-09-22T04:35:17.966212+00:00,49776717,49,Singapore’s National Library Board offers micropayments to build reading habits,284,145
 2026-09-22T04:35:17.966212+00:00,49776382,50,The Journey of a Migratory Shorebird,12,0
+2026-09-22T09:49:05.188255+00:00,49797323,1,Can gzip be a language model?,130,50
+2026-09-22T09:49:05.188255+00:00,49797982,2,I said no and Apple said yes,96,41
+2026-09-22T09:49:05.188255+00:00,49792730,3,MiMo v2.6,904,400
+2026-09-22T09:49:05.188255+00:00,49798451,4,"Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",14,10
+2026-09-22T09:49:05.188255+00:00,49794615,5,"Spymarks, Not Watermarks",437,109
+2026-09-22T09:49:05.188255+00:00,49792342,6,Transformers Explained Visually,409,64
+2026-09-22T09:49:05.188255+00:00,49787726,7,Attention is all you have,806,241
+2026-09-22T09:49:05.188255+00:00,49787436,8,What Sun got wrong,591,342
+2026-09-22T09:49:05.188255+00:00,49796660,9,"MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",63,17
+2026-09-22T09:49:05.188255+00:00,49794330,10,I don't want to read what you didn't write,678,271
+2026-09-22T09:49:05.188255+00:00,49792067,11,"AI coding has made CI a bottleneck, so we reworked ours to keep up",240,267
+2026-09-22T09:49:05.188255+00:00,49794736,12,Looking forward to Git 2.56 – and 3.0,128,56
+2026-09-22T09:49:05.188255+00:00,49791939,13,NASA’s Mars Sample Return mission is dead,388,323
+2026-09-22T09:49:05.188255+00:00,49769561,14,Divide by depth for instant 3D,152,27
+2026-09-22T09:49:05.188255+00:00,49785202,15,Engineering Memory: On learning to memorize first 100 digits of pi (2024),16,9
+2026-09-22T09:49:05.188255+00:00,49772263,16,World Wide Words,17,1
+2026-09-22T09:49:05.188255+00:00,49795579,17,Claude Status – Elevated errors for multiple models,111,80
+2026-09-22T09:49:05.188255+00:00,49796730,18,Used ThinkPad Buyer's Guide (2019),20,4
+2026-09-22T09:49:05.188255+00:00,49774269,19,PDF Forgeries Are Surprisingly Rare (2022),41,29
+2026-09-22T09:49:05.188255+00:00,49791997,20,The Advisory Group on Mathematics and Artificial Intelligence,137,66
+2026-09-22T09:49:05.188255+00:00,49774161,21,A font that reads what you wrote,3,3
+2026-09-22T09:49:05.188255+00:00,49780175,22,What It's Like to Work in One of America's Data Centers,9,2
+2026-09-22T09:49:05.188255+00:00,49795122,23,Socrates vs. the Written Word (2011),46,20
+2026-09-22T09:49:05.188255+00:00,49789081,24,How do traffic signals work? (2019),86,63
+2026-09-22T09:49:05.188255+00:00,49787142,25,Python Workers are now generally available,228,38
+2026-09-22T09:49:05.188255+00:00,49789228,26,HERMES radio enables voice and data communication over vast distances,138,59
+2026-09-22T09:49:05.188255+00:00,49791125,27,Apple Copland D11E4 Booting in the Browser,140,40
+2026-09-22T09:49:05.188255+00:00,49791647,28,Frontier AI on Your Own Hardware,160,78
+2026-09-22T09:49:05.188255+00:00,49788838,29,Grok 4.7,573,483
+2026-09-22T09:49:05.188255+00:00,49790409,30,Turn off and restrict access to Apple Intelligence features on Mac,313,199
+2026-09-22T09:49:05.188255+00:00,49771543,31,More floating point alternatives,36,23
+2026-09-22T09:49:05.188255+00:00,49771110,32,Exfiltrate your Weights,725,300
+2026-09-22T09:49:05.188255+00:00,49791378,33,Why does mathmain need an encrypted loader?,128,38
+2026-09-22T09:49:05.188255+00:00,49791720,34,Roboharm: Do frontier robot policies refuse unsafe instructions?,55,23
+2026-09-22T09:49:05.188255+00:00,49785609,35,First Shader from Zero in Godot 4,77,9
+2026-09-22T09:49:05.188255+00:00,49789224,36,Fable 5 – Median thinking declined in August,391,276
+2026-09-22T09:49:05.188255+00:00,49771389,37,Paper Models of Polyhedra,23,0
+2026-09-22T09:49:05.188255+00:00,49791509,38,"US halts flights at busy East Coast airports, says fiber line cut",221,131
+2026-09-22T09:49:05.188255+00:00,49783101,39,Heretic removes restrictions from language models,252,104
+2026-09-22T09:49:05.188255+00:00,49783133,40,Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM,263,60
+2026-09-22T09:49:05.188255+00:00,49796843,41,Jev introduces a new shape of LLM,30,6
+2026-09-22T09:49:05.188255+00:00,49791797,42,In Search of a Compositional Theory of Self-Stabilization,46,4
+2026-09-22T09:49:05.188255+00:00,49783274,43,"TXR: An Original, New Programming Language for Convenient Data Munging",30,6
+2026-09-22T09:49:05.188255+00:00,49783999,44,Kev: Tiny Jev-like family of decision models built on top of Qwen3.5,434,196
+2026-09-22T09:49:05.188255+00:00,49789356,45,Show HN: Foremerge – Catch intent conflicts between parallel coding agents,42,13
+2026-09-22T09:49:05.188255+00:00,49780820,46,What happened to the Snowden archive,696,538
+2026-09-22T09:49:05.188255+00:00,49797177,47,Why AI resembles a charismatic religious leader,13,2
+2026-09-22T09:49:05.188255+00:00,49781436,48,"Amiga Unix, Again",142,64
+2026-09-22T09:49:05.188255+00:00,49794478,49,Markdown in /src,16,4
+2026-09-22T09:49:05.188255+00:00,49775104,50,The LLMentalist Effect (2023),226,304
