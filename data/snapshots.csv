@@ -50157,3 +50157,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-22T14:38:12.268065+00:00,49783101,48,Heretic removes restrictions from language models,257,108
 2026-09-22T14:38:12.268065+00:00,49789224,49,Fable 5 – Median thinking declined in August,405,286
 2026-09-22T14:38:12.268065+00:00,49783133,50,Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM,267,68
+2026-09-22T18:43:55.401166+00:00,49805509,1,GPT-6 Sol and Luna,334,154
+2026-09-22T18:43:55.401166+00:00,49803892,2,Claude Opus 5.5,562,522
+2026-09-22T18:43:55.401166+00:00,49801324,3,OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005,403,302
+2026-09-22T18:43:55.401166+00:00,49803959,4,WordPress: Unauthenticated path traversal leading to conditional RCE,68,26
+2026-09-22T18:43:55.401166+00:00,49804316,5,"Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",86,34
+2026-09-22T18:43:55.401166+00:00,49804683,6,There's a high chance of devices being sold with GrapheneOS preinstalled in 2027,117,44
+2026-09-22T18:43:55.401166+00:00,49802161,7,OpenAI is well positioned to fast-follow Jev,179,128
+2026-09-22T18:43:55.401166+00:00,49803635,8,16-bit Intel 8088 chip (c. 1985),73,10
+2026-09-22T18:43:55.401166+00:00,49804931,9,Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent,16,15
+2026-09-22T18:43:55.401166+00:00,49803085,10,Writing Rust code that's fast by asking agents to make the code faster,64,27
+2026-09-22T18:43:55.401166+00:00,49801939,11,"Apple has added persistent 'ads' to iOS, and it's driving users crazy",422,331
+2026-09-22T18:43:55.401166+00:00,49803683,12,"Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",25,0
+2026-09-22T18:43:55.401166+00:00,49787163,13,"George Lucas Returns to Earth, Bearing Gifts",13,2
+2026-09-22T18:43:55.401166+00:00,49794193,14,Solitaire Alone Together,90,22
+2026-09-22T18:43:55.401166+00:00,49801329,15,Show HN: Drop – A rootless Linux sandbox with gVisor support,119,40
+2026-09-22T18:43:55.401166+00:00,49797323,16,Can gzip be a language model?,346,130
+2026-09-22T18:43:55.401166+00:00,49779984,17,One Minute Park,28,4
+2026-09-22T18:43:55.401166+00:00,49798204,18,AMD's random number generator can't generate a 0?,215,159
+2026-09-22T18:43:55.401166+00:00,49777601,19,Truman World,32,28
+2026-09-22T18:43:55.401166+00:00,49802789,20,Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor,14,0
+2026-09-22T18:43:55.401166+00:00,49800566,21,Training a model to identify AI-generated web content from structure alone,9,2
+2026-09-22T18:43:55.401166+00:00,49782452,22,Relativistic raytracing,28,5
+2026-09-22T18:43:55.401166+00:00,49801218,23,The Economics of Open-Weight Inference,27,16
+2026-09-22T18:43:55.401166+00:00,49780622,24,MUNI Heritage Weekend in San Francisco,115,25
+2026-09-22T18:43:55.401166+00:00,49802871,25,I asked Meta’s Muse for its filesystem and it sent me 6.8GB,226,118
+2026-09-22T18:43:55.401166+00:00,49802030,26,Meta’s Muse has a serious 0-day,92,37
+2026-09-22T18:43:55.401166+00:00,49802581,27,Vacate a drone restriction that criminalized recording immigration agents,74,14
+2026-09-22T18:43:55.401166+00:00,49796260,28,"Side-stepping the Secretary Problem, unwittingly",10,1
+2026-09-22T18:43:55.401166+00:00,49797982,29,I said no and Apple said yes,718,574
+2026-09-22T18:43:55.401166+00:00,49792730,30,MiMo v2.6,1065,464
+2026-09-22T18:43:55.401166+00:00,49796660,31,"MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",145,60
+2026-09-22T18:43:55.401166+00:00,49774161,32,A font that reads what you wrote,74,40
+2026-09-22T18:43:55.401166+00:00,49794615,33,"Spymarks, not Watermarks",628,158
+2026-09-22T18:43:55.401166+00:00,49780175,34,What It's Like to Work in One of America's Data Centers,60,59
+2026-09-22T18:43:55.401166+00:00,49785202,35,Engineering Memory: On learning to memorize first 100 digits of pi (2024),54,36
+2026-09-22T18:43:55.401166+00:00,49800574,36,"JevBench, a reproducible benchmark for typed decision models",17,1
+2026-09-22T18:43:55.401166+00:00,49805400,37,"Prominent art therapist quoted by Vice, Forbes and others is AI-generated",4,0
+2026-09-22T18:43:55.401166+00:00,49804539,38,Grok bot is now in Tesla,11,4
+2026-09-22T18:43:55.401166+00:00,49787726,39,Attention is all you have,1009,303
+2026-09-22T18:43:55.401166+00:00,49798597,40,Verda (Finland) raises $189M in Series B,81,35
+2026-09-22T18:43:55.401166+00:00,49792342,41,Transformers Explained Visually,580,85
+2026-09-22T18:43:55.401166+00:00,49803894,42,Americans' Drinking Remains at Record Low: Gallup Poll,19,29
+2026-09-22T18:43:55.401166+00:00,49794736,43,Looking forward to Git 2.56 – and 3.0,179,102
+2026-09-22T18:43:55.401166+00:00,49787436,44,What Sun got wrong,665,385
+2026-09-22T18:43:55.401166+00:00,49772263,45,World Wide Words,35,3
+2026-09-22T18:43:55.401166+00:00,49804831,46,German court rules Meta liable for scam ads on Facebook and Instagram,13,3
+2026-09-22T18:43:55.401166+00:00,49804266,47,"Aging may be a program, not a breakdown",48,67
+2026-09-22T18:43:55.401166+00:00,49767024,48,JavaFX 27 Native Image on a Raspberry Pi 5,45,12
+2026-09-22T18:43:55.401166+00:00,49771110,49,Exfiltrate your Weights,729,301
+2026-09-22T18:43:55.401166+00:00,49799965,50,AI Has No Wisdom and Neither Will You,340,475
