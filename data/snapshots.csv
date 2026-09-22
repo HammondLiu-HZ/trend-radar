@@ -50007,3 +50007,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-21T23:09:51.781083+00:00,49780797,48,AX – Google’s Open Agentic Orchestrator,628,288
 2026-09-21T23:09:51.781083+00:00,49791978,49,Microsoft patents system to freeze games and inject ads during downtimes,27,10
 2026-09-21T23:09:51.781083+00:00,49775104,50,The LLMentalist Effect (2023),222,304
+2026-09-22T04:35:17.966212+00:00,49792730,1,MiMo v2.6,672,323
+2026-09-22T04:35:17.966212+00:00,49794615,2,"Spymarks, Not Watermarks",229,41
+2026-09-22T04:35:17.966212+00:00,49787436,3,What Sun got wrong,535,311
+2026-09-22T04:35:17.966212+00:00,49794330,4,I don't want to read what you didn't write,438,144
+2026-09-22T04:35:17.966212+00:00,49792342,5,Transformers Explained Visually,257,41
+2026-09-22T04:35:17.966212+00:00,49787726,6,Attention is all you have,644,194
+2026-09-22T04:35:17.966212+00:00,49791939,7,NASA’s Mars Sample Return mission is dead,339,274
+2026-09-22T04:35:17.966212+00:00,49774269,8,PDF Forgeries Are Surprisingly Rare (2022),13,8
+2026-09-22T04:35:17.966212+00:00,49792067,9,"AI coding has made CI a bottleneck, so we reworked ours to keep up",172,181
+2026-09-22T04:35:17.966212+00:00,49795579,10,Claude Status – Elevated errors for multiple models,78,60
+2026-09-22T04:35:17.966212+00:00,49794736,11,Looking forward to Git 2.56 – and 3.0,60,24
+2026-09-22T04:35:17.966212+00:00,49795122,12,Socrates vs. the Written Word (2011),24,7
+2026-09-22T04:35:17.966212+00:00,49769561,13,Divide by depth for instant 3D,105,17
+2026-09-22T04:35:17.966212+00:00,49791997,14,The Advisory Group on Mathematics and Artificial Intelligence,109,54
+2026-09-22T04:35:17.966212+00:00,49771389,15,Paper Models of Polyhedra,13,0
+2026-09-22T04:35:17.966212+00:00,49789081,16,How do traffic signals work? (2019),71,52
+2026-09-22T04:35:17.966212+00:00,49771543,17,More floating point alternatives,14,11
+2026-09-22T04:35:17.966212+00:00,49791647,18,Frontier AI on Your Own Hardware,123,63
+2026-09-22T04:35:17.966212+00:00,49783999,19,Kev: Tiny Jev-like family of decision models built on top of Qwen3.5,418,191
+2026-09-22T04:35:17.966212+00:00,49785609,20,First Shader from Zero in Godot 4,44,6
+2026-09-22T04:35:17.966212+00:00,49790409,21,Turn off and restrict access to Apple Intelligence features on Mac,263,179
+2026-09-22T04:35:17.966212+00:00,49789228,22,HERMES radio enables voice and data communication over vast distances,112,49
+2026-09-22T04:35:17.966212+00:00,49788838,23,Grok 4.7,523,448
+2026-09-22T04:35:17.966212+00:00,49787142,24,Python Workers are now generally available,198,32
+2026-09-22T04:35:17.966212+00:00,49791125,25,Apple Copland D11E4 Booting in the Browser,112,32
+2026-09-22T04:35:17.966212+00:00,49771092,26,Copper-Rs: Live Telemetry Deterministic Twins for Robots,6,1
+2026-09-22T04:35:17.966212+00:00,49777601,27,Truman World,9,12
+2026-09-22T04:35:17.966212+00:00,49791378,28,Why does mathmain need an encrypted loader?,120,35
+2026-09-22T04:35:17.966212+00:00,49783274,29,"TXR: An Original, New Programming Language for Convenient Data Munging",27,3
+2026-09-22T04:35:17.966212+00:00,49791720,30,Roboharm: Do frontier robot policies refuse unsafe instructions?,39,21
+2026-09-22T04:35:17.966212+00:00,49791509,31,"US halts flights at busy East Coast airports, says fiber line cut",216,122
+2026-09-22T04:35:17.966212+00:00,49796292,32,"Smart Ring Maker Oura, Backers Seek $2.2B in US IPO",13,4
+2026-09-22T04:35:17.966212+00:00,49789224,33,Fable 5 – Median thinking declined in August,373,265
+2026-09-22T04:35:17.966212+00:00,49791797,34,In Search of a Compositional Theory of Self-Stabilization,46,4
+2026-09-22T04:35:17.966212+00:00,49771110,35,Exfiltrate your Weights,723,298
+2026-09-22T04:35:17.966212+00:00,49795834,36,US threatens to ground Iranian airlines worldwide from Wednesday,23,1
+2026-09-22T04:35:17.966212+00:00,49783101,37,Heretic removes restrictions from language models,244,102
+2026-09-22T04:35:17.966212+00:00,49789361,38,"The agents, they just want to talk",21,5
+2026-09-22T04:35:17.966212+00:00,49789356,39,Show HN: Foremerge – Catch intent conflicts between parallel coding agents,39,10
+2026-09-22T04:35:17.966212+00:00,49795686,40,People Hooked on Vapes Try a New Way to Quit: Cigarettes,15,4
+2026-09-22T04:35:17.966212+00:00,49783133,41,Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM,257,57
+2026-09-22T04:35:17.966212+00:00,49796379,42,What California Is Learning from Solar Panels Built over Irrigation Canals,6,0
+2026-09-22T04:35:17.966212+00:00,49787313,43,M5 Ultra Mac Studio Review,236,238
+2026-09-22T04:35:17.966212+00:00,49788773,44,A restored PDP-11/83 serving this page on 211BSD Unix,92,38
+2026-09-22T04:35:17.966212+00:00,49794478,45,Markdown in /src,8,0
+2026-09-22T04:35:17.966212+00:00,49787535,46,macOS 27: Workaround to avoid downloading AI models and save storage,218,106
+2026-09-22T04:35:17.966212+00:00,49780820,47,What happened to the Snowden archive,685,521
+2026-09-22T04:35:17.966212+00:00,49795533,48,"ECB will invest in tokenised securities, and settle trades on its own new rail",12,0
+2026-09-22T04:35:17.966212+00:00,49776717,49,Singapore’s National Library Board offers micropayments to build reading habits,284,145
+2026-09-22T04:35:17.966212+00:00,49776382,50,The Journey of a Migratory Shorebird,12,0
