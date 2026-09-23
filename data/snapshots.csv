@@ -50456,3 +50456,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-23T16:42:56.697676+00:00,49800574,48,"Show HN: JevBench, a reproducible benchmark for typed decision models",126,34
 2026-09-23T16:42:56.697676+00:00,49815344,49,What AI-Native Looks Like,14,15
 2026-09-23T16:42:56.697676+00:00,49773646,50,Porsche puts wireless EV charging into production,87,85
+2026-09-23T20:08:46.143124+00:00,49820134,1,Claude discovers a novel enzyme system with CRISPR-like repeats,189,181
+2026-09-23T20:08:46.143124+00:00,49817469,2,Fixing the Portobello Police Station Clock,301,68
+2026-09-23T20:08:46.143124+00:00,49821196,3,How we made claude.ai 3x faster in two weeks,52,13
+2026-09-23T20:08:46.143124+00:00,49820065,4,A brief history of Windows scroll bar shortcuts,50,16
+2026-09-23T20:08:46.143124+00:00,49820267,5,Cloud Agents Are Inevitable AI Prisons,30,20
+2026-09-23T20:08:46.143124+00:00,49819221,6,Italian parliament votes for return to nuclear energy,284,162
+2026-09-23T20:08:46.143124+00:00,49817615,7,Gemini 3.8 text-to-speech,181,94
+2026-09-23T20:08:46.143124+00:00,49817524,8,Radicle: Disclosure of Vulnerability in the Network Protocol,82,29
+2026-09-23T20:08:46.143124+00:00,49812769,9,Jev in 25 Lines of Python,555,173
+2026-09-23T20:08:46.143124+00:00,49805509,10,GPT-6 Sol and Luna,1705,815
+2026-09-23T20:08:46.143124+00:00,49803892,11,Claude Opus 5.5,1747,1062
+2026-09-23T20:08:46.143124+00:00,49814947,12,Claude Code reads AGENTS.md only when telemetry is on [fixed],411,234
+2026-09-23T20:08:46.143124+00:00,49814236,13,Z80 REPL (2018),122,17
+2026-09-23T20:08:46.143124+00:00,49819814,14,"UK military jamming other nations' satellites to defend itself, BBC told",70,115
+2026-09-23T20:08:46.143124+00:00,49815982,15,Stripe's Knowledge AI Platform,142,95
+2026-09-23T20:08:46.143124+00:00,49815466,16,I don't want the details,273,169
+2026-09-23T20:08:46.143124+00:00,49821086,17,Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes,3,0
+2026-09-23T20:08:46.143124+00:00,49791296,18,Show HN: Conway's Game of Life in boot sector,7,1
+2026-09-23T20:08:46.143124+00:00,49816374,19,Seattle City Council votes to ban surveillance pricing in sale of groceries,196,110
+2026-09-23T20:08:46.143124+00:00,49818698,21,28% of job postings on company career sites have been open over 90 days,146,218
+2026-09-23T20:08:46.143124+00:00,49809935,22,Web-based IBM 1620 emulator and IPL-V from 1963,32,6
+2026-09-23T20:08:46.143124+00:00,49813482,23,Tokens Too Cheap to Meter,174,150
+2026-09-23T20:08:46.143124+00:00,49801324,24,OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005,715,431
+2026-09-23T20:08:46.143124+00:00,49811065,25,Transit rewards,241,293
+2026-09-23T20:08:46.143124+00:00,49817289,26,Strands Harness,115,84
+2026-09-23T20:08:46.143124+00:00,49817404,27,GPT-6 Astra has gained the ability to drive a car,232,200
+2026-09-23T20:08:46.143124+00:00,49796379,28,What California is learning from solar panels built over irrigation canals,340,665
+2026-09-23T20:08:46.143124+00:00,49758709,29,How did AMD Ryzen get 50% faster in two years?,466,190
+2026-09-23T20:08:46.143124+00:00,49808023,30,"Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",452,243
+2026-09-23T20:08:46.143124+00:00,49815484,31,The GitHub wiki is an anti-pattern (2022),151,89
+2026-09-23T20:08:46.143124+00:00,49806335,32,SAML: A fractal of bad design,331,175
+2026-09-23T20:08:46.143124+00:00,49805278,33,'We hacked the FBI:' Hackers say they have data on all FBI employees,779,574
+2026-09-23T20:08:46.143124+00:00,49781862,34,ReBarUEFI: Resizable BAR for almost any UEFI system,222,71
+2026-09-23T20:08:46.143124+00:00,49819195,35,Fertility rate dropped over 50% within 10 years in Argentina,22,13
+2026-09-23T20:08:46.143124+00:00,49806430,36,Pentagon says overreliance on AI contributed to missile strike on Iran school,871,470
+2026-09-23T20:08:46.143124+00:00,49803959,37,WordPress: Unauthenticated path traversal leading to conditional RCE,229,125
+2026-09-23T20:08:46.143124+00:00,49821505,38,Euler's Eyes,4,0
+2026-09-23T20:08:46.143124+00:00,49804316,39,"Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",326,103
+2026-09-23T20:08:46.143124+00:00,49811429,40,Data-only attacks are easier than you think (2024),92,42
+2026-09-23T20:08:46.143124+00:00,49795686,41,People hooked on vapes try a new way to quit: cigarettes,239,318
+2026-09-23T20:08:46.143124+00:00,49819658,42,What to do when your Waymo holds up a Secret Service motorcade,24,18
+2026-09-23T20:08:46.143124+00:00,49805748,43,Unreal Agent,229,120
+2026-09-23T20:08:46.143124+00:00,49820718,44,If Carpenters Were Hired Like Programmers (2013),6,1
+2026-09-23T20:08:46.143124+00:00,49800513,45,Show HN: Npunlock – Run custom C kernels for Intel NPUs,59,12
+2026-09-23T20:08:46.143124+00:00,49816899,46,Jev Can't Be Calibrated,41,54
+2026-09-23T20:08:46.143124+00:00,49807003,47,Obscura: VPN that can't log your activity,178,133
+2026-09-23T20:08:46.143124+00:00,49795337,48,No Easy Fix for Bogus Respondents in Online Opt-In Polls,54,33
+2026-09-23T20:08:46.143124+00:00,49812023,49,How often do you think about the 1893 World's Fair?,49,26
+2026-09-23T20:08:46.143124+00:00,49811484,50,Grammarly will send unhinged messages to all your users if you try to cancel,332,93
