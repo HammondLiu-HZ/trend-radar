@@ -50257,3 +50257,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-22T21:57:45.959170+00:00,49792730,48,MiMo v2.6,1087,469
 2026-09-22T21:57:45.959170+00:00,49806080,49,Does an open-weight decision model beat a hosted one? Jev vs. Laya,6,0
 2026-09-22T21:57:45.959170+00:00,49796660,50,"MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",151,61
+2026-09-23T00:20:02.518632+00:00,49805509,1,GPT-6 Sol and Luna,1102,571
+2026-09-23T00:20:02.518632+00:00,49803892,2,Claude Opus 5.5,1136,781
+2026-09-23T00:20:02.518632+00:00,49805278,3,'We hacked the FBI:' Hackers say they have data on all FBI employees,341,229
+2026-09-23T00:20:02.518632+00:00,49801324,4,OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005,544,354
+2026-09-23T00:20:02.518632+00:00,49781862,5,ReBarUEFI: Resizable BAR for almost any UEFI system,42,12
+2026-09-23T00:20:02.518632+00:00,49808023,6,"Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",137,106
+2026-09-23T00:20:02.518632+00:00,49796379,7,What California is learning from solar panels built over irrigation canals,77,101
+2026-09-23T00:20:02.518632+00:00,49806335,8,SAML: A fractal of bad design,134,79
+2026-09-23T00:20:02.518632+00:00,49804316,9,"Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",222,62
+2026-09-23T00:20:02.518632+00:00,49805748,10,Unreal Agent,118,70
+2026-09-23T00:20:02.518632+00:00,49806430,11,Pentagon says overreliance on AI contributed to missile strike on Iran school,356,184
+2026-09-23T00:20:02.518632+00:00,49803959,12,WordPress: Unauthenticated path traversal leading to conditional RCE,147,77
+2026-09-23T00:20:02.518632+00:00,49808816,13,The current balance of power in open models,25,6
+2026-09-23T00:20:02.518632+00:00,49758709,14,How did AMD Ryzen get 50% faster in two years?,185,63
+2026-09-23T00:20:02.518632+00:00,49807021,15,Native apps written in TypeScript and CSS,71,20
+2026-09-23T00:20:02.518632+00:00,49780622,16,MUNI Heritage Weekend in San Francisco,150,40
+2026-09-23T00:20:02.518632+00:00,49800574,17,"Show HN: JevBench, a reproducible benchmark for typed decision models",55,8
+2026-09-23T00:20:02.518632+00:00,49794478,18,Markdown in /src,80,40
+2026-09-23T00:20:02.518632+00:00,49802161,19,OpenAI is well positioned to fast-follow Jev,251,187
+2026-09-23T00:20:02.518632+00:00,49807003,20,Obscura: VPN that can't log your activity,70,71
+2026-09-23T00:20:02.518632+00:00,49808109,21,The UV index is not the warm sensation of sunlight on bare skin,52,47
+2026-09-23T00:20:02.518632+00:00,49787163,22,"George Lucas Returns to Earth, Bearing Gifts",71,39
+2026-09-23T00:20:02.518632+00:00,49800566,23,Show HN: Training a model to identify AI web content from structure alone,38,8
+2026-09-23T00:20:02.518632+00:00,49795686,24,People hooked on vapes try a new way to quit: cigarettes,95,84
+2026-09-23T00:20:02.518632+00:00,49803635,25,16-bit Intel 8088 chip (c. 1985),103,13
+2026-09-23T00:20:02.518632+00:00,49782702,26,The trouble with 'ntile()',18,1
+2026-09-23T00:20:02.518632+00:00,49807248,27,The JavaScript Midlife Crisis,34,13
+2026-09-23T00:20:02.518632+00:00,49804931,28,Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent,41,23
+2026-09-23T00:20:02.518632+00:00,49801939,29,"Apple has added persistent 'ads' to iOS, and it's driving users crazy",584,441
+2026-09-23T00:20:02.518632+00:00,49804683,30,There's a high chance of devices being sold with GrapheneOS preinstalled in 2027,257,107
+2026-09-23T00:20:02.518632+00:00,49795260,31,Did OpenAI solve the wrong Navier-Stokes problem?,92,46
+2026-09-23T00:20:02.518632+00:00,49797323,32,Can gzip be a language model?,370,145
+2026-09-23T00:20:02.518632+00:00,49742438,33,Rabbit Hole: Minimum L-seams,22,6
+2026-09-23T00:20:02.518632+00:00,49773646,34,Porsche puts wireless EV charging into production,61,60
+2026-09-23T00:20:02.518632+00:00,49803085,35,Writing Rust code that's fast by asking agents to make the code faster,94,48
+2026-09-23T00:20:02.518632+00:00,49801329,36,Show HN: Drop – A rootless Linux sandbox with gVisor support,153,53
+2026-09-23T00:20:02.518632+00:00,49794193,37,Solitaire Alone Together,129,29
+2026-09-23T00:20:02.518632+00:00,49798204,38,AMD's random number generator can't generate a 0?,247,190
+2026-09-23T00:20:02.518632+00:00,49805677,39,An update on how we confirm your age group on Discord,102,58
+2026-09-23T00:20:02.518632+00:00,49808008,40,ArchiveBox v0.9 released with new native apps and 50 new plugins,17,1
+2026-09-23T00:20:02.518632+00:00,49779984,41,One Minute Park,62,7
+2026-09-23T00:20:02.518632+00:00,49803683,42,"Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",34,2
+2026-09-23T00:20:02.518632+00:00,49777601,43,Truman World,48,32
+2026-09-23T00:20:02.518632+00:00,49806301,44,"GPT-6 Sol (Max) Intelligence, Performance and Price Analysis",11,0
+2026-09-23T00:20:02.518632+00:00,49801218,45,The Economics of Open-Weight Inference,41,26
+2026-09-23T00:20:02.518632+00:00,49782452,46,Relativistic raytracing,44,8
+2026-09-23T00:20:02.518632+00:00,49802789,47,Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models,23,2
+2026-09-23T00:20:02.518632+00:00,49809670,48,Anyone using a Wispr Flow alternative that is non-cloud?,3,2
+2026-09-23T00:20:02.518632+00:00,49792730,49,MiMo v2.6,1091,470
+2026-09-23T00:20:02.518632+00:00,49788220,50,A study of sequence weighting at scale,11,1
