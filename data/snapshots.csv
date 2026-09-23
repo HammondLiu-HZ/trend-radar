@@ -50307,3 +50307,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-23T00:20:02.518632+00:00,49809670,48,Anyone using a Wispr Flow alternative that is non-cloud?,3,2
 2026-09-23T00:20:02.518632+00:00,49792730,49,MiMo v2.6,1091,470
 2026-09-23T00:20:02.518632+00:00,49788220,50,A study of sequence weighting at scale,11,1
+2026-09-23T05:47:35.118472+00:00,49805509,1,GPT-6 Sol and Luna,1377,667
+2026-09-23T05:47:35.118472+00:00,49803892,2,Claude Opus 5.5,1392,876
+2026-09-23T05:47:35.118472+00:00,49811065,3,Transit rewards (Waymo pays you to take the train),76,55
+2026-09-23T05:47:35.118472+00:00,49811429,4,Data-only attacks are easier than you think (2024),16,6
+2026-09-23T05:47:35.118472+00:00,49801324,5,OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005,619,373
+2026-09-23T05:47:35.118472+00:00,49808023,6,"Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",255,155
+2026-09-23T05:47:35.118472+00:00,49805278,7,'We hacked the FBI:' Hackers say they have data on all FBI employees,522,366
+2026-09-23T05:47:35.118472+00:00,49781862,8,ReBarUEFI: Resizable BAR for almost any UEFI system,109,36
+2026-09-23T05:47:35.118472+00:00,49796379,9,What California is learning from solar panels built over irrigation canals,174,269
+2026-09-23T05:47:35.118472+00:00,49806335,10,SAML: A fractal of bad design,203,123
+2026-09-23T05:47:35.118472+00:00,49795337,11,No Easy Fix for Bogus Respondents in Online Opt-In Polls,13,1
+2026-09-23T05:47:35.118472+00:00,49758709,12,How did AMD Ryzen get 50% faster in two years?,272,104
+2026-09-23T05:47:35.118472+00:00,49804316,13,"Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",267,77
+2026-09-23T05:47:35.118472+00:00,49803959,14,WordPress: Unauthenticated path traversal leading to conditional RCE,174,92
+2026-09-23T05:47:35.118472+00:00,49806430,15,Pentagon says overreliance on AI contributed to missile strike on Iran school,543,264
+2026-09-23T05:47:35.118472+00:00,49805748,16,Unreal Agent,153,94
+2026-09-23T05:47:35.118472+00:00,49808816,17,The current balance of power in open models,67,20
+2026-09-23T05:47:35.118472+00:00,49795053,18,The Softness of Metal,14,3
+2026-09-23T05:47:35.118472+00:00,49802161,19,OpenAI is well positioned to fast-follow Jev,277,200
+2026-09-23T05:47:35.118472+00:00,49795686,20,People hooked on vapes try a new way to quit: cigarettes,148,149
+2026-09-23T05:47:35.118472+00:00,49800574,21,"Show HN: JevBench, a reproducible benchmark for typed decision models",87,20
+2026-09-23T05:47:35.118472+00:00,49807003,22,Obscura: VPN that can't log your activity,106,88
+2026-09-23T05:47:35.118472+00:00,49794844,23,"Delta: Highly available, strongly consistent storage using chain replication (2022)",14,1
+2026-09-23T05:47:35.118472+00:00,49807021,24,Native apps written in TypeScript and CSS,99,34
+2026-09-23T05:47:35.118472+00:00,49794478,25,Markdown in /src,110,57
+2026-09-23T05:47:35.118472+00:00,49801939,26,"Apple has added persistent 'ads' to iOS, and it's driving users crazy",677,495
+2026-09-23T05:47:35.118472+00:00,49803635,27,16-bit Intel 8088 chip (c. 1985),115,15
+2026-09-23T05:47:35.118472+00:00,49796260,28,"Side-stepping the Secretary Problem, unwittingly",70,13
+2026-09-23T05:47:35.118472+00:00,49800566,29,Show HN: Training a model to identify AI web content from structure alone,51,13
+2026-09-23T05:47:35.118472+00:00,49773646,30,Porsche puts wireless EV charging into production,71,67
+2026-09-23T05:47:35.118472+00:00,49798204,31,AMD's random number generator can't generate a 0?,257,197
+2026-09-23T05:47:35.118472+00:00,49804931,32,Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent,45,28
+2026-09-23T05:47:35.118472+00:00,49787163,33,"George Lucas Returns to Earth, Bearing Gifts",99,61
+2026-09-23T05:47:35.118472+00:00,49804683,34,There's a high chance of devices being sold with GrapheneOS preinstalled in 2027,275,117
+2026-09-23T05:47:35.118472+00:00,49795260,35,Did OpenAI solve the wrong Navier-Stokes problem?,102,51
+2026-09-23T05:47:35.118472+00:00,49811484,36,Grammarly will send unhinged messages to all your users if you try to cancel,20,1
+2026-09-23T05:47:35.118472+00:00,49801329,37,Show HN: Drop – A rootless Linux sandbox with gVisor support,161,55
+2026-09-23T05:47:35.118472+00:00,49808109,38,The UV index is not the warm sensation of sunlight on bare skin,72,65
+2026-09-23T05:47:35.118472+00:00,49803085,39,Writing Rust code that's fast by asking agents to make the code faster,96,49
+2026-09-23T05:47:35.118472+00:00,49794193,40,Solitaire Alone Together,136,29
+2026-09-23T05:47:35.118472+00:00,49788014,41,Make Math Automatic with Mathy,18,1
+2026-09-23T05:47:35.118472+00:00,49780622,42,MUNI Heritage Weekend in San Francisco,183,49
+2026-09-23T05:47:35.118472+00:00,49782702,43,The trouble with 'ntile()',21,1
+2026-09-23T05:47:35.118472+00:00,49810837,44,The Business of Building God,5,0
+2026-09-23T05:47:35.118472+00:00,49742438,45,Rabbit Hole: Minimum L-seams,22,6
+2026-09-23T05:47:35.118472+00:00,49792730,46,MiMo v2.6,1103,472
+2026-09-23T05:47:35.118472+00:00,49779984,47,One Minute Park,67,7
+2026-09-23T05:47:35.118472+00:00,49777601,48,Truman World,57,34
+2026-09-23T05:47:35.118472+00:00,49803683,49,"Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",36,3
+2026-09-23T05:47:35.118472+00:00,49811508,50,LGBT tolerance slumps in the Netherlands as debate turns vicious,7,3
