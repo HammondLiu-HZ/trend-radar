@@ -50750,3 +50750,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-24T18:59:27.041954+00:00,49820134,48,Claude discovers a novel enzyme system with CRISPR-like repeats,749,766
 2026-09-24T18:59:27.041954+00:00,49819880,49,Making Tailscale Faster,227,93
 2026-09-24T18:59:27.041954+00:00,49831201,50,Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering,104,34
+2026-09-24T22:16:44.749666+00:00,49831968,1,F-Droid 2.0,791,219
+2026-09-24T22:16:44.749666+00:00,49823738,2,Show HN: Make cursed fonts like Times New Bastard,339,51
+2026-09-24T22:16:44.749666+00:00,49837006,3,Show HN: Koi.rest – watch some fish and regain your balance,29,1
+2026-09-24T22:16:44.749666+00:00,49833867,4,Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design,149,63
+2026-09-24T22:16:44.749666+00:00,49836419,5,California is chasing wealth that has feet,27,58
+2026-09-24T22:16:44.749666+00:00,49832938,6,Why is the liver so weirdly regenerative?,162,116
+2026-09-24T22:16:44.749666+00:00,49817680,7,Rails World 2026 Opening Keynote [video],184,197
+2026-09-24T22:16:44.749666+00:00,49800085,8,Fearless SIMD v1.0,137,22
+2026-09-24T22:16:44.749666+00:00,49805344,9,My weird new hobby: Wandering around Tokyo on Google Maps,161,68
+2026-09-24T22:16:44.749666+00:00,49835531,10,Using LLMs to trace alchemical knowledge and decode 17th century letters,40,8
+2026-09-24T22:16:44.749666+00:00,49801436,11,2DWillNeverDie,36,2
+2026-09-24T22:16:44.749666+00:00,49835996,12,Sourcehut account takeover via build logs (XSS in ansi2html),42,3
+2026-09-24T22:16:44.749666+00:00,49836590,13,The Board Game of the Alpha Nerds (2014),19,16
+2026-09-24T22:16:44.749666+00:00,49836374,15,Opus 5.5 is good at explainer videos,79,58
+2026-09-24T22:16:44.749666+00:00,49787759,16,"Book review: Is parallel programming hard, and, if so, what can you do about it?",70,18
+2026-09-24T22:16:44.749666+00:00,49830606,17,Google’s Project Suncatcher to put ML infrastructure in space,73,126
+2026-09-24T22:16:44.749666+00:00,49823568,18,Toyota is taking the Corolla electric,141,195
+2026-09-24T22:16:44.749666+00:00,49836612,19,International observers to investigate Swedish election fraud,10,1
+2026-09-24T22:16:44.749666+00:00,49792652,20,The forgotten battle of East Lansing,73,11
+2026-09-24T22:16:44.749666+00:00,49828731,21,Two-tier encryption in the UK,347,355
+2026-09-24T22:16:44.749666+00:00,49834098,22,Show HN: Critic – Review code with the agent that wrote it,5,0
+2026-09-24T22:16:44.749666+00:00,49831098,23,Forging 1024-bit RSA signatures in nearly SNFS time [pdf],38,6
+2026-09-24T22:16:44.749666+00:00,49821835,24,Geothermal heat map of US hot springs,65,27
+2026-09-24T22:16:44.749666+00:00,49831690,25,Tutoring company tells parents to save their money and 'use AI instead',61,82
+2026-09-24T22:16:44.749666+00:00,49826565,26,Early rogue AI agent activity and attempts to hack found on urlquery.net,225,206
+2026-09-24T22:16:44.749666+00:00,49821438,27,Show HN: AgentRun: DSL to turn agents into workflows,37,5
+2026-09-24T22:16:44.749666+00:00,49815370,28,WaveDigger: Dig into wireless signals to discover their physical locations,79,13
+2026-09-24T22:16:44.749666+00:00,49804359,29,Show HN: Treepeat – Code similarity detection using Tree-sitter,42,2
+2026-09-24T22:16:44.749666+00:00,49809935,30,Web-based IBM 1620 emulator and IPL-V from 1963,46,12
+2026-09-24T22:16:44.749666+00:00,49835913,31,August 27 TCRF DDoS Attack Postmortem,15,6
+2026-09-24T22:16:44.749666+00:00,49828385,32,Nokia Design Archive (2025),201,113
+2026-09-24T22:16:44.749666+00:00,49793957,33,Security auditing in the age of (good enough) AI,43,1
+2026-09-24T22:16:44.749666+00:00,49836494,34,"Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",15,12
+2026-09-24T22:16:44.749666+00:00,49834825,35,Creatine uptake enhances antitumor immunity,131,166
+2026-09-24T22:16:44.749666+00:00,49833958,36,A Million Agents Is a Distributed System Problem,27,7
+2026-09-24T22:16:44.749666+00:00,49836602,37,SkillOpt: Training Loop for Agent Skills,4,2
+2026-09-24T22:16:44.749666+00:00,49777158,38,Lambda MicroEgg,55,5
+2026-09-24T22:16:44.749666+00:00,49794824,39,Motor Characterization for Small Running Robots (2016),20,0
+2026-09-24T22:16:44.749666+00:00,49828120,40,"Search – A small, fast WebKit browser for macOS",57,20
+2026-09-24T22:16:44.749666+00:00,49827375,41,Show HN: Air-gapped file encryption as self-decrypting HTML page,31,13
+2026-09-24T22:16:44.749666+00:00,49829650,42,'That's so AI ' What gen Alpha's biggest insult tells us,103,153
+2026-09-24T22:16:44.749666+00:00,49829960,43,Owners mourn spoiled food after firmware update bricks Samsung smart fridges,259,265
+2026-09-24T22:16:44.749666+00:00,49837054,44,China reaches 5-minute EV charging,6,2
+2026-09-24T22:16:44.749666+00:00,49832231,45,Experiencing writing at our recent Chinese calligraphy workshop,21,1
+2026-09-24T22:16:44.749666+00:00,49832406,46,GitHub has not removed malicious imitation software after 3 weeks,228,96
+2026-09-24T22:16:44.749666+00:00,49831269,47,AI safety is mostly a sex cult in Berkeley,62,15
+2026-09-24T22:16:44.749666+00:00,49794336,48,B5-BJ2 – Ice Cream Barges – Concrete Ship Constructors (2023),18,8
+2026-09-24T22:16:44.749666+00:00,49818031,49,The science of Monkey Island: can grog dissolve a metal mug that fast?,126,41
+2026-09-24T22:16:44.749666+00:00,49802661,50,RAM: the forgotten history (2024),109,5
