@@ -50603,3 +50603,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-24T04:28:46.554077+00:00,49809935,48,Web-based IBM 1620 emulator and IPL-V from 1963,40,11
 2026-09-24T04:28:46.554077+00:00,49806430,49,Pentagon says overreliance on AI contributed to missile strike on Iran school,899,507
 2026-09-24T04:28:46.554077+00:00,49825016,50,Pentagon Investigating How F-35 Fighter Jet Parts Bound for US Were Diverted,11,2
+2026-09-24T09:51:57.638880+00:00,49823582,1,Linux support is coming to Snapdragon X2 Series,403,174
+2026-09-24T09:51:57.638880+00:00,49826565,2,Early rogue AI agent activity and attempts to hack found on urlquery.net,124,85
+2026-09-24T09:51:57.638880+00:00,49820134,3,Claude discovers a novel enzyme system with CRISPR-like repeats,650,670
+2026-09-24T09:51:57.638880+00:00,49825642,4,Ideas on modernizing the open-source desktop,130,104
+2026-09-24T09:51:57.638880+00:00,49823664,5,ArXiv receives multiyear commitments to support it as an independent nonprofit,183,20
+2026-09-24T09:51:57.638880+00:00,49822555,6,VSCode's SSH Agent Is Bananas (2025),231,144
+2026-09-24T09:51:57.638880+00:00,49826221,7,Contrastive Language Models,66,15
+2026-09-24T09:51:57.638880+00:00,49796372,8,"The ""Windows XP Box"" (2003)",157,25
+2026-09-24T09:51:57.638880+00:00,49824864,9,Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest,95,46
+2026-09-24T09:51:57.638880+00:00,49802661,10,RAM: the forgotten history (2024),10,0
+2026-09-24T09:51:57.638880+00:00,49827794,11,Meta takes down a critical video about meta AI Glasses after filming at Meta,95,46
+2026-09-24T09:51:57.638880+00:00,49795600,12,Making portable my unportable transputer C compiler,45,4
+2026-09-24T09:51:57.638880+00:00,49817469,13,Fixing the Portobello Police Station Clock,445,102
+2026-09-24T09:51:57.638880+00:00,49817741,14,"Why 'What's Opera, Doc?' looks like that",59,14
+2026-09-24T09:51:57.638880+00:00,49824268,15,Meta VR Glasses,396,349
+2026-09-24T09:51:57.638880+00:00,49823348,16,Mercury 2.5 LLM hits 770 tokens per second,105,64
+2026-09-24T09:51:57.638880+00:00,49793249,17,Women Who Sold Books Door to Door,21,0
+2026-09-24T09:51:57.638880+00:00,49819880,18,Making Tailscale Faster,166,67
+2026-09-24T09:51:57.638880+00:00,49828133,19,AI has no intent and no motivation,10,5
+2026-09-24T09:51:57.638880+00:00,49825580,20,"OpenAI agent hacked Australian government website, PM says",55,14
+2026-09-24T09:51:57.638880+00:00,49799855,21,The mystery animal on an ancient god's head,109,34
+2026-09-24T09:51:57.638880+00:00,49819221,22,Italian parliament votes for return to nuclear energy,786,592
+2026-09-24T09:51:57.638880+00:00,49813482,23,Tokens too cheap to meter,297,203
+2026-09-24T09:51:57.638880+00:00,49820065,24,A brief history of Windows scroll bar shortcuts,142,82
+2026-09-24T09:51:57.638880+00:00,49824715,25,Show HN: An open-source manufacturing ERP/MES/QMS,36,16
+2026-09-24T09:51:57.638880+00:00,49801700,26,Data liberation: Apache Kafka's native cluster mirroring,14,1
+2026-09-24T09:51:57.638880+00:00,49791558,27,Solving for faster SHA-1 collision detection,33,9
+2026-09-24T09:51:57.638880+00:00,49777158,28,Lambda MicroEgg,43,1
+2026-09-24T09:51:57.638880+00:00,49820496,29,"LensVLM: Compressing long context as images, expanding only relevant pages",77,7
+2026-09-24T09:51:57.638880+00:00,49817615,30,Gemini 3.8 text-to-speech,305,137
+2026-09-24T09:51:57.638880+00:00,49817524,31,Radicle: Disclosure of Vulnerability in the Network Protocol,142,56
+2026-09-24T09:51:57.638880+00:00,49824686,32,"Feds Target AI Critics as ""Foreign Agents""",293,300
+2026-09-24T09:51:57.638880+00:00,49817289,33,Strands Harness,134,95
+2026-09-24T09:51:57.638880+00:00,49820136,34,"Swap, ZRAM, Zswap and Hibernate on NixOS",62,17
+2026-09-24T09:51:57.638880+00:00,49822556,35,"OpenAI breaches Medicare, Albanese reveals",213,234
+2026-09-24T09:51:57.638880+00:00,49823195,36,We just shipped support for the ugliest part of HTTP: Vary,122,29
+2026-09-24T09:51:57.638880+00:00,49820267,37,Cloud Agents Are Inevitable AI Prisons,59,129
+2026-09-24T09:51:57.638880+00:00,49806413,38,The Curious Power of Punctuation,42,14
+2026-09-24T09:51:57.638880+00:00,49805509,39,GPT-6 Sol and Luna,1750,831
+2026-09-24T09:51:57.638880+00:00,49814236,41,Z80 REPL (2018),155,19
+2026-09-24T09:51:57.638880+00:00,49815466,42,I don't want the details,405,212
+2026-09-24T09:51:57.638880+00:00,49824969,43,FLAWED's Flaws and What This Means for Industry Research,20,4
+2026-09-24T09:51:57.638880+00:00,49824884,44,Nesbox: A fast MicroVM with GPU sharing,10,2
+2026-09-24T09:51:57.638880+00:00,49817404,45,GPT-6 Astra has gained the ability to drive a car,288,227
+2026-09-24T09:51:57.638880+00:00,49814947,46,Claude Code reads AGENTS.md only when telemetry is on [fixed],468,269
+2026-09-24T09:51:57.638880+00:00,49809404,47,Augustofaces: Pareidolia Fine Art,27,6
+2026-09-24T09:51:57.638880+00:00,49803892,48,Claude Opus 5.5,1779,1102
+2026-09-24T09:51:57.638880+00:00,49827616,49,"Microsoft tried to ban ""Microslop"", and six months later it has given up",55,11
+2026-09-24T09:51:57.638880+00:00,49826482,50,Six-year-old breaks women's world Rubik's Cube record [video],57,41
