@@ -50554,3 +50554,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-23T23:34:06.260959+00:00,49811429,48,Data-only attacks are easier than you think (2024),95,42
 2026-09-23T23:34:06.260959+00:00,49822457,49,OpenAI hacked Australian Medicare portal,16,7
 2026-09-23T23:34:06.260959+00:00,49815484,50,The GitHub wiki is an anti-pattern (2022),164,101
+2026-09-24T04:28:46.554077+00:00,49823582,1,Linux support is coming to Snapdragon X2 Series,240,115
+2026-09-24T04:28:46.554077+00:00,49820134,2,Claude discovers a novel enzyme system with CRISPR-like repeats,560,584
+2026-09-24T04:28:46.554077+00:00,49824686,3,"Feds Target AI Critics as ""Foreign Agents""",143,120
+2026-09-24T04:28:46.554077+00:00,49826059,4,"Show HN: How long do I need to work at my salary before I can coast, or retire?",9,1
+2026-09-24T04:28:46.554077+00:00,49823664,5,ArXiv receives multiyear commitments to support it as an independent nonprofit,96,14
+2026-09-24T04:28:46.554077+00:00,49822555,6,VSCode's SSH Agent Is Bananas (2025),157,100
+2026-09-24T04:28:46.554077+00:00,49824268,7,Meta VR Glasses,307,267
+2026-09-24T04:28:46.554077+00:00,49824864,8,Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest,34,16
+2026-09-24T04:28:46.554077+00:00,49796372,9,"The ""Windows XP Box"" (2003)",86,12
+2026-09-24T04:28:46.554077+00:00,49795600,10,Making portable my unportable transputer C compiler,9,0
+2026-09-24T04:28:46.554077+00:00,49823348,11,Mercury 2.5 LLM hits 770 tokens per second,74,44
+2026-09-24T04:28:46.554077+00:00,49817469,12,Fixing the Portobello Police Station Clock,391,93
+2026-09-24T04:28:46.554077+00:00,49823195,13,We just shipped support for the ugliest part of HTTP: Vary,104,22
+2026-09-24T04:28:46.554077+00:00,49819221,14,Italian parliament votes for return to nuclear energy,646,419
+2026-09-24T04:28:46.554077+00:00,49799855,15,The mystery animal on an ancient god's head,79,21
+2026-09-24T04:28:46.554077+00:00,49825642,16,Ideas on modernizing the open-source desktop,7,0
+2026-09-24T04:28:46.554077+00:00,49819880,17,Making Tailscale Faster,109,43
+2026-09-24T04:28:46.554077+00:00,49825024,18,Australia says OpenAI agent hacked into government website,60,38
+2026-09-24T04:28:46.554077+00:00,49824715,19,Show HN: An open-source manufacturing ERP/MES/QMS,15,11
+2026-09-24T04:28:46.554077+00:00,49820065,20,A brief history of Windows scroll bar shortcuts,124,60
+2026-09-24T04:28:46.554077+00:00,49824969,21,FLAWED's Flaws and What This Means for Industry Research,15,2
+2026-09-24T04:28:46.554077+00:00,49806413,22,The Curious Power of Punctuation,38,10
+2026-09-24T04:28:46.554077+00:00,49820496,23,"LensVLM: Compressing long context as images, expanding only relevant pages",63,7
+2026-09-24T04:28:46.554077+00:00,49813482,24,Tokens too cheap to meter,260,186
+2026-09-24T04:28:46.554077+00:00,49817615,25,Gemini 3.8 text-to-speech,274,124
+2026-09-24T04:28:46.554077+00:00,49791558,26,Solving for faster SHA-1 collision detection,12,1
+2026-09-24T04:28:46.554077+00:00,49817524,27,Radicle: Disclosure of Vulnerability in the Network Protocol,128,51
+2026-09-24T04:28:46.554077+00:00,49809404,28,Augustofaces: Pareidolia Fine Art,22,3
+2026-09-24T04:28:46.554077+00:00,49820136,29,"Swap, ZRAM, Zswap and Hibernate on NixOS",51,15
+2026-09-24T04:28:46.554077+00:00,49824978,30,Liquid Network Security Incident Assessment,4,0
+2026-09-24T04:28:46.554077+00:00,49815466,31,I don't want the details,384,205
+2026-09-24T04:28:46.554077+00:00,49814236,32,Z80 REPL (2018),152,18
+2026-09-24T04:28:46.554077+00:00,49781492,33,A refined phylochronology of the second plague pandemic in Western Eurasia,19,0
+2026-09-24T04:28:46.554077+00:00,49826076,34,OpenAI's Next Marketing Stunt,7,0
+2026-09-24T04:28:46.554077+00:00,49814947,35,Claude Code reads AGENTS.md only when telemetry is on [fixed],460,261
+2026-09-24T04:28:46.554077+00:00,49805509,37,GPT-6 Sol and Luna,1739,826
+2026-09-24T04:28:46.554077+00:00,49803892,38,Claude Opus 5.5,1771,1100
+2026-09-24T04:28:46.554077+00:00,49821086,39,Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes,32,5
+2026-09-24T04:28:46.554077+00:00,49816374,40,Seattle City Council votes to ban surveillance pricing in sale of groceries,324,204
+2026-09-24T04:28:46.554077+00:00,49821196,41,"Once Claude can measure something, it can make it faster",187,127
+2026-09-24T04:28:46.554077+00:00,49812769,42,Jev in 25 Lines of Python,636,200
+2026-09-24T04:28:46.554077+00:00,49818698,43,28% of job postings on company career sites have been open over 90 days,254,314
+2026-09-24T04:28:46.554077+00:00,49815982,44,Stripe's Knowledge AI Platform,175,109
+2026-09-24T04:28:46.554077+00:00,49819814,45,"UK military jamming other nations' satellites to defend itself, BBC told",147,195
+2026-09-24T04:28:46.554077+00:00,49824497,46,AI-CAD: An OSS Multi-Agent Harness for Mech. Eng. CAD,6,0
+2026-09-24T04:28:46.554077+00:00,49781862,47,ReBarUEFI: Resizable BAR for almost any UEFI system,235,73
+2026-09-24T04:28:46.554077+00:00,49809935,48,Web-based IBM 1620 emulator and IPL-V from 1963,40,11
+2026-09-24T04:28:46.554077+00:00,49806430,49,Pentagon says overreliance on AI contributed to missile strike on Iran school,899,507
+2026-09-24T04:28:46.554077+00:00,49825016,50,Pentagon Investigating How F-35 Fighter Jet Parts Bound for US Were Diverted,11,2
