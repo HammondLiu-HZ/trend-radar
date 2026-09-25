@@ -50897,3 +50897,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-25T07:35:43.728362+00:00,49820134,48,Claude discovers a novel enzyme system with CRISPR-like repeats,763,784
 2026-09-25T07:35:43.728362+00:00,49834825,49,Creatine uptake enhances antitumor immunity,163,181
 2026-09-25T07:35:43.728362+00:00,49802661,50,RAM: the forgotten history (2024),111,6
+2026-09-25T13:35:38.803496+00:00,49841563,1,Dutch governments builds alternative for Microsoft based on NixOS,525,266
+2026-09-25T13:35:38.803496+00:00,49843269,2,Platform-Independent SIMD in Go,65,14
+2026-09-25T13:35:38.803496+00:00,49843547,3,I'm Tired of Being on the Network,44,35
+2026-09-25T13:35:38.803496+00:00,49843174,4,"Git-bug: Distributed, offline-first bug tracker embedded in Git",57,13
+2026-09-25T13:35:38.803496+00:00,49841285,5,Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini,129,52
+2026-09-25T13:35:38.803496+00:00,49842270,6,Ink and Switch Interactive Homepage,78,14
+2026-09-25T13:35:38.803496+00:00,49842332,7,Topcoat is pushing the boundary of server applications with Rust,39,27
+2026-09-25T13:35:38.803496+00:00,49831968,8,F-Droid 2.0,1322,377
+2026-09-25T13:35:38.803496+00:00,49841115,9,CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2,74,18
+2026-09-25T13:35:38.803496+00:00,49823738,10,Show HN: Make cursed fonts like Times New Bastard,759,101
+2026-09-25T13:35:38.803496+00:00,49843899,11,Nobody Asked for a Crab Chair,7,5
+2026-09-25T13:35:38.803496+00:00,49841893,12,Special Projects (2016),40,27
+2026-09-25T13:35:38.803496+00:00,49841309,13,Amiga Screens: A Primer,35,7
+2026-09-25T13:35:38.803496+00:00,49833867,14,Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design,342,123
+2026-09-25T13:35:38.803496+00:00,49843550,15,The Test,27,2
+2026-09-25T13:35:38.803496+00:00,49842084,16,Boards of Casio,19,2
+2026-09-25T13:35:38.803496+00:00,49832938,17,Why is the liver so weirdly regenerative?,459,237
+2026-09-25T13:35:38.803496+00:00,49842596,18,Show HN: Agentic CUDA Kernel Optimizer,22,0
+2026-09-25T13:35:38.803496+00:00,49842487,19,The Mafia may be keeping fentanyl out of Italy,130,149
+2026-09-25T13:35:38.803496+00:00,49801436,20,2DWillNeverDie,271,66
+2026-09-25T13:35:38.803496+00:00,49842483,21,Oracle on the hook to pay data centre investors even if site has no electricity,85,69
+2026-09-25T13:35:38.803496+00:00,49843321,22,Silicon Valley 'sex assault list' with 'over 100' names circulated,29,7
+2026-09-25T13:35:38.803496+00:00,49817680,23,Rails World 2026 Opening Keynote [video],365,394
+2026-09-25T13:35:38.803496+00:00,49800085,24,Fearless SIMD v1.0,276,42
+2026-09-25T13:35:38.803496+00:00,49839664,25,What About Rails?,126,74
+2026-09-25T13:35:38.803496+00:00,49823568,26,Toyota is taking the Corolla electric,367,649
+2026-09-25T13:35:38.803496+00:00,49805344,27,My weird new hobby: Wandering around Tokyo on Google Maps,360,163
+2026-09-25T13:35:38.803496+00:00,49836374,28,Opus 5.5 is good at explainer videos,313,171
+2026-09-25T13:35:38.803496+00:00,49835531,29,Using LLMs to trace alchemical knowledge and decode 17th century letters,146,31
+2026-09-25T13:35:38.803496+00:00,49828731,30,Two-tier encryption in the UK,477,429
+2026-09-25T13:35:38.803496+00:00,49830606,31,Google’s Project Suncatcher to put ML infrastructure in space,203,423
+2026-09-25T13:35:38.803496+00:00,49802510,32,Writing Parquet files using Haskell,77,20
+2026-09-25T13:35:38.803496+00:00,49843909,33,"Show HN: Hamilton – a no-internet Android health dashboard, named after my dog",4,5
+2026-09-25T13:35:38.803496+00:00,49787759,34,"Book review: Is parallel programming hard, and, if so, what can you do about it?",135,58
+2026-09-25T13:35:38.803496+00:00,49828385,36,Nokia Design Archive (2025),243,130
+2026-09-25T13:35:38.803496+00:00,49836590,37,The Board Game of the Alpha Nerds (2014),101,52
+2026-09-25T13:35:38.803496+00:00,49835996,38,Sourcehut account takeover via build logs (XSS in ansi2html),137,27
+2026-09-25T13:35:38.803496+00:00,49815370,39,WaveDigger: Dig into wireless signals to discover their physical locations,120,22
+2026-09-25T13:35:38.803496+00:00,49836419,40,California is chasing wealth that has feet,261,718
+2026-09-25T13:35:38.803496+00:00,49823113,41,The Bayeux Tapestry: Woven by the Victors,36,21
+2026-09-25T13:35:38.803496+00:00,49792652,42,The forgotten battle of East Lansing,100,22
+2026-09-25T13:35:38.803496+00:00,49821835,43,Geothermal heat map of US hot springs,106,40
+2026-09-25T13:35:38.803496+00:00,49831690,44,Tutoring company tells parents to save their money and 'use AI instead',122,194
+2026-09-25T13:35:38.803496+00:00,49827375,45,Show HN: Air-gapped file encryption as self-decrypting HTML page,76,29
+2026-09-25T13:35:38.803496+00:00,49831098,46,Forging 1024-bit RSA signatures in nearly SNFS time [pdf],66,14
+2026-09-25T13:35:38.803496+00:00,49829650,47,'That's so AI ' What gen Alpha's biggest insult tells us,173,251
+2026-09-25T13:35:38.803496+00:00,49817469,48,Fixing the Portobello Police Station Clock,533,115
+2026-09-25T13:35:38.803496+00:00,49793957,49,Security auditing in the age of (good enough) AI,93,16
+2026-09-25T13:35:38.803496+00:00,49837006,50,Show HN: Koi.rest – watch some fish and regain your balance,197,57
