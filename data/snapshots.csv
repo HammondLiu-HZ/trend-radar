@@ -50848,3 +50848,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-25T01:22:00.644811+00:00,49828120,48,"Search – A small, fast WebKit browser for macOS",60,22
 2026-09-25T01:22:00.644811+00:00,49836602,49,SkillOpt: Training Loop for Agent Skills,7,2
 2026-09-25T01:22:00.644811+00:00,49826221,50,Contrastive Language Models,155,50
+2026-09-25T07:35:43.728362+00:00,49831968,1,F-Droid 2.0,1165,309
+2026-09-25T07:35:43.728362+00:00,49823738,2,Show HN: Make cursed fonts like Times New Bastard,641,90
+2026-09-25T07:35:43.728362+00:00,49841115,3,CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2,5,0
+2026-09-25T07:35:43.728362+00:00,49833867,4,Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design,281,111
+2026-09-25T07:35:43.728362+00:00,49832938,5,Why is the liver so weirdly regenerative?,374,194
+2026-09-25T07:35:43.728362+00:00,49801436,6,2DWillNeverDie,208,35
+2026-09-25T07:35:43.728362+00:00,49800085,7,Fearless SIMD v1.0,246,34
+2026-09-25T07:35:43.728362+00:00,49817680,8,Rails World 2026 Opening Keynote [video],311,342
+2026-09-25T07:35:43.728362+00:00,49823568,9,Toyota is taking the Corolla electric,308,525
+2026-09-25T07:35:43.728362+00:00,49805344,10,My weird new hobby: Wandering around Tokyo on Google Maps,302,135
+2026-09-25T07:35:43.728362+00:00,49835531,11,Using LLMs to trace alchemical knowledge and decode 17th century letters,121,22
+2026-09-25T07:35:43.728362+00:00,49830606,12,Google’s Project Suncatcher to put ML infrastructure in space,171,312
+2026-09-25T07:35:43.728362+00:00,49828731,13,Two-tier encryption in the UK,433,388
+2026-09-25T07:35:43.728362+00:00,49802510,14,Writing Parquet files using Haskell,52,9
+2026-09-25T07:35:43.728362+00:00,49836374,15,Opus 5.5 is good at explainer videos,222,119
+2026-09-25T07:35:43.728362+00:00,49840300,16,Jev Based Code Review,8,2
+2026-09-25T07:35:43.728362+00:00,49787759,17,"Book review: Is parallel programming hard, and, if so, what can you do about it?",114,40
+2026-09-25T07:35:43.728362+00:00,49836590,18,The Board Game of the Alpha Nerds (2014),79,31
+2026-09-25T07:35:43.728362+00:00,49836419,19,California is chasing wealth that has feet,223,596
+2026-09-25T07:35:43.728362+00:00,49793957,20,Security auditing in the age of (good enough) AI,85,12
+2026-09-25T07:35:43.728362+00:00,49835996,21,Sourcehut account takeover via build logs (XSS in ansi2html),102,19
+2026-09-25T07:35:43.728362+00:00,49792652,22,The forgotten battle of East Lansing,96,16
+2026-09-25T07:35:43.728362+00:00,49828385,23,Nokia Design Archive (2025),228,122
+2026-09-25T07:35:43.728362+00:00,49827375,24,Show HN: Air-gapped file encryption as self-decrypting HTML page,62,19
+2026-09-25T07:35:43.728362+00:00,49815370,25,WaveDigger: Dig into wireless signals to discover their physical locations,107,20
+2026-09-25T07:35:43.728362+00:00,49821835,26,Geothermal heat map of US hot springs,100,39
+2026-09-25T07:35:43.728362+00:00,49837006,28,Show HN: Koi.rest – watch some fish and regain your balance,176,45
+2026-09-25T07:35:43.728362+00:00,49831098,29,Forging 1024-bit RSA signatures in nearly SNFS time [pdf],61,11
+2026-09-25T07:35:43.728362+00:00,49823113,30,The Bayeux Tapestry: Woven by the Victors,23,8
+2026-09-25T07:35:43.728362+00:00,49794824,31,Motor Characterization for Small Running Robots (2016),43,5
+2026-09-25T07:35:43.728362+00:00,49831690,32,Tutoring company tells parents to save their money and 'use AI instead',107,174
+2026-09-25T07:35:43.728362+00:00,49829650,33,'That's so AI ' What gen Alpha's biggest insult tells us,146,204
+2026-09-25T07:35:43.728362+00:00,49817469,34,Fixing the Portobello Police Station Clock,526,114
+2026-09-25T07:35:43.728362+00:00,49821438,35,Show HN: AgentRun: DSL to turn agents into workflows,42,10
+2026-09-25T07:35:43.728362+00:00,49809935,36,Web-based IBM 1620 emulator and IPL-V from 1963,48,15
+2026-09-25T07:35:43.728362+00:00,49804359,37,Show HN: Treepeat – Code similarity detection using Tree-sitter,53,4
+2026-09-25T07:35:43.728362+00:00,49826565,38,Early rogue AI agent activity and attempts to hack found on urlquery.net,256,259
+2026-09-25T07:35:43.728362+00:00,49837567,39,"Docker releases cloud sandboxes, enabling safe agentic workloads in the cloud",21,1
+2026-09-25T07:35:43.728362+00:00,49837998,40,MentalHealthBench,16,6
+2026-09-25T07:35:43.728362+00:00,49838034,41,GitLab Outage,63,29
+2026-09-25T07:35:43.728362+00:00,49829960,42,Owners mourn spoiled food after firmware update bricks Samsung smart fridges,290,295
+2026-09-25T07:35:43.728362+00:00,49839672,43,"Show HN: Avoid smooth spinners, use low-FPS spinners",4,0
+2026-09-25T07:35:43.728362+00:00,49839664,44,What About Rails?,5,0
+2026-09-25T07:35:43.728362+00:00,49826221,45,Contrastive Language Models,163,52
+2026-09-25T07:35:43.728362+00:00,49823582,46,Linux support is coming to Snapdragon X2 series,596,260
+2026-09-25T07:35:43.728362+00:00,49817741,47,"Why 'What's Opera, Doc?' looks like that",152,27
+2026-09-25T07:35:43.728362+00:00,49820134,48,Claude discovers a novel enzyme system with CRISPR-like repeats,763,784
+2026-09-25T07:35:43.728362+00:00,49834825,49,Creatine uptake enhances antitumor immunity,163,181
+2026-09-25T07:35:43.728362+00:00,49802661,50,RAM: the forgotten history (2024),111,6
