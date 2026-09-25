@@ -50995,3 +50995,52 @@ captured_at,story_id,rank,title,score,comments
 2026-09-25T18:27:31.622102+00:00,49836419,48,California is chasing wealth that has feet,273,767
 2026-09-25T18:27:31.622102+00:00,49821835,49,Geothermal heat map of US hot springs,110,40
 2026-09-25T18:27:31.622102+00:00,49847170,50,The cheap new AI model taking aim at OpenAI and Anthropic,5,3
+2026-09-25T22:11:21.932233+00:00,49848269,1,"Ollaya – Ollama for open-source, Jev-style decision models",224,70
+2026-09-25T22:11:21.932233+00:00,49849985,2,Revealing the details of how OpenAI agents hacked Hugging Face,29,5
+2026-09-25T22:11:21.932233+00:00,49843269,3,Platform-independent SIMD in Go,333,124
+2026-09-25T22:11:21.932233+00:00,49843174,4,"Git-bug: Distributed, offline-first bug tracker embedded in Git",276,91
+2026-09-25T22:11:21.932233+00:00,49844736,5,First Principles Thinking,190,85
+2026-09-25T22:11:21.932233+00:00,49845977,6,U.S. appeals court upholds designation of Anthropic as supply chain risk,323,561
+2026-09-25T22:11:21.932233+00:00,49845998,7,Gravity seems holographic. What does that mean for reality?,77,79
+2026-09-25T22:11:21.932233+00:00,49845172,8,Show HN: Jev Plays Pokémon Red,82,41
+2026-09-25T22:11:21.932233+00:00,49848955,9,Ask HN: Who's still keeping a DOS machine up because the business depends on it?,21,2
+2026-09-25T22:11:21.932233+00:00,49838247,10,Remembering Johannes Doerfert,16,0
+2026-09-25T22:11:21.932233+00:00,49777121,11,How video games inspire great UX (2019),73,9
+2026-09-25T22:11:21.932233+00:00,49848295,12,Alan Kay: Shannon gave us a way of dealing with noisy channels [video],99,21
+2026-09-25T22:11:21.932233+00:00,49841285,13,Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini,258,111
+2026-09-25T22:11:21.932233+00:00,49788014,14,Show HN: Make math automatic with Mathy,52,8
+2026-09-25T22:11:21.932233+00:00,49842270,15,Ink and Switch interactive homepage,214,25
+2026-09-25T22:11:21.932233+00:00,49800114,16,"Bwbach, My Guardian Goblin",18,11
+2026-09-25T22:11:21.932233+00:00,49846409,17,Show HN: I discovered roads in the US across > 1000 themes,6,2
+2026-09-25T22:11:21.932233+00:00,49848095,18,Meta's Muse appears to use an OpenAI model labeled muse-special,80,39
+2026-09-25T22:11:21.932233+00:00,49849141,19,How we learned to stop worrying and love campus surveillance,6,1
+2026-09-25T22:11:21.932233+00:00,49842462,20,An airport cooled by natural ventilation,7,0
+2026-09-25T22:11:21.932233+00:00,49846953,21,"Show HN: Doom or Bloom, map your AI worldview",45,34
+2026-09-25T22:11:21.932233+00:00,49844642,22,What happens when you analyze your favorite college football team like the CIA?,20,11
+2026-09-25T22:11:21.932233+00:00,49840054,23,Plan mode is dead,9,7
+2026-09-25T22:11:21.932233+00:00,49845133,24,Factorio that you can touch,284,85
+2026-09-25T22:11:21.932233+00:00,49823332,25,Show HN: Jevgpt – reinventing the wheel with another wheel,5,0
+2026-09-25T22:11:21.932233+00:00,49841309,26,Amiga Screens: A Primer,117,34
+2026-09-25T22:11:21.932233+00:00,49842409,27,I wrote a ray tracer in Brainfuck,8,1
+2026-09-25T22:11:21.932233+00:00,49833212,28,Ask HN: Hypothesis: Cellular providers are deprioritizing voice calls,5,6
+2026-09-25T22:11:21.932233+00:00,49835866,29,Ask HN: Any nerds out there who've read a lot of research papers?,10,12
+2026-09-25T22:11:21.932233+00:00,49833867,30,Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design,390,128
+2026-09-25T22:11:21.932233+00:00,49848838,31,Bug: Border radius has infected VSCode editor,60,35
+2026-09-25T22:11:21.932233+00:00,49842084,32,Boards of Casio,102,36
+2026-09-25T22:11:21.932233+00:00,49777515,33,A History of the Chiming Machines at Gloucester's Cathedral and Churches (2017) [pdf],11,1
+2026-09-25T22:11:21.932233+00:00,49848819,34,"Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",51,24
+2026-09-25T22:11:21.932233+00:00,49848227,35,Astronomer watches Starlink satellites sinking to build a 'planetary barometer',48,16
+2026-09-25T22:11:21.932233+00:00,49846640,36,Typst makes big strides,92,14
+2026-09-25T22:11:21.932233+00:00,49841115,37,Entering and Breaking the Avast Antivirus Sandbox Part 2,108,28
+2026-09-25T22:11:21.932233+00:00,49837325,38,Ask HN: IEEE expulsion of Fei-Yue Wang?,5,1
+2026-09-25T22:11:21.932233+00:00,49848680,39,Advice to a Beginning Graduate Student (2001),42,15
+2026-09-25T22:11:21.932233+00:00,49849865,40,North Korea 'Likely' Behind $388M Hack of Crypto Exchange Bitget,7,2
+2026-09-25T22:11:21.932233+00:00,49826722,41,Browsers situationship: When browsers agree but the spec doesn't,10,3
+2026-09-25T22:11:21.932233+00:00,49849312,42,"Rising sea destroys homes, erases beaches in California",35,29
+2026-09-25T22:11:21.932233+00:00,49841563,43,Dutch governments builds alternative for Microsoft based on NixOS,915,533
+2026-09-25T22:11:21.932233+00:00,49849950,44,"Jev was built for agents, here's how we're using it in computer use instead",6,1
+2026-09-25T22:11:21.932233+00:00,49835531,45,Using LLMs to trace alchemical knowledge and decode 17th century letters,164,40
+2026-09-25T22:11:21.932233+00:00,49849625,46,Too AI; Didn't Read,88,87
+2026-09-25T22:11:21.932233+00:00,49843909,47,"Show HN: Hamilton – a no-internet Android health dashboard, named after my dog",8,13
+2026-09-25T22:11:21.932233+00:00,49830606,49,Google’s Project Suncatcher to put ML infrastructure in space,225,510
+2026-09-25T22:11:21.932233+00:00,49839664,50,What About Rails?,294,190
