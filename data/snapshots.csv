@@ -51144,3 +51144,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-26T07:28:27.260843+00:00,49851555,48,Bob Mackie dressed stars–if they were brave enough,5,0
 2026-09-26T07:28:27.260843+00:00,49842462,49,An airport cooled by natural ventilation,63,37
 2026-09-26T07:28:27.260843+00:00,49853133,50,"Pencils Down, Notation Up",7,0
+2026-09-26T12:57:25.883595+00:00,49855315,1,Breaking Up with Google Play: Why Conversations Is Now Free,150,31
+2026-09-26T12:57:25.883595+00:00,49854693,2,"Fifteen years later, the Apple Cards origin story",100,9
+2026-09-26T12:57:25.883595+00:00,49849985,3,Revealing the details of how OpenAI agents hacked Hugging Face,534,338
+2026-09-26T12:57:25.883595+00:00,49854416,4,Floci: Locally emulating any cloud service,46,5
+2026-09-26T12:57:25.883595+00:00,49855018,5,One Month Without AI,85,69
+2026-09-26T12:57:25.883595+00:00,49852717,6,We're gonna need a lot more mathematicians,183,251
+2026-09-26T12:57:25.883595+00:00,49840054,7,Plan mode is dead,380,340
+2026-09-26T12:57:25.883595+00:00,49848269,8,"Ollaya – Ollama for open-source, Jev-style decision models",489,122
+2026-09-26T12:57:25.883595+00:00,49853175,9,"A single function Jev-like wrapper for LLMs, including vision models",100,27
+2026-09-26T12:57:25.883595+00:00,49823628,10,"ASML currently sells no chipmaking machines in Europe, executive says",21,9
+2026-09-26T12:57:25.883595+00:00,49845172,11,Show HN: Jev Plays Pokémon Red,216,88
+2026-09-26T12:57:25.883595+00:00,49826087,12,16GB iPod Nano 3G Upgrade,53,3
+2026-09-26T12:57:25.883595+00:00,49854161,13,Is your Postgres migration safe or not safe?,54,13
+2026-09-26T12:57:25.883595+00:00,49850305,14,What even is an OS now?,215,304
+2026-09-26T12:57:25.883595+00:00,49824642,15,Calculating atmospheric drag on satellites for a Cubesat [pdf],9,4
+2026-09-26T12:57:25.883595+00:00,49829528,16,"Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",42,3
+2026-09-26T12:57:25.883595+00:00,49838040,17,The Murky History of Soviet-Born Tetris,58,15
+2026-09-26T12:57:25.883595+00:00,49845998,18,Gravity seems holographic. What does that mean for reality?,222,181
+2026-09-26T12:57:25.883595+00:00,49852302,19,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,275,65
+2026-09-26T12:57:25.883595+00:00,49848955,20,Ask HN: Who's still keeping a DOS machine up because the business depends on it?,150,144
+2026-09-26T12:57:25.883595+00:00,49824846,21,Scientists build most accurate atomic clock,25,10
+2026-09-26T12:57:25.883595+00:00,49854216,22,The far side of the Moon provides clues to a previous magnetic field,12,1
+2026-09-26T12:57:25.883595+00:00,49852462,23,HomelabFest will be in St. Louis in September 2027,50,27
+2026-09-26T12:57:25.883595+00:00,49849832,24,Excel now supports multiple values in a single cell,206,149
+2026-09-26T12:57:25.883595+00:00,49854945,25,The Copilot+ PC brand is dead,26,5
+2026-09-26T12:57:25.883595+00:00,49844736,26,First Principles Thinking,268,117
+2026-09-26T12:57:25.883595+00:00,49830265,27,From Thin Air to Bootable Images: The Tine Build System,21,2
+2026-09-26T12:57:25.883595+00:00,49829472,28,Fourier Analysis: Drawing Llamas with Circles,48,6
+2026-09-26T12:57:25.883595+00:00,49823490,29,A new world airport and its baggage,37,1
+2026-09-26T12:57:25.883595+00:00,49850781,30,Lab on a Contact Lens Can Measure Stress Through Serotonin,49,16
+2026-09-26T12:57:25.883595+00:00,49844497,31,Show HN: Hacker Atlas - A map of what Hacker News talks about,69,23
+2026-09-26T12:57:25.883595+00:00,49842409,32,I wrote a ray tracer in Brainfuck,77,19
+2026-09-26T12:57:25.883595+00:00,49838247,33,Remembering Johannes Doerfert,102,3
+2026-09-26T12:57:25.883595+00:00,49845977,34,U.S. appeals court upholds designation of Anthropic as supply chain risk,457,783
+2026-09-26T12:57:25.883595+00:00,49852065,35,One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days,204,98
+2026-09-26T12:57:25.883595+00:00,49844896,36,Microsoft abandons personal AI chatbot race with Copilot reboot,126,120
+2026-09-26T12:57:25.883595+00:00,49835096,37,Postgres SELECT DISTINCT Does Not Scale,87,27
+2026-09-26T12:57:25.883595+00:00,49777121,38,How video games inspire great UX (2019),127,19
+2026-09-26T12:57:25.883595+00:00,49853918,39,Alberta's image as world's only rat-free region shattered by discovery of rat,34,25
+2026-09-26T12:57:25.883595+00:00,49844642,40,What happens when you analyze your favorite college football team like the CIA?,57,34
+2026-09-26T12:57:25.883595+00:00,49843269,41,Platform-independent SIMD in Go,391,144
+2026-09-26T12:57:25.883595+00:00,49788014,42,Show HN: Make math automatic with Mathy,98,28
+2026-09-26T12:57:25.883595+00:00,49843174,43,"Git-bug: Distributed, offline-first bug tracker embedded in Git",339,108
+2026-09-26T12:57:25.883595+00:00,49849141,44,How we learned to stop worrying and love campus surveillance,223,126
+2026-09-26T12:57:25.883595+00:00,49842084,45,Boards of Casio,120,39
+2026-09-26T12:57:25.883595+00:00,49841115,46,Entering and Breaking the Avast Antivirus Sandbox Part 2,112,30
+2026-09-26T12:57:25.883595+00:00,49830434,47,Two and a half years without a gallbladder,39,28
+2026-09-26T12:57:25.883595+00:00,49855344,48,Uncle's frozen Mac says it's infected after viewing a Google ad. Now what?,5,0
+2026-09-26T12:57:25.883595+00:00,49848778,49,Pilots and Flight Attendants Have the Highest Radiation-Related Cancer Mortality,20,3
+2026-09-26T12:57:25.883595+00:00,49850629,50,Hype Is a Business Tool,16,7
