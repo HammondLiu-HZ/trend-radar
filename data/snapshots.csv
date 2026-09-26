@@ -51194,3 +51194,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-26T12:57:25.883595+00:00,49855344,48,Uncle's frozen Mac says it's infected after viewing a Google ad. Now what?,5,0
 2026-09-26T12:57:25.883595+00:00,49848778,49,Pilots and Flight Attendants Have the Highest Radiation-Related Cancer Mortality,20,3
 2026-09-26T12:57:25.883595+00:00,49850629,50,Hype Is a Business Tool,16,7
+2026-09-26T17:04:05.036146+00:00,49855315,1,Breaking Up with Google Play: Why Conversations Is Now Free,447,180
+2026-09-26T17:04:05.036146+00:00,49842764,2,PipePipe: NewPipe hard fork implementing SponsorBlock,71,39
+2026-09-26T17:04:05.036146+00:00,49854693,3,"Fifteen years later, the Apple Cards origin story",224,38
+2026-09-26T17:04:05.036146+00:00,49827900,4,The Lost Atomic Update on Loongson CPU,17,0
+2026-09-26T17:04:05.036146+00:00,49857528,5,Show HN: A Claude Code skill to analyze your chess games,22,15
+2026-09-26T17:04:05.036146+00:00,49829202,6,Modern Object Pascal Introduction for Programmers – Castle Game Engine,66,28
+2026-09-26T17:04:05.036146+00:00,49849985,7,Revealing the details of how OpenAI agents hacked Hugging Face,618,397
+2026-09-26T17:04:05.036146+00:00,49816907,8,"Reflections on 1,000 Days of Math",31,7
+2026-09-26T17:04:05.036146+00:00,49857572,9,Automattic has a new board after failed attempt to put CEO on leave,39,33
+2026-09-26T17:04:05.036146+00:00,49849820,10,Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia,21,18
+2026-09-26T17:04:05.036146+00:00,49852717,11,We're gonna need a lot more mathematicians,262,367
+2026-09-26T17:04:05.036146+00:00,49857899,12,I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband,20,3
+2026-09-26T17:04:05.036146+00:00,49840054,13,Plan mode is dead,471,423
+2026-09-26T17:04:05.036146+00:00,49854416,14,Floci: Locally emulating any cloud service,107,22
+2026-09-26T17:04:05.036146+00:00,49848269,15,"Ollaya – Ollama for open-source, Jev-style decision models",545,133
+2026-09-26T17:04:05.036146+00:00,49857442,16,Plunging test scores are a slow-moving catastrophe,81,107
+2026-09-26T17:04:05.036146+00:00,49854161,17,Is your Postgres migration safe or not safe?,97,30
+2026-09-26T17:04:05.036146+00:00,49826087,18,16GB iPod Nano 3G Upgrade,101,12
+2026-09-26T17:04:05.036146+00:00,49857323,19,New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely,24,2
+2026-09-26T17:04:05.036146+00:00,49857651,20,Banks and Credit Unions to Team Up Against Apple Pay Fees,12,0
+2026-09-26T17:04:05.036146+00:00,49829528,21,"Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",67,13
+2026-09-26T17:04:05.036146+00:00,49845172,22,Show HN: Jev Plays Pokémon Red,235,94
+2026-09-26T17:04:05.036146+00:00,49853175,23,"A single function Jev-like wrapper for LLMs, including vision models",116,36
+2026-09-26T17:04:05.036146+00:00,49850305,24,What even is an OS now?,257,380
+2026-09-26T17:04:05.036146+00:00,49824642,25,Calculating atmospheric drag on satellites for a Cubesat [pdf],26,7
+2026-09-26T17:04:05.036146+00:00,49848955,26,Ask HN: Who's still keeping a DOS machine up because the business depends on it?,205,207
+2026-09-26T17:04:05.036146+00:00,49845998,27,Gravity seems holographic. What does that mean for reality?,258,195
+2026-09-26T17:04:05.036146+00:00,49838040,28,The Murky History of Soviet-Born Tetris,80,18
+2026-09-26T17:04:05.036146+00:00,49824846,29,Scientists build most accurate atomic clock,47,22
+2026-09-26T17:04:05.036146+00:00,49852302,30,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,348,94
+2026-09-26T17:04:05.036146+00:00,49854945,31,The Copilot+ PC brand is dead,88,50
+2026-09-26T17:04:05.036146+00:00,49829472,32,Fourier Analysis: Drawing Llamas with Circles,65,7
+2026-09-26T17:04:05.036146+00:00,49849832,33,Excel now supports multiple values in a single cell,238,164
+2026-09-26T17:04:05.036146+00:00,49830265,34,From Thin Air to Bootable Images: The Tine Build System,29,12
+2026-09-26T17:04:05.036146+00:00,49850781,35,Lab on a Contact Lens Can Measure Stress Through Serotonin,62,22
+2026-09-26T17:04:05.036146+00:00,49823628,36,"ASML currently sells no chipmaking machines in Europe, executive says",114,129
+2026-09-26T17:04:05.036146+00:00,49823490,37,A new world airport and its baggage,56,3
+2026-09-26T17:04:05.036146+00:00,49844736,38,First Principles Thinking,277,122
+2026-09-26T17:04:05.036146+00:00,49845977,39,U.S. appeals court upholds designation of Anthropic as supply chain risk,473,819
+2026-09-26T17:04:05.036146+00:00,49842409,40,I wrote a ray tracer in Brainfuck,83,21
+2026-09-26T17:04:05.036146+00:00,49838247,41,Remembering Johannes Doerfert,110,6
+2026-09-26T17:04:05.036146+00:00,49854216,42,The far side of the Moon provides clues to a previous magnetic field,20,1
+2026-09-26T17:04:05.036146+00:00,49844896,43,Microsoft abandons personal AI chatbot race with Copilot reboot,134,128
+2026-09-26T17:04:05.036146+00:00,49844497,44,Show HN: Hacker Atlas - A map of what Hacker News talks about,75,24
+2026-09-26T17:04:05.036146+00:00,49857595,45,Some Supabase customers are publicly exposing reams of people's data to the web,4,0
+2026-09-26T17:04:05.036146+00:00,49852065,46,One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days,224,114
+2026-09-26T17:04:05.036146+00:00,49777121,47,How video games inspire great UX (2019),130,22
+2026-09-26T17:04:05.036146+00:00,49835096,48,Postgres SELECT DISTINCT Does Not Scale,90,28
+2026-09-26T17:04:05.036146+00:00,49856149,49,Understanding the Impact of LLM Watermarking on AI Agent Behavior,55,63
+2026-09-26T17:04:05.036146+00:00,49855018,50,One Month Without AI,154,181
