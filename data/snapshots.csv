@@ -51294,3 +51294,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-26T20:58:46.741308+00:00,49844736,48,First Principles Thinking,279,127
 2026-09-26T20:58:46.741308+00:00,49845977,49,U.S. appeals court upholds designation of Anthropic as supply chain risk,481,844
 2026-09-26T20:58:46.741308+00:00,49842409,50,I wrote a ray tracer in Brainfuck,87,21
+2026-09-26T23:31:40.111187+00:00,49842764,1,PipePipe: NewPipe hard fork implementing SponsorBlock,297,157
+2026-09-26T23:31:40.111187+00:00,49859112,2,DeepSeek Elastic Compute (DSec),115,32
+2026-09-26T23:31:40.111187+00:00,49858513,3,Show HN: Reladraw – A diagram language where you decide where to place things,141,42
+2026-09-26T23:31:40.111187+00:00,49833444,4,LA Metro has some of the slowest escalators on Earth,59,39
+2026-09-26T23:31:40.111187+00:00,49832768,5,A searchable library of forgotten public-domain film clips from 1915 onward,93,22
+2026-09-26T23:31:40.111187+00:00,49857729,6,Drawgent: Coding agent on a live Excalidraw canvas,94,31
+2026-09-26T23:31:40.111187+00:00,49860074,7,Welcome to the Medical Clinic at the Interplanetary Relay Station,32,4
+2026-09-26T23:31:40.111187+00:00,49854693,8,"Fifteen years later, the Apple Cards origin story",327,82
+2026-09-26T23:31:40.111187+00:00,49829202,9,Modern Object Pascal Introduction for Programmers,137,55
+2026-09-26T23:31:40.111187+00:00,49827900,10,The Lost Atomic Update on Loongson CPU,103,5
+2026-09-26T23:31:40.111187+00:00,49852717,11,We're gonna need a lot more mathematicians,358,461
+2026-09-26T23:31:40.111187+00:00,49844663,12,ASML says it sold 'absolutely nothing' in Europe in 2026,116,343
+2026-09-26T23:31:40.111187+00:00,49848680,13,Advice to a Beginning Graduate Student (2001),50,19
+2026-09-26T23:31:40.111187+00:00,49858810,14,Japan moves to tighten rules for foreigners,99,224
+2026-09-26T23:31:40.111187+00:00,49854875,15,How to keep enjoying programming in a world of LLMs,138,195
+2026-09-26T23:31:40.111187+00:00,49849820,16,Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia,52,35
+2026-09-26T23:31:40.111187+00:00,49834040,17,The Rise of Audio AR,27,8
+2026-09-26T23:31:40.111187+00:00,49855315,18,Breaking Up with Google Play: Why Conversations Is Now Free,624,245
+2026-09-26T23:31:40.111187+00:00,49836979,19,Dutch designer made DE9: Closer to the Edit into a playable web-based instrument,3,1
+2026-09-26T23:31:40.111187+00:00,49849986,20,Show HN: Ekselio – Loveable for finance workflows (local first),23,6
+2026-09-26T23:31:40.111187+00:00,49836579,21,How I changed teaching after AI managed to do all my homework assignments,109,114
+2026-09-26T23:31:40.111187+00:00,49838040,22,The Murky History of Soviet-Born Tetris,102,31
+2026-09-26T23:31:40.111187+00:00,49857442,23,Plunging test scores are a slow-moving catastrophe,166,306
+2026-09-26T23:31:40.111187+00:00,49816907,24,"Reflections on 1,000 Days of Math",78,34
+2026-09-26T23:31:40.111187+00:00,49854416,25,Floci: Locally emulating any cloud service,157,34
+2026-09-26T23:31:40.111187+00:00,49845172,26,Show HN: Jev Plays Pokémon Red,257,109
+2026-09-26T23:31:40.111187+00:00,49857899,27,I'm the mom in that viral Giants clip. Let me tell you about my husband,407,169
+2026-09-26T23:31:40.111187+00:00,49832231,28,Experiencing writing at our recent Chinese calligraphy workshop,34,1
+2026-09-26T23:31:40.111187+00:00,49857572,29,Automattic has a new board after failed attempt to put CEO on leave,117,141
+2026-09-26T23:31:40.111187+00:00,49856665,30,OpenAI bots meddled with multiple US Government agency sites,99,155
+2026-09-26T23:31:40.111187+00:00,49826087,31,16GB iPod Nano 3G Upgrade,140,23
+2026-09-26T23:31:40.111187+00:00,49850305,32,What even is an OS now?,292,437
+2026-09-26T23:31:40.111187+00:00,49848955,33,Ask HN: Who's still keeping a DOS machine up because the business depends on it?,241,254
+2026-09-26T23:31:40.111187+00:00,49849985,34,Revealing the details of how OpenAI agents hacked Hugging Face,699,443
+2026-09-26T23:31:40.111187+00:00,49854161,35,Is your Postgres migration safe or not safe?,118,42
+2026-09-26T23:31:40.111187+00:00,49853175,36,"A single function Jev-like wrapper for LLMs, including vision models",132,41
+2026-09-26T23:31:40.111187+00:00,49836302,37,Probing picosecond depairing currents in type-II superconductors,6,4
+2026-09-26T23:31:40.111187+00:00,49829528,38,"Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",115,18
+2026-09-26T23:31:40.111187+00:00,49824642,39,Calculating atmospheric drag on satellites for a Cubesat [pdf],34,8
+2026-09-26T23:31:40.111187+00:00,49858424,40,From Holy Water to Frozen Meals: The Evolution of Vending Machines,5,0
+2026-09-26T23:31:40.111187+00:00,49860545,41,OpenAI pauses training of its 'most capable models',16,5
+2026-09-26T23:31:40.111187+00:00,49840054,42,Plan mode is dead,545,474
+2026-09-26T23:31:40.111187+00:00,49860011,43,New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature,11,0
+2026-09-26T23:31:40.111187+00:00,49852302,44,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,387,97
+2026-09-26T23:31:40.111187+00:00,49859462,45,I built my daughter a custom alarm clock because everything on Amazon sucked,23,13
+2026-09-26T23:31:40.111187+00:00,49848269,46,"Ollaya – Ollama for open-source, Jev-style decision models",581,141
+2026-09-26T23:31:40.111187+00:00,49824846,47,Scientists build most accurate atomic clock,55,25
+2026-09-26T23:31:40.111187+00:00,49858409,48,"Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",9,0
+2026-09-26T23:31:40.111187+00:00,49857323,49,New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely,60,14
+2026-09-26T23:31:40.111187+00:00,49857528,50,Show HN: A Claude Code skill to analyze your chess games,69,51
