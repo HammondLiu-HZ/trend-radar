@@ -51444,3 +51444,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-27T11:52:59.780183+00:00,49849986,48,Show HN: Ekselio – Loveable for finance workflows (local first),34,9
 2026-09-27T11:52:59.780183+00:00,49834040,49,The Rise of Audio AR (2024),33,18
 2026-09-27T11:52:59.780183+00:00,49853175,50,"A single function Jev-like wrapper for LLMs, including vision models",142,44
+2026-09-27T16:51:02.048405+00:00,49867067,1,"""They had no concept of a duty of care to their users.""",243,186
+2026-09-27T16:51:02.048405+00:00,49867486,2,The Normalization of Inexplicable Failures,52,10
+2026-09-27T16:51:02.048405+00:00,49866951,3,"In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",65,26
+2026-09-27T16:51:02.048405+00:00,49866515,4,Replacing the old battery on rechargeable bike lights,64,25
+2026-09-27T16:51:02.048405+00:00,49849409,5,Writing Efficient C++ Code,45,11
+2026-09-27T16:51:02.048405+00:00,49866534,6,Ten Lines of Code That Changed My World,36,4
+2026-09-27T16:51:02.048405+00:00,49867775,7,Show HN: TinyAIArena watch AI agents battle it out,18,8
+2026-09-27T16:51:02.048405+00:00,49854219,8,Flip Fluid on Flip Dots,278,18
+2026-09-27T16:51:02.048405+00:00,49856885,9,Fakecloud: Local AWS cloud emulator for integration tests,46,27
+2026-09-27T16:51:02.048405+00:00,49867553,10,postmarketOS Rebrand: Nura,46,0
+2026-09-27T16:51:02.048405+00:00,49844657,11,Does Georgism work? Five years later,464,375
+2026-09-27T16:51:02.048405+00:00,49856988,12,Go Concurrency Distilled,318,134
+2026-09-27T16:51:02.048405+00:00,49849723,13,"Finally, A True Blue Rose Exists",72,27
+2026-09-27T16:51:02.048405+00:00,49852832,14,Walgit: A Git server that is one binary in front of an object store,8,3
+2026-09-27T16:51:02.048405+00:00,49842764,15,PipePipe: NewPipe hard fork implementing SponsorBlock,468,253
+2026-09-27T16:51:02.048405+00:00,49824144,16,Show HN: A CC0 museum of retro 3D tricks you can paste into a page,39,9
+2026-09-27T16:51:02.048405+00:00,49863864,17,Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI,546,500
+2026-09-27T16:51:02.048405+00:00,49868083,18,"There are no ""rogue"" AI agents",11,2
+2026-09-27T16:51:02.048405+00:00,49864743,19,"Rusty thoughts on ""Parse, don't validate""",39,13
+2026-09-27T16:51:02.048405+00:00,49863600,20,The internet discovers TLA+. Now what?,88,46
+2026-09-27T16:51:02.048405+00:00,49858513,21,Show HN: Reladraw – A diagram language where you decide where to place things,364,101
+2026-09-27T16:51:02.048405+00:00,49859112,22,DeepSeek Elastic Compute (DSec),303,95
+2026-09-27T16:51:02.048405+00:00,49844663,23,ASML says it sold 'absolutely nothing' in Europe in 2026,373,806
+2026-09-27T16:51:02.048405+00:00,49839438,24,"Biology might not be quantum, but its math is quantumlike",106,45
+2026-09-27T16:51:02.048405+00:00,49867038,25,10 Tells of a Slop UI,206,151
+2026-09-27T16:51:02.048405+00:00,49865343,26,"""As a Language Model"": Chat Template Switches LLM Self-Referential Voice",84,93
+2026-09-27T16:51:02.048405+00:00,49832768,27,A searchable library of forgotten public-domain film clips from 1915 onward,197,26
+2026-09-27T16:51:02.048405+00:00,49854693,28,"Fifteen years later, the Apple Cards origin story",425,110
+2026-09-27T16:51:02.048405+00:00,49853137,29,An agent used DNS to reach an external chatbot,143,146
+2026-09-27T16:51:02.048405+00:00,49850991,30,Exploding variance of means of exponentials: least-squares to the rescue,58,0
+2026-09-27T16:51:02.048405+00:00,49852905,31,Promising discoveries about the potential for life on one of Saturn’s icy moons,89,53
+2026-09-27T16:51:02.048405+00:00,49850735,32,Accelerated Out of Core Shuffling,11,0
+2026-09-27T16:51:02.048405+00:00,49857729,33,Drawgent: Coding agent on a live Excalidraw canvas,170,45
+2026-09-27T16:51:02.048405+00:00,49867943,34,The Mars Delusion,4,1
+2026-09-27T16:51:02.048405+00:00,49854875,35,How to keep enjoying programming in a world of LLMs,300,319
+2026-09-27T16:51:02.048405+00:00,49864642,36,"Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",370,259
+2026-09-27T16:51:02.048405+00:00,49858676,37,Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC,105,11
+2026-09-27T16:51:02.048405+00:00,49857656,38,Turning GLM-5.3-Flash into a Jev-like decision model,122,50
+2026-09-27T16:51:02.048405+00:00,49851883,39,Generate fonts where every LLM token is the same width,82,22
+2026-09-27T16:51:02.048405+00:00,49862809,40,What is the size of Yemen? (2024),225,75
+2026-09-27T16:51:02.048405+00:00,49829202,41,Modern Object Pascal Introduction for Programmers,187,80
+2026-09-27T16:51:02.048405+00:00,49839567,42,Evolving programming languages in the AI era,128,86
+2026-09-27T16:51:02.048405+00:00,49867093,43,Alternatives to GPS are around the corner,4,0
+2026-09-27T16:51:02.048405+00:00,49845172,44,Show HN: Jev Plays Pokémon Red,265,117
+2026-09-27T16:51:02.048405+00:00,49849907,45,Teaching a World Model to Play Pokemon,23,18
+2026-09-27T16:51:02.048405+00:00,49866988,46,Fragment of oldest known peace treaty found in Turkey,5,0
+2026-09-27T16:51:02.048405+00:00,49864990,47,Rust for C# and .NET developers guide by Microsoft,8,0
+2026-09-27T16:51:02.048405+00:00,49860074,48,Welcome to the Medical Clinic at the Interplanetary Relay Station,77,14
+2026-09-27T16:51:02.048405+00:00,49844037,49,We Should Be Able to Change Our Languages,51,33
+2026-09-27T16:51:02.048405+00:00,49848955,50,Ask HN: Who's still keeping a DOS machine up because the business depends on it?,263,285
