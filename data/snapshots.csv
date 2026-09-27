@@ -51544,3 +51544,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-27T20:01:08.394814+00:00,49867038,48,Tells of a Slop UI,294,196
 2026-09-27T20:01:08.394814+00:00,49833444,49,LA Metro has some of the slowest escalators,107,92
 2026-09-27T20:01:08.394814+00:00,49864990,50,Rust for C# and .NET developers guide by Microsoft,20,2
+2026-09-27T23:44:18.856168+00:00,49870367,1,When did Google get so weird?,576,306
+2026-09-27T23:44:18.856168+00:00,49868830,2,Ember-1,304,164
+2026-09-27T23:44:18.856168+00:00,49870837,3,Lunar Terminator Paradox,33,19
+2026-09-27T23:44:18.856168+00:00,49870070,4,Alan Kay's answer to “Did the ENIAC have a BIOS”?,60,23
+2026-09-27T23:44:18.856168+00:00,49869574,5,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,135,61
+2026-09-27T23:44:18.856168+00:00,49844629,6,The state of SIMD in Rust in 2026,79,19
+2026-09-27T23:44:18.856168+00:00,49857281,7,There is more to code review than (automatable) detection,40,14
+2026-09-27T23:44:18.856168+00:00,49868404,8,Don't couple your Go code to GitHub,117,53
+2026-09-27T23:44:18.856168+00:00,49869995,9,Imp is a full port of DSPy to the BEAM,38,5
+2026-09-27T23:44:18.856168+00:00,49869773,10,What I did at Recurse Center,49,16
+2026-09-27T23:44:18.856168+00:00,49866951,11,"In an $80 motel room, a discovery to shed light on the origins of life",194,79
+2026-09-27T23:44:18.856168+00:00,49869142,12,"Oral history of John Chowning, inventor of FM synthesis [video]",40,6
+2026-09-27T23:44:18.856168+00:00,49866515,13,Replacing the old battery on rechargeable bike lights,129,71
+2026-09-27T23:44:18.856168+00:00,49870541,14,My Recent Woodworking Projects,12,3
+2026-09-27T23:44:18.856168+00:00,49844266,15,A New Experiment Meta-Strategy,5,0
+2026-09-27T23:44:18.856168+00:00,49870295,16,Self-Hosting on the Dark Web,23,4
+2026-09-27T23:44:18.856168+00:00,49849409,17,Writing Efficient C++ Code (2013),131,78
+2026-09-27T23:44:18.856168+00:00,49851693,18,"S3 Is the Future, S3 Is the Past",35,20
+2026-09-27T23:44:18.856168+00:00,49845284,19,"Previously unheard recordings of John Coltrane, captured by Frank Tiberi",46,16
+2026-09-27T23:44:18.856168+00:00,49853476,20,The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers,55,8
+2026-09-27T23:44:18.856168+00:00,49854219,21,Flip Fluid on Flip Dots,359,24
+2026-09-27T23:44:18.856168+00:00,49866988,22,Fragment of oldest known peace treaty found in Turkey,50,8
+2026-09-27T23:44:18.856168+00:00,49856885,23,Fakecloud: Local AWS cloud emulator for integration tests,102,51
+2026-09-27T23:44:18.856168+00:00,49870928,24,EV Sales Are Booming in Europe with Gasoline at $10 a Gallon,40,39
+2026-09-27T23:44:18.856168+00:00,49859759,25,Video CDs Break Windows Explorer,91,33
+2026-09-27T23:44:18.856168+00:00,49859982,26,Faster prompt lookup drafting in llama.cpp,62,10
+2026-09-27T23:44:18.856168+00:00,49867486,27,The Normalization of Inexplicable Failures,232,95
+2026-09-27T23:44:18.856168+00:00,49850613,28,KICKI: a DECsystem1060,20,2
+2026-09-27T23:44:18.856168+00:00,49867775,29,Show HN: TinyAIArena watch AI agents battle it out,93,40
+2026-09-27T23:44:18.856168+00:00,49867067,30,On caring for user data: NeoVim caused Vim undo files to be deleted,341,302
+2026-09-27T23:44:18.856168+00:00,49856193,31,Improving site performance by shipping more CSS,76,64
+2026-09-27T23:44:18.856168+00:00,49845114,32,C's Flexible Integer Sizes Were Not a Design Mistake,78,119
+2026-09-27T23:44:18.856168+00:00,49870394,33,"Show HN: Cartopolis, interactive globe-sized 3D world",8,0
+2026-09-27T23:44:18.856168+00:00,49856988,34,Go Concurrency Distilled,371,172
+2026-09-27T23:44:18.856168+00:00,49842764,35,PipePipe: NewPipe hard fork implementing SponsorBlock,488,272
+2026-09-27T23:44:18.856168+00:00,49870304,36,Have an LLC,11,2
+2026-09-27T23:44:18.856168+00:00,49866534,37,Ten lines of code that changed my world,118,37
+2026-09-27T23:44:18.856168+00:00,49867553,38,PostmarketOS is rebranding as Nura,155,41
+2026-09-27T23:44:18.856168+00:00,49858513,39,Show HN: Reladraw – A diagram language where you decide where to place things,389,113
+2026-09-27T23:44:18.856168+00:00,49864743,40,"Rusty thoughts on ""Parse, don't validate""",72,38
+2026-09-27T23:44:18.856168+00:00,49859112,41,DeepSeek Elastic Compute (DSec),314,104
+2026-09-27T23:44:18.856168+00:00,49849723,42,"Finally, A True Blue Rose Exists",90,36
+2026-09-27T23:44:18.856168+00:00,49868083,43,"There are no ""rogue"" AI agents",323,240
+2026-09-27T23:44:18.856168+00:00,49839438,44,"Biology might not be quantum, but its math is quantumlike",119,57
+2026-09-27T23:44:18.856168+00:00,49832768,45,A searchable library of forgotten public-domain film clips from 1915 onward,206,27
+2026-09-27T23:44:18.856168+00:00,49871139,46,George Hotz’s opinion on AI coding,10,7
+2026-09-27T23:44:18.856168+00:00,49853137,47,An agent used DNS to reach an external chatbot,165,159
+2026-09-27T23:44:18.856168+00:00,49863864,48,Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI,598,574
+2026-09-27T23:44:18.856168+00:00,49855276,49,Reading’s Bayeux Tapestry,25,6
+2026-09-27T23:44:18.856168+00:00,49863600,50,The internet discovers TLA+. Now what?,111,61
