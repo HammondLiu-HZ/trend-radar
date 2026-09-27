@@ -51494,3 +51494,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-27T16:51:02.048405+00:00,49860074,48,Welcome to the Medical Clinic at the Interplanetary Relay Station,77,14
 2026-09-27T16:51:02.048405+00:00,49844037,49,We Should Be Able to Change Our Languages,51,33
 2026-09-27T16:51:02.048405+00:00,49848955,50,Ask HN: Who's still keeping a DOS machine up because the business depends on it?,263,285
+2026-09-27T20:01:08.394814+00:00,49868830,1,Ember-1,160,80
+2026-09-27T20:01:08.394814+00:00,49844629,2,The state of SIMD in Rust in 2026,13,0
+2026-09-27T20:01:08.394814+00:00,49869142,3,"Oral history of John Chowning, inventor of FM synthesis [video]",13,2
+2026-09-27T20:01:08.394814+00:00,49866951,4,"In an $80 motel room, a discovery to shed light on the origins of life",154,59
+2026-09-27T20:01:08.394814+00:00,49869574,5,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,45,8
+2026-09-27T20:01:08.394814+00:00,49870070,6,"Alan Kay's answer to ""Did the ENIAC have a BIOS""?",4,1
+2026-09-27T20:01:08.394814+00:00,49849409,7,Writing Efficient C++ Code (2013),113,55
+2026-09-27T20:01:08.394814+00:00,49869995,8,Imp is a full port of DSPy to the BEAM,5,2
+2026-09-27T20:01:08.394814+00:00,49866515,9,Replacing the old battery on rechargeable bike lights,105,52
+2026-09-27T20:01:08.394814+00:00,49867775,10,Show HN: TinyAIArena watch AI agents battle it out,71,34
+2026-09-27T20:01:08.394814+00:00,49868404,11,Don't couple your Go code to GitHub,22,8
+2026-09-27T20:01:08.394814+00:00,49867486,12,The Normalization of Inexplicable Failures,200,74
+2026-09-27T20:01:08.394814+00:00,49853476,13,The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers,23,4
+2026-09-27T20:01:08.394814+00:00,49845284,14,John Coltrane Centenary's – Impulse Records Release the Legendary Tiberi Tapes,25,5
+2026-09-27T20:01:08.394814+00:00,49866988,15,Fragment of oldest known peace treaty found in Turkey,28,5
+2026-09-27T20:01:08.394814+00:00,49867067,16,On caring for user data: NeoVim caused Vim undo files to be deleted,305,266
+2026-09-27T20:01:08.394814+00:00,49850613,17,Kicki: A DECsystem1060 – Interim Computer Museum,9,1
+2026-09-27T20:01:08.394814+00:00,49854219,18,Flip Fluid on Flip Dots,319,21
+2026-09-27T20:01:08.394814+00:00,49856885,19,Fakecloud: Local AWS cloud emulator for integration tests,80,42
+2026-09-27T20:01:08.394814+00:00,49859759,20,Video CDs Break Windows Explorer,51,17
+2026-09-27T20:01:08.394814+00:00,49866597,21,"Show HN: Building a Markdown editor for Mac, iOS and web",47,30
+2026-09-27T20:01:08.394814+00:00,49868083,22,"There are no ""rogue"" AI agents",262,188
+2026-09-27T20:01:08.394814+00:00,49864105,23,Show HN: Trail – new kind of logic game,19,7
+2026-09-27T20:01:08.394814+00:00,49859982,24,Faster prompt lookup drafting in llama.cpp,37,4
+2026-09-27T20:01:08.394814+00:00,49856193,25,Improving site performance by shipping more CSS,70,57
+2026-09-27T20:01:08.394814+00:00,49852832,26,Walgit: A Git server that is one binary in front of an object store,59,7
+2026-09-27T20:01:08.394814+00:00,49867553,27,PostmarketOS is rebranding as Nura,124,22
+2026-09-27T20:01:08.394814+00:00,49856988,28,Go Concurrency Distilled,351,149
+2026-09-27T20:01:08.394814+00:00,49866534,29,Ten lines of code that changed my world,102,32
+2026-09-27T20:01:08.394814+00:00,49845114,30,C's Flexible Integer Sizes Were Not a Design Mistake,53,82
+2026-09-27T20:01:08.394814+00:00,49842764,31,PipePipe: NewPipe hard fork implementing SponsorBlock,481,265
+2026-09-27T20:01:08.394814+00:00,49864743,32,"Rusty thoughts on ""Parse, don't validate""",61,32
+2026-09-27T20:01:08.394814+00:00,49849723,33,"Finally, A True Blue Rose Exists",88,33
+2026-09-27T20:01:08.394814+00:00,49858513,34,Show HN: Reladraw – A diagram language where you decide where to place things,381,106
+2026-09-27T20:01:08.394814+00:00,49855276,35,Reading’s Bayeux Tapestry,24,6
+2026-09-27T20:01:08.394814+00:00,49859112,36,DeepSeek Elastic Compute (DSec),312,100
+2026-09-27T20:01:08.394814+00:00,49824144,37,Show HN: A CC0 museum of retro 3D tricks you can paste into a page,62,11
+2026-09-27T20:01:08.394814+00:00,49863864,38,Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI,582,552
+2026-09-27T20:01:08.394814+00:00,49839438,39,"Biology might not be quantum, but its math is quantumlike",114,54
+2026-09-27T20:01:08.394814+00:00,49832768,40,A searchable library of forgotten public-domain film clips from 1915 onward,204,27
+2026-09-27T20:01:08.394814+00:00,49863600,41,The internet discovers TLA+. Now what?,106,58
+2026-09-27T20:01:08.394814+00:00,49853137,42,An agent used DNS to reach an external chatbot,159,153
+2026-09-27T20:01:08.394814+00:00,49855447,43,The Greatest Pun in JavaScript,9,5
+2026-09-27T20:01:08.394814+00:00,49850991,44,Exploding variance of means of exponentials: least-squares to the rescue,62,0
+2026-09-27T20:01:08.394814+00:00,49868831,45,SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video],162,66
+2026-09-27T20:01:08.394814+00:00,49857729,46,Drawgent: Coding agent on a live Excalidraw canvas,172,45
+2026-09-27T20:01:08.394814+00:00,49852905,47,Promising discoveries about the potential for life on one of Saturn’s icy moons,94,61
+2026-09-27T20:01:08.394814+00:00,49867038,48,Tells of a Slop UI,294,196
+2026-09-27T20:01:08.394814+00:00,49833444,49,LA Metro has some of the slowest escalators,107,92
+2026-09-27T20:01:08.394814+00:00,49864990,50,Rust for C# and .NET developers guide by Microsoft,20,2
