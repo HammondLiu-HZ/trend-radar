@@ -51644,3 +51644,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-28T05:06:35.339732+00:00,49872200,48,Cambrian Explosion of AI,3,3
 2026-09-28T05:06:35.339732+00:00,49871846,49,The Great Crime Decline Is Happening All Across the Country,30,34
 2026-09-28T05:06:35.339732+00:00,49857132,50,Golang: Crypto/fips140: do not bloat crypto code unnecessarily,13,1
+2026-09-28T13:38:52.776137+00:00,49875913,1,"Parley: Federated, decentralised chat that speaks plain IRC",130,55
+2026-09-28T13:38:52.776137+00:00,49876760,2,Show HN: Hntui – A TUI for Hacker News,32,13
+2026-09-28T13:38:52.776137+00:00,49875148,3,AI companies in race to demonstrate their model most threatening to humanity,282,199
+2026-09-28T13:38:52.776137+00:00,49875142,4,"37,500 border drawings: a map of the world as people remember it",73,21
+2026-09-28T13:38:52.776137+00:00,49865312,5,"Footguns with Postgres ""at time zone 'UTC'""",84,42
+2026-09-28T13:38:52.776137+00:00,49872723,6,Owed a billion dollars in Nvidia stock,856,363
+2026-09-28T13:38:52.776137+00:00,49868830,7,Ember-1,514,227
+2026-09-28T13:38:52.776137+00:00,49870367,8,When did Google get so weird?,1484,793
+2026-09-28T13:38:52.776137+00:00,49872883,9,Nissan's third generation e-POWER powertrain,100,166
+2026-09-28T13:38:52.776137+00:00,49875411,10,SpaceX's Starship launching to orbit for first time ever today,196,114
+2026-09-28T13:38:52.776137+00:00,49873241,11,Thinking fast and slow in AI: The role of metacognition (2021),131,46
+2026-09-28T13:38:52.776137+00:00,49852238,12,Functional Mechanical Sympathy [video],49,9
+2026-09-28T13:38:52.776137+00:00,49870295,13,Self-Hosting on the Dark Web,260,95
+2026-09-28T13:38:52.776137+00:00,49869755,14,Malleable software: Restoring user agency in a world of locked-down apps (2025),119,60
+2026-09-28T13:38:52.776137+00:00,49874551,15,Made by Mechanical Means,48,14
+2026-09-28T13:38:52.776137+00:00,49852600,16,Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06,119,60
+2026-09-28T13:38:52.776137+00:00,49870070,17,Alan Kay's answer to “Did the ENIAC have a BIOS”?,158,46
+2026-09-28T13:38:52.776137+00:00,49877678,18,Does Reddit have an astroturfing problem? What the data suggests,3,0
+2026-09-28T13:38:52.776137+00:00,49870837,19,Lunar Terminator Paradox,92,60
+2026-09-28T13:38:52.776137+00:00,49875801,20,"Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",12,3
+2026-09-28T13:38:52.776137+00:00,49868404,21,Don't couple your Go code to GitHub,279,137
+2026-09-28T13:38:52.776137+00:00,49876373,22,The smart home graveyard is getting crowded,32,27
+2026-09-28T13:38:52.776137+00:00,49844629,23,The state of SIMD in Rust in 2026,177,45
+2026-09-28T13:38:52.776137+00:00,49874728,24,Prompting Claude Opus 5.5,157,164
+2026-09-28T13:38:52.776137+00:00,49851795,25,Deterministic Concurrency [video],60,5
+2026-09-28T13:38:52.776137+00:00,49866951,26,"In an $80 motel room, a discovery to shed light on the origins of life",264,98
+2026-09-28T13:38:52.776137+00:00,49869574,27,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,276,115
+2026-09-28T13:38:52.776137+00:00,49855276,28,Reading’s Bayeux Tapestry,59,22
+2026-09-28T13:38:52.776137+00:00,49869995,29,Imp is a full port of DSPy to the BEAM,88,7
+2026-09-28T13:38:52.776137+00:00,49875401,30,Three Days in August: What a DDoS Attack Exposed in Our Network,12,8
+2026-09-28T13:38:52.776137+00:00,49869773,31,What I did at Recurse Center,113,38
+2026-09-28T13:38:52.776137+00:00,49866515,32,Replacing the old battery on rechargeable bike lights,185,105
+2026-09-28T13:38:52.776137+00:00,49845284,33,"Previously unheard recordings of John Coltrane, captured by Frank Tiberi",100,34
+2026-09-28T13:38:52.776137+00:00,49849409,34,Writing Efficient C++ Code (2013),167,133
+2026-09-28T13:38:52.776137+00:00,49869142,35,"Oral history of John Chowning, inventor of FM synthesis [video]",84,29
+2026-09-28T13:38:52.776137+00:00,49872541,36,Packing Binary Is Fun,26,10
+2026-09-28T13:38:52.776137+00:00,49857281,37,There is more to code review than (automatable) detection,150,98
+2026-09-28T13:38:52.776137+00:00,49876158,38,Rails World 2026 Closing Keynote – Aaron Patterson [video],8,1
+2026-09-28T13:38:52.776137+00:00,49856885,39,Fakecloud: Local AWS cloud emulator for integration tests,145,73
+2026-09-28T13:38:52.776137+00:00,49853476,40,The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers,97,13
+2026-09-28T13:38:52.776137+00:00,49875347,41,"Big AI's content problem: Take the work, keep the money",16,0
+2026-09-28T13:38:52.776137+00:00,49876883,42,"Una watch review: A modular, repairable GPS watch is a good first step",5,0
+2026-09-28T13:38:52.776137+00:00,49844266,43,A New Experiment Meta-Strategy,31,1
+2026-09-28T13:38:52.776137+00:00,49868753,44,"Calling the AI bluff: Adding ""Do not guess"" cut made-up claims from 71% to 20%",63,14
+2026-09-28T13:38:52.776137+00:00,49859759,45,Video CDs Break Windows Explorer,136,50
+2026-09-28T13:38:52.776137+00:00,49866988,46,Fragment of oldest known peace treaty found in Turkey,91,11
+2026-09-28T13:38:52.776137+00:00,49872719,47,Fool's Expertise,26,13
+2026-09-28T13:38:52.776137+00:00,49856193,48,Improving site performance by shipping more CSS,86,69
+2026-09-28T13:38:52.776137+00:00,49859982,49,Faster prompt lookup drafting in llama.cpp,81,12
+2026-09-28T13:38:52.776137+00:00,49871992,50,European industry is doing better than you may think,31,5
