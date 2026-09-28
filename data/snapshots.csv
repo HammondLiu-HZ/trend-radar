@@ -51694,3 +51694,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-28T13:38:52.776137+00:00,49856193,48,Improving site performance by shipping more CSS,86,69
 2026-09-28T13:38:52.776137+00:00,49859982,49,Faster prompt lookup drafting in llama.cpp,81,12
 2026-09-28T13:38:52.776137+00:00,49871992,50,European industry is doing better than you may think,31,5
+2026-09-28T20:29:17.889292+00:00,49880036,1,Pirating the Pirates,288,119
+2026-09-28T20:29:17.889292+00:00,49882781,2,MicroLLM Lab – Try 7 tiny LLM's in the browser,49,11
+2026-09-28T20:29:17.889292+00:00,49881606,3,Joseph Szabo’s pictures of American adolescents,45,17
+2026-09-28T20:29:17.889292+00:00,49879702,4,Hijacking the PS5's RTMP stream,133,36
+2026-09-28T20:29:17.889292+00:00,49883159,5,First Steps of the PLC Organization – Independent Public Ledger of Credentials,18,4
+2026-09-28T20:29:17.889292+00:00,49881850,6,Sonnet 5.5,366,232
+2026-09-28T20:29:17.889292+00:00,49875913,7,"Parley: Federated, decentralised chat that speaks plain IRC",263,132
+2026-09-28T20:29:17.889292+00:00,49881505,8,Launch HN: Vespper (YC F24) – SOTA Docx MCP,23,8
+2026-09-28T20:29:17.889292+00:00,49883345,9,SB 923 is Law: CCPA deletion rights now reach third-party data,29,10
+2026-09-28T20:29:17.889292+00:00,49882208,10,GrapheneOS – When an app is slow,49,23
+2026-09-28T20:29:17.889292+00:00,49881692,11,Who wrote Elizabeth I's most scathing letters?,16,10
+2026-09-28T20:29:17.889292+00:00,49879577,12,Cf: The Agentic CLI for the Cloudflare API,63,29
+2026-09-28T20:29:17.889292+00:00,49878900,13,What heraldry and Japanese mon can teach about visual-identity generators,51,17
+2026-09-28T20:29:17.889292+00:00,49879000,14,MongoDB CEO resigns to join Meta,257,214
+2026-09-28T20:29:17.889292+00:00,49879883,15,Nvidia wants to put a watchdog chip next to every AI agent,46,85
+2026-09-28T20:29:17.889292+00:00,49881747,16,Windows 11½,309,86
+2026-09-28T20:29:17.889292+00:00,49880601,17,Show HN: Destroy Any Website with Stickman,51,12
+2026-09-28T20:29:17.889292+00:00,49881777,18,I made a visual workspace for AI Automations,17,15
+2026-09-28T20:29:17.889292+00:00,49879697,19,Kids turned low-traffic NPR Spotify comments into a secret group chat,177,112
+2026-09-28T20:29:17.889292+00:00,49878759,20,I switched to Brave,61,114
+2026-09-28T20:29:17.889292+00:00,49881951,21,"So long Google, and thanks for all the nudes",131,51
+2026-09-28T20:29:17.889292+00:00,49879401,22,Show HN: HN.watch – Videos of all Hacker News posts,111,56
+2026-09-28T20:29:17.889292+00:00,49882894,23,Neal Stephenson responds with wit and humor (2004),21,5
+2026-09-28T20:29:17.889292+00:00,49875142,24,"37,500 border drawings: a map of the world as people remember it",153,32
+2026-09-28T20:29:17.889292+00:00,49876148,25,What would a serious AI product look like?,101,38
+2026-09-28T20:29:17.889292+00:00,49870367,26,When did Google get so weird?,1791,991
+2026-09-28T20:29:17.889292+00:00,49875801,27,"Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",111,51
+2026-09-28T20:29:17.889292+00:00,49870760,28,Solving a corn puzzle with CP-SAT,20,5
+2026-09-28T20:29:17.889292+00:00,49865312,29,Footguns with Postgres “at time zone 'UTC'”,154,91
+2026-09-28T20:29:17.889292+00:00,49875308,30,Show HN: Free alternative to graphics design giants,86,39
+2026-09-28T20:29:17.889292+00:00,49872723,31,Owed a billion dollars in Nvidia stock,1037,436
+2026-09-28T20:29:17.889292+00:00,49880312,32,"The problem is not AI code, but not knowing about system architecture or intent",323,210
+2026-09-28T20:29:17.889292+00:00,49877988,33,Coding Is Not Solved,373,395
+2026-09-28T20:29:17.889292+00:00,49872883,34,Nissan's third generation e-POWER powertrain,148,354
+2026-09-28T20:29:17.889292+00:00,49883539,35,California Farmers Are Struggling to Sell Grapes as Demand for Wine Drops,4,0
+2026-09-28T20:29:17.889292+00:00,49870295,36,Self-Hosting on the Dark Web,337,106
+2026-09-28T20:29:17.889292+00:00,49881484,37,OpenAI still doesn't seem to have a handle on all of its rogue AI activity,85,87
+2026-09-28T20:29:17.889292+00:00,49883471,38,It's Time to Investigate the AI Labs,7,0
+2026-09-28T20:29:17.889292+00:00,49873241,39,Thinking fast and slow in AI: The role of metacognition (2021),169,73
+2026-09-28T20:29:17.889292+00:00,49869755,40,Malleable software: Restoring user agency in a world of locked-down apps (2025),150,71
+2026-09-28T20:29:17.889292+00:00,49883552,41,Headed for the Exit: The Great Engineering Leader Career Break,4,0
+2026-09-28T20:29:17.889292+00:00,49870070,42,Alan Kay's answer to “Did the ENIAC have a BIOS”?,183,65
+2026-09-28T20:29:17.889292+00:00,49852600,43,Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06,157,78
+2026-09-28T20:29:17.889292+00:00,49883510,44,AI's hidden $3T bill could wreck the world economy,6,0
+2026-09-28T20:29:17.889292+00:00,49880811,45,N.Y.P.D. Officers Used Flock Safety to Track License Plates Without a Contract,21,6
+2026-09-28T20:29:17.889292+00:00,49882367,46,Schools are experimenting with AI with little evidence or policy to guide them,12,5
+2026-09-28T20:29:17.889292+00:00,49852238,47,Functional Mechanical Sympathy [video],63,11
+2026-09-28T20:29:17.889292+00:00,49844629,48,The state of SIMD in Rust in 2026,204,60
+2026-09-28T20:29:17.889292+00:00,49880850,49,GrapheneOS Picks Motorola Signature 27 as Its First Non-Pixel Phone,19,1
+2026-09-28T20:29:17.889292+00:00,49870837,50,Lunar Terminator Paradox,100,64
