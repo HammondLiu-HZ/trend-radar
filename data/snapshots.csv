@@ -51594,3 +51594,53 @@ captured_at,story_id,rank,title,score,comments
 2026-09-27T23:44:18.856168+00:00,49863864,48,Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI,598,574
 2026-09-27T23:44:18.856168+00:00,49855276,49,Reading’s Bayeux Tapestry,25,6
 2026-09-27T23:44:18.856168+00:00,49863600,50,The internet discovers TLA+. Now what?,111,61
+2026-09-28T05:06:35.339732+00:00,49872723,1,Owed a billion dollars in Nvidia stock,310,153
+2026-09-28T05:06:35.339732+00:00,49873241,2,Thinking Fast and Slow in AI: The Role of Metacognition,27,2
+2026-09-28T05:06:35.339732+00:00,49872883,3,Nissan's third generation e-POWER powertrain,28,29
+2026-09-28T05:06:35.339732+00:00,49868830,4,Ember-1,395,197
+2026-09-28T05:06:35.339732+00:00,49870367,5,When did Google get so weird?,982,529
+2026-09-28T05:06:35.339732+00:00,49870070,6,Alan Kay's answer to “Did the ENIAC have a BIOS”?,96,33
+2026-09-28T05:06:35.339732+00:00,49857281,7,There is more to code review than (automatable) detection,95,53
+2026-09-28T05:06:35.339732+00:00,49844629,8,The state of SIMD in Rust in 2026,112,23
+2026-09-28T05:06:35.339732+00:00,49869755,9,Malleable software: Restoring user agency in a world of locked-down apps (2025),22,5
+2026-09-28T05:06:35.339732+00:00,49868404,10,Don't couple your Go code to GitHub,185,90
+2026-09-28T05:06:35.339732+00:00,49870295,11,Self-Hosting on the Dark Web,104,34
+2026-09-28T05:06:35.339732+00:00,49872980,12,Microsoft drops Copilot+ branding from its new laptops,32,14
+2026-09-28T05:06:35.339732+00:00,49872633,13,Goodbye to the Hard Parts That Never Mattered,7,1
+2026-09-28T05:06:35.339732+00:00,49869574,14,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,201,88
+2026-09-28T05:06:35.339732+00:00,49852600,15,Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06,38,16
+2026-09-28T05:06:35.339732+00:00,49869773,16,What I did at Recurse Center,86,25
+2026-09-28T05:06:35.339732+00:00,49851795,17,Deterministic Concurrency [video],6,0
+2026-09-28T05:06:35.339732+00:00,49869995,18,Imp is a full port of DSPy to the BEAM,61,6
+2026-09-28T05:06:35.339732+00:00,49866951,19,"In an $80 motel room, a discovery to shed light on the origins of life",225,84
+2026-09-28T05:06:35.339732+00:00,49870837,20,Lunar Terminator Paradox,56,40
+2026-09-28T05:06:35.339732+00:00,49872474,21,Was Silent Reading Unusual During Augustine's Time?,14,0
+2026-09-28T05:06:35.339732+00:00,49869142,22,"Oral history of John Chowning, inventor of FM synthesis [video]",62,15
+2026-09-28T05:06:35.339732+00:00,49872864,23,TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14,7,3
+2026-09-28T05:06:35.339732+00:00,49845284,24,"Previously unheard recordings of John Coltrane, captured by Frank Tiberi",78,28
+2026-09-28T05:06:35.339732+00:00,49866515,25,Replacing the old battery on rechargeable bike lights,150,83
+2026-09-28T05:06:35.339732+00:00,49849409,26,Writing Efficient C++ Code (2013),141,87
+2026-09-28T05:06:35.339732+00:00,49872497,27,Research finds 485 chemicals in US pesticide products linked to breast cancer,71,21
+2026-09-28T05:06:35.339732+00:00,49872522,28,"As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",92,81
+2026-09-28T05:06:35.339732+00:00,49844266,29,A New Experiment Meta-Strategy,18,0
+2026-09-28T05:06:35.339732+00:00,49853476,30,The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers,74,11
+2026-09-28T05:06:35.339732+00:00,49872766,31,"Musk, the Movie",123,48
+2026-09-28T05:06:35.339732+00:00,49866988,32,Fragment of oldest known peace treaty found in Turkey,76,10
+2026-09-28T05:06:35.339732+00:00,49856885,33,Fakecloud: Local AWS cloud emulator for integration tests,125,63
+2026-09-28T05:06:35.339732+00:00,49859982,34,Faster prompt lookup drafting in llama.cpp,75,12
+2026-09-28T05:06:35.339732+00:00,49859759,35,Video CDs Break Windows Explorer,118,42
+2026-09-28T05:06:35.339732+00:00,49872612,36,"Behold the pawpaw, the tropical 'alien banana' that grows right here in Canada",18,2
+2026-09-28T05:06:35.339732+00:00,49851693,37,"S3 Is the Future, S3 Is the Past",58,77
+2026-09-28T05:06:35.339732+00:00,49867775,38,Show HN: TinyAIArena watch AI agents battle it out,105,41
+2026-09-28T05:06:35.339732+00:00,49872541,39,Packing Binary Is Fun,3,0
+2026-09-28T05:06:35.339732+00:00,49856193,40,Improving site performance by shipping more CSS,81,69
+2026-09-28T05:06:35.339732+00:00,49872811,41,Minecraft beat Minecraft after 2B years,12,0
+2026-09-28T05:06:35.339732+00:00,49872472,42,Self-parking car using genetic algorithm (2021),52,5
+2026-09-28T05:06:35.339732+00:00,49867486,43,The Normalization of Inexplicable Failures,257,103
+2026-09-28T05:06:35.339732+00:00,49850613,44,KICKI: a DECsystem1060,28,3
+2026-09-28T05:06:35.339732+00:00,49845114,45,C's Flexible Integer Sizes Were Not a Design Mistake,87,137
+2026-09-28T05:06:35.339732+00:00,49867067,46,On caring for user data: NeoVim caused Vim undo files to be deleted,360,319
+2026-09-28T05:06:35.339732+00:00,49864743,47,"Rusty thoughts on ""Parse, don't validate""",82,41
+2026-09-28T05:06:35.339732+00:00,49872200,48,Cambrian Explosion of AI,3,3
+2026-09-28T05:06:35.339732+00:00,49871846,49,The Great Crime Decline Is Happening All Across the Country,30,34
+2026-09-28T05:06:35.339732+00:00,49857132,50,Golang: Crypto/fips140: do not bloat crypto code unnecessarily,13,1
