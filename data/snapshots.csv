@@ -52388,3 +52388,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-01T21:44:03.217948+00:00,49912955,48,Surprisingly complex waves reveal the brain's inner workings,247,95
 2026-10-01T21:44:03.217948+00:00,49911995,49,Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents,191,96
 2026-10-01T21:44:03.217948+00:00,49913350,50,Halfspace experimental IDE for solid modeling with distance fields,183,11
+2026-10-02T01:31:15.804646+00:00,49926069,1,Pi 1.0,743,256
+2026-10-02T01:31:15.804646+00:00,49928121,2,Several vulnerabilities have been discovered in the Linux kernel,68,42
+2026-10-02T01:31:15.804646+00:00,49923692,3,"Clef: Open-weight decision models, and new RL fine-tuning platform",427,159
+2026-10-02T01:31:15.804646+00:00,49926536,4,SvelteKit 3,114,41
+2026-10-02T01:31:15.804646+00:00,49922569,5,Ask HN: Who is hiring? (October 2026),150,154
+2026-10-02T01:31:15.804646+00:00,49927212,6,CSS Bed: Classless CSS themes to use as starting points in web development,58,12
+2026-10-02T01:31:15.804646+00:00,49925969,7,Pi Durable,220,23
+2026-10-02T01:31:15.804646+00:00,49920160,8,StreetComplete on iOS is now in public beta,522,130
+2026-10-02T01:31:15.804646+00:00,49926773,9,Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia,48,5
+2026-10-02T01:31:15.804646+00:00,49926917,10,Using Opus 5.5 to discover a new eyewitness record of the dodo,60,6
+2026-10-02T01:31:15.804646+00:00,49923466,11,"RIP, vector database",274,78
+2026-10-02T01:31:15.804646+00:00,49924179,12,Git 3.0's upcoming SHA-256 default will be a costly mistake,201,218
+2026-10-02T01:31:15.804646+00:00,49925742,13,Oxygen-deprived underwater zones may not be “dead zones” but clue to early life,79,3
+2026-10-02T01:31:15.804646+00:00,49926512,14,ArXiv's Updated Rate Limit Policy,65,27
+2026-10-02T01:31:15.804646+00:00,49927587,15,Aweb – Communication for AI Agents,19,14
+2026-10-02T01:31:15.804646+00:00,49928054,16,Apple's smart home camera reportedly won't record video,12,22
+2026-10-02T01:31:15.804646+00:00,49924618,17,Vote on which of Hacker News' challenges for AI have been met,87,94
+2026-10-02T01:31:15.804646+00:00,49922674,18,Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers,166,26
+2026-10-02T01:31:15.804646+00:00,49926628,19,Automatic Transmission – a data-privacy study of connected vehicles,140,137
+2026-10-02T01:31:15.804646+00:00,49921923,20,Cloudflare K2: serverless event streams,197,82
+2026-10-02T01:31:15.804646+00:00,49925036,21,Bez: Generating a browser engine from specs and tests,86,36
+2026-10-02T01:31:15.804646+00:00,49922515,22,RacketCon Is Saturday,125,36
+2026-10-02T01:31:15.804646+00:00,49927844,23,2026 International Utility Locate Rodeo,12,0
+2026-10-02T01:31:15.804646+00:00,49911500,24,Show HN: Open-source model routing for coding agents at Astra-level performance,80,23
+2026-10-02T01:31:15.804646+00:00,49928152,25,Butterflies use optical illusions to dodge predators,11,3
+2026-10-02T01:31:15.804646+00:00,49922437,26,Context Language Models,105,26
+2026-10-02T01:31:15.804646+00:00,49922568,27,Ask HN: Who wants to be hired? (October 2026),90,273
+2026-10-02T01:31:15.804646+00:00,49927100,28,The death of web development education,161,120
+2026-10-02T01:31:15.804646+00:00,49920896,29,How to speed up the Rust compiler in September 2026,230,118
+2026-10-02T01:31:15.804646+00:00,49919910,30,GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design,166,98
+2026-10-02T01:31:15.804646+00:00,49925812,31,Effect 4.0,49,30
+2026-10-02T01:31:15.804646+00:00,49922594,32,Polyedergarten: Garden of Paper Polyhedron Models,52,6
+2026-10-02T01:31:15.804646+00:00,49906100,33,OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network,248,115
+2026-10-02T01:31:15.804646+00:00,49927693,34,Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it,31,32
+2026-10-02T01:31:15.804646+00:00,49922736,35,Identity Management for Agentic AI [pdf] (2025),70,23
+2026-10-02T01:31:15.804646+00:00,49926726,36,"Show HN: Rhun, an open-source code editor written in assembly",32,14
+2026-10-02T01:31:15.804646+00:00,49894430,38,"Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",256,23
+2026-10-02T01:31:15.804646+00:00,49923638,39,"Lightweight PDF parser with layout, tables, formulas and bounding boxes",69,7
+2026-10-02T01:31:15.804646+00:00,49913571,40,Gemini 4 Argon,1640,1125
+2026-10-02T01:31:15.804646+00:00,49928148,41,Personal Computing 2.0: It's time for a personal computing revolution,7,1
+2026-10-02T01:31:15.804646+00:00,49920932,42,Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026,328,379
+2026-10-02T01:31:15.804646+00:00,49928118,43,DoGBench: The first user-facing docs generation benchmark. No model scores >50%,7,3
+2026-10-02T01:31:15.804646+00:00,49924543,44,The GPU Black Market That Washington Can't Shut Down,23,4
+2026-10-02T01:31:15.804646+00:00,49927682,45,Pi v1.0.0,5,1
+2026-10-02T01:31:15.804646+00:00,49926792,46,"TurboNotes: Local-first Markdown notes, Turbo Pascal like looks, saves to GitHub",7,0
+2026-10-02T01:31:15.804646+00:00,49927981,47,MonoCode: GUI for Coding Agents,3,0
+2026-10-02T01:31:15.804646+00:00,49922278,48,Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones,245,200
+2026-10-02T01:31:15.804646+00:00,49923056,49,Red Hat being phased out of existence?,177,102
+2026-10-02T01:31:15.804646+00:00,49927854,50,OpenAI has a LOT of work to do if they think Luna can compete with Jev,5,1
