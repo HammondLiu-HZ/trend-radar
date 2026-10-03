@@ -52585,3 +52585,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-02T20:36:39.619554+00:00,49933476,48,Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers,22,5
 2026-10-02T20:36:39.619554+00:00,49930872,49,"The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",7,1
 2026-10-02T20:36:39.619554+00:00,49937388,50,Hardly Promethean,7,0
+2026-10-03T00:21:23.233688+00:00,49933869,1,The Forgetful CPU (Linux on M4),49,1
+2026-10-03T00:21:23.233688+00:00,49937276,2,Apple Pass Designer,288,194
+2026-10-03T00:21:23.233688+00:00,49927754,3,Court agrees with EFF: Utah's VPN law demands a technical impossibility,465,206
+2026-10-03T00:21:23.233688+00:00,49932147,4,A 12-year sequence of telescope images of a star and four planets orbiting,177,34
+2026-10-03T00:21:23.233688+00:00,49933740,5,"With most information hidden, the game Stratego had stumped AI until now",160,79
+2026-10-03T00:21:23.233688+00:00,49937504,6,Muse Gadgets,106,56
+2026-10-03T00:21:23.233688+00:00,49925184,7,Mike Tomlin spent 12 years building a Minecraft city,221,59
+2026-10-03T00:21:23.233688+00:00,49926411,8,Loss of cell identity drives human aging: Two new papers,163,44
+2026-10-03T00:21:23.233688+00:00,49936575,9,From the creator of Redis; run LLM locally with ds4,127,35
+2026-10-03T00:21:23.233688+00:00,49929391,10,Greg Kroah-Hartman – Security in the LLM Age [video],161,33
+2026-10-03T00:21:23.233688+00:00,49937916,11,Show HN: Made an open-source Lego AI generator,62,37
+2026-10-03T00:21:23.233688+00:00,49938521,12,Zig v0.17.0,194,109
+2026-10-03T00:21:23.233688+00:00,49937631,13,Updates to Full Disk Access in macOS,95,60
+2026-10-03T00:21:23.233688+00:00,49934620,14,One month coding with GLM 5.3 Flash,95,75
+2026-10-03T00:21:23.233688+00:00,49938616,15,Every SaaS business will become a harness around a model,79,58
+2026-10-03T00:21:23.233688+00:00,49925974,16,FLUX 3 Image,263,57
+2026-10-03T00:21:23.233688+00:00,49938783,17,"Open-sourcing AstaBrief, the fast report-generation model in Asta",16,2
+2026-10-03T00:21:23.233688+00:00,49927747,18,Sites in ChatGPT,198,212
+2026-10-03T00:21:23.233688+00:00,49932191,19,Our Project Suncatcher prototype satellite is in orbit,39,45
+2026-10-03T00:21:23.233688+00:00,49933230,20,Venice’s failed war against Constantinople led to the first bond market,59,19
+2026-10-03T00:21:23.233688+00:00,49928566,21,Show HN: Giving Opus 5.5 a simulated paint canvas,185,61
+2026-10-03T00:21:23.233688+00:00,49925602,22,Anatomy of a Lean proof for software engineers,71,7
+2026-10-03T00:21:23.233688+00:00,49933235,23,The Legend of von Neumann (1973) [pdf],236,137
+2026-10-03T00:21:23.233688+00:00,49932340,24,"Blogging with Gleam, Org-Mode and Pandoc",49,9
+2026-10-03T00:21:23.233688+00:00,49911472,25,Philip Sidney and the Extreme (Dis)Graces of the Parenthesis,5,0
+2026-10-03T00:21:23.233688+00:00,49932911,26,The first packet sent via RFC1149 avian carrier is up for auction at Christie's,35,7
+2026-10-03T00:21:23.233688+00:00,49928215,27,Show HN: Pyxel – A Python retro game engine with built-in art and sound editors,63,8
+2026-10-03T00:21:23.233688+00:00,49932079,28,F.02 Decommission,53,21
+2026-10-03T00:21:23.233688+00:00,49932402,29,On social reality in China,138,141
+2026-10-03T00:21:23.233688+00:00,49936671,30,What if we stopped using GPUs? [video],36,8
+2026-10-03T00:21:23.233688+00:00,49919676,31,"To grieve, or not to grieve?",127,110
+2026-10-03T00:21:23.233688+00:00,49928192,32,Tiny Brutalism,136,31
+2026-10-03T00:21:23.233688+00:00,49921834,33,Electrification Special Report 2026 [pdf],9,0
+2026-10-03T00:21:23.233688+00:00,49935797,34,STS-51-F Abort-to-Orbit (1985),32,10
+2026-10-03T00:21:23.233688+00:00,49937718,35,GrapheneOS has fixed the Android 17 QPR1 kernel performance regression,99,31
+2026-10-03T00:21:23.233688+00:00,49938477,36,ICE Has Been Dumping Protester Photos into a Palantir Database,73,13
+2026-10-03T00:21:23.233688+00:00,49930047,37,Shimano Bicycle Museum Review,282,71
+2026-10-03T00:21:23.233688+00:00,49939513,38,Debian Inference Portal,3,2
+2026-10-03T00:21:23.233688+00:00,49938815,39,Federal Judge Rules a Flock Search Was Unconstitutional,28,4
+2026-10-03T00:21:23.233688+00:00,49934399,40,How accurately calibrated is Jev?,47,18
+2026-10-03T00:21:23.233688+00:00,49934784,41,Supabase is acquiring Turso,190,100
+2026-10-03T00:21:23.233688+00:00,49936725,42,Crypto Capture of Foreign Aid,85,29
+2026-10-03T00:21:23.233688+00:00,49933587,43,SequenceHash: Multihashing for the rest of us,21,0
+2026-10-03T00:21:23.233688+00:00,49937387,44,"""The only intuitive interface is the nipple"" (2012)",31,33
+2026-10-03T00:21:23.233688+00:00,49935038,45,Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs,17,4
+2026-10-03T00:21:23.233688+00:00,49938748,46,"Show HN: Rank every HN ""Who is hiring?"" post against your resume, locally",4,0
+2026-10-03T00:21:23.233688+00:00,49936964,47,Lambda Land,14,2
+2026-10-03T00:21:23.233688+00:00,49936499,48,Qubes OS 4.3.2 has been released,22,4
+2026-10-03T00:21:23.233688+00:00,49926609,49,Now That's an Impurity Story,46,4
+2026-10-03T00:21:23.233688+00:00,49935751,50,Dutch computer museums (2022),99,26
