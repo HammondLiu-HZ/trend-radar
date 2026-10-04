@@ -52930,3 +52930,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-04T05:36:25.352796+00:00,49927295,48,Show HN: Graphene – Data analysis toolkit for your coding agent,28,7
 2026-10-04T05:36:25.352796+00:00,49937540,49,Make Tmux the OS,196,124
 2026-10-04T05:36:25.352796+00:00,49927754,50,Court agrees with EFF: Utah's VPN law demands a technical impossibility,782,387
+2026-10-04T12:12:43.554815+00:00,49952029,1,VGHF Digital Archive passes 5000 magazines. Here's what's next,37,3
+2026-10-04T12:12:43.554815+00:00,49949438,2,Tell HN: Bob Cringely has died,521,103
+2026-10-04T12:12:43.554815+00:00,49950554,3,Why don't more developers “use the platform”?,165,136
+2026-10-04T12:12:43.554815+00:00,49946895,4,The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux,325,54
+2026-10-04T12:12:43.554815+00:00,49935097,5,gpuvis: GPU Trace Visualizer,19,0
+2026-10-04T12:12:43.554815+00:00,49910462,6,So you think you could be an electrician?,285,213
+2026-10-04T12:12:43.554815+00:00,49946355,7,Treachery in the Rodin Museum 3D scan verdict,221,102
+2026-10-04T12:12:43.554815+00:00,49945933,8,"Agents don't need memory, they need documentation",216,114
+2026-10-04T12:12:43.554815+00:00,49946393,9,Hole Punch: Sling your spaceship around gravitational fields,306,69
+2026-10-04T12:12:43.554815+00:00,49949588,10,We're working on a new RuneScape MMO,90,36
+2026-10-04T12:12:43.554815+00:00,49949235,11,We're going to need default hard budget caps on pretty much everything,473,233
+2026-10-04T12:12:43.554815+00:00,49923873,12,Celebrating the 100th birthday of the kidney donated to him as a teenager,205,52
+2026-10-04T12:12:43.554815+00:00,49946228,13,"LeCun has ""zero concerns"" about AI wiping out humanity, recent ""rogue"" incidents",175,255
+2026-10-04T12:12:43.554815+00:00,49947631,14,"Reasons I didn't become an EMT, ranked",166,78
+2026-10-04T12:12:43.554815+00:00,49952111,15,Show HN: AI search for every photo and every frame of video on macOS,5,1
+2026-10-04T12:12:43.554815+00:00,49947051,16,We want you to build the next Git platform on Cloudflare,147,129
+2026-10-04T12:12:43.554815+00:00,49951218,17,Emitting metadata early makes building/checking Rust up to twice as fast,15,1
+2026-10-04T12:12:43.554815+00:00,49950052,18,Religious scholars met with Anthropic,91,214
+2026-10-04T12:12:43.554815+00:00,49951881,19,"In Ukraine, distributed renewables foil Russia's assaults",107,87
+2026-10-04T12:12:43.554815+00:00,49910425,20,Thought as a Technology (2016),3,0
+2026-10-04T12:12:43.554815+00:00,49940482,21,Math's pedagogical curse – Grant Sanderson [video],48,23
+2026-10-04T12:12:43.554815+00:00,49946707,22,"How to hack time, with C2PA",43,4
+2026-10-04T12:12:43.554815+00:00,49944227,23,I quit OpenAI because its culture is broken,268,518
+2026-10-04T12:12:43.554815+00:00,49936017,24,Dirty Optimization Secrets (C for Playdate),23,2
+2026-10-04T12:12:43.554815+00:00,49942130,25,Former SR-71 engineer talks NASA's Blackbird revival program,71,38
+2026-10-04T12:12:43.554815+00:00,49944912,26,FTL: A new operating system for clouds,179,70
+2026-10-04T12:12:43.554815+00:00,49908570,27,Your body of work thinks back at you,69,10
+2026-10-04T12:12:43.554815+00:00,49947472,28,Surely you have ultra-wideband radios on your bins too?,89,45
+2026-10-04T12:12:43.554815+00:00,49946526,29,What Meta got right with Muse,61,81
+2026-10-04T12:12:43.554815+00:00,49945323,30,City building games have a Soul Problem pt.2,143,138
+2026-10-04T12:12:43.554815+00:00,49934351,31,Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence,7,0
+2026-10-04T12:12:43.554815+00:00,49938326,32,"Three AI agents, two countries, and one uneven world wide web",35,1
+2026-10-04T12:12:43.554815+00:00,49938399,33,Woking Electrical Control Room (2016),143,30
+2026-10-04T12:12:43.554815+00:00,49937304,34,Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server,103,39
+2026-10-04T12:12:43.554815+00:00,49942103,35,Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?,67,38
+2026-10-04T12:12:43.554815+00:00,49928361,36,C++ Insights – See your source code with the eyes of a Compiler,160,32
+2026-10-04T12:12:43.554815+00:00,49942706,37,Kolibri: A Sovereign Open-Weight Model,621,318
+2026-10-04T12:12:43.554815+00:00,49951641,38,What's the Future for Pure Math Research in the Age of AI?,4,0
+2026-10-04T12:12:43.554815+00:00,49945352,39,Docker has always used microVMs (well since 2016),42,31
+2026-10-04T12:12:43.554815+00:00,49941641,41,Memory-Safe WebP Decoding,60,20
+2026-10-04T12:12:43.554815+00:00,49951139,42,UK Government Body Kept Files on People Criticizing Prevent Program,54,20
+2026-10-04T12:12:43.554815+00:00,49922074,43,Amazon introduces a redesigned Kindle family,38,63
+2026-10-04T12:12:43.554815+00:00,49940877,44,New York City should carefully measure a new tree,73,15
+2026-10-04T12:12:43.554815+00:00,49946845,45,RSS Feed Best Practices (2022),60,10
+2026-10-04T12:12:43.554815+00:00,49929312,46,Fast Blur with Animated Radius,35,3
+2026-10-04T12:12:43.554815+00:00,49931993,47,Show HN: Our space game has a built-in RISC-V emulator that runs Linux,81,28
+2026-10-04T12:12:43.554815+00:00,49952207,48,Teenager suspected of leading KillSec ransomware group,7,0
+2026-10-04T12:12:43.554815+00:00,49941764,49,The characters of plastics (2024),21,4
+2026-10-04T12:12:43.554815+00:00,49941091,50,Cloudflare OHTTP gateway,195,93
