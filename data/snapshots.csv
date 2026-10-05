@@ -53228,3 +53228,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-05T15:50:13.214835+00:00,49947472,48,Surely you have ultra-wideband radios on your bins too?,151,86
 2026-10-05T15:50:13.214835+00:00,49955297,49,Blindsight (Watts Novel),103,139
 2026-10-05T15:50:13.214835+00:00,49951891,50,"How to scale intent, quality, and artistry with AI [video]",95,40
+2026-10-05T22:29:49.396648+00:00,49969183,1,Beam: Reflection's 501B open-weight model,216,61
+2026-10-05T22:29:49.396648+00:00,49970871,2,Dust: Pretraining Transformers Without Backpropagation,41,3
+2026-10-05T22:29:49.396648+00:00,49970667,3,Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates,120,101
+2026-10-05T22:29:49.396648+00:00,49971230,4,Find the flattest route between any two points in SF,27,6
+2026-10-05T22:29:49.396648+00:00,49963171,5,Web Search API,453,208
+2026-10-05T22:29:49.396648+00:00,49944049,6,Competitive Programmer's Handbook (2018) [pdf],74,17
+2026-10-05T22:29:49.396648+00:00,49951693,7,Using Blu-ray M-Disk as Backup of Last Resort,18,15
+2026-10-05T22:29:49.396648+00:00,49965308,8,"Making a GTK application in Haskell, part 1",118,26
+2026-10-05T22:29:49.396648+00:00,49970073,9,A third way of using Linux,12,21
+2026-10-05T22:29:49.396648+00:00,49961057,10,"Anthropic reported diary entry to police, woman faces felony charge",422,351
+2026-10-05T22:29:49.396648+00:00,49938270,11,How to save a life without knowing CPR,53,38
+2026-10-05T22:29:49.396648+00:00,49969961,12,Incident with Actions,80,53
+2026-10-05T22:29:49.396648+00:00,49969256,13,The Future of Mathematics,62,26
+2026-10-05T22:29:49.396648+00:00,49965118,14,Linux containers in 500 lines of code (2016),82,17
+2026-10-05T22:29:49.396648+00:00,49952148,15,Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear,63,9
+2026-10-05T22:29:49.396648+00:00,49965152,16,The lamps in my house,91,53
+2026-10-05T22:29:49.396648+00:00,49962857,17,Apple and a hacker's future,175,171
+2026-10-05T22:29:49.396648+00:00,49961861,18,Qualcomm licenses patents on Huawei’s LogicFolding chip tech,166,104
+2026-10-05T22:29:49.396648+00:00,49920785,19,The first fully implanted cochlear implant reaches patients,51,50
+2026-10-05T22:29:49.396648+00:00,49968402,20,Norway Eyes Partial Ban of Smart Glasses,103,64
+2026-10-05T22:29:49.396648+00:00,49962572,21,"2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",109,45
+2026-10-05T22:29:49.396648+00:00,49917900,22,Differences Between `Foldl` and `Foldr`,123,28
+2026-10-05T22:29:49.396648+00:00,49944392,23,"The era of software quality, or the era of ostriches?",14,57
+2026-10-05T22:29:49.396648+00:00,49943479,24,Type Safe Generic Data Structures in C (2025),126,98
+2026-10-05T22:29:49.396648+00:00,49956290,25,The technology to eradicate mosquito-borne disease exists,227,176
+2026-10-05T22:29:49.396648+00:00,49969375,26,"After bankruptcy, he was banned from sports betting sites. Then he found Kalshi",50,39
+2026-10-05T22:29:49.396648+00:00,49928862,27,Martian chaos terrain,94,25
+2026-10-05T22:29:49.396648+00:00,49968708,28,Greenvolt begins building 600 MW/2.4 GWh BESS in Poland,52,31
+2026-10-05T22:29:49.396648+00:00,49966293,29,Our approach to EU text provenance rules,59,46
+2026-10-05T22:29:49.396648+00:00,49942617,30,Hot Flashing Guide Rev. 2.0 (2004),12,1
+2026-10-05T22:29:49.396648+00:00,49964303,31,Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped,385,227
+2026-10-05T22:29:49.396648+00:00,49957812,32,"In the wake of Tippett Studios’ closure, a digital archive appears online",242,31
+2026-10-05T22:29:49.396648+00:00,49962012,33,Denmark data breach exposes 8.8M people's personal data,452,325
+2026-10-05T22:29:49.396648+00:00,49969070,34,One person can now be a quorum at the SEC,90,45
+2026-10-05T22:29:49.396648+00:00,49935872,35,Mystery Function,44,10
+2026-10-05T22:29:49.396648+00:00,49963385,36,Mold Linker Version 3.0.0 Release – Rewritten in Rust,224,150
+2026-10-05T22:29:49.396648+00:00,49948300,37,We ported the original Doom to SQL,298,49
+2026-10-05T22:29:49.396648+00:00,49968906,38,Plain text is still one of the best technologies we have,165,81
+2026-10-05T22:29:49.396648+00:00,49932236,39,The Tao of Backup,256,105
+2026-10-05T22:29:49.396648+00:00,49965625,40,Mosquitoes Are a Choice,11,1
+2026-10-05T22:29:49.396648+00:00,49924795,41,ExplainDB: A Database System Built for Understandability,69,9
+2026-10-05T22:29:49.396648+00:00,49968105,42,"OpenAI ""rogue"" agent activities found on Wikimedia projects",246,178
+2026-10-05T22:29:49.396648+00:00,49965047,43,Picard 3.0,116,46
+2026-10-05T22:29:49.396648+00:00,49965227,44,"Show HN: Pumpkins.sh – claim, carve, and display a pumpkin to the world",15,3
+2026-10-05T22:29:49.396648+00:00,49968637,45,Async Rust: Where does the scheduler live?,4,0
+2026-10-05T22:29:49.396648+00:00,49968947,46,A Series of Unfortunate Events for OpenAI Users,19,1
+2026-10-05T22:29:49.396648+00:00,49930872,47,"The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",79,28
+2026-10-05T22:29:49.396648+00:00,49959654,48,A 40ms Go garbage collector pause caused by swap,106,125
+2026-10-05T22:29:49.396648+00:00,49970507,49,WSL containers is now generally available,25,8
+2026-10-05T22:29:49.396648+00:00,49943637,50,Infidel goes wild,178,38
