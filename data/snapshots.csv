@@ -53178,3 +53178,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-05T06:48:47.402915+00:00,49952029,48,VGHF Digital Archive passes 5000 magazines. Here's what's next,105,16
 2026-10-05T06:48:47.402915+00:00,49947631,49,"Reasons I didn't become an EMT, ranked",235,111
 2026-10-05T06:48:47.402915+00:00,49939637,50,The Heilbronn Problem,62,12
+2026-10-05T15:50:13.214835+00:00,49964303,1,Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped,213,116
+2026-10-05T15:50:13.214835+00:00,49963366,2,Europe's new robotics unicorn: Germany's RobCo hits $1B valuation,273,235
+2026-10-05T15:50:13.214835+00:00,49963171,3,Web Search API,193,102
+2026-10-05T15:50:13.214835+00:00,49962012,4,Denmark Data Breach Exposes 8.8M People's Personal Data,328,248
+2026-10-05T15:50:13.214835+00:00,49963094,5,Press Release: Nobel Prize in Physiology or Medicine 2026,113,25
+2026-10-05T15:50:13.214835+00:00,49965308,6,"Making a GTK application in Haskell, part 1",11,0
+2026-10-05T15:50:13.214835+00:00,49917900,7,Differences Between `Foldl` and `Foldr`,71,11
+2026-10-05T15:50:13.214835+00:00,49961861,8,Huawei and Qualcomm Announce Broad Patent License Agreement,118,70
+2026-10-05T15:50:13.214835+00:00,49943479,9,Type Safe Generic Data Structures in C,83,28
+2026-10-05T15:50:13.214835+00:00,49965894,10,Borland Turbo Basic,3,0
+2026-10-05T15:50:13.214835+00:00,49963385,11,Mold Linker Version 3.0.0 Release – Rewritten in Rust,42,13
+2026-10-05T15:50:13.214835+00:00,49953495,12,Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s,872,390
+2026-10-05T15:50:13.214835+00:00,49956290,13,Mosquitoes Are a Choice,72,66
+2026-10-05T15:50:13.214835+00:00,49957812,14,"In the wake of Tippett Studios’ closure, a digital archive appears online",198,25
+2026-10-05T15:50:13.214835+00:00,49965497,15,"""I'm Embarrassed on Behalf of the Tech Industry""",65,42
+2026-10-05T15:50:13.214835+00:00,49964265,16,Gitframes,54,27
+2026-10-05T15:50:13.214835+00:00,49917784,17,Beating the Compiler,5,0
+2026-10-05T15:50:13.214835+00:00,49928862,18,Martian chaos terrain,31,6
+2026-10-05T15:50:13.214835+00:00,49964045,19,Tell HN: Uceprotect is extorting website owners,68,26
+2026-10-05T15:50:13.214835+00:00,49948300,20,We ported the original Doom to SQL,237,38
+2026-10-05T15:50:13.214835+00:00,49956681,21,A browser-native classic Visual Basic VB6 IDE,334,110
+2026-10-05T15:50:13.214835+00:00,49932236,22,The Tao of Backup,212,84
+2026-10-05T15:50:13.214835+00:00,49962857,23,Apple and a Hacker's Future,137,122
+2026-10-05T15:50:13.214835+00:00,49924795,24,ExplainDB: A Database System Built for Understandability,45,3
+2026-10-05T15:50:13.214835+00:00,49963394,25,"Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",12,1
+2026-10-05T15:50:13.214835+00:00,49964018,26,"The Era of Software Quality, or the Era of Ostriches?",47,19
+2026-10-05T15:50:13.214835+00:00,49930872,27,"The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",56,21
+2026-10-05T15:50:13.214835+00:00,49943637,28,Infidel goes wild,164,33
+2026-10-05T15:50:13.214835+00:00,49965042,29,Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video],14,14
+2026-10-05T15:50:13.214835+00:00,49957116,30,Turn off Apple Intelligence on macOS 27 and get its disk space back,701,466
+2026-10-05T15:50:13.214835+00:00,49965047,31,Picard 3.0 Released,14,1
+2026-10-05T15:50:13.214835+00:00,49933476,32,Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers,140,51
+2026-10-05T15:50:13.214835+00:00,49946148,33,Automating my 35mm film scanning pipeline,108,73
+2026-10-05T15:50:13.214835+00:00,49917536,34,What is going on with ceiling fans,395,346
+2026-10-05T15:50:13.214835+00:00,49965895,35,Florida woman arrested for allegedly making threats in an AI chat,4,2
+2026-10-05T15:50:13.214835+00:00,49908055,36,Lace and Labor: Lessons from the actual Luddites,50,3
+2026-10-05T15:50:13.214835+00:00,49965833,37,People are asking ChatGPT to help them decide how to vote in the midterms,6,3
+2026-10-05T15:50:13.214835+00:00,49957068,38,Improper redaction reveals Google Data Center water and electricity usage,477,629
+2026-10-05T15:50:13.214835+00:00,49959869,39,Powerless F1 drivers frustrated by Bahrain F1 software glitch,268,228
+2026-10-05T15:50:13.214835+00:00,49940044,40,Demystifying Tufte's data-ink ratio,68,32
+2026-10-05T15:50:13.214835+00:00,49923125,41,Safe Optimistic Lock Coupling,40,7
+2026-10-05T15:50:13.214835+00:00,49930439,42,Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash,218,36
+2026-10-05T15:50:13.214835+00:00,49953288,43,Bill Draper has died,135,41
+2026-10-05T15:50:13.214835+00:00,49920332,44,Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia,55,38
+2026-10-05T15:50:13.214835+00:00,49963386,45,Nobel Prize in Physiology or Medicine 2026,3,1
+2026-10-05T15:50:13.214835+00:00,49950554,46,Why don't more developers “use the platform”?,316,332
+2026-10-05T15:50:13.214835+00:00,49960901,47,Replacement of petroleum based products with plant-based materials (2025),94,57
+2026-10-05T15:50:13.214835+00:00,49947472,48,Surely you have ultra-wideband radios on your bins too?,151,86
+2026-10-05T15:50:13.214835+00:00,49955297,49,Blindsight (Watts Novel),103,139
+2026-10-05T15:50:13.214835+00:00,49951891,50,"How to scale intent, quality, and artistry with AI [video]",95,40
