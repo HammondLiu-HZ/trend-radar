@@ -53278,3 +53278,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-05T22:29:49.396648+00:00,49959654,48,A 40ms Go garbage collector pause caused by swap,106,125
 2026-10-05T22:29:49.396648+00:00,49970507,49,WSL containers is now generally available,25,8
 2026-10-05T22:29:49.396648+00:00,49943637,50,Infidel goes wild,178,38
+2026-10-06T02:51:40.158865+00:00,49969183,1,Beam: Reflection's 501B open-weight model,334,95
+2026-10-06T02:51:40.158865+00:00,49971230,2,Find the flattest route between any two points in SF,124,41
+2026-10-06T02:51:40.158865+00:00,49972419,3,AI Tutoring with Khanmigo in a Two-Year School Experiment,37,26
+2026-10-06T02:51:40.158865+00:00,49970871,4,Dust: Pretraining Transformers Without Backpropagation,115,19
+2026-10-06T02:51:40.158865+00:00,49971719,5,"Friendship ended with Deno, now Node is my best friend",78,20
+2026-10-06T02:51:40.158865+00:00,49971921,6,Example.com Just Launched the Biggest Redesign in Decades,98,61
+2026-10-06T02:51:40.158865+00:00,49970667,7,Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates,229,167
+2026-10-06T02:51:40.158865+00:00,49971846,8,ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons,304,198
+2026-10-06T02:51:40.158865+00:00,49945588,9,An Algorithmic Failure Beneath the Secret Ballot,35,9
+2026-10-06T02:51:40.158865+00:00,49972211,10,Samon: Designing a Zen Garden Raking Puzzle,23,7
+2026-10-06T02:51:40.158865+00:00,49963171,11,Web Search API,492,223
+2026-10-06T02:51:40.158865+00:00,49971952,12,Worth Building,43,32
+2026-10-06T02:51:40.158865+00:00,49951693,13,Using Blu-ray M-Disk as backup of last resort,71,65
+2026-10-06T02:51:40.158865+00:00,49944049,14,Competitive Programmer's Handbook (2018) [pdf],134,29
+2026-10-06T02:51:40.158865+00:00,49972008,15,Ephemeral Testing,37,13
+2026-10-06T02:51:40.158865+00:00,49950653,16,Testing 12 different Zigbee temperature/humidity sensors,45,10
+2026-10-06T02:51:40.158865+00:00,49961057,17,"Anthropic reported diary entry to police, woman faces felony charge",569,479
+2026-10-06T02:51:40.158865+00:00,49953195,18,"DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",32,4
+2026-10-06T02:51:40.158865+00:00,49971782,19,Global Solar Atlas: summary of solar power potential globally,16,10
+2026-10-06T02:51:40.158865+00:00,49972730,20,Photopea creator weighs in on Photosuite project,17,7
+2026-10-06T02:51:40.158865+00:00,49971523,21,Texas city demands $2M for public records on Flock usage,118,19
+2026-10-06T02:51:40.158865+00:00,49944196,22,Show HN: Photoc – Command-line tools for photographers,4,2
+2026-10-06T02:51:40.158865+00:00,49971678,23,Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf],22,0
+2026-10-06T02:51:40.158865+00:00,49965308,24,"Making a GTK application in Haskell, part 1",135,33
+2026-10-06T02:51:40.158865+00:00,49956281,25,Unruly Folded Sheets,4,0
+2026-10-06T02:51:40.158865+00:00,49972607,26,High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days,43,11
+2026-10-06T02:51:40.158865+00:00,49971726,27,Learning Jazz Pianist Style with Cross-Attention Conditioning,24,2
+2026-10-06T02:51:40.158865+00:00,49965152,28,The lamps in my house,139,69
+2026-10-06T02:51:40.158865+00:00,49962857,29,Apple and a hacker's future,216,191
+2026-10-06T02:51:40.158865+00:00,49961861,30,Qualcomm licenses patents on Huawei’s LogicFolding chip tech,177,119
+2026-10-06T02:51:40.158865+00:00,49965118,31,Linux containers in 500 lines of code (2016),103,22
+2026-10-06T02:51:40.158865+00:00,49920785,32,The first fully implanted cochlear implant reaches patients,69,63
+2026-10-06T02:51:40.158865+00:00,49969256,33,The Future of Mathematics,103,59
+2026-10-06T02:51:40.158865+00:00,49962572,34,"2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",124,46
+2026-10-06T02:51:40.158865+00:00,49944392,35,"The era of software quality, or the era of ostriches?",40,68
+2026-10-06T02:51:40.158865+00:00,49943479,36,Type Safe Generic Data Structures in C (2025),136,105
+2026-10-06T02:51:40.158865+00:00,49952148,37,Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear,73,11
+2026-10-06T02:51:40.158865+00:00,49917900,38,Differences Between `Foldl` and `Foldr`,135,29
+2026-10-06T02:51:40.158865+00:00,49969961,39,Incident with Actions,95,63
+2026-10-06T02:51:40.158865+00:00,49928862,40,Martian chaos terrain,100,26
+2026-10-06T02:51:40.158865+00:00,49956290,41,The technology to eradicate mosquito-borne disease exists,243,188
+2026-10-06T02:51:40.158865+00:00,49968402,42,Norway Eyes Partial Ban of Smart Glasses,132,83
+2026-10-06T02:51:40.158865+00:00,49962012,43,Denmark data breach exposes 8.8M people's personal data,466,328
+2026-10-06T02:51:40.158865+00:00,49971473,44,"Engineer says Claude Code has made his job ""soul-sucking""",36,27
+2026-10-06T02:51:40.158865+00:00,49972880,45,The End of Software Secrecy,7,2
+2026-10-06T02:51:40.158865+00:00,49948300,46,We ported the original Doom to SQL,305,50
+2026-10-06T02:51:40.158865+00:00,49972467,47,Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage,12,1
+2026-10-06T02:51:40.158865+00:00,49942617,48,Hot Flashing Guide Rev. 2.0 (2004),17,2
+2026-10-06T02:51:40.158865+00:00,49935872,49,Mystery Function,47,10
+2026-10-06T02:51:40.158865+00:00,49973221,50,Apple may soon track when Google promotes Chrome inside Safari,5,3
