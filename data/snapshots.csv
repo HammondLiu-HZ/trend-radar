@@ -53378,3 +53378,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-06T10:02:49.802128+00:00,49974238,48,The AI boom is making the cheapest smartphones disappear,25,5
 2026-10-06T10:02:49.802128+00:00,49975688,49,Germany: Ex-spy chief arrested for espionage,8,1
 2026-10-06T10:02:49.802128+00:00,49965625,50,Mosquitoes Are a Choice,27,3
+2026-10-06T17:07:38.155956+00:00,49977979,1,Mistral Large 4,900,598
+2026-10-06T17:07:38.155956+00:00,49980715,2,AI is now capable of developing its own inference hardware,56,22
+2026-10-06T17:07:38.155956+00:00,49977177,3,Release of Polars 2.0,266,45
+2026-10-06T17:07:38.155956+00:00,49976265,4,Nobel Prize in Physics goes to Francis Halzen,352,103
+2026-10-06T17:07:38.155956+00:00,49979845,5,The Early History of Smalltalk (1993),46,8
+2026-10-06T17:07:38.155956+00:00,49978563,6,Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol,79,23
+2026-10-06T17:07:38.155956+00:00,49977072,7,JetBrains reported a net financial loss first time in its tracked history,453,441
+2026-10-06T17:07:38.155956+00:00,49967427,8,Benchmark in Milliseconds,59,14
+2026-10-06T17:07:38.155956+00:00,49977588,9,Meta's Muse Is an Adorable Privacy and Security Dumpster Fire,255,153
+2026-10-06T17:07:38.155956+00:00,49975619,10,Gleam doesn't compile to Erlang source anymore,202,88
+2026-10-06T17:07:38.155956+00:00,49977819,11,Mathematics of Geothermal Energy,34,14
+2026-10-06T17:07:38.155956+00:00,49978595,12,Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer,10,1
+2026-10-06T17:07:38.155956+00:00,49976823,13,Nature's capacity to 'bounce back' when species are lost is vastly overestimated,198,89
+2026-10-06T17:07:38.155956+00:00,49977437,14,Subquadratic 3SUM and Subcubic APSP,22,7
+2026-10-06T17:07:38.155956+00:00,49981197,15,Utah to let AI examine patients and prescribe medication without human oversight,7,2
+2026-10-06T17:07:38.155956+00:00,49969183,16,Beam: Reflection's 501B open-weight model,511,165
+2026-10-06T17:07:38.155956+00:00,49978171,17,"Show HN: Parseable, an open observability datalake, handles 100M time-series/min",35,7
+2026-10-06T17:07:38.155956+00:00,49976993,18,World's First enhanced geothermal power plant completed in just 23 months,106,40
+2026-10-06T17:07:38.155956+00:00,49971230,19,Find the flattest route between any two points in SF,268,94
+2026-10-06T17:07:38.155956+00:00,49970871,20,Dust: Pretraining Transformers Without Backpropagation,249,66
+2026-10-06T17:07:38.155956+00:00,49971719,21,"Friendship ended with Deno, now Node is my best friend",271,182
+2026-10-06T17:07:38.155956+00:00,49944369,22,Direct retinal projection display for smart glasses using a meta-optic mirror,86,40
+2026-10-06T17:07:38.155956+00:00,49950653,23,Testing 12 different Zigbee temperature/humidity sensors,186,104
+2026-10-06T17:07:38.155956+00:00,49970667,24,Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates,441,303
+2026-10-06T17:07:38.155956+00:00,49977832,25,"Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",33,5
+2026-10-06T17:07:38.155956+00:00,49944049,26,Competitive Programmer's Handbook (2018) [pdf],268,64
+2026-10-06T17:07:38.155956+00:00,49953344,27,"The complement of true is true, except when it's false",50,18
+2026-10-06T17:07:38.155956+00:00,49971921,28,Example.com just launched the biggest redesign in decades,299,202
+2026-10-06T17:07:38.155956+00:00,49965152,29,The lamps in my house,290,111
+2026-10-06T17:07:38.155956+00:00,49973878,30,Resurrecting iChat Audio and Video Conferencing,96,33
+2026-10-06T17:07:38.155956+00:00,49951155,31,Accountability mechanisms can be joyful (2024),77,25
+2026-10-06T17:07:38.155956+00:00,49979306,32,Vibecoding isn't as fun as writing code by hand,148,177
+2026-10-06T17:07:38.155956+00:00,49962857,33,Apple and a hacker's future,284,238
+2026-10-06T17:07:38.155956+00:00,49972008,34,Ephemeral Testing,75,26
+2026-10-06T17:07:38.155956+00:00,49961861,35,Qualcomm licenses patents on Huawei’s LogicFolding chip tech,202,127
+2026-10-06T17:07:38.155956+00:00,49953195,36,"DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",81,10
+2026-10-06T17:07:38.155956+00:00,49977531,37,What's Earth's dominant species by mass?,8,2
+2026-10-06T17:07:38.155956+00:00,49965308,38,"Making a GTK application in Haskell, part 1",170,51
+2026-10-06T17:07:38.155956+00:00,49943598,39,Show HN: Entombed in a Raycaster,36,6
+2026-10-06T17:07:38.155956+00:00,49961057,40,"Anthropic reported diary entry to police, woman faces felony charge",781,614
+2026-10-06T17:07:38.155956+00:00,49973598,41,Why Common Lisp is now the best programming language,258,335
+2026-10-06T17:07:38.155956+00:00,49920785,42,The first fully implanted cochlear implant reaches patients,102,82
+2026-10-06T17:07:38.155956+00:00,49972211,43,Samon: Designing a Zen Garden Raking Puzzle,54,26
+2026-10-06T17:07:38.155956+00:00,49979734,44,Etched fields funding offers at $40B+ valuation,7,1
+2026-10-06T17:07:38.155956+00:00,49963171,45,Web Search API,576,274
+2026-10-06T17:07:38.155956+00:00,49976468,46,ASOS app users receive push notifications apparently sent by hackers,58,40
+2026-10-06T17:07:38.155956+00:00,49965118,47,Linux containers in 500 lines of code (2016),136,36
+2026-10-06T17:07:38.155956+00:00,49971846,48,ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons,522,377
+2026-10-06T17:07:38.155956+00:00,49962572,49,"2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",143,48
+2026-10-06T17:07:38.155956+00:00,49945588,50,An algorithmic failure beneath the secret ballot,101,86
