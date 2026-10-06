@@ -53328,3 +53328,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-06T02:51:40.158865+00:00,49942617,48,Hot Flashing Guide Rev. 2.0 (2004),17,2
 2026-10-06T02:51:40.158865+00:00,49935872,49,Mystery Function,47,10
 2026-10-06T02:51:40.158865+00:00,49973221,50,Apple may soon track when Google promotes Chrome inside Safari,5,3
+2026-10-06T10:02:49.802128+00:00,49976265,1,Nobel Prize in Physics goes to Francis Halzen,5,0
+2026-10-06T10:02:49.802128+00:00,49969183,2,Beam: Reflection's 501B open-weight model,457,145
+2026-10-06T10:02:49.802128+00:00,49971230,3,Find the flattest route between any two points in SF,204,70
+2026-10-06T10:02:49.802128+00:00,49970871,4,Dust: Pretraining Transformers Without Backpropagation,194,46
+2026-10-06T10:02:49.802128+00:00,49951155,5,Accountability mechanisms can be joyful (2024),38,10
+2026-10-06T10:02:49.802128+00:00,49971719,6,"Friendship ended with Deno, now Node is my best friend",167,98
+2026-10-06T10:02:49.802128+00:00,49970667,7,Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates,357,238
+2026-10-06T10:02:49.802128+00:00,49963171,8,Web Search API,548,248
+2026-10-06T10:02:49.802128+00:00,49973878,9,Resurrecting iChat Audio and Video Conferencing,48,12
+2026-10-06T10:02:49.802128+00:00,49950653,10,Testing 12 different Zigbee temperature/humidity sensors,114,54
+2026-10-06T10:02:49.802128+00:00,49945588,11,An algorithmic failure beneath the secret ballot,81,52
+2026-10-06T10:02:49.802128+00:00,49944049,12,Competitive Programmer's Handbook (2018) [pdf],207,47
+2026-10-06T10:02:49.802128+00:00,49971921,13,Example.com just launched the biggest redesign in decades,222,147
+2026-10-06T10:02:49.802128+00:00,49952464,14,Using A.I. and machine learning to decode communication of sperm whales,24,11
+2026-10-06T10:02:49.802128+00:00,49953344,15,"The complement of true is true, except when it's false",15,1
+2026-10-06T10:02:49.802128+00:00,49973598,16,Why Common Lisp is now the best programming language,169,226
+2026-10-06T10:02:49.802128+00:00,49971782,17,Global Solar Atlas: summary of solar power potential globally,55,36
+2026-10-06T10:02:49.802128+00:00,49971846,18,ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons,439,314
+2026-10-06T10:02:49.802128+00:00,49965152,19,The lamps in my house,207,90
+2026-10-06T10:02:49.802128+00:00,49944196,20,Show HN: Photoc – Command-line tools for photographers,34,5
+2026-10-06T10:02:49.802128+00:00,49972008,21,Ephemeral Testing,59,19
+2026-10-06T10:02:49.802128+00:00,49956932,22,Fundamentals of circadian entrainment by light (2021),3,0
+2026-10-06T10:02:49.802128+00:00,49943598,23,Show HN: Entombed in a Raycaster,23,5
+2026-10-06T10:02:49.802128+00:00,49953195,24,"DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",65,7
+2026-10-06T10:02:49.802128+00:00,49972211,25,Samon: Designing a Zen Garden Raking Puzzle,42,20
+2026-10-06T10:02:49.802128+00:00,49962857,26,Apple and a hacker's future,258,219
+2026-10-06T10:02:49.802128+00:00,49965308,27,"Making a GTK application in Haskell, part 1",156,42
+2026-10-06T10:02:49.802128+00:00,49961861,28,Qualcomm licenses patents on Huawei’s LogicFolding chip tech,192,125
+2026-10-06T10:02:49.802128+00:00,49975345,29,Anthropic Subscriptions Offer 5x+ More Value Than OpenAI,19,14
+2026-10-06T10:02:49.802128+00:00,49920785,30,The first fully implanted cochlear implant reaches patients,92,75
+2026-10-06T10:02:49.802128+00:00,49961057,31,"Anthropic reported diary entry to police, woman faces felony charge",732,565
+2026-10-06T10:02:49.802128+00:00,49965118,32,Linux containers in 500 lines of code (2016),127,33
+2026-10-06T10:02:49.802128+00:00,49962572,33,"2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",137,47
+2026-10-06T10:02:49.802128+00:00,49943479,34,Type Safe Generic Data Structures in C (2025),144,125
+2026-10-06T10:02:49.802128+00:00,49945445,35,Using Theme park rides and smartphones for demonstrating Newtonian mechanics,13,5
+2026-10-06T10:02:49.802128+00:00,49917900,36,Differences Between `Foldl` and `Foldr`,140,30
+2026-10-06T10:02:49.802128+00:00,49952148,37,Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear,78,26
+2026-10-06T10:02:49.802128+00:00,49928862,38,Martian chaos terrain,103,28
+2026-10-06T10:02:49.802128+00:00,49971726,39,Learning Jazz Pianist Style with Cross-Attention Conditioning,43,10
+2026-10-06T10:02:49.802128+00:00,49944392,40,"The era of software quality, or the era of ostriches?",47,78
+2026-10-06T10:02:49.802128+00:00,49971678,41,Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf],27,0
+2026-10-06T10:02:49.802128+00:00,49973854,42,Subquadratic 3SUM and Subcubic APSP,13,0
+2026-10-06T10:02:49.802128+00:00,49956290,43,The technology to eradicate mosquito-borne disease exists,262,203
+2026-10-06T10:02:49.802128+00:00,49951693,44,Using Blu-ray M-Disk as backup of last resort,97,114
+2026-10-06T10:02:49.802128+00:00,49962012,45,Denmark data breach exposes 8.8M people's personal data,483,338
+2026-10-06T10:02:49.802128+00:00,49972730,46,Photopea creator weighs in on Photosuite project,118,71
+2026-10-06T10:02:49.802128+00:00,49948300,47,We ported the original Doom to SQL,313,52
+2026-10-06T10:02:49.802128+00:00,49974238,48,The AI boom is making the cheapest smartphones disappear,25,5
+2026-10-06T10:02:49.802128+00:00,49975688,49,Germany: Ex-spy chief arrested for espionage,8,1
+2026-10-06T10:02:49.802128+00:00,49965625,50,Mosquitoes Are a Choice,27,3
