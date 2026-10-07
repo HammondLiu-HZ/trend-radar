@@ -53478,3 +53478,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-06T22:34:58.498893+00:00,49951155,48,Accountability mechanisms can be joyful (2024),85,31
 2026-10-06T22:34:58.498893+00:00,49920785,49,The first fully implanted cochlear implant reaches patients,110,83
 2026-10-06T22:34:58.498893+00:00,49977588,50,Meta’s Muse is an adorable privacy and security dumpster fire,361,251
+2026-10-07T02:12:58.079508+00:00,49984923,1,Sharing AI progress in mathematics,450,380
+2026-10-07T02:12:58.079508+00:00,49977979,2,Mistral Large 4,1596,968
+2026-10-07T02:12:58.079508+00:00,49984025,3,Decisions API is in public beta,153,61
+2026-10-07T02:12:58.079508+00:00,49984716,4,Penguin Mail – open-source Rust email client for Linux with AI,73,29
+2026-10-07T02:12:58.079508+00:00,49980487,5,"EmbeddingGemma 2: An open, lightweight multimodal embedding model",225,29
+2026-10-07T02:12:58.079508+00:00,49986892,6,Couple was swatted 55 times in 2 years over a post about Norm Macdonald,34,16
+2026-10-07T02:12:58.079508+00:00,49976265,7,Nobel Prize in Physics 2026: Francis Halzen,533,176
+2026-10-07T02:12:58.079508+00:00,49985664,8,AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped),106,80
+2026-10-07T02:12:58.079508+00:00,49980715,9,"OpenTPU – An open-source AI accelerator, developed by AI",238,300
+2026-10-07T02:12:58.079508+00:00,49981905,10,Claude Code’s suggested message feature: I think the real customer is the model,103,51
+2026-10-07T02:12:58.079508+00:00,49985643,11,State of Devs 2026,72,23
+2026-10-07T02:12:58.079508+00:00,49985524,12,Integer multiplication below n log n,64,45
+2026-10-07T02:12:58.079508+00:00,49985292,13,UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement,11,2
+2026-10-07T02:12:58.079508+00:00,49983703,14,Paramount Skydance has completed its $111B merger with Warner Bros. Discovery,181,291
+2026-10-07T02:12:58.079508+00:00,49981197,15,Utah to let AI examine patients and prescribe medication without human oversight,72,97
+2026-10-07T02:12:58.079508+00:00,49983404,16,When random is not actually random enough,32,7
+2026-10-07T02:12:58.079508+00:00,49973644,17,LLMs may have helped my RSI,39,23
+2026-10-07T02:12:58.079508+00:00,49984652,18,How Fast is Python 3.15?,28,19
+2026-10-07T02:12:58.079508+00:00,49984834,19,The Query Transformation Pipeline,13,0
+2026-10-07T02:12:58.079508+00:00,49977531,20,What's Earth's dominant species by mass?,156,99
+2026-10-07T02:12:58.079508+00:00,49981186,21,California closed the Montana license plate loophole,63,130
+2026-10-07T02:12:58.079508+00:00,49967427,22,Benchmark in Milliseconds,128,37
+2026-10-07T02:12:58.079508+00:00,49972125,23,Ask HN: Are there AI models for generating sounds based on a text and reference?,22,11
+2026-10-07T02:12:58.079508+00:00,49975619,24,Gleam doesn't compile to Erlang source anymore,299,127
+2026-10-07T02:12:58.079508+00:00,49985861,25,South Korea says AI agents appear to have been used to hack the country's banks,31,6
+2026-10-07T02:12:58.079508+00:00,49982735,26,Berthd,51,66
+2026-10-07T02:12:58.079508+00:00,49983791,27,OpenSSH 10.6,89,21
+2026-10-07T02:12:58.079508+00:00,49986919,28,Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years,4,0
+2026-10-07T02:12:58.079508+00:00,49978595,29,Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer,73,23
+2026-10-07T02:12:58.079508+00:00,49982471,30,Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill,113,47
+2026-10-07T02:12:58.079508+00:00,49979845,31,The Early History of Smalltalk (1993),113,65
+2026-10-07T02:12:58.079508+00:00,49977819,32,Mathematics of Geothermal Energy,67,39
+2026-10-07T02:12:58.079508+00:00,49977177,33,Polars 2.0,416,96
+2026-10-07T02:12:58.079508+00:00,49978171,34,"Show HN: Parseable, an open observability datalake, handles 100M time-series/min",82,18
+2026-10-07T02:12:58.079508+00:00,49977689,35,Erdosproblems.com Succumbs to the AI Onslaught,95,39
+2026-10-07T02:12:58.079508+00:00,49977437,36,Subquadratic 3SUM and Subcubic APSP,95,43
+2026-10-07T02:12:58.079508+00:00,49976823,37,Nature's capacity to 'bounce back' when species are lost is overestimated: study,318,156
+2026-10-07T02:12:58.079508+00:00,49984484,38,Ask HN: Why is Ask HN only showing me 14 posts?,39,35
+2026-10-07T02:12:58.079508+00:00,49970871,39,Dust: Pretraining Transformers Without Backpropagation,273,79
+2026-10-07T02:12:58.079508+00:00,49971230,40,Find the flattest route between any two points in SF,308,114
+2026-10-07T02:12:58.079508+00:00,49983262,41,Terraform Meets Proxmox: Lessons from a VMware Migration,18,0
+2026-10-07T02:12:58.079508+00:00,49971719,42,"Friendship ended with Deno, now Node is my best friend",312,233
+2026-10-07T02:12:58.079508+00:00,49983647,43,System-level ad-blocking in Android,54,33
+2026-10-07T02:12:58.079508+00:00,49944369,44,Direct retinal projection display for smart glasses using a meta-optic mirror,125,60
+2026-10-07T02:12:58.079508+00:00,49983780,45,Vibecoding Photoshop: Time and pressure,54,78
+2026-10-07T02:12:58.079508+00:00,49950653,46,Best-selling Zigbee temperature sensors tested and compared,236,119
+2026-10-07T02:12:58.079508+00:00,49986740,47,"Show HN: TerrainSR – fast, realistic heightmap upscaling model",3,1
+2026-10-07T02:12:58.079508+00:00,49986223,48,Account Bans on Reddit,11,10
+2026-10-07T02:12:58.079508+00:00,49984736,49,"Show HN: An AI agent runs ten web errands a day, every transcript published",6,0
+2026-10-07T02:12:58.079508+00:00,49952464,50,Using A.I. to decode communication of sperm whales,86,67
