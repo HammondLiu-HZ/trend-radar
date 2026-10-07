@@ -53528,3 +53528,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-07T02:12:58.079508+00:00,49986223,48,Account Bans on Reddit,11,10
 2026-10-07T02:12:58.079508+00:00,49984736,49,"Show HN: An AI agent runs ten web errands a day, every transcript published",6,0
 2026-10-07T02:12:58.079508+00:00,49952464,50,Using A.I. to decode communication of sperm whales,86,67
+2026-10-07T10:07:05.174888+00:00,49990204,1,Reasons to Dislike AI Coding,27,27
+2026-10-07T10:07:05.174888+00:00,49984923,2,Sharing AI progress in mathematics,921,856
+2026-10-07T10:07:05.174888+00:00,49990224,3,A font recreated from photographs of classic Commodore 64 keycaps,17,1
+2026-10-07T10:07:05.174888+00:00,49987076,4,"Strands Decider 2B: a small, open-source, decision model",177,45
+2026-10-07T10:07:05.174888+00:00,49984025,5,Decisions API is in public beta,300,141
+2026-10-07T10:07:05.174888+00:00,49987858,6,The art of defusing a second world war bomb,66,35
+2026-10-07T10:07:05.174888+00:00,49977979,7,Mistral Large 4,1815,1080
+2026-10-07T10:07:05.174888+00:00,49980487,8,"EmbeddingGemma 2: An open, lightweight multimodal embedding model",329,35
+2026-10-07T10:07:05.174888+00:00,49986862,9,ESP32-C3 Adblock,99,36
+2026-10-07T10:07:05.174888+00:00,49988709,10,"Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",27,13
+2026-10-07T10:07:05.174888+00:00,49978333,11,What is Codemode,84,40
+2026-10-07T10:07:05.174888+00:00,49953939,12,The Legend of the Paper Crane,18,4
+2026-10-07T10:07:05.174888+00:00,49950865,13,The cost of lies: A Mineserver story,112,49
+2026-10-07T10:07:05.174888+00:00,49987675,14,La Cueva BBS in Mexico in 1993 (session replay),52,13
+2026-10-07T10:07:05.174888+00:00,49984716,15,Penguin Mail – open-source Rust email client for Linux with AI,182,112
+2026-10-07T10:07:05.174888+00:00,49982498,16,Tell HN: GitHub refuses to remove cracked copies of my software after a month,245,141
+2026-10-07T10:07:05.174888+00:00,49981905,17,Claude Code’s suggested message feature: I think the real customer is the model,201,116
+2026-10-07T10:07:05.174888+00:00,49956219,18,Gallery of Processor Cache Effects,11,0
+2026-10-07T10:07:05.174888+00:00,49980715,19,"OpenTPU – An open-source AI accelerator, developed by AI",289,340
+2026-10-07T10:07:05.174888+00:00,49977531,20,What's Earth's dominant species by mass?,246,180
+2026-10-07T10:07:05.174888+00:00,49980790,21,Treg (OpenRouter for Tools),31,5
+2026-10-07T10:07:05.174888+00:00,49987765,22,Show HN: NanoMuse – An open-source AI agent for your phone and computer,20,4
+2026-10-07T10:07:05.174888+00:00,49985664,23,AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped),262,221
+2026-10-07T10:07:05.174888+00:00,49985643,24,State of Devs 2026,167,87
+2026-10-07T10:07:05.174888+00:00,49988230,25,Hackers obtain counterfeit TLS certificates for Google and other large services,71,21
+2026-10-07T10:07:05.174888+00:00,49983404,26,When random is not actually random enough,66,30
+2026-10-07T10:07:05.174888+00:00,49969851,27,First Steps into Memory Management in Python,3,0
+2026-10-07T10:07:05.174888+00:00,49988550,28,"Sharded, encrypted storage between friends over Yggdrasil",9,3
+2026-10-07T10:07:05.174888+00:00,49981186,29,California closed the Montana license plate loophole,113,279
+2026-10-07T10:07:05.174888+00:00,49967427,30,Benchmark in Milliseconds,141,47
+2026-10-07T10:07:05.174888+00:00,49987679,31,OpenWAM: An Open Framework for Composable World-Action Models,9,3
+2026-10-07T10:07:05.174888+00:00,49986765,32,Jev-Driven SRE Diagnosis: What Worked and What Failed,34,13
+2026-10-07T10:07:05.174888+00:00,49976265,33,Nobel Prize in Physics 2026: Francis Halzen,554,197
+2026-10-07T10:07:05.174888+00:00,49953455,34,Improving and Stabilizing the Racoon2 IKE Daemon in NetBSD,15,8
+2026-10-07T10:07:05.174888+00:00,49983703,35,Paramount Skydance has completed its $111B merger with Warner Bros. Discovery,233,381
+2026-10-07T10:07:05.174888+00:00,49973644,36,LLMs may have helped my RSI,89,48
+2026-10-07T10:07:05.174888+00:00,49977819,37,Mathematics of Geothermal Energy,71,42
+2026-10-07T10:07:05.174888+00:00,49988516,38,Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU,5,1
+2026-10-07T10:07:05.174888+00:00,49978595,39,Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer,80,35
+2026-10-07T10:07:05.174888+00:00,49977177,40,Polars 2.0,439,99
+2026-10-07T10:07:05.174888+00:00,49985292,41,UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement,15,3
+2026-10-07T10:07:05.174888+00:00,49985861,42,South Korea says AI agents appear to have been used to hack the country's banks,78,16
+2026-10-07T10:07:05.174888+00:00,49985524,43,Integer multiplication below n log n,98,66
+2026-10-07T10:07:05.174888+00:00,49960290,44,Anatomy Unzipped: John of Arderne's Sweden Scroll (Ca. 1425–35),8,1
+2026-10-07T10:07:05.174888+00:00,49977689,45,Erdosproblems.com Succumbs to the AI Onslaught,101,41
+2026-10-07T10:07:05.174888+00:00,49979845,46,The Early History of Smalltalk (1993),120,80
+2026-10-07T10:07:05.174888+00:00,49944369,47,Direct retinal projection display for smart glasses using a meta-optic mirror,130,65
+2026-10-07T10:07:05.174888+00:00,49976823,48,Nature's capacity to 'bounce back' when species are lost is overestimated: study,333,163
+2026-10-07T10:07:05.174888+00:00,49977437,49,Subquadratic 3SUM and Subcubic APSP,104,45
+2026-10-07T10:07:05.174888+00:00,49989912,50,Raspberry Pi Desktop Now Available for PC and Mac,4,0
