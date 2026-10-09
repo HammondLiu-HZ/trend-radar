@@ -53978,3 +53978,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-09T13:02:55.899184+00:00,50019112,48,Hucked and Shucked: The hidden costs of turning America's corn crop into fuel,8,2
 2026-10-09T13:02:55.899184+00:00,50005608,49,Sub-1-Bit LLM Compression via Latent Factorization,86,24
 2026-10-09T13:02:55.899184+00:00,49988516,50,Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU,50,2
+2026-10-09T19:24:31.475602+00:00,50019911,1,Cloudflare acquires Deno,812,444
+2026-10-09T19:24:31.475602+00:00,50020014,2,Our $445M Series D,447,183
+2026-10-09T19:24:31.475602+00:00,50022292,3,Triple-A Minesweeper,143,44
+2026-10-09T19:24:31.475602+00:00,50024499,4,"Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",36,4
+2026-10-09T19:24:31.475602+00:00,50018088,5,"Sorry, I'm in a meeting",571,187
+2026-10-09T19:24:31.475602+00:00,50019056,6,I pointed AI at 400 years of archives. It found a forgotten meteorite and more,34,13
+2026-10-09T19:24:31.475602+00:00,50018817,7,"Show HN: Let your AI agents paint big arrows, boxes and text on your screen",320,139
+2026-10-09T19:24:31.475602+00:00,50024669,8,M7.6 Earthquake in Panama,68,24
+2026-10-09T19:24:31.475602+00:00,50023450,9,Typesafe AI raises $870M at $7.5B,79,53
+2026-10-09T19:24:31.475602+00:00,50018420,10,Nobel Peace Prize for 2026 to Navanethem Pillay,368,190
+2026-10-09T19:24:31.475602+00:00,49993106,11,Part of a police code for describing suspects,10,1
+2026-10-09T19:24:31.475602+00:00,50023953,12,In Memory of Deno,10,1
+2026-10-09T19:24:31.475602+00:00,50020533,13,"'Wallace and Gromit,' 90% Alone",62,5
+2026-10-09T19:24:31.475602+00:00,50024927,14,You might want to try being less creative,22,8
+2026-10-09T19:24:31.475602+00:00,50021540,15,Germany transforms former coal mines into Europe's largest lake landscape,136,74
+2026-10-09T19:24:31.475602+00:00,50000488,16,Why isn't the industry freaking out about DeepSeek 4.1 Flash?,1024,916
+2026-10-09T19:24:31.475602+00:00,50008427,17,Whistle: Speech to Text in 16.9 MB,896,174
+2026-10-09T19:24:31.475602+00:00,49983582,18,Training Text-to-Image Models Without a VAE,25,8
+2026-10-09T19:24:31.475602+00:00,49995495,19,Man discovers his parents' coffee machine used 1TB of data in 10 days,905,544
+2026-10-09T19:24:31.475602+00:00,50024757,20,Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad,31,24
+2026-10-09T19:24:31.475602+00:00,49986882,21,I hired an illustrator to draw my house. Now it's my Home Assistant dashboard,858,191
+2026-10-09T19:24:31.475602+00:00,50003796,22,"Yes, and",682,273
+2026-10-09T19:24:31.475602+00:00,50016489,23,MXC - a sandboxed code execution system,152,73
+2026-10-09T19:24:31.475602+00:00,50015515,24,Keyboard differences between Windows and Macs,286,238
+2026-10-09T19:24:31.475602+00:00,50024913,25,"Microsoft-Decision-1, our model for fast decision-making",15,2
+2026-10-09T19:24:31.475602+00:00,50018239,26,Once: Cache CLI commands,77,36
+2026-10-09T19:24:31.475602+00:00,50017357,27,Programming Isn't Special,122,134
+2026-10-09T19:24:31.475602+00:00,50009295,28,Theranos.world,533,192
+2026-10-09T19:24:31.475602+00:00,50018350,29,"OpenAI fires three safety researchers for ""mishandling research information""",250,160
+2026-10-09T19:24:31.475602+00:00,49985548,30,Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?,368,588
+2026-10-09T19:24:31.475602+00:00,50010470,31,The value of not getting to the point (2015),219,75
+2026-10-09T19:24:31.475602+00:00,50013902,32,"OpenAI, the Partition Principle, and Mathematics",187,285
+2026-10-09T19:24:31.475602+00:00,50019451,33,The Hetzner Cloud network stack – history and technical overview,92,25
+2026-10-09T19:24:31.475602+00:00,50019499,34,100+ reactions to 100+ solutions,32,25
+2026-10-09T19:24:31.475602+00:00,50021127,35,Python 3.15,257,68
+2026-10-09T19:24:31.475602+00:00,49992994,36,ETH-68: Ethernet Audio Interface for Linux,208,132
+2026-10-09T19:24:31.475602+00:00,49996149,37,DuckDB Ducklake,228,32
+2026-10-09T19:24:31.475602+00:00,50005527,38,Beauty in DVD Menus,329,179
+2026-10-09T19:24:31.475602+00:00,50019455,39,Iranian campaign planted fake articles in real U.S. publications using ChatGPT,166,146
+2026-10-09T19:24:31.475602+00:00,50002665,40,I think I found a planet nobody knew existed. I used Claude Code to find it,253,124
+2026-10-09T19:24:31.475602+00:00,50008047,41,"Show HN: Making a flexible ""neon"" t-shirt with LED filaments",211,36
+2026-10-09T19:24:31.475602+00:00,50011999,42,AI-ready biological data: $1.8B global commitment,142,20
+2026-10-09T19:24:31.475602+00:00,50023065,43,Tesla Rebrands Full Self-Driving as Tesla Assisted Driving in Europe,13,15
+2026-10-09T19:24:31.475602+00:00,49984159,44,A Terminal Protocol for Program Status (OSC 7501),174,52
+2026-10-09T19:24:31.475602+00:00,49998992,45,Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age,148,58
+2026-10-09T19:24:31.475602+00:00,50006012,46,Orkut.com,216,158
+2026-10-09T19:24:31.475602+00:00,50011928,47,ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025),376,245
+2026-10-09T19:24:31.475602+00:00,50023260,48,"'Breathtaking,' 'Devastating': Mathematics Reels After New OpenAI Release",11,16
+2026-10-09T19:24:31.475602+00:00,49984923,49,Sharing AI progress in mathematics,1333,1518
+2026-10-09T19:24:31.475602+00:00,50007764,50,"Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",138,38
