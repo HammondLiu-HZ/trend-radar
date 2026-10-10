@@ -54228,3 +54228,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-10T17:45:05.391920+00:00,50010986,48,Cube Type – Isometric Typography Generator,47,10
 2026-10-10T17:45:05.391920+00:00,50031156,49,"AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",33,0
 2026-10-10T17:45:05.391920+00:00,50029487,50,The Lightbulb Computer,26,7
+2026-10-10T21:30:28.969822+00:00,49991852,1,2D Vehicles,217,51
+2026-10-10T21:30:28.969822+00:00,50035530,2,Why DuckDB 2.0 is faster,71,24
+2026-10-10T21:30:28.969822+00:00,50034081,3,Knuth reward check,111,41
+2026-10-10T21:30:28.969822+00:00,50017247,4,Nix wrote half of my debugger,48,4
+2026-10-10T21:30:28.969822+00:00,50027257,5,Recent AI models struggled to match a human algorithmic innovation,43,31
+2026-10-10T21:30:28.969822+00:00,50029487,6,The Lightbulb Computer,99,18
+2026-10-10T21:30:28.969822+00:00,50031614,7,Talorys – A self-hosted personal AI agent on Cloudflare's free tier,215,110
+2026-10-10T21:30:28.969822+00:00,50035886,8,Nvidia in talks to acquire US 'open' model startup Reflection AI,79,48
+2026-10-10T21:30:28.969822+00:00,50016956,9,Mxc: Microsoft Execution Containers version 1.0.0,133,28
+2026-10-10T21:30:28.969822+00:00,50031653,10,Apple/macOS removed from official Unix registry,214,194
+2026-10-10T21:30:28.969822+00:00,49980880,11,Grieving the loss of details,267,212
+2026-10-10T21:30:28.969822+00:00,50028162,12,How strong is the strong interaction?,35,5
+2026-10-10T21:30:28.969822+00:00,50028275,13,REA Reverse – Engineer Anything,654,278
+2026-10-10T21:30:28.969822+00:00,49984349,14,OpenSCAD the Programmers Solid 3D CAD Modeller,68,59
+2026-10-10T21:30:28.969822+00:00,50022292,15,Triple-A Minesweeper,1329,265
+2026-10-10T21:30:28.969822+00:00,50029123,16,Telegram Desktop vulnerability allowed any user's file to be stolen,383,217
+2026-10-10T21:30:28.969822+00:00,50024242,17,Rampart: Browser native on-device PII radaction,56,22
+2026-10-10T21:30:28.969822+00:00,50033407,18,Bitwarden Dual License Model,306,227
+2026-10-10T21:30:28.969822+00:00,50033357,19,Unikernels were hard. key word: were,45,17
+2026-10-10T21:30:28.969822+00:00,50034008,20,How Protein Took over the World,44,85
+2026-10-10T21:30:28.969822+00:00,50032758,21,"I would like the value of my home to rise, while my property taxes fall",170,399
+2026-10-10T21:30:28.969822+00:00,50016696,22,Whooping Cranes Learned to Migrate by Following Costumed Pilots,45,6
+2026-10-10T21:30:28.969822+00:00,50036571,23,50MB operating system can resurrect your old PC,13,2
+2026-10-10T21:30:28.969822+00:00,50019988,24,"Chip-hex:cost-benefit, energy efficiency and hexagonal",3,1
+2026-10-10T21:30:28.969822+00:00,49997481,25,Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024),287,68
+2026-10-10T21:30:28.969822+00:00,49986919,26,Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years,116,42
+2026-10-10T21:30:28.969822+00:00,50036119,27,Takeshi's Castle,49,22
+2026-10-10T21:30:28.969822+00:00,50031269,28,`123456' password used in Danish CPR data breach,363,189
+2026-10-10T21:30:28.969822+00:00,50033721,29,PVX-001: open-source Covid-19 vaccine starts Phase 1 trial,103,17
+2026-10-10T21:30:28.969822+00:00,49981508,30,"Noto means ""no tofu"": fixing dotted circles in Myanmar text",51,31
+2026-10-10T21:30:28.969822+00:00,50037299,31,"Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",4,1
+2026-10-10T21:30:28.969822+00:00,50021410,32,Can you use autoregressive diffusion to generate market data?,176,54
+2026-10-10T21:30:28.969822+00:00,50019911,33,Cloudflare acquires Deno,1331,686
+2026-10-10T21:30:28.969822+00:00,50034640,34,A 1980s filter chip that uses switched capacitors,10,5
+2026-10-10T21:30:28.969822+00:00,50024499,35,"Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",402,46
+2026-10-10T21:30:28.969822+00:00,49998801,36,WSL3 Performance is about 5-60% faster than WSL2 depending on the workload,221,205
+2026-10-10T21:30:28.969822+00:00,50033638,37,FDA may allow some toxic chemicals to be added to food without safety review,140,70
+2026-10-10T21:30:28.969822+00:00,50027853,38,Compiling Rust to readable C with Eurydice,130,38
+2026-10-10T21:30:28.969822+00:00,50024090,39,What mathematicians should know about the Lean Theorem Prover: reliability & AI,189,52
+2026-10-10T21:30:28.969822+00:00,50028027,40,Clinical trial of a prion disease drug candidate begins enrolling participants,153,43
+2026-10-10T21:30:28.969822+00:00,50037024,41,A new look at brains transformed by psychedelics,9,2
+2026-10-10T21:30:28.969822+00:00,50023450,42,Typesafe AI raises $870M at $7.5B,425,339
+2026-10-10T21:30:28.969822+00:00,50019056,43,"Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",179,89
+2026-10-10T21:30:28.969822+00:00,50035561,44,"Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",74,70
+2026-10-10T21:30:28.969822+00:00,50020533,45,"'Wallace and Gromit,' 90% Alone",277,43
+2026-10-10T21:30:28.969822+00:00,49984854,46,The role of cat eye narrowing movements in cat–human communication (2020),117,56
+2026-10-10T21:30:28.969822+00:00,50003545,47,Show HN: Proton Drive for Linux,115,39
+2026-10-10T21:30:28.969822+00:00,50014397,48,Timestamping a Giant Record of the Web,38,4
+2026-10-10T21:30:28.969822+00:00,50018088,49,"Sorry, I'm in a meeting",996,270
+2026-10-10T21:30:28.969822+00:00,50020014,50,Our $445M Series D,688,315
