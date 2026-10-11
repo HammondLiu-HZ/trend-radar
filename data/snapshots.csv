@@ -54278,3 +54278,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-10T21:30:28.969822+00:00,50014397,48,Timestamping a Giant Record of the Web,38,4
 2026-10-10T21:30:28.969822+00:00,50018088,49,"Sorry, I'm in a meeting",996,270
 2026-10-10T21:30:28.969822+00:00,50020014,50,Our $445M Series D,688,315
+2026-10-11T00:47:39.099372+00:00,50037949,1,Build your own decision model,77,9
+2026-10-11T00:47:39.099372+00:00,49991852,2,2D Vehicles,343,79
+2026-10-11T00:47:39.099372+00:00,50036864,3,A city-building game in which the city would prefer you didn't,153,56
+2026-10-11T00:47:39.099372+00:00,50017247,4,Nix wrote half of my debugger,116,18
+2026-10-11T00:47:39.099372+00:00,50029487,5,The Lightbulb Computer,207,41
+2026-10-11T00:47:39.099372+00:00,50035530,6,Why DuckDB 2.0 is faster,133,46
+2026-10-11T00:47:39.099372+00:00,50034081,7,Knuth reward check,138,50
+2026-10-11T00:47:39.099372+00:00,50021899,8,Five months treating bugs like patients and coding agents like a medical team,46,18
+2026-10-11T00:47:39.099372+00:00,50031614,9,Talorys – A self-hosted personal AI agent on Cloudflare's free tier,240,120
+2026-10-11T00:47:39.099372+00:00,50016956,10,Mxc: Microsoft Execution Containers version 1.0.0,154,35
+2026-10-11T00:47:39.099372+00:00,50028275,11,REA Reverse – Engineer Anything,692,302
+2026-10-11T00:47:39.099372+00:00,50027257,12,Recent AI models struggled to match a human algorithmic innovation,71,55
+2026-10-11T00:47:39.099372+00:00,50033357,13,Unikernels were hard. key word: were,89,39
+2026-10-11T00:47:39.099372+00:00,50020901,14,Getting old Macromedia Director Games to run on modern Hardware,33,5
+2026-10-11T00:47:39.099372+00:00,49984349,15,OpenSCAD the Programmers Solid 3D CAD Modeller,96,81
+2026-10-11T00:47:39.099372+00:00,49980880,16,Grieving the loss of details,340,272
+2026-10-11T00:47:39.099372+00:00,50006930,17,"Show HN: Diffle, a keyboard-centric diff viewer with LSP support",5,1
+2026-10-11T00:47:39.099372+00:00,50035886,18,Nvidia in talks to acquire US 'open' model startup Reflection AI,111,77
+2026-10-11T00:47:39.099372+00:00,50024242,19,Rampart: Browser native on-device PII radaction,71,29
+2026-10-11T00:47:39.099372+00:00,50038383,20,"Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",37,46
+2026-10-11T00:47:39.099372+00:00,50033407,21,Bitwarden Dual License Model,338,244
+2026-10-11T00:47:39.099372+00:00,50005743,22,C for Rust programmers,93,96
+2026-10-11T00:47:39.099372+00:00,50029830,23,Food processing influences metabolism and brain activity,99,78
+2026-10-11T00:47:39.099372+00:00,50029123,24,Telegram Desktop vulnerability allowed any user's file to be stolen,407,262
+2026-10-11T00:47:39.099372+00:00,50031653,25,Apple/macOS removed from official Unix registry,243,218
+2026-10-11T00:47:39.099372+00:00,49997481,26,Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024),305,73
+2026-10-11T00:47:39.099372+00:00,50032758,27,"I would like the value of my home to rise, while my property taxes fall",208,498
+2026-10-11T00:47:39.099372+00:00,49986919,28,Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years,125,49
+2026-10-11T00:47:39.099372+00:00,50028162,29,How strong is the strong interaction?,47,11
+2026-10-11T00:47:39.099372+00:00,50016696,30,Whooping Cranes Learned to Migrate by Following Costumed Pilots,56,7
+2026-10-11T00:47:39.099372+00:00,50031269,31,`123456' password used in Danish CPR data breach,377,193
+2026-10-11T00:47:39.099372+00:00,50036119,32,Takeshi's Castle,95,33
+2026-10-11T00:47:39.099372+00:00,50034640,33,A 1980s filter chip that uses switched capacitors,18,6
+2026-10-11T00:47:39.099372+00:00,50037859,34,Ask HN: What's your favorite children's books?,8,11
+2026-10-11T00:47:39.099372+00:00,50034008,35,How Protein Took over the World,54,134
+2026-10-11T00:47:39.099372+00:00,49998116,36,A nuclear clock synchronized to 229Th,13,3
+2026-10-11T00:47:39.099372+00:00,50021410,37,Can you use autoregressive diffusion to generate market data?,177,55
+2026-10-11T00:47:39.099372+00:00,50019911,38,Cloudflare acquires Deno,1340,689
+2026-10-11T00:47:39.099372+00:00,50036571,39,50MB operating system can resurrect your old PC,33,10
+2026-10-11T00:47:39.099372+00:00,50022292,40,Triple-A Minesweeper,1360,271
+2026-10-11T00:47:39.099372+00:00,49981508,41,"Noto means ""no tofu"": fixing dotted circles in Myanmar text",55,33
+2026-10-11T00:47:39.099372+00:00,50033721,42,PVX-001: open-source Covid-19 vaccine starts Phase 1 trial,117,26
+2026-10-11T00:47:39.099372+00:00,50024499,43,"Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",410,48
+2026-10-11T00:47:39.099372+00:00,50037299,44,"Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",25,8
+2026-10-11T00:47:39.099372+00:00,50034123,45,MrBeast 'spends millions reverse engineering the algorithms on each platform',54,61
+2026-10-11T00:47:39.099372+00:00,50024090,46,What mathematicians should know about the Lean Theorem Prover: reliability & AI,193,57
+2026-10-11T00:47:39.099372+00:00,50027853,47,Compiling Rust to readable C with Eurydice,132,39
+2026-10-11T00:47:39.099372+00:00,50028027,48,Clinical trial of a prion disease drug candidate begins enrolling participants,156,44
+2026-10-11T00:47:39.099372+00:00,50033240,49,The state of systemd: 2026 edition,13,2
+2026-10-11T00:47:39.099372+00:00,49998801,50,WSL3 Performance is about 5-60% faster than WSL2 depending on the workload,222,213
