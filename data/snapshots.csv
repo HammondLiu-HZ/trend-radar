@@ -54378,3 +54378,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-11T06:59:35.444028+00:00,50034008,48,How Protein Took over the World,64,153
 2026-10-11T06:59:35.444028+00:00,50020533,49,"'Wallace and Gromit,' 90% Alone",286,45
 2026-10-11T06:59:35.444028+00:00,50034640,50,A 1980s filter chip that uses switched capacitors,23,8
+2026-10-11T13:56:53.429846+00:00,50042219,1,I paid people to try and follow my README,98,60
+2026-10-11T13:56:53.429846+00:00,50042425,2,Don't Put Tilde In Your Path,45,10
+2026-10-11T13:56:53.429846+00:00,50040276,3,LineageOS 24.0,215,67
+2026-10-11T13:56:53.429846+00:00,50041619,4,Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter,357,135
+2026-10-11T13:56:53.429846+00:00,50042362,5,Valen's Memory Safety: A New Kind of Borrow Checking,22,7
+2026-10-11T13:56:53.429846+00:00,50041682,6,Nitter: Update Oct 10th seeking funding and legal help,199,73
+2026-10-11T13:56:53.429846+00:00,50042942,7,How HN: Go-dev-auth zero-dependency authentication library for Go,5,2
+2026-10-11T13:56:53.429846+00:00,50042149,8,"What driving across Europe costs in tolls, vignettes, bridges and fuel",36,34
+2026-10-11T13:56:53.429846+00:00,49991852,9,2D Vehicles,529,106
+2026-10-11T13:56:53.429846+00:00,50037949,11,Build your own decision model,378,83
+2026-10-11T13:56:53.429846+00:00,50042370,12,"Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",38,39
+2026-10-11T13:56:53.429846+00:00,50036864,13,A city-building game in which the city would prefer you didn't,412,138
+2026-10-11T13:56:53.429846+00:00,50041540,14,IRCv3,146,139
+2026-10-11T13:56:53.429846+00:00,50042896,15,Bot traffic plunged to near 0 following the strike on its Vladimir data center,23,4
+2026-10-11T13:56:53.429846+00:00,50030470,16,Rat's Register Allocator,28,2
+2026-10-11T13:56:53.429846+00:00,50029487,17,The Lightbulb Computer,491,72
+2026-10-11T13:56:53.429846+00:00,50017548,18,How big is a Git commit?,57,23
+2026-10-11T13:56:53.429846+00:00,50038623,19,PSPi 6 – Raspberry Pi in a PSP,112,10
+2026-10-11T13:56:53.429846+00:00,50033300,20,Compression and Concatenation on the Web,8,2
+2026-10-11T13:56:53.429846+00:00,50018929,21,"Plumbers, chains, and famous painters: The history of the pipe operator in R",5,0
+2026-10-11T13:56:53.429846+00:00,50031289,22,When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64,13,2
+2026-10-11T13:56:53.429846+00:00,50001234,23,Retrofitting language models to operate over bytes,81,13
+2026-10-11T13:56:53.429846+00:00,50017247,24,Nix wrote half of my debugger,215,51
+2026-10-11T13:56:53.429846+00:00,50015833,25,Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes,65,12
+2026-10-11T13:56:53.429846+00:00,50021899,26,Five months treating bugs like patients and coding agents like a medical team,163,69
+2026-10-11T13:56:53.429846+00:00,50031614,27,Talorys – A self-hosted personal AI agent on Cloudflare's free tier,304,140
+2026-10-11T13:56:53.429846+00:00,50040547,28,3rd Yandex Cloud Data Center Was Hit,319,387
+2026-10-11T13:56:53.429846+00:00,50034081,29,Knuth reward check,207,75
+2026-10-11T13:56:53.429846+00:00,50028647,30,Decade-old RAM is making a comeback,110,98
+2026-10-11T13:56:53.429846+00:00,50016956,31,Mxc: Microsoft Execution Containers version 1.0.0,204,58
+2026-10-11T13:56:53.429846+00:00,50033357,32,Unikernels were hard. key word: were,177,85
+2026-10-11T13:56:53.429846+00:00,50029830,33,Food processing influences metabolism and brain activity,169,137
+2026-10-11T13:56:53.429846+00:00,49984349,34,OpenSCAD the Programmers Solid 3D CAD Modeller,163,131
+2026-10-11T13:56:53.429846+00:00,50030558,35,Cyril Hilsum invented the flat-screen displays that hold us in thrall,13,1
+2026-10-11T13:56:53.429846+00:00,50024805,36,Deterministic Simulation Testing in Celld,29,2
+2026-10-11T13:56:53.429846+00:00,50005743,37,C for Rust programmers,160,172
+2026-10-11T13:56:53.429846+00:00,50006930,38,"Show HN: Diffle, a keyboard-centric diff viewer with LSP support",61,10
+2026-10-11T13:56:53.429846+00:00,50039092,39,500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter,117,83
+2026-10-11T13:56:53.429846+00:00,49986919,40,Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years,166,68
+2026-10-11T13:56:53.429846+00:00,50020901,41,Getting old Macromedia Director Games to run on modern Hardware,82,16
+2026-10-11T13:56:53.429846+00:00,50042107,42,AI is creating a 'human premium' for art created by people,50,62
+2026-10-11T13:56:53.429846+00:00,49980880,43,Grieving the loss of details,461,375
+2026-10-11T13:56:53.429846+00:00,50039536,44,GameBoy on E-Paper ESP32 at 30FPS [video],119,35
+2026-10-11T13:56:53.429846+00:00,50019911,45,Cloudflare acquires Deno,1356,706
+2026-10-11T13:56:53.429846+00:00,50024242,46,Rampart: Browser native on-device PII radaction,89,33
+2026-10-11T13:56:53.429846+00:00,50022292,47,Triple-A Minesweeper,1392,279
+2026-10-11T13:56:53.429846+00:00,50028275,48,REA Reverse – Engineer Anything,746,320
+2026-10-11T13:56:53.429846+00:00,50009451,49,The Marriage That Captures a High Point of American Art,10,2
+2026-10-11T13:56:53.429846+00:00,50042051,50,GPT-6 Astra performs unsanctioned supply-chain attacks in simulations,4,0
