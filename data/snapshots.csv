@@ -54427,3 +54427,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-11T13:56:53.429846+00:00,50028275,48,REA Reverse – Engineer Anything,746,320
 2026-10-11T13:56:53.429846+00:00,50009451,49,The Marriage That Captures a High Point of American Art,10,2
 2026-10-11T13:56:53.429846+00:00,50042051,50,GPT-6 Astra performs unsanctioned supply-chain attacks in simulations,4,0
+2026-10-11T18:46:26.440415+00:00,50045984,1,"Total Annihilation, rebuilt for modern computers",32,15
+2026-10-11T18:46:26.440415+00:00,50043026,2,Terence Tao: Math 2.0 [pdf],159,195
+2026-10-11T18:46:26.440415+00:00,50044715,3,How to Build Wealth as a Career Person,46,33
+2026-10-11T18:46:26.440415+00:00,50045273,4,apsw: Another Python SQLite Wrapper,19,5
+2026-10-11T18:46:26.440415+00:00,50042425,5,The tilde in your PATH may not be your HOME,161,95
+2026-10-11T18:46:26.440415+00:00,50040276,6,LineageOS 24.0,341,128
+2026-10-11T18:46:26.440415+00:00,50044272,7,How I reverse engineered a commercial spatial audio effect,40,15
+2026-10-11T18:46:26.440415+00:00,50042362,8,Valen's Memory Safety: A New Kind of Borrow Checking,98,42
+2026-10-11T18:46:26.440415+00:00,50042219,9,I paid people to try and follow my README,311,165
+2026-10-11T18:46:26.440415+00:00,50008566,10,"Akhetonics Photonic Computing: 1,000x Faster CPUs",18,4
+2026-10-11T18:46:26.440415+00:00,50043689,11,"I'm sorry, but you still have to think",159,58
+2026-10-11T18:46:26.440415+00:00,50045946,12,"NYC's ""Click to Cancel"" rule is now in effect",14,0
+2026-10-11T18:46:26.440415+00:00,50042333,13,"Show HN: BetterWispr – Free, open-source dictation for Mac",92,64
+2026-10-11T18:46:26.440415+00:00,50028647,14,The RAM shortage is bringing back DDR4,214,203
+2026-10-11T18:46:26.440415+00:00,50028264,15,"A Cray-1 supercomputer replica from 30 ""obsolete"" Mac Minis",26,11
+2026-10-11T18:46:26.440415+00:00,49991852,16,2D Vehicles,592,113
+2026-10-11T18:46:26.440415+00:00,50041682,18,Nitter: Update Oct 10th seeking funding and legal help,361,170
+2026-10-11T18:46:26.440415+00:00,50040547,19,3rd Yandex Cloud Data Center Was Hit,449,544
+2026-10-11T18:46:26.440415+00:00,50045895,20,We're unlocking the biggest mysteries of the clitoris,23,2
+2026-10-11T18:46:26.440415+00:00,50036864,21,A city-building game in which the city would prefer you didn't,497,165
+2026-10-11T18:46:26.440415+00:00,50037949,22,Build your own decision model,432,97
+2026-10-11T18:46:26.440415+00:00,50041540,23,IRCv3,260,237
+2026-10-11T18:46:26.440415+00:00,50029487,24,The Lightbulb Computer,559,93
+2026-10-11T18:46:26.440415+00:00,50045735,25,"YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit",46,17
+2026-10-11T18:46:26.440415+00:00,50044989,26,"Playgrnd – tiny tools for making weird, beautiful things",7,0
+2026-10-11T18:46:26.440415+00:00,50041619,27,Bot traffic from Yandex,546,207
+2026-10-11T18:46:26.440415+00:00,50043682,28,Documents add to evidence in climate deception case against ExxonMobil,343,180
+2026-10-11T18:46:26.440415+00:00,50030470,29,Rat's Register Allocator,51,3
+2026-10-11T18:46:26.440415+00:00,50018929,30,"Plumbers, chains, and famous painters: The history of the pipe operator in R",36,2
+2026-10-11T18:46:26.440415+00:00,50017548,31,How big is a Git commit?,75,29
+2026-10-11T18:46:26.440415+00:00,50019213,32,The Wild West of polyglot docs sites,11,1
+2026-10-11T18:46:26.440415+00:00,50038623,33,PSPi 6 – Raspberry Pi in a PSP,126,12
+2026-10-11T18:46:26.440415+00:00,50001234,34,Retrofitting language models to operate over bytes,101,20
+2026-10-11T18:46:26.440415+00:00,50015833,35,Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes,86,16
+2026-10-11T18:46:26.440415+00:00,50017247,36,Nix wrote half of my debugger,229,58
+2026-10-11T18:46:26.440415+00:00,50043110,37,"Open-source Microsoft Excel, PowerPoint, and Word replications",45,59
+2026-10-11T18:46:26.440415+00:00,50031614,38,Talorys – A self-hosted personal AI agent on Cloudflare's free tier,318,148
+2026-10-11T18:46:26.440415+00:00,50016956,39,Mxc: Microsoft Execution Containers version 1.0.0,218,65
+2026-10-11T18:46:26.440415+00:00,50021899,40,Five months treating bugs like patients and coding agents like a medical team,200,101
+2026-10-11T18:46:26.440415+00:00,50034081,41,Knuth reward check,218,77
+2026-10-11T18:46:26.440415+00:00,50039504,42,CIA World Factbook is dead – Here is an attempt at recreation,43,44
+2026-10-11T18:46:26.440415+00:00,50031289,43,When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64,20,3
+2026-10-11T18:46:26.440415+00:00,50041873,44,Nicolas Cage says he won't work with Amazon again over AI dispute,59,18
+2026-10-11T18:46:26.440415+00:00,50044919,45,We solved SQLite's single-writer limitation,9,0
+2026-10-11T18:46:26.440415+00:00,50033357,46,Unikernels were hard. key word: were,188,94
+2026-10-11T18:46:26.440415+00:00,50029830,47,Food processing influences metabolism and brain activity,180,147
+2026-10-11T18:46:26.440415+00:00,50005743,48,C for Rust programmers,167,191
+2026-10-11T18:46:26.440415+00:00,50045480,49,Why we're watching these climate tech companies,7,0
+2026-10-11T18:46:26.440415+00:00,49986919,50,Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years,175,70
