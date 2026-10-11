@@ -54476,3 +54476,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-11T18:46:26.440415+00:00,50005743,48,C for Rust programmers,167,191
 2026-10-11T18:46:26.440415+00:00,50045480,49,Why we're watching these climate tech companies,7,0
 2026-10-11T18:46:26.440415+00:00,49986919,50,Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years,175,70
+2026-10-11T22:46:02.414763+00:00,50045984,1,"Total Annihilation, rebuilt for modern computers",279,119
+2026-10-11T22:46:02.414763+00:00,50047091,2,Cartographers of North Korea,113,13
+2026-10-11T22:46:02.414763+00:00,50047422,3,The gap in shared understanding of LLM capability is widening,99,120
+2026-10-11T22:46:02.414763+00:00,50047055,4,"So, You’d Like To Sell Your Print Issues Of The Onion?",199,22
+2026-10-11T22:46:02.414763+00:00,50046241,5,Chapter 1 of Ways of Seeing by John Berger,60,9
+2026-10-11T22:46:02.414763+00:00,50043026,6,Terence Tao: Math 2.0 [pdf],281,340
+2026-10-11T22:46:02.414763+00:00,50044715,7,How to Build Wealth as a Career Person,120,119
+2026-10-11T22:46:02.414763+00:00,50045946,8,"NYC's ""Click to Cancel"" rule is now in effect",282,135
+2026-10-11T22:46:02.414763+00:00,50047825,9,A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her,72,44
+2026-10-11T22:46:02.414763+00:00,50041540,10,IRCv3,322,277
+2026-10-11T22:46:02.414763+00:00,50021989,11,I guess I'm using WebP now?,51,49
+2026-10-11T22:46:02.414763+00:00,50042425,12,The tilde in your PATH may not be your HOME,195,135
+2026-10-11T22:46:02.414763+00:00,50040276,13,LineageOS 24.0,393,163
+2026-10-11T22:46:02.414763+00:00,50039092,14,500B tokens later: Letting AI agents decompile a first-person shooter,127,95
+2026-10-11T22:46:02.414763+00:00,50048312,15,Passkeys are a trap. Do not use them,63,18
+2026-10-11T22:46:02.414763+00:00,50045273,16,apsw: Another Python SQLite Wrapper,47,13
+2026-10-11T22:46:02.414763+00:00,50046864,17,The Unreasonable Effectiveness of Vex in NixOS,40,0
+2026-10-11T22:46:02.414763+00:00,50033601,18,"Safe SIMD in Rust, even on the inside",14,1
+2026-10-11T22:46:02.414763+00:00,50042333,19,"Show HN: BetterWispr – Free, open-source dictation for Mac",133,82
+2026-10-11T22:46:02.414763+00:00,50044272,20,How I reverse engineered a commercial spatial audio effect,82,29
+2026-10-11T22:46:02.414763+00:00,50042362,21,Valen's Memory Safety: A New Kind of Borrow Checking,126,77
+2026-10-11T22:46:02.414763+00:00,50033486,22,FlowCE: Calculus on your TI-84 Plus CE,12,3
+2026-10-11T22:46:02.414763+00:00,50044989,23,"Playgrnd – tiny tools for making weird, beautiful things",46,9
+2026-10-11T22:46:02.414763+00:00,50008566,24,"Akhetonics Photonic Computing: 1,000x Faster CPUs",52,35
+2026-10-11T22:46:02.414763+00:00,50032253,26,Shape-sensing sheet digitally tracks its own movement as it bends and twists,21,0
+2026-10-11T22:46:02.414763+00:00,50028264,27,"A Cray-1 supercomputer replica from 30 ""obsolete"" Mac Minis",55,25
+2026-10-11T22:46:02.414763+00:00,50047323,28,Fetching AMD SEV Reports (With Zig),4,0
+2026-10-11T22:46:02.414763+00:00,50042219,29,I paid people to try and follow my README,356,184
+2026-10-11T22:46:02.414763+00:00,50043689,30,"I'm sorry, but you still have to think",291,127
+2026-10-11T22:46:02.414763+00:00,50042370,31,"Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",58,80
+2026-10-11T22:46:02.414763+00:00,50040547,32,3rd Yandex Cloud Data Center Was Hit,539,649
+2026-10-11T22:46:02.414763+00:00,50041682,33,Nitter: Update Oct 10th seeking funding and legal help,410,215
+2026-10-11T22:46:02.414763+00:00,50048128,34,But how to get to that European cloud?,6,0
+2026-10-11T22:46:02.414763+00:00,50018929,35,"Plumbers, chains, and famous painters: The history of the pipe operator in R",54,3
+2026-10-11T22:46:02.414763+00:00,50047257,36,Cognitive Decline or Sanity Incline?,22,8
+2026-10-11T22:46:02.414763+00:00,50043603,37,Why Texas Is Making Data Centers Wait,30,70
+2026-10-11T22:46:02.414763+00:00,50028647,38,The RAM shortage is bringing back DDR4,263,276
+2026-10-11T22:46:02.414763+00:00,50041765,39,Using AI for just 10 minutes erodes your ability to persist at hard things,65,71
+2026-10-11T22:46:02.414763+00:00,50041667,40,"""Robot"" Is a Social Construct: Why Your Dishwasher Is Not a Robot",39,49
+2026-10-11T22:46:02.414763+00:00,50044733,41,The Corporate Happiness Treadmill and the Case for Doing Less,58,86
+2026-10-11T22:46:02.414763+00:00,50017548,42,How big is a Git commit?,80,33
+2026-10-11T22:46:02.414763+00:00,50030470,43,Rat's Register Allocator,57,3
+2026-10-11T22:46:02.414763+00:00,50047864,44,"There's No ""Going Back"": On the receding horizons of the AI transition",6,0
+2026-10-11T22:46:02.414763+00:00,49991852,45,2D Vehicles,604,115
+2026-10-11T22:46:02.414763+00:00,50015833,46,Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes,88,16
+2026-10-11T22:46:02.414763+00:00,50047557,47,OpenAI fires 3 safety researchers in dispute over AI risks,10,0
+2026-10-11T22:46:02.414763+00:00,50036864,48,A city-building game in which the city would prefer you didn't,523,179
+2026-10-11T22:46:02.414763+00:00,50041619,49,Bot traffic from Yandex,580,226
+2026-10-11T22:46:02.414763+00:00,50037949,50,Build your own decision model,451,102
