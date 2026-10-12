@@ -54525,3 +54525,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-11T22:46:02.414763+00:00,50036864,48,A city-building game in which the city would prefer you didn't,523,179
 2026-10-11T22:46:02.414763+00:00,50041619,49,Bot traffic from Yandex,580,226
 2026-10-11T22:46:02.414763+00:00,50037949,50,Build your own decision model,451,102
+2026-10-12T02:14:07.663462+00:00,50049411,1,Whatever became of holography? (2011),73,25
+2026-10-12T02:14:07.663462+00:00,50045984,2,"Total Annihilation, rebuilt for modern computers",374,157
+2026-10-12T02:14:07.663462+00:00,50048642,3,Fingerprints are the new cookies,94,36
+2026-10-12T02:14:07.663462+00:00,50047091,4,Cartographers of North Korea (2019),191,33
+2026-10-12T02:14:07.663462+00:00,50049498,5,HashiCorp archives the Boundary open source repo,39,2
+2026-10-12T02:14:07.663462+00:00,50048522,6,Recursive self-improvement through collective intelligence,67,30
+2026-10-12T02:14:07.663462+00:00,50047422,7,The gap in shared understanding of LLM capability is widening,258,423
+2026-10-12T02:14:07.663462+00:00,50049133,8,Illustration Beyond Proof,27,0
+2026-10-12T02:14:07.663462+00:00,50049508,9,Local Indexing to reduce tool calling and token usage,23,3
+2026-10-12T02:14:07.663462+00:00,50043026,10,Terence Tao: Math 2.0 [pdf],323,375
+2026-10-12T02:14:07.663462+00:00,50048312,11,Passkeys are a trap,286,160
+2026-10-12T02:14:07.663462+00:00,50041252,12,Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos,15,1
+2026-10-12T02:14:07.663462+00:00,50048638,13,Google is illegaly cutting forest to build data centers,146,19
+2026-10-12T02:14:07.663462+00:00,50047055,14,"So, You’d Like To Sell Your Print Issues Of The Onion?",256,36
+2026-10-12T02:14:07.663462+00:00,50046241,15,"Chapter 1 of ""Ways of Seeing"" by John Berger (1972)",79,13
+2026-10-12T02:14:07.663462+00:00,50039608,16,Vectorized CLZ and CTZ,7,0
+2026-10-12T02:14:07.663462+00:00,50047802,17,Tattoos you can turn on and off,3,0
+2026-10-12T02:14:07.663462+00:00,50045946,18,"NYC's ""Click to Cancel"" rule is now in effect",356,175
+2026-10-12T02:14:07.663462+00:00,50049302,19,Governments are mishandling the affordability crisis,61,57
+2026-10-12T02:14:07.663462+00:00,50021989,20,I guess I'm using WebP now?,78,85
+2026-10-12T02:14:07.663462+00:00,50049425,21,Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM,8,1
+2026-10-12T02:14:07.663462+00:00,50039092,22,500B tokens later: Letting AI agents decompile a first-person shooter,166,115
+2026-10-12T02:14:07.663462+00:00,50033601,23,"Safe SIMD in Rust, even on the inside",38,2
+2026-10-12T02:14:07.663462+00:00,50042425,24,The tilde in your PATH may not be your HOME,216,142
+2026-10-12T02:14:07.663462+00:00,50045273,25,apsw: Another Python SQLite Wrapper,69,15
+2026-10-12T02:14:07.663462+00:00,50047825,26,A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her,158,120
+2026-10-12T02:14:07.663462+00:00,50044272,27,How I reverse engineered a commercial spatial audio effect,103,34
+2026-10-12T02:14:07.663462+00:00,50049388,28,"Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",11,2
+2026-10-12T02:14:07.663462+00:00,50042333,29,"Show HN: BetterWispr – Free, open-source dictation for Mac",159,93
+2026-10-12T02:14:07.663462+00:00,50033486,30,FlowCE: Calculus on your TI-84 Plus CE,28,11
+2026-10-12T02:14:07.663462+00:00,50049596,31,Yes I Understand How LLMs Work,6,0
+2026-10-12T02:14:07.663462+00:00,50049132,32,"Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",12,0
+2026-10-12T02:14:07.663462+00:00,50042362,34,Valen's Memory Safety: A New Kind of Borrow Checking,138,80
+2026-10-12T02:14:07.663462+00:00,50049003,35,ClickHouse C – Talk to ClickHouse using its native binary protocol,7,0
+2026-10-12T02:14:07.663462+00:00,50048490,36,Shredding JSON columns gave Logfire up to 1000x faster queries,6,4
+2026-10-12T02:14:07.663462+00:00,50028264,37,"A Cray-1 supercomputer replica from 30 ""obsolete"" Mac Minis",62,28
+2026-10-12T02:14:07.663462+00:00,50041540,38,IRCv3,359,305
+2026-10-12T02:14:07.663462+00:00,50044989,39,"Playgrnd – tiny tools for making weird, beautiful things",50,11
+2026-10-12T02:14:07.663462+00:00,50046864,40,The Unreasonable Effectiveness of Vex in NixOS,45,1
+2026-10-12T02:14:07.663462+00:00,50008566,41,"Akhetonics Photonic Computing: 1,000x Faster CPUs",57,37
+2026-10-12T02:14:07.663462+00:00,50036023,42,Cbirds: A flock of birds in your terminal,18,15
+2026-10-12T02:14:07.663462+00:00,50042219,43,I paid people to try and follow my README,370,187
+2026-10-12T02:14:07.663462+00:00,50043689,44,"I'm sorry, but you still have to think",322,145
+2026-10-12T02:14:07.663462+00:00,50040547,45,3rd Yandex Cloud Data Center Was Hit,555,676
+2026-10-12T02:14:07.663462+00:00,50042370,46,"Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",61,91
+2026-10-12T02:14:07.663462+00:00,50032253,47,Shape-sensing sheet digitally tracks its own movement as it bends and twists,24,0
+2026-10-12T02:14:07.663462+00:00,50040276,48,LineageOS 24,411,168
+2026-10-12T02:14:07.663462+00:00,50039291,49,Ask HN: Do you want a router that has DD-WRT pre-installed?,44,42
+2026-10-12T02:14:07.663462+00:00,50041682,50,Nitter: Update Oct 10th seeking funding and legal help,419,223
