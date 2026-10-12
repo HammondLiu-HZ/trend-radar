@@ -54574,3 +54574,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-12T02:14:07.663462+00:00,50040276,48,LineageOS 24,411,168
 2026-10-12T02:14:07.663462+00:00,50039291,49,Ask HN: Do you want a router that has DD-WRT pre-installed?,44,42
 2026-10-12T02:14:07.663462+00:00,50041682,50,Nitter: Update Oct 10th seeking funding and legal help,419,223
+2026-10-12T10:35:41.733678+00:00,50051573,1,Type-safe HTML templating in Zig,123,56
+2026-10-12T10:35:41.733678+00:00,50048642,2,Fingerprints are the new cookies,394,196
+2026-10-12T10:35:41.733678+00:00,50052163,3,"Postgres isn't slow, your storage is",95,68
+2026-10-12T10:35:41.733678+00:00,50045984,4,"Total Annihilation, rebuilt for modern computers",526,204
+2026-10-12T10:35:41.733678+00:00,50034206,5,Calculus with Julia,137,14
+2026-10-12T10:35:41.733678+00:00,50041573,6,Running the unmodified Linux amdgpu driver on an iPad,28,11
+2026-10-12T10:35:41.733678+00:00,50049411,7,Whatever became of holography? (2011),134,65
+2026-10-12T10:35:41.733678+00:00,50047091,8,Cartographers of North Korea (2019),265,49
+2026-10-12T10:35:41.733678+00:00,50052251,9,Show HN: PS2 games statically recompiled to WebAssembly,37,8
+2026-10-12T10:35:41.733678+00:00,50043026,10,Terence Tao: Math 2.0 [pdf],410,427
+2026-10-12T10:35:41.733678+00:00,50054092,11,Ledger confirms hidden chip in crypto wallet amid $92M theft claims,8,3
+2026-10-12T10:35:41.733678+00:00,50053216,12,Fable Took My Job,142,161
+2026-10-12T10:35:41.733678+00:00,50047422,13,The gap in shared understanding of LLM capability is widening,474,689
+2026-10-12T10:35:41.733678+00:00,50052814,14,Zod 4.6.6 compromised by malware?,129,32
+2026-10-12T10:35:41.733678+00:00,50049872,15,Doory – Open-Source Canva,121,45
+2026-10-12T10:35:41.733678+00:00,50034950,16,Bag of Decisions Reranker,4,0
+2026-10-12T10:35:41.733678+00:00,50049508,17,Local Indexing to reduce tool calling and token usage,82,23
+2026-10-12T10:35:41.733678+00:00,50034001,18,No portable way to detect string-to-float conversion errors in standard C,51,43
+2026-10-12T10:35:41.733678+00:00,50051583,19,Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity',78,59
+2026-10-12T10:35:41.733678+00:00,50048312,20,Passkeys are a trap,650,378
+2026-10-12T10:35:41.733678+00:00,50049133,21,Illustration Beyond Proof,67,8
+2026-10-12T10:35:41.733678+00:00,50046241,22,"Chapter 1 of ""Ways of Seeing"" by John Berger (1972)",112,18
+2026-10-12T10:35:41.733678+00:00,50051530,23,Will Linux phones become a viable alternative to the Android/iOS duopoly?,154,172
+2026-10-12T10:35:41.733678+00:00,50041252,24,Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos,56,36
+2026-10-12T10:35:41.733678+00:00,50039291,25,Ask HN: Do you want a router that has DD-WRT pre-installed?,57,62
+2026-10-12T10:35:41.733678+00:00,50047055,26,"So, you’d like to sell your print issues of The Onion?",328,49
+2026-10-12T10:35:41.733678+00:00,50045946,27,"NYC's ""Click to Cancel"" rule is now in effect",483,232
+2026-10-12T10:35:41.733678+00:00,50048768,28,Google Data Centers around the world,60,55
+2026-10-12T10:35:41.733678+00:00,50038088,29,Every US Electrical Outlet Explained [video],25,36
+2026-10-12T10:35:41.733678+00:00,50039608,30,Vectorized CLZ and CTZ,46,5
+2026-10-12T10:35:41.733678+00:00,50021989,31,I guess I'm using WebP now?,114,126
+2026-10-12T10:35:41.733678+00:00,50053738,32,Hetzner: The New GPU Server GEX63 for Professional AI Workloads,6,0
+2026-10-12T10:35:41.733678+00:00,50051097,33,Crest – an Arc-inspired open-source browser for Mac,18,16
+2026-10-12T10:35:41.733678+00:00,50049003,34,ClickHouse C – Talk to ClickHouse using its native binary protocol,37,2
+2026-10-12T10:35:41.733678+00:00,50048522,35,Recursive self-improvement through collective intelligence,115,69
+2026-10-12T10:35:41.733678+00:00,50042362,36,Valen's Memory Safety: A New Kind of Borrow Checking,160,89
+2026-10-12T10:35:41.733678+00:00,50045273,37,apsw: Another Python SQLite Wrapper,82,19
+2026-10-12T10:35:41.733678+00:00,50032748,38,Draw by Pinging IPv6 Addresses,11,5
+2026-10-12T10:35:41.733678+00:00,50041540,39,IRCv3,385,314
+2026-10-12T10:35:41.733678+00:00,50044272,40,How I reverse engineered a commercial spatial audio effect,119,37
+2026-10-12T10:35:41.733678+00:00,50028264,41,"A Cray-1 supercomputer replica from 30 ""obsolete"" Mac Minis",73,39
+2026-10-12T10:35:41.733678+00:00,50033601,42,"Safe SIMD in Rust, even on the inside",58,3
+2026-10-12T10:35:41.733678+00:00,50048490,43,Shredding JSON columns gave Logfire up to 1000x faster queries,19,18
+2026-10-12T10:35:41.733678+00:00,50042370,44,"Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",78,101
+2026-10-12T10:35:41.733678+00:00,50040547,45,3rd Yandex Cloud Data Center Was Hit,591,720
+2026-10-12T10:35:41.733678+00:00,50049498,47,HashiCorp archives the Boundary open source repo,76,14
+2026-10-12T10:35:41.733678+00:00,50033486,48,FlowCE: Calculus on your TI-84 Plus CE,45,22
+2026-10-12T10:35:41.733678+00:00,50008566,49,"Akhetonics Photonic Computing: 1,000x Faster CPUs",64,38
+2026-10-12T10:35:41.733678+00:00,50042219,50,I paid people to try and follow my README,394,195
