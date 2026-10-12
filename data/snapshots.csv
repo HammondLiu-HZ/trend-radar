@@ -54623,3 +54623,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-12T10:35:41.733678+00:00,50033486,48,FlowCE: Calculus on your TI-84 Plus CE,45,22
 2026-10-12T10:35:41.733678+00:00,50008566,49,"Akhetonics Photonic Computing: 1,000x Faster CPUs",64,38
 2026-10-12T10:35:41.733678+00:00,50042219,50,I paid people to try and follow my README,394,195
+2026-10-12T20:13:02.941495+00:00,50060694,1,"Codex CLI installs a persistent, self-updating background daemon by default",233,139
+2026-10-12T20:13:02.941495+00:00,50058507,2,GLM-Legal,301,169
+2026-10-12T20:13:02.941495+00:00,50058528,3,A Modern Web App in C,230,91
+2026-10-12T20:13:02.941495+00:00,50061603,4,AI models may be capable of self-replicating without access to a datacenter,40,30
+2026-10-12T20:13:02.941495+00:00,50059523,5,"AI coding agents generate more code, but not more software",181,141
+2026-10-12T20:13:02.941495+00:00,50059096,6,Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents,59,43
+2026-10-12T20:13:02.941495+00:00,50055304,7,Hackers activate automatic defrosting accross European supermarket fridges,217,377
+2026-10-12T20:13:02.941495+00:00,50055593,8,Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver,163,48
+2026-10-12T20:13:02.941495+00:00,50055220,9,Citroen revives the 2CV for an electric age,195,221
+2026-10-12T20:13:02.941495+00:00,50059115,10,Muse Wonder,380,179
+2026-10-12T20:13:02.941495+00:00,50061278,11,Introducing OpenFatigue,72,14
+2026-10-12T20:13:02.941495+00:00,50036287,12,The Making Of Super Mario 64 – full Giles Goddard interview (2001),186,72
+2026-10-12T20:13:02.941495+00:00,50057668,13,"Kevin Kelly's 2016 AI Predictions, 10 Years Later",78,15
+2026-10-12T20:13:02.941495+00:00,50059204,14,Thinking will become a hobby,126,146
+2026-10-12T20:13:02.941495+00:00,50060674,15,"Publishers Killed the Paperback, Then Blamed Readers",46,26
+2026-10-12T20:13:02.941495+00:00,50037711,16,Secret of Orange Cats Revealed After 60-Year Search,186,161
+2026-10-12T20:13:02.941495+00:00,50061859,17,Writing a Demoscene Intro for the ZX Spectrum,3,0
+2026-10-12T20:13:02.941495+00:00,50052251,18,Show HN: PS2 games statically recompiled to WebAssembly,232,121
+2026-10-12T20:13:02.941495+00:00,50048642,19,Fingerprints are the new cookies,675,324
+2026-10-12T20:13:02.941495+00:00,50060296,20,My Reddit AMA on the Law of Web Scraping,36,5
+2026-10-12T20:13:02.941495+00:00,50059446,21,Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon's Producer,85,45
+2026-10-12T20:13:02.941495+00:00,50047422,22,The gap in shared understanding of LLM capability is widening,660,960
+2026-10-12T20:13:02.941495+00:00,50057551,23,Fridges in French supermarkets hit by cyber attack,132,84
+2026-10-12T20:13:02.941495+00:00,50051573,24,Type-safe HTML templating in Zig,216,78
+2026-10-12T20:13:02.941495+00:00,50052638,25,I Found a $90k Remote Code Execution Vulnerability in Google,141,65
+2026-10-12T20:13:02.941495+00:00,50060269,26,'AI' Is Not a Tool by Rich Hickey,39,14
+2026-10-12T20:13:02.941495+00:00,50045984,27,"Total Annihilation, rebuilt for modern computers",650,247
+2026-10-12T20:13:02.941495+00:00,50034206,28,Calculus with Julia,242,46
+2026-10-12T20:13:02.941495+00:00,50058850,29,"Reverse engineer anything with agents, from app behavior down to native binaries",46,10
+2026-10-12T20:13:02.941495+00:00,50055409,30,(Post-Quantum) Cryptographic Right Answers,60,9
+2026-10-12T20:13:02.941495+00:00,50060387,31,French supermarkets suffer refrigerator shutdown after unprecedented cyberattack,28,14
+2026-10-12T20:13:02.941495+00:00,50055375,32,"Incident with Actions, Pull Requests and Issues",147,131
+2026-10-12T20:13:02.941495+00:00,50043026,33,Terence Tao: Math 2.0 [pdf],503,500
+2026-10-12T20:13:02.941495+00:00,50041573,34,Running the unmodified Linux amdgpu driver on an iPad,80,19
+2026-10-12T20:13:02.941495+00:00,50047091,35,Cartographers of North Korea (2019),310,63
+2026-10-12T20:13:02.941495+00:00,50034950,36,Bag of Decisions Reranker,65,11
+2026-10-12T20:13:02.941495+00:00,50042936,37,Choreographic Programming in Rust,50,37
+2026-10-12T20:13:02.941495+00:00,50057030,38,An Unmade Film Shaped Hayao Miyazaki,53,7
+2026-10-12T20:13:02.941495+00:00,50049872,39,Doory – Open-Source Canva,194,70
+2026-10-12T20:13:02.941495+00:00,50039291,40,Ask HN: Do you want a router that has DD-WRT pre-installed?,125,131
+2026-10-12T20:13:02.941495+00:00,50054751,41,QGIS: No AI contributions permitted,344,380
+2026-10-12T20:13:02.941495+00:00,50048312,42,Passkeys are a trap,975,514
+2026-10-12T20:13:02.941495+00:00,50062076,43,"""Today we're laying off a large part of the Airtable team """,9,1
+2026-10-12T20:13:02.941495+00:00,50059972,44,"Empty shelves likely at Nederlands Albert Heijn due to ""Cyber incident""",16,0
+2026-10-12T20:13:02.941495+00:00,50049508,45,Local Indexing to reduce tool calling and token usage,116,47
+2026-10-12T20:13:02.941495+00:00,50054474,46,Living in the Weimar Era of Ruby,81,51
+2026-10-12T20:13:02.941495+00:00,50046241,47,"Chapter 1 of ""Ways of Seeing"" by John Berger (1972)",138,45
+2026-10-12T20:13:02.941495+00:00,50049133,48,Illustration Beyond Proof,96,16
+2026-10-12T20:13:02.941495+00:00,50061298,49,Kamino: GPU-Based Simulation of Rigid Multi-Body Physics with Kinematic Loops [video],3,0
