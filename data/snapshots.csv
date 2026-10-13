@@ -54722,3 +54722,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-13T02:30:40.899956+00:00,50039291,48,Ask HN: Do you want a router that has DD-WRT pre-installed?,134,138
 2026-10-13T02:30:40.899956+00:00,50061278,49,OpenFatigue™ – Open is the new closed,202,45
 2026-10-13T02:30:40.899956+00:00,50047422,50,The gap in shared understanding of LLM capability is widening,680,999
+2026-10-13T10:23:43.981038+00:00,50041866,1,The baffling intelligence of a single cell (2024),289,61
+2026-10-13T10:23:43.981038+00:00,50067414,2,Hittite royal archive found in Turkey,34,1
+2026-10-13T10:23:43.981038+00:00,50058507,3,GLM-Legal,569,320
+2026-10-13T10:23:43.981038+00:00,50063365,4,Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X,217,110
+2026-10-13T10:23:43.981038+00:00,50055304,5,Hackers activate automatic defrosting in supermarket fridges across Europe,708,832
+2026-10-13T10:23:43.981038+00:00,50058528,6,A Modern Web App in C,569,239
+2026-10-13T10:23:43.981038+00:00,50068437,7,DishwasherBench – Can Frontier Models Stack a Dishwasher?,49,23
+2026-10-13T10:23:43.981038+00:00,50063138,8,Who is vfmaddrnd231pd?,209,20
+2026-10-13T10:23:43.981038+00:00,50063717,9,Janas: Run LLMs larger than RAM by streaming experts from SSD,144,49
+2026-10-13T10:23:43.981038+00:00,50068443,10,Document Review with Unsiloed and TypeSafe Jev,9,2
+2026-10-13T10:23:43.981038+00:00,50061791,11,Making big downloads resumable in Firefox,212,97
+2026-10-13T10:23:43.981038+00:00,50055593,12,Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver,352,92
+2026-10-13T10:23:43.981038+00:00,50055220,13,Citroen revives the 2CV for an electric age,342,385
+2026-10-13T10:23:43.981038+00:00,50063427,14,AI is a tool and using it well takes skill,423,340
+2026-10-13T10:23:43.981038+00:00,50059096,15,Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents,132,98
+2026-10-13T10:23:43.981038+00:00,50065932,16,A look at the math that OpenAI claims computes faster Fourier transforms,139,100
+2026-10-13T10:23:43.981038+00:00,50047664,17,Auto Research: Integer multiplication below n log n,62,29
+2026-10-13T10:23:43.981038+00:00,50061859,18,Writing a Demoscene Intro for the ZX Spectrum,134,26
+2026-10-13T10:23:43.981038+00:00,50065692,19,AI models can provably hide arbitrary capabilities,211,108
+2026-10-13T10:23:43.981038+00:00,50056822,20,Solar panels that plug into your wall,189,198
+2026-10-13T10:23:43.981038+00:00,50068508,21,Crypto thieves sell hardware wallets with secret eSIM,16,10
+2026-10-13T10:23:43.981038+00:00,50064840,22,Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support),64,13
+2026-10-13T10:23:43.981038+00:00,50064438,23,Show HN: An experimental pattern-first DAW that supports MCP,59,28
+2026-10-13T10:23:43.981038+00:00,50069329,24,CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades,3,1
+2026-10-13T10:23:43.981038+00:00,50069318,25,AWS Lambda Web Functions,4,2
+2026-10-13T10:23:43.981038+00:00,50057668,26,"Kevin Kelly's 2016 AI Predictions, 10 Years Later",191,73
+2026-10-13T10:23:43.981038+00:00,50036287,27,The Making Of Super Mario 64 – full Giles Goddard interview (2001),252,97
+2026-10-13T10:23:43.981038+00:00,50063417,28,Phreak.ing – Internet Phone Switch,132,33
+2026-10-13T10:23:43.981038+00:00,50068946,29,Were Software Engineers blue-collar workers all along?,67,110
+2026-10-13T10:23:43.981038+00:00,50060694,30,"Codex CLI installs a persistent, self-updating background daemon by default",566,274
+2026-10-13T10:23:43.981038+00:00,50059115,31,Muse Wonder,637,341
+2026-10-13T10:23:43.981038+00:00,50049588,32,Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p,105,19
+2026-10-13T10:23:43.981038+00:00,50052638,33,I Found a $90k Remote Code Execution Vulnerability in Google,212,104
+2026-10-13T10:23:43.981038+00:00,50068666,34,Teach My Little Sister How to Drive,7,2
+2026-10-13T10:23:43.981038+00:00,50043026,35,Terence Tao: Math 2.0 [pdf],538,535
+2026-10-13T10:23:43.981038+00:00,50059204,36,Thinking will become a hobby,293,408
+2026-10-13T10:23:43.981038+00:00,50068099,37,10 Years of the SRE book: Announcing the second edition,10,2
+2026-10-13T10:23:43.981038+00:00,50064536,38,Blood cells from 80-year-old donor become stem cells with molecular age under 20,160,106
+2026-10-13T10:23:43.981038+00:00,50061497,39,RimWorld 1.7 moves from Unity to Ludeon's in-house Waylith engine,62,19
+2026-10-13T10:23:43.981038+00:00,50034001,40,No portable way to detect string-to-float conversion errors in standard C,74,97
+2026-10-13T10:23:43.981038+00:00,50065713,41,"The Dock on Mac, from OS 10 to macOS 27",84,48
+2026-10-13T10:23:43.981038+00:00,50054751,42,QGIS enacts moratorium on AI contributions,375,402
+2026-10-13T10:23:43.981038+00:00,50048642,43,Fingerprints are the new cookies,722,356
+2026-10-13T10:23:43.981038+00:00,50037711,44,Secret of Orange Cats Revealed After 60-Year Search,265,182
+2026-10-13T10:23:43.981038+00:00,50060269,45,'AI' Is Not a Tool by Rich Hickey,277,144
+2026-10-13T10:23:43.981038+00:00,50055409,46,(Post-Quantum) Cryptographic Right Answers,94,31
+2026-10-13T10:23:43.981038+00:00,50059523,47,"AI coding agents generate more code, but not more software",335,285
+2026-10-13T10:23:43.981038+00:00,50067098,48,Vi Hart's Big Navier-Stokes Post,37,21
+2026-10-13T10:23:43.981038+00:00,50039291,49,Ask HN: Do you want a router that has DD-WRT pre-installed?,142,142
+2026-10-13T10:23:43.981038+00:00,50041573,50,Running the unmodified Linux amdgpu driver on an iPad,95,19
