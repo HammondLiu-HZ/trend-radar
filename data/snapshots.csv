@@ -54672,3 +54672,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-12T20:13:02.941495+00:00,50046241,47,"Chapter 1 of ""Ways of Seeing"" by John Berger (1972)",138,45
 2026-10-12T20:13:02.941495+00:00,50049133,48,Illustration Beyond Proof,96,16
 2026-10-12T20:13:02.941495+00:00,50061298,49,Kamino: GPU-Based Simulation of Rigid Multi-Body Physics with Kinematic Loops [video],3,0
+2026-10-13T02:30:40.899956+00:00,50058507,1,GLM-Legal,447,250
+2026-10-13T02:30:40.899956+00:00,50041866,2,The baffling intelligence of a single cell (2024),58,1
+2026-10-13T02:30:40.899956+00:00,50063138,3,Who is vfmaddrnd231pd?,125,11
+2026-10-13T02:30:40.899956+00:00,50058528,4,A Modern Web App in C,409,167
+2026-10-13T02:30:40.899956+00:00,50063365,5,Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X,81,33
+2026-10-13T02:30:40.899956+00:00,50055304,6,Hackers activate automatic defrosting in supermarket fridges across Europe,464,672
+2026-10-13T02:30:40.899956+00:00,50061791,7,Making big downloads resumable in Firefox,102,37
+2026-10-13T02:30:40.899956+00:00,50063717,8,Janas: Run LLMs larger than RAM by streaming experts from SSD,42,19
+2026-10-13T02:30:40.899956+00:00,50047664,9,Auto Research: Integer multiplication below n log n,19,2
+2026-10-13T02:30:40.899956+00:00,50059096,10,Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents,108,71
+2026-10-13T02:30:40.899956+00:00,50055593,11,Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver,270,69
+2026-10-13T02:30:40.899956+00:00,50063417,12,Phreak.ing – Internet Phone Switch,80,25
+2026-10-13T02:30:40.899956+00:00,50061859,13,Writing a Demoscene Intro for the ZX Spectrum,84,7
+2026-10-13T02:30:40.899956+00:00,50064536,14,Blood cells from 80-year-old donor become stem cells with molecular age under 20,102,69
+2026-10-13T02:30:40.899956+00:00,50055220,15,Citroen revives the 2CV for an electric age,269,322
+2026-10-13T02:30:40.899956+00:00,50060694,16,"Codex CLI installs a persistent, self-updating background daemon by default",478,242
+2026-10-13T02:30:40.899956+00:00,50037711,17,Secret of Orange Cats Revealed After 60-Year Search,235,176
+2026-10-13T02:30:40.899956+00:00,50056822,18,Solar panels that plug into your wall,117,117
+2026-10-13T02:30:40.899956+00:00,50036287,19,The Making Of Super Mario 64 – full Giles Goddard interview (2001),229,88
+2026-10-13T02:30:40.899956+00:00,50063042,20,Show HN: Brickbrag – A multiplayer brick-building world in the browser,35,10
+2026-10-13T02:30:40.899956+00:00,50057668,21,"Kevin Kelly's 2016 AI Predictions, 10 Years Later",146,44
+2026-10-13T02:30:40.899956+00:00,50063427,22,AI is a tool and using it well takes skill,246,215
+2026-10-13T02:30:40.899956+00:00,50059115,23,Muse Wonder,534,298
+2026-10-13T02:30:40.899956+00:00,50040317,24,Neuroscience can make decluttering easier,12,5
+2026-10-13T02:30:40.899956+00:00,50052251,25,Show HN: PS2 games statically recompiled to WebAssembly,275,145
+2026-10-13T02:30:40.899956+00:00,50064318,26,I turned my unused Kindle into a photo frame with GPT-6 Astra,123,79
+2026-10-13T02:30:40.899956+00:00,50064438,27,Show HN: An experimental pattern-first DAW that supports MCP,18,8
+2026-10-13T02:30:40.899956+00:00,50063831,28,RJ Mitte has died,160,50
+2026-10-13T02:30:40.899956+00:00,50059204,29,Thinking will become a hobby,236,316
+2026-10-13T02:30:40.899956+00:00,50049588,30,Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p,71,12
+2026-10-13T02:30:40.899956+00:00,50060269,31,'AI' Is Not a Tool by Rich Hickey,231,113
+2026-10-13T02:30:40.899956+00:00,50051573,32,Type-safe HTML templating in Zig,238,85
+2026-10-13T02:30:40.899956+00:00,50060674,33,"Publishers Killed the Paperback, Then Blamed Readers",109,70
+2026-10-13T02:30:40.899956+00:00,50034001,34,No portable way to detect string-to-float conversion errors in standard C,67,84
+2026-10-13T02:30:40.899956+00:00,50052638,35,I Found a $90k Remote Code Execution Vulnerability in Google,185,95
+2026-10-13T02:30:40.899956+00:00,50054751,36,QGIS enacts moratorium on AI contributions,365,398
+2026-10-13T02:30:40.899956+00:00,50059523,37,"AI coding agents generate more code, but not more software",313,275
+2026-10-13T02:30:40.899956+00:00,50043026,38,Terence Tao: Math 2.0 [pdf],525,526
+2026-10-13T02:30:40.899956+00:00,50055409,39,(Post-Quantum) Cryptographic Right Answers,86,29
+2026-10-13T02:30:40.899956+00:00,50063029,40,Picothermal – WebUSB Thermal Camera Using RP2040 and Flir Lepton,6,0
+2026-10-13T02:30:40.899956+00:00,50060296,41,My Reddit AMA on the Law of Web Scraping,82,19
+2026-10-13T02:30:40.899956+00:00,50048642,42,Fingerprints are the new cookies,704,344
+2026-10-13T02:30:40.899956+00:00,50061497,43,RimWorld 1.7 moves from Unity to Ludeon's in-house Waylith engine,16,1
+2026-10-13T02:30:40.899956+00:00,50041573,44,Running the unmodified Linux amdgpu driver on an iPad,90,19
+2026-10-13T02:30:40.899956+00:00,50063756,45,Patching Zig's Std,6,1
+2026-10-13T02:30:40.899956+00:00,50046745,46,America's Longest Highway Tunnel (2025),8,9
+2026-10-13T02:30:40.899956+00:00,50049872,47,Doory – Open-Source Canva,210,73
+2026-10-13T02:30:40.899956+00:00,50039291,48,Ask HN: Do you want a router that has DD-WRT pre-installed?,134,138
+2026-10-13T02:30:40.899956+00:00,50061278,49,OpenFatigue™ – Open is the new closed,202,45
+2026-10-13T02:30:40.899956+00:00,50047422,50,The gap in shared understanding of LLM capability is widening,680,999
