@@ -55017,3 +55017,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-14T15:46:42.316394+00:00,50078141,48,OpenAI engineer arrested in bugging of executive conference room,621,518
 2026-10-14T15:46:42.316394+00:00,50082021,49,"Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",87,69
 2026-10-14T15:46:42.316394+00:00,50070302,50,Firefox Enterprise,731,312
+2026-10-14T20:07:30.413187+00:00,50091788,1,AI agents aren't 'going rogue.' Frontier labs are skipping security basics,654,268
+2026-10-14T20:07:30.413187+00:00,50090369,2,Better HTTP/1 connection reuse in Go 1.27,126,22
+2026-10-14T20:07:30.413187+00:00,50092730,3,Fire at Starlink site in Bulgaria after suspected sabotage in Poland,140,80
+2026-10-14T20:07:30.413187+00:00,50084240,4,"Iosevka is an open-source, sans-serif and slab-serif monospace font",632,265
+2026-10-14T20:07:30.413187+00:00,50091794,5,Neckbeard – a DevOps/platform/SRE plugin for your agent,35,17
+2026-10-14T20:07:30.413187+00:00,50054465,6,Phloem: Git history grown like a slime mold,30,14
+2026-10-14T20:07:30.413187+00:00,50089229,7,Submarine cable resilience,105,31
+2026-10-14T20:07:30.413187+00:00,50092664,8,Banks are now trying to offload the AI data center debt they just underwrote,110,72
+2026-10-14T20:07:30.413187+00:00,50092470,9,"Show HN: Petal, open-source CoScreen/ScreenHero finally free",38,6
+2026-10-14T20:07:30.413187+00:00,50093612,10,Fancy Curl Sites,5,2
+2026-10-14T20:07:30.413187+00:00,50065572,11,LittleJS is 2D and 3D now,61,12
+2026-10-14T20:07:30.413187+00:00,50093180,12,Suicide rates highest ever among middle-aged men,51,12
+2026-10-14T20:07:30.413187+00:00,50090349,13,Google is silently linking your phone number across all signed-in accounts,209,49
+2026-10-14T20:07:30.413187+00:00,50086165,14,Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW,168,46
+2026-10-14T20:07:30.413187+00:00,50084757,15,Amazon pushes up prices across the Internet,635,544
+2026-10-14T20:07:30.413187+00:00,50090932,16,Show HN: I wrote an email app that accepts only one sender per inbox,36,29
+2026-10-14T20:07:30.413187+00:00,50090246,17,ICE Planning $100M 'Nightmare' Domestic Spy Program,398,185
+2026-10-14T20:07:30.413187+00:00,50091875,18,America Didn't Lose Its Rare Earth Industry. It Sold It,58,24
+2026-10-14T20:07:30.413187+00:00,50088713,19,"Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",33,10
+2026-10-14T20:07:30.413187+00:00,50088643,20,Running Windows desktop tests from Linux with disposable VMs,66,26
+2026-10-14T20:07:30.413187+00:00,50043948,21,Show HN: Timur's Chess – A 14th century chess variant with giraffes,3,0
+2026-10-14T20:07:30.413187+00:00,50088447,22,Strands Decider: Why Not an Encoder?,29,1
+2026-10-14T20:07:30.413187+00:00,50055632,23,The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024),56,12
+2026-10-14T20:07:30.413187+00:00,50086363,24,Nvidia's first GPU: GeForce 256,51,34
+2026-10-14T20:07:30.413187+00:00,50064673,25,The Origin Story of Kid Pix,168,36
+2026-10-14T20:07:30.413187+00:00,50090662,26,"Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",94,64
+2026-10-14T20:07:30.413187+00:00,50087337,27,Scientists Are Teaching Birds to Sing Lost Songs,35,3
+2026-10-14T20:07:30.413187+00:00,50085323,28,TV4 postpones show after AI agent erases edited material,127,71
+2026-10-14T20:07:30.413187+00:00,50050553,29,Do dentists know what they're doing?,129,108
+2026-10-14T20:07:30.413187+00:00,50085022,30,"Show HN: A guided 3D Leonardo da Vinci museum, built in code",85,34
+2026-10-14T20:07:30.413187+00:00,50073879,31,Gemini 4 Argon,1426,1018
+2026-10-14T20:07:30.413187+00:00,50062575,32,The Genealogy of Eliza,26,2
+2026-10-14T20:07:30.413187+00:00,50077096,33,The Four Colour Theorem: The first time machines mogged mathematicians,78,46
+2026-10-14T20:07:30.413187+00:00,50085306,34,Pulsar at ESUG 2026 (new Smalltalk IDE),73,16
+2026-10-14T20:07:30.413187+00:00,50071466,35,"Same Job, Two Engines: InnoDB and Iceberg Internals",56,7
+2026-10-14T20:07:30.413187+00:00,50083130,36,AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs,466,231
+2026-10-14T20:07:30.413187+00:00,50079865,37,Recreational Programming,296,145
+2026-10-14T20:07:30.413187+00:00,50091914,38,The Death of Amazon's Writing Culture,18,2
+2026-10-14T20:07:30.413187+00:00,50091076,40,Oldest shipwreck found off coast of Turkey,6,0
+2026-10-14T20:07:30.413187+00:00,50090443,41,Why do LLM pelicans look like this?,141,124
+2026-10-14T20:07:30.413187+00:00,50088430,42,ASML's strong orders ease fears AI spending boom is running out of steam,159,160
+2026-10-14T20:07:30.413187+00:00,50093913,43,Casey Newton and John Gruber Slink Back to X,4,0
+2026-10-14T20:07:30.413187+00:00,50091684,44,OpenAI claims employee sent secret device information to Apple,23,8
+2026-10-14T20:07:30.413187+00:00,50093857,45,Bank of America hired 1000 contractors to patch software flaws exposed by Mythos,4,1
+2026-10-14T20:07:30.413187+00:00,50054092,46,Ledger confirms spy chip implant behind wallet crypto thefts,776,491
+2026-10-14T20:07:30.413187+00:00,50088044,47,GitHub Actions has added lock files,14,1
+2026-10-14T20:07:30.413187+00:00,50063427,48,AI is a tool and using it well takes skill,752,582
+2026-10-14T20:07:30.413187+00:00,50090842,49,Linus Torvalds's first LLM-assisted patch series,108,79
+2026-10-14T20:07:30.413187+00:00,50082470,50,Felix Rieseberg Homepage,268,101
