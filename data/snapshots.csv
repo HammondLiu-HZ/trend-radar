@@ -55066,3 +55066,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-14T20:07:30.413187+00:00,50063427,48,AI is a tool and using it well takes skill,752,582
 2026-10-14T20:07:30.413187+00:00,50090842,49,Linus Torvalds's first LLM-assisted patch series,108,79
 2026-10-14T20:07:30.413187+00:00,50082470,50,Felix Rieseberg Homepage,268,101
+2026-10-14T23:49:55.839319+00:00,50093568,1,Things to know when you get cancer – 2026 Edition,622,163
+2026-10-14T23:49:55.839319+00:00,50094994,2,OpenCode 2.0,214,82
+2026-10-14T23:49:55.839319+00:00,50095353,3,We’re releasing Jev 1.14.0 along with experimental features for dreamers,134,52
+2026-10-14T23:49:55.839319+00:00,50096142,4,Tiny Little Office,69,10
+2026-10-14T23:49:55.839319+00:00,50088935,5,Passkeys are not a trap,426,602
+2026-10-14T23:49:55.839319+00:00,50050553,6,Do dentists know what they're doing?,337,261
+2026-10-14T23:49:55.839319+00:00,50090369,7,Better HTTP/1 connection reuse in Go 1.27,184,30
+2026-10-14T23:49:55.839319+00:00,50091788,8,Containment and monitoring failures are to blame for AI hacking reports: experts,813,437
+2026-10-14T23:49:55.839319+00:00,50089921,9,Americans' social activity has steeply declined in the past 30 years,158,221
+2026-10-14T23:49:55.839319+00:00,50093612,10,Fancy Curl Sites,63,12
+2026-10-14T23:49:55.839319+00:00,50084240,11,"Iosevka is an open-source, sans-serif and slab-serif monospace font",691,286
+2026-10-14T23:49:55.839319+00:00,50092470,12,"Show HN: Petal, open-source CoScreen/ScreenHero finally free",102,25
+2026-10-14T23:49:55.839319+00:00,50094694,13,Anthropic's Scion is heavily inspired by Mononoke,210,93
+2026-10-14T23:49:55.839319+00:00,50092730,14,Fire at Starlink site in Bulgaria after suspected sabotage in Poland,262,192
+2026-10-14T23:49:55.839319+00:00,50054465,15,Phloem: Git history grown like a slime mold,74,19
+2026-10-14T23:49:55.839319+00:00,50092664,16,Banks are now trying to offload the AI data center debt they just underwrote,248,197
+2026-10-14T23:49:55.839319+00:00,50094673,17,"Yandex outage: data shows that instead of going dark, malicious bots moved",189,59
+2026-10-14T23:49:55.839319+00:00,50089229,18,Submarine cable resilience,121,43
+2026-10-14T23:49:55.839319+00:00,50092423,19,Virtual Oxide Labs: Emulating a Full Oxide Rack,53,4
+2026-10-14T23:49:55.839319+00:00,50090799,20,Has AI tells,63,69
+2026-10-14T23:49:55.839319+00:00,50093180,21,Suicide rates highest ever among middle-aged men,212,268
+2026-10-14T23:49:55.839319+00:00,50090349,22,Google is silently linking your phone number across all signed-in accounts,345,89
+2026-10-14T23:49:55.839319+00:00,50065572,23,LittleJS is 2D and 3D now,88,34
+2026-10-14T23:49:55.839319+00:00,50086165,24,Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW,184,47
+2026-10-14T23:49:55.839319+00:00,50090932,25,Show HN: I wrote an email app that accepts only one sender per inbox,70,57
+2026-10-14T23:49:55.839319+00:00,50084757,26,How Amazon pushes up prices all across the Internet,692,585
+2026-10-14T23:49:55.839319+00:00,50048193,27,How I manage persistent Claude Code loops: Spool,7,2
+2026-10-14T23:49:55.839319+00:00,50070438,28,Webster’s Dictionary: The pleasure of finding things out (2014),10,3
+2026-10-14T23:49:55.839319+00:00,50091875,29,"America didn't lose its rare earth industry, it sold it",140,68
+2026-10-14T23:49:55.839319+00:00,50083028,30,Why is every rationalist blog post way too long?,159,125
+2026-10-14T23:49:55.839319+00:00,50078757,31,Marshall Islands Stick Chart,38,4
+2026-10-14T23:49:55.839319+00:00,50064673,32,The Origin Story of Kid Pix,182,43
+2026-10-14T23:49:55.839319+00:00,50095034,33,Sally Rooney can no longer sell books in UK due to Palestine Action support,38,7
+2026-10-14T23:49:55.839319+00:00,50088713,34,"Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",40,11
+2026-10-14T23:49:55.839319+00:00,50055632,35,The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024),64,19
+2026-10-14T23:49:55.839319+00:00,50091794,36,Neckbeard – A DevOps/platform/SRE plugin for your agent,58,49
+2026-10-14T23:49:55.839319+00:00,50088643,37,Running Windows desktop tests from Linux with disposable VMs,79,28
+2026-10-14T23:49:55.839319+00:00,50096477,38,Anthropic revenue jumps to $16.8B in third quarter,11,5
+2026-10-14T23:49:55.839319+00:00,50085323,39,TV4 postpones show after AI agent erases edited material,139,78
+2026-10-14T23:49:55.839319+00:00,50086363,40,Nvidia's first GPU: GeForce 256,65,40
+2026-10-14T23:49:55.839319+00:00,50096825,41,ICE Wants to Use AI to Monitor Detainee Calls and Movements,9,0
+2026-10-14T23:49:55.839319+00:00,50087337,42,Scientists are teaching birds to sing lost songs,44,7
+2026-10-14T23:49:55.839319+00:00,50088447,43,Strands Decider: Why Not an Encoder?,35,1
+2026-10-14T23:49:55.839319+00:00,50088166,44,Gaming on Linux without cheating,57,55
+2026-10-14T23:49:55.839319+00:00,50073879,45,Gemini 4 Argon,1432,1026
+2026-10-14T23:49:55.839319+00:00,50086313,46,Smart people don't think others are stupid (2012),88,121
+2026-10-14T23:49:55.839319+00:00,50096849,47,"GLP-1 Drugs Cut Schizophrenia Hospital Visits, Study Finds",4,1
+2026-10-14T23:49:55.839319+00:00,50090443,48,Why do LLM pelicans look like this?,150,131
+2026-10-14T23:49:55.839319+00:00,50085022,49,"Show HN: A guided 3D Leonardo da Vinci museum, built in code",85,34
+2026-10-14T23:49:55.839319+00:00,50080007,50,Grace Hopper Celebration Cancelled,238,240
