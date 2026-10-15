@@ -55216,3 +55216,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-15T09:44:26.887148+00:00,50094673,48,"Yandex outage: data shows that instead of going dark, malicious bots moved",259,90
 2026-10-15T09:44:26.887148+00:00,50097858,49,Why are chip companies allergic to open source?,10,1
 2026-10-15T09:44:26.887148+00:00,50097797,50,Making all divisions slower to fix a bug in 0.000000000000000000542% of cases,9,0
+2026-10-15T14:49:16.887863+00:00,50102923,1,"Libreboot 26.10 ""Ominous Olive"" released with UEFI, Chromebook support",109,43
+2026-10-15T14:49:16.887863+00:00,50103000,2,Israeli firm's digital ads enabling installation of 'zero-click' spyware,258,99
+2026-10-15T14:49:16.887863+00:00,50103338,3,Wayland desktop for Linux with skeuomorphic design,28,5
+2026-10-15T14:49:16.887863+00:00,50103164,4,C++26 Contracts: Introduction to Preconditions and Postconditions,36,26
+2026-10-15T14:49:16.887863+00:00,50093568,5,Things to know when you get cancer,1693,405
+2026-10-15T14:49:16.887863+00:00,50070625,6,"Wanted to download an ISO, ended up writing a kernel exploit",233,124
+2026-10-15T14:49:16.887863+00:00,50102247,7,Show HN: Unfenced – Land for sale that borders public land,111,66
+2026-10-15T14:49:16.887863+00:00,50058531,8,The Haunted Toys R Us,30,11
+2026-10-15T14:49:16.887863+00:00,50101813,9,Zero-Click Spyware Delivered via Targeted Ads: AdFection,40,3
+2026-10-15T14:49:16.887863+00:00,50104310,10,Prompt injection in HTTP headers: what 217M web responses show,4,0
+2026-10-15T14:49:16.887863+00:00,50094994,11,OpenCode 2.0,759,320
+2026-10-15T14:49:16.887863+00:00,50096142,12,Tiny Little Office,565,136
+2026-10-15T14:49:16.887863+00:00,50079701,13,The First Social Network: In rural Argentina residents send messages w AM radio,85,34
+2026-10-15T14:49:16.887863+00:00,50050553,14,Do dentists know what they're doing?,852,616
+2026-10-15T14:49:16.887863+00:00,50064470,15,Show HN: Indigene – Native plants for where you stand,80,12
+2026-10-15T14:49:16.887863+00:00,50103263,16,GridSnap – an open-source Divvy-style window snapper for macOS,7,3
+2026-10-15T14:49:16.887863+00:00,50104299,17,Using AI to reverse engineer hardware,10,2
+2026-10-15T14:49:16.887863+00:00,50053384,18,Catch a Bird – I made it for my own sanity,304,86
+2026-10-15T14:49:16.887863+00:00,50103630,19,I know why Mathematicians weep,67,78
+2026-10-15T14:49:16.887863+00:00,50089921,20,Americans' social activity has steeply declined in the past 30 years,501,464
+2026-10-15T14:49:16.887863+00:00,50097369,21,LFM2.5-24B-A2B: Built for fast on-device agents,259,66
+2026-10-15T14:49:16.887863+00:00,50072456,22,Show HN: A 3D Configurator for Macropads,4,2
+2026-10-15T14:49:16.887863+00:00,50070661,23,It took me nine years to hack my Xbox 360,141,36
+2026-10-15T14:49:16.887863+00:00,50071068,24,Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster,27,3
+2026-10-15T14:49:16.887863+00:00,50060547,25,Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction,72,29
+2026-10-15T14:49:16.887863+00:00,50065237,26,Stopping sand from destroying a hydropower turbine [video],23,3
+2026-10-15T14:49:16.887863+00:00,50077709,27,"Donaldson Futuro House in Idyllwild, California, USA",75,25
+2026-10-15T14:49:16.887863+00:00,50096300,28,Show HN: Ito – Build Terminal UIs in Lua,54,10
+2026-10-15T14:49:16.887863+00:00,50099136,29,"Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",73,30
+2026-10-15T14:49:16.887863+00:00,50090369,30,Better HTTP/1 connection reuse in Go 1.27,284,46
+2026-10-15T14:49:16.887863+00:00,50060923,31,"David Rudnick on ""borderline impossible"" process of designing Arsenal typeface",51,31
+2026-10-15T14:49:16.887863+00:00,50098274,32,The Double Headed Stack Allocator,83,29
+2026-10-15T14:49:16.887863+00:00,50071546,33,Your C is not standard C,116,80
+2026-10-15T14:49:16.887863+00:00,50084757,34,How Amazon pushes up prices all across the Internet,905,694
+2026-10-15T14:49:16.887863+00:00,50092470,35,"Show HN: Petal, open-source CoScreen/ScreenHero finally free",202,39
+2026-10-15T14:49:16.887863+00:00,50067325,36,Ask HN: CAD for wood working with LLM support?,105,100
+2026-10-15T14:49:16.887863+00:00,50047576,37,The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl,50,17
+2026-10-15T14:49:16.887863+00:00,50091788,38,Containment and monitoring failures are to blame for AI hacking reports: experts,927,580
+2026-10-15T14:49:16.887863+00:00,50103427,39,"ChatGPT Targets Ads to You Based on Your Prompts, Phone Number, and Email",12,1
+2026-10-15T14:49:16.887863+00:00,50095353,40,We’re releasing Jev 1.14.0 along with experimental features for dreamers,318,111
+2026-10-15T14:49:16.887863+00:00,50090799,41,Has AI tells,129,111
+2026-10-15T14:49:16.887863+00:00,50054465,42,Phloem: Git history grown like a slime mold,123,22
+2026-10-15T14:49:16.887863+00:00,50088935,43,Passkeys are not a trap,623,760
+2026-10-15T14:49:16.887863+00:00,50089229,44,Submarine cable resilience,163,72
+2026-10-15T14:49:16.887863+00:00,50103525,45,Things are finally looking up for NASA's first missions to Venus in a generation,5,1
+2026-10-15T14:49:16.887863+00:00,50102664,46,RIAA Flags Anna's Archive and AI Voice Cloner to U.S. Government,11,0
+2026-10-15T14:49:16.887863+00:00,50092423,47,Virtual Oxide Labs: Emulating a Full Oxide Rack,135,13
+2026-10-15T14:49:16.887863+00:00,50093612,48,Fancy Curl Sites,136,25
+2026-10-15T14:49:16.887863+00:00,50100345,49,How to be more ambitious: A tutorial for humans with models,14,1
+2026-10-15T14:49:16.887863+00:00,50092730,50,Fire at Starlink site in Bulgaria after suspected sabotage in Poland,372,259
