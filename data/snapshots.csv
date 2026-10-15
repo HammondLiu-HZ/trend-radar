@@ -55166,3 +55166,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-15T04:20:18.866244+00:00,50097182,48,"A new model for open source: closed to pull requests, open to remix",12,10
 2026-10-15T04:20:18.866244+00:00,50096513,49,"Show HN: Ask a technical question, get an animated explainer you can interrupt",6,0
 2026-10-15T04:20:18.866244+00:00,50088166,50,Gaming on Linux without cheating,67,72
+2026-10-15T09:44:26.887148+00:00,50093568,1,Things to know when you get cancer,1354,332
+2026-10-15T09:44:26.887148+00:00,50070625,2,"Wanted to download an ISO, ended up writing a kernel exploit",76,29
+2026-10-15T09:44:26.887148+00:00,50081045,3,"Creating a Garmin ""MCP""",36,35
+2026-10-15T09:44:26.887148+00:00,50094994,4,OpenCode 2.0,611,239
+2026-10-15T09:44:26.887148+00:00,50096142,5,Tiny Little Office,430,67
+2026-10-15T09:44:26.887148+00:00,50064470,6,Show HN: Indigene – Native plants for where you stand,23,5
+2026-10-15T09:44:26.887148+00:00,50097369,7,LFM2.5-24B-A2B: Built for fast on-device agents,211,44
+2026-10-15T09:44:26.887148+00:00,50050553,8,Do dentists know what they're doing?,697,505
+2026-10-15T09:44:26.887148+00:00,50101149,9,The cost of getting a job today,4,0
+2026-10-15T09:44:26.887148+00:00,50053384,10,Catch a Bird – I made it for my own sanity,170,42
+2026-10-15T09:44:26.887148+00:00,50079701,11,The First Social Network: In rural Argentina residents send messages w AM radio,14,3
+2026-10-15T09:44:26.887148+00:00,50089921,12,Americans' social activity has steeply declined in the past 30 years,400,376
+2026-10-15T09:44:26.887148+00:00,50100791,13,AI was great until it was not,34,16
+2026-10-15T09:44:26.887148+00:00,50060547,14,Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction,28,10
+2026-10-15T09:44:26.887148+00:00,50070661,15,It took me nine years to hack my Xbox 360,82,22
+2026-10-15T09:44:26.887148+00:00,50077709,16,"Donaldson Futuro House in Idyllwild, California, USA",45,16
+2026-10-15T09:44:26.887148+00:00,50047576,17,The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl,39,1
+2026-10-15T09:44:26.887148+00:00,50100387,18,Aidlc: Adaptive workflow steering rules for AI coding agents,6,5
+2026-10-15T09:44:26.887148+00:00,50099136,19,"Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",38,11
+2026-10-15T09:44:26.887148+00:00,50090369,20,Better HTTP/1 connection reuse in Go 1.27,254,36
+2026-10-15T09:44:26.887148+00:00,50098274,21,The Double Headed Stack Allocator,64,18
+2026-10-15T09:44:26.887148+00:00,50071546,22,Your C is not standard C,89,54
+2026-10-15T09:44:26.887148+00:00,50060923,23,"David Rudnick on ""borderline impossible"" process of designing Arsenal typeface",23,8
+2026-10-15T09:44:26.887148+00:00,50083028,24,Why is every rationalist blog post way too long?,355,296
+2026-10-15T09:44:26.887148+00:00,50084757,25,How Amazon pushes up prices all across the Internet,832,639
+2026-10-15T09:44:26.887148+00:00,50092470,26,"Show HN: Petal, open-source CoScreen/ScreenHero finally free",167,38
+2026-10-15T09:44:26.887148+00:00,50095353,27,We’re releasing Jev 1.14.0 along with experimental features for dreamers,289,91
+2026-10-15T09:44:26.887148+00:00,50091788,28,Containment and monitoring failures are to blame for AI hacking reports: experts,901,532
+2026-10-15T09:44:26.887148+00:00,50067325,29,Ask HN: CAD for wood working with LLM support?,77,68
+2026-10-15T09:44:26.887148+00:00,50096300,30,Show HN: Ito – Build Terminal UIs in Lua,18,8
+2026-10-15T09:44:26.887148+00:00,50089229,31,Submarine cable resilience,158,60
+2026-10-15T09:44:26.887148+00:00,50054465,32,Phloem: Git history grown like a slime mold,116,22
+2026-10-15T09:44:26.887148+00:00,50092423,33,Virtual Oxide Labs: Emulating a Full Oxide Rack,118,13
+2026-10-15T09:44:26.887148+00:00,50090799,34,Has AI tells,122,105
+2026-10-15T09:44:26.887148+00:00,50093612,35,Fancy Curl Sites,127,24
+2026-10-15T09:44:26.887148+00:00,50088935,36,Passkeys are not a trap,599,739
+2026-10-15T09:44:26.887148+00:00,50092730,37,Fire at Starlink site in Bulgaria after suspected sabotage in Poland,365,240
+2026-10-15T09:44:26.887148+00:00,50094694,38,Anthropic's Scion is heavily inspired by Mononoke,371,137
+2026-10-15T09:44:26.887148+00:00,50086165,39,Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW,204,52
+2026-10-15T09:44:26.887148+00:00,50090349,40,Google is silently linking your phone number across all signed-in accounts,469,129
+2026-10-15T09:44:26.887148+00:00,50084240,41,"Iosevka is an open-source, sans-serif and slab-serif monospace font",719,297
+2026-10-15T09:44:26.887148+00:00,50090932,42,Show HN: I wrote an email app that accepts only one sender per inbox,102,83
+2026-10-15T09:44:26.887148+00:00,50093180,43,Suicide rates highest ever among middle-aged men,414,519
+2026-10-15T09:44:26.887148+00:00,50064673,44,The Origin Story of Kid Pix,194,44
+2026-10-15T09:44:26.887148+00:00,50065572,45,LittleJS is 2D and 3D now,102,44
+2026-10-15T09:44:26.887148+00:00,50098454,46,Show HN: My Terminal Themes Web App,19,6
+2026-10-15T09:44:26.887148+00:00,50073879,47,Gemini 4 Argon,1447,1027
+2026-10-15T09:44:26.887148+00:00,50094673,48,"Yandex outage: data shows that instead of going dark, malicious bots moved",259,90
+2026-10-15T09:44:26.887148+00:00,50097858,49,Why are chip companies allergic to open source?,10,1
+2026-10-15T09:44:26.887148+00:00,50097797,50,Making all divisions slower to fix a bug in 0.000000000000000000542% of cases,9,0
