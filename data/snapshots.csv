@@ -55116,3 +55116,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-14T23:49:55.839319+00:00,50090443,48,Why do LLM pelicans look like this?,150,131
 2026-10-14T23:49:55.839319+00:00,50085022,49,"Show HN: A guided 3D Leonardo da Vinci museum, built in code",85,34
 2026-10-14T23:49:55.839319+00:00,50080007,50,Grace Hopper Celebration Cancelled,238,240
+2026-10-15T04:20:18.866244+00:00,50093568,1,Things to know when you get cancer,973,236
+2026-10-15T04:20:18.866244+00:00,50098702,2,Future of Cancer Care Today (FCCT),20,0
+2026-10-15T04:20:18.866244+00:00,50094994,3,OpenCode 2.0,403,170
+2026-10-15T04:20:18.866244+00:00,50096142,4,Tiny Little Office,228,31
+2026-10-15T04:20:18.866244+00:00,50095353,5,We’re releasing Jev 1.14.0 along with experimental features for dreamers,229,78
+2026-10-15T04:20:18.866244+00:00,50097369,6,LFM2.5-24B-A2B: Built for fast on-device agents,113,30
+2026-10-15T04:20:18.866244+00:00,50098570,7,One in ten people are older than 65. Three in four live under a leader who is,14,5
+2026-10-15T04:20:18.866244+00:00,50050553,8,Do dentists know what they're doing?,511,371
+2026-10-15T04:20:18.866244+00:00,50077709,9,"Donaldson Futuro House in Idyllwild, California, USA",16,0
+2026-10-15T04:20:18.866244+00:00,50098274,10,The Double Headed Stack Allocator,26,5
+2026-10-15T04:20:18.866244+00:00,50089921,11,Americans' social activity has steeply declined in the past 30 years,285,293
+2026-10-15T04:20:18.866244+00:00,50070661,12,It took me nine years to hack my Xbox 360,7,0
+2026-10-15T04:20:18.866244+00:00,50071546,13,Your C is not standard C,50,18
+2026-10-15T04:20:18.866244+00:00,50090369,14,Better HTTP/1 connection reuse in Go 1.27,217,32
+2026-10-15T04:20:18.866244+00:00,50053384,15,Catch a Bird – I made it for my own sanity,53,14
+2026-10-15T04:20:18.866244+00:00,50091788,16,Containment and monitoring failures are to blame for AI hacking reports: experts,854,478
+2026-10-15T04:20:18.866244+00:00,50093612,17,Fancy Curl Sites,98,18
+2026-10-15T04:20:18.866244+00:00,50092470,18,"Show HN: Petal, open-source CoScreen/ScreenHero finally free",135,34
+2026-10-15T04:20:18.866244+00:00,50054465,19,Phloem: Git history grown like a slime mold,95,20
+2026-10-15T04:20:18.866244+00:00,50092664,20,Banks are now trying to offload the AI data center debt they just underwrote,334,236
+2026-10-15T04:20:18.866244+00:00,50092730,21,Fire at Starlink site in Bulgaria after suspected sabotage in Poland,318,207
+2026-10-15T04:20:18.866244+00:00,50092423,22,Virtual Oxide Labs: Emulating a Full Oxide Rack,91,9
+2026-10-15T04:20:18.866244+00:00,50094694,23,Anthropic's Scion is heavily inspired by Mononoke,304,119
+2026-10-15T04:20:18.866244+00:00,50090799,24,Has AI tells,94,80
+2026-10-15T04:20:18.866244+00:00,50089229,25,Submarine cable resilience,139,52
+2026-10-15T04:20:18.866244+00:00,50084757,26,How Amazon pushes up prices all across the Internet,758,605
+2026-10-15T04:20:18.866244+00:00,50088935,27,Passkeys are not a trap,533,687
+2026-10-15T04:20:18.866244+00:00,50098454,28,Show HN: My Terminal Themes Web App,4,0
+2026-10-15T04:20:18.866244+00:00,50083028,29,Why is every rationalist blog post way too long?,250,168
+2026-10-15T04:20:18.866244+00:00,50093180,30,Suicide rates highest ever among middle-aged men,337,430
+2026-10-15T04:20:18.866244+00:00,50090349,31,Google is silently linking your phone number across all signed-in accounts,429,110
+2026-10-15T04:20:18.866244+00:00,50090932,32,Show HN: I wrote an email app that accepts only one sender per inbox,93,73
+2026-10-15T04:20:18.866244+00:00,50094673,33,"Yandex outage: data shows that instead of going dark, malicious bots moved",241,76
+2026-10-15T04:20:18.866244+00:00,50086165,34,Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW,198,49
+2026-10-15T04:20:18.866244+00:00,50084240,35,"Iosevka is an open-source, sans-serif and slab-serif monospace font",708,291
+2026-10-15T04:20:18.866244+00:00,50098815,36,"Flock CEO: If you want a crime-free society, be ready to give up your privacy",10,7
+2026-10-15T04:20:18.866244+00:00,50065572,37,LittleJS is 2D and 3D now,95,39
+2026-10-15T04:20:18.866244+00:00,50070438,38,Webster’s Dictionary: The pleasure of finding things out (2014),22,3
+2026-10-15T04:20:18.866244+00:00,50064673,39,The Origin Story of Kid Pix,188,44
+2026-10-15T04:20:18.866244+00:00,50091875,40,"America didn't lose its rare earth industry, it sold it",165,86
+2026-10-15T04:20:18.866244+00:00,50073879,41,Gemini 4 Argon,1441,1027
+2026-10-15T04:20:18.866244+00:00,50078757,42,Marshall Islands Stick Chart,44,7
+2026-10-15T04:20:18.866244+00:00,50086363,43,Nvidia's first GPU: GeForce 256,71,45
+2026-10-15T04:20:18.866244+00:00,50085323,44,TV4 postpones show after AI agent erases edited material,143,84
+2026-10-15T04:20:18.866244+00:00,50055632,45,The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024),65,19
+2026-10-15T04:20:18.866244+00:00,50088713,46,"Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",43,12
+2026-10-15T04:20:18.866244+00:00,50048193,47,How I manage persistent Claude Code loops: Spool,13,4
+2026-10-15T04:20:18.866244+00:00,50097182,48,"A new model for open source: closed to pull requests, open to remix",12,10
+2026-10-15T04:20:18.866244+00:00,50096513,49,"Show HN: Ask a technical question, get an animated explainer you can interrupt",6,0
+2026-10-15T04:20:18.866244+00:00,50088166,50,Gaming on Linux without cheating,67,72
