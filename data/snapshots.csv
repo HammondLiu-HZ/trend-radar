@@ -55316,3 +55316,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-15T19:00:22.290977+00:00,50090369,48,Better HTTP/1 connection reuse in Go 1.27,293,46
 2026-10-15T19:00:22.290977+00:00,50107165,49,Microsoft says Windows 11 is now 'more responsive' and runs better on 8GB of RAM,8,3
 2026-10-15T19:00:22.290977+00:00,50099136,50,"Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",86,42
+2026-10-15T22:59:20.121223+00:00,50107379,1,Muse Spark Open,543,305
+2026-10-15T22:59:20.121223+00:00,50109715,2,What I Self-Host,142,69
+2026-10-15T22:59:20.121223+00:00,50105647,3,Neural networks are clean,440,163
+2026-10-15T22:59:20.121223+00:00,50108872,4,Someone on Torrent Sites Kept Fucking with My Sonarr,142,61
+2026-10-15T22:59:20.121223+00:00,50103338,5,Wayland desktop for Linux with skeuomorphic design,460,182
+2026-10-15T22:59:20.121223+00:00,50106023,6,Jev meets the Trolley Problem,235,109
+2026-10-15T22:59:20.121223+00:00,50101813,7,AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware,348,505
+2026-10-15T22:59:20.121223+00:00,50105648,8,Krea 3 – An image model built for editing at scale,225,73
+2026-10-15T22:59:20.121223+00:00,50082637,9,The 8-mile hole in a Hawaii national park that no one can explain,20,8
+2026-10-15T22:59:20.121223+00:00,50104726,10,Celebrating 70 Years of Fortran,197,88
+2026-10-15T22:59:20.121223+00:00,50084674,11,"Why I Wrote PGP (1991, revised 1999)",90,31
+2026-10-15T22:59:20.121223+00:00,50108229,12,E Ink Kaleido 4,104,63
+2026-10-15T22:59:20.121223+00:00,50080155,13,Delta’s Biscoff cookies were supposed to be temporary,157,134
+2026-10-15T22:59:20.121223+00:00,50102923,14,"Libreboot 26.10 ""Ominous Olive"" released with UEFI, Chromebook support",241,138
+2026-10-15T22:59:20.121223+00:00,50109375,15,New Withings Users Must Pay $99/Year for Apple Health Syncing,113,99
+2026-10-15T22:59:20.121223+00:00,50097843,16,The engineering that allows articulated buses to bend,53,33
+2026-10-15T22:59:20.121223+00:00,50102247,17,Show HN: Unfenced – Land for sale that borders public land,242,164
+2026-10-15T22:59:20.121223+00:00,50104299,18,Using AI to reverse engineer hardware,76,88
+2026-10-15T22:59:20.121223+00:00,50062683,19,Rediscovering the Romance of Travel Clocks,24,5
+2026-10-15T22:59:20.121223+00:00,50104654,20,Simons Foundation launches $15M effort to help mathematicians navigate AI era,214,175
+2026-10-15T22:59:20.121223+00:00,50099136,21,Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing,102,59
+2026-10-15T22:59:20.121223+00:00,50099121,22,An Apology,92,109
+2026-10-15T22:59:20.121223+00:00,50070625,23,"Wanted to download an ISO, ended up writing a kernel exploit",337,166
+2026-10-15T22:59:20.121223+00:00,50105467,24,Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering,77,18
+2026-10-15T22:59:20.121223+00:00,50105635,25,Steam Client is now faster than Epic's new vibe coded launcher,253,260
+2026-10-15T22:59:20.121223+00:00,50103164,26,C++26 Contracts: Introduction to Preconditions and Postconditions,120,110
+2026-10-15T22:59:20.121223+00:00,50103630,27,I know why the mathematicians weep,325,529
+2026-10-15T22:59:20.121223+00:00,50085171,28,"Game of Life – But Multiplayer, Hypermedia and Python",41,17
+2026-10-15T22:59:20.121223+00:00,50104310,29,Prompt injection in HTTP headers: what 217M web responses show,81,16
+2026-10-15T22:59:20.121223+00:00,50093568,30,Things to know when you get cancer,1842,442
+2026-10-15T22:59:20.121223+00:00,50079701,31,The First Social Network: In rural Argentina residents send messages w AM radio,142,49
+2026-10-15T22:59:20.121223+00:00,50106738,32,More on Anthropic's Scion ripping off Mononoke,214,66
+2026-10-15T22:59:20.121223+00:00,50098454,33,Show HN: My Terminal Themes Web App,27,14
+2026-10-15T22:59:20.121223+00:00,50105791,34,Frontier Pre-Training at Microsoft AI,30,3
+2026-10-15T22:59:20.121223+00:00,50053384,35,Catch a Bird – I made it for my own sanity,375,108
+2026-10-15T22:59:20.121223+00:00,50106054,36,"Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",31,8
+2026-10-15T22:59:20.121223+00:00,50075392,37,The largest eagle hunted unlike any other bird of prey (2021),45,3
+2026-10-15T22:59:20.121223+00:00,50078524,38,Turn an old junk phone into a Talking Jack-O-Lantern,16,11
+2026-10-15T22:59:20.121223+00:00,50058531,39,The Haunted Toys R Us,61,38
+2026-10-15T22:59:20.121223+00:00,50108036,40,Bringing the magic: Google breaks open a bottleneck in quantum computing,14,2
+2026-10-15T22:59:20.121223+00:00,50103263,41,GridSnap – an open-source Divvy-style window snapper for macOS,47,26
+2026-10-15T22:59:20.121223+00:00,50097369,42,LFM2.5-24B-A2B: Built for fast on-device agents,282,75
+2026-10-15T22:59:20.121223+00:00,50064470,43,Show HN: Indigene – Native plants for where you stand,106,36
+2026-10-15T22:59:20.121223+00:00,50109642,44,BBC licence fee to be extended with 'YouTube tax' to force more to pay,24,26
+2026-10-15T22:59:20.121223+00:00,50060547,45,Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction,102,47
+2026-10-15T22:59:20.121223+00:00,50105777,46,The technical actions needed to ensure the continuity of UTC,87,41
+2026-10-15T22:59:20.121223+00:00,50108850,47,Microplastics in water aren't inert and make damaging chemicals on their own,26,0
+2026-10-15T22:59:20.121223+00:00,50105701,48,"Israeli Firms Placed Spyware at Al Jazeera via Ads, Report Says",76,1
+2026-10-15T22:59:20.121223+00:00,50070661,49,It took me nine years to hack my Xbox 360,166,47
+2026-10-15T22:59:20.121223+00:00,50094994,50,OpenCode 2.0,849,370
