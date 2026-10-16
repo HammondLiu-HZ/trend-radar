@@ -55466,3 +55466,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-16T07:00:07.685713+00:00,50104310,48,Prompt injection in HTTP headers: what 217M web responses show,85,17
 2026-10-16T07:00:07.685713+00:00,50113841,49,Sergey Brin says Google's AI models are reaching recursive self-improvement,12,15
 2026-10-16T07:00:07.685713+00:00,50094994,50,OpenCode 2.0,863,379
+2026-10-16T12:18:58.660476+00:00,50077225,1,Yet another way to invoke functions without parentheses,89,29
+2026-10-16T12:18:58.660476+00:00,50065859,2,Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video],442,139
+2026-10-16T12:18:58.660476+00:00,50111852,3,Meta’s new commercial terms will allow the scraping of news sites: experts,348,121
+2026-10-16T12:18:58.660476+00:00,50107379,4,Muse Spark Open,844,422
+2026-10-16T12:18:58.660476+00:00,50084790,5,The Economic Complexity of the Western Roman Empire,50,10
+2026-10-16T12:18:58.660476+00:00,50072485,6,Two-Stack Sliding-Window Aggregation,48,4
+2026-10-16T12:18:58.660476+00:00,50112330,7,RPKI now protects 70% of internet routes,178,66
+2026-10-16T12:18:58.660476+00:00,50105647,8,Neural networks are clean,725,273
+2026-10-16T12:18:58.660476+00:00,50114342,9,The Folders Programming Language,106,13
+2026-10-16T12:18:58.660476+00:00,50109375,10,New Withings Users Must Pay $99/Year for Apple Health Syncing,333,216
+2026-10-16T12:18:58.660476+00:00,50103338,11,Wayland desktop for Linux with skeuomorphic design,633,254
+2026-10-16T12:18:58.660476+00:00,50109715,12,What I self-host,535,341
+2026-10-16T12:18:58.660476+00:00,50106023,13,Jev meets the Trolley Problem,509,212
+2026-10-16T12:18:58.660476+00:00,50068203,14,Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat,151,110
+2026-10-16T12:18:58.660476+00:00,50112739,15,"Any window from your Mac, on your iPhone and iPad",177,46
+2026-10-16T12:18:58.660476+00:00,50105777,16,BIPM decides to stop adding leap seconds to UTC,206,99
+2026-10-16T12:18:58.660476+00:00,50085553,17,AI-assisted PCB design for KiCad 10,11,0
+2026-10-16T12:18:58.660476+00:00,50079280,18,"New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete",24,12
+2026-10-16T12:18:58.660476+00:00,50108872,19,Someone on Torrent Sites Kept Fucking with My Sonarr,365,168
+2026-10-16T12:18:58.660476+00:00,50104726,20,Celebrating 70 Years of Fortran,284,126
+2026-10-16T12:18:58.660476+00:00,50112331,21,"Thank You, Deno",104,21
+2026-10-16T12:18:58.660476+00:00,50072119,22,'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds,159,112
+2026-10-16T12:18:58.660476+00:00,50105648,23,Krea 3 – An image model built for editing at scale,316,102
+2026-10-16T12:18:58.660476+00:00,50116255,24,"Tesla's new Roadster makes a flying debut, hitting 60 MPH in under a second",24,6
+2026-10-16T12:18:58.660476+00:00,50112887,25,Comparing Chromium Development at Google and Igalia,61,19
+2026-10-16T12:18:58.660476+00:00,50102923,26,"Libreboot 26.10 ""Ominous Olive"" released with UEFI, Chromebook support",293,182
+2026-10-16T12:18:58.660476+00:00,50084674,27,"Why I Wrote PGP (1991, revised 1999)",167,60
+2026-10-16T12:18:58.660476+00:00,50080155,28,Delta’s Biscoff cookies were supposed to be temporary,230,176
+2026-10-16T12:18:58.660476+00:00,50104299,29,Using AI to reverse engineer hardware,212,189
+2026-10-16T12:18:58.660476+00:00,50111742,30,BeBox is a Haiku application that emulates Be Inc.'s BeBox,74,22
+2026-10-16T12:18:58.660476+00:00,50069439,31,Major ICQ security hole (1998),99,60
+2026-10-16T12:18:58.660476+00:00,50097843,32,The engineering that allows articulated buses to bend,112,55
+2026-10-16T12:18:58.660476+00:00,50082637,33,The 8-mile hole in a Hawaii national park that no one can explain,73,46
+2026-10-16T12:18:58.660476+00:00,50108229,34,E Ink Kaleido 4,175,105
+2026-10-16T12:18:58.660476+00:00,50087616,35,Non-Determinism Doesn't Matter,57,60
+2026-10-16T12:18:58.660476+00:00,50101813,36,AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware,470,627
+2026-10-16T12:18:58.660476+00:00,50115144,37,The insider trading you're allowed to do,58,51
+2026-10-16T12:18:58.660476+00:00,50093568,38,Things to know when you get cancer,1898,468
+2026-10-16T12:18:58.660476+00:00,50099136,39,Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing,130,63
+2026-10-16T12:18:58.660476+00:00,50082113,40,New York City's iconic horse-drawn carriages expected to take their last trot,47,59
+2026-10-16T12:18:58.660476+00:00,50059094,41,Casio F-91W using Statecharts,38,9
+2026-10-16T12:18:58.660476+00:00,50116031,42,Geoffrey Hinton: 'We're creating alien beings. I'm willing to choose humans',19,4
+2026-10-16T12:18:58.660476+00:00,50099121,43,An Apology,124,138
+2026-10-16T12:18:58.660476+00:00,50071319,44,4 Years of Ludicon,19,5
+2026-10-16T12:18:58.660476+00:00,50117076,45,Earbuds Don't Have to Be Disposable - Fairbuds 2 (iFixit 10/10) [video],3,0
+2026-10-16T12:18:58.660476+00:00,50103164,46,C++26 Contracts: Introduction to Preconditions and Postconditions,140,156
+2026-10-16T12:18:58.660476+00:00,50100387,47,Aidlc: Adaptive workflow steering rules for AI coding agents,25,19
+2026-10-16T12:18:58.660476+00:00,50104654,48,Simons Foundation launches $15M effort to help mathematicians navigate AI era,240,194
+2026-10-16T12:18:58.660476+00:00,50114359,49,Last rites for Gentoo's Chromium package,64,61
+2026-10-16T12:18:58.660476+00:00,50079701,50,The First Social Network: In rural Argentina residents send messages w AM radio,157,57
