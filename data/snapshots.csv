@@ -55712,3 +55712,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-17T04:06:07.203919+00:00,50086838,48,"Making 1,750 programmable PCB badges for Canada's biggest hackathon",49,12
 2026-10-17T04:06:07.203919+00:00,50065859,49,Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video],829,246
 2026-10-17T04:06:07.203919+00:00,50118662,50,How to make System 1 LLMs show System 2 competencies?,49,24
+2026-10-17T09:09:27.162162+00:00,50129121,1,DeepSeek: DeepSeek v4.1 Flash 1017,13,0
+2026-10-17T09:09:27.162162+00:00,50106747,2,Ultramarine 1 Flash,231,68
+2026-10-17T09:09:27.162162+00:00,50127979,3,Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware,62,23
+2026-10-17T09:09:27.162162+00:00,50112657,4,Tesla Roadster,1412,2483
+2026-10-17T09:09:27.162162+00:00,50129045,5,DeepSeek-v4.1-Flash-1017,49,15
+2026-10-17T09:09:27.162162+00:00,50122431,6,Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console,286,72
+2026-10-17T09:09:27.162162+00:00,50103255,7,Intuitive concurrent programming in any language,29,6
+2026-10-17T09:09:27.162162+00:00,50122878,8,You could have invented transformers from memory,291,67
+2026-10-17T09:09:27.162162+00:00,50122800,9,Claude reveals ECDSA curve origins,860,319
+2026-10-17T09:09:27.162162+00:00,50123580,10,FLUX 3 Image Klein,165,45
+2026-10-17T09:09:27.162162+00:00,50088767,11,0/1 Knapsack Problem in PyTorch,21,1
+2026-10-17T09:09:27.162162+00:00,50118320,12,Apple ML Research: Muse Spark Open with MLX on Mac Studio,314,158
+2026-10-17T09:09:27.162162+00:00,50122034,13,"eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",217,188
+2026-10-17T09:09:27.162162+00:00,50127274,14,Butlerian Jihad,219,118
+2026-10-17T09:09:27.162162+00:00,50089577,15,Tell HN: Remember to migrate away from .name domain,17,8
+2026-10-17T09:09:27.162162+00:00,50088748,16,I built the RealWorld app in Lean 4,56,4
+2026-10-17T09:09:27.162162+00:00,50121939,17,Designing more efficient quantum circuits with Claude,139,32
+2026-10-17T09:09:27.162162+00:00,50120224,18,JPEG XL vs. AVIF for web use-cases,254,178
+2026-10-17T09:09:27.162162+00:00,50076089,19,Monte-Carlo Simulations,118,21
+2026-10-17T09:09:27.162162+00:00,50119751,20,"A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",44,3
+2026-10-17T09:09:27.162162+00:00,50121179,22,90% of US working hours are spent on tasks not covered well by AI benchmarks,497,417
+2026-10-17T09:09:27.162162+00:00,50110930,23,$50k First Letters Prize Awarded for PHerc 343,9,0
+2026-10-17T09:09:27.162162+00:00,50122736,24,C++26: The New Debugging Header,97,21
+2026-10-17T09:09:27.162162+00:00,50083673,25,Wireless magnetic millirobots that deliver medicine inside the beating heart,95,16
+2026-10-17T09:09:27.162162+00:00,50122951,26,How the Claude Code team does code review,342,314
+2026-10-17T09:09:27.162162+00:00,50118688,27,Show HN: Gemini 4 Argon plays StarCraft,222,99
+2026-10-17T09:09:27.162162+00:00,50117746,28,I love software rendering,322,202
+2026-10-17T09:09:27.162162+00:00,50125545,29,Nine-Inch Snails,61,31
+2026-10-17T09:09:27.162162+00:00,50079280,30,"New 'super ice' 10 times stronger, bringing it close to the strength of concrete",99,78
+2026-10-17T09:09:27.162162+00:00,50074322,31,"Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",127,80
+2026-10-17T09:09:27.162162+00:00,50118977,32,Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD,188,58
+2026-10-17T09:09:27.162162+00:00,50088937,33,California is building a $400M shield for Yosemite's most dangerous highway,41,43
+2026-10-17T09:09:27.162162+00:00,50080246,34,"Show HN: Wonderhop – A daily game: guess what most people say, or what none do",93,76
+2026-10-17T09:09:27.162162+00:00,50118318,35,What was a Token Ring network?,113,85
+2026-10-17T09:09:27.162162+00:00,50118981,36,Waymo in Toronto,310,411
+2026-10-17T09:09:27.162162+00:00,50077225,37,Yet another way to invoke functions without parentheses,248,101
+2026-10-17T09:09:27.162162+00:00,50118828,38,What on Earth Is Dekton?,146,53
+2026-10-17T09:09:27.162162+00:00,50121601,39,GifCities,71,12
+2026-10-17T09:09:27.162162+00:00,50121004,40,/dev/null: social network for developers,153,134
+2026-10-17T09:09:27.162162+00:00,50127839,41,"""In every study that considered the question""",28,19
+2026-10-17T09:09:27.162162+00:00,50090027,42,Compiler bootstrapping depends on more than you might think,16,2
+2026-10-17T09:09:27.162162+00:00,50084790,43,The Economic Complexity of the Western Roman Empire,155,37
+2026-10-17T09:09:27.162162+00:00,50127900,44,Commodore 64 Hardware Simulator,5,0
+2026-10-17T09:09:27.162162+00:00,50126334,45,Show HN: Fakeipedia – Wikipedia for worlds that don't exist,26,10
+2026-10-17T09:09:27.162162+00:00,50122112,46,Anthropic assigned highest junk credit rating in June,251,76
+2026-10-17T09:09:27.162162+00:00,50118048,47,My old job feels distant now,97,99
+2026-10-17T09:09:27.162162+00:00,50111752,48,Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video],77,51
+2026-10-17T09:09:27.162162+00:00,50118512,49,How to Formalize All of Mathematics,81,78
+2026-10-17T09:09:27.162162+00:00,50118267,50,RFC8950: Announce IPv4 with an IPv6 next-hop,104,69
