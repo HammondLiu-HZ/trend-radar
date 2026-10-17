@@ -55761,3 +55761,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-17T09:09:27.162162+00:00,50111752,48,Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video],77,51
 2026-10-17T09:09:27.162162+00:00,50118512,49,How to Formalize All of Mathematics,81,78
 2026-10-17T09:09:27.162162+00:00,50118267,50,RFC8950: Announce IPv4 with an IPv6 next-hop,104,69
+2026-10-17T13:35:15.633213+00:00,50129121,1,DeepSeek: DeepSeek v4.1 Flash 1017,340,132
+2026-10-17T13:35:15.633213+00:00,50106747,2,Ultramarine 1 Flash,287,95
+2026-10-17T13:35:15.633213+00:00,50112657,3,Tesla Roadster,1500,2704
+2026-10-17T13:35:15.633213+00:00,50127979,4,Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware,133,47
+2026-10-17T13:35:15.633213+00:00,50129045,5,DeepSeek-v4.1-Flash-1017,267,103
+2026-10-17T13:35:15.633213+00:00,50122431,6,Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console,312,76
+2026-10-17T13:35:15.633213+00:00,50122878,7,You could have invented transformers from memory,347,80
+2026-10-17T13:35:15.633213+00:00,50104783,8,Recipes Are Moving from Maven Central to the Code Genome Project,23,5
+2026-10-17T13:35:15.633213+00:00,50103255,9,Intuitive concurrent programming in any language,77,16
+2026-10-17T13:35:15.633213+00:00,50122800,10,Claude reveals ECDSA curve origins,923,339
+2026-10-17T13:35:15.633213+00:00,50095730,11,Orbital Angular Momentum of Light,13,1
+2026-10-17T13:35:15.633213+00:00,50118320,12,Apple ML Research: Muse Spark Open with MLX on Mac Studio,333,167
+2026-10-17T13:35:15.633213+00:00,50123580,13,FLUX 3 Image Klein,179,51
+2026-10-17T13:35:15.633213+00:00,50122034,14,"eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",237,212
+2026-10-17T13:35:15.633213+00:00,50120224,15,JPEG XL vs. AVIF for web use-cases,285,190
+2026-10-17T13:35:15.633213+00:00,50121939,16,Designing more efficient quantum circuits with Claude,154,33
+2026-10-17T13:35:15.633213+00:00,50127274,17,Butlerian Jihad,291,161
+2026-10-17T13:35:15.633213+00:00,50088767,18,0/1 Knapsack Problem in PyTorch,29,5
+2026-10-17T13:35:15.633213+00:00,50076089,19,Monte-Carlo Simulations,139,28
+2026-10-17T13:35:15.633213+00:00,50088748,20,I built the RealWorld app in Lean 4,72,9
+2026-10-17T13:35:15.633213+00:00,50121179,21,90% of US working hours are spent on tasks not covered well by AI benchmarks,542,468
+2026-10-17T13:35:15.633213+00:00,50125545,22,Nine-Inch Snails,84,39
+2026-10-17T13:35:15.633213+00:00,50122951,23,How the Claude Code team does code review,394,367
+2026-10-17T13:35:15.633213+00:00,50103588,24,The cryptoint library (2025) [pdf],4,0
+2026-10-17T13:35:15.633213+00:00,50119751,25,"A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",61,4
+2026-10-17T13:35:15.633213+00:00,50079280,27,"New 'super ice' 10 times stronger, bringing it close to the strength of concrete",113,86
+2026-10-17T13:35:15.633213+00:00,50117746,28,I love software rendering,336,212
+2026-10-17T13:35:15.633213+00:00,50118688,29,Show HN: Gemini 4 Argon plays StarCraft,228,103
+2026-10-17T13:35:15.633213+00:00,50074322,30,"Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",129,87
+2026-10-17T13:35:15.633213+00:00,50118977,31,Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD,188,60
+2026-10-17T13:35:15.633213+00:00,50083673,32,Wireless magnetic millirobots that deliver medicine inside the beating heart,103,18
+2026-10-17T13:35:15.633213+00:00,50080246,33,"Show HN: Wonderhop – A daily game: guess what most people say, or what none do",102,80
+2026-10-17T13:35:15.633213+00:00,50077225,34,Yet another way to invoke functions without parentheses,253,103
+2026-10-17T13:35:15.633213+00:00,50118318,35,What was a Token Ring network?,114,89
+2026-10-17T13:35:15.633213+00:00,50118981,36,Waymo in Toronto,317,417
+2026-10-17T13:35:15.633213+00:00,50122736,37,C++26: The New Debugging Header,99,27
+2026-10-17T13:35:15.633213+00:00,50118828,38,What on Earth Is Dekton?,149,54
+2026-10-17T13:35:15.633213+00:00,50121004,39,/dev/null: social network for developers,162,150
+2026-10-17T13:35:15.633213+00:00,50121601,40,GifCities,78,13
+2026-10-17T13:35:15.633213+00:00,50084790,41,The Economic Complexity of the Western Roman Empire,157,38
+2026-10-17T13:35:15.633213+00:00,50129947,42,MapQuest will now show you where Flock cameras are in your neighborhood,9,0
+2026-10-17T13:35:15.633213+00:00,50118048,43,My old job feels distant now,108,112
+2026-10-17T13:35:15.633213+00:00,50065859,44,Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video],848,251
+2026-10-17T13:35:15.633213+00:00,50111752,45,Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video],78,51
+2026-10-17T13:35:15.633213+00:00,50100440,46,We Still Use Paper,35,46
+2026-10-17T13:35:15.633213+00:00,50118512,47,How to Formalize All of Mathematics,86,81
+2026-10-17T13:35:15.633213+00:00,50085553,48,AI-assisted PCB design for KiCad 10,134,51
+2026-10-17T13:35:15.633213+00:00,50122112,49,Anthropic assigned highest junk credit rating in June,265,82
+2026-10-17T13:35:15.633213+00:00,50118267,50,RFC8950: Announce IPv4 with an IPv6 next-hop,106,69
