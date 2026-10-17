@@ -55810,3 +55810,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-17T13:35:15.633213+00:00,50085553,48,AI-assisted PCB design for KiCad 10,134,51
 2026-10-17T13:35:15.633213+00:00,50122112,49,Anthropic assigned highest junk credit rating in June,265,82
 2026-10-17T13:35:15.633213+00:00,50118267,50,RFC8950: Announce IPv4 with an IPv6 next-hop,106,69
+2026-10-17T16:58:16.358755+00:00,50132328,1,GLP-1 may slow biological aging,42,12
+2026-10-17T16:58:16.358755+00:00,50131213,2,Making Chicken Transparent Using Dorito Dust,112,39
+2026-10-17T16:58:16.358755+00:00,50129045,3,DeepSeek-v4.1-Flash-1017,392,409
+2026-10-17T16:58:16.358755+00:00,50131256,4,Solar surpasses nuclear power globally for first time,213,120
+2026-10-17T16:58:16.358755+00:00,50119315,5,Rendering pretty sky in Around The World game,62,6
+2026-10-17T16:58:16.358755+00:00,50082358,6,A Tudor Life in the Time of Plague,23,0
+2026-10-17T16:58:16.358755+00:00,50121506,7,The First Candid,28,7
+2026-10-17T16:58:16.358755+00:00,50112657,8,Tesla Roadster,1571,2849
+2026-10-17T16:58:16.358755+00:00,50106747,9,Ultramarine 1 Flash,342,102
+2026-10-17T16:58:16.358755+00:00,50131189,10,Show HN: Esp32sim – Run ESP32 firmware in the browser,36,7
+2026-10-17T16:58:16.358755+00:00,50127979,11,Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware,192,63
+2026-10-17T16:58:16.358755+00:00,50129947,12,MapQuest will now show you where Flock cameras are in your neighborhood,127,12
+2026-10-17T16:58:16.358755+00:00,50115354,13,Development of Norton Commander,36,9
+2026-10-17T16:58:16.358755+00:00,50122431,14,Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console,343,83
+2026-10-17T16:58:16.358755+00:00,50122878,15,You could have invented transformers from memory,410,98
+2026-10-17T16:58:16.358755+00:00,50100440,16,We Still Use Paper,44,57
+2026-10-17T16:58:16.358755+00:00,50129274,17,"""Tame"" boar and deer are instinctively adapting to the wolf in the Netherlands",38,66
+2026-10-17T16:58:16.358755+00:00,50100994,18,"Furifont, a Japanese font that shows furigana",6,1
+2026-10-17T16:58:16.358755+00:00,50089577,19,Tell HN: Remember to migrate away from .name domain,87,57
+2026-10-17T16:58:16.358755+00:00,50122800,20,Claude reveals ECDSA curve origins,977,355
+2026-10-17T16:58:16.358755+00:00,50103255,21,Intuitive concurrent programming in any language,110,28
+2026-10-17T16:58:16.358755+00:00,50118320,22,Apple ML Research: Muse Spark Open with MLX on Mac Studio,346,186
+2026-10-17T16:58:16.358755+00:00,50100640,23,What changes when your search index lives on S3?,6,3
+2026-10-17T16:58:16.358755+00:00,50104783,24,Recipes Are Moving from Maven Central to the Code Genome Project,37,11
+2026-10-17T16:58:16.358755+00:00,50123580,25,FLUX 3 Image Klein,193,56
+2026-10-17T16:58:16.358755+00:00,50132278,26,Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses,13,0
+2026-10-17T16:58:16.358755+00:00,50103588,27,The cryptoint library (2025) [pdf],19,0
+2026-10-17T16:58:16.358755+00:00,50122034,28,"eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",255,229
+2026-10-17T16:58:16.358755+00:00,50120224,29,JPEG XL vs. AVIF for web use-cases,304,195
+2026-10-17T16:58:16.358755+00:00,50121939,30,Designing more efficient quantum circuits with Claude,164,34
+2026-10-17T16:58:16.358755+00:00,50125545,31,Nine-Inch Snails,105,56
+2026-10-17T16:58:16.358755+00:00,50076089,32,Monte-Carlo Simulations,157,35
+2026-10-17T16:58:16.358755+00:00,50088748,34,I built the RealWorld app in Lean 4,88,12
+2026-10-17T16:58:16.358755+00:00,50131440,35,US federal budget deficit jumps 12% in one year to nearly $2 Trillion,106,98
+2026-10-17T16:58:16.358755+00:00,50088767,36,0/1 Knapsack Problem in PyTorch,39,6
+2026-10-17T16:58:16.358755+00:00,50121179,37,90% of US working hours are spent on tasks not covered well by AI benchmarks,566,508
+2026-10-17T16:58:16.358755+00:00,50122951,38,How the Claude Code team does code review,436,410
+2026-10-17T16:58:16.358755+00:00,50117746,39,I love software rendering,356,222
+2026-10-17T16:58:16.358755+00:00,50079280,40,"New 'super ice' 10 times stronger, bringing it close to the strength of concrete",120,94
+2026-10-17T16:58:16.358755+00:00,50119751,41,"A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",74,5
+2026-10-17T16:58:16.358755+00:00,50074322,42,"Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",137,96
+2026-10-17T16:58:16.358755+00:00,50118688,43,Show HN: Gemini 4 Argon plays StarCraft,236,104
+2026-10-17T16:58:16.358755+00:00,50118977,44,Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD,190,64
+2026-10-17T16:58:16.358755+00:00,50080246,45,"Show HN: Wonderhop – A daily game: guess what most people say, or what none do",104,81
+2026-10-17T16:58:16.358755+00:00,50083673,46,Wireless magnetic millirobots that deliver medicine inside the beating heart,107,18
+2026-10-17T16:58:16.358755+00:00,50077225,47,Yet another way to invoke functions without parentheses,255,104
+2026-10-17T16:58:16.358755+00:00,50118318,48,What was a Token Ring network?,120,90
+2026-10-17T16:58:16.358755+00:00,50127274,49,Butlerian Jihad,337,215
+2026-10-17T16:58:16.358755+00:00,50122736,50,C++26: The New Debugging Header,105,27
