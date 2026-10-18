@@ -55957,3 +55957,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-17T22:09:36.065894+00:00,50103255,48,Intuitive concurrent programming in any language,122,35
 2026-10-17T22:09:36.065894+00:00,50132328,49,GLP-1 may slow biological aging,159,147
 2026-10-17T22:09:36.065894+00:00,50120224,50,JPEG XL vs. AVIF for web use-cases,315,207
+2026-10-18T00:49:10.514912+00:00,50126253,1,Bleached corals thrive within days when touching healthy neighbour,296,64
+2026-10-18T00:49:10.514912+00:00,50126312,2,Dam removals are bringing fish back across the northeastern United States,176,49
+2026-10-18T00:49:10.514912+00:00,50100994,3,"Furifont, a Japanese font that shows furigana",245,52
+2026-10-18T00:49:10.514912+00:00,50129045,4,DeepSeek-v4.1-Flash-1017,681,577
+2026-10-18T00:49:10.514912+00:00,50132193,5,Pele – Mermaid diagrams as themeable SVG,218,24
+2026-10-18T00:49:10.514912+00:00,50100366,6,"The Commodore 64 hardware simulator: break chips and pins, see the results",137,23
+2026-10-18T00:49:10.514912+00:00,50131213,7,Making chicken transparent using Dorito dust,247,65
+2026-10-18T00:49:10.514912+00:00,50090927,8,Types of types: Haskell's Kind system,35,23
+2026-10-18T00:49:10.514912+00:00,50132870,9,Gold is now the top U.S. export,217,113
+2026-10-18T00:49:10.514912+00:00,50134617,10,Chrome and Edge are removing XSLT: what breaks and what does not,78,76
+2026-10-18T00:49:10.514912+00:00,50127586,11,Source code of the Estonian online voting system,153,133
+2026-10-18T00:49:10.514912+00:00,50131006,12,Show HN: High-quality duck audio synthesizer,78,23
+2026-10-18T00:49:10.514912+00:00,50122878,13,You could have invented transformers from memory,496,117
+2026-10-18T00:49:10.514912+00:00,50133231,14,Codex Desktop continuously generates Crashpad pending dumps,63,25
+2026-10-18T00:49:10.514912+00:00,50133150,15,I Became a Citizen of Japan,141,56
+2026-10-18T00:49:10.514912+00:00,50131256,16,Solar surpasses nuclear power globally for first time,466,304
+2026-10-18T00:49:10.514912+00:00,50131189,17,Show HN: Esp32sim – Run ESP32 firmware in the browser,120,11
+2026-10-18T00:49:10.514912+00:00,50101649,18,Laser Fault Injection on a Budget: RP2350 Edition,40,9
+2026-10-18T00:49:10.514912+00:00,50118098,19,"Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",43,8
+2026-10-18T00:49:10.514912+00:00,50127572,20,A skeptic's first contact with Kubernetes (2024),79,39
+2026-10-18T00:49:10.514912+00:00,50135379,21,JDK 28,45,18
+2026-10-18T00:49:10.514912+00:00,50119315,23,Rendering pretty sky in Around The World game,123,9
+2026-10-18T00:49:10.514912+00:00,50094887,24,Vintage Cassettes: 1963-2010,49,8
+2026-10-18T00:49:10.514912+00:00,50127979,25,Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware,247,77
+2026-10-18T00:49:10.514912+00:00,50133830,26,Microsoft and CMU team up to train early career software engineers,58,67
+2026-10-18T00:49:10.514912+00:00,50133401,27,OpenCode Hacked: User credentials leaked,733,124
+2026-10-18T00:49:10.514912+00:00,50130079,28,The future of programming (1982),53,13
+2026-10-18T00:49:10.514912+00:00,50092722,29,An ESPN producer who quit because of sports gambling,139,94
+2026-10-18T00:49:10.514912+00:00,50093006,30,Each step of decoding a PNG (2022),7,2
+2026-10-18T00:49:10.514912+00:00,50132950,31,Development statistics for the 7.2 kernel,122,102
+2026-10-18T00:49:10.514912+00:00,50126384,32,Show HN: Things to Do API,33,22
+2026-10-18T00:49:10.514912+00:00,50134211,33,The math that OpenAI keeps for itself,13,4
+2026-10-18T00:49:10.514912+00:00,50082358,34,A Tudor life in the time of plague (2020),45,3
+2026-10-18T00:49:10.514912+00:00,50122431,35,Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console,365,84
+2026-10-18T00:49:10.514912+00:00,50089577,36,Tell HN: Remember to migrate away from .name domain,130,86
+2026-10-18T00:49:10.514912+00:00,50129947,37,MapQuest will now show you where Flock cameras are in your neighborhood,261,48
+2026-10-18T00:49:10.514912+00:00,50121506,38,The First Candid,41,8
+2026-10-18T00:49:10.514912+00:00,50133736,39,Pattern matching beats narrative reasoning,40,26
+2026-10-18T00:49:10.514912+00:00,50119751,40,"A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",80,5
+2026-10-18T00:49:10.514912+00:00,50122800,41,Claude reveals ECDSA curve origins,1023,372
+2026-10-18T00:49:10.514912+00:00,50088767,42,0/1 Knapsack Problem in PyTorch,45,6
+2026-10-18T00:49:10.514912+00:00,50112657,43,Tesla Roadster,1601,2955
+2026-10-18T00:49:10.514912+00:00,50130228,44,Microsoft Teams is a red flag,45,25
+2026-10-18T00:49:10.514912+00:00,50136536,45,NY announces game ownership bill requiring ownership rather than licensing,4,1
+2026-10-18T00:49:10.514912+00:00,50136124,46,Abolish AI Manifesto,6,1
+2026-10-18T00:49:10.514912+00:00,50115354,47,The history of development of Norton Commander (2011),71,23
+2026-10-18T00:49:10.514912+00:00,50123580,48,FLUX 3 Image Klein,207,57
+2026-10-18T00:49:10.514912+00:00,50106747,49,Ultramarine 1 Flash,367,106
+2026-10-18T00:49:10.514912+00:00,50122034,50,"eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",269,244
