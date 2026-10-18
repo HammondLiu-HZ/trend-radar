@@ -56055,3 +56055,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-18T05:41:07.414741+00:00,50134211,48,The math that OpenAI keeps for itself,28,10
 2026-10-18T05:41:07.414741+00:00,50119751,49,"A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",86,6
 2026-10-18T05:41:07.414741+00:00,50082358,50,A Tudor life in the time of plague (2020),49,3
+2026-10-18T10:50:31.448290+00:00,50138531,1,DeepSeek search and fetch – $0.75 per 1000 successful requests,210,101
+2026-10-18T10:50:31.448290+00:00,50137950,2,Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping,139,42
+2026-10-18T10:50:31.448290+00:00,50137620,3,How the Elizabeth Holmes documentary “You Can See Everything” is deceiving,151,166
+2026-10-18T10:50:31.448290+00:00,50139067,4,Parser Combinators,20,4
+2026-10-18T10:50:31.448290+00:00,50126253,5,Bleached corals thrive within days when touching healthy neighbour,466,100
+2026-10-18T10:50:31.448290+00:00,50114758,6,Lean now ships with verified kernels,144,48
+2026-10-18T10:50:31.448290+00:00,50124730,7,Teal – A statically-typed dialect of Lua,37,9
+2026-10-18T10:50:31.448290+00:00,50126312,8,Dam removals are bringing fish back across the northeastern United States,282,66
+2026-10-18T10:50:31.448290+00:00,50129045,9,DeepSeek-v4.1-Flash-1017,867,657
+2026-10-18T10:50:31.448290+00:00,50132193,10,Pele – Mermaid diagrams as themeable SVG,447,39
+2026-10-18T10:50:31.448290+00:00,50100994,11,"Furifont, a Japanese font that shows furigana",351,71
+2026-10-18T10:50:31.448290+00:00,50110081,12,Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo,35,4
+2026-10-18T10:50:31.448290+00:00,50131213,13,Making chicken transparent using Dorito dust,307,82
+2026-10-18T10:50:31.448290+00:00,50106792,14,Fun Extending the C Preprocessor,29,7
+2026-10-18T10:50:31.448290+00:00,50100366,15,"The Commodore 64 hardware simulator: break chips and pins, see the results",192,29
+2026-10-18T10:50:31.448290+00:00,50130379,16,Interactive Linear Programming in the Browser,36,0
+2026-10-18T10:50:31.448290+00:00,50122878,17,You could have invented transformers from memory,568,127
+2026-10-18T10:50:31.448290+00:00,50136536,18,NY announces game ownership bill requiring ownership rather than licensing,306,110
+2026-10-18T10:50:31.448290+00:00,50138087,19,Matthew Prince on why Cloudflare offers a free version and always will (2016),102,79
+2026-10-18T10:50:31.448290+00:00,50122671,20,Regex visualized as 3D marble run,7,2
+2026-10-18T10:50:31.448290+00:00,50097257,21,Custom server to revive neato bots,48,2
+2026-10-18T10:50:31.448290+00:00,50132870,22,Gold is now the top U.S. export,338,188
+2026-10-18T10:50:31.448290+00:00,50131006,23,Show HN: High-quality duck audio synthesizer,141,30
+2026-10-18T10:50:31.448290+00:00,50133231,24,Codex Desktop continuously generates Crashpad pending dumps,134,55
+2026-10-18T10:50:31.448290+00:00,50138002,25,Notes on the Complex Roots of Unity,27,4
+2026-10-18T10:50:31.448290+00:00,50138044,26,A Mole Infiltrated the Highest Ranks of American Militias (2025),94,20
+2026-10-18T10:50:31.448290+00:00,50117935,27,Superoptimizing an FPU Emulator,28,3
+2026-10-18T10:50:31.448290+00:00,50127979,28,Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware,297,82
+2026-10-18T10:50:31.448290+00:00,50131189,29,Show HN: Esp32sim – Run ESP32 firmware in the browser,169,32
+2026-10-18T10:50:31.448290+00:00,50131256,30,Solar surpasses nuclear power globally for first time,621,386
+2026-10-18T10:50:31.448290+00:00,50127572,31,A skeptic's first contact with Kubernetes (2024),123,65
+2026-10-18T10:50:31.448290+00:00,50126457,32,Propagation of Sound in Strongly Viscous Liquids (1966) [pdf],8,1
+2026-10-18T10:50:31.448290+00:00,50119315,34,Rendering pretty sky in Around The World game,150,11
+2026-10-18T10:50:31.448290+00:00,50101649,35,Laser Fault Injection on a Budget: RP2350 Edition (2025),62,17
+2026-10-18T10:50:31.448290+00:00,50118098,36,"Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",64,16
+2026-10-18T10:50:31.448290+00:00,50094887,37,Vintage Cassettes: 1963-2010,64,9
+2026-10-18T10:50:31.448290+00:00,50093006,38,Each step of decoding a PNG (2022),35,6
+2026-10-18T10:50:31.448290+00:00,50112657,39,Tesla Roadster,1619,3016
+2026-10-18T10:50:31.448290+00:00,50130079,40,The future of programming (1982),70,18
+2026-10-18T10:50:31.448290+00:00,50089577,41,Tell HN: Remember to migrate away from .name domain,155,92
+2026-10-18T10:50:31.448290+00:00,50126384,42,Show HN: Things to Do API,48,24
+2026-10-18T10:50:31.448290+00:00,50137257,43,"August in Servo: CSS Grid, text selection, and more",8,0
+2026-10-18T10:50:31.448290+00:00,50122800,44,Claude reveals ECDSA curve origins,1037,383
+2026-10-18T10:50:31.448290+00:00,50133401,45,OpenCode Hacked: User credentials leaked,871,164
+2026-10-18T10:50:31.448290+00:00,50127586,46,Source code of the Estonian online voting system,213,198
+2026-10-18T10:50:31.448290+00:00,50119751,47,"A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",88,6
+2026-10-18T10:50:31.448290+00:00,50135379,48,JDK 28,105,56
+2026-10-18T10:50:31.448290+00:00,50090927,49,Types of types: Haskell's Kind system,80,58
+2026-10-18T10:50:31.448290+00:00,50123580,50,FLUX 3 Image Klein,209,58
