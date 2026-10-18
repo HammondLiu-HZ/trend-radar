@@ -56104,3 +56104,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-18T10:50:31.448290+00:00,50135379,48,JDK 28,105,56
 2026-10-18T10:50:31.448290+00:00,50090927,49,Types of types: Haskell's Kind system,80,58
 2026-10-18T10:50:31.448290+00:00,50123580,50,FLUX 3 Image Klein,209,58
+2026-10-18T14:27:32.935854+00:00,50141076,1,RepRapMicron,28,4
+2026-10-18T14:27:32.935854+00:00,50138531,2,DeepSeek search and fetch – $0.75 per 1000 successful requests,349,172
+2026-10-18T14:27:32.935854+00:00,50139692,3,Legal experts warn Meta's new terms still grant broad scraping permissions,81,23
+2026-10-18T14:27:32.935854+00:00,50140001,4,Open MicroManipulator – A sub-micrometer 3D motion control plattform,56,5
+2026-10-18T14:27:32.935854+00:00,50139067,5,Parser Combinators,97,47
+2026-10-18T14:27:32.935854+00:00,50137620,6,How the Elizabeth Holmes documentary “You Can See Everything” is deceiving,224,271
+2026-10-18T14:27:32.935854+00:00,50137950,7,Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping,186,58
+2026-10-18T14:27:32.935854+00:00,50093081,8,Hatching (Heraldry),20,1
+2026-10-18T14:27:32.935854+00:00,50126253,9,Bleached corals thrive within days when touching healthy neighbour,500,105
+2026-10-18T14:27:32.935854+00:00,50124730,10,Teal – A statically-typed dialect of Lua,79,32
+2026-10-18T14:27:32.935854+00:00,50122671,11,Regex visualized as 3D marble run,40,15
+2026-10-18T14:27:32.935854+00:00,50114758,12,Lean now ships with verified kernels,171,57
+2026-10-18T14:27:32.935854+00:00,50129045,13,DeepSeek-v4.1-Flash-1017,907,679
+2026-10-18T14:27:32.935854+00:00,50102480,14,A History of Curves and Surfaces in Computer Aided Geometric Design [pdf],11,1
+2026-10-18T14:27:32.935854+00:00,50132193,15,Pele – Mermaid diagrams as themeable SVG,496,46
+2026-10-18T14:27:32.935854+00:00,50126312,16,Dam removals are bringing fish back across the northeastern United States,312,77
+2026-10-18T14:27:32.935854+00:00,50114061,17,Chirp Pong – uses microphones and audio for networked game play,4,1
+2026-10-18T14:27:32.935854+00:00,50141053,18,Gen Z Is the First Generation Dumber Than Their Parents,40,33
+2026-10-18T14:27:32.935854+00:00,50100994,19,"Furifont, a Japanese font that shows furigana",376,79
+2026-10-18T14:27:32.935854+00:00,50110081,20,Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo,52,8
+2026-10-18T14:27:32.935854+00:00,50130379,21,Interactive Linear Programming in the Browser,61,1
+2026-10-18T14:27:32.935854+00:00,50131213,22,Making chicken transparent using Dorito dust,330,84
+2026-10-18T14:27:32.935854+00:00,50139998,23,The Brain Sandwich,6,0
+2026-10-18T14:27:32.935854+00:00,50100366,24,"The Commodore 64 hardware simulator: break chips and pins, see the results",212,34
+2026-10-18T14:27:32.935854+00:00,50106792,25,Fun Extending the C Preprocessor,42,13
+2026-10-18T14:27:32.935854+00:00,50122878,26,You could have invented transformers from memory,595,133
+2026-10-18T14:27:32.935854+00:00,50098485,27,Lorenz and Little: How Much Does Your Tail Cost?,14,2
+2026-10-18T14:27:32.935854+00:00,50136536,28,NY announces game ownership bill requiring ownership rather than licensing,367,165
+2026-10-18T14:27:32.935854+00:00,50133231,29,Codex Desktop continuously generates Crashpad pending dumps,151,70
+2026-10-18T14:27:32.935854+00:00,50131006,30,Show HN: High-quality duck audio synthesizer,157,35
+2026-10-18T14:27:32.935854+00:00,50132870,31,Gold is now the top U.S. export,372,211
+2026-10-18T14:27:32.935854+00:00,50117935,32,Superoptimizing an FPU Emulator,40,6
+2026-10-18T14:27:32.935854+00:00,50097257,33,Custom server to revive neato bots,56,2
+2026-10-18T14:27:32.935854+00:00,50131189,34,Show HN: Esp32sim – Run ESP32 firmware in the browser,183,35
+2026-10-18T14:27:32.935854+00:00,50131256,36,Solar surpasses nuclear power globally for first time,640,406
+2026-10-18T14:27:32.935854+00:00,50139083,37,OpenCode has a security breach last that impacted 1.4% of console users,10,7
+2026-10-18T14:27:32.935854+00:00,50138002,38,Notes on the Complex Roots of Unity,34,7
+2026-10-18T14:27:32.935854+00:00,50127572,39,A skeptic's first contact with Kubernetes (2024),130,72
+2026-10-18T14:27:32.935854+00:00,50139534,40,"One Parser, Two Bugs, Many Routers: Exploiting Broadcom WiFi Across ECos, Linux",8,1
+2026-10-18T14:27:32.935854+00:00,50119315,41,Rendering pretty sky in Around The World game,155,12
+2026-10-18T14:27:32.935854+00:00,50118098,42,"Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",67,16
+2026-10-18T14:27:32.935854+00:00,50112657,43,Tesla Roadster,1623,3051
+2026-10-18T14:27:32.935854+00:00,50101649,44,Laser Fault Injection on a Budget: RP2350 Edition (2025),62,17
+2026-10-18T14:27:32.935854+00:00,50094887,45,Vintage Cassettes: 1963-2010,70,9
+2026-10-18T14:27:32.935854+00:00,50138044,46,A Mole Infiltrated the Highest Ranks of American Militias (2025),105,21
+2026-10-18T14:27:32.935854+00:00,50130079,47,The future of programming (1982),74,18
+2026-10-18T14:27:32.935854+00:00,50126457,48,Propagation of Sound in Strongly Viscous Liquids (1966) [pdf],10,2
+2026-10-18T14:27:32.935854+00:00,50122800,49,Claude reveals ECDSA curve origins,1043,385
+2026-10-18T14:27:32.935854+00:00,50138087,50,Matthew Prince on why Cloudflare offers a free version and always will (2016),112,96
