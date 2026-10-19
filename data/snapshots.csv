@@ -56402,3 +56402,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-19T07:38:00.581874+00:00,50148356,48,Show HN: Yila – A Codex for Scientific Research,6,3
 2026-10-19T07:38:00.581874+00:00,50131053,49,Developing for Debugging (2025),35,0
 2026-10-19T07:38:00.581874+00:00,50122878,50,You could have invented transformers from memory,630,142
+2026-10-19T15:29:46.674026+00:00,50152307,1,Wine Ported to OpenBSD,129,20
+2026-10-19T15:29:46.674026+00:00,50150434,2,Timestral: Mistral release time-series foundation models,284,45
+2026-10-19T15:29:46.674026+00:00,50149392,3,Linux 7.3 Released,466,198
+2026-10-19T15:29:46.674026+00:00,50150927,4,Alternatives to Animal Testing Are Finally Taking Off,129,29
+2026-10-19T15:29:46.674026+00:00,50150809,5,Let's Encrypt is adding two additional remote perspectives for domain validation,127,36
+2026-10-19T15:29:46.674026+00:00,50152541,6,"Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",25,2
+2026-10-19T15:29:46.674026+00:00,50150935,7,ESA's Hera Will View Asteroid Scars from DART's Strike,47,0
+2026-10-19T15:29:46.674026+00:00,50151928,8,Show HN: Qwen3-4B with the AI writing tics trained out,91,65
+2026-10-19T15:29:46.674026+00:00,50124811,9,Gdynia and the Dream of a Maritime Poland,72,17
+2026-10-19T15:29:46.674026+00:00,50131749,10,"A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z",17,0
+2026-10-19T15:29:46.674026+00:00,50145337,11,"Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",474,226
+2026-10-19T15:29:46.674026+00:00,50152970,12,Maybe There Was an Egg Cartel After All,52,33
+2026-10-19T15:29:46.674026+00:00,50136150,13,There's never been a better time to go into math (by: 3blue1brown) [video],479,632
+2026-10-19T15:29:46.674026+00:00,50114766,14,Beyond the Glass,10,0
+2026-10-19T15:29:46.674026+00:00,50145507,15,"If you don't run your own LLM proxy, how do you know whats going on?",257,177
+2026-10-19T15:29:46.674026+00:00,50146625,16,William Gibson and the trademarking of cyberspace,238,111
+2026-10-19T15:29:46.674026+00:00,50104874,17,How to Train Your Robot,108,35
+2026-10-19T15:29:46.674026+00:00,50131315,18,Rabbits were a medieval royal luxury in England until the Black Death,120,114
+2026-10-19T15:29:46.674026+00:00,50142573,19,Someone behind the software,516,185
+2026-10-19T15:29:46.674026+00:00,50136979,20,Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky,311,177
+2026-10-19T15:29:46.674026+00:00,50111537,21,Laptop Based on 6502 CPU,179,87
+2026-10-19T15:29:46.674026+00:00,50141076,22,RepRapMicron,430,68
+2026-10-19T15:29:46.674026+00:00,50125551,23,The DNS Museum,117,15
+2026-10-19T15:29:46.674026+00:00,50146624,24,How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?,115,173
+2026-10-19T15:29:46.674026+00:00,50148855,25,"Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",109,75
+2026-10-19T15:29:46.674026+00:00,50151059,26,Harness2 by Google Research – Recursive Agent Harnessing,49,10
+2026-10-19T15:29:46.674026+00:00,50147492,27,Superlite: A Faster Alternatie to Superpowers,129,58
+2026-10-19T15:29:46.674026+00:00,50153598,28,Kevin Bacon's missing clothes finally delivered in Ireland,3,0
+2026-10-19T15:29:46.674026+00:00,50144066,29,Free Pascal compiler now supports dynamic packages,186,44
+2026-10-19T15:29:46.674026+00:00,50145715,30,Show HN: WhatsApp MCP running free on Cloudflare,139,71
+2026-10-19T15:29:46.674026+00:00,50135762,31,I built a programming language that LLMs can't use,251,185
+2026-10-19T15:29:46.674026+00:00,50143536,32,PalmOS Lemmings,144,33
+2026-10-19T15:29:46.674026+00:00,50141579,33,Java sealed classes and exhaustive pattern matching,180,144
+2026-10-19T15:29:46.674026+00:00,50140383,34,A new way to think about borrow checking (in reverse),113,12
+2026-10-19T15:29:46.674026+00:00,50122058,35,"One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",90,22
+2026-10-19T15:29:46.674026+00:00,50140001,36,Open MicroManipulator – A sub-micrometer 3D motion control plattform,211,17
+2026-10-19T15:29:46.674026+00:00,50150750,37,Ousted Savannah police officer gave ICE agent husband access to Flock system,562,293
+2026-10-19T15:29:46.674026+00:00,50141436,38,Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN,38,11
+2026-10-19T15:29:46.674026+00:00,50141909,39,macOS 15.8.2 Breaks OpenGL,278,312
+2026-10-19T15:29:46.674026+00:00,50140769,40,Show HN: The Zelda timeline to catch up before the Ocarina of Time remake,207,120
+2026-10-19T15:29:46.674026+00:00,50139067,41,Parser Combinators,245,85
+2026-10-19T15:29:46.674026+00:00,50142449,42,The Intel 8087 chip: floating-point addition and subtraction,118,35
+2026-10-19T15:29:46.674026+00:00,50142866,43,Namecheap just seized and disabled all my domains,625,328
+2026-10-19T15:29:46.674026+00:00,50112204,44,HOL Light Tutorial,10,3
+2026-10-19T15:29:46.674026+00:00,50108297,45,How Postgres DELETE can actually scale,26,14
+2026-10-19T15:29:46.674026+00:00,50118165,46,"""I'm on a war footing"": Terry Tao and the crisis in math",213,459
+2026-10-19T15:29:46.674026+00:00,50152877,47,A hacker broke into John Deere and SharkNinja with an army of AI agents,7,0
+2026-10-19T15:29:46.674026+00:00,50090927,48,Types of types: Haskell's Kind system,114,78
+2026-10-19T15:29:46.674026+00:00,50138531,49,DeepSeek search and fetch – $0.75 per 1000 successful requests,585,274
+2026-10-19T15:29:46.674026+00:00,50122878,50,You could have invented transformers from memory,639,142
