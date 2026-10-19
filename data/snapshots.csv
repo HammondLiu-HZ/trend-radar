@@ -56452,3 +56452,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-19T15:29:46.674026+00:00,50090927,48,Types of types: Haskell's Kind system,114,78
 2026-10-19T15:29:46.674026+00:00,50138531,49,DeepSeek search and fetch – $0.75 per 1000 successful requests,585,274
 2026-10-19T15:29:46.674026+00:00,50122878,50,You could have invented transformers from memory,639,142
+2026-10-19T20:58:33.434697+00:00,50154540,1,MiniMax M3.1 Flash,274,105
+2026-10-19T20:58:33.434697+00:00,50150089,2,I built a drone with only one motor [video],182,29
+2026-10-19T20:58:33.434697+00:00,50156206,3,The reverts will continue until morale improves,85,9
+2026-10-19T20:58:33.434697+00:00,50152307,4,Wine ported to OpenBSD,434,140
+2026-10-19T20:58:33.434697+00:00,50154624,5,Android apps running native on macOS,179,60
+2026-10-19T20:58:33.434697+00:00,50134472,6,It's still ok to enjoy programming,320,303
+2026-10-19T20:58:33.434697+00:00,50136126,7,RuneScape Bench: MMOs for Agents [video],94,34
+2026-10-19T20:58:33.434697+00:00,50134359,8,The fire retardant in the seafood chain,60,19
+2026-10-19T20:58:33.434697+00:00,50150434,9,Timestral: Mistral's time-series foundation models,485,91
+2026-10-19T20:58:33.434697+00:00,50147233,10,Starcraft: Ashfall,173,53
+2026-10-19T20:58:33.434697+00:00,50150927,11,Alternatives to animal testing are finally taking off,275,85
+2026-10-19T20:58:33.434697+00:00,50155245,12,Mercury 3: Diffusion at scale,174,71
+2026-10-19T20:58:33.434697+00:00,50151036,14,Ask HN: How to deal with shipping AI-written code you don't understand?,110,184
+2026-10-19T20:58:33.434697+00:00,50121834,15,Credit where credit is due,28,13
+2026-10-19T20:58:33.434697+00:00,50129102,16,Galois Finite Fields and the Advanced Encryption Standard (AES),64,3
+2026-10-19T20:58:33.434697+00:00,50151376,17,The obscure trust looming over Anthropic's IPO,109,63
+2026-10-19T20:58:33.434697+00:00,50154029,18,Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces,37,15
+2026-10-19T20:58:33.434697+00:00,50150809,19,Let's Encrypt is adding two additional remote perspectives for domain validation,222,70
+2026-10-19T20:58:33.434697+00:00,50147462,20,"Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",56,49
+2026-10-19T20:58:33.434697+00:00,50147760,21,The Annotated VT100 Firmware (2022),49,2
+2026-10-19T20:58:33.434697+00:00,50146417,22,Integer to String Conversion (2014),16,0
+2026-10-19T20:58:33.434697+00:00,50156332,23,Towards Company World Models,18,1
+2026-10-19T20:58:33.434697+00:00,50152321,24,Plex vulnerabilities being exploited in the wild to drop a cryptominer,101,39
+2026-10-19T20:58:33.434697+00:00,50152976,25,Detecting model weight tampering in GPU memory (Rome attacks),5,0
+2026-10-19T20:58:33.434697+00:00,50152302,26,Cairn: Open windows into AI-driven cyber operations,23,6
+2026-10-19T20:58:33.434697+00:00,50154518,27,I no longer care to work on any Ruby gems so I've archived all my repositories,328,302
+2026-10-19T20:58:33.434697+00:00,50153630,28,CERN and Mistral sign a statement of intent to establish a strategic partnership,264,51
+2026-10-19T20:58:33.434697+00:00,50155647,29,Show HN: Open-source early-reading reader with phonics help,15,2
+2026-10-19T20:58:33.434697+00:00,50151980,30,Show HN: I built a task system to handle the drudgery so I could focus on tasks,36,35
+2026-10-19T20:58:33.434697+00:00,50153934,31,"Degraded availability for GitHub Actions, GitHub Pages and Webhooks",145,115
+2026-10-19T20:58:33.434697+00:00,50154147,32,Pentulive (Puppy Live) [video],21,2
+2026-10-19T20:58:33.434697+00:00,50156132,33,Cloud of suspicion lifted from NIST curves,9,2
+2026-10-19T20:58:33.434697+00:00,50150935,34,ESA's Hera Will View Asteroid Scars from DART's Strike,66,7
+2026-10-19T20:58:33.434697+00:00,50143154,35,What the heck is /pkg?,37,13
+2026-10-19T20:58:33.434697+00:00,50152466,36,Maxwell: A new kind of model that sits between code and hardware,36,13
+2026-10-19T20:58:33.434697+00:00,50152541,37,"Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",59,39
+2026-10-19T20:58:33.434697+00:00,50145337,38,"Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",501,234
+2026-10-19T20:58:33.434697+00:00,50155907,39,"Introducing Clairic, a new System One class of extraction models",19,0
+2026-10-19T20:58:33.434697+00:00,50153431,40,Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix,114,24
+2026-10-19T20:58:33.434697+00:00,50149392,41,Linux 7.3,573,264
+2026-10-19T20:58:33.434697+00:00,50136150,42,There's never been a better time to go into math (by: 3blue1brown) [video],537,739
+2026-10-19T20:58:33.434697+00:00,50124811,43,Gdynia and the Dream of a Maritime Poland,112,36
+2026-10-19T20:58:33.434697+00:00,50131749,44,"A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z",57,21
+2026-10-19T20:58:33.434697+00:00,50145507,45,"If you don't run your own LLM proxy, how do you know whats going on?",291,203
+2026-10-19T20:58:33.434697+00:00,50152970,46,Maybe There Was an Egg Cartel After All,184,125
+2026-10-19T20:58:33.434697+00:00,50148855,47,"Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",143,105
+2026-10-19T20:58:33.434697+00:00,50156189,48,"The US orders every civilian agency to rip out DeepSeek, even tools built on it",31,12
+2026-10-19T20:58:33.434697+00:00,50136979,49,Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky,336,204
+2026-10-19T20:58:33.434697+00:00,50151928,50,Show HN: Qwen3-4B with the AI writing tics trained out,138,105
