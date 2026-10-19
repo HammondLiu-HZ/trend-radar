@@ -56352,3 +56352,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-19T01:05:11.013790+00:00,50145628,48,Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux,10,2
 2026-10-19T01:05:11.013790+00:00,50144144,49,Tiny Brutalism – Thanks to HN it's on Steam,65,8
 2026-10-19T01:05:11.013790+00:00,50144933,50,A 'Ludicrously Ugly' Bridge Is Exhibit a That Britain Has Lost Its Mojo,7,8
+2026-10-19T07:38:00.581874+00:00,50131315,1,Rabbits were a medieval royal luxury in England until the Black Death,56,30
+2026-10-19T07:38:00.581874+00:00,50145337,2,"Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",359,169
+2026-10-19T07:38:00.581874+00:00,50146625,3,William Gibson and the trademarking of cyberspace,155,47
+2026-10-19T07:38:00.581874+00:00,50136150,4,There's never been a better time to go into math (by: 3blue1brown) [video],327,382
+2026-10-19T07:38:00.581874+00:00,50145507,5,"If you don't run your own LLM proxy, how do you know whats going on?",130,83
+2026-10-19T07:38:00.581874+00:00,50147492,6,Superlite: A Faster Alternatie to Superpowers,71,30
+2026-10-19T07:38:00.581874+00:00,50142573,7,Someone behind the software,417,158
+2026-10-19T07:38:00.581874+00:00,50111537,8,Laptop Based on 6502 CPU,105,42
+2026-10-19T07:38:00.581874+00:00,50148441,9,Verisign .com Domain Name Registry Consumer Class Action,71,27
+2026-10-19T07:38:00.581874+00:00,50136979,10,Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky,205,124
+2026-10-19T07:38:00.581874+00:00,50141076,11,RepRapMicron,379,59
+2026-10-19T07:38:00.581874+00:00,50104874,12,How to Train Your Robot,5,0
+2026-10-19T07:38:00.581874+00:00,50144066,13,Free Pascal compiler now supports dynamic packages,153,36
+2026-10-19T07:38:00.581874+00:00,50125551,14,The DNS Museum,53,7
+2026-10-19T07:38:00.581874+00:00,50148452,15,DeepSeek V4.1 Flash 1017 (Max),109,36
+2026-10-19T07:38:00.581874+00:00,50145715,16,Show HN: WhatsApp MCP running free on Cloudflare,91,48
+2026-10-19T07:38:00.581874+00:00,50108297,17,How Postgres DELETE can actually scale,9,1
+2026-10-19T07:38:00.581874+00:00,50135762,18,I built a programming language that LLMs can't use,163,113
+2026-10-19T07:38:00.581874+00:00,50148855,19,"Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",6,0
+2026-10-19T07:38:00.581874+00:00,50143536,20,PalmOS Lemmings,119,28
+2026-10-19T07:38:00.581874+00:00,50122058,21,"One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",73,16
+2026-10-19T07:38:00.581874+00:00,50141579,22,Java sealed classes and exhaustive pattern matching,161,117
+2026-10-19T07:38:00.581874+00:00,50147455,23,Footage of the Flock search that a judge ruled was uncosntitutional,92,36
+2026-10-19T07:38:00.581874+00:00,50118165,24,"""I'm on a war footing"": Terry Tao and the crisis in math",160,295
+2026-10-19T07:38:00.581874+00:00,50140383,25,A new way to think about borrow checking (in reverse),65,6
+2026-10-19T07:38:00.581874+00:00,50098148,26,16-bit fully functional DIY magnetic core memory,58,18
+2026-10-19T07:38:00.581874+00:00,50148601,27,Flatpak – An Insecurity Nightmare,16,4
+2026-10-19T07:38:00.581874+00:00,50146966,28,Sanity's Edge – A voice BBS from 1994,21,1
+2026-10-19T07:38:00.581874+00:00,50140001,29,Open MicroManipulator – A sub-micrometer 3D motion control plattform,192,16
+2026-10-19T07:38:00.581874+00:00,50142866,30,Namecheap just seized and disabled all my domains,557,287
+2026-10-19T07:38:00.581874+00:00,50147760,31,The Annotated VT100 Firmware,8,0
+2026-10-19T07:38:00.581874+00:00,50142449,32,The Intel 8087 chip: floating-point addition and subtraction,103,33
+2026-10-19T07:38:00.581874+00:00,50096110,33,SIGSALY: Churchill's top secret hotline to the president,128,44
+2026-10-19T07:38:00.581874+00:00,50123123,34,"""Traditional, but Puzzling""",43,7
+2026-10-19T07:38:00.581874+00:00,50139067,35,Parser Combinators,233,83
+2026-10-19T07:38:00.581874+00:00,50090927,36,Types of types: Haskell's Kind system,110,75
+2026-10-19T07:38:00.581874+00:00,50121506,37,The First Candid,50,12
+2026-10-19T07:38:00.581874+00:00,50093020,38,I electrified my push scooter with a power drill,173,58
+2026-10-19T07:38:00.581874+00:00,50148901,39,Writing is no longer proof of work,12,1
+2026-10-19T07:38:00.581874+00:00,50138531,40,DeepSeek search and fetch – $0.75 per 1000 successful requests,567,267
+2026-10-19T07:38:00.581874+00:00,50124730,41,Teal – A statically-typed dialect of Lua,170,70
+2026-10-19T07:38:00.581874+00:00,50107843,42,Lombok Is Still Relevant in the Age of Java Records,14,11
+2026-10-19T07:38:00.581874+00:00,50144175,43,Personal software factories are a waste of time,78,72
+2026-10-19T07:38:00.581874+00:00,50147233,44,Starcraft: Ashfall,41,18
+2026-10-19T07:38:00.581874+00:00,50136017,45,Beyond Tetris: The other games of Alexey Pajitnov [video],64,6
+2026-10-19T07:38:00.581874+00:00,50146624,46,How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?,53,53
+2026-10-19T07:38:00.581874+00:00,50140769,47,Show HN: The Zelda timeline to catch up before the Ocarina of Time remake,178,108
+2026-10-19T07:38:00.581874+00:00,50148356,48,Show HN: Yila – A Codex for Scientific Research,6,3
+2026-10-19T07:38:00.581874+00:00,50131053,49,Developing for Debugging (2025),35,0
+2026-10-19T07:38:00.581874+00:00,50122878,50,You could have invented transformers from memory,630,142
