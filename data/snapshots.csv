@@ -56501,3 +56501,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-19T20:58:33.434697+00:00,50156189,48,"The US orders every civilian agency to rip out DeepSeek, even tools built on it",31,12
 2026-10-19T20:58:33.434697+00:00,50136979,49,Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky,336,204
 2026-10-19T20:58:33.434697+00:00,50151928,50,Show HN: Qwen3-4B with the AI writing tics trained out,138,105
+2026-10-20T00:14:45.341230+00:00,50154540,1,MiniMax M3.1 Flash,354,153
+2026-10-20T00:14:45.341230+00:00,50150089,2,I built a drone with only one motor [video],353,68
+2026-10-20T00:14:45.341230+00:00,50158138,3,OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18,66,10
+2026-10-20T00:14:45.341230+00:00,50152307,4,Wine ported to OpenBSD,486,162
+2026-10-20T00:14:45.341230+00:00,50159616,5,France's Supermarket Fridges Were Vulnerable Online for Months,7,1
+2026-10-20T00:14:45.341230+00:00,50136126,6,RuneScape Bench: MMOs for Agents [video],141,54
+2026-10-20T00:14:45.341230+00:00,50158100,7,Putting Linux on my RTX Spark laptop because I don't have a Microsoft account,160,73
+2026-10-20T00:14:45.341230+00:00,50157865,8,One Hash Bloom Filters,31,2
+2026-10-20T00:14:45.341230+00:00,50134472,9,It's still ok to enjoy programming,412,392
+2026-10-20T00:14:45.341230+00:00,50154624,10,Android apps running native on macOS,241,120
+2026-10-20T00:14:45.341230+00:00,50140584,11,Weball: Play Katamari on Websites,12,3
+2026-10-20T00:14:45.341230+00:00,50150434,12,Timestral: Mistral's time-series foundation models,531,99
+2026-10-20T00:14:45.341230+00:00,50147233,13,Starcraft: Ashfall,283,100
+2026-10-20T00:14:45.341230+00:00,50134359,14,The fire retardant in the seafood chain,100,32
+2026-10-20T00:14:45.341230+00:00,50150927,15,Alternatives to animal testing are finally taking off,312,94
+2026-10-20T00:14:45.341230+00:00,50151036,16,Ask HN: How to deal with shipping AI-written code you don't understand?,231,371
+2026-10-20T00:14:45.341230+00:00,50158408,17,Drupal is now light-years ahead of its reputation,17,15
+2026-10-20T00:14:45.341230+00:00,50153664,18,Ukraine claims first drone evacuation of wounded soldier,69,67
+2026-10-20T00:14:45.341230+00:00,50159464,19,"Token-maxxing is dead, OpenRouter's token usage plateaus",9,4
+2026-10-20T00:14:45.341230+00:00,50121834,21,Credit where credit is due,57,36
+2026-10-20T00:14:45.341230+00:00,50153225,22,Agentic Monitoring,28,2
+2026-10-20T00:14:45.341230+00:00,50156206,23,The reverts will continue until morale improves,184,30
+2026-10-20T00:14:45.341230+00:00,50159245,24,"“bonsoir, Elliot”: How abliterated models can get you pwned",5,1
+2026-10-20T00:14:45.341230+00:00,50156744,25,The End of Rationing,23,15
+2026-10-20T00:14:45.341230+00:00,50154029,26,Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces,44,22
+2026-10-20T00:14:45.341230+00:00,50150809,27,Let's Encrypt is adding two additional remote perspectives for domain validation,240,76
+2026-10-20T00:14:45.341230+00:00,50152321,28,Plex vulnerabilities being exploited in the wild to drop a cryptominer,141,65
+2026-10-20T00:14:45.341230+00:00,50147462,29,"Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",101,82
+2026-10-20T00:14:45.341230+00:00,50155245,30,Mercury 3: Diffusion at scale,214,84
+2026-10-20T00:14:45.341230+00:00,50151971,31,"Honey, I shrunk the TV",6,14
+2026-10-20T00:14:45.341230+00:00,50147760,32,The Annotated VT100 Firmware (2022),63,3
+2026-10-20T00:14:45.341230+00:00,50153630,33,CERN and Mistral sign a statement of intent to establish a strategic partnership,312,56
+2026-10-20T00:14:45.341230+00:00,50129102,34,Galois Finite Fields and the Advanced Encryption Standard (AES),77,9
+2026-10-20T00:14:45.341230+00:00,50152976,35,Detecting model weight tampering in GPU memory (Rome attacks),16,1
+2026-10-20T00:14:45.341230+00:00,50151376,36,The obscure trust looming over Anthropic's IPO,129,99
+2026-10-20T00:14:45.341230+00:00,50153531,37,Code is clay now,12,7
+2026-10-20T00:14:45.341230+00:00,50159119,38,GridFTP: A Brief History of Fast File Transfer (2024),3,0
+2026-10-20T00:14:45.341230+00:00,50146417,39,Integer to String Conversion (2014),25,0
+2026-10-20T00:14:45.341230+00:00,50158684,40,Show HN: RoadRash ported to Three.js to run in the browser,5,0
+2026-10-20T00:14:45.341230+00:00,50154518,41,I no longer care to work on any Ruby gems so I've archived all my repositories,413,393
+2026-10-20T00:14:45.341230+00:00,50158942,42,An ad-free Android TV,3,0
+2026-10-20T00:14:45.341230+00:00,50156561,43,"My Neighbor, Me, and a Grand Principle",4,0
+2026-10-20T00:14:45.341230+00:00,50156132,44,Cloud of suspicion lifted from NIST curves,14,5
+2026-10-20T00:14:45.341230+00:00,50152302,45,Cairn: Open windows into AI-driven cyber operations,26,9
+2026-10-20T00:14:45.341230+00:00,50150935,46,ESA's Hera Will View Asteroid Scars from DART's Strike,68,7
+2026-10-20T00:14:45.341230+00:00,50151980,47,Show HN: I built a task system to handle the drudgery so I could focus on tasks,43,45
+2026-10-20T00:14:45.341230+00:00,50149392,48,Linux 7.3,582,275
+2026-10-20T00:14:45.341230+00:00,50143154,49,What the heck is /pkg?,39,13
+2026-10-20T00:14:45.341230+00:00,50159372,50,"Delivery Robots Accused of Scanning Customers' Faces, Sharing Biometric Data",5,2
