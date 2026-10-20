@@ -56550,3 +56550,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-20T00:14:45.341230+00:00,50149392,48,Linux 7.3,582,275
 2026-10-20T00:14:45.341230+00:00,50143154,49,What the heck is /pkg?,39,13
 2026-10-20T00:14:45.341230+00:00,50159372,50,"Delivery Robots Accused of Scanning Customers' Faces, Sharing Biometric Data",5,2
+2026-10-20T05:51:28.028532+00:00,50160494,1,OpenBSD 8.0,141,36
+2026-10-20T05:51:28.028532+00:00,50161207,2,U.S. Supreme Court to review 1868 federal ban on home distilling of liquor,41,39
+2026-10-20T05:51:28.028532+00:00,50159341,3,WhatsApp's help pages hid LLM instructions: dont recommend a regulator,219,36
+2026-10-20T05:51:28.028532+00:00,50154540,4,MiniMax M3.1 Flash,427,186
+2026-10-20T05:51:28.028532+00:00,50159616,5,France's supermarket fridges were vulnerable online for months,93,76
+2026-10-20T05:51:28.028532+00:00,50154244,6,DeepSeek banned from U.S. federal civilian agencies under new DHS order,125,112
+2026-10-20T05:51:28.028532+00:00,50150089,7,I built a drone with only one motor [video],479,103
+2026-10-20T05:51:28.028532+00:00,50140584,8,Weball: Play Katamari on Websites,144,11
+2026-10-20T05:51:28.028532+00:00,50158942,9,An ad-free Android TV,108,35
+2026-10-20T05:51:28.028532+00:00,50160877,10,Go will reject certificate chains containing eight distrusted SPKIs,39,17
+2026-10-20T05:51:28.028532+00:00,50152307,11,Wine ported to OpenBSD,537,178
+2026-10-20T05:51:28.028532+00:00,50134472,12,It's still ok to enjoy programming,522,479
+2026-10-20T05:51:28.028532+00:00,50161408,13,"Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",8,3
+2026-10-20T05:51:28.028532+00:00,50141581,14,Nordwand Mono – A monospace font for coders and adventurers,6,1
+2026-10-20T05:51:28.028532+00:00,50158138,15,OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18,134,28
+2026-10-20T05:51:28.028532+00:00,50153664,16,Ukraine claims first drone evacuation of wounded soldier,202,146
+2026-10-20T05:51:28.028532+00:00,50136126,17,RuneScape Bench: MMOs for Agents [video],180,67
+2026-10-20T05:51:28.028532+00:00,50154624,18,Android apps running native on macOS,295,159
+2026-10-20T05:51:28.028532+00:00,50134809,19,How Do Fungi Keep the Planet Healthy?,26,6
+2026-10-20T05:51:28.028532+00:00,50135177,20,Porting video games to VHS,24,18
+2026-10-20T05:51:28.028532+00:00,50157865,21,One Hash Bloom Filters,80,10
+2026-10-20T05:51:28.028532+00:00,50147233,22,Starcraft: Ashfall,390,117
+2026-10-20T05:51:28.028532+00:00,50159245,23,How abliterated models can get you pwned,78,47
+2026-10-20T05:51:28.028532+00:00,50151036,24,Ask HN: How to deal with shipping AI-written code you don't understand?,358,493
+2026-10-20T05:51:28.028532+00:00,50160135,25,Developing Taste,33,27
+2026-10-20T05:51:28.028532+00:00,50161505,26,Americans Are Spending More Money to Drive Worse Cars,18,17
+2026-10-20T05:51:28.028532+00:00,50138000,27,Refurb weekend II: Alpha Micro Eagle 300 and friends,9,0
+2026-10-20T05:51:28.028532+00:00,50158100,28,Putting Linux on my RTX Spark laptop because I don't have a Microsoft account,213,100
+2026-10-20T05:51:28.028532+00:00,50153225,29,Agentic Monitoring,79,8
+2026-10-20T05:51:28.028532+00:00,50134359,31,The fire retardant in the seafood chain,129,43
+2026-10-20T05:51:28.028532+00:00,50152321,32,Plex vulnerabilities being exploited in the wild to drop a cryptominer,178,89
+2026-10-20T05:51:28.028532+00:00,50121834,33,Credit where credit is due,73,45
+2026-10-20T05:51:28.028532+00:00,50131997,34,Triplet of 'Ghostly' Galaxies Hints at What Dark Matter Is – and Isn't,16,2
+2026-10-20T05:51:28.028532+00:00,50154029,35,Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces,51,24
+2026-10-20T05:51:28.028532+00:00,50137754,36,The ovary doesn't retire after menopause,56,6
+2026-10-20T05:51:28.028532+00:00,50160198,37,Show HN: Lights-on software factory boilerplate for Claude Code,9,0
+2026-10-20T05:51:28.028532+00:00,50156206,38,The reverts will continue until morale improves,211,41
+2026-10-20T05:51:28.028532+00:00,50147760,39,The Annotated VT100 Firmware (2022),71,3
+2026-10-20T05:51:28.028532+00:00,50153630,40,CERN and Mistral sign a statement of intent to establish a strategic partnership,329,57
+2026-10-20T05:51:28.028532+00:00,50150434,41,Timestral: Mistral's time-series foundation models,573,106
+2026-10-20T05:51:28.028532+00:00,50155245,42,Mercury 3: Diffusion at scale,234,85
+2026-10-20T05:51:28.028532+00:00,50158408,43,Drupal is now light-years ahead of its reputation,32,34
+2026-10-20T05:51:28.028532+00:00,50129102,44,Galois Finite Fields and the Advanced Encryption Standard (AES),84,12
+2026-10-20T05:51:28.028532+00:00,50147462,45,"Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",117,97
+2026-10-20T05:51:28.028532+00:00,50150927,46,Alternatives to animal testing are finally taking off,333,100
+2026-10-20T05:51:28.028532+00:00,50153531,47,Code is clay now,26,12
+2026-10-20T05:51:28.028532+00:00,50156744,48,The End of Rationing,46,44
+2026-10-20T05:51:28.028532+00:00,50151376,49,The obscure trust looming over Anthropic's IPO,136,116
+2026-10-20T05:51:28.028532+00:00,50152976,50,Detecting model weight tampering in GPU memory (Rome attacks),18,1
