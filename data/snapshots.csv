@@ -56599,3 +56599,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-20T05:51:28.028532+00:00,50156744,48,The End of Rationing,46,44
 2026-10-20T05:51:28.028532+00:00,50151376,49,The obscure trust looming over Anthropic's IPO,136,116
 2026-10-20T05:51:28.028532+00:00,50152976,50,Detecting model weight tampering in GPU memory (Rome attacks),18,1
+2026-10-20T11:21:20.492874+00:00,50163277,1,DeepSeek just open-sourced its inference engine,411,136
+2026-10-20T11:21:20.492874+00:00,50141581,2,Nordwand Mono – A monospace font for coders and adventurers,301,95
+2026-10-20T11:21:20.492874+00:00,50160494,3,OpenBSD 8.0,324,103
+2026-10-20T11:21:20.492874+00:00,50162177,4,MicroG: Free-libre re-implementation of Google's proprietary Android user space,85,5
+2026-10-20T11:21:20.492874+00:00,50159341,5,WhatsApp's help pages hid LLM instructions: dont recommend a regulator,480,143
+2026-10-20T11:21:20.492874+00:00,50140111,6,Restoration of Retinal Regenerative Potential (2025),66,5
+2026-10-20T11:21:20.492874+00:00,50154244,7,DeepSeek banned from U.S. federal civilian agencies under new DHS order,293,252
+2026-10-20T11:21:20.492874+00:00,50163142,8,There is no official XScreenSaver GitHub repository,34,15
+2026-10-20T11:21:20.492874+00:00,50154540,9,MiniMax M3.1 Flash,479,204
+2026-10-20T11:21:20.492874+00:00,50163625,10,Revolut down as users report app not working,48,22
+2026-10-20T11:21:20.492874+00:00,50132198,11,Making a 88x31 button book using ImageMagick,41,3
+2026-10-20T11:21:20.492874+00:00,50147034,12,'Der Viener Schlinger': The meat cannon that launched 20k hot dogs,6,0
+2026-10-20T11:21:20.492874+00:00,50158942,13,An ad-free Android TV,239,82
+2026-10-20T11:21:20.492874+00:00,50152539,14,Why Is Speculative Decoding Fast?,15,0
+2026-10-20T11:21:20.492874+00:00,50140584,15,Weball: Play Katamari on Websites,226,17
+2026-10-20T11:21:20.492874+00:00,50152307,16,Wine ported to OpenBSD,574,195
+2026-10-20T11:21:20.492874+00:00,50134472,17,It's still ok to enjoy programming,619,535
+2026-10-20T11:21:20.492874+00:00,50150089,18,I built a drone with only one motor [video],561,129
+2026-10-20T11:21:20.492874+00:00,50159616,19,France's supermarket fridges were vulnerable online for months,180,161
+2026-10-20T11:21:20.492874+00:00,50153664,20,Ukraine claims first drone evacuation of wounded soldier,306,238
+2026-10-20T11:21:20.492874+00:00,50163961,21,Google cloud outage takes down banks,24,7
+2026-10-20T11:21:20.492874+00:00,50160877,22,Go will reject certificate chains containing eight distrusted SPKIs,105,41
+2026-10-20T11:21:20.492874+00:00,50152466,23,Maxwell: A new kind of model that sits between code and hardware,84,41
+2026-10-20T11:21:20.492874+00:00,50159245,24,How abliterated models can get you pwned,148,85
+2026-10-20T11:21:20.492874+00:00,50136126,25,RuneScape Bench: MMOs for Agents [video],203,69
+2026-10-20T11:21:20.492874+00:00,50147233,26,Starcraft: Ashfall,473,148
+2026-10-20T11:21:20.492874+00:00,50158138,27,OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18,158,38
+2026-10-20T11:21:20.492874+00:00,50151036,28,Ask HN: How to deal with shipping AI-written code you don't understand?,478,613
+2026-10-20T11:21:20.492874+00:00,50163173,29,Fizzpoker – No-login Online Poker with friends,7,6
+2026-10-20T11:21:20.492874+00:00,50157865,30,One Hash Bloom Filters,113,12
+2026-10-20T11:21:20.492874+00:00,50134809,31,How Do Fungi Keep the Planet Healthy?,56,9
+2026-10-20T11:21:20.492874+00:00,50163502,32,"AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",246,232
+2026-10-20T11:21:20.492874+00:00,50135177,33,Porting video games to VHS,42,26
+2026-10-20T11:21:20.492874+00:00,50158100,34,Putting Linux on my RTX Spark laptop because I don't have a Microsoft account,247,123
+2026-10-20T11:21:20.492874+00:00,50161408,35,"Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",72,50
+2026-10-20T11:21:20.492874+00:00,50164006,36,Google outage hits websites and apps as some bank customers report issues,12,0
+2026-10-20T11:21:20.492874+00:00,50152321,37,Plex vulnerabilities being exploited in the wild to drop a cryptominer,200,93
+2026-10-20T11:21:20.492874+00:00,50153225,38,Agentic Monitoring,100,17
+2026-10-20T11:21:20.492874+00:00,50134359,40,The fire retardant in the seafood chain,143,46
+2026-10-20T11:21:20.492874+00:00,50138000,41,Refurb weekend II: Alpha Micro Eagle 300 and friends,17,1
+2026-10-20T11:21:20.492874+00:00,50154029,42,Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces,58,24
+2026-10-20T11:21:20.492874+00:00,50163651,43,Google Cloud Service Disruption in UK,5,1
+2026-10-20T11:21:20.492874+00:00,50121834,44,Credit where credit is due,80,47
+2026-10-20T11:21:20.492874+00:00,50150434,45,Timestral: Mistral's time-series foundation models,590,113
+2026-10-20T11:21:20.492874+00:00,50154624,46,Android apps running native on macOS,321,174
+2026-10-20T11:21:20.492874+00:00,50147760,47,The Annotated VT100 Firmware (2022),74,5
+2026-10-20T11:21:20.492874+00:00,50137754,48,The ovary doesn't retire after menopause,64,9
+2026-10-20T11:21:20.492874+00:00,50153630,49,CERN and Mistral sign a statement of intent to establish a strategic partnership,345,58
+2026-10-20T11:21:20.492874+00:00,50163695,50,Revolut Partially Unavailable,6,2
