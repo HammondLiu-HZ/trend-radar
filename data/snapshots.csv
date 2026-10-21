@@ -56942,3 +56942,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-21T15:07:23.925442+00:00,50151771,48,Borrow Checking Zero-Cost Cyclic Mutability,36,4
 2026-10-21T15:07:23.925442+00:00,50169955,49,Advanced coding in low-resource programming languages,87,93
 2026-10-21T15:07:23.925442+00:00,50166257,50,How I got over 300 Tor exit nodes removed,378,97
+2026-10-21T20:02:31.170351+00:00,50186129,1,Mistral Large 4,119,18
+2026-10-21T20:02:31.170351+00:00,50182987,2,"Today's PHP security release, and how we're strengthening security",411,200
+2026-10-21T20:02:31.170351+00:00,50181114,3,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,298,109
+2026-10-21T20:02:31.170351+00:00,50159726,4,Why Windows 11 still ships with Windows 95's memory manager hidden inside it,37,18
+2026-10-21T20:02:31.170351+00:00,50186010,5,Google's Rust Style Guide,29,17
+2026-10-21T20:02:31.170351+00:00,50177916,6,Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds,727,357
+2026-10-21T20:02:31.170351+00:00,50181136,7,DuckDB 2.0.0 LTS “Cinnamon Teal”,301,32
+2026-10-21T20:02:31.170351+00:00,50184586,8,EA is shutting down BioWare,283,166
+2026-10-21T20:02:31.170351+00:00,50185869,9,GitLab CVSS 10.0 Integer Overflow issue,28,7
+2026-10-21T20:02:31.170351+00:00,50162044,10,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,99,10
+2026-10-21T20:02:31.170351+00:00,50181175,11,Patch the Planet: global response coordination as agents uncover vulnerabilities,186,116
+2026-10-21T20:02:31.170351+00:00,50182526,12,Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin,133,70
+2026-10-21T20:02:31.170351+00:00,50180873,13,PHP 8.2.35,883,500
+2026-10-21T20:02:31.170351+00:00,50183512,14,New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic,50,14
+2026-10-21T20:02:31.170351+00:00,50185438,15,Anthropic's Public Benefit Charter,35,20
+2026-10-21T20:02:31.170351+00:00,50180079,16,OpenAI models are coming to Google Cloud,159,61
+2026-10-21T20:02:31.170351+00:00,50185630,17,Canary Tokens,54,10
+2026-10-21T20:02:31.170351+00:00,50186318,18,Plex laid off the whole player team,33,13
+2026-10-21T20:02:31.170351+00:00,50180752,19,Using thousands of AI agents to uncover new leads in biological data,103,52
+2026-10-21T20:02:31.170351+00:00,50183344,20,The bridge to agent-scale Git infrastructure,37,6
+2026-10-21T20:02:31.170351+00:00,50186037,21,Claude Duet,92,107
+2026-10-21T20:02:31.170351+00:00,50184820,23,Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case,94,40
+2026-10-21T20:02:31.170351+00:00,50183280,24,Your MCU likely escaped the eMudhra intermediate CA compromise,43,20
+2026-10-21T20:02:31.170351+00:00,50158408,25,Drupal is now light-years ahead of its reputation,87,96
+2026-10-21T20:02:31.170351+00:00,50186518,26,After automation: Solo founding will be the default,3,1
+2026-10-21T20:02:31.170351+00:00,50176908,27,Launch HN: Alter (YC S25) – Access control for multi-user agents,26,16
+2026-10-21T20:02:31.170351+00:00,50182960,28,Show HN: I told people I'm a convicted felon after 20 years of hiding it,33,9
+2026-10-21T20:02:31.170351+00:00,50142296,29,Trials and Tribulations of Native Lua Compilation,18,4
+2026-10-21T20:02:31.170351+00:00,50150214,30,Way to Play Super Mario 64: On Apple Vision Pro,178,71
+2026-10-21T20:02:31.170351+00:00,50155751,31,C++ futures part 1: The mental model,55,11
+2026-10-21T20:02:31.170351+00:00,50186043,32,Google staff resign in backlash over its AI contracts with military,25,1
+2026-10-21T20:02:31.170351+00:00,50155099,33,Show HN: ULDA – Client-side encryption with a simple JavaScript API,18,3
+2026-10-21T20:02:31.170351+00:00,50180039,34,Show HN: Sumi.css – CSS Framework,63,14
+2026-10-21T20:02:31.170351+00:00,50185640,35,gocryptfs: Encrypted overlay filesystem written in Go,3,0
+2026-10-21T20:02:31.170351+00:00,50185218,36,Meta fined $25B for 'lies' over user data privacy,26,1
+2026-10-21T20:02:31.170351+00:00,50149861,37,The Decoherence Trap,169,70
+2026-10-21T20:02:31.170351+00:00,50185045,38,The compiler was supposed to end programming too,78,110
+2026-10-21T20:02:31.170351+00:00,50178455,39,Whatever Happened to Fire Escapes,177,136
+2026-10-21T20:02:31.170351+00:00,50184635,40,Hertzon: Open-Source 3D Full-Wave FEM Solver,4,1
+2026-10-21T20:02:31.170351+00:00,50151175,41,The Lucrative World of Literary Scams,64,12
+2026-10-21T20:02:31.170351+00:00,50181486,42,"What the PHP2Shell rumors got wrong, from inside the PHP security team",13,0
+2026-10-21T20:02:31.170351+00:00,50154551,43,A train simulator game for console hackers,8,3
+2026-10-21T20:02:31.170351+00:00,50175059,44,Good type against all odds,194,20
+2026-10-21T20:02:31.170351+00:00,50180836,45,PHP2Shell: AI uncovers critical RCE in PHP,416,160
+2026-10-21T20:02:31.170351+00:00,50185478,46,Hetzner object storage degraded for >1month,19,3
+2026-10-21T20:02:31.170351+00:00,50175185,47,"In Hilbert space, all things are quantumly possible",138,71
+2026-10-21T20:02:31.170351+00:00,50183253,48,"AI agent fixed the bug, but what else did it change?",37,5
+2026-10-21T20:02:31.170351+00:00,50163277,49,DeepInfer: High-performance inference framework for DeepSeek models,2295,880
+2026-10-21T20:02:31.170351+00:00,50175070,50,The Future of CSS,573,255
