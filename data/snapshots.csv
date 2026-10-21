@@ -56844,3 +56844,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-21T04:25:32.918426+00:00,50149609,48,Shipping a LaTeX Compiler Behind an Edge App,11,4
 2026-10-21T04:25:32.918426+00:00,50158942,49,An ad-free Android TV,397,169
 2026-10-21T04:25:32.918426+00:00,50173907,50,SCOTUS couldn't take up a copyright case because four justices have book deals,43,3
+2026-10-21T09:59:29.567398+00:00,50177911,1,The 1.5°C goal of the Paris Agreement is no longer viable,105,71
+2026-10-21T09:59:29.567398+00:00,50177916,2,Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds,35,9
+2026-10-21T09:59:29.567398+00:00,50175070,3,The Future of CSS,373,156
+2026-10-21T09:59:29.567398+00:00,50172041,4,Upcoming critical PHP security release (CVE-2026-109618 / -109619),858,347
+2026-10-21T09:59:29.567398+00:00,50170593,5,"Show HN: SimCity, but with Permits",799,376
+2026-10-21T09:59:29.567398+00:00,50149861,6,The Decoherence Trap,43,11
+2026-10-21T09:59:29.567398+00:00,50174687,7,Muse exposes users' personal and business secrets when they share conversations,177,74
+2026-10-21T09:59:29.567398+00:00,50168396,8,Voxtral 3,675,169
+2026-10-21T09:59:29.567398+00:00,50166579,9,eMudhra intermediate CA compromise,952,401
+2026-10-21T09:59:29.567398+00:00,50173487,10,Feds suspect ransom negotiator ran ShinyHunters extortion site,203,94
+2026-10-21T09:59:29.567398+00:00,50175185,11,"In Hilbert space, all things are quantumly possible",97,51
+2026-10-21T09:59:29.567398+00:00,50173891,12,The Other Epidemic: Trying to get off benzodiazepines,199,146
+2026-10-21T09:59:29.567398+00:00,50175059,13,Good type against all odds,125,12
+2026-10-21T09:59:29.567398+00:00,50151447,14,Bonanza of new dates rewrites the history of the Inca,10,0
+2026-10-21T09:59:29.567398+00:00,50147799,15,ZX Spectrum Next Laptop,79,14
+2026-10-21T09:59:29.567398+00:00,50165215,16,Four Years with Decker,41,6
+2026-10-21T09:59:29.567398+00:00,50175510,17,C# now beats Rust on WASM size,65,18
+2026-10-21T09:59:29.567398+00:00,50175882,18,Setting Up SSH Keys on macOS with Touch ID,56,33
+2026-10-21T09:59:29.567398+00:00,50169053,19,"Google open-sources TorchTPU, a native PyTorch back end for TPUs",342,73
+2026-10-21T09:59:29.567398+00:00,50148845,20,Composite objects and C++26 the std:polymorphic type,27,26
+2026-10-21T09:59:29.567398+00:00,50169707,21,What shall I teach my son?,402,468
+2026-10-21T09:59:29.567398+00:00,50108717,22,"SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",258,100
+2026-10-21T09:59:29.567398+00:00,50165208,23,Apple broke an essential presentation feature of iPads,560,273
+2026-10-21T09:59:29.567398+00:00,50176298,24,Battlezone Online: BZFlag in the Browser,30,22
+2026-10-21T09:59:29.567398+00:00,50175779,25,Using Claude to reduce the attack surface of code,50,20
+2026-10-21T09:59:29.567398+00:00,50163277,26,DeepInfer: High-performance inference framework for DeepSeek models,2250,856
+2026-10-21T09:59:29.567398+00:00,50176301,27,Pillowfort Is Closing,47,24
+2026-10-21T09:59:29.567398+00:00,50151771,28,Borrow Checking Zero-Cost Cyclic Mutability,35,2
+2026-10-21T09:59:29.567398+00:00,50167028,29,Ofcom concedes defeat in 4chan case,391,305
+2026-10-21T09:59:29.567398+00:00,50168357,30,"Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",281,161
+2026-10-21T09:59:29.567398+00:00,50165953,31,Tsrs: A Port of TypeScript to Rust,413,200
+2026-10-21T09:59:29.567398+00:00,50143360,32,"To Make, or to Buy: The Economics of Decision Models",54,2
+2026-10-21T09:59:29.567398+00:00,50169955,33,Advanced coding in low-resource programming languages,83,90
+2026-10-21T09:59:29.567398+00:00,50166257,34,How I got over 300 Tor exit nodes removed,366,96
+2026-10-21T09:59:29.567398+00:00,50139728,35,Making Solar Panels with a Microwave [video],73,8
+2026-10-21T09:59:29.567398+00:00,50168096,36,IKEA – 3D Guide,183,63
+2026-10-21T09:59:29.567398+00:00,50166794,37,My Friend Bob Cringely,197,51
+2026-10-21T09:59:29.567398+00:00,50166502,38,2026 is an exciting year for the Rust compiler (and me),183,91
+2026-10-21T09:59:29.567398+00:00,50138490,39,JAXA is about to perform a Phobos sample return mission,114,27
+2026-10-21T09:59:29.567398+00:00,50147034,40,'Der Viener Schlinger': The meat cannon that launched 20k hot dogs,99,58
+2026-10-21T09:59:29.567398+00:00,50173716,41,PingCap TiDB Leaks,112,15
+2026-10-21T09:59:29.567398+00:00,50169506,42,Benchmarking Bot Detection Systems Against Modern AI Agents in 2026,45,7
+2026-10-21T09:59:29.567398+00:00,50167583,43,Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins,49,20
+2026-10-21T09:59:29.567398+00:00,50152886,45,"Meta's GB{2,3}00 Cluster",85,35
+2026-10-21T09:59:29.567398+00:00,50170917,46,Academics have a duty to defend open knowledge systems like Wikipedia,201,118
+2026-10-21T09:59:29.567398+00:00,50131997,47,Triplet of 'ghostly' galaxies hints at what dark matter is and isn't,99,83
+2026-10-21T09:59:29.567398+00:00,50143154,48,What the heck is /pkg?,77,17
+2026-10-21T09:59:29.567398+00:00,50165801,49,"Publish fake stats, get cited in LLMs",343,198
+2026-10-21T09:59:29.567398+00:00,50167536,50,Facebook Pages require paid subscription to post more than two links per month,442,386
