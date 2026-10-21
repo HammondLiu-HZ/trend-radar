@@ -56991,3 +56991,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-21T20:02:31.170351+00:00,50183253,48,"AI agent fixed the bug, but what else did it change?",37,5
 2026-10-21T20:02:31.170351+00:00,50163277,49,DeepInfer: High-performance inference framework for DeepSeek models,2295,880
 2026-10-21T20:02:31.170351+00:00,50175070,50,The Future of CSS,573,255
+2026-10-21T23:57:45.375681+00:00,50188228,1,Railway Security Disclosure,229,103
+2026-10-21T23:57:45.375681+00:00,50182987,2,"Today's PHP security release, and how we're strengthening security",641,317
+2026-10-21T23:57:45.375681+00:00,50185869,3,GitLab Critical Patch Release,218,52
+2026-10-21T23:57:45.375681+00:00,50181114,4,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,413,129
+2026-10-21T23:57:45.375681+00:00,50186010,5,Google's Rust Style Guide,161,104
+2026-10-21T23:57:45.375681+00:00,50177916,6,Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds,821,393
+2026-10-21T23:57:45.375681+00:00,50161346,7,No More Icons in Every Menu by Default,122,90
+2026-10-21T23:57:45.375681+00:00,50159726,8,Why Windows 11 still ships with Windows 95's memory manager hidden inside it,117,84
+2026-10-21T23:57:45.375681+00:00,50184820,9,Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case,313,190
+2026-10-21T23:57:45.375681+00:00,50186037,10,Claude Duet,288,242
+2026-10-21T23:57:45.375681+00:00,50181175,11,Patch the Planet: global response coordination as agents uncover vulnerabilities,224,147
+2026-10-21T23:57:45.375681+00:00,50162044,12,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,138,25
+2026-10-21T23:57:45.375681+00:00,50181136,13,DuckDB 2.0.0 LTS “Cinnamon Teal”,353,43
+2026-10-21T23:57:45.375681+00:00,50153531,14,Code is clay now,62,30
+2026-10-21T23:57:45.375681+00:00,50184586,15,EA is shutting down BioWare,481,289
+2026-10-21T23:57:45.375681+00:00,50180079,16,OpenAI models are coming to Google Cloud,218,94
+2026-10-21T23:57:45.375681+00:00,50182526,17,Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin,164,79
+2026-10-21T23:57:45.375681+00:00,50187708,18,PHP web runtimes (CVE-2026-109618 and CVE-2026-109619),94,22
+2026-10-21T23:57:45.375681+00:00,50152847,19,The Rise and Fall of the Plasma Screen,15,11
+2026-10-21T23:57:45.375681+00:00,50183512,20,New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic,93,32
+2026-10-21T23:57:45.375681+00:00,50180873,21,PHP 8.2.35,955,529
+2026-10-21T23:57:45.375681+00:00,50188948,22,There isn't an easy exploit for this PHP vulnerability,5,1
+2026-10-21T23:57:45.375681+00:00,50187659,23,CleanFrame: A quieter home screen for Samsung The Frame,17,2
+2026-10-21T23:57:45.375681+00:00,50180752,24,Using thousands of AI agents to uncover new leads in biological data,125,78
+2026-10-21T23:57:45.375681+00:00,50176908,25,Launch HN: Alter (YC S25) – Access control for multi-user agents,44,20
+2026-10-21T23:57:45.375681+00:00,50158408,26,Drupal is now light-years ahead of its reputation,110,116
+2026-10-21T23:57:45.375681+00:00,50185630,27,Canary Tokens,124,21
+2026-10-21T23:57:45.375681+00:00,50186455,28,Claude Duet,55,6
+2026-10-21T23:57:45.375681+00:00,50183344,29,The bridge to agent-scale Git infrastructure,54,15
+2026-10-21T23:57:45.375681+00:00,50166706,31,A Place Among the Fiddlers,19,0
+2026-10-21T23:57:45.375681+00:00,50183280,32,Your MCU likely escaped the eMudhra intermediate CA compromise,49,23
+2026-10-21T23:57:45.375681+00:00,50188612,33,Qpack amplification attacks against HTTP/3 servers,9,1
+2026-10-21T23:57:45.375681+00:00,50150214,34,Way to Play Super Mario 64: On Apple Vision Pro,198,85
+2026-10-21T23:57:45.375681+00:00,50183892,35,Show HN: Omnara – Open-Source Alternative to Claude Managed Agents,16,6
+2026-10-21T23:57:45.375681+00:00,50189150,36,Airbnb bans making guests do dishes and take out the trash,7,1
+2026-10-21T23:57:45.375681+00:00,50185814,37,Potential third critical PHP CVE,56,16
+2026-10-21T23:57:45.375681+00:00,50188443,38,Oracle Security Alert Advisory – CVE-2026-91403 (eMudhra cert revocation),21,3
+2026-10-21T23:57:45.375681+00:00,50155751,39,C++ futures part 1: The mental model,61,13
+2026-10-21T23:57:45.375681+00:00,50185902,40,Texas Continued Data Center Permitting After the Governor's Pause,15,1
+2026-10-21T23:57:45.375681+00:00,50149861,41,The Decoherence Trap,176,83
+2026-10-21T23:57:45.375681+00:00,50180039,42,Show HN: Sumi.css – CSS Framework,71,18
+2026-10-21T23:57:45.375681+00:00,50186043,43,Google staff resign in backlash over its AI contracts with military,103,19
+2026-10-21T23:57:45.375681+00:00,50142296,44,Trials and Tribulations of Native Lua Compilation,23,5
+2026-10-21T23:57:45.375681+00:00,50186842,45,CDC Ignored Request from States to Validate a New Measles Test,40,1
+2026-10-21T23:57:45.375681+00:00,50189055,46,The iPhone Duo,5,0
+2026-10-21T23:57:45.375681+00:00,50188384,47,'Billions' Star Asia Kate Dillon Says Acting Jobs Have 'Diminished',10,0
+2026-10-21T23:57:45.375681+00:00,50178455,48,Whatever Happened to Fire Escapes,185,151
+2026-10-21T23:57:45.375681+00:00,50163277,49,DeepInfer: High-performance inference framework for DeepSeek models,2300,881
+2026-10-21T23:57:45.375681+00:00,50175059,50,Good type against all odds,197,20
