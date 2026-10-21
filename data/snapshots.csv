@@ -56893,3 +56893,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-21T09:59:29.567398+00:00,50143154,48,What the heck is /pkg?,77,17
 2026-10-21T09:59:29.567398+00:00,50165801,49,"Publish fake stats, get cited in LLMs",343,198
 2026-10-21T09:59:29.567398+00:00,50167536,50,Facebook Pages require paid subscription to post more than two links per month,442,386
+2026-10-21T15:07:23.925442+00:00,50180873,1,PHP 8.2.35,363,149
+2026-10-21T15:07:23.925442+00:00,50180836,2,PHP2Shell: AI uncovers critical RCE in PHP,185,47
+2026-10-21T15:07:23.925442+00:00,50181136,3,"DuckDB 2.0.0 LTS ""Cinnamon Teal""",81,4
+2026-10-21T15:07:23.925442+00:00,50177916,4,Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds,514,227
+2026-10-21T15:07:23.925442+00:00,50181175,5,Patch the Planet: global response coordination as agents uncover vulnerabilities,69,33
+2026-10-21T15:07:23.925442+00:00,50180444,6,Most advice is right for the person giving it,74,54
+2026-10-21T15:07:23.925442+00:00,50179706,7,Qwen3-Coder writes less secure code when told it's for a US persona,185,93
+2026-10-21T15:07:23.925442+00:00,50181137,8,The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck,128,56
+2026-10-21T15:07:23.925442+00:00,50181114,9,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,15,5
+2026-10-21T15:07:23.925442+00:00,50179857,10,LayerFS: The filesystem for AI coding agents,40,19
+2026-10-21T15:07:23.925442+00:00,50172041,11,Upcoming critical PHP security release (CVE-2026-109618 / -109619),1399,594
+2026-10-21T15:07:23.925442+00:00,50155751,13,C++ futures part 1: The mental model,16,3
+2026-10-21T15:07:23.925442+00:00,50175070,14,The Future of CSS,510,213
+2026-10-21T15:07:23.925442+00:00,50150214,15,Way to Play Super Mario 64: On Apple Vision Pro,110,39
+2026-10-21T15:07:23.925442+00:00,50178455,16,Whatever Happened to Fire Escapes,118,77
+2026-10-21T15:07:23.925442+00:00,50170593,17,"Show HN: SimCity, but with Permits",871,394
+2026-10-21T15:07:23.925442+00:00,50179828,18,Dutch National Cyber Security Center is Offline because it uses PHP,216,72
+2026-10-21T15:07:23.925442+00:00,50180752,19,Using thousands of AI agents to uncover new leads in biological data,14,0
+2026-10-21T15:07:23.925442+00:00,50174687,20,Muse exposes users' personal and business secrets when they share conversations,280,130
+2026-10-21T15:07:23.925442+00:00,50166579,21,eMudhra intermediate CA compromise,1124,432
+2026-10-21T15:07:23.925442+00:00,50149861,22,The Decoherence Trap,108,46
+2026-10-21T15:07:23.925442+00:00,50168396,23,Voxtral 3,738,185
+2026-10-21T15:07:23.925442+00:00,50151175,24,The Lucrative World of Literary Scams,33,4
+2026-10-21T15:07:23.925442+00:00,50173487,25,Feds suspect ransom negotiator ran ShinyHunters extortion site,244,122
+2026-10-21T15:07:23.925442+00:00,50180039,26,Show HN: Sumi.css – CSS Framework,7,3
+2026-10-21T15:07:23.925442+00:00,50175059,27,Good type against all odds,174,15
+2026-10-21T15:07:23.925442+00:00,50173891,28,The Other Epidemic: Trying to get off benzodiazepines,242,195
+2026-10-21T15:07:23.925442+00:00,50175185,29,"In Hilbert space, all things are quantumly possible",123,65
+2026-10-21T15:07:23.925442+00:00,50169053,30,"Google open-sources TorchTPU, a native PyTorch back end for TPUs",370,79
+2026-10-21T15:07:23.925442+00:00,50147799,31,ZX Spectrum Next Laptop,115,20
+2026-10-21T15:07:23.925442+00:00,50140768,32,A page looks innocent: the algorithms behind a typeset page,13,1
+2026-10-21T15:07:23.925442+00:00,50175779,33,Using Claude to reduce the attack surface of code,104,71
+2026-10-21T15:07:23.925442+00:00,50165208,34,Apple broke an essential presentation feature of iPads,589,289
+2026-10-21T15:07:23.925442+00:00,50175510,35,C# now beats Rust on WASM size,138,75
+2026-10-21T15:07:23.925442+00:00,50169707,36,What shall I teach my son?,450,555
+2026-10-21T15:07:23.925442+00:00,50108717,37,"SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",291,115
+2026-10-21T15:07:23.925442+00:00,50163277,38,DeepInfer: High-performance inference framework for DeepSeek models,2276,874
+2026-10-21T15:07:23.925442+00:00,50151447,39,Bonanza of new dates rewrites the history of the Inca,28,6
+2026-10-21T15:07:23.925442+00:00,50167028,40,Ofcom concedes defeat in 4chan case,408,361
+2026-10-21T15:07:23.925442+00:00,50168357,41,"Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",304,173
+2026-10-21T15:07:23.925442+00:00,50148845,42,Composite objects and C++26 the std:polymorphic type,40,30
+2026-10-21T15:07:23.925442+00:00,50165953,43,Tsrs: A Port of TypeScript to Rust,424,207
+2026-10-21T15:07:23.925442+00:00,50175882,44,Setting Up SSH Keys on macOS with Touch ID,71,41
+2026-10-21T15:07:23.925442+00:00,50165215,45,Four Years with Decker,54,13
+2026-10-21T15:07:23.925442+00:00,50180934,46,Websites taken down across Europe ahead of critical cyber-security update,7,0
+2026-10-21T15:07:23.925442+00:00,50181152,47,How were letters delivered in the ancient world before street addresses?,5,1
+2026-10-21T15:07:23.925442+00:00,50151771,48,Borrow Checking Zero-Cost Cyclic Mutability,36,4
+2026-10-21T15:07:23.925442+00:00,50169955,49,Advanced coding in low-resource programming languages,87,93
+2026-10-21T15:07:23.925442+00:00,50166257,50,How I got over 300 Tor exit nodes removed,378,97
