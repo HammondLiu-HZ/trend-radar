@@ -57089,3 +57089,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-22T04:29:39.956221+00:00,50183280,48,Your MCU likely escaped the eMudhra intermediate CA compromise,57,24
 2026-10-22T04:29:39.956221+00:00,50168142,49,"Show HN: AI-built browser games, collected in one place",20,1
 2026-10-22T04:29:39.956221+00:00,50189150,50,Airbnb bans making guests do dishes and take out the trash,147,132
+2026-10-22T09:59:37.617193+00:00,50192900,1,CVE-2026-111943: Compromised Intermediate Certificate Authority,72,16
+2026-10-22T09:59:37.617193+00:00,50190363,2,WorldTUI: I trained a 360M model to pretend to be a terminal,208,65
+2026-10-22T09:59:37.617193+00:00,50190455,3,The recently proposed o(n log n) integer multiplication algorithm [pdf],206,136
+2026-10-22T09:59:37.617193+00:00,50192868,4,Achieving AI-style reasoning without an LLM,10,1
+2026-10-22T09:59:37.617193+00:00,50188228,5,Security Disclosure,463,271
+2026-10-22T09:59:37.617193+00:00,50193170,6,Faster than earcut: triangulating 3.7M map polygons in 489 ms,4,0
+2026-10-22T09:59:37.617193+00:00,50186037,7,Claude Duet,380,345
+2026-10-22T09:59:37.617193+00:00,50161346,8,No more icons in every menu by default,315,194
+2026-10-22T09:59:37.617193+00:00,50176082,9,Using LLM for confidence scoring is a bad idea,93,49
+2026-10-22T09:59:37.617193+00:00,50181114,10,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,515,170
+2026-10-22T09:59:37.617193+00:00,50191507,11,OpenAI CLI,119,69
+2026-10-22T09:59:37.617193+00:00,50186010,12,Rust Style Guide,305,185
+2026-10-22T09:59:37.617193+00:00,50185869,13,GitLab critical patch release,352,82
+2026-10-22T09:59:37.617193+00:00,50155616,14,The Robot I Didn't Expect to Build,8,1
+2026-10-22T09:59:37.617193+00:00,50160241,15,What Is the Karakoram Anomaly?,33,7
+2026-10-22T09:59:37.617193+00:00,50173716,16,PingCap TiDB Leaks,349,53
+2026-10-22T09:59:37.617193+00:00,50184820,17,Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case,557,328
+2026-10-22T09:59:37.617193+00:00,50162044,18,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,219,48
+2026-10-22T09:59:37.617193+00:00,50166590,19,Beyond the &,65,3
+2026-10-22T09:59:37.617193+00:00,50189232,20,mitmproxy adds --emudhra option,478,115
+2026-10-22T09:59:37.617193+00:00,50153531,21,Code is clay now,169,112
+2026-10-22T09:59:37.617193+00:00,50180079,22,OpenAI models are coming to Google Cloud,291,121
+2026-10-22T09:59:37.617193+00:00,50181136,23,DuckDB 2.0.0 LTS “Cinnamon Teal”,416,56
+2026-10-22T09:59:37.617193+00:00,50161283,24,ThinkPad I9990303 Error Catch-22,25,3
+2026-10-22T09:59:37.617193+00:00,50182987,25,"Today's PHP security release, and how we're strengthening security",738,362
+2026-10-22T09:59:37.617193+00:00,50183892,26,Show HN: Omnara – Open-source alternative to Claude Managed Agents,80,25
+2026-10-22T09:59:37.617193+00:00,50154100,27,Chain of Thought for Humans,93,48
+2026-10-22T09:59:37.617193+00:00,50188948,28,There isn't an easy exploit for this PHP vulnerability,522,316
+2026-10-22T09:59:37.617193+00:00,50180873,29,PHP 8.2.35,1034,547
+2026-10-22T09:59:37.617193+00:00,50182526,30,Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin,188,96
+2026-10-22T09:59:37.617193+00:00,50185045,31,The compiler was supposed to end programming too,110,157
+2026-10-22T09:59:37.617193+00:00,50181175,32,Patch the Planet: global response coordination as agents uncover vulnerabilities,258,174
+2026-10-22T09:59:37.617193+00:00,50176908,33,Launch HN: Alter (YC S25) – Access control for multi-user agents,62,28
+2026-10-22T09:59:37.617193+00:00,50184586,34,EA is shutting down BioWare,634,401
+2026-10-22T09:59:37.617193+00:00,50177916,35,Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds,889,422
+2026-10-22T09:59:37.617193+00:00,50188614,36,Postgres recovery_prefetch can cause outages,25,0
+2026-10-22T09:59:37.617193+00:00,50160988,37,"Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",19,4
+2026-10-22T09:59:37.617193+00:00,50153125,38,"I can't use generic lambdas at compile-time, now what?",10,0
+2026-10-22T09:59:37.617193+00:00,50159726,39,Why Windows 11 still ships with Windows 95's memory manager hidden inside it,174,119
+2026-10-22T09:59:37.617193+00:00,50189150,40,Airbnb bans making guests do dishes and take out the trash,177,160
+2026-10-22T09:59:37.617193+00:00,50183512,41,New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic,114,48
+2026-10-22T09:59:37.617193+00:00,50190168,42,Epic Games Inc v Apple Inc,149,115
+2026-10-22T09:59:37.617193+00:00,50181326,43,Cloudflare deploys protections against php2shell vulnerability,113,20
+2026-10-22T09:59:37.617193+00:00,50150214,44,Way to Play Super Mario 64: On Apple Vision Pro,221,90
+2026-10-22T09:59:37.617193+00:00,50180752,45,Using thousands of AI agents to uncover new leads in biological data,144,94
+2026-10-22T09:59:37.617193+00:00,50190357,46,"Claude Now Works with Google Docs, Sheets, and Slides",46,6
+2026-10-22T09:59:37.617193+00:00,50189278,48,When Do We Become the Person We Ought to Be?,35,45
+2026-10-22T09:59:37.617193+00:00,50186455,49,Claude Duet,81,8
+2026-10-22T09:59:37.617193+00:00,50158408,50,Drupal is now light-years ahead of its reputation,121,120
