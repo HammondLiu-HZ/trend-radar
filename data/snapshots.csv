@@ -57040,3 +57040,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-21T23:57:45.375681+00:00,50178455,48,Whatever Happened to Fire Escapes,185,151
 2026-10-21T23:57:45.375681+00:00,50163277,49,DeepInfer: High-performance inference framework for DeepSeek models,2300,881
 2026-10-21T23:57:45.375681+00:00,50175059,50,Good type against all odds,197,20
+2026-10-22T04:29:39.956221+00:00,50190168,1,Epic Games Inc v Apple Inc,112,64
+2026-10-22T04:29:39.956221+00:00,50190455,2,The recently proposed o(n log n) integer multiplication algorithm [pdf],50,28
+2026-10-22T04:29:39.956221+00:00,50188948,3,There isn't an easy exploit for this PHP vulnerability,280,138
+2026-10-22T04:29:39.956221+00:00,50188228,4,Security Disclosure,369,212
+2026-10-22T04:29:39.956221+00:00,50186010,5,Rust Style Guide,246,134
+2026-10-22T04:29:39.956221+00:00,50185869,6,GitLab critical patch release,276,69
+2026-10-22T04:29:39.956221+00:00,50181114,7,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,460,158
+2026-10-22T04:29:39.956221+00:00,50189232,8,mitmproxy adds --emudhra option,340,90
+2026-10-22T04:29:39.956221+00:00,50176082,9,Using LLM for confidence scoring is a bad idea,28,20
+2026-10-22T04:29:39.956221+00:00,50154100,10,Chain of Thought for Humans,53,25
+2026-10-22T04:29:39.956221+00:00,50166590,11,Beyond the &,30,0
+2026-10-22T04:29:39.956221+00:00,50190334,12,LLM Agents Play Pokemon Showdown,17,11
+2026-10-22T04:29:39.956221+00:00,50184820,13,Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case,439,279
+2026-10-22T04:29:39.956221+00:00,50183892,14,Show HN: Omnara – Open-source alternative to Claude Managed Agents,43,12
+2026-10-22T04:29:39.956221+00:00,50161346,15,No more icons in every menu by default,218,152
+2026-10-22T04:29:39.956221+00:00,50173716,16,PingCap TiDB Leaks,262,37
+2026-10-22T04:29:39.956221+00:00,50188614,17,Postgres recovery_prefetch can cause outages,11,0
+2026-10-22T04:29:39.956221+00:00,50162044,18,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,168,30
+2026-10-22T04:29:39.956221+00:00,50182987,19,"Today's PHP security release, and how we're strengthening security",698,345
+2026-10-22T04:29:39.956221+00:00,50180079,20,OpenAI models are coming to Google Cloud,259,108
+2026-10-22T04:29:39.956221+00:00,50153531,21,Code is clay now,126,62
+2026-10-22T04:29:39.956221+00:00,50160988,22,"Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",4,0
+2026-10-22T04:29:39.956221+00:00,50181136,23,DuckDB 2.0.0 LTS “Cinnamon Teal”,384,49
+2026-10-22T04:29:39.956221+00:00,50181175,24,Patch the Planet: global response coordination as agents uncover vulnerabilities,243,164
+2026-10-22T04:29:39.956221+00:00,50159726,25,Why Windows 11 still ships with Windows 95's memory manager hidden inside it,156,101
+2026-10-22T04:29:39.956221+00:00,50182526,26,Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin,175,89
+2026-10-22T04:29:39.956221+00:00,50184586,27,EA is shutting down BioWare,576,348
+2026-10-22T04:29:39.956221+00:00,50176908,28,Launch HN: Alter (YC S25) – Access control for multi-user agents,56,25
+2026-10-22T04:29:39.956221+00:00,50180873,29,PHP 8.2.35,986,535
+2026-10-22T04:29:39.956221+00:00,50180799,30,I reverse engineered a board game,10,0
+2026-10-22T04:29:39.956221+00:00,50177916,31,Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds,859,411
+2026-10-22T04:29:39.956221+00:00,50180752,32,Using thousands of AI agents to uncover new leads in biological data,137,86
+2026-10-22T04:29:39.956221+00:00,50183512,33,New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic,105,44
+2026-10-22T04:29:39.956221+00:00,50186037,34,Claude Duet,334,300
+2026-10-22T04:29:39.956221+00:00,50152847,35,The Rise and Fall of the Plasma Screen,42,25
+2026-10-22T04:29:39.956221+00:00,50189278,36,When Do We Become the Person We Ought to Be?,23,23
+2026-10-22T04:29:39.956221+00:00,50181326,37,Cloudflare deploys protections against php2shell vulnerability,101,15
+2026-10-22T04:29:39.956221+00:00,50190357,39,"Claude Now Works with Google Docs, Sheets, and Slides",4,0
+2026-10-22T04:29:39.956221+00:00,50158408,40,Drupal is now light-years ahead of its reputation,114,119
+2026-10-22T04:29:39.956221+00:00,50187708,41,PHP web runtimes (CVE-2026-109618 and CVE-2026-109619),112,26
+2026-10-22T04:29:39.956221+00:00,50150214,42,Way to Play Super Mario 64: On Apple Vision Pro,210,89
+2026-10-22T04:29:39.956221+00:00,50186455,43,Claude Duet,66,7
+2026-10-22T04:29:39.956221+00:00,50188612,44,Qpack amplification attacks against HTTP/3 servers,20,3
+2026-10-22T04:29:39.956221+00:00,50183344,45,The bridge to agent-scale Git infrastructure,59,15
+2026-10-22T04:29:39.956221+00:00,50185630,46,Canary Tokens,136,22
+2026-10-22T04:29:39.956221+00:00,50189801,47,Tesla profits drop 43% in Q3,39,5
+2026-10-22T04:29:39.956221+00:00,50183280,48,Your MCU likely escaped the eMudhra intermediate CA compromise,57,24
+2026-10-22T04:29:39.956221+00:00,50168142,49,"Show HN: AI-built browser games, collected in one place",20,1
+2026-10-22T04:29:39.956221+00:00,50189150,50,Airbnb bans making guests do dishes and take out the trash,147,132
