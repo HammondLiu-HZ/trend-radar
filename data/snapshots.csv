@@ -57187,3 +57187,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-22T15:08:24.973150+00:00,50190357,47,"Claude Now Works with Google Docs, Sheets, and Slides",64,8
 2026-10-22T15:08:24.973150+00:00,50161283,48,ThinkPad I9990303 Error Catch-22,37,7
 2026-10-22T15:08:24.973150+00:00,50176908,50,Launch HN: Alter (YC S25) – Access control for multi-user agents,65,29
+2026-10-22T19:56:17.881784+00:00,50195959,1,Quad9 (DNS Resolver) to Exit France,617,226
+2026-10-22T19:56:17.881784+00:00,50195110,2,eMudhra to exit global SSL/TLS certificate business,774,554
+2026-10-22T19:56:17.881784+00:00,50198675,3,"OpenShell – A safe, private runtime for fleets of autonomous AI agents",121,56
+2026-10-22T19:56:17.881784+00:00,50199757,4,eMudhra logins can be bruteforced,41,7
+2026-10-22T19:56:17.881784+00:00,50196718,5,Show HN: Run full iOS 16.5 firmware on Android Devices,204,70
+2026-10-22T19:56:17.881784+00:00,50197404,6,Getting ready to operate GNU Taler in Germany,116,34
+2026-10-22T19:56:17.881784+00:00,50199290,7,Show HN: UI micro interactions prompts for AI,28,14
+2026-10-22T19:56:17.881784+00:00,50199232,8,Award-Winning AI Literature,29,12
+2026-10-22T19:56:17.881784+00:00,50150163,9,What Is Gridifcation,317,155
+2026-10-22T19:56:17.881784+00:00,50199230,10,AI and the Enclosure of the Scientific Commons,28,7
+2026-10-22T19:56:17.881784+00:00,50192536,11,Jailbreaking the Switch 2,590,212
+2026-10-22T19:56:17.881784+00:00,50199389,12,Hedra is a 3D open world game I wrote from scratch while in highschool,37,8
+2026-10-22T19:56:17.881784+00:00,50154109,13,Dungeon Generation in the Gnomish Mines of NetHack,85,9
+2026-10-22T19:56:17.881784+00:00,50198940,14,AI analysis of CT scans finds 42.9% of patients have coronary inflammation,37,21
+2026-10-22T19:56:17.881784+00:00,50193416,15,Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.,109,20
+2026-10-22T19:56:17.881784+00:00,50196837,16,Google cleared 300 hectares of Finnish forest,279,191
+2026-10-22T19:56:17.881784+00:00,50195543,17,What’s getting pwned right now,272,131
+2026-10-22T19:56:17.881784+00:00,50172984,18,Show HN: Turn regular JavaScript into a neural net,9,1
+2026-10-22T19:56:17.881784+00:00,50197601,19,A farewell to Arc browser,155,117
+2026-10-22T19:56:17.881784+00:00,50197450,20,Mini brain organoids 'reading' Braille key step towards biohybrid computing,19,9
+2026-10-22T19:56:17.881784+00:00,50193170,21,Faster than earcut: triangulating 3.7M map polygons in 489 ms,177,35
+2026-10-22T19:56:17.881784+00:00,50198936,22,Show HN: agent-usage-guard – a Claude Code mod to protect your usage window,12,6
+2026-10-22T19:56:17.881784+00:00,50199349,23,"Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",7,1
+2026-10-22T19:56:17.881784+00:00,50180257,24,Show HN: Uberblok – an interactive museum of ZFS internals,48,13
+2026-10-22T19:56:17.881784+00:00,50195873,25,MPs moving to restrict gambling ads in Canada,181,88
+2026-10-22T19:56:17.881784+00:00,50194522,26,The Last Museum: Semantic search across 5.8M artworks from major museums,76,25
+2026-10-22T19:56:17.881784+00:00,50190363,27,WorldTUI: I trained a 360M model to pretend to be a terminal,455,146
+2026-10-22T19:56:17.881784+00:00,50144727,28,VMMouse for NT 3.x: QEMU/VMware mouse integration driver,40,8
+2026-10-22T19:56:17.881784+00:00,50157456,29,"Startup taps underwater volcano as energy source in ""proof point"" test",105,41
+2026-10-22T19:56:17.881784+00:00,50188228,30,Security Disclosure,570,329
+2026-10-22T19:56:17.881784+00:00,50190455,31,The recently proposed o(n log n) integer multiplication algorithm [pdf],295,264
+2026-10-22T19:56:17.881784+00:00,50154147,32,Pentulive (Puppy Live) [video],62,9
+2026-10-22T19:56:17.881784+00:00,50186037,33,Claude Duet,536,500
+2026-10-22T19:56:17.881784+00:00,50194938,34,Crystal 1.22,158,77
+2026-10-22T19:56:17.881784+00:00,50156779,35,Show HN: Dovepass – can I legally fly a drone along this exact path in SF?,28,8
+2026-10-22T19:56:17.881784+00:00,50161346,36,No more icons in every menu by default,463,261
+2026-10-22T19:56:17.881784+00:00,50157316,37,Eigenmoon: linear algebra puzzles by moonlight,62,16
+2026-10-22T19:56:17.881784+00:00,50194070,38,Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure,235,85
+2026-10-22T19:56:17.881784+00:00,50198931,39,Introducing Amutable Foundations,6,0
+2026-10-22T19:56:17.881784+00:00,50176082,40,Using LLM for confidence scoring is a bad idea,193,97
+2026-10-22T19:56:17.881784+00:00,50185869,41,GitLab critical patch release,399,90
+2026-10-22T19:56:17.881784+00:00,50193804,42,Several Linux kernel vulnerabilities accidentally posted to public mailing list,229,84
+2026-10-22T19:56:17.881784+00:00,50199277,43,United Airlines CEO Calls for National Wealth Tax,23,5
+2026-10-22T19:56:17.881784+00:00,50186010,44,Rust Style Guide,369,225
+2026-10-22T19:56:17.881784+00:00,50164611,45,Templates for Woven Christmas Hearts,9,1
+2026-10-22T19:56:17.881784+00:00,50173944,46,The painter behind Manhattan’s Gilded Age interiors,48,6
+2026-10-22T19:56:17.881784+00:00,50199284,47,Mark Zuckerberg Threatened to Leave California. Meta's Board Cut Him a Deal,13,10
+2026-10-22T19:56:17.881784+00:00,50162044,48,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,259,61
+2026-10-22T19:56:17.881784+00:00,50198995,49,Iceye and Nokia partner with Ukraine to develop satcom capability,13,0
