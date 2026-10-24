@@ -57736,3 +57736,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-24T17:20:28.604108+00:00,50207115,48,Is this the new cyber normal?,185,215
 2026-10-24T17:20:28.604108+00:00,50220913,49,Elon Musk Just Gave Europe a Reason to Replace American Technology,328,350
 2026-10-24T17:20:28.604108+00:00,50177554,50,A Bicycle Journey Across Brazil to Find a Vanishing Savanna,51,13
+2026-10-24T20:35:34.599215+00:00,50224463,1,No Signs of AI Payoff Outside the Tech Sector,118,90
+2026-10-24T20:35:34.599215+00:00,50224300,2,The Goose Programming Language,61,21
+2026-10-24T20:35:34.599215+00:00,50222622,3,Roku developer repositories moved from GitHub to GitLab,197,133
+2026-10-24T20:35:34.599215+00:00,50224422,4,"Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",29,11
+2026-10-24T20:35:34.599215+00:00,50224100,5,John Carmack on the Goose Language: multiple data stacks and relative references,64,26
+2026-10-24T20:35:34.599215+00:00,50223785,6,Dream-1,92,51
+2026-10-24T20:35:34.599215+00:00,50222927,7,"The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",65,14
+2026-10-24T20:35:34.599215+00:00,50222133,8,FreeDNS,195,54
+2026-10-24T20:35:34.599215+00:00,50222525,9,Neural chip decodes interactions between brain regions,65,18
+2026-10-24T20:35:34.599215+00:00,50223844,10,Danish Government silently drops plan to dump MS Office,106,50
+2026-10-24T20:35:34.599215+00:00,50219666,11,I don't understand quantum physics (2018),238,173
+2026-10-24T20:35:34.599215+00:00,50218430,12,OBS Studio 33,412,147
+2026-10-24T20:35:34.599215+00:00,50219177,13,"Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",239,120
+2026-10-24T20:35:34.599215+00:00,50171936,14,Symbolic Learning in Python and Julia,27,4
+2026-10-24T20:35:34.599215+00:00,50186450,15,Physicists trap a single antimatter particle for a month,251,74
+2026-10-24T20:35:34.599215+00:00,50219700,16,GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards,135,50
+2026-10-24T20:35:34.599215+00:00,50192975,17,TornadoVM 7 Enables GPU-Native Workloads from Java Applications,77,13
+2026-10-24T20:35:34.599215+00:00,50189981,18,"Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",23,11
+2026-10-24T20:35:34.599215+00:00,50223647,19,Why is AI generated language so hard to understand?,83,72
+2026-10-24T20:35:34.599215+00:00,50224074,20,"PHP Foundation 'under-funded' with one full-time staff member, director says",72,24
+2026-10-24T20:35:34.599215+00:00,50202285,21,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",1514,240
+2026-10-24T20:35:34.599215+00:00,50217500,22,Twelve years of distributed SQLite,346,53
+2026-10-24T20:35:34.599215+00:00,50222283,23,Oai-math-revised: a community hub for revising OpenAI's math write-ups,21,15
+2026-10-24T20:35:34.599215+00:00,50207910,24,Apple Music 404 Not Found,901,265
+2026-10-24T20:35:34.599215+00:00,50179920,25,"Cecilia Berdichevsky, Clementina expert (1961)",23,1
+2026-10-24T20:35:34.599215+00:00,50180251,26,Tiling Noise – Procedural GPU Patterns,54,1
+2026-10-24T20:35:34.599215+00:00,50172962,27,Bringing uv and ty together,278,92
+2026-10-24T20:35:34.599215+00:00,50218195,28,How close can pure functional programming get to C?,235,72
+2026-10-24T20:35:34.599215+00:00,50171379,29,"A practical guide to AI image generation, from diffusion to agents",227,71
+2026-10-24T20:35:34.599215+00:00,50213925,30,Dessa: Conversation Model trained only on speech,489,184
+2026-10-24T20:35:34.599215+00:00,50223752,31,Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice,30,7
+2026-10-24T20:35:34.599215+00:00,50195535,32,Parsing EDIFACT in Python with syntax trees,20,10
+2026-10-24T20:35:34.599215+00:00,50194536,33,How to run a city builder on 16 MHz,86,25
+2026-10-24T20:35:34.599215+00:00,50222826,34,Progressive disclosure in agents to make them 2.3x faster,7,0
+2026-10-24T20:35:34.599215+00:00,50212065,35,Kimi K3.1 Pro and K3.1 Pro Highspeed,1054,643
+2026-10-24T20:35:34.599215+00:00,50217903,36,Apple Security Research Device,163,106
+2026-10-24T20:35:34.599215+00:00,50220042,37,Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706,48,13
+2026-10-24T20:35:34.599215+00:00,50169499,38,The Real Kevin Bacon,361,92
+2026-10-24T20:35:34.599215+00:00,50211474,39,"Today, we hacked what we'd set out to hack: the iPhone",1065,662
+2026-10-24T20:35:34.599215+00:00,50217495,40,Around a dozen banking apps began specifically permitting GrapheneOS,592,265
+2026-10-24T20:35:34.599215+00:00,50215530,41,CVE Tracker,210,72
+2026-10-24T20:35:34.599215+00:00,50218633,42,Root shell on Samsung TV,465,187
+2026-10-24T20:35:34.599215+00:00,50223580,43,The first broken iPhone Duos are here,23,11
+2026-10-24T20:35:34.599215+00:00,50220891,44,I Do Understand Relativity,20,1
+2026-10-24T20:35:34.599215+00:00,50176544,45,C vs. C#: racing VLC's Gaussian blur,127,46
+2026-10-24T20:35:34.599215+00:00,50223559,46,Linux's Early Boot-Time Physical Memory Allocator Big Speed-Up: ~268s to ~50ms,11,0
+2026-10-24T20:35:34.599215+00:00,50217946,47,How Block Blast harvests its players for ad money,104,47
+2026-10-24T20:35:34.599215+00:00,50191250,48,The Chalk and the Airplane,23,9
+2026-10-24T20:35:34.599215+00:00,50220204,49,AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist,88,46
+2026-10-24T20:35:34.599215+00:00,50193677,50,The Quake Fan who built the map editor everybody uses,179,23
