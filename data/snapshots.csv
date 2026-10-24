@@ -57686,3 +57686,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-24T13:56:05.739103+00:00,50202681,48,Docker is weird,849,362
 2026-10-24T13:56:05.739103+00:00,50214983,49,A whirlwind tour of systemd-nspawn containers (2025),50,9
 2026-10-24T13:56:05.739103+00:00,50211084,50,Reforming English Spelling,45,107
+2026-10-24T17:20:28.604108+00:00,50222622,1,Roku developer repositories moved from GitHub to GitLab,87,34
+2026-10-24T17:20:28.604108+00:00,50222133,2,FreeDNS,120,28
+2026-10-24T17:20:28.604108+00:00,50222927,3,"The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",19,1
+2026-10-24T17:20:28.604108+00:00,50222525,4,Neural chip decodes interactions between brain regions,29,3
+2026-10-24T17:20:28.604108+00:00,50217495,5,Around a dozen banking apps began specifically permitting GrapheneOS,500,173
+2026-10-24T17:20:28.604108+00:00,50218430,6,OBS Studio 33,363,122
+2026-10-24T17:20:28.604108+00:00,50223201,7,Show HN: Argus- open source security platform to protect against agentic attacks,11,1
+2026-10-24T17:20:28.604108+00:00,50219177,8,"Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",175,83
+2026-10-24T17:20:28.604108+00:00,50192975,9,TornadoVM 7 Enables GPU-Native Workloads from Java Applications,58,11
+2026-10-24T17:20:28.604108+00:00,50212065,10,Kimi K3.1 Pro and K3.1 Pro Highspeed,1027,625
+2026-10-24T17:20:28.604108+00:00,50186450,11,Physicists trap a single antimatter particle for a month,202,66
+2026-10-24T17:20:28.604108+00:00,50219666,12,I Don't Understand Quantum Physics (2018),207,147
+2026-10-24T17:20:28.604108+00:00,50211474,13,"Today, we hacked what we'd set out to hack: the iPhone",1032,641
+2026-10-24T17:20:28.604108+00:00,50219700,14,GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards,77,40
+2026-10-24T17:20:28.604108+00:00,50195535,15,Parsing EDIFACT in Python with syntax trees,10,1
+2026-10-24T17:20:28.604108+00:00,50181106,16,Appreciating the beauty of all your body's scars and scratches,63,37
+2026-10-24T17:20:28.604108+00:00,50179920,17,"Cecilia Berdichevsky, Clementina expert (1961)",5,0
+2026-10-24T17:20:28.604108+00:00,50217500,18,Twelve years of distributed SQLite,318,47
+2026-10-24T17:20:28.604108+00:00,50202285,19,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",1487,238
+2026-10-24T17:20:28.604108+00:00,50222976,20,Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs',23,10
+2026-10-24T17:20:28.604108+00:00,50207910,21,Apple Music 404 Not Found,868,253
+2026-10-24T17:20:28.604108+00:00,50171379,22,"A practical guide to AI image generation, from diffusion to agents",205,59
+2026-10-24T17:20:28.604108+00:00,50218195,23,How close can pure functional programming get to C?,209,59
+2026-10-24T17:20:28.604108+00:00,50172962,24,Bringing uv and ty together,245,83
+2026-10-24T17:20:28.604108+00:00,50194536,25,How to run a city builder on 16 MHz,72,19
+2026-10-24T17:20:28.604108+00:00,50180251,26,Tiling Noise – Procedural GPU Patterns,31,1
+2026-10-24T17:20:28.604108+00:00,50213925,27,Dessa: Conversation Model trained only on speech,453,178
+2026-10-24T17:20:28.604108+00:00,50220042,28,Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706,31,5
+2026-10-24T17:20:28.604108+00:00,50217903,29,Apple Security Research Device,131,72
+2026-10-24T17:20:28.604108+00:00,50218633,30,Root shell on Samsung TV,425,160
+2026-10-24T17:20:28.604108+00:00,50220204,31,AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist,84,39
+2026-10-24T17:20:28.604108+00:00,50169499,32,The Real Kevin Bacon,352,91
+2026-10-24T17:20:28.604108+00:00,50215530,33,CVE Tracker,204,71
+2026-10-24T17:20:28.604108+00:00,50191250,34,The Chalk and the Airplane,23,9
+2026-10-24T17:20:28.604108+00:00,50176544,35,C vs. C#: racing VLC's Gaussian blur,125,43
+2026-10-24T17:20:28.604108+00:00,50217946,36,How Block Blast harvests its players for ad money,95,43
+2026-10-24T17:20:28.604108+00:00,50220891,37,I DO Understand Relativity,7,1
+2026-10-24T17:20:28.604108+00:00,50193677,38,The Quake Fan who built the map editor everybody uses,176,22
+2026-10-24T17:20:28.604108+00:00,50214373,39,"Show HN: Corgi, a helpful {agent, terminal} multiplexer",118,40
+2026-10-24T17:20:28.604108+00:00,50212507,40,Air Purifiers as White Noise Machines,161,147
+2026-10-24T17:20:28.604108+00:00,50211746,41,UUIDv7: Timestamps aren’t time-ordered and other oddities,165,137
+2026-10-24T17:20:28.604108+00:00,50168075,42,Rise of collagen-eating microbes may help explain gaps in the fossil record,69,10
+2026-10-24T17:20:28.604108+00:00,50211719,43,How is music possible,152,102
+2026-10-24T17:20:28.604108+00:00,50215828,44,One Man's Pan Am 747 Replica [video],53,5
+2026-10-24T17:20:28.604108+00:00,50190363,45,WorldTUI: I trained a 360M model to pretend to be a terminal,632,188
+2026-10-24T17:20:28.604108+00:00,50182510,46,"The past, present, and future share a show floor at Pinball Expo 2026",45,9
+2026-10-24T17:20:28.604108+00:00,50202114,47,Canadians are running out of time to oppose Bill C-22,477,258
+2026-10-24T17:20:28.604108+00:00,50207115,48,Is this the new cyber normal?,185,215
+2026-10-24T17:20:28.604108+00:00,50220913,49,Elon Musk Just Gave Europe a Reason to Replace American Technology,328,350
+2026-10-24T17:20:28.604108+00:00,50177554,50,A Bicycle Journey Across Brazil to Find a Vanishing Savanna,51,13
