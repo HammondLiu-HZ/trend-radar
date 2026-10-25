@@ -57886,3 +57886,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-25T04:23:28.920276+00:00,50218430,48,OBS Studio 33,445,161
 2026-10-25T04:23:28.920276+00:00,50194536,49,How to run a city builder on 16 MHz,93,26
 2026-10-25T04:23:28.920276+00:00,50217903,50,Apple Security Research Device,174,121
+2026-10-25T09:42:41.342460+00:00,50229587,1,Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism,51,7
+2026-10-25T09:42:41.342460+00:00,50225695,2,We should be more ambitious with the software we build,423,366
+2026-10-25T09:42:41.342460+00:00,50227356,3,Cerebras Deploys Trillion-Parameter AI Models,160,56
+2026-10-25T09:42:41.342460+00:00,50193936,4,How Japanese Dried Bonito Is Made,38,14
+2026-10-25T09:42:41.342460+00:00,50224100,5,The Goose Programming Language,392,250
+2026-10-25T09:42:41.342460+00:00,50224210,6,SpeedCrunch 1.1,146,24
+2026-10-25T09:42:41.342460+00:00,50194645,7,Rewriting a Commercial Engine in Jai,17,5
+2026-10-25T09:42:41.342460+00:00,50225674,8,Small Programs and Languages,107,8
+2026-10-25T09:42:41.342460+00:00,50229599,9,Online censorship is crushing indie webcomics,10,0
+2026-10-25T09:42:41.342460+00:00,50226577,10,Why Gopher in 2026?,76,24
+2026-10-25T09:42:41.342460+00:00,50226419,11,"America has lost 200k of jobs in media, film and the arts. How much is AI?",361,354
+2026-10-25T09:42:41.342460+00:00,50172432,12,I Built a Stereo Vision Board for Hardware Hackers,79,12
+2026-10-25T09:42:41.342460+00:00,50219666,13,I don't understand quantum physics (2018),315,251
+2026-10-25T09:42:41.342460+00:00,50222133,14,FreeDNS,292,79
+2026-10-25T09:42:41.342460+00:00,50202285,15,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",1588,246
+2026-10-25T09:42:41.342460+00:00,50169450,16,Social dynamics of toxic metal industry in medieval Europe,48,21
+2026-10-25T09:42:41.342460+00:00,50219177,17,"Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",316,154
+2026-10-25T09:42:41.342460+00:00,50225663,18,The Importance of Limitations for Creativity and Learning (2023),71,19
+2026-10-25T09:42:41.342460+00:00,50176674,19,"Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",16,1
+2026-10-25T09:42:41.342460+00:00,50186289,20,A story of a Figma bug that wasn't a bug at all (2021),30,1
+2026-10-25T09:42:41.342460+00:00,50222927,21,"The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",116,37
+2026-10-25T09:42:41.342460+00:00,50194935,22,In Rainbows,27,8
+2026-10-25T09:42:41.342460+00:00,50219700,23,GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards,248,71
+2026-10-25T09:42:41.342460+00:00,50194157,24,Tablesample Picks Rows,3,0
+2026-10-25T09:42:41.342460+00:00,50222525,25,Neural chip decodes interactions between brain regions,105,41
+2026-10-25T09:42:41.342460+00:00,50224916,26,Show HN: Steal My Bitcoin,484,299
+2026-10-25T09:42:41.342460+00:00,50222622,27,Roku developer repositories moved from GitHub to GitLab,286,201
+2026-10-25T09:42:41.342460+00:00,50186450,28,Physicists trap a single antimatter particle for a month,305,87
+2026-10-25T09:42:41.342460+00:00,50223777,29,Bbtree: Fastest Ordered Map,110,11
+2026-10-25T09:42:41.342460+00:00,50218195,30,How close can pure functional programming get to C?,268,94
+2026-10-25T09:42:41.342460+00:00,50171379,31,"A practical guide to AI image generation, from diffusion to agents",270,89
+2026-10-25T09:42:41.342460+00:00,50228167,32,Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness,163,57
+2026-10-25T09:42:41.342460+00:00,50223647,33,Why is AI generated language so hard to understand?,199,169
+2026-10-25T09:42:41.342460+00:00,50212065,34,Kimi K3.1 Pro and K3.1 Pro Highspeed,1066,660
+2026-10-25T09:42:41.342460+00:00,50192975,35,TornadoVM 7 Enables GPU-Native Workloads from Java Applications,90,19
+2026-10-25T09:42:41.342460+00:00,50224422,36,"Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",173,115
+2026-10-25T09:42:41.342460+00:00,50222283,37,Oai-math-revised: a community hub for revising OpenAI's math write-ups,45,34
+2026-10-25T09:42:41.342460+00:00,50229422,38,We Never Hear About the Countries Where Socialism Works,4,2
+2026-10-25T09:42:41.342460+00:00,50211474,39,"Today, we hacked what we'd set out to hack: the iPhone",1081,692
+2026-10-25T09:42:41.342460+00:00,50168376,40,Making a VGA Driver in SystemVerilog,57,15
+2026-10-25T09:42:41.342460+00:00,50171936,41,Symbolic Learning in Python and Julia,67,15
+2026-10-25T09:42:41.342460+00:00,50215530,42,CVE Tracker,217,72
+2026-10-25T09:42:41.342460+00:00,50188440,43,Reactive Optimizers: rewrite the optimizer's source code during training,29,2
+2026-10-25T09:42:41.342460+00:00,50217495,44,Around a dozen banking apps began specifically permitting GrapheneOS,646,306
+2026-10-25T09:42:41.342460+00:00,50190363,45,WorldTUI: I trained a 360M model to pretend to be a terminal,641,192
+2026-10-25T09:42:41.342460+00:00,50180251,46,Tiling Noise – Procedural GPU Patterns,60,2
+2026-10-25T09:42:41.342460+00:00,50198954,47,Monoidal computer I: Basic computability by string diagrams (2012),8,0
+2026-10-25T09:42:41.342460+00:00,50179920,48,"Cecilia Berdichevsky, Clementina expert (1961)",33,2
+2026-10-25T09:42:41.342460+00:00,50225443,49,Making My Blog Readable by AI Agents,17,2
+2026-10-25T09:42:41.342460+00:00,50218430,50,OBS Studio 33,450,170
