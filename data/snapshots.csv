@@ -57836,3 +57836,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-24T23:03:41.469911+00:00,50223844,48,Danish Government silently drops plan to dump MS Office,177,127
 2026-10-24T23:03:41.469911+00:00,50176544,49,C vs. C#: racing VLC's Gaussian blur,128,46
 2026-10-24T23:03:41.469911+00:00,50225659,50,Forecasting Financial Markets with Timestral,7,0
+2026-10-25T04:23:28.920276+00:00,50227892,1,Xbox Turns Down Netflix $500M Offer,57,39
+2026-10-25T04:23:28.920276+00:00,50225695,2,We should be more ambitious with the software we build,264,225
+2026-10-25T04:23:28.920276+00:00,50228167,3,Five Qwen3.8-27B models outperform Fable 5 Using GVS5H Harness,7,0
+2026-10-25T04:23:28.920276+00:00,50227356,4,Cerebras Deploys Trillion-Parameter AI Models,38,11
+2026-10-25T04:23:28.920276+00:00,50224100,5,The Goose Programming Language,295,185
+2026-10-25T04:23:28.920276+00:00,50226419,6,"America has lost 200k of jobs in media, film and the arts. How much is AI?",240,247
+2026-10-25T04:23:28.920276+00:00,50224422,7,"Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",144,95
+2026-10-25T04:23:28.920276+00:00,50225674,8,Small Programs and Languages,61,5
+2026-10-25T04:23:28.920276+00:00,50226646,9,"FindMyWeb: Apple Find My, reverse enginiered",38,7
+2026-10-25T04:23:28.920276+00:00,50224210,10,SpeedCrunch 1.1,102,12
+2026-10-25T04:23:28.920276+00:00,50226577,11,Why Gopher in 2026?,44,12
+2026-10-25T04:23:28.920276+00:00,50172432,12,I Built a Stereo Vision Board for Hardware Hackers,47,2
+2026-10-25T04:23:28.920276+00:00,50169450,13,Social dynamics of toxic metal industry in medieval Europe,24,0
+2026-10-25T04:23:28.920276+00:00,50224916,14,Show HN: Steal My Bitcoin,435,264
+2026-10-25T04:23:28.920276+00:00,50227639,15,Meta employees say Lula’s accounts restricted in Brazil election: Report,57,13
+2026-10-25T04:23:28.920276+00:00,50222133,16,FreeDNS,263,66
+2026-10-25T04:23:28.920276+00:00,50219666,17,I don't understand quantum physics (2018),290,233
+2026-10-25T04:23:28.920276+00:00,50194935,18,In Rainbows,10,0
+2026-10-25T04:23:28.920276+00:00,50225663,19,The Importance of Limitations for Creativity and Learning (2023),41,12
+2026-10-25T04:23:28.920276+00:00,50227814,20,Attention people who think UB is fine,4,1
+2026-10-25T04:23:28.920276+00:00,50222927,21,"The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",106,32
+2026-10-25T04:23:28.920276+00:00,50176674,22,"Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",3,1
+2026-10-25T04:23:28.920276+00:00,50219177,23,"Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",291,140
+2026-10-25T04:23:28.920276+00:00,50222525,24,Neural chip decodes interactions between brain regions,97,34
+2026-10-25T04:23:28.920276+00:00,50222622,25,Roku developer repositories moved from GitHub to GitLab,272,186
+2026-10-25T04:23:28.920276+00:00,50202285,26,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",1558,245
+2026-10-25T04:23:28.920276+00:00,50188440,27,Reactive Optimizers: rewrite the optimizer's source code during training,22,1
+2026-10-25T04:23:28.920276+00:00,50186289,28,A story of a Figma bug that wasn't a bug at all (2021),10,0
+2026-10-25T04:23:28.920276+00:00,50219700,29,GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards,206,66
+2026-10-25T04:23:28.920276+00:00,50223777,30,Bbtree: Fastest Ordered Map,70,10
+2026-10-25T04:23:28.920276+00:00,50186450,31,Physicists trap a single antimatter particle for a month,291,82
+2026-10-25T04:23:28.920276+00:00,50168376,32,Making a VGA Driver in SystemVerilog,55,14
+2026-10-25T04:23:28.920276+00:00,50218195,33,How close can pure functional programming get to C?,260,89
+2026-10-25T04:23:28.920276+00:00,50222283,34,Oai-math-revised: a community hub for revising OpenAI's math write-ups,38,31
+2026-10-25T04:23:28.920276+00:00,50171379,35,"A practical guide to AI image generation, from diffusion to agents",247,83
+2026-10-25T04:23:28.920276+00:00,50223647,36,Why is AI generated language so hard to understand?,169,153
+2026-10-25T04:23:28.920276+00:00,50192975,37,TornadoVM 7 Enables GPU-Native Workloads from Java Applications,87,18
+2026-10-25T04:23:28.920276+00:00,50225443,38,Making My Blog Readable by AI Agents,9,0
+2026-10-25T04:23:28.920276+00:00,50171936,39,Symbolic Learning in Python and Julia,63,15
+2026-10-25T04:23:28.920276+00:00,50224463,40,No signs of AI payoff outside the tech sector,512,529
+2026-10-25T04:23:28.920276+00:00,50212065,41,Kimi K3.1 Pro and K3.1 Pro Highspeed,1060,655
+2026-10-25T04:23:28.920276+00:00,50179920,42,"Cecilia Berdichevsky, Clementina expert (1961)",31,2
+2026-10-25T04:23:28.920276+00:00,50211474,43,"Today, we hacked what we'd set out to hack: the iPhone",1077,682
+2026-10-25T04:23:28.920276+00:00,50180251,44,Tiling Noise – Procedural GPU Patterns,59,2
+2026-10-25T04:23:28.920276+00:00,50223785,45,Dream-1,157,76
+2026-10-25T04:23:28.920276+00:00,50215530,46,CVE Tracker,214,72
+2026-10-25T04:23:28.920276+00:00,50217495,47,Around a dozen banking apps began specifically permitting GrapheneOS,627,296
+2026-10-25T04:23:28.920276+00:00,50218430,48,OBS Studio 33,445,161
+2026-10-25T04:23:28.920276+00:00,50194536,49,How to run a city builder on 16 MHz,93,26
+2026-10-25T04:23:28.920276+00:00,50217903,50,Apple Security Research Device,174,121
