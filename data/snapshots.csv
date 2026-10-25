@@ -57936,3 +57936,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-25T09:42:41.342460+00:00,50179920,48,"Cecilia Berdichevsky, Clementina expert (1961)",33,2
 2026-10-25T09:42:41.342460+00:00,50225443,49,Making My Blog Readable by AI Agents,17,2
 2026-10-25T09:42:41.342460+00:00,50218430,50,OBS Studio 33,450,170
+2026-10-25T14:13:52.824878+00:00,50230917,1,Tool book of a Nuremberg knight from 1505,44,4
+2026-10-25T14:13:52.824878+00:00,50230384,2,fheroes2: A recreation of Heroes of Might and Magic II game engine,83,25
+2026-10-25T14:13:52.824878+00:00,50231349,3,Show HN: Farol – a risk map of a pull request for the person who approves it,8,3
+2026-10-25T14:13:52.824878+00:00,50225695,4,We should be more ambitious with the software we build,533,485
+2026-10-25T14:13:52.824878+00:00,50227356,5,Cerebras Deploys Trillion-Parameter AI Models,237,77
+2026-10-25T14:13:52.824878+00:00,50230181,6,Samsung running a TensorFlow lite model on 960x540 image to track you,148,90
+2026-10-25T14:13:52.824878+00:00,50193936,7,How Japanese Dried Bonito Is Made,100,28
+2026-10-25T14:13:52.824878+00:00,50224100,8,The Goose Programming Language,475,284
+2026-10-25T14:13:52.824878+00:00,50230965,9,Challenge Is Gone,44,44
+2026-10-25T14:13:52.824878+00:00,50231001,10,The Lego group reveals collaboration with Daft Punk,22,14
+2026-10-25T14:13:52.824878+00:00,50194645,11,Rewriting a Commercial Engine in Jai,53,39
+2026-10-25T14:13:52.824878+00:00,50229827,12,Nikon photography contest winner loses title after scientists spot signs of AI,53,11
+2026-10-25T14:13:52.824878+00:00,50197434,13,Reverse engineer of PC-98 Touhou games retires,27,27
+2026-10-25T14:13:52.824878+00:00,50224210,14,SpeedCrunch 1.1,179,36
+2026-10-25T14:13:52.824878+00:00,50225674,15,Small Programs and Languages,139,19
+2026-10-25T14:13:52.824878+00:00,50202285,16,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",1621,251
+2026-10-25T14:13:52.824878+00:00,50219177,17,"Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",348,168
+2026-10-25T14:13:52.824878+00:00,50226419,18,"America has lost 200k of jobs in media, film and the arts. How much is AI?",409,440
+2026-10-25T14:13:52.824878+00:00,50219666,19,I don't understand quantum physics (2018),337,263
+2026-10-25T14:13:52.824878+00:00,50226577,20,Why Gopher in 2026?,100,50
+2026-10-25T14:13:52.824878+00:00,50222133,21,FreeDNS,318,83
+2026-10-25T14:13:52.824878+00:00,50225663,22,The Importance of Limitations for Creativity and Learning (2023),94,33
+2026-10-25T14:13:52.824878+00:00,50172432,23,I Built a Stereo Vision Board for Hardware Hackers,98,17
+2026-10-25T14:13:52.824878+00:00,50219700,24,GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards,284,73
+2026-10-25T14:13:52.824878+00:00,50169450,25,Social dynamics of toxic metal industry in medieval Europe,66,33
+2026-10-25T14:13:52.824878+00:00,50222525,26,Neural chip decodes interactions between brain regions,118,45
+2026-10-25T14:13:52.824878+00:00,50186289,27,A story of a Figma bug that wasn't a bug at all (2021),47,5
+2026-10-25T14:13:52.824878+00:00,50186450,28,Physicists trap a single antimatter particle for a month,322,97
+2026-10-25T14:13:52.824878+00:00,50222927,29,"The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",127,39
+2026-10-25T14:13:52.824878+00:00,50199265,30,Radio Days,6,3
+2026-10-25T14:13:52.824878+00:00,50223777,31,Bbtree: Fastest Ordered Map,136,16
+2026-10-25T14:13:52.824878+00:00,50222622,32,Roku developer repositories moved from GitHub to GitLab,294,208
+2026-10-25T14:13:52.824878+00:00,50176674,33,"Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",25,3
+2026-10-25T14:13:52.824878+00:00,50218195,34,How close can pure functional programming get to C?,275,98
+2026-10-25T14:13:52.824878+00:00,50194935,35,In Rainbows,29,9
+2026-10-25T14:13:52.824878+00:00,50224916,36,Show HN: Steal My Bitcoin,535,329
+2026-10-25T14:13:52.824878+00:00,50171379,37,"A practical guide to AI image generation, from diffusion to agents",279,91
+2026-10-25T14:13:52.824878+00:00,50212065,38,Kimi K3.1 Pro and K3.1 Pro Highspeed,1067,665
+2026-10-25T14:13:52.824878+00:00,50229861,39,France asked ISPs to prepare temporary DNS blocks for major social platforms,120,110
+2026-10-25T14:13:52.824878+00:00,50223647,40,Why is AI generated language so hard to understand?,213,176
+2026-10-25T14:13:52.824878+00:00,50192975,41,TornadoVM 7 Enables GPU-Native Workloads from Java Applications,94,21
+2026-10-25T14:13:52.824878+00:00,50211474,42,"Today, we hacked what we'd set out to hack: the iPhone",1085,704
+2026-10-25T14:13:52.824878+00:00,50222283,43,Oai-math-revised: a community hub for revising OpenAI's math write-ups,48,37
+2026-10-25T14:13:52.824878+00:00,50190363,44,WorldTUI: I trained a 360M model to pretend to be a terminal,644,192
+2026-10-25T14:13:52.824878+00:00,50224422,45,"Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",183,117
+2026-10-25T14:13:52.824878+00:00,50215530,46,CVE Tracker,221,77
+2026-10-25T14:13:52.824878+00:00,50229587,47,Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism,419,262
+2026-10-25T14:13:52.824878+00:00,50229599,48,Online censorship is crushing indie webcomics,101,82
+2026-10-25T14:13:52.824878+00:00,50217495,49,Around a dozen banking apps began specifically permitting GrapheneOS,655,318
+2026-10-25T14:13:52.824878+00:00,50168376,50,Making a VGA Driver in SystemVerilog,60,15
