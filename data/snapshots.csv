@@ -58436,3 +58436,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-27T10:21:03.455072+00:00,50225695,48,We should be more ambitious with the software we build,892,766
 2026-10-27T10:21:03.455072+00:00,50209573,49,Colorfigures,141,21
 2026-10-27T10:21:03.455072+00:00,50248665,50,US designates helium as a critical material,211,125
+2026-10-27T16:22:55.904030+00:00,50259343,1,PHP2Shell: Exploitation Attempts and Remediation Trends,133,42
+2026-10-27T16:22:55.904030+00:00,50261319,2,Genie 4,31,9
+2026-10-27T16:22:55.904030+00:00,50257419,3,Python's experimental JIT to be removed,263,137
+2026-10-27T16:22:55.904030+00:00,50257325,4,AI promised less work. I've never worked more,531,457
+2026-10-27T16:22:55.904030+00:00,50257326,5,Wikipedia's Cleanup of AI-Generated Content,248,107
+2026-10-27T16:22:55.904030+00:00,50259406,6,Giving chat feedback gives Anthropic your data,134,63
+2026-10-27T16:22:55.904030+00:00,50258868,7,Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?,80,19
+2026-10-27T16:22:55.904030+00:00,50245014,8,Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down,53,5
+2026-10-27T16:22:55.904030+00:00,50259604,9,The US Government Is Hiding Secret Court Ruling About How It Spies on Americans,258,65
+2026-10-27T16:22:55.904030+00:00,50260242,10,Viral Polls Are Not Representative Polls,30,21
+2026-10-27T16:22:55.904030+00:00,50260619,11,My video has unit tests,14,2
+2026-10-27T16:22:55.904030+00:00,50251344,12,"Three new discoveries in mathematics, computer science, and physics",1070,611
+2026-10-27T16:22:55.904030+00:00,50257548,13,"Software may be getting worse, but it used to be horrible",220,173
+2026-10-27T16:22:55.904030+00:00,50261352,14,Apple introduces the new 14‑inch MacBook Pro with M6,14,2
+2026-10-27T16:22:55.904030+00:00,50258538,15,New iMac with M6,132,118
+2026-10-27T16:22:55.904030+00:00,50255298,16,The Mythical Man-Month in the Age of AI,349,225
+2026-10-27T16:22:55.904030+00:00,50235661,17,A Stackless Floodfill Automaton,20,5
+2026-10-27T16:22:55.904030+00:00,50256952,18,Gforth 1.0,102,6
+2026-10-27T16:22:55.904030+00:00,50232101,19,OpenLDK: Bringing the Java World into Common Lisp,12,0
+2026-10-27T16:22:55.904030+00:00,50251661,20,The Exponential Time Hypothesis Is False [pdf],741,266
+2026-10-27T16:22:55.904030+00:00,50260814,21,Anthropic trained Claude on illegally obtained Stanford professors' books,35,14
+2026-10-27T16:22:55.904030+00:00,50260960,22,Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims,20,5
+2026-10-27T16:22:55.904030+00:00,50256985,23,Roblox downloaded 145GB models from us (including adult content) without asking,402,231
+2026-10-27T16:22:55.904030+00:00,50245138,24,Sebastian Raschka's from-scratch video course on building reasoning models,803,106
+2026-10-27T16:22:55.904030+00:00,50260571,25,Show HN: Specification First Agentic Development Plugin and Prove,5,0
+2026-10-27T16:22:55.904030+00:00,50220782,26,188-Year-Old Mystery of Photography's First Human Subjects Solved,35,7
+2026-10-27T16:22:55.904030+00:00,50248055,27,Oldest GUI application that still runs on Windows 11,506,301
+2026-10-27T16:22:55.904030+00:00,50245385,28,Solar power is becoming bigger than nuclear,487,669
+2026-10-27T16:22:55.904030+00:00,50260526,29,A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies,20,1
+2026-10-27T16:22:55.904030+00:00,50235449,30,"Kauldron: Modular, scalable library to train ML models",20,2
+2026-10-27T16:22:55.904030+00:00,50253939,31,I still teach OpenGL ES 3.0,122,77
+2026-10-27T16:22:55.904030+00:00,50245831,32,CSS-Tricks has a new owner,535,110
+2026-10-27T16:22:55.904030+00:00,50248371,33,Type Server Protocol,263,172
+2026-10-27T16:22:55.904030+00:00,50240465,34,How to grow a cacao tree at home (2024),137,39
+2026-10-27T16:22:55.904030+00:00,50204697,35,A Printer Printing onto Paper,186,45
+2026-10-27T16:22:55.904030+00:00,50255177,36,Writing about pratt parsing so I remember it,76,7
+2026-10-27T16:22:55.904030+00:00,50252159,37,Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses),172,71
+2026-10-27T16:22:55.904030+00:00,50253529,38,"16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",122,30
+2026-10-27T16:22:55.904030+00:00,50259050,39,Alleged Israeli spy company targeted Starlink users,92,14
+2026-10-27T16:22:55.904030+00:00,50260714,40,JetBrains IDEs are now powered by libghostty,15,3
+2026-10-27T16:22:55.904030+00:00,50247928,41,A Man from the Future: Why Johnny Can't Stop Abstracting,206,88
+2026-10-27T16:22:55.904030+00:00,50247493,42,Nietzschian Debugger,206,62
+2026-10-27T16:22:55.904030+00:00,50260747,43,"Hy-Nomas, Tencent's new open-source world model you can steer with text",4,0
+2026-10-27T16:22:55.904030+00:00,50236681,44,SIMD-accelerated computer vision on a $2 microcontroller,225,64
+2026-10-27T16:22:55.904030+00:00,50258343,45,The Case for OpenTelemetry Maintainership,3,0
+2026-10-27T16:22:55.904030+00:00,50234707,46,"APC says let there be light, with standards to speed up photonics manufacturing",45,8
+2026-10-27T16:22:55.904030+00:00,50245524,47,Microsoft offers mass buyouts for roughly a quarter of its workforce,1009,1034
+2026-10-27T16:22:55.904030+00:00,50258205,48,The Shift of Theseus – Toy Bit Provenance Abstract Domain,3,0
+2026-10-27T16:22:55.904030+00:00,50212625,49,Txoko: Basques' traditional feast a gastronomic peek into a culture (2024),40,13
+2026-10-27T16:22:55.904030+00:00,50256738,50,I will no longer upload to NEW,214,126
