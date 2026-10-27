@@ -58386,3 +58386,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-27T04:45:51.113970+00:00,50228115,48,Show HN: A Truly Modular Keyboard,283,101
 2026-10-27T04:45:51.113970+00:00,50225695,49,We should be more ambitious with the software we build,889,766
 2026-10-27T04:45:51.113970+00:00,50238739,50,"PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",230,82
+2026-10-27T10:21:03.455072+00:00,50251344,1,"Three new discoveries in mathematics, computer science, and physics",914,440
+2026-10-27T10:21:03.455072+00:00,50255298,2,The Mythical Man-Month in the Age of AI,143,111
+2026-10-27T10:21:03.455072+00:00,50251661,3,The Exponential Time Hypothesis Is False [pdf],627,227
+2026-10-27T10:21:03.455072+00:00,50256230,4,AI is ruining haunted houses,11,5
+2026-10-27T10:21:03.455072+00:00,50196212,5,New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients,57,28
+2026-10-27T10:21:03.455072+00:00,50245138,6,Sebastian Raschka's from-scratch video course on building reasoning models,712,99
+2026-10-27T10:21:03.455072+00:00,50218975,7,Show HN: Encarta 95 Web,24,10
+2026-10-27T10:21:03.455072+00:00,50248055,8,Oldest GUI application that still runs on Windows 11,430,247
+2026-10-27T10:21:03.455072+00:00,50253939,9,I still teach OpenGL ES 3.0,65,41
+2026-10-27T10:21:03.455072+00:00,50255177,10,Writing about pratt parsing so I remember it,33,1
+2026-10-27T10:21:03.455072+00:00,50248371,11,Type Server Protocol,243,163
+2026-10-27T10:21:03.455072+00:00,50245385,12,Solar power is becoming bigger than nuclear,325,482
+2026-10-27T10:21:03.455072+00:00,50245831,13,CSS-Tricks has a new owner,481,105
+2026-10-27T10:21:03.455072+00:00,50253529,14,"16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",90,22
+2026-10-27T10:21:03.455072+00:00,50252159,15,Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses),137,45
+2026-10-27T10:21:03.455072+00:00,50204697,16,A Printer Printing onto Paper,132,29
+2026-10-27T10:21:03.455072+00:00,50240465,17,How to grow a cacao tree at home (2024),76,25
+2026-10-27T10:21:03.455072+00:00,50243061,18,New iPad mini,210,517
+2026-10-27T10:21:03.455072+00:00,50220798,19,LimonOS Custom x86-64 Kernel,8,1
+2026-10-27T10:21:03.455072+00:00,50212625,20,Txoko: Basques' traditional feast a gastronomic peek into a culture (2024),24,8
+2026-10-27T10:21:03.455072+00:00,50247928,21,A Man from the Future: Why Johnny Can't Stop Abstracting,177,81
+2026-10-27T10:21:03.455072+00:00,50234707,22,"APC says let there be light, with standards to speed up photonics manufacturing",35,6
+2026-10-27T10:21:03.455072+00:00,50241664,23,Websites Should Be Printable,340,198
+2026-10-27T10:21:03.455072+00:00,50242939,24,Anthropic S-1,1618,1549
+2026-10-27T10:21:03.455072+00:00,50200152,25,Blaise Pascal invented fixed route public transport (2024),292,148
+2026-10-27T10:21:03.455072+00:00,50247493,26,Nietzschian Debugger,179,53
+2026-10-27T10:21:03.455072+00:00,50256738,27,I will no longer upload to NEW,5,0
+2026-10-27T10:21:03.455072+00:00,50196839,28,"Chemists, Chemical Engineers, and Plant Managers",12,0
+2026-10-27T10:21:03.455072+00:00,50231041,29,LISPy things you can do in 64K bytes of core (2019),62,12
+2026-10-27T10:21:03.455072+00:00,50236681,30,SIMD-accelerated computer vision on a $2 microcontroller,207,61
+2026-10-27T10:21:03.455072+00:00,50245524,31,Microsoft offers mass buyouts for roughly a quarter of its workforce,950,924
+2026-10-27T10:21:03.455072+00:00,50226808,32,Virtual and Real World Combine at LAN Party (1998),47,6
+2026-10-27T10:21:03.455072+00:00,50248124,33,GPT-6.1 Terra,593,377
+2026-10-27T10:21:03.455072+00:00,50241925,34,Pharo 14,263,73
+2026-10-27T10:21:03.455072+00:00,50209525,35,Diamond Transistor,152,85
+2026-10-27T10:21:03.455072+00:00,50242870,36,Fixing Tool-Call Accuracy in vLLM,165,68
+2026-10-27T10:21:03.455072+00:00,50252008,37,"Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",41,33
+2026-10-27T10:21:03.455072+00:00,50232322,38,Historical Telecommunications,15,1
+2026-10-27T10:21:03.455072+00:00,50211780,39,"Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",52,75
+2026-10-27T10:21:03.455072+00:00,50246238,40,"Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",147,33
+2026-10-27T10:21:03.455072+00:00,50255346,41,“AI Skills” are worthless in 2026,23,9
+2026-10-27T10:21:03.455072+00:00,50213502,42,Native Prometheus Integration with Nginx,48,10
+2026-10-27T10:21:03.455072+00:00,50213147,43,In Context [video],27,1
+2026-10-27T10:21:03.455072+00:00,50254935,44,"UK to charge universities $1,200 per international student",45,33
+2026-10-27T10:21:03.455072+00:00,50238763,45,Behind the scenes at the NeXT Computer office,257,155
+2026-10-27T10:21:03.455072+00:00,50249275,46,The EPA Is Quietly Killing Its Web Archive,283,52
+2026-10-27T10:21:03.455072+00:00,50215997,47,Birdwatching rewires the brain and slows cognitive decline,529,207
+2026-10-27T10:21:03.455072+00:00,50225695,48,We should be more ambitious with the software we build,892,766
+2026-10-27T10:21:03.455072+00:00,50209573,49,Colorfigures,141,21
+2026-10-27T10:21:03.455072+00:00,50248665,50,US designates helium as a critical material,211,125
