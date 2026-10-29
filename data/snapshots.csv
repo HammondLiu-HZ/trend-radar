@@ -58735,3 +58735,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-28T20:55:54.558847+00:00,50219275,48,A Love Letter to the Super Dimension Fortress,88,17
 2026-10-28T20:55:54.558847+00:00,50218199,49,The Colors of a Soap Film,41,7
 2026-10-28T20:55:54.558847+00:00,50265128,50,Four Months of Zig,171,134
+2026-10-29T00:45:06.199521+00:00,50276998,1,Why is this fingerprinting script creating bioweapons?,786,176
+2026-10-29T00:45:06.199521+00:00,50282544,2,GitLab Security Incident: Attempted Exploitation of CVE-2026-97229,47,3
+2026-10-29T00:45:06.199521+00:00,50282454,3,StackOverflow now gets fewer than 1000 questions a month,49,36
+2026-10-29T00:45:06.199521+00:00,50274409,4,CNC Stone Carving,394,116
+2026-10-29T00:45:06.199521+00:00,50280974,5,A Health Update,68,6
+2026-10-29T00:45:06.199521+00:00,50282650,6,Get Ready for Touch on Mac,10,13
+2026-10-29T00:45:06.199521+00:00,50276792,7,Gemini 4 Carbon,786,640
+2026-10-29T00:45:06.199521+00:00,50280722,8,The case of the 9 bit AES key,71,36
+2026-10-29T00:45:06.199521+00:00,50281044,9,Formlabs Studio 1 $699 Resin Printer,100,76
+2026-10-29T00:45:06.199521+00:00,50276940,10,MacBook Pro with PROLED XDR Display and Touch,491,838
+2026-10-29T00:45:06.199521+00:00,50243060,11,"The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",405,197
+2026-10-29T00:45:06.199521+00:00,50208960,12,Start Doing Graph Theory,574,124
+2026-10-29T00:45:06.199521+00:00,50275626,14,Dayjob: Tax – evaluating AI agents on 50 professional tax assignments,195,120
+2026-10-29T00:45:06.199521+00:00,50220975,15,Why Birds Can Fly over Mount Everest,55,10
+2026-10-29T00:45:06.199521+00:00,50274251,16,AlpineBSD,173,160
+2026-10-29T00:45:06.199521+00:00,50282538,17,The first wired XR glasses powered by Android XR,6,5
+2026-10-29T00:45:06.199521+00:00,50277755,18,Spiders Spin 'Silk Dope' into Nature's Toughest Material,46,3
+2026-10-29T00:45:06.199521+00:00,50271640,19,Apple's git still trusts the compromised eMudhra certificates,1031,377
+2026-10-29T00:45:06.199521+00:00,50209269,20,Gaussian Splats part 3: There's always a bigger scene,99,21
+2026-10-29T00:45:06.199521+00:00,50250609,21,Image generation has come a long way since August 2022,26,5
+2026-10-29T00:45:06.199521+00:00,50273731,22,The Agent SDK,92,108
+2026-10-29T00:45:06.199521+00:00,50276883,23,Show HN: SlideBySide – Present slides without sharing your screen,54,23
+2026-10-29T00:45:06.199521+00:00,50273171,24,Emacs Turns 50,405,173
+2026-10-29T00:45:06.199521+00:00,50280662,25,Leak website releases data on DHS employees,60,11
+2026-10-29T00:45:06.199521+00:00,50278253,26,Scaling Hierarchical Networks,26,1
+2026-10-29T00:45:06.199521+00:00,50238637,27,Oseberg Tapestry Fragments,16,0
+2026-10-29T00:45:06.199521+00:00,50273396,28,Kentucky man becomes the first humanist granted religious exemption from AI,423,468
+2026-10-29T00:45:06.199521+00:00,50275373,29,Archive.today links going forward,191,123
+2026-10-29T00:45:06.199521+00:00,50261998,30,Ghostty 1.4,1296,412
+2026-10-29T00:45:06.199521+00:00,50268478,31,Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984),17,0
+2026-10-29T00:45:06.199521+00:00,50261319,32,Genie 4,1020,576
+2026-10-29T00:45:06.199521+00:00,50275128,33,Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages,110,18
+2026-10-29T00:45:06.199521+00:00,50227400,34,MacOS Extensions Pack for the Apple Network Server v1.0,117,2
+2026-10-29T00:45:06.199521+00:00,50272145,35,US agency approves Amazon Leo’s $11.5B acquisition of Globalstar,222,100
+2026-10-29T00:45:06.199521+00:00,50272479,36,Sleep framework: A new way for LLMs to retain knowledge in continual learning,32,3
+2026-10-29T00:45:06.199521+00:00,50268380,37,Git for the US Code,427,252
+2026-10-29T00:45:06.199521+00:00,50234796,38,Ink droplets in motion snag top prize in Nikon Small World contest,389,69
+2026-10-29T00:45:06.199521+00:00,50265594,39,Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees,214,137
+2026-10-29T00:45:06.199521+00:00,50280864,40,"Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",263,121
+2026-10-29T00:45:06.199521+00:00,50264853,41,Survival LLM: AI assistant and emergency library that runs on your own computer,516,194
+2026-10-29T00:45:06.199521+00:00,50279722,42,"GitHub saw 7.4B commits in Sep., adding 4M CPU cores+160 PB storage to keep up",21,7
+2026-10-29T00:45:06.199521+00:00,50265128,43,Four Months of Zig,176,137
+2026-10-29T00:45:06.199521+00:00,50272596,44,"Two high-speed trains collide near Toledo, Spain",182,203
+2026-10-29T00:45:06.199521+00:00,50219275,45,A Love Letter to the Super Dimension Fortress,92,17
+2026-10-29T00:45:06.199521+00:00,50279386,46,Mecca Defence Alliance,21,0
+2026-10-29T00:45:06.199521+00:00,50281015,47,"Alien 3 Is Getting a Second Chance on the Amiga CD32, More Than 30 Years Later",9,0
+2026-10-29T00:45:06.199521+00:00,50271685,48,About the compromised eMudhra intermediate CAs,153,73
+2026-10-29T00:45:06.199521+00:00,50218199,49,The Colors of a Soap Film,43,7
+2026-10-29T00:45:06.199521+00:00,50242688,50,Jokes for the ZX81,120,18
