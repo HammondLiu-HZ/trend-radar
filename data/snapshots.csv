@@ -58784,3 +58784,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-29T00:45:06.199521+00:00,50271685,48,About the compromised eMudhra intermediate CAs,153,73
 2026-10-29T00:45:06.199521+00:00,50218199,49,The Colors of a Soap Film,43,7
 2026-10-29T00:45:06.199521+00:00,50242688,50,Jokes for the ZX81,120,18
+2026-10-29T06:55:47.860187+00:00,50282838,1,"Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",315,74
+2026-10-29T06:55:47.860187+00:00,50276998,2,Why is this fingerprinting script creating bioweapons?,1052,214
+2026-10-29T06:55:47.860187+00:00,50256409,3,A new faster algorithm to compute 64-bit signed floor division,20,0
+2026-10-29T06:55:47.860187+00:00,50282544,4,GitLab Security Incident: Attempted Exploitation of CVE-2026-97229,144,64
+2026-10-29T06:55:47.860187+00:00,50284255,5,Claude Code regularly sends each background agent’s transcript to its model,246,75
+2026-10-29T06:55:47.860187+00:00,50280974,6,A Health Update,190,31
+2026-10-29T06:55:47.860187+00:00,50285177,7,Bernstein – open-source governance layer for AI agents,4,0
+2026-10-29T06:55:47.860187+00:00,50282454,8,StackOverflow now gets fewer than 1000 questions a month,292,260
+2026-10-29T06:55:47.860187+00:00,50274409,9,CNC Stone Carving,451,124
+2026-10-29T06:55:47.860187+00:00,50251200,10,OpenAI's agents talked to each other through the CPU Cache,61,13
+2026-10-29T06:55:47.860187+00:00,50276792,11,Gemini 4 Carbon,881,728
+2026-10-29T06:55:47.860187+00:00,50243060,12,"The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",482,216
+2026-10-29T06:55:47.860187+00:00,50281044,13,Formlabs Studio 1 $699 Resin Printer,161,106
+2026-10-29T06:55:47.860187+00:00,50242873,14,Human-enhanced tsunami hazard in large lakes,28,2
+2026-10-29T06:55:47.860187+00:00,50220975,15,Why birds can fly over Mount Everest (2020),122,16
+2026-10-29T06:55:47.860187+00:00,50276940,16,MacBook Pro with PROLED XDR Display and Touch,555,938
+2026-10-29T06:55:47.860187+00:00,50241949,17,Treap (Cartesian Tree),9,1
+2026-10-29T06:55:47.860187+00:00,50271756,18,TLP Is Not a Suggestion,4,0
+2026-10-29T06:55:47.860187+00:00,50244929,19,Nixpkgs for the Front End Impaired,39,9
+2026-10-29T06:55:47.860187+00:00,50233059,20,The 'else' keyword is probably a literal translation from German (2020),83,76
+2026-10-29T06:55:47.860187+00:00,50274251,21,AlpineBSD,196,184
+2026-10-29T06:55:47.860187+00:00,50284342,22,Zillow to pay $212.5M to settle class action for real estate venture,29,8
+2026-10-29T06:55:47.860187+00:00,50271640,23,Apple's git still trusts the compromised eMudhra certificates,1097,390
+2026-10-29T06:55:47.860187+00:00,50275626,25,Dayjob: Tax – evaluating AI agents on 50 professional tax assignments,223,144
+2026-10-29T06:55:47.860187+00:00,50284329,26,The Milwaukee Brewers win the first World Series title in franchise history,74,40
+2026-10-29T06:55:47.860187+00:00,50278253,27,Scaling Hierarchical Networks,58,2
+2026-10-29T06:55:47.860187+00:00,50233948,28,How we made our MMDB files a 33% smaller,24,4
+2026-10-29T06:55:47.860187+00:00,50280722,29,The case of the 9 bit AES key,103,53
+2026-10-29T06:55:47.860187+00:00,50277755,30,Spiders Spin 'Silk Dope' into Nature's Toughest Material,56,6
+2026-10-29T06:55:47.860187+00:00,50273171,31,Emacs Turns 50,471,199
+2026-10-29T06:55:47.860187+00:00,50273731,32,The Agent SDK,115,118
+2026-10-29T06:55:47.860187+00:00,50276883,33,Show HN: SlideBySide – Present slides without sharing your screen,69,27
+2026-10-29T06:55:47.860187+00:00,50250609,34,Image generation has come a long way since August 2022,55,21
+2026-10-29T06:55:47.860187+00:00,50261998,35,Ghostty 1.4,1316,417
+2026-10-29T06:55:47.860187+00:00,50261319,36,Genie 4,1026,582
+2026-10-29T06:55:47.860187+00:00,50282538,37,The first wired XR glasses powered by Android XR,61,48
+2026-10-29T06:55:47.860187+00:00,50238637,38,Oseberg Tapestry Fragments,21,3
+2026-10-29T06:55:47.860187+00:00,50283488,39,Electronic fibers weave touchscreen into sleeve that survives machine washing,31,4
+2026-10-29T06:55:47.860187+00:00,50272479,40,Sleep framework: A new way for LLMs to retain knowledge in continual learning,47,3
+2026-10-29T06:55:47.860187+00:00,50280662,41,Leak website releases data on DHS employees,119,30
+2026-10-29T06:55:47.860187+00:00,50273396,42,Kentucky man becomes the first humanist granted religious exemption from AI,453,499
+2026-10-29T06:55:47.860187+00:00,50281826,43,AI execs may be too out of touch to build for the general public,50,31
+2026-10-29T06:55:47.860187+00:00,50227400,44,MacOS Extensions Pack for the Apple Network Server v1.0,122,2
+2026-10-29T06:55:47.860187+00:00,50234796,45,Ink droplets in motion snag top prize in Nikon Small World contest,398,69
+2026-10-29T06:55:47.860187+00:00,50268380,46,Git for the US Code,436,262
+2026-10-29T06:55:47.860187+00:00,50272145,47,US agency approves Amazon Leo’s $11.5B acquisition of Globalstar,229,104
+2026-10-29T06:55:47.860187+00:00,50265594,48,Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees,219,143
+2026-10-29T06:55:47.860187+00:00,50264853,49,Survival LLM: AI assistant and emergency library that runs on your own computer,525,194
+2026-10-29T06:55:47.860187+00:00,50268478,50,Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984),19,0
