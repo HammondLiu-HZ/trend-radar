@@ -58833,3 +58833,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-29T06:55:47.860187+00:00,50265594,48,Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees,219,143
 2026-10-29T06:55:47.860187+00:00,50264853,49,Survival LLM: AI assistant and emergency library that runs on your own computer,525,194
 2026-10-29T06:55:47.860187+00:00,50268478,50,Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984),19,0
+2026-10-29T14:06:08.599653+00:00,50288019,1,Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5,121,81
+2026-10-29T14:06:08.599653+00:00,50288867,2,Read the letter the FBI sent MLK to try to convince him to kill himself (2014),71,17
+2026-10-29T14:06:08.599653+00:00,50287599,3,NetBSD adds a new beginner-friendly text editor called atto,55,39
+2026-10-29T14:06:08.599653+00:00,50282838,4,"Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",598,120
+2026-10-29T14:06:08.599653+00:00,50285452,5,"Zero click, silent, remote Android DoS",202,111
+2026-10-29T14:06:08.599653+00:00,50286987,6,"Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",40,17
+2026-10-29T14:06:08.599653+00:00,50276998,7,Why is this fingerprinting script creating bioweapons?,1408,259
+2026-10-29T14:06:08.599653+00:00,50287448,8,Google determines the names for bodies of water in Google Earth (2008),87,69
+2026-10-29T14:06:08.599653+00:00,50243757,9,Getting debug access on a Brother printer over Telnet,111,32
+2026-10-29T14:06:08.599653+00:00,50287001,10,The US added a record 20.2 GWh of battery storage in just 3 months,136,96
+2026-10-29T14:06:08.599653+00:00,50287255,11,Show HN: UK Farming Simulator,26,30
+2026-10-29T14:06:08.599653+00:00,50287919,12,DoorDash to Acquire Instacart,94,75
+2026-10-29T14:06:08.599653+00:00,50253100,13,Southern Africa's first known stenciled rock art found hiding in plain sight,20,2
+2026-10-29T14:06:08.599653+00:00,50287775,14,If IPv4 Were Land,108,87
+2026-10-29T14:06:08.599653+00:00,50285319,15,Forging a Microsoft Edge Full Chain with Logic Bugs Only,157,26
+2026-10-29T14:06:08.599653+00:00,50287898,16,Hackers expose the identities of more than 40k DHS employees,75,17
+2026-10-29T14:06:08.599653+00:00,50259697,17,"MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",60,10
+2026-10-29T14:06:08.599653+00:00,50241195,18,"Requests, Please",50,11
+2026-10-29T14:06:08.599653+00:00,50282454,19,StackOverflow now gets fewer than 1000 questions a month,610,511
+2026-10-29T14:06:08.599653+00:00,50251200,20,OpenAI's agents talked to each other through the CPU Cache,271,187
+2026-10-29T14:06:08.599653+00:00,50242509,21,Java's new AOT cache feature is in a rough state,5,0
+2026-10-29T14:06:08.599653+00:00,50280974,22,A Health Update,308,47
+2026-10-29T14:06:08.599653+00:00,50274409,23,CNC Stone Carving,496,137
+2026-10-29T14:06:08.599653+00:00,50282544,24,GitLab Security Incident: Attempted Exploitation of CVE-2026-97229,211,100
+2026-10-29T14:06:08.599653+00:00,50286738,25,I Used AI to Fake a Scientific Paper. Here's What Happened,22,10
+2026-10-29T14:06:08.599653+00:00,50256409,26,A new faster algorithm to compute 64-bit signed floor division,115,9
+2026-10-29T14:06:08.599653+00:00,50243060,27,"The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",537,237
+2026-10-29T14:06:08.599653+00:00,50284255,28,Claude Code regularly sends each background agent’s transcript to its model,485,197
+2026-10-29T14:06:08.599653+00:00,50276792,29,Gemini 4 Carbon,972,775
+2026-10-29T14:06:08.599653+00:00,50220975,30,Why birds can fly over Mount Everest (2020),211,36
+2026-10-29T14:06:08.599653+00:00,50241949,31,Treap (Cartesian Tree),47,8
+2026-10-29T14:06:08.599653+00:00,50281044,32,Formlabs Studio 1 $699 Resin Printer,204,144
+2026-10-29T14:06:08.599653+00:00,50274251,34,AlpineBSD,238,222
+2026-10-29T14:06:08.599653+00:00,50276940,35,MacBook Pro with PROLED XDR Display and Touch,602,1029
+2026-10-29T14:06:08.599653+00:00,50242873,36,Human-enhanced tsunami hazard in large lakes,59,6
+2026-10-29T14:06:08.599653+00:00,50244929,37,Nixpkgs for the Front End Impaired,84,16
+2026-10-29T14:06:08.599653+00:00,50271640,38,Apple's git still trusts the compromised eMudhra certificates,1159,399
+2026-10-29T14:06:08.599653+00:00,50278253,39,Scaling Hierarchical Networks,82,5
+2026-10-29T14:06:08.599653+00:00,50277755,40,Spiders Spin 'Silk Dope' into Nature's Toughest Material,72,8
+2026-10-29T14:06:08.599653+00:00,50275626,41,Dayjob: Tax – evaluating AI agents on 50 professional tax assignments,247,156
+2026-10-29T14:06:08.599653+00:00,50273731,42,The Agent SDK,133,129
+2026-10-29T14:06:08.599653+00:00,50273171,43,Emacs Turns 50,498,216
+2026-10-29T14:06:08.599653+00:00,50261998,44,Ghostty 1.4,1329,422
+2026-10-29T14:06:08.599653+00:00,50261319,45,Genie 4,1032,583
+2026-10-29T14:06:08.599653+00:00,50233948,46,How we made our MMDB files a 33% smaller,35,4
+2026-10-29T14:06:08.599653+00:00,50272479,47,Sleep framework: A new way for LLMs to retain knowledge in continual learning,68,3
+2026-10-29T14:06:08.599653+00:00,50276883,48,Show HN: SlideBySide – Present slides without sharing your screen,75,31
+2026-10-29T14:06:08.599653+00:00,50227400,49,MacOS Extensions Pack for the Apple Network Server v1.0,123,2
+2026-10-29T14:06:08.599653+00:00,50284342,50,Zillow to pay $212.5M to settle class action for real estate venture,48,16
