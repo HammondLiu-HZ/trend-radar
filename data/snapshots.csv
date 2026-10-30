@@ -58981,3 +58981,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-30T00:45:27.677935+00:00,50297336,48,Why big tech stopped building useful stuff,9,0
 2026-10-30T00:45:27.677935+00:00,50285452,49,"Zero click, silent, remote Android DoS",314,179
 2026-10-30T00:45:27.677935+00:00,50297037,50,Google value plunges by $500B as AI fears rattle Wall Street,27,4
+2026-10-30T06:58:01.977165+00:00,50296470,1,Binance-hacker-1029 – $5.6B stolen from Binance,1117,667
+2026-10-30T06:58:01.977165+00:00,50289418,2,We're releasing the weights of Mistral Large 4,1345,365
+2026-10-30T06:58:01.977165+00:00,50255343,3,Cuis: The Modern Smalltalk-80,72,11
+2026-10-30T06:58:01.977165+00:00,50270651,4,Astroterm: A Planetarium for Your Terminal,76,6
+2026-10-30T06:58:01.977165+00:00,50273104,5,I'm so bad at billiards that I ended up in the hyperbolic plane [video],73,6
+2026-10-30T06:58:01.977165+00:00,50298436,6,Herdr has released native app,131,81
+2026-10-30T06:58:01.977165+00:00,50296486,7,We ran AI agent swarms in Minecraft and Mindustry,247,82
+2026-10-30T06:58:01.977165+00:00,50295450,8,A tiny world model running games on a Raspberry Pi Pico 2 W,186,10
+2026-10-30T06:58:01.977165+00:00,50291054,9,H.264 Is Magic (2016),385,143
+2026-10-30T06:58:01.977165+00:00,50290177,10,LLM Voice,428,218
+2026-10-30T06:58:01.977165+00:00,50297697,11,Show HN: I Turned DOOM into a Transformer,71,22
+2026-10-30T06:58:01.977165+00:00,50297089,12,"A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",96,23
+2026-10-30T06:58:01.977165+00:00,50255573,13,Python on My Wrist,22,3
+2026-10-30T06:58:01.977165+00:00,50298964,14,Pico CSS is no longer maintained,100,31
+2026-10-30T06:58:01.977165+00:00,50291116,15,Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents,61,17
+2026-10-30T06:58:01.977165+00:00,50266956,16,An illustrated online book on Hewlett-Packard equipment,8,2
+2026-10-30T06:58:01.977165+00:00,50294702,17,Patrick Stewart has died,2770,587
+2026-10-30T06:58:01.977165+00:00,50296947,18,The Great American Rascal: Tom Sawyer at 150,62,31
+2026-10-30T06:58:01.977165+00:00,50269668,19,Solving Postgres' Count Problem,23,2
+2026-10-30T06:58:01.977165+00:00,50299182,20,CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation,48,31
+2026-10-30T06:58:01.977165+00:00,50294506,21,"Show HN: Auto Dismiss Mac OS ""Allow <app> to find devices on local networks?""",121,92
+2026-10-30T06:58:01.977165+00:00,50287775,22,If IPv4 were land,264,369
+2026-10-30T06:58:01.977165+00:00,50267380,23,Historical Scientific Instruments,31,1
+2026-10-30T06:58:01.977165+00:00,50295868,24,Sylphide OS: a general-purpose OS for microcontroller-based computers,57,15
+2026-10-30T06:58:01.977165+00:00,50249598,25,Iterating Backwards in C,83,47
+2026-10-30T06:58:01.977165+00:00,50295821,26,"ElementaryUI – Swift, in the Browser",89,19
+2026-10-30T06:58:01.977165+00:00,50286197,27,What we know so far about Spain train crash,178,341
+2026-10-30T06:58:01.977165+00:00,50299004,28,Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge,24,4
+2026-10-30T06:58:01.977165+00:00,50291421,29,16colo.rs – ANSI/ASCII art archive,107,8
+2026-10-30T06:58:01.977165+00:00,50298318,30,Cormac McCarthy's Library,40,18
+2026-10-30T06:58:01.977165+00:00,50287599,31,NetBSD adds a new text editor called atto,171,138
+2026-10-30T06:58:01.977165+00:00,50290283,32,Zombie stats: Where the numbers AI quotes come from,156,66
+2026-10-30T06:58:01.977165+00:00,50294486,33,IgE disruptor for food allergy with Claude-enabled antibody design [pdf],44,35
+2026-10-30T06:58:01.977165+00:00,50290912,34,Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks,135,21
+2026-10-30T06:58:01.977165+00:00,50299212,35,AGI Economics: Coordination vs. Competence,6,2
+2026-10-30T06:58:01.977165+00:00,50298721,36,Tracks along the longest drive on another world,12,0
+2026-10-30T06:58:01.977165+00:00,50296920,37,Should a medical diagnosis reshape the past? (2025),31,2
+2026-10-30T06:58:01.977165+00:00,50296585,38,El Niño is flooding California's coasts with the highest tides to come,121,51
+2026-10-30T06:58:01.977165+00:00,50280722,39,The case of the 9 bit AES key,135,70
+2026-10-30T06:58:01.977165+00:00,50271521,40,Study: Schoolwide phone bans show no significant impact on mental health,58,52
+2026-10-30T06:58:01.977165+00:00,50274547,41,"Keep the changelog, avoid the conflicts",7,2
+2026-10-30T06:58:01.977165+00:00,50293047,42,Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang,314,220
+2026-10-30T06:58:01.977165+00:00,50285154,43,"We won't ""just hang out""",172,283
+2026-10-30T06:58:01.977165+00:00,50287919,44,DoorDash to acquire Instacart,461,628
+2026-10-30T06:58:01.977165+00:00,50247342,45,The tragedy of losing your Wikipedia page,56,92
+2026-10-30T06:58:01.977165+00:00,50278645,46,noalloc: Tooling and libraries to enforce zero heap allocations in Golang,75,47
+2026-10-30T06:58:01.977165+00:00,50282538,47,The first wired XR glasses powered by Android XR,95,93
+2026-10-30T06:58:01.977165+00:00,50278678,48,Show HN: A proof-of-concept formalization of the IRS federal tax forms,69,12
+2026-10-30T06:58:01.977165+00:00,50264368,49,Partitioning my digital life into security domains (2011),38,4
+2026-10-30T06:58:01.977165+00:00,50285452,50,"Zero click, silent, remote Android DoS",317,182
