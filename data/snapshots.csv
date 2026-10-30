@@ -59080,3 +59080,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-30T14:00:06.809921+00:00,50285154,48,"We won't ""just hang out""",195,315
 2026-10-30T14:00:06.809921+00:00,50296947,49,The Great American Rascal: Tom Sawyer at 150,75,44
 2026-10-30T14:00:06.809921+00:00,50282538,50,The first wired XR glasses powered by Android XR,103,100
+2026-10-30T19:15:15.579081+00:00,50307190,1,My favourite PowerMac is a Nintendo Wii,89,13
+2026-10-30T19:15:15.579081+00:00,50307723,2,"GitHub Incident with Actions, Pages, and Webhooks",79,28
+2026-10-30T19:15:15.579081+00:00,50305025,3,Northflank Breached,215,132
+2026-10-30T19:15:15.579081+00:00,50300683,4,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,530,394
+2026-10-30T19:15:15.579081+00:00,50306442,5,A Working Nintendo in ~1GB of Qwen Weights,99,82
+2026-10-30T19:15:15.579081+00:00,50305637,6,Florilegium: Procedural Flowers in LaTeX,91,18
+2026-10-30T19:15:15.579081+00:00,50263837,7,Breaking the open web won't stop the bad bots,64,22
+2026-10-30T19:15:15.579081+00:00,50305573,8,The federated code forge,122,43
+2026-10-30T19:15:15.579081+00:00,50307219,9,"Anthropic may not secure investment-grade rating after IPO, Blackstone says",91,26
+2026-10-30T19:15:15.579081+00:00,50305693,10,"AI isn't replacing SREs, it's deskilling them",327,242
+2026-10-30T19:15:15.579081+00:00,50301854,11,Azure's Weakest Link – Five Full Cross-Tenant Compromises,212,38
+2026-10-30T19:15:15.579081+00:00,50296730,12,Building an AI-native engineering org,25,18
+2026-10-30T19:15:15.579081+00:00,50305480,13,Blockchain intelligence firms link North Korea to $6.3B hack on Binance,123,70
+2026-10-30T19:15:15.579081+00:00,50306815,14,Show HN: Spinf-serve – inference server for bulk scoring and decisions,10,0
+2026-10-30T19:15:15.579081+00:00,50301717,15,How do you take a picture of a black hole?,62,46
+2026-10-30T19:15:15.579081+00:00,50308240,16,French national assembly votes 0.055€/GB internet tax,38,37
+2026-10-30T19:15:15.579081+00:00,50305320,17,Show HN: I built a multiplayer game where you're an aerial fighter cat,45,22
+2026-10-30T19:15:15.579081+00:00,50246538,18,Compile-Time Dependent Types,43,11
+2026-10-30T19:15:15.579081+00:00,50298721,19,Tracks along the longest drive on another world,37,2
+2026-10-30T19:15:15.579081+00:00,50303172,20,The $6.3B Binance hack was pulled off in just 20 minutes,249,176
+2026-10-30T19:15:15.579081+00:00,50305218,21,Show HN: Sketch Stadium – watch your agent play Pictionary,6,0
+2026-10-30T19:15:15.579081+00:00,50268478,22,Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984),22,0
+2026-10-30T19:15:15.579081+00:00,50251070,23,"Why a program doesn't work when run from a batch file, but works when clicked",107,58
+2026-10-30T19:15:15.579081+00:00,50305225,24,Polymarket 1h halt after vendor compromise; affected users will be 'made whole',77,24
+2026-10-30T19:15:15.579081+00:00,50270284,25,Pell Puzzles Review,16,3
+2026-10-30T19:15:15.579081+00:00,50263127,26,Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated,167,51
+2026-10-30T19:15:15.579081+00:00,50273504,27,Finding Panics with Call Graph Analyzer,59,3
+2026-10-30T19:15:15.579081+00:00,50304419,29,Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It,227,218
+2026-10-30T19:15:15.579081+00:00,50307183,30,Proton's CEO Cancels AI 'Re-Interviews',183,148
+2026-10-30T19:15:15.579081+00:00,50305601,31,Geist Serif,66,20
+2026-10-30T19:15:15.579081+00:00,50298436,32,Herdr has released native app,331,225
+2026-10-30T19:15:15.579081+00:00,50244486,33,Commodore 1600 VICmodem,45,17
+2026-10-30T19:15:15.579081+00:00,50296486,34,We ran AI agent swarms in Minecraft and Mindustry,383,161
+2026-10-30T19:15:15.579081+00:00,50273104,35,I'm so bad at billiards that I ended up in the hyperbolic plane [video],225,37
+2026-10-30T19:15:15.579081+00:00,50289418,36,We're releasing the weights of Mistral Large 4,1659,428
+2026-10-30T19:15:15.579081+00:00,50306008,37,US tech stocks see sharp falls over AI cost fears,195,199
+2026-10-30T19:15:15.579081+00:00,50307092,38,"""Wrong"" Email",16,1
+2026-10-30T19:15:15.579081+00:00,50308631,39,French digital tax may kill VideoLan non-profit,3,0
+2026-10-30T19:15:15.579081+00:00,50270651,40,Astroterm: A Planetarium for Your Terminal,220,26
+2026-10-30T19:15:15.579081+00:00,50296470,41,Binance-hacker-1029 – $5.6B stolen from Binance,1707,1183
+2026-10-30T19:15:15.579081+00:00,50296947,42,The Great American Rascal: Tom Sawyer at 150,80,46
+2026-10-30T19:15:15.579081+00:00,50306776,43,"Ask HN: What's it like working at Google nowadays? Core teams like Search, Ads?",20,13
+2026-10-30T19:15:15.579081+00:00,50295450,44,A tiny world model running games on a Raspberry Pi Pico 2 W,267,18
+2026-10-30T19:15:15.579081+00:00,50255343,45,Cuis: The Modern Smalltalk-80,166,24
+2026-10-30T19:15:15.579081+00:00,50302814,46,US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech,592,437
+2026-10-30T19:15:15.579081+00:00,50298318,47,Cormac McCarthy's Library,97,34
+2026-10-30T19:15:15.579081+00:00,50273340,48,Artificial Analysis v5 and the benchmarker's dilemma,63,43
+2026-10-30T19:15:15.579081+00:00,50297697,49,Show HN: I Turned DOOM into a Transformer,121,35
+2026-10-30T19:15:15.579081+00:00,50291116,50,Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents,76,32
