@@ -59129,3 +59129,52 @@ captured_at,story_id,rank,title,score,comments
 2026-10-30T19:15:15.579081+00:00,50273340,48,Artificial Analysis v5 and the benchmarker's dilemma,63,43
 2026-10-30T19:15:15.579081+00:00,50297697,49,Show HN: I Turned DOOM into a Transformer,121,35
 2026-10-30T19:15:15.579081+00:00,50291116,50,Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents,76,32
+2026-10-30T23:36:08.021504+00:00,50307190,1,My favourite PowerMac is a Nintendo Wii,209,55
+2026-10-30T23:36:08.021504+00:00,50300683,2,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,721,447
+2026-10-30T23:36:08.021504+00:00,50310398,3,"sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",42,3
+2026-10-30T23:36:08.021504+00:00,50305025,4,Northflank Breached,328,251
+2026-10-30T23:36:08.021504+00:00,50309314,5,Jules Verne's Lost Novel,62,13
+2026-10-30T23:36:08.021504+00:00,50309029,6,Infinite Mac: BeOS,81,17
+2026-10-30T23:36:08.021504+00:00,50263837,7,Breaking the open web won't stop the bad bots,165,69
+2026-10-30T23:36:08.021504+00:00,50306442,8,Show HN: A working Nintendo in ~1GB of Qwen weights,168,105
+2026-10-30T23:36:08.021504+00:00,50277379,9,Cloudflare Turnstile solver library (no headless browser required),15,1
+2026-10-30T23:36:08.021504+00:00,50309266,10,The oldest ice disappears and the Stone Age emerges from it,61,17
+2026-10-30T23:36:08.021504+00:00,50305637,11,Florilegium: Procedural Flowers in LaTeX,196,34
+2026-10-30T23:36:08.021504+00:00,50305573,12,The federated code forge,207,69
+2026-10-30T23:36:08.021504+00:00,50309647,13,"Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",141,78
+2026-10-30T23:36:08.021504+00:00,50310687,14,Linode Security Incident,108,51
+2026-10-30T23:36:08.021504+00:00,50293437,15,Turning a solar power system into its own backup,27,7
+2026-10-30T23:36:08.021504+00:00,50308986,16,A Pickpocket's Guide to New York,45,6
+2026-10-30T23:36:08.021504+00:00,50310258,17,AO3 Down for Maintenance,69,9
+2026-10-30T23:36:08.021504+00:00,50301854,18,Azure's Weakest Link – Five Full Cross-Tenant Compromises,255,47
+2026-10-30T23:36:08.021504+00:00,50258496,19,Tree-mounted machines connect to web app to let users knock on wood remotely,53,24
+2026-10-30T23:36:08.021504+00:00,50296730,20,Building an AI-native engineering org,92,125
+2026-10-30T23:36:08.021504+00:00,50305693,21,"AI isn't replacing SREs, it's deskilling them",468,348
+2026-10-30T23:36:08.021504+00:00,50272479,22,Sleep framework: A new way for LLMs to retain knowledge in continual learning,148,12
+2026-10-30T23:36:08.021504+00:00,50304122,23,Cisco gives engineer unlimited AI tokens to rewrite legacy code,76,78
+2026-10-30T23:36:08.021504+00:00,50308697,24,Bunny CDN Security Incident,184,37
+2026-10-30T23:36:08.021504+00:00,50310796,25,France is getting download tax for content providers (€0.055/GB),63,53
+2026-10-30T23:36:08.021504+00:00,50301717,26,How do you take a picture of a black hole?,73,58
+2026-10-30T23:36:08.021504+00:00,50305218,27,Show HN: Sketch Stadium – watch your agent play Pictionary,18,7
+2026-10-30T23:36:08.021504+00:00,50307723,28,"GitHub Incident with Actions, Pages, and Webhooks",139,58
+2026-10-30T23:36:08.021504+00:00,50251070,29,"Why a program doesn't work when run from a batch file, but works when clicked",118,68
+2026-10-30T23:36:08.021504+00:00,50298721,30,Tracks along the longest drive on another world,52,6
+2026-10-30T23:36:08.021504+00:00,50263127,31,Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated,188,54
+2026-10-30T23:36:08.021504+00:00,50305320,32,Show HN: I built a multiplayer game where you're an aerial fighter cat,77,38
+2026-10-30T23:36:08.021504+00:00,50303172,33,The $6.3B Binance hack was pulled off in just 20 minutes,298,205
+2026-10-30T23:36:08.021504+00:00,50310689,34,FAT32 File-System Seeing as Much as 265x Improvement with Linux 7.4,10,0
+2026-10-30T23:36:08.021504+00:00,50246538,35,Compile-Time Dependent Types,60,21
+2026-10-30T23:36:08.021504+00:00,50307219,37,"Anthropic may not secure investment-grade rating after IPO, Blackstone says",269,214
+2026-10-30T23:36:08.021504+00:00,50268478,38,Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984),28,0
+2026-10-30T23:36:08.021504+00:00,50289418,39,We're releasing the weights of Mistral Large 4,1675,433
+2026-10-30T23:36:08.021504+00:00,50296486,40,We ran AI agent swarms in Minecraft and Mindustry,393,163
+2026-10-30T23:36:08.021504+00:00,50309470,41,An Arrogant Way of Killing (2016),20,9
+2026-10-30T23:36:08.021504+00:00,50273504,42,Finding Panics with Call Graph Analyzer,63,3
+2026-10-30T23:36:08.021504+00:00,50273104,43,I'm so bad at billiards that I ended up in the hyperbolic plane [video],234,37
+2026-10-30T23:36:08.021504+00:00,50306815,44,Show HN: Spinf-serve – inference server for bulk scoring and decisions,17,3
+2026-10-30T23:36:08.021504+00:00,50271120,45,"Hey linker, can you spare a meg?",18,2
+2026-10-30T23:36:08.021504+00:00,50270651,46,Astroterm: A Planetarium for Your Terminal,227,26
+2026-10-30T23:36:08.021504+00:00,50305225,47,Polymarket 1h halt after vendor compromise; affected users will be 'made whole',102,40
+2026-10-30T23:36:08.021504+00:00,50310431,48,Wall Street closes sharply lower as AI cash burn fears spark tech selloff,16,0
+2026-10-30T23:36:08.021504+00:00,50296947,49,The Great American Rascal: Tom Sawyer at 150,83,46
+2026-10-30T23:36:08.021504+00:00,50296470,50,Binance-hacker-1029 – $5.6B stolen from Binance,1719,1205
