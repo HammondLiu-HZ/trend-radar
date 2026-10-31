@@ -59327,3 +59327,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-31T17:37:10.303692+00:00,50317269,48,"After last year's storm, this remote Alaska town is still picking up the pieces",5,1
 2026-10-31T17:37:10.303692+00:00,50276613,49,Double Buffering with Cloudflare Queues,56,7
 2026-10-31T17:37:10.303692+00:00,50301717,50,How do you take a picture of a black hole?,108,74
+2026-10-31T21:21:28.655077+00:00,50319510,1,HackerTube: YouTube built from videos recommended by HN,168,82
+2026-10-31T21:21:28.655077+00:00,50319143,2,TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8,139,67
+2026-10-31T21:21:28.655077+00:00,50318720,3,"It's the Memory Latency, Stupid",51,8
+2026-10-31T21:21:28.655077+00:00,50319061,4,The Duty of a Scholar,55,11
+2026-10-31T21:21:28.655077+00:00,50320028,5,"With 86% of the words, you might understand only 38% of an anime's lines",8,1
+2026-10-31T21:21:28.655077+00:00,50318871,6,GPT-5.6 Sol can beat Factorio on peaceful mode,118,119
+2026-10-31T21:21:28.655077+00:00,50314666,7,Molly (Signal fork) has not been updated since 3 months and is vulnerable,276,159
+2026-10-31T21:21:28.655077+00:00,50315782,8,Show HN: A language model that lives in a boot sector,26,0
+2026-10-31T21:21:28.655077+00:00,50316100,9,Jepsen: ParticleDB 1.1.4,133,68
+2026-10-31T21:21:28.655077+00:00,50297068,10,Much Ado About None: Sentinel Values in Python,22,9
+2026-10-31T21:21:28.655077+00:00,50319169,11,Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly),18,11
+2026-10-31T21:21:28.655077+00:00,50318376,12,William Nordhaus has died,36,7
+2026-10-31T21:21:28.655077+00:00,50314699,13,Do the math: How we took over ChatGPT accounts,286,139
+2026-10-31T21:21:28.655077+00:00,50301178,14,5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet,9,1
+2026-10-31T21:21:28.655077+00:00,50320137,15,Distributed Proofreaders,4,0
+2026-10-31T21:21:28.655077+00:00,50293806,16,Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference,27,17
+2026-10-31T21:21:28.655077+00:00,50274186,17,Redox: Ring Buffers Project Summary,36,5
+2026-10-31T21:21:28.655077+00:00,50261253,18,Simple circuits can create complex behaviors,186,61
+2026-10-31T21:21:28.655077+00:00,50319563,19,"Surviving ""The Graduate""",4,0
+2026-10-31T21:21:28.655077+00:00,50271052,20,Reading and writing are less symmetric than you (probably) think,62,20
+2026-10-31T21:21:28.655077+00:00,50314085,21,Switch Lowering in GCC,184,36
+2026-10-31T21:21:28.655077+00:00,50313661,22,Digital minimalism,276,206
+2026-10-31T21:21:28.655077+00:00,50319358,23,Anthropic blocks users for anything touching training larger models,38,7
+2026-10-31T21:21:28.655077+00:00,50314654,24,Serbia just elected the world's brainiest parliament,751,436
+2026-10-31T21:21:28.655077+00:00,50300902,25,"Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",35,24
+2026-10-31T21:21:28.655077+00:00,50318442,26,I post trained a model on Demoscenes,35,19
+2026-10-31T21:21:28.655077+00:00,50317331,27,Show HN: A USB-C LTE modem that gives my computer a phone line,30,23
+2026-10-31T21:21:28.655077+00:00,50290652,28,"AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",176,38
+2026-10-31T21:21:28.655077+00:00,50316531,29,Malware uses LLMs to rank victims by how much they're worth,215,116
+2026-10-31T21:21:28.655077+00:00,50317363,30,Casio Watches of the 1980s,181,94
+2026-10-31T21:21:28.655077+00:00,50260753,31,"Show HN: Marelleo, an open-source story box I built for my kids using ESP32",177,47
+2026-10-31T21:21:28.655077+00:00,50318401,32,The Impact of Generative AI on Critical Thinking: Self-Reported (2025),67,43
+2026-10-31T21:21:28.655077+00:00,50317429,33,What is a light-day? The milestone Voyager 1 is closing in on,75,38
+2026-10-31T21:21:28.655077+00:00,50318182,34,Hackers hijack Egypt highway billboard and Malaysian screens to show porn,50,56
+2026-10-31T21:21:28.655077+00:00,50315226,35,Prospero: A new coding harness for a more civilized age,171,112
+2026-10-31T21:21:28.655077+00:00,50277379,36,Cloudflare Turnstile solver library (no headless browser required),298,101
+2026-10-31T21:21:28.655077+00:00,50318018,37,Copyright Office is restoring copyright to something you have to work to get,44,28
+2026-10-31T21:21:28.655077+00:00,50296700,38,Hunting 'Zombie Accounts' in Active Directory,30,2
+2026-10-31T21:21:28.655077+00:00,50320255,39,Anthropic takes steps to block Claude from reverse-engineering video games,7,3
+2026-10-31T21:21:28.655077+00:00,50319849,40,"NASA's Voyager 1 Conserves Power, Resolves Brief Communications Pause",6,3
+2026-10-31T21:21:28.655077+00:00,50300683,41,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,963,546
+2026-10-31T21:21:28.655077+00:00,50309266,42,The oldest ice disappears and the Stone Age emerges from it,199,98
+2026-10-31T21:21:28.655077+00:00,50312756,43,Tell HN: Scribd Breached,331,119
+2026-10-31T21:21:28.655077+00:00,50317534,44,Enlightenment 0.28 Released with Many Improvements,34,21
+2026-10-31T21:21:28.655077+00:00,50317548,45,Show HN: Jointter – A daily word puzzle using dots and lines,9,17
+2026-10-31T21:21:28.655077+00:00,50318505,46,Crypto firm Binance covers 90% of losses after $6.3B hack,14,2
+2026-10-31T21:21:28.655077+00:00,50318882,47,HTTP/3 is faster with some work and help from Cloudflare,10,1
+2026-10-31T21:21:28.655077+00:00,50274885,48,Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death,61,26
+2026-10-31T21:21:28.655077+00:00,50319767,49,Report from the Vatican,4,1
+2026-10-31T21:21:28.655077+00:00,50303172,50,The $6.3B Binance hack was pulled off in just 20 minutes,565,408
