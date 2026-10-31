@@ -59227,3 +59227,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-31T05:16:31.155592+00:00,50307723,47,"GitHub Incident with Actions, Pages, and Webhooks",147,61
 2026-10-31T05:16:31.155592+00:00,50273504,48,Finding Panics with Call Graph Analyzer,64,3
 2026-10-31T05:16:31.155592+00:00,50305724,49,Some Thing is Happening A note from the AI companies,33,8
+2026-10-31T12:07:35.444084+00:00,50314654,1,Serbia just elected the world's brainiest parliament,218,145
+2026-10-31T12:07:35.444084+00:00,50315047,2,French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic,42,31
+2026-10-31T12:07:35.444084+00:00,50314666,3,Molly(Signal fork) has not been updated since 3 months and is vulnerable,29,6
+2026-10-31T12:07:35.444084+00:00,50314085,4,Switch Lowering in GCC,87,13
+2026-10-31T12:07:35.444084+00:00,50260753,5,"Show HN: Marelleo, an open-source story box I built for my kids using ESP32",85,27
+2026-10-31T12:07:35.444084+00:00,50314699,6,We Took over ChatGPT Accounts,13,6
+2026-10-31T12:07:35.444084+00:00,50313661,7,Digital Minimalism,82,54
+2026-10-31T12:07:35.444084+00:00,50290652,8,"AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",58,13
+2026-10-31T12:07:35.444084+00:00,50307190,9,My favourite PowerMac is a Nintendo Wii,319,94
+2026-10-31T12:07:35.444084+00:00,50303172,10,The $6.3B Binance hack was pulled off in just 20 minutes,478,328
+2026-10-31T12:07:35.444084+00:00,50277379,11,Cloudflare Turnstile solver library (no headless browser required),236,67
+2026-10-31T12:07:35.444084+00:00,50305025,12,Northflank Breached,446,320
+2026-10-31T12:07:35.444084+00:00,50312756,13,Tell HN: Scribd Breached,243,97
+2026-10-31T12:07:35.444084+00:00,50314872,14,Shiny Object Syndrome,15,4
+2026-10-31T12:07:35.444084+00:00,50263837,15,Breaking the open web won't stop the bad bots,274,122
+2026-10-31T12:07:35.444084+00:00,50309266,16,The oldest ice disappears and the Stone Age emerges from it,160,62
+2026-10-31T12:07:35.444084+00:00,50305637,17,Florilegium: Procedural Flowers in LaTeX,298,48
+2026-10-31T12:07:35.444084+00:00,50306442,18,Show HN: A working Nintendo in ~1GB of Qwen weights,257,122
+2026-10-31T12:07:35.444084+00:00,50300683,19,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,912,534
+2026-10-31T12:07:35.444084+00:00,50274885,20,Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death,41,20
+2026-10-31T12:07:35.444084+00:00,50309029,21,Infinite Mac: BeOS,166,90
+2026-10-31T12:07:35.444084+00:00,50304122,22,Cisco gives engineer unlimited AI tokens to rewrite legacy code,210,247
+2026-10-31T12:07:35.444084+00:00,50305573,23,The federated code forge,298,86
+2026-10-31T12:07:35.444084+00:00,50311686,24,"Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",200,56
+2026-10-31T12:07:35.444084+00:00,50301854,25,Azure's Weakest Link – Five Full Cross-Tenant Compromises,315,58
+2026-10-31T12:07:35.444084+00:00,50309314,26,Jules Verne's Lost Novel,122,30
+2026-10-31T12:07:35.444084+00:00,50289081,27,Brief History of PDP Computers,34,15
+2026-10-31T12:07:35.444084+00:00,50276613,28,Double Buffering with Cloudflare Queues,49,5
+2026-10-31T12:07:35.444084+00:00,50310398,29,"Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",140,34
+2026-10-31T12:07:35.444084+00:00,50314243,30,How long do you need to hold down the power button to turn off a PC?,33,5
+2026-10-31T12:07:35.444084+00:00,50269045,31,Sneezecount (2018),8,3
+2026-10-31T12:07:35.444084+00:00,50276355,32,Trapped in the Technologist Factory,47,14
+2026-10-31T12:07:35.444084+00:00,50292931,33,What's on That Access Port?,3,0
+2026-10-31T12:07:35.444084+00:00,50296730,34,Building an AI-native engineering org,163,184
+2026-10-31T12:07:35.444084+00:00,50309647,35,"Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",329,188
+2026-10-31T12:07:35.444084+00:00,50272479,36,Sleep framework: A new way for LLMs to retain knowledge in continual learning,233,33
+2026-10-31T12:07:35.444084+00:00,50293437,37,Turning a solar power system into its own backup,54,19
+2026-10-31T12:07:35.444084+00:00,50258496,38,Tree-mounted machines connect to web app to let users knock on wood remotely,92,38
+2026-10-31T12:07:35.444084+00:00,50314793,39,'Big Short' Trader Steve Eisman on Anthropic IPO,11,3
+2026-10-31T12:07:35.444084+00:00,50289418,40,We're releasing the weights of Mistral Large 4,1695,436
+2026-10-31T12:07:35.444084+00:00,50301717,41,How do you take a picture of a black hole?,103,72
+2026-10-31T12:07:35.444084+00:00,50305693,42,"AI isn't replacing SREs, it's deskilling them",606,455
+2026-10-31T12:07:35.444084+00:00,50263127,43,Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated,203,57
+2026-10-31T12:07:35.444084+00:00,50296486,44,We ran AI agent swarms in Minecraft and Mindustry,403,166
+2026-10-31T12:07:35.444084+00:00,50251070,45,"Why a program doesn't work when run from a batch file, but works when clicked",133,78
+2026-10-31T12:07:35.444084+00:00,50314611,46,Neuroscientists reveal method to train people to have lucid dreams,8,0
+2026-10-31T12:07:35.444084+00:00,50273104,47,I'm so bad at billiards that I ended up in the hyperbolic plane [video],245,37
+2026-10-31T12:07:35.444084+00:00,50296947,48,The Great American Rascal: Tom Sawyer at 150,89,50
+2026-10-31T12:07:35.444084+00:00,50291812,49,Show HN: I rebuilt Kubernetes for ESP32 microcontrollers,46,12
+2026-10-31T12:07:35.444084+00:00,50270651,50,Astroterm: A Planetarium for Your Terminal,233,27
