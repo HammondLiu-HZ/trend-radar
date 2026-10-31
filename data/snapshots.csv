@@ -59277,3 +59277,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-31T12:07:35.444084+00:00,50296947,48,The Great American Rascal: Tom Sawyer at 150,89,50
 2026-10-31T12:07:35.444084+00:00,50291812,49,Show HN: I rebuilt Kubernetes for ESP32 microcontrollers,46,12
 2026-10-31T12:07:35.444084+00:00,50270651,50,Astroterm: A Planetarium for Your Terminal,233,27
+2026-10-31T17:37:10.303692+00:00,50316531,1,Malware uses LLMs to rank victims by how much they're worth,137,60
+2026-10-31T17:37:10.303692+00:00,50314666,2,Molly (Signal fork) has not been updated since 3 months and is vulnerable,202,135
+2026-10-31T17:37:10.303692+00:00,50314699,3,We Took over ChatGPT Accounts,223,108
+2026-10-31T17:37:10.303692+00:00,50317484,4,A/SIDE – Private photo sharing and encrypted messages,12,11
+2026-10-31T17:37:10.303692+00:00,50317363,5,Casio Watches of the 1980s,77,27
+2026-10-31T17:37:10.303692+00:00,50261253,6,Simple circuits can create complex behaviors,122,27
+2026-10-31T17:37:10.303692+00:00,50316100,7,Jepsen: ParticleDB 1.1.4,27,8
+2026-10-31T17:37:10.303692+00:00,50271052,8,Reading and writing are less symmetric than you (probably) think,34,7
+2026-10-31T17:37:10.303692+00:00,50314085,9,Switch Lowering in GCC,159,29
+2026-10-31T17:37:10.303692+00:00,50314654,10,Serbia just elected the world's brainiest parliament,653,374
+2026-10-31T17:37:10.303692+00:00,50315226,11,Prospero: A new coding harness for a more civilized age,140,85
+2026-10-31T17:37:10.303692+00:00,50316760,12,"Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",73,50
+2026-10-31T17:37:10.303692+00:00,50313661,13,Digital minimalism,215,156
+2026-10-31T17:37:10.303692+00:00,50317429,14,What is a light-day? The milestone Voyager 1 is closing in on,29,10
+2026-10-31T17:37:10.303692+00:00,50300902,15,"Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",12,3
+2026-10-31T17:37:10.303692+00:00,50317548,16,Show HN: Jointter – A daily word puzzle using dots and lines,5,1
+2026-10-31T17:37:10.303692+00:00,50290652,17,"AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",141,33
+2026-10-31T17:37:10.303692+00:00,50274186,18,Redox: Ring Buffers Project Summary,3,1
+2026-10-31T17:37:10.303692+00:00,50260753,19,"Show HN: Marelleo, an open-source story box I built for my kids using ESP32",150,41
+2026-10-31T17:37:10.303692+00:00,50296700,20,Hunting 'Zombie Accounts' in Active Directory,23,2
+2026-10-31T17:37:10.303692+00:00,50303172,21,The $6.3B Binance hack was pulled off in just 20 minutes,549,390
+2026-10-31T17:37:10.303692+00:00,50317534,22,Enlightenment 0.28 Released with Many Improvements,14,4
+2026-10-31T17:37:10.303692+00:00,50307190,23,My favourite PowerMac is a Nintendo Wii,355,108
+2026-10-31T17:37:10.303692+00:00,50277379,24,Cloudflare Turnstile solver library (no headless browser required),286,96
+2026-10-31T17:37:10.303692+00:00,50305025,25,Northflank Breached,464,343
+2026-10-31T17:37:10.303692+00:00,50263837,26,Breaking the open web won't stop the bad bots,310,134
+2026-10-31T17:37:10.303692+00:00,50304122,27,Cisco gives engineer unlimited AI tokens to rewrite legacy code,281,323
+2026-10-31T17:37:10.303692+00:00,50312756,28,Tell HN: Scribd Breached,311,116
+2026-10-31T17:37:10.303692+00:00,50309266,29,The oldest ice disappears and the Stone Age emerges from it,191,86
+2026-10-31T17:37:10.303692+00:00,50305637,30,Florilegium: Procedural Flowers in LaTeX,361,52
+2026-10-31T17:37:10.303692+00:00,50300683,31,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,953,542
+2026-10-31T17:37:10.303692+00:00,50306442,32,Show HN: A working Nintendo in ~1GB of Qwen weights,278,137
+2026-10-31T17:37:10.303692+00:00,50274885,33,Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death,59,26
+2026-10-31T17:37:10.303692+00:00,50300151,34,Keeping the Bonfires Lit,17,7
+2026-10-31T17:37:10.303692+00:00,50305573,35,The federated code forge,319,91
+2026-10-31T17:37:10.303692+00:00,50301854,36,Azure's Weakest Link – Five Full Cross-Tenant Compromises,327,59
+2026-10-31T17:37:10.303692+00:00,50315987,37,Anthropic's Claude AI blocks video game cloning and reverse-engineering,33,15
+2026-10-31T17:37:10.303692+00:00,50276355,38,Trapped in the Technologist Factory,66,25
+2026-10-31T17:37:10.303692+00:00,50309314,39,Jules Verne's Lost Novel,139,32
+2026-10-31T17:37:10.303692+00:00,50311686,40,"Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",227,71
+2026-10-31T17:37:10.303692+00:00,50310398,41,"Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",152,40
+2026-10-31T17:37:10.303692+00:00,50309029,42,Infinite Mac: BeOS,181,114
+2026-10-31T17:37:10.303692+00:00,50296730,43,Building an AI-native engineering org,174,192
+2026-10-31T17:37:10.303692+00:00,50272479,44,Sleep framework: A new way for LLMs to retain knowledge in continual learning,245,38
+2026-10-31T17:37:10.303692+00:00,50289418,45,We're releasing the weights of Mistral Large 4,1703,438
+2026-10-31T17:37:10.303692+00:00,50309647,46,"Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",357,218
+2026-10-31T17:37:10.303692+00:00,50314872,47,Shiny Object Syndrome,60,20
+2026-10-31T17:37:10.303692+00:00,50317269,48,"After last year's storm, this remote Alaska town is still picking up the pieces",5,1
+2026-10-31T17:37:10.303692+00:00,50276613,49,Double Buffering with Cloudflare Queues,56,7
+2026-10-31T17:37:10.303692+00:00,50301717,50,How do you take a picture of a black hole?,108,74
