@@ -59527,3 +59527,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-01T14:55:56.620205+00:00,50323925,48,"IEEE Wipes Out 1,417 Papers over Sold Authorship",19,0
 2026-11-01T14:55:56.620205+00:00,50324118,49,A tiny Pacific country rolls out universal basic income,90,98
 2026-11-01T14:55:56.620205+00:00,50324114,50,"Introducing Kwi, a new KDE terminal emulator",25,3
+2026-11-01T19:29:33.744285+00:00,50326821,1,"Show HN: HackerBooks – HackerTube, but for books mentioned on HN",422,117
+2026-11-01T19:29:33.744285+00:00,50319510,2,HackerTube: YouTube built from videos recommended by HN,1949,489
+2026-11-01T19:29:33.744285+00:00,50327650,3,Patrick Stewart taught us what good men do with power,173,113
+2026-11-01T19:29:33.744285+00:00,50326118,4,Police chief unplugs Flock cameras after company ignores contract cancellation,329,114
+2026-11-01T19:29:33.744285+00:00,50328251,5,Mathematics has changed. Let's act like it,43,40
+2026-11-01T19:29:33.744285+00:00,50308754,6,Copper – A minimal low-level programming language with OOP and generics,66,33
+2026-11-01T19:29:33.744285+00:00,50325454,7,Proving and improving the Platonic Representation Hypothesis with JEPAs,82,43
+2026-11-01T19:29:33.744285+00:00,50327058,8,Seoul Viosys begins production of rare-earth-free white light emitter,88,15
+2026-11-01T19:29:33.744285+00:00,50319749,9,Bidirectional charging during grid outages,51,65
+2026-11-01T19:29:33.744285+00:00,50326099,10,Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case,248,94
+2026-11-01T19:29:33.744285+00:00,50325694,11,Novellas with Groff,76,29
+2026-11-01T19:29:33.744285+00:00,50320963,12,An Italian farmer found some unknown seeds in his attic and planted them,686,187
+2026-11-01T19:29:33.744285+00:00,50314617,13,One-minute frequency disturbances from synchronization in power systems,82,34
+2026-11-01T19:29:33.744285+00:00,50327266,14,Frontier Airlines Likely Breached,97,25
+2026-11-01T19:29:33.744285+00:00,50314508,15,Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2,51,7
+2026-11-01T19:29:33.744285+00:00,50313227,16,Parchment Paper History: How We Got Paper Perfect for Baking (2019),5,2
+2026-11-01T19:29:33.744285+00:00,50322173,17,Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing,273,150
+2026-11-01T19:29:33.744285+00:00,50323088,18,The AI cost of JavaScript frameworks,232,164
+2026-11-01T19:29:33.744285+00:00,50325253,19,"Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",57,25
+2026-11-01T19:29:33.744285+00:00,50320995,20,Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard,389,193
+2026-11-01T19:29:33.744285+00:00,50280131,21,Radiation Map of the World,82,30
+2026-11-01T19:29:33.744285+00:00,50319143,22,TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8,635,307
+2026-11-01T19:29:33.744285+00:00,50290533,23,Show HN: Point your camera at a landscape to learn about its geology,102,30
+2026-11-01T19:29:33.744285+00:00,50326609,24,"Landline phones will switch off across Britland in 100 days, no extensions",65,45
+2026-11-01T19:29:33.744285+00:00,50310038,25,Understanding Email Encryption,99,21
+2026-11-01T19:29:33.744285+00:00,50289844,26,SS27 Color Stats,5,1
+2026-11-01T19:29:33.744285+00:00,50303984,27,Running a bootstrapped SaaS for 20 years with my brother,205,47
+2026-11-01T19:29:33.744285+00:00,50322022,28,Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024),162,84
+2026-11-01T19:29:33.744285+00:00,50326530,29,Enlightenment 0.28.0 Release,47,17
+2026-11-01T19:29:33.744285+00:00,50325662,30,"AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",121,58
+2026-11-01T19:29:33.744285+00:00,50311045,31,Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020,159,47
+2026-11-01T19:29:33.744285+00:00,50324388,32,Restrooms along the Norwegian Scenic Routes,645,371
+2026-11-01T19:29:33.744285+00:00,50327406,33,A playable version of Portal prequel F-Stop leaked,12,0
+2026-11-01T19:29:33.744285+00:00,50321048,34,Altoids Project,152,7
+2026-11-01T19:29:33.744285+00:00,50316100,35,Jepsen: ParticleDB 1.1.4,318,175
+2026-11-01T19:29:33.744285+00:00,50318720,36,"It's the memory latency, stupid",244,79
+2026-11-01T19:29:33.744285+00:00,50304718,37,A 1580 Map Shows Why Data Visualization Is Never Neutral,74,12
+2026-11-01T19:29:33.744285+00:00,50328462,38,US Jobs Pickup May Keep Fed on Track to Hike Rates Again,3,0
+2026-11-01T19:29:33.744285+00:00,50290480,39,"No AI, 52 min. Build all Linux Files utils in C by Hand [video]",120,101
+2026-11-01T19:29:33.744285+00:00,50289711,40,"A brief history of just-in-time: forty years of JIT work, from 1960–2000",61,1
+2026-11-01T19:29:33.744285+00:00,50309279,41,Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems),76,19
+2026-11-01T19:29:33.744285+00:00,50314699,42,Do the math: How we took over ChatGPT accounts,357,176
+2026-11-01T19:29:33.744285+00:00,50319563,43,"Surviving ""The Graduate""",153,47
+2026-11-01T19:29:33.744285+00:00,50325718,44,Previously untranslated Einstein paper in English,6,1
+2026-11-01T19:29:33.744285+00:00,50326281,45,Ant: Can unprecedented revenue growth outrun irresponsibly large investment,6,0
+2026-11-01T19:29:33.744285+00:00,50321130,46,When electric cars were for women,69,70
+2026-11-01T19:29:33.744285+00:00,50319061,47,The Duty of a Scholar,132,35
+2026-11-01T19:29:33.744285+00:00,50325411,48,"The ""Moon Trees""",29,1
+2026-11-01T19:29:33.744285+00:00,50271052,49,Reading and writing are less symmetric than you (probably) think,128,29
+2026-11-01T19:29:33.744285+00:00,50326123,50,"Brian May, Queen guitarist and Astrophysicist",18,3
