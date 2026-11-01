@@ -59477,3 +59477,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-01T07:19:41.153889+00:00,50316531,48,Malware uses LLMs to rank victims by how much they're worth,244,131
 2026-11-01T07:19:41.153889+00:00,50320137,49,Distributed Proofreaders,31,2
 2026-11-01T07:19:41.153889+00:00,50313661,50,Digital minimalism,321,232
+2026-11-01T14:55:56.620205+00:00,50324388,1,Norway makes shithouses great again,535,294
+2026-11-01T14:55:56.620205+00:00,50319510,2,HackerTube: YouTube built from videos recommended by HN,1615,428
+2026-11-01T14:55:56.620205+00:00,50325454,3,Proving and Improving the Platonic Representation Hypothesis with JEPAs,27,4
+2026-11-01T14:55:56.620205+00:00,50325694,4,Novellas with Groff,14,1
+2026-11-01T14:55:56.620205+00:00,50320963,5,An Italian farmer found some unknown seeds in his attic and planted them,579,171
+2026-11-01T14:55:56.620205+00:00,50314508,6,Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2,9,0
+2026-11-01T14:55:56.620205+00:00,50280131,7,Radiation Map of the World,33,12
+2026-11-01T14:55:56.620205+00:00,50314617,8,One-minute frequency disturbances from synchronization in power systems,22,4
+2026-11-01T14:55:56.620205+00:00,50322173,9,Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing,203,99
+2026-11-01T14:55:56.620205+00:00,50320995,10,Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard,327,160
+2026-11-01T14:55:56.620205+00:00,50319143,11,TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8,578,280
+2026-11-01T14:55:56.620205+00:00,50324371,12,Domain hacks with unusual Unicode characters (2018),32,24
+2026-11-01T14:55:56.620205+00:00,50325662,13,"AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",33,5
+2026-11-01T14:55:56.620205+00:00,50290533,14,Show HN: Point your camera at a landscape to learn about its geology,56,9
+2026-11-01T14:55:56.620205+00:00,50316117,15,The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.,29,22
+2026-11-01T14:55:56.620205+00:00,50303984,16,Running a bootstrapped SaaS for 20 years with my brother,165,40
+2026-11-01T14:55:56.620205+00:00,50326099,17,Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case,9,0
+2026-11-01T14:55:56.620205+00:00,50322022,18,Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024),129,67
+2026-11-01T14:55:56.620205+00:00,50310038,19,Understanding Email Encryption,58,14
+2026-11-01T14:55:56.620205+00:00,50323088,20,The AI cost of JavaScript frameworks,169,115
+2026-11-01T14:55:56.620205+00:00,50290480,21,"No AI, 52 min. Build all Linux Files utils in C by Hand [video]",97,81
+2026-11-01T14:55:56.620205+00:00,50325411,22,"The ""Moon Trees""",14,0
+2026-11-01T14:55:56.620205+00:00,50321048,23,Altoids Project,133,7
+2026-11-01T14:55:56.620205+00:00,50319110,24,Electrification Could Cut Global Energy Use in Half,165,115
+2026-11-01T14:55:56.620205+00:00,50311045,25,Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020,137,43
+2026-11-01T14:55:56.620205+00:00,50289711,26,"A brief history of just-in-time: forty years of JIT work, from 1960–2000",53,1
+2026-11-01T14:55:56.620205+00:00,50318720,27,"It's the memory latency, stupid",226,73
+2026-11-01T14:55:56.620205+00:00,50304718,28,A 1580 Map Shows Why Data Visualization Is Never Neutral,66,7
+2026-11-01T14:55:56.620205+00:00,50316100,29,Jepsen: ParticleDB 1.1.4,295,166
+2026-11-01T14:55:56.620205+00:00,50309279,30,Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems),68,14
+2026-11-01T14:55:56.620205+00:00,50319563,31,"Surviving ""The Graduate""",143,42
+2026-11-01T14:55:56.620205+00:00,50314699,32,Do the math: How we took over ChatGPT accounts,351,171
+2026-11-01T14:55:56.620205+00:00,50324533,33,noyb win: French electronics retailer Fnac Darty fined €7M,40,5
+2026-11-01T14:55:56.620205+00:00,50261253,34,Simple circuits can create complex behaviors,278,81
+2026-11-01T14:55:56.620205+00:00,50319061,35,The Duty of a Scholar,129,34
+2026-11-01T14:55:56.620205+00:00,50325107,36,The question we should all be asking about AI,12,10
+2026-11-01T14:55:56.620205+00:00,50320588,37,ChatGPT and Codex usage limits merging,193,134
+2026-11-01T14:55:56.620205+00:00,50284789,38,"Edgar Allan Poe, Quintessential American Writer",46,7
+2026-11-01T14:55:56.620205+00:00,50319358,39,Anthropic blocks users for anything touching training larger models,414,229
+2026-11-01T14:55:56.620205+00:00,50271052,40,Reading and writing are less symmetric than you (probably) think,124,29
+2026-11-01T14:55:56.620205+00:00,50321522,41,"Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",41,8
+2026-11-01T14:55:56.620205+00:00,50290652,42,"AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",208,50
+2026-11-01T14:55:56.620205+00:00,50315782,43,Show HN: A language model that lives in a boot sector,87,5
+2026-11-01T14:55:56.620205+00:00,50320599,44,AI text watermarking and quality loss,60,12
+2026-11-01T14:55:56.620205+00:00,50302686,45,Decode kernel panic from QR Code photo,34,15
+2026-11-01T14:55:56.620205+00:00,50314654,46,Serbia just elected the world's brainiest parliament,874,488
+2026-11-01T14:55:56.620205+00:00,50300683,47,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,981,549
+2026-11-01T14:55:56.620205+00:00,50323925,48,"IEEE Wipes Out 1,417 Papers over Sold Authorship",19,0
+2026-11-01T14:55:56.620205+00:00,50324118,49,A tiny Pacific country rolls out universal basic income,90,98
+2026-11-01T14:55:56.620205+00:00,50324114,50,"Introducing Kwi, a new KDE terminal emulator",25,3
