@@ -59427,3 +59427,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-01T00:55:13.112973+00:00,50317429,48,What is a light-day? The milestone Voyager 1 is closing in on,84,41
 2026-11-01T00:55:13.112973+00:00,50320255,49,Anthropic takes steps to block Claude from reverse-engineering video games,93,63
 2026-11-01T00:55:13.112973+00:00,50321462,50,Smear Campaign Towards GrapheneOS,7,1
+2026-11-01T07:19:41.153889+00:00,50319510,1,HackerTube: YouTube built from videos recommended by HN,1103,333
+2026-11-01T07:19:41.153889+00:00,50320963,2,An Italian farmer found some unknown seeds in his attic and planted them,324,93
+2026-11-01T07:19:41.153889+00:00,50322173,3,Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing,85,32
+2026-11-01T07:19:41.153889+00:00,50319143,4,TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8,466,214
+2026-11-01T07:19:41.153889+00:00,50320995,5,Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard,186,94
+2026-11-01T07:19:41.153889+00:00,50322022,6,Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024),60,29
+2026-11-01T07:19:41.153889+00:00,50303984,7,Running a bootstrapped SaaS for 20 years with my brother,21,2
+2026-11-01T07:19:41.153889+00:00,50321048,8,Altoids Project,93,4
+2026-11-01T07:19:41.153889+00:00,50311045,9,Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020,84,20
+2026-11-01T07:19:41.153889+00:00,50309279,10,Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems),18,0
+2026-11-01T07:19:41.153889+00:00,50289711,11,"A brief history of just-in-time: forty years of JIT work, from 1960–2000",19,0
+2026-11-01T07:19:41.153889+00:00,50318720,12,"It's the memory latency, stupid",181,52
+2026-11-01T07:19:41.153889+00:00,50304718,13,A 1580 Map Shows Why Data Visualization Is Never Neutral,28,1
+2026-11-01T07:19:41.153889+00:00,50320588,14,ChatGPT and Codex usage limits merging,79,27
+2026-11-01T07:19:41.153889+00:00,50284789,15,"Edgar Allan Poe, Quintessential American Writer",28,1
+2026-11-01T07:19:41.153889+00:00,50319563,16,"Surviving ""The Graduate""",107,31
+2026-11-01T07:19:41.153889+00:00,50316100,17,Jepsen: ParticleDB 1.1.4,245,137
+2026-11-01T07:19:41.153889+00:00,50322169,18,OTape,18,5
+2026-11-01T07:19:41.153889+00:00,50319169,19,Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly),82,48
+2026-11-01T07:19:41.153889+00:00,50319110,20,Electrification Could Cut Global Energy Use in Half,82,23
+2026-11-01T07:19:41.153889+00:00,50314699,21,Do the math: How we took over ChatGPT accounts,321,157
+2026-11-01T07:19:41.153889+00:00,50261253,22,Simple circuits can create complex behaviors,237,77
+2026-11-01T07:19:41.153889+00:00,50319061,23,The Duty of a Scholar,110,32
+2026-11-01T07:19:41.153889+00:00,50302686,24,Decode kernel panic from QR Code photo,24,8
+2026-11-01T07:19:41.153889+00:00,50319358,25,Anthropic blocks users for anything touching training larger models,309,179
+2026-11-01T07:19:41.153889+00:00,50321522,26,"Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",22,6
+2026-11-01T07:19:41.153889+00:00,50271052,27,Reading and writing are less symmetric than you (probably) think,106,24
+2026-11-01T07:19:41.153889+00:00,50321436,28,Constructing a Quine from Kleene's Second Recursion Theorem,16,1
+2026-11-01T07:19:41.153889+00:00,50315782,29,Show HN: A language model that lives in a boot sector,77,3
+2026-11-01T07:19:41.153889+00:00,50301723,30,Sculpture re-creates odd optical effects of famed Lycurgus Cup,36,2
+2026-11-01T07:19:41.153889+00:00,50320599,31,AI text watermarking and quality loss,44,8
+2026-11-01T07:19:41.153889+00:00,50290652,32,"AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",199,47
+2026-11-01T07:19:41.153889+00:00,50314654,33,Serbia just elected the world's brainiest parliament,851,480
+2026-11-01T07:19:41.153889+00:00,50318376,34,William Nordhaus has died,67,23
+2026-11-01T07:19:41.153889+00:00,50297068,35,Much Ado About None: Sentinel Values in Python,62,44
+2026-11-01T07:19:41.153889+00:00,50321130,36,When electric cars were for women,60,48
+2026-11-01T07:19:41.153889+00:00,50314666,37,Molly (Signal fork) has not been updated since 3 months and is vulnerable,318,184
+2026-11-01T07:19:41.153889+00:00,50260753,38,"Show HN: Marelleo, an open-source story box I built for my kids using ESP32",185,49
+2026-11-01T07:19:41.153889+00:00,50274186,39,Redox: Ring Buffers Project Summary,65,14
+2026-11-01T07:19:41.153889+00:00,50293806,40,Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference,43,30
+2026-11-01T07:19:41.153889+00:00,50300683,41,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,974,547
+2026-11-01T07:19:41.153889+00:00,50300902,42,"Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",55,36
+2026-11-01T07:19:41.153889+00:00,50317363,43,Casio Watches of the 1980s,224,110
+2026-11-01T07:19:41.153889+00:00,50322994,44,Model Aero Engines Free Manufacturable Plans/Blueprints,5,0
+2026-11-01T07:19:41.153889+00:00,50320255,45,Anthropic takes steps to block Claude from reverse-engineering video games,134,81
+2026-11-01T07:19:41.153889+00:00,50309266,46,The oldest ice disappears and the Stone Age emerges from it,206,106
+2026-11-01T07:19:41.153889+00:00,50321663,47,"Show HN: Vela, a New Linux Desktop Environment",8,3
+2026-11-01T07:19:41.153889+00:00,50316531,48,Malware uses LLMs to rank victims by how much they're worth,244,131
+2026-11-01T07:19:41.153889+00:00,50320137,49,Distributed Proofreaders,31,2
+2026-11-01T07:19:41.153889+00:00,50313661,50,Digital minimalism,321,232
