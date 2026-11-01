@@ -59377,3 +59377,53 @@ captured_at,story_id,rank,title,score,comments
 2026-10-31T21:21:28.655077+00:00,50274885,48,Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death,61,26
 2026-10-31T21:21:28.655077+00:00,50319767,49,Report from the Vatican,4,1
 2026-10-31T21:21:28.655077+00:00,50303172,50,The $6.3B Binance hack was pulled off in just 20 minutes,565,408
+2026-11-01T00:55:13.112973+00:00,50319510,1,HackerTube: YouTube built from videos recommended by HN,633,225
+2026-11-01T00:55:13.112973+00:00,50320963,2,An Italian farmer found some unknown seeds in his attic and planted them,96,40
+2026-11-01T00:55:13.112973+00:00,50319143,3,TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8,309,148
+2026-11-01T00:55:13.112973+00:00,50321048,4,Altoids Project,21,0
+2026-11-01T00:55:13.112973+00:00,50320995,5,Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard,47,19
+2026-11-01T00:55:13.112973+00:00,50321130,6,When electric cars were for women,22,3
+2026-11-01T00:55:13.112973+00:00,50318720,7,"It's the memory latency, stupid",114,34
+2026-11-01T00:55:13.112973+00:00,50313051,8,First response from the Project Suncatcher prototype satellite,22,17
+2026-11-01T00:55:13.112973+00:00,50320028,9,"With 86% of the words, you might understand only 38% of an anime's lines",60,39
+2026-11-01T00:55:13.112973+00:00,50319563,10,"Surviving ""The Graduate""",51,13
+2026-11-01T00:55:13.112973+00:00,50314666,11,Molly (Signal fork) has not been updated since 3 months and is vulnerable,299,175
+2026-11-01T00:55:13.112973+00:00,50316100,12,Jepsen: ParticleDB 1.1.4,188,98
+2026-11-01T00:55:13.112973+00:00,50319061,13,The Duty of a Scholar,81,28
+2026-11-01T00:55:13.112973+00:00,50311045,14,Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020,11,4
+2026-11-01T00:55:13.112973+00:00,50319169,15,Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly),40,27
+2026-11-01T00:55:13.112973+00:00,50297068,16,Much Ado About None: Sentinel Values in Python,46,27
+2026-11-01T00:55:13.112973+00:00,50314699,17,Do the math: How we took over ChatGPT accounts,300,148
+2026-11-01T00:55:13.112973+00:00,50301723,18,Sculpture re-creates odd optical effects of famed Lycurgus Cup,13,0
+2026-11-01T00:55:13.112973+00:00,50315782,19,Show HN: A language model that lives in a boot sector,51,1
+2026-11-01T00:55:13.112973+00:00,50261253,20,Simple circuits can create complex behaviors,211,68
+2026-11-01T00:55:13.112973+00:00,50319358,21,Anthropic blocks users for anything touching training larger models,171,78
+2026-11-01T00:55:13.112973+00:00,50320599,22,AI text watermarking and quality loss,11,1
+2026-11-01T00:55:13.112973+00:00,50313661,23,Digital minimalism,305,227
+2026-11-01T00:55:13.112973+00:00,50314085,24,Switch Lowering in GCC,196,39
+2026-11-01T00:55:13.112973+00:00,50318376,25,William Nordhaus has died,48,20
+2026-11-01T00:55:13.112973+00:00,50271052,26,Reading and writing are less symmetric than you (probably) think,75,22
+2026-11-01T00:55:13.112973+00:00,50320137,27,Distributed Proofreaders,21,1
+2026-11-01T00:55:13.112973+00:00,50299578,28,Rhind Mathematical Papyrus,12,1
+2026-11-01T00:55:13.112973+00:00,50301178,29,5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet,15,3
+2026-11-01T00:55:13.112973+00:00,50274186,30,Redox: Ring Buffers Project Summary,55,11
+2026-11-01T00:55:13.112973+00:00,50314654,31,Serbia just elected the world's brainiest parliament,802,461
+2026-11-01T00:55:13.112973+00:00,50293806,32,Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference,41,27
+2026-11-01T00:55:13.112973+00:00,50290652,33,"AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",188,44
+2026-11-01T00:55:13.112973+00:00,50300902,34,"Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",51,29
+2026-11-01T00:55:13.112973+00:00,50317331,35,Show HN: A USB-C LTE modem that gives my computer a phone line,43,32
+2026-11-01T00:55:13.112973+00:00,50317363,36,Casio Watches of the 1980s,208,108
+2026-11-01T00:55:13.112973+00:00,50318871,37,GPT-5.6 Sol can beat Factorio on peaceful mode,154,170
+2026-11-01T00:55:13.112973+00:00,50319110,38,Electrification Could Cut Global Energy Use in Half,16,1
+2026-11-01T00:55:13.112973+00:00,50260753,39,"Show HN: Marelleo, an open-source story box I built for my kids using ESP32",181,48
+2026-11-01T00:55:13.112973+00:00,50316531,40,Malware uses LLMs to rank victims by how much they're worth,230,126
+2026-11-01T00:55:13.112973+00:00,50277379,41,Cloudflare Turnstile solver library (no headless browser required),302,106
+2026-11-01T00:55:13.112973+00:00,50320513,42,Spooky C++,8,5
+2026-11-01T00:55:13.112973+00:00,50321065,43,Computer Science Programs Lose Students as AI Replaces Jobs,14,10
+2026-11-01T00:55:13.112973+00:00,50315226,44,Prospero: A new coding harness for a more civilized age,181,118
+2026-11-01T00:55:13.112973+00:00,50318442,45,I post trained a model on Demoscenes,46,33
+2026-11-01T00:55:13.112973+00:00,50300683,46,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,967,547
+2026-11-01T00:55:13.112973+00:00,50309266,47,The oldest ice disappears and the Stone Age emerges from it,202,102
+2026-11-01T00:55:13.112973+00:00,50317429,48,What is a light-day? The milestone Voyager 1 is closing in on,84,41
+2026-11-01T00:55:13.112973+00:00,50320255,49,Anthropic takes steps to block Claude from reverse-engineering video games,93,63
+2026-11-01T00:55:13.112973+00:00,50321462,50,Smear Campaign Towards GrapheneOS,7,1
