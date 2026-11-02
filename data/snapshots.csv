@@ -59727,3 +59727,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-02T15:31:10.783427+00:00,50318720,48,"It's the memory latency, stupid",265,96
 2026-11-02T15:31:10.783427+00:00,50325694,49,Novellas with Groff,127,52
 2026-11-02T15:31:10.783427+00:00,50321048,50,Altoids Project,168,7
+2026-11-02T23:24:16.496385+00:00,50341174,1,Astra can read and write weights to improve Qwen,1616,516
+2026-11-02T23:24:16.496385+00:00,50344958,2,Anthropic's growth just flattened,56,29
+2026-11-02T23:24:16.496385+00:00,50340088,3,Show HN: Subvocal – Talk to your computer without making noise,471,259
+2026-11-02T23:24:16.496385+00:00,50344670,4,Apple reports fourth quarter results,44,17
+2026-11-02T23:24:16.496385+00:00,50339397,5,US boy names that became girl names and vice versa,242,268
+2026-11-02T23:24:16.496385+00:00,50344222,6,Can’t fish Ethernet? Use “invisible” fiber instead,34,36
+2026-11-02T23:24:16.496385+00:00,50339913,7,Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app,106,72
+2026-11-02T23:24:16.496385+00:00,50336518,8,"If you love a website, back it up",340,84
+2026-11-02T23:24:16.496385+00:00,50344919,9,The SEC Should Block Anthropic's IPO to Protect the Public,67,26
+2026-11-02T23:24:16.496385+00:00,50339221,10,Show HN: Warsaw in voxels – An interactive 3D map of the city centre,191,33
+2026-11-02T23:24:16.496385+00:00,50338728,11,Ask HN: Who is hiring? (November 2026),159,132
+2026-11-02T23:24:16.496385+00:00,50341028,12,Sneaking into the auditorium for the Windows 2000 launch rehearsal,86,30
+2026-11-02T23:24:16.496385+00:00,50341736,13,Egoless Mathematics in the AI Era,91,68
+2026-11-02T23:24:16.496385+00:00,50340619,14,Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You,51,15
+2026-11-02T23:24:16.496385+00:00,50341462,15,Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks,244,41
+2026-11-02T23:24:16.496385+00:00,50337608,16,WTF Ubuntu?,1236,569
+2026-11-02T23:24:16.496385+00:00,50342284,17,"Oracle files to sell $20B in new stock, bonds to finance AI buildout",134,90
+2026-11-02T23:24:16.496385+00:00,50340159,18,Polyend releases the Tracker firmware source code,59,11
+2026-11-02T23:24:16.496385+00:00,50340992,20,Skill to Create Product Videos,50,17
+2026-11-02T23:24:16.496385+00:00,50330033,21,When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP,11,4
+2026-11-02T23:24:16.496385+00:00,50337558,22,We halved DNS build delay and cut memory use by 85%,126,44
+2026-11-02T23:24:16.496385+00:00,50344181,23,BYD sold more EVs last month than the US did all quarter,201,181
+2026-11-02T23:24:16.496385+00:00,50344158,24,The Ford Privacy Promise: You're in Control of Your Data,5,3
+2026-11-02T23:24:16.496385+00:00,50337661,25,"C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",53,8
+2026-11-02T23:24:16.496385+00:00,50344536,26,Stop Hogging RAM You Monster,6,2
+2026-11-02T23:24:16.496385+00:00,50337716,27,LongCat-2.5: Native Multimodality for Agentic Tasks,73,21
+2026-11-02T23:24:16.496385+00:00,50340629,28,Making Peace with the Projective Plane,21,12
+2026-11-02T23:24:16.496385+00:00,50341334,29,Agentic backdoors via pretraining poisoning,80,23
+2026-11-02T23:24:16.496385+00:00,50344224,30,"SLAC researchers find proof of altermagnetism, a new magnetic phase",5,2
+2026-11-02T23:24:16.496385+00:00,50339815,31,My Favourite Laptop,153,120
+2026-11-02T23:24:16.496385+00:00,50338747,32,Moving our warehouse off DuckDB,147,106
+2026-11-02T23:24:16.496385+00:00,50334704,33,Show HN: I've updated my Linux System Call website and API,197,48
+2026-11-02T23:24:16.496385+00:00,50335615,34,Supermarket freezers across Europe hit by second suspected cyber-attack,351,401
+2026-11-02T23:24:16.496385+00:00,50339494,35,"Anthropic's internal AI use, at retail prices, now exceeds its employee pay",275,230
+2026-11-02T23:24:16.496385+00:00,50336840,36,"The U.S. Census Bureau and ""Super Intelligence""",93,42
+2026-11-02T23:24:16.496385+00:00,50341616,37,Ballot Rejections Have Soared in Rural Counties as USPS Reduces Mail Service,66,34
+2026-11-02T23:24:16.496385+00:00,50326821,38,"Show HN: HackerBooks – HackerTube, but for books mentioned on HN",1803,299
+2026-11-02T23:24:16.496385+00:00,50312408,39,Postgres 19 is late because so many more bugs are being found now,803,477
+2026-11-02T23:24:16.496385+00:00,50319510,40,HackerTube: YouTube built from videos recommended by HN,2807,624
+2026-11-02T23:24:16.496385+00:00,50344433,41,Cyberattacks hit supermarket fridges and freezers in Europe,7,3
+2026-11-02T23:24:16.496385+00:00,50338891,42,"Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python",11,0
+2026-11-02T23:24:16.496385+00:00,50337503,43,GPT-Rosalind-6 System Card Addendum,62,50
+2026-11-02T23:24:16.496385+00:00,50337454,44,Jobless tech workers are being left out of San Francisco's AI boom,154,215
+2026-11-02T23:24:16.496385+00:00,50342908,45,Bitcoin Suisse CEO: Switzerland has lost interest in cryptocurrencies,19,5
+2026-11-02T23:24:16.496385+00:00,50343376,46,Japan launches mission to make first return trip to Mars,12,0
+2026-11-02T23:24:16.496385+00:00,50331957,47,Bones may release proteins that slow aging and extend life span,311,122
+2026-11-02T23:24:16.496385+00:00,50339224,48,Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings,76,26
+2026-11-02T23:24:16.496385+00:00,50336138,49,Last night an AI agent performed brain surgery on a mouse,117,98
+2026-11-02T23:24:16.496385+00:00,50328896,50,Ask HN: Which TV do you recommend for privacy?,680,820
