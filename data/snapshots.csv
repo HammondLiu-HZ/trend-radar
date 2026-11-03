@@ -59825,3 +59825,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-03T06:24:38.054154+00:00,50344958,48,Anthropic's growth just flattened,197,225
 2026-11-03T06:24:38.054154+00:00,50321939,49,WiCi: Connecting GPUs over WiFi,4,3
 2026-11-03T06:24:38.054154+00:00,50344861,50,LLMs are not superhuman at reading and writing neural network weights,54,4
+2026-11-03T14:58:10.686183+00:00,50351111,1,The 'Astra can read and write weights to improve Qwen' post is misleading,399,79
+2026-11-03T14:58:10.686183+00:00,50352257,2,"Just a little AI resistance, as a treat",57,24
+2026-11-03T14:58:10.686183+00:00,50341174,3,Astra can read and write weights to improve Qwen,2875,867
+2026-11-03T14:58:10.686183+00:00,50351319,4,"Charles Tandy, the mastermind behind Radio Shack",41,16
+2026-11-03T14:58:10.686183+00:00,50327088,5,Life with Down Syndrome,86,37
+2026-11-03T14:58:10.686183+00:00,50336918,6,Fujifilm to boost tape production 5x as AI fuels archiving demand,30,0
+2026-11-03T14:58:10.686183+00:00,50337980,7,Killing what can't be handled – putting a spaghetti demon to eternal rest,12,3
+2026-11-03T14:58:10.686183+00:00,50348962,8,Nvidia – open-source auto-ontology,205,68
+2026-11-03T14:58:10.686183+00:00,50332342,9,Katamari Damacy but it's The Met collection,88,25
+2026-11-03T14:58:10.686183+00:00,50349276,10,Could a modern chess engine on a Pentium have defeated Kasparov in 1996?,180,95
+2026-11-03T14:58:10.686183+00:00,50321605,11,Toit v2.0.0,170,58
+2026-11-03T14:58:10.686183+00:00,50351404,13,Show HN: Bema: Work messaging built for humans,13,14
+2026-11-03T14:58:10.686183+00:00,50346849,14,"DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",303,65
+2026-11-03T14:58:10.686183+00:00,50346981,15,"Show HN: Hacker Times, a New York Times-inspired version of Hacker News",387,123
+2026-11-03T14:58:10.686183+00:00,50342119,16,"Writing seen in PHerc. 306B, for the first time in 2000 years",8,0
+2026-11-03T14:58:10.686183+00:00,50340088,17,Show HN: Subvocal – Talk to your computer without making noise,773,360
+2026-11-03T14:58:10.686183+00:00,50334523,18,European RISC-V Industrial Computing Initiative,170,95
+2026-11-03T14:58:10.686183+00:00,50351712,19,Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI,18,23
+2026-11-03T14:58:10.686183+00:00,50336518,20,"If you love a website, back it up",625,145
+2026-11-03T14:58:10.686183+00:00,50323123,21,Resisting Cognitive Surrender,252,124
+2026-11-03T14:58:10.686183+00:00,50339397,22,US boy names that became girl names and vice versa,447,431
+2026-11-03T14:58:10.686183+00:00,50340619,23,Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You,293,82
+2026-11-03T14:58:10.686183+00:00,50336557,24,433MHz TUI scanner: using a FT232H connected to a CC1101,24,7
+2026-11-03T14:58:10.686183+00:00,50331988,25,Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform,28,1
+2026-11-03T14:58:10.686183+00:00,50351427,26,"Show HN: Kvittas, an Expense Splitting App",8,6
+2026-11-03T14:58:10.686183+00:00,50351833,27,Microsoft's Canada timezone troubles leave admins fixing calendars,17,11
+2026-11-03T14:58:10.686183+00:00,50339913,28,Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app,155,105
+2026-11-03T14:58:10.686183+00:00,50339221,29,Show HN: Warsaw in voxels – An interactive 3D map of the city centre,304,50
+2026-11-03T14:58:10.686183+00:00,50331800,30,Vathographs: Photographic depth maps as creative expression,43,17
+2026-11-03T14:58:10.686183+00:00,50326246,31,Shrinking NixOS RAM footprint and resource requirements to the bare minimum,97,14
+2026-11-03T14:58:10.686183+00:00,50347464,32,Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities,49,5
+2026-11-03T14:58:10.686183+00:00,50338728,33,Ask HN: Who is hiring? (November 2026),234,197
+2026-11-03T14:58:10.686183+00:00,50341736,34,Egoless Mathematics in the AI Era,178,142
+2026-11-03T14:58:10.686183+00:00,50344224,35,"SLAC researchers find proof of altermagnetism, a new magnetic phase",95,11
+2026-11-03T14:58:10.686183+00:00,50340159,36,Polyend releases the Tracker firmware source code,149,61
+2026-11-03T14:58:10.686183+00:00,50345924,37,Scaling Git at OpenAI,251,170
+2026-11-03T14:58:10.686183+00:00,50320904,38,"Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",97,72
+2026-11-03T14:58:10.686183+00:00,50341462,39,Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks,571,172
+2026-11-03T14:58:10.686183+00:00,50337608,40,WTF Ubuntu?,1577,657
+2026-11-03T14:58:10.686183+00:00,50341028,41,Sneaking into the auditorium for the Windows 2000 launch rehearsal,145,52
+2026-11-03T14:58:10.686183+00:00,50337558,42,We halved DNS build delay and cut memory use by 85%,189,74
+2026-11-03T14:58:10.686183+00:00,50349155,43,uBlock Origin filter to block autoplay videos in TechCrunch,119,35
+2026-11-03T14:58:10.686183+00:00,50347552,44,Show HN: I built a little browser game to practice Vim commands,60,44
+2026-11-03T14:58:10.686183+00:00,50350730,45,Itch.io adding Generative AI disclosure filtering to few more places on the site,14,7
+2026-11-03T14:58:10.686183+00:00,50340992,46,Skill to Create Product Videos,111,35
+2026-11-03T14:58:10.686183+00:00,50350560,47,"Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",63,72
+2026-11-03T14:58:10.686183+00:00,50319510,48,HackerTube: YouTube built from videos recommended by HN,2844,632
+2026-11-03T14:58:10.686183+00:00,50344912,49,V100 SXM2 pinout and NVLink reference,43,10
+2026-11-03T14:58:10.686183+00:00,50350004,50,Revolut moves to self-hosted GLM,165,132
