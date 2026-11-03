@@ -59874,3 +59874,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-03T14:58:10.686183+00:00,50319510,48,HackerTube: YouTube built from videos recommended by HN,2844,632
 2026-11-03T14:58:10.686183+00:00,50344912,49,V100 SXM2 pinout and NVLink reference,43,10
 2026-11-03T14:58:10.686183+00:00,50350004,50,Revolut moves to self-hosted GLM,165,132
+2026-11-03T20:54:24.104997+00:00,50356994,1,Preparing for the Flipper One Kickstarter and opening pre-orders,80,34
+2026-11-03T20:54:24.104997+00:00,50339288,2,Jailbreaking my car's navigation system just so I can change the time,430,166
+2026-11-03T20:54:24.104997+00:00,50355251,3,"Qwen 3.8 27B on my laptop can interpret model weights, too",336,107
+2026-11-03T20:54:24.104997+00:00,50354358,4,"Stringman, an $800 open-source room scale gripper robot",156,78
+2026-11-03T20:54:24.104997+00:00,50354960,5,Postman silently auto-installs AI plugins and attempts to share all API data,740,246
+2026-11-03T20:54:24.104997+00:00,50356913,6,Introduction to Programming in ATS,26,3
+2026-11-03T20:54:24.104997+00:00,50336918,7,Fujifilm to boost tape production 5x as AI fuels archiving demand,304,123
+2026-11-03T20:54:24.104997+00:00,50357782,8,I Dumped Apple's Fucking Word List,8,0
+2026-11-03T20:54:24.104997+00:00,50352758,9,Mac at Any Scale,246,131
+2026-11-03T20:54:24.104997+00:00,50346755,10,Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels,11,5
+2026-11-03T20:54:24.104997+00:00,50351111,11,The 'Astra can read and write weights to improve Qwen' post is misleading,797,185
+2026-11-03T20:54:24.104997+00:00,50353229,12,Kalshi and its co-founders face felony charges for violating Utah gambling laws,346,266
+2026-11-03T20:54:24.104997+00:00,50357457,13,Pratt parsing is a black box,10,3
+2026-11-03T20:54:24.104997+00:00,50322603,15,We're Training a Figma-Fluent Editing Model,13,8
+2026-11-03T20:54:24.104997+00:00,50354250,16,USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance,31,6
+2026-11-03T20:54:24.104997+00:00,50342119,17,"Writing seen in PHerc. 306B, for the first time in 2000 years",94,12
+2026-11-03T20:54:24.104997+00:00,50349276,18,Could a modern chess engine on a Pentium have defeated Kasparov in 1996?,385,171
+2026-11-03T20:54:24.104997+00:00,50334363,19,Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015),81,37
+2026-11-03T20:54:24.104997+00:00,50354336,20,Gitbook Breached,116,28
+2026-11-03T20:54:24.104997+00:00,50351574,21,How McDonald's first got its start,4,0
+2026-11-03T20:54:24.104997+00:00,50333131,22,Japan's Jimi 'Mundane' Halloween Costumes of 2026,4,0
+2026-11-03T20:54:24.104997+00:00,50353073,23,Tiny Basic for Arduino,54,15
+2026-11-03T20:54:24.104997+00:00,50353192,24,Google will turn off search for schools that reject AI,410,312
+2026-11-03T20:54:24.104997+00:00,50352757,25,OpenAI seems to be silently re-enabling model training on Codex chats,369,110
+2026-11-03T20:54:24.104997+00:00,50338062,26,Queen of the Bagel Business,18,0
+2026-11-03T20:54:24.104997+00:00,50355365,27,How to write comparison content that doesn't age like milk,17,5
+2026-11-03T20:54:24.104997+00:00,50352767,28,Handles are the better pointers (2018),42,20
+2026-11-03T20:54:24.104997+00:00,50352577,29,"Practice speaking Japanese with real YouTube videos, graded line by line",51,18
+2026-11-03T20:54:24.104997+00:00,50333332,30,Why Don't We Live in an Art Nouveau World?,104,97
+2026-11-03T20:54:24.104997+00:00,50353335,31,Study estimates 75% of NFL players who died over 15-year span had CTE,227,179
+2026-11-03T20:54:24.104997+00:00,50332342,32,Katamari Damacy but it's The Met collection,142,47
+2026-11-03T20:54:24.104997+00:00,50356944,33,macOS 27 does not support CoreStorage volumes,4,0
+2026-11-03T20:54:24.104997+00:00,50321605,34,Toit v2.0.0,209,68
+2026-11-03T20:54:24.104997+00:00,50348962,35,Nvidia – open-source auto-ontology,253,117
+2026-11-03T20:54:24.104997+00:00,50326545,36,Embedding boolean circuits in a neural network,21,5
+2026-11-03T20:54:24.104997+00:00,50323123,37,Resisting Cognitive Surrender,298,145
+2026-11-03T20:54:24.104997+00:00,50357683,38,Apple opens the door to a nightmare world of always-listening tech,8,2
+2026-11-03T20:54:24.104997+00:00,50357893,39,Google to cutoff Search Engine access to schools banning Gen. AI,5,1
+2026-11-03T20:54:24.104997+00:00,50357236,40,$20M in Fines and Vizio Smart TVs Opt Out of Spying Option Does Nothing,12,0
+2026-11-03T20:54:24.104997+00:00,50336097,41,Exploring the Legacy of Image Club Graphics,9,1
+2026-11-03T20:54:24.104997+00:00,50355959,42,"Getting hit with ""Prove you are a human"" at every other website",40,20
+2026-11-03T20:54:24.104997+00:00,50334523,43,European RISC-V Industrial Computing Initiative,185,124
+2026-11-03T20:54:24.104997+00:00,50353468,44,"Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",35,3
+2026-11-03T20:54:24.104997+00:00,50354555,45,Snapchat Is Harming Children at an Industrial Scale (2025),49,8
+2026-11-03T20:54:24.104997+00:00,50353386,46,Show HN: HackerChurn – which SaaS tools HN wants to cancel,65,23
+2026-11-03T20:54:24.104997+00:00,50353383,47,"Bear turns 10, and it still feels like day one",84,62
+2026-11-03T20:54:24.104997+00:00,50353818,48,Binance hackers used fake job interview to breach PC before $6.3B attack,54,12
+2026-11-03T20:54:24.104997+00:00,50355133,49,"Proton Colleagues, Unionize Now",37,10
+2026-11-03T20:54:24.104997+00:00,50337980,50,Killing what can't be handled – putting a spaghetti demon to eternal rest,30,3
