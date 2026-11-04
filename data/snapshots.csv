@@ -60021,3 +60021,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-04T08:55:59.575119+00:00,50323123,48,Resisting Cognitive Surrender,312,159
 2026-11-04T08:55:59.575119+00:00,50361106,49,NetBSD 11.1,6,0
 2026-11-04T08:55:59.575119+00:00,50334523,50,European RISC-V Industrial Computing Initiative,199,126
+2026-11-04T17:02:24.795043+00:00,50364336,1,AI is forcing us to pay off 40 years of technical debt,605,393
+2026-11-04T17:02:24.795043+00:00,50366522,2,Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016),94,24
+2026-11-04T17:02:24.795043+00:00,50362905,3,Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux,417,192
+2026-11-04T17:02:24.795043+00:00,50366919,4,Evergreen: A Provably Safe Systems Language,40,21
+2026-11-04T17:02:24.795043+00:00,50365755,5,North Korean fake job interview led to $6.3B Binance heist,276,164
+2026-11-04T17:02:24.795043+00:00,50363019,6,Verification Is Not Knowledge: Science needs more than answers,170,99
+2026-11-04T17:02:24.795043+00:00,50367125,7,AMD expects to outsell Intel in Q4 for the first time in history,89,24
+2026-11-04T17:02:24.795043+00:00,50363378,8,"Incident with Pull Requests, Git Operations and Issues",197,101
+2026-11-04T17:02:24.795043+00:00,50363461,9,"Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",419,117
+2026-11-04T17:02:24.795043+00:00,50367004,10,"Letting users trust their own MCP clients, without opening a phishing hole",17,2
+2026-11-04T17:02:24.795043+00:00,50366999,11,Kimi K3.1 Pro model weights are out,65,6
+2026-11-04T17:02:24.795043+00:00,50366929,12,Show HN: I built a tool that prices a prebuilt PC part by part,16,3
+2026-11-04T17:02:24.795043+00:00,50366860,13,Adding Window Functions to a Spreadsheet,18,13
+2026-11-04T17:02:24.795043+00:00,50366811,14,Show HN: Codemap – one-page interactive map of any Go repository,22,5
+2026-11-04T17:02:24.795043+00:00,50361268,15,Jelly Sheet,383,100
+2026-11-04T17:02:24.795043+00:00,50366575,16,Debian apt security update (man-in-the-middle),67,13
+2026-11-04T17:02:24.795043+00:00,50362980,17,Kitty 0.50,290,185
+2026-11-04T17:02:24.795043+00:00,50365516,18,Mocktastic: A Meshtastic Node on Arduino,13,1
+2026-11-04T17:02:24.795043+00:00,50354358,19,"Stringman, an $800 open-source room scale gripper robot",729,226
+2026-11-04T17:02:24.795043+00:00,50358702,20,The Internals of PostgreSQL,339,24
+2026-11-04T17:02:24.795043+00:00,50362466,21,The lost malloc(),115,46
+2026-11-04T17:02:24.795043+00:00,50366863,22,Pierre Computer is being acquired by OpenAI,36,14
+2026-11-04T17:02:24.795043+00:00,50346755,23,Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels,414,78
+2026-11-04T17:02:24.795043+00:00,50363968,24,Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver,119,48
+2026-11-04T17:02:24.795043+00:00,50360573,25,Giant canyon on Mars is still tectonically active,130,30
+2026-11-04T17:02:24.795043+00:00,50361154,26,Distinct cellular and genetic differences in colorectal cancer in young patients,113,48
+2026-11-04T17:02:24.795043+00:00,50358352,27,"Show HN: Uncracked City, detective game where you question LLM suspects that lie",110,53
+2026-11-04T17:02:24.795043+00:00,50333131,28,Japan's Jimi 'Mundane' Halloween Costumes of 2026,236,35
+2026-11-04T17:02:24.795043+00:00,50355251,29,"Qwen 3.8 27B on my laptop can interpret model weights, too",698,203
+2026-11-04T17:02:24.795043+00:00,50366977,30,Rosalind Franklin figured out DNA's helical structure before Watson and Crick,10,0
+2026-11-04T17:02:24.795043+00:00,50360164,31,C++26 Disapproved,385,295
+2026-11-04T17:02:24.795043+00:00,50355767,32,How I use AI (Oct 2026),236,266
+2026-11-04T17:02:24.795043+00:00,50361107,33,"Arrows to arrows, categories to queries (2025)",73,6
+2026-11-04T17:02:24.795043+00:00,50365760,34,Jaron Lanier on parallels between AI and social media,37,7
+2026-11-04T17:02:24.795043+00:00,50339288,35,Jailbreaking my car's navigation system just so I can change the time,910,349
+2026-11-04T17:02:24.795043+00:00,50354960,36,Postman silently auto-installs AI plugins and attempts to share all API data,1441,470
+2026-11-04T17:02:24.795043+00:00,50352641,37,There is no posttraining data commons,109,26
+2026-11-04T17:02:24.795043+00:00,50363554,39,Geoffrey Hinton: it might turn out we were better off without AI,265,228
+2026-11-04T17:02:24.795043+00:00,50365982,40,US voters roundly reject data centers in ballot measures,239,400
+2026-11-04T17:02:24.795043+00:00,50366971,41,"YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",41,45
+2026-11-04T17:02:24.795043+00:00,50322603,42,We're training a Figma-fluent editing model,141,59
+2026-11-04T17:02:24.795043+00:00,50358562,43,Safari introduces Adaptive Dark Mode in 27.3,487,251
+2026-11-04T17:02:24.795043+00:00,50367073,44,Kyiv Independent reports system breach,7,0
+2026-11-04T17:02:24.795043+00:00,50367653,45,"'It's just vape, nail, charity shops': Can anything save UK high street?",41,75
+2026-11-04T17:02:24.795043+00:00,50351111,46,The 'Astra can read and write weights to improve Qwen' post is misleading,1007,205
+2026-11-04T17:02:24.795043+00:00,50367110,47,GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains,4,0
+2026-11-04T17:02:24.795043+00:00,50338334,48,Curiosity Traps,95,13
+2026-11-04T17:02:24.795043+00:00,50336918,49,Fujifilm to boost tape production 5x as AI fuels archiving demand,522,223
+2026-11-04T17:02:24.795043+00:00,50367085,50,AI data centers comprehensively defeated at US midterm elections,7,4
