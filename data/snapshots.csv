@@ -60070,3 +60070,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-04T17:02:24.795043+00:00,50338334,48,Curiosity Traps,95,13
 2026-11-04T17:02:24.795043+00:00,50336918,49,Fujifilm to boost tape production 5x as AI fuels archiving demand,522,223
 2026-11-04T17:02:24.795043+00:00,50367085,50,AI data centers comprehensively defeated at US midterm elections,7,4
+2026-11-04T23:30:55.121144+00:00,50371246,1,Residential proxies detected on White House network,474,135
+2026-11-04T23:30:55.121144+00:00,50370610,2,Insects don't swarm at LED lights,137,75
+2026-11-04T23:30:55.121144+00:00,50369925,3,Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding,187,64
+2026-11-04T23:30:55.121144+00:00,50364336,4,AI is forcing us to pay off 40 years of technical debt,1007,607
+2026-11-04T23:30:55.121144+00:00,50372164,5,Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements,30,2
+2026-11-04T23:30:55.121144+00:00,50369106,6,A new Go API for JSON,189,80
+2026-11-04T23:30:55.121144+00:00,50370654,7,Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s,75,36
+2026-11-04T23:30:55.121144+00:00,50369503,8,Conductor is joining Meta,74,128
+2026-11-04T23:30:55.121144+00:00,50368626,9,Progress on provable inference for large language models,161,80
+2026-11-04T23:30:55.121144+00:00,50372360,10,Less Popular Than Coal,14,2
+2026-11-04T23:30:55.121144+00:00,50369895,11,"Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",86,10
+2026-11-04T23:30:55.121144+00:00,50362905,12,Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux,576,266
+2026-11-04T23:30:55.121144+00:00,50356791,13,Is Curiosity Good for Us?,7,1
+2026-11-04T23:30:55.121144+00:00,50347425,14,Ask HN: What Cryptography book do you recommend for reading with 10 year olds?,33,37
+2026-11-04T23:30:55.121144+00:00,50366863,15,OpenAI to acquire Pierre Computer Company,151,52
+2026-11-04T23:30:55.121144+00:00,50368804,16,Launch HN: Kino AI (YC S23) – AI media manager and video editor,62,26
+2026-11-04T23:30:55.121144+00:00,50365780,17,Tencent Hy4,162,51
+2026-11-04T23:30:55.121144+00:00,50372660,18,Successful People (2013),5,5
+2026-11-04T23:30:55.121144+00:00,50372294,19,"Ask HN: What your experience with the monthly ""who wants to be hired"" thread?",37,28
+2026-11-04T23:30:55.121144+00:00,50367125,20,AMD expects to outsell Intel in Q4 for the first time in history,431,149
+2026-11-04T23:30:55.121144+00:00,50339183,21,Show HN: The DNA of DOOM – How code structure survives across 44 ports,9,10
+2026-11-04T23:30:55.121144+00:00,50371090,22,Show HN: Gauge – Open-Source CLI to recursively improve your docs,4,1
+2026-11-04T23:30:55.121144+00:00,50363019,23,Verification Is Not Knowledge: Science needs more than answers,219,129
+2026-11-04T23:30:55.121144+00:00,50371408,24,Death Comes for XSLT,15,0
+2026-11-04T23:30:55.121144+00:00,50363378,25,"Incident with Pull Requests, Git Operations and Issues",251,126
+2026-11-04T23:30:55.121144+00:00,50365755,26,North Korean fake job interview led to $6.3B Binance heist,555,340
+2026-11-04T23:30:55.121144+00:00,50369527,27,From wild to mild: Friendly foxes show changes in brain region,35,6
+2026-11-04T23:30:55.121144+00:00,50363461,28,"Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",614,157
+2026-11-04T23:30:55.121144+00:00,50366999,29,Kimi K3.1 Pro model weights are out,314,85
+2026-11-04T23:30:55.121144+00:00,50366522,30,Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016),238,171
+2026-11-04T23:30:55.121144+00:00,50366919,31,Evergreen: A Provably Safe Systems Language,98,82
+2026-11-04T23:30:55.121144+00:00,50366929,32,Show HN: I built a tool that prices a prebuilt PC part by part,84,59
+2026-11-04T23:30:55.121144+00:00,50371346,33,"If you're on Replit Pro, you have until November 8 to opt out of arbitration",44,5
+2026-11-04T23:30:55.121144+00:00,50369462,34,Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust,28,5
+2026-11-04T23:30:55.121144+00:00,50371890,35,Don't Call It a Decision Model,5,0
+2026-11-04T23:30:55.121144+00:00,50362980,36,Kitty 0.50,354,223
+2026-11-04T23:30:55.121144+00:00,50371693,37,"Hacking the T-Mobile Sidekick, 20 Years Too Late",8,2
+2026-11-04T23:30:55.121144+00:00,50371508,38,Everything is an AI scam now,117,36
+2026-11-04T23:30:55.121144+00:00,50371526,39,Bruno: The Git-native API client,3,0
+2026-11-04T23:30:55.121144+00:00,50367004,40,"Letting users trust their own MCP clients, without opening a phishing hole",32,4
+2026-11-04T23:30:55.121144+00:00,50371427,41,Kernel.sh Hacked,4,2
+2026-11-04T23:30:55.121144+00:00,50369098,42,512GB Mac Studio,15,8
+2026-11-04T23:30:55.121144+00:00,50371435,43,In Praise of Japan's Failure to Keep Up,21,1
+2026-11-04T23:30:55.121144+00:00,50362466,44,The lost malloc(),149,63
+2026-11-04T23:30:55.121144+00:00,50371082,45,Juju: Modern Codeforge,3,0
+2026-11-04T23:30:55.121144+00:00,50360573,46,Giant canyon on Mars is still tectonically active,141,37
+2026-11-04T23:30:55.121144+00:00,50369194,47,This Month in Ladybird – October 2026,104,33
+2026-11-04T23:30:55.121144+00:00,50372693,48,"AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",3,0
+2026-11-04T23:30:55.121144+00:00,50369754,49,Have I befriended a murderer?,98,54
+2026-11-04T23:30:55.121144+00:00,50366575,50,Debian apt security update (man-in-the-middle),133,28
