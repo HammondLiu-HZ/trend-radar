@@ -59972,3 +59972,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-04T01:11:35.388100+00:00,50352767,48,Handles are the better pointers (2018),54,24
 2026-11-04T01:11:35.388100+00:00,50351632,49,The cryptography behind e-voting (and why paper ballots are still essential),34,5
 2026-11-04T01:11:35.388100+00:00,50351319,50,"Charles Tandy, the mastermind behind Radio Shack",106,85
+2026-11-04T08:55:59.575119+00:00,50361268,1,Jelly Sheet,217,52
+2026-11-04T08:55:59.575119+00:00,50360164,2,C++26 Disapproved,272,162
+2026-11-04T08:55:59.575119+00:00,50362466,3,The lost malloc(),17,3
+2026-11-04T08:55:59.575119+00:00,50339288,4,Jailbreaking my car's navigation system just so I can change the time,786,312
+2026-11-04T08:55:59.575119+00:00,50354358,5,"Stringman, an $800 open-source room scale gripper robot",576,193
+2026-11-04T08:55:59.575119+00:00,50358702,6,The Internals of PostgreSQL,261,18
+2026-11-04T08:55:59.575119+00:00,50358352,7,"Show HN: Uncracked City, detective game where you question LLM suspects that lie",50,17
+2026-11-04T08:55:59.575119+00:00,50361154,8,Distinct cellular and genetic differences in colorectal cancer in young patients,65,10
+2026-11-04T08:55:59.575119+00:00,50360573,9,Giant canyon on Mars is still tectonically active,77,9
+2026-11-04T08:55:59.575119+00:00,50346755,10,Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels,318,65
+2026-11-04T08:55:59.575119+00:00,50361107,11,"Arrows to arrows, categories to queries (2025)",45,2
+2026-11-04T08:55:59.575119+00:00,50336918,12,Fujifilm to boost tape production 5x as AI fuels archiving demand,466,193
+2026-11-04T08:55:59.575119+00:00,50333131,13,Japan's Jimi 'Mundane' Halloween Costumes of 2026,186,32
+2026-11-04T08:55:59.575119+00:00,50355251,14,"Qwen 3.8 27B on my laptop can interpret model weights, too",609,178
+2026-11-04T08:55:59.575119+00:00,50358562,15,Safari introduces Adaptive Dark Mode in 27.3,420,224
+2026-11-04T08:55:59.575119+00:00,50354960,16,Postman silently auto-installs AI plugins and attempts to share all API data,1249,411
+2026-11-04T08:55:59.575119+00:00,50355767,17,How I use AI (Oct 2026),165,149
+2026-11-04T08:55:59.575119+00:00,50322603,18,We're training a Figma-fluent editing model,116,50
+2026-11-04T08:55:59.575119+00:00,50351298,19,Why Clip Art Was Everywhere Until It Wasn't [video],37,11
+2026-11-04T08:55:59.575119+00:00,50352641,20,There is no posttraining data commons,67,21
+2026-11-04T08:55:59.575119+00:00,50358582,21,The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer,331,51
+2026-11-04T08:55:59.575119+00:00,50362274,22,AI stocks slide as Texas governor result raises data center risks,22,8
+2026-11-04T08:55:59.575119+00:00,50358314,23,Show HN: Kairos – Open-source risk and fraud decisioning platform,91,22
+2026-11-04T08:55:59.575119+00:00,50351463,24,Microsoft fixes a Windows 11 annoyance as PC revenue declines,74,170
+2026-11-04T08:55:59.575119+00:00,50338334,25,Curiosity Traps,75,8
+2026-11-04T08:55:59.575119+00:00,50351111,26,The 'Astra can read and write weights to improve Qwen' post is misleading,969,201
+2026-11-04T08:55:59.575119+00:00,50356913,27,Introduction to Programming in ATS,73,9
+2026-11-04T08:55:59.575119+00:00,50342931,28,Union Types and Option Types (2025),45,21
+2026-11-04T08:55:59.575119+00:00,50352758,29,Mac at any scale,377,211
+2026-11-04T08:55:59.575119+00:00,50342119,30,"Writing seen in PHerc. 306B, for the first time in 2000 years",128,18
+2026-11-04T08:55:59.575119+00:00,50334363,31,Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015),124,63
+2026-11-04T08:55:59.575119+00:00,50352577,33,"Practice speaking Japanese with real YouTube videos, graded line by line",96,33
+2026-11-04T08:55:59.575119+00:00,50321605,34,Toit v2.0.0,226,70
+2026-11-04T08:55:59.575119+00:00,50360947,35,"Tell HN: Don't use Postman, they proxy your info without your permission",30,1
+2026-11-04T08:55:59.575119+00:00,50362245,36,Affinity for Linux is in active development,11,1
+2026-11-04T08:55:59.575119+00:00,50356994,37,Preparing for the Flipper One Kickstarter and opening pre-orders,208,90
+2026-11-04T08:55:59.575119+00:00,50333332,38,Why Don't We Live in an Art Nouveau World?,135,118
+2026-11-04T08:55:59.575119+00:00,50348962,39,Nvidia – open-source auto-ontology,277,134
+2026-11-04T08:55:59.575119+00:00,50337980,40,Killing what can't be handled – putting a spaghetti demon to eternal rest,39,9
+2026-11-04T08:55:59.575119+00:00,50332342,41,Katamari Damacy but it's The Met collection,148,48
+2026-11-04T08:55:59.575119+00:00,50353073,42,Tiny Basic for Arduino,67,19
+2026-11-04T08:55:59.575119+00:00,50351163,43,Runs Scored in World Baseball Classic,5,0
+2026-11-04T08:55:59.575119+00:00,50352757,44,OpenAI seems to be silently re-enabling model training on Codex chats,475,144
+2026-11-04T08:55:59.575119+00:00,50353383,45,"Bear turns 10, and it still feels like day one",113,76
+2026-11-04T08:55:59.575119+00:00,50354250,46,USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance,47,8
+2026-11-04T08:55:59.575119+00:00,50357457,47,Pratt parsing is a black box,52,26
+2026-11-04T08:55:59.575119+00:00,50323123,48,Resisting Cognitive Surrender,312,159
+2026-11-04T08:55:59.575119+00:00,50361106,49,NetBSD 11.1,6,0
+2026-11-04T08:55:59.575119+00:00,50334523,50,European RISC-V Industrial Computing Initiative,199,126
