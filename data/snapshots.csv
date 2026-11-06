@@ -60318,3 +60318,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-06T02:11:07.110051+00:00,50387071,48,Regulators approve generic HIV-prevention drug for low-income countries,4,0
 2026-11-06T02:11:07.110051+00:00,50364336,49,AI is forcing us to pay off 40 years of technical debt,1264,739
 2026-11-06T02:11:07.110051+00:00,50340195,50,Partial Operator Precedence,99,60
+2026-11-06T10:40:43.375432+00:00,50389333,1,Blender's UI and Runtime: Much Faster Than GPUI,191,75
+2026-11-06T10:40:43.375432+00:00,50385272,2,Claude Code sends your email address to websites,1170,368
+2026-11-06T10:40:43.375432+00:00,50389370,3,Kugelblitz – Mac-Native Google Earth Alternative,78,14
+2026-11-06T10:40:43.375432+00:00,50378228,4,sshole,2721,653
+2026-11-06T10:40:43.375432+00:00,50390124,5,"Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",19,9
+2026-11-06T10:40:43.375432+00:00,50389448,6,"App Store 2026 in numbers: AI, pricing, abandoned apps",38,31
+2026-11-06T10:40:43.375432+00:00,50389420,7,Multiplayer tanks that demolish real buildings from OpenStreetMap,47,29
+2026-11-06T10:40:43.375432+00:00,50384233,8,MS Paint Remote Code Execution Vulnerability,556,200
+2026-11-06T10:40:43.375432+00:00,50387796,9,Pwn.college,160,21
+2026-11-06T10:40:43.375432+00:00,50389260,10,Hardcoded credentials and other issues in Tata Motors App,27,6
+2026-11-06T10:40:43.375432+00:00,50390525,11,Ants trapped for years in Soviet bunker; survival by cannibalism,3,0
+2026-11-06T10:40:43.375432+00:00,50387738,12,Nvidia Kubernetes Engine (NVKE),81,21
+2026-11-06T10:40:43.375432+00:00,50388122,13,From Linux to Wikipedia: How Volunteers Build the Internet,90,35
+2026-11-06T10:40:43.375432+00:00,50383057,14,The Hackintosh Reborn,315,177
+2026-11-06T10:40:43.375432+00:00,50386338,15,Inkling 2 Small,205,68
+2026-11-06T10:40:43.375432+00:00,50381383,16,Window Sweaters,352,107
+2026-11-06T10:40:43.375432+00:00,50389222,17,Britain to make salary disclosure in job ads mandatory,187,188
+2026-11-06T10:40:43.375432+00:00,50378643,18,"Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",118,17
+2026-11-06T10:40:43.375432+00:00,50381687,19,Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3,98,51
+2026-11-06T10:40:43.375432+00:00,50380810,20,Motorola Signature 27 with GrapheneOS support,487,345
+2026-11-06T10:40:43.375432+00:00,50386789,21,MoofTCP – A modern replacement for MacTCP on 68k Macs,49,20
+2026-11-06T10:40:43.375432+00:00,50385870,22,Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue,344,166
+2026-11-06T10:40:43.375432+00:00,50368208,23,Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights),233,21
+2026-11-06T10:40:43.375432+00:00,50379576,24,"September in Servo: <progress>, rounded rectangles, and more",242,61
+2026-11-06T10:40:43.375432+00:00,50378942,25,I wish tech companies knew more about me,428,359
+2026-11-06T10:40:43.375432+00:00,50378571,26,Download your favourite YouTube videos,348,165
+2026-11-06T10:40:43.375432+00:00,50388513,27,I struggle to believe that AI R&D is ingenious,93,77
+2026-11-06T10:40:43.375432+00:00,50383294,28,Pangram Image 1.0,109,49
+2026-11-06T10:40:43.375432+00:00,50379249,29,MCP Explained,302,127
+2026-11-06T10:40:43.375432+00:00,50383739,30,Goodbye from Salon,586,232
+2026-11-06T10:40:43.375432+00:00,50378508,31,Obscure audio codec is a perfect fit for the N64,236,28
+2026-11-06T10:40:43.375432+00:00,50389498,32,Living Maps: Bay Area tech since 1960s,6,6
+2026-11-06T10:40:43.375432+00:00,50383740,33,Search for everyone,679,355
+2026-11-06T10:40:43.375432+00:00,50377078,34,Baidu released ERNIE 5.5 Flash Base,179,97
+2026-11-06T10:40:43.375432+00:00,50364860,35,So my ISP was hijacking my DNS,208,163
+2026-11-06T10:40:43.375432+00:00,50380979,37,"The Stacks Project, Formalized in Lean",88,25
+2026-11-06T10:40:43.375432+00:00,50380704,38,Show HN: Stroq – a local audit of what your coding agent did and why,85,30
+2026-11-06T10:40:43.375432+00:00,50378625,39,Discord is ditching Electron and its new app uses less RAM,441,378
+2026-11-06T10:40:43.375432+00:00,50352846,40,TextEdit vs. Pages,97,71
+2026-11-06T10:40:43.375432+00:00,50388752,41,Hugging Face's CEO Says His P(Doom) Is 'Close to Zero',25,3
+2026-11-06T10:40:43.375432+00:00,50389501,42,Ask HN: What are you working on? (November 2026),11,27
+2026-11-06T10:40:43.375432+00:00,50388850,43,The Poison and the Cure the Life and Afterlife of French Theory,6,5
+2026-11-06T10:40:43.375432+00:00,50380658,44,Building a Multi-Agent System from Scratch: Architecture Patterns,90,36
+2026-11-06T10:40:43.375432+00:00,50380268,45,We can do better than line-buffered output,103,11
+2026-11-06T10:40:43.375432+00:00,50389361,46,Astronauts arrive at International Space Station just 8 hours after launching,11,3
+2026-11-06T10:40:43.375432+00:00,50387546,47,Closed AI models dominate the price-performance frontier,73,61
+2026-11-06T10:40:43.375432+00:00,50381033,48,My psychophysics as a bilateral cochlear implant user,179,83
+2026-11-06T10:40:43.375432+00:00,50389074,49,Budget offers $50B jolt to help Canada double its electricity grid,16,2
+2026-11-06T10:40:43.375432+00:00,50383163,50,"Hungary: Communist-era files released, up to 60k former agents revealed",210,64
