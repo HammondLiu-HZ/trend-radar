@@ -60367,3 +60367,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-06T10:40:43.375432+00:00,50381033,48,My psychophysics as a bilateral cochlear implant user,179,83
 2026-11-06T10:40:43.375432+00:00,50389074,49,Budget offers $50B jolt to help Canada double its electricity grid,16,2
 2026-11-06T10:40:43.375432+00:00,50383163,50,"Hungary: Communist-era files released, up to 60k former agents revealed",210,64
+2026-11-06T17:52:49.709534+00:00,50388001,1,US FAA says it will phase out floppy disks from air traffic control by 2028,34,61
+2026-11-06T17:52:49.709534+00:00,50391456,2,Tesla to wind down Cybertruck production,283,480
+2026-11-06T17:52:49.709534+00:00,50392118,3,Gemini Omni 1.2 Flash,209,164
+2026-11-06T17:52:49.709534+00:00,50389333,4,Blender's UI and Runtime: Much Faster Than GPUI,544,216
+2026-11-06T17:52:49.709534+00:00,50393758,5,Deus Ex,202,92
+2026-11-06T17:52:49.709534+00:00,50394855,6,First steps in bare-metal programming using UEFI,29,1
+2026-11-06T17:52:49.709534+00:00,50385272,7,Claude Code sends your email address to websites,1492,467
+2026-11-06T17:52:49.709534+00:00,50394569,9,"Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",23,8
+2026-11-06T17:52:49.709534+00:00,50393089,10,Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects),28,1
+2026-11-06T17:52:49.709534+00:00,50382958,11,Zero Hour: Telling time was a matter of survival and strategy during WWI (2014),51,1
+2026-11-06T17:52:49.709534+00:00,50394292,12,Scriptable GeoDNS: Leaving AWS for Bunny,14,7
+2026-11-06T17:52:49.709534+00:00,50390525,13,Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016),129,42
+2026-11-06T17:52:49.709534+00:00,50392787,14,MTG-I2 First Images,32,6
+2026-11-06T17:52:49.709534+00:00,50390124,15,"Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",552,345
+2026-11-06T17:52:49.709534+00:00,50389370,16,Kugelblitz – Mac-Native Google Earth Alternative,213,54
+2026-11-06T17:52:49.709534+00:00,50384233,17,MS Paint Remote Code Execution Vulnerability,683,254
+2026-11-06T17:52:49.709534+00:00,50388122,18,From Linux to Wikipedia: How Volunteers Build the Internet,246,82
+2026-11-06T17:52:49.709534+00:00,50395318,19,Anthropic IPO valuation talks drop to $1.3T,21,6
+2026-11-06T17:52:49.709534+00:00,50391145,20,We've built an open-source feature flag server for 11 years,107,67
+2026-11-06T17:52:49.709534+00:00,50393105,21,Ask HN: What in the world is taking Ubuntu so long?,116,59
+2026-11-06T17:52:49.709534+00:00,50392499,22,"University libraries are being swarmed by AI bots, putting public access at risk",93,46
+2026-11-06T17:52:49.709534+00:00,50389990,23,AI for scientific discovery: How researchers use Claude,62,25
+2026-11-06T17:52:49.709534+00:00,50393235,24,"Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",13,3
+2026-11-06T17:52:49.709534+00:00,50387796,25,Pwn.college,271,43
+2026-11-06T17:52:49.709534+00:00,50378228,26,sshole,2886,706
+2026-11-06T17:52:49.709534+00:00,50389420,27,Multiplayer tanks that demolish real buildings from OpenStreetMap,148,98
+2026-11-06T17:52:49.709534+00:00,50383057,28,The Hackintosh Reborn,385,222
+2026-11-06T17:52:49.709534+00:00,50389570,29,Chomsky and the Two Cultures of Statistical Learning (2011),63,39
+2026-11-06T17:52:49.709534+00:00,50381383,30,Window Sweaters,439,127
+2026-11-06T17:52:49.709534+00:00,50386338,31,Inkling 2 Small,272,88
+2026-11-06T17:52:49.709534+00:00,50387738,32,Nvidia Kubernetes Engine (NVKE),116,24
+2026-11-06T17:52:49.709534+00:00,50389222,33,Britain to make salary disclosure in job ads mandatory,497,403
+2026-11-06T17:52:49.709534+00:00,50394906,34,Anthropic IPO Buyers See Valuation as Low as $1.1T,24,14
+2026-11-06T17:52:49.709534+00:00,50389260,35,Hardcoded credentials and other issues in Tata Motors App,78,15
+2026-11-06T17:52:49.709534+00:00,50380810,36,Motorola Signature 27 with GrapheneOS support,559,394
+2026-11-06T17:52:49.709534+00:00,50394130,37,Tesla Ends Cybertruck Production,16,1
+2026-11-06T17:52:49.709534+00:00,50378942,38,I wish tech companies knew more about me,534,400
+2026-11-06T17:52:49.709534+00:00,50381687,39,Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3,116,58
+2026-11-06T17:52:49.709534+00:00,50378643,40,"Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",164,25
+2026-11-06T17:52:49.709534+00:00,50368208,41,Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights),266,28
+2026-11-06T17:52:49.709534+00:00,50379576,42,"September in Servo: <progress>, rounded rectangles, and more",265,73
+2026-11-06T17:52:49.709534+00:00,50378571,43,Download your favourite YouTube videos,386,185
+2026-11-06T17:52:49.709534+00:00,50385870,44,Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue,473,217
+2026-11-06T17:52:49.709534+00:00,50383294,45,Pangram Image 1.0,140,64
+2026-11-06T17:52:49.709534+00:00,50378508,46,Obscure audio codec is a perfect fit for the N64,251,30
+2026-11-06T17:52:49.709534+00:00,50379249,47,MCP Explained,324,133
+2026-11-06T17:52:49.709534+00:00,50386789,48,MoofTCP – A modern replacement for MacTCP on 68k Macs,64,32
+2026-11-06T17:52:49.709534+00:00,50393165,49,Where Each U.S. State Gets Its Tax Revenue From,58,54
+2026-11-06T17:52:49.709534+00:00,50394452,50,Steam gets restored games after EA producer stumbles across old tapes,7,1
