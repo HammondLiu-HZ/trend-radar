@@ -60269,3 +60269,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-05T21:53:52.609656+00:00,50381302,48,Vibe Coding Keypad,84,55
 2026-11-05T21:53:52.609656+00:00,50379773,49,Image of our satellite-choked night skies,122,93
 2026-11-05T21:53:52.609656+00:00,50380410,50,Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it,15,3
+2026-11-06T02:11:07.110051+00:00,50385272,1,Claude Code sends your email address to websites,535,183
+2026-11-06T02:11:07.110051+00:00,50383740,2,Search for everyone,531,261
+2026-11-06T02:11:07.110051+00:00,50378228,3,sshole,2345,573
+2026-11-06T02:11:07.110051+00:00,50384233,4,MS Paint Remote Code Execution Vulnerability,327,112
+2026-11-06T02:11:07.110051+00:00,50386338,5,Inkling 2 Small,66,28
+2026-11-06T02:11:07.110051+00:00,50379704,6,Alpine Linux Security Advisory: OpenSSH-server password authentication bypass,590,125
+2026-11-06T02:11:07.110051+00:00,50383057,7,The Hackintosh Reborn,207,99
+2026-11-06T02:11:07.110051+00:00,50381383,8,Window Sweaters,253,79
+2026-11-06T02:11:07.110051+00:00,50383963,9,"Tencent Launches Hy4, One of the Leading Open-Source AI Models",86,2
+2026-11-06T02:11:07.110051+00:00,50378643,10,"Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",29,3
+2026-11-06T02:11:07.110051+00:00,50381687,11,Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3,75,41
+2026-11-06T02:11:07.110051+00:00,50383739,12,Goodbye from Salon,438,163
+2026-11-06T02:11:07.110051+00:00,50386104,13,Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data,20,2
+2026-11-06T02:11:07.110051+00:00,50385870,14,Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue,98,41
+2026-11-06T02:11:07.110051+00:00,50368208,15,Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights),157,14
+2026-11-06T02:11:07.110051+00:00,50379576,16,"September in Servo: <progress>, rounded rectangles, and more",191,45
+2026-11-06T02:11:07.110051+00:00,50378571,17,Download your favourite YouTube videos,283,126
+2026-11-06T02:11:07.110051+00:00,50380810,18,Motorola Signature 27 with GrapheneOS support,401,303
+2026-11-06T02:11:07.110051+00:00,50383294,19,Introducing Pangram Image 1.0,61,27
+2026-11-06T02:11:07.110051+00:00,50378942,20,I wish tech companies knew more about me,309,276
+2026-11-06T02:11:07.110051+00:00,50377976,21,OpenSSH 10.6p2 Critical workaround for alpine without PAM,243,11
+2026-11-06T02:11:07.110051+00:00,50386597,22,Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation,34,23
+2026-11-06T02:11:07.110051+00:00,50376313,23,GPT-6 Astra covertly underperforms on safety research,304,156
+2026-11-06T02:11:07.110051+00:00,50379249,25,MCP Explained,250,112
+2026-11-06T02:11:07.110051+00:00,50378508,26,Obscure audio codec is a perfect fit for the N64,196,22
+2026-11-06T02:11:07.110051+00:00,50386789,27,MoofTCP – A modern replacement for MacTCP on 68k Macs,5,1
+2026-11-06T02:11:07.110051+00:00,50386909,28,Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears,22,1
+2026-11-06T02:11:07.110051+00:00,50381033,29,My psychophysics as a bilateral cochlear implant user,161,72
+2026-11-06T02:11:07.110051+00:00,50380979,30,"The Stacks Project, Formalized in Lean",69,20
+2026-11-06T02:11:07.110051+00:00,50383163,31,"Hungary: Communist-era files released, up to 60k former agents revealed",162,36
+2026-11-06T02:11:07.110051+00:00,50380704,32,Show HN: Stroq – a local audit of what your coding agent did and why,71,15
+2026-11-06T02:11:07.110051+00:00,50377078,33,Baidu released ERNIE 5.5 Flash Base,166,92
+2026-11-06T02:11:07.110051+00:00,50349667,34,"The Lisp curse, now coming to your ecosystem",213,169
+2026-11-06T02:11:07.110051+00:00,50380658,35,Building a Multi-Agent System from Scratch: Architecture Patterns,77,31
+2026-11-06T02:11:07.110051+00:00,50378625,36,Discord is ditching Electron and its new app uses less RAM,393,335
+2026-11-06T02:11:07.110051+00:00,50380268,37,We can do better than line-buffered output,91,10
+2026-11-06T02:11:07.110051+00:00,50364860,38,So my ISP was hijacking my DNS,179,135
+2026-11-06T02:11:07.110051+00:00,50352846,39,TextEdit vs. Pages,86,69
+2026-11-06T02:11:07.110051+00:00,50386210,40,One in eight cancers are likely caused by an infection worldwide,15,0
+2026-11-06T02:11:07.110051+00:00,50377821,41,Awesome repositories are no longer awesome,276,118
+2026-11-06T02:11:07.110051+00:00,50386716,42,"No Intel, no Qualcomm: Huawei unveils its first '100% domestic' desktop",10,1
+2026-11-06T02:11:07.110051+00:00,50380170,43,"Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",49,30
+2026-11-06T02:11:07.110051+00:00,50375691,44,Being a kid making games in the early 2000s,125,47
+2026-11-06T02:11:07.110051+00:00,50381623,45,Nasdaq plummets 4% into correction territory,200,153
+2026-11-06T02:11:07.110051+00:00,50373308,46,"Starfall – Affordable, routine access to microgravity",272,209
+2026-11-06T02:11:07.110051+00:00,50341576,47,Spreading Liquid with Three.js,223,29
+2026-11-06T02:11:07.110051+00:00,50387071,48,Regulators approve generic HIV-prevention drug for low-income countries,4,0
+2026-11-06T02:11:07.110051+00:00,50364336,49,AI is forcing us to pay off 40 years of technical debt,1264,739
+2026-11-06T02:11:07.110051+00:00,50340195,50,Partial Operator Precedence,99,60
