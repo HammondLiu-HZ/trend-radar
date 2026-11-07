@@ -60465,3 +60465,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-06T22:58:02.000159+00:00,50395747,48,Flawless UI-UX Skill 1.0.0,20,28
 2026-11-06T22:58:02.000159+00:00,50397099,49,GitHub's new Git storage architecture,12,0
 2026-11-06T22:58:02.000159+00:00,50389990,50,AI for scientific discovery: How researchers use Claude,84,34
+2026-11-07T09:53:06.534557+00:00,50399933,1,Libghostty 1.0,633,98
+2026-11-07T09:53:06.534557+00:00,50401740,2,"A barbarian tribe's mythic origin story is true, ancient DNA reveals",94,51
+2026-11-07T09:53:06.534557+00:00,50397429,3,A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost,471,109
+2026-11-07T09:53:06.534557+00:00,50402212,4,The Components of Agent Memory,38,20
+2026-11-07T09:53:06.534557+00:00,50391456,5,Tesla to wind down Cybertruck production,1004,1856
+2026-11-07T09:53:06.534557+00:00,50361765,6,PostgreSQL Internals [pdf],19,1
+2026-11-07T09:53:06.534557+00:00,50399991,7,RealPage rent-pricing case wraps with nearly $360M to renters,121,59
+2026-11-07T09:53:06.534557+00:00,50401867,8,Asahi Linux Progress Linux 7.3,167,120
+2026-11-07T09:53:06.534557+00:00,50388001,9,US FAA says it will phase out floppy disks from air traffic control by 2028,336,273
+2026-11-07T09:53:06.534557+00:00,50360810,10,Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE,98,8
+2026-11-07T09:53:06.534557+00:00,50397219,11,Firecracker VM Escape: PwnEscape Part 2,235,105
+2026-11-07T09:53:06.534557+00:00,50352701,12,The Flash C Compiler,50,5
+2026-11-07T09:53:06.534557+00:00,50402535,13,"Bong: DuckDuckGo bang alternative, open-source and self-hosted",13,4
+2026-11-07T09:53:06.534557+00:00,50369283,14,8088 Domination Post-Mortem,11,1
+2026-11-07T09:53:06.534557+00:00,50395183,15,Notes on San Marino,64,21
+2026-11-07T09:53:06.534557+00:00,50373513,16,The great butter and cheese fire of 1991,28,9
+2026-11-07T09:53:06.534557+00:00,50397994,17,AI is dramatically accelerating AI research,302,247
+2026-11-07T09:53:06.534557+00:00,50394855,18,First steps in bare-metal programming using UEFI,220,42
+2026-11-07T09:53:06.534557+00:00,50397099,19,GitHub's new Git storage architecture,146,28
+2026-11-07T09:53:06.534557+00:00,50354097,20,Can GROUP BY still be optimized after all these years?,79,13
+2026-11-07T09:53:06.534557+00:00,50392118,21,Gemini Omni 1.2 Flash,336,230
+2026-11-07T09:53:06.534557+00:00,50397017,22,Restaurant Delivery Payment-Skimming Campaign,126,61
+2026-11-07T09:53:06.534557+00:00,50397711,23,Google has acquired Crusoe's data center site in southeast Wyoming,74,16
+2026-11-07T09:53:06.534557+00:00,50395450,24,Devvm.dev: One VM for every project,155,61
+2026-11-07T09:53:06.534557+00:00,50372439,25,Bug Finding Considered Harmful?,7,0
+2026-11-07T09:53:06.534557+00:00,50389570,26,Chomsky and the two cultures of statistical learning (2011),127,102
+2026-11-07T09:53:06.534557+00:00,50400597,27,I toured Unitree's factory. I'm more bullish on the West,119,80
+2026-11-07T09:53:06.534557+00:00,50356722,28,Panthera: Ampere's CPU Performance Model,33,10
+2026-11-07T09:53:06.534557+00:00,50355009,29,Show HN: Tmux-restore saves tmux windows and agent sessions across reboots,37,24
+2026-11-07T09:53:06.534557+00:00,50379221,30,Show HN: Waymark – A workflow engine that compiles jobs instead of replaying,71,22
+2026-11-07T09:53:06.534557+00:00,50399657,31,Sodium-ion batteries approach cost parity with LFP,191,86
+2026-11-07T09:53:06.534557+00:00,50385272,32,Claude Code sends your email address to websites,1571,504
+2026-11-07T09:53:06.534557+00:00,50378228,33,sshole,2928,735
+2026-11-07T09:53:06.534557+00:00,50394906,34,Anthropic IPO buyers see valuation as low as $1.1T,281,555
+2026-11-07T09:53:06.534557+00:00,50392348,35,How octopuses squeeze through too small gaps,67,17
+2026-11-07T09:53:06.534557+00:00,50393458,36,"Ozempic-style drugs now in trials for heart failure, addiction and even aging",73,38
+2026-11-07T09:53:06.534557+00:00,50395919,37,Memorilla: Latent Semantic Memory for LLMs,104,13
+2026-11-07T09:53:06.534557+00:00,50389370,38,Kugelblitz – Mac-Native Google Earth Alternative,253,65
+2026-11-07T09:53:06.534557+00:00,50396834,40,Replit rebuilt its sandbox engine with microVMs,87,29
+2026-11-07T09:53:06.534557+00:00,50390525,41,Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016),171,54
+2026-11-07T09:53:06.534557+00:00,50389333,42,Blender's UI and Runtime: Much Faster Than GPUI,696,281
+2026-11-07T09:53:06.534557+00:00,50390124,43,"Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",635,415
+2026-11-07T09:53:06.534557+00:00,50391145,44,We've built an open-source feature flag server for 11 years,155,102
+2026-11-07T09:53:06.534557+00:00,50401809,45,17776 (2017),6,1
+2026-11-07T09:53:06.534557+00:00,50395869,46,Size-It-Up (Game),76,26
+2026-11-07T09:53:06.534557+00:00,50393758,47,Deus Ex,355,189
+2026-11-07T09:53:06.534557+00:00,50394569,48,"Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",168,121
+2026-11-07T09:53:06.534557+00:00,50387796,49,Pwn.college,313,54
+2026-11-07T09:53:06.534557+00:00,50354308,50,The Ubuntu 26.04 Rust sudo is not compatible with standard sudo,178,159
