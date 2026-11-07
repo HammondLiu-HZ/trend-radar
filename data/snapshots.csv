@@ -60514,3 +60514,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-07T09:53:06.534557+00:00,50394569,48,"Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",168,121
 2026-11-07T09:53:06.534557+00:00,50387796,49,Pwn.college,313,54
 2026-11-07T09:53:06.534557+00:00,50354308,50,The Ubuntu 26.04 Rust sudo is not compatible with standard sudo,178,159
+2026-11-07T16:16:12.553593+00:00,50404599,1,The $8 Linux Computer (2022),64,28
+2026-11-07T16:16:12.553593+00:00,50403052,2,Need for Speed Underground 2 online in the browser,409,132
+2026-11-07T16:16:12.553593+00:00,50399933,3,Libghostty 1.0,872,143
+2026-11-07T16:16:12.553593+00:00,50403066,4,Running a law firm on Free software,100,50
+2026-11-07T16:16:12.553593+00:00,50405649,5,Google Described Its Agent Sandbox. I Built One with Firecracker and Measured It,4,0
+2026-11-07T16:16:12.553593+00:00,50352791,6,British Library Legal deposit and web archiving,23,6
+2026-11-07T16:16:12.553593+00:00,50405484,7,Let's Encrypt AI: protect AI chats with on AI GPUs by the end of 2027,3,0
+2026-11-07T16:16:12.553593+00:00,50403097,8,Every Mac comes with an (undocumented) family member classifier,356,205
+2026-11-07T16:16:12.553593+00:00,50377613,9,"Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",33,8
+2026-11-07T16:16:12.553593+00:00,50391456,10,Tesla to wind down Cybertruck production,1093,1947
+2026-11-07T16:16:12.553593+00:00,50356037,11,ToothPaste,54,11
+2026-11-07T16:16:12.553593+00:00,50397429,12,A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost,535,131
+2026-11-07T16:16:12.553593+00:00,50361417,13,Building the NBC News Big Board,28,10
+2026-11-07T16:16:12.553593+00:00,50358094,14,Tasfer: a text editor drawn on a 2D canvas,11,4
+2026-11-07T16:16:12.553593+00:00,50360810,15,Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE,162,24
+2026-11-07T16:16:12.553593+00:00,50388001,16,US FAA says it will phase out floppy disks from air traffic control by 2028,372,308
+2026-11-07T16:16:12.553593+00:00,50399991,17,RealPage rent-pricing case wraps with nearly $360M to renters,157,113
+2026-11-07T16:16:12.553593+00:00,50402212,18,The Components of Agent Memory,101,57
+2026-11-07T16:16:12.553593+00:00,50397219,19,Firecracker VM Escape: PwnEscape Part 2,265,114
+2026-11-07T16:16:12.553593+00:00,50361765,20,PostgreSQL Internals [pdf] (2023),65,6
+2026-11-07T16:16:12.553593+00:00,50403214,21,Upload Your RAM,231,207
+2026-11-07T16:16:12.553593+00:00,50395183,22,Notes on San Marino,109,45
+2026-11-07T16:16:12.553593+00:00,50369283,23,8088 Domination Post-Mortem,43,6
+2026-11-07T16:16:12.553593+00:00,50401740,24,"A barbarian tribe's mythic origin story is true, ancient DNA reveals",160,134
+2026-11-07T16:16:12.553593+00:00,50352701,25,The Flash C Compiler,86,39
+2026-11-07T16:16:12.553593+00:00,50373513,26,The great butter and cheese fire of 1991,61,19
+2026-11-07T16:16:12.553593+00:00,50394855,27,First steps in bare-metal programming using UEFI,237,48
+2026-11-07T16:16:12.553593+00:00,50403063,28,Port 0: The Port That Does Not Exist,39,16
+2026-11-07T16:16:12.553593+00:00,50397099,29,GitHub's new Git storage architecture,185,52
+2026-11-07T16:16:12.553593+00:00,50405250,30,Ask HN: How did you convince family and friends to join your XMPP/Matrix server?,6,5
+2026-11-07T16:16:12.553593+00:00,50354097,31,Can GROUP BY still be optimized after all these years?,110,17
+2026-11-07T16:16:12.553593+00:00,50392118,32,Gemini Omni 1.2 Flash,353,243
+2026-11-07T16:16:12.553593+00:00,50397017,33,Restaurant Delivery Payment-Skimming Campaign,156,81
+2026-11-07T16:16:12.553593+00:00,50395450,34,Devvm.dev: One VM for every project,173,70
+2026-11-07T16:16:12.553593+00:00,50389570,35,Chomsky and the two cultures of statistical learning (2011),138,109
+2026-11-07T16:16:12.553593+00:00,50378228,36,sshole,2943,739
+2026-11-07T16:16:12.553593+00:00,50385272,37,Claude Code sends your email address to websites,1583,507
+2026-11-07T16:16:12.553593+00:00,50397711,39,Google has acquired Crusoe's data center site in southeast Wyoming,99,72
+2026-11-07T16:16:12.553593+00:00,50379221,40,Show HN: Waymark – A workflow engine that compiles jobs instead of replaying,79,28
+2026-11-07T16:16:12.553593+00:00,50389370,41,Kugelblitz – Mac-Native Google Earth Alternative,257,65
+2026-11-07T16:16:12.553593+00:00,50389333,42,Blender's UI and Runtime: Much Faster Than GPUI,706,286
+2026-11-07T16:16:12.553593+00:00,50355009,43,Show HN: Tmux-restore saves tmux windows and agent sessions across reboots,48,32
+2026-11-07T16:16:12.553593+00:00,50390525,44,Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016),175,55
+2026-11-07T16:16:12.553593+00:00,50397994,45,AI is dramatically accelerating AI research,341,321
+2026-11-07T16:16:12.553593+00:00,50390124,46,"Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",638,418
+2026-11-07T16:16:12.553593+00:00,50392348,47,How octopuses squeeze through too small gaps,71,18
+2026-11-07T16:16:12.553593+00:00,50391145,48,We've built an open-source feature flag server for 11 years,160,109
+2026-11-07T16:16:12.553593+00:00,50395919,49,Memorilla: Latent Semantic Memory for LLMs,112,13
+2026-11-07T16:16:12.553593+00:00,50394906,50,Anthropic IPO buyers see valuation as low as $1.1T,295,591
