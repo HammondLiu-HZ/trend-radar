@@ -60563,3 +60563,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-07T16:16:12.553593+00:00,50391145,48,We've built an open-source feature flag server for 11 years,160,109
 2026-11-07T16:16:12.553593+00:00,50395919,49,Memorilla: Latent Semantic Memory for LLMs,112,13
 2026-11-07T16:16:12.553593+00:00,50394906,50,Anthropic IPO buyers see valuation as low as $1.1T,295,591
+2026-11-07T20:45:58.636403+00:00,50406563,1,The end of Microsoft Research's AI Frontiers group,202,104
+2026-11-07T20:45:58.636403+00:00,50406670,2,What I run on my $10 USD OpenStick homelab,137,24
+2026-11-07T20:45:58.636403+00:00,50406111,3,Apple’s grey list: Words and phrases your iPhone won’t help you spell,173,118
+2026-11-07T20:45:58.636403+00:00,50406292,4,"Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",122,30
+2026-11-07T20:45:58.636403+00:00,50406222,5,"MaxxBench – ""Nice DeepSWE score. But is it true?""",105,26
+2026-11-07T20:45:58.636403+00:00,50406319,6,Five memorable books about programming (2008),45,18
+2026-11-07T20:45:58.636403+00:00,50403052,7,Need for Speed Underground 2 online in the browser,650,193
+2026-11-07T20:45:58.636403+00:00,50404599,8,The $8 Linux Computer (2022),171,77
+2026-11-07T20:45:58.636403+00:00,50370787,9,The Typo Generation Is Damaging Literature,33,35
+2026-11-07T20:45:58.636403+00:00,50405789,10,How Long Can Life Wait?,84,45
+2026-11-07T20:45:58.636403+00:00,50403097,11,Every Mac comes with an (undocumented) family member classifier,494,291
+2026-11-07T20:45:58.636403+00:00,50399933,12,Libghostty 1.0,977,170
+2026-11-07T20:45:58.636403+00:00,50405782,13,Every processor die anyone has photographed and given away,46,11
+2026-11-07T20:45:58.636403+00:00,50406502,14,"GeoWorks, Microsoft Windows' Upstart '90s Competitor",15,0
+2026-11-07T20:45:58.636403+00:00,50403066,15,Running a law firm on Free software,198,88
+2026-11-07T20:45:58.636403+00:00,50361657,16,Text.js: Build full-stack React apps that render inside console.log,65,33
+2026-11-07T20:45:58.636403+00:00,50403507,17,"Every Windows 11 app should kill Electron, and Discord just showed why",114,138
+2026-11-07T20:45:58.636403+00:00,50405674,18,Terry Pratchett's Study,39,7
+2026-11-07T20:45:58.636403+00:00,50405263,19,"Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",38,11
+2026-11-07T20:45:58.636403+00:00,50380246,20,"Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming",27,9
+2026-11-07T20:45:58.636403+00:00,50405678,21,They don't make 'em like that any more: Borland Turbo Pascal 7,148,83
+2026-11-07T20:45:58.636403+00:00,50401867,22,Asahi Linux Progress Linux 7.3,261,218
+2026-11-07T20:45:58.636403+00:00,50401740,23,"A barbarian tribe's mythic origin story is true, ancient DNA reveals",182,169
+2026-11-07T20:45:58.636403+00:00,50384263,24,What do the next 4000 emoji look like?,76,72
+2026-11-07T20:45:58.636403+00:00,50396064,25,We know 15k websites are infected. how do we tell them?,169,140
+2026-11-07T20:45:58.636403+00:00,50352791,26,British Library Legal deposit and web archiving,54,25
+2026-11-07T20:45:58.636403+00:00,50402212,27,The Components of Agent Memory,136,69
+2026-11-07T20:45:58.636403+00:00,50404747,28,The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016),42,23
+2026-11-07T20:45:58.636403+00:00,50357763,29,Optimising the Rail Cube,24,1
+2026-11-07T20:45:58.636403+00:00,50397429,30,A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost,567,142
+2026-11-07T20:45:58.636403+00:00,50358094,31,Tasfer: a text editor drawn on a 2D canvas,50,21
+2026-11-07T20:45:58.636403+00:00,50405250,32,Ask HN: How did you convince family and friends to join your XMPP/Matrix server?,62,59
+2026-11-07T20:45:58.636403+00:00,50356037,33,ToothPaste,87,18
+2026-11-07T20:45:58.636403+00:00,50361417,34,Building the NBC News Big Board,55,23
+2026-11-07T20:45:58.636403+00:00,50360810,35,Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE,191,26
+2026-11-07T20:45:58.636403+00:00,50388001,36,US FAA says it will phase out floppy disks from air traffic control by 2028,401,323
+2026-11-07T20:45:58.636403+00:00,50354763,37,"ZeBridge – PostgreSQL replicas on devices, synchronized over NATS",18,1
+2026-11-07T20:45:58.636403+00:00,50377613,38,"Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",51,8
+2026-11-07T20:45:58.636403+00:00,50407643,39,Hackers pull off $133M French bank heist via service provider,6,0
+2026-11-07T20:45:58.636403+00:00,50369283,40,8088 Domination Post-Mortem,69,10
+2026-11-07T20:45:58.636403+00:00,50397219,41,Firecracker VM Escape: PwnEscape Part 2,277,124
+2026-11-07T20:45:58.636403+00:00,50395183,42,Notes on San Marino,134,48
+2026-11-07T20:45:58.636403+00:00,50361765,43,PostgreSQL Internals [pdf] (2023),82,7
+2026-11-07T20:45:58.636403+00:00,50373513,44,The great butter and cheese fire of 1991,78,21
+2026-11-07T20:45:58.636403+00:00,50352701,45,The Flash C Compiler,98,52
+2026-11-07T20:45:58.636403+00:00,50406469,46,"You are protesting the wrong technology, people",13,4
+2026-11-07T20:45:58.636403+00:00,50397099,47,GitHub's new Git storage architecture,212,60
+2026-11-07T20:45:58.636403+00:00,50405688,48,Datastructures-JS – The JavaScript data structures project,7,0
+2026-11-07T20:45:58.636403+00:00,50394855,49,First steps in bare-metal programming using UEFI,246,50
+2026-11-07T20:45:58.636403+00:00,50405043,50,Air holes turn silicon wafers into flat UV focusing mirrors for compact optics,7,2
