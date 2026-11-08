@@ -60813,3 +60813,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-08T19:30:53.854599+00:00,50403066,48,Running a law firm on Free software,293,138
 2026-11-08T19:30:53.854599+00:00,50352518,49,Quadrillion-parameter transformers and how to train them,62,56
 2026-11-08T19:30:53.854599+00:00,50405782,50,Every processor die anyone has photographed and given away,143,32
+2026-11-08T23:35:48.130798+00:00,50418176,1,KetchUp – Open-source SketchUp alternative built with Rust and WebGPU,22,2
+2026-11-08T23:35:48.130798+00:00,50418016,2,Nvidia CEO Jensen Huang's letter to staff about affair,209,172
+2026-11-08T23:35:48.130798+00:00,50416053,3,"Dux: Free, open-source Wayland desktop shell with file manager and theming",157,50
+2026-11-08T23:35:48.130798+00:00,50417407,4,Ask HN: What are you working on? (November 2026),69,315
+2026-11-08T23:35:48.130798+00:00,50418182,5,Chimera Vocal Synth,20,6
+2026-11-08T23:35:48.130798+00:00,50368481,6,Declarative Dragging,258,30
+2026-11-08T23:35:48.130798+00:00,50415628,7,Goldman Sachs is pulling Claude Code from its bankers and traders,527,321
+2026-11-08T23:35:48.130798+00:00,50416158,8,Outlook.com Is Quietly Rejecting Email from Domains Without DMARC,189,153
+2026-11-08T23:35:48.130798+00:00,50416456,9,"The Web Is More Than Enough, by Paul Ford",42,17
+2026-11-08T23:35:48.130798+00:00,50411961,10,"Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",339,137
+2026-11-08T23:35:48.130798+00:00,50372838,11,"Edward Hopper's Iconic Painting, ""Nighthawks",56,19
+2026-11-08T23:35:48.130798+00:00,50412067,12,Writing as a thinking tool,255,76
+2026-11-08T23:35:48.130798+00:00,50416014,13,Playing with the STM32MP2,24,13
+2026-11-08T23:35:48.130798+00:00,50353814,14,The History of Djgpp (1998),28,9
+2026-11-08T23:35:48.130798+00:00,50416363,15,How I Fight AI Brain Fry,123,109
+2026-11-08T23:35:48.130798+00:00,50415135,16,A Little Snitch for Windows,83,37
+2026-11-08T23:35:48.130798+00:00,50362963,17,Show HN: Vegetable Gardening for Engineers,146,28
+2026-11-08T23:35:48.130798+00:00,50416801,18,Nvidia Board of Directors Is Investigating Jensen Huang,323,255
+2026-11-08T23:35:48.130798+00:00,50413769,19,I'm not a fan of Deno's security model (2024),78,36
+2026-11-08T23:35:48.130798+00:00,50410107,20,"Goodbye Claude, hello Pi",670,424
+2026-11-08T23:35:48.130798+00:00,50366821,21,Porting Android 16 to my blind mother's keypad phone,143,43
+2026-11-08T23:35:48.130798+00:00,50415750,22,Playing Zork 1 on a CP/M emulator on Linux (2021),24,12
+2026-11-08T23:35:48.130798+00:00,50389923,23,The Reconstruction of Torn Documents,84,48
+2026-11-08T23:35:48.130798+00:00,50416471,24,Starship Flight 15 on 11/13 plans to catch both booster and ship,65,27
+2026-11-08T23:35:48.130798+00:00,50407882,25,"Claude Code's ""Don't Ask Again"" exposes passwords in 1,122 public GitHub files",574,390
+2026-11-08T23:35:48.130798+00:00,50412830,26,"How to prove equations using diagrams, part 1",58,4
+2026-11-08T23:35:48.130798+00:00,50415078,27,A field guide to CAPTCHA types and how they break,43,12
+2026-11-08T23:35:48.130798+00:00,50417478,28,"Show HN: SafeScript, a safe version of JavaScript for executing untrusted code",5,0
+2026-11-08T23:35:48.130798+00:00,50411467,29,Agent memory needs its OpenTelemetry moment,164,102
+2026-11-08T23:35:48.130798+00:00,50412072,30,JIT bitmap text rendering for microcontrollers,91,17
+2026-11-08T23:35:48.130798+00:00,50366902,31,Clj.rs – a Clojure dialect implemented in Rust,163,61
+2026-11-08T23:35:48.130798+00:00,50415281,32,Ads in Popular Apps Give Police a Powerful Tool to Spy on Users,101,24
+2026-11-08T23:35:48.130798+00:00,50358094,33,Tasfer: a text editor drawn on a 2D canvas,85,51
+2026-11-08T23:35:48.130798+00:00,50406222,34,"MaxxBench – ""Nice DeepSWE score. But is it true?""",383,103
+2026-11-08T23:35:48.130798+00:00,50412152,35,Petered,157,90
+2026-11-08T23:35:48.130798+00:00,50404747,36,The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf],83,56
+2026-11-08T23:35:48.130798+00:00,50377661,37,Uranium cubes reveal why the German nuclear project failed,202,152
+2026-11-08T23:35:48.130798+00:00,50370793,38,Nyquist Limit:The frequency of changes in tech is invalidating our understanding,63,23
+2026-11-08T23:35:48.130798+00:00,50408713,39,Making any integer with four 2s (2025),207,53
+2026-11-08T23:35:48.130798+00:00,50412318,40,Person of Interest,282,187
+2026-11-08T23:35:48.130798+00:00,50378974,41,Finding Xanadu: Inside a JRPG classic translation 15 years in the making,71,14
+2026-11-08T23:35:48.130798+00:00,50406292,42,"Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",275,64
+2026-11-08T23:35:48.130798+00:00,50410249,43,ISponsorBlockTV: SponsorBlock client for all YouTube TV clients,117,52
+2026-11-08T23:35:48.130798+00:00,50371360,44,New typeface using intricate designs from Shakespeare's First Folio (2023),46,13
+2026-11-08T23:35:48.130798+00:00,50408931,45,GitHub New pull request overview page in public preview,180,122
+2026-11-08T23:35:48.130798+00:00,50380051,46,Mizu – zero-copy parallel R and Python over shared memory,69,11
+2026-11-08T23:35:48.130798+00:00,50406670,47,What I run on my $10 USD OpenStick homelab,765,132
+2026-11-08T23:35:48.130798+00:00,50416011,48,Reverse engineering a vintage diode-transistor logic chip,12,1
+2026-11-08T23:35:48.130798+00:00,50415817,49,Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It,84,101
+2026-11-08T23:35:48.130798+00:00,50404599,50,The $8 Linux Computer (2022),254,96
