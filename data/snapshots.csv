@@ -60663,3 +60663,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-08T00:22:03.153480+00:00,50408028,48,"Good Riddance to the Cybertruck, the Chariot of the Dumbest Gods",26,8
 2026-11-08T00:22:03.153480+00:00,50377613,49,"Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",54,8
 2026-11-08T00:22:03.153480+00:00,50361417,50,Building the NBC News Big Board,55,24
+2026-11-08T07:08:23.727808+00:00,50410107,1,"Goodbye Claude, Hello Pi",145,85
+2026-11-08T07:08:23.727808+00:00,50406670,2,What I run on my $10 USD OpenStick homelab,509,99
+2026-11-08T07:08:23.727808+00:00,50407882,3,"Claude Code's ""Don't Ask Again"" exposes passwords in 1,122 public GitHub files",324,223
+2026-11-08T07:08:23.727808+00:00,50409855,4,"ZapFast: A fast, native WhatsApp client in Rust and egui",53,31
+2026-11-08T07:08:23.727808+00:00,50408713,5,Making any integer with four 2s (2025),108,27
+2026-11-08T07:08:23.727808+00:00,50403052,6,Need for Speed Underground 2 online in the browser,920,242
+2026-11-08T07:08:23.727808+00:00,50406222,7,"MaxxBench – ""Nice DeepSWE score. But is it true?""",274,74
+2026-11-08T07:08:23.727808+00:00,50410359,8,Kirlian Photography: Building Your Own Equipment,18,2
+2026-11-08T07:08:23.727808+00:00,50409856,9,Consumer brain wave headsets threaten privacy,23,6
+2026-11-08T07:08:23.727808+00:00,50377661,10,Uranium cubes reveal why the German nuclear project failed,110,74
+2026-11-08T07:08:23.727808+00:00,50403097,11,Every Mac comes with an (undocumented) family member classifier,686,372
+2026-11-08T07:08:23.727808+00:00,50403507,12,"Every Windows 11 app should kill Electron, and Discord just showed why",292,255
+2026-11-08T07:08:23.727808+00:00,50406292,13,"Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",217,51
+2026-11-08T07:08:23.727808+00:00,50351954,14,Amsterdam School,22,4
+2026-11-08T07:08:23.727808+00:00,50408931,15,GitHub New pull request overview page in public preview,114,81
+2026-11-08T07:08:23.727808+00:00,50408961,16,Commodore PET – The Worlds First Personal Computer,44,15
+2026-11-08T07:08:23.727808+00:00,50406563,17,The end of Microsoft Research's AI Frontiers group,439,260
+2026-11-08T07:08:23.727808+00:00,50406111,18,Apple’s grey list: Words and phrases your iPhone won’t help you spell,435,281
+2026-11-08T07:08:23.727808+00:00,50358337,19,Turning every radio into a radar,53,12
+2026-11-08T07:08:23.727808+00:00,50404599,20,The $8 Linux Computer (2022),220,87
+2026-11-08T07:08:23.727808+00:00,50378792,21,Sailing Solo Around Britain,3,2
+2026-11-08T07:08:23.727808+00:00,50410249,22,ISponsorBlockTV: SponsorBlock client for all YouTube TV clients,9,0
+2026-11-08T07:08:23.727808+00:00,50406319,23,Five memorable books about programming (2008),107,65
+2026-11-08T07:08:23.727808+00:00,50401867,24,Asahi Linux Progress Linux 7.3,359,305
+2026-11-08T07:08:23.727808+00:00,50405172,25,Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack,64,16
+2026-11-08T07:08:23.727808+00:00,50406502,26,"GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",55,20
+2026-11-08T07:08:23.727808+00:00,50408750,27,IRA Velinsky – Commodore's Industrial Designer,28,1
+2026-11-08T07:08:23.727808+00:00,50405782,28,Every processor die anyone has photographed and given away,107,18
+2026-11-08T07:08:23.727808+00:00,50403066,29,Running a law firm on Free software,260,126
+2026-11-08T07:08:23.727808+00:00,50401740,30,"A barbarian tribe's mythic origin story is true, ancient DNA reveals",229,201
+2026-11-08T07:08:23.727808+00:00,50361657,31,Text.js: Build full-stack React apps that render inside console.log,98,49
+2026-11-08T07:08:23.727808+00:00,50408082,32,Show HN: Where Were We,39,16
+2026-11-08T07:08:23.727808+00:00,50405674,33,Terry Pratchett's Study,121,32
+2026-11-08T07:08:23.727808+00:00,50361212,34,Study solved a 150-year-old mystery into the identity of the extinct giant crane,22,0
+2026-11-08T07:08:23.727808+00:00,50396064,35,We know 15k websites are infected. how do we tell them?,201,168
+2026-11-08T07:08:23.727808+00:00,50386556,36,The Unwilding of Patagonia's Pollinators,4,0
+2026-11-08T07:08:23.727808+00:00,50410649,37,My parents chose to die together and I was left to grieve alone,16,2
+2026-11-08T07:08:23.727808+00:00,50402212,38,The Components of Agent Memory,157,86
+2026-11-08T07:08:23.727808+00:00,50384263,39,What do the next 4000 emoji look like?,89,93
+2026-11-08T07:08:23.727808+00:00,50408350,40,Show HN: An offline desktop companion to help maintain a healthy blink rhythm,31,15
+2026-11-08T07:08:23.727808+00:00,50405789,41,How Long Can Life Wait?,133,85
+2026-11-08T07:08:23.727808+00:00,50410253,42,Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU,4,1
+2026-11-08T07:08:23.727808+00:00,50404438,43,Cancer at Sea,25,2
+2026-11-08T07:08:23.727808+00:00,50362187,44,Multi-Token Prediction Done Right,5,2
+2026-11-08T07:08:23.727808+00:00,50399933,45,Libghostty 1.0,1038,181
+2026-11-08T07:08:23.727808+00:00,50373980,46,Here Be Monsters,3,0
+2026-11-08T07:08:23.727808+00:00,50408104,47,Shadow of the Sun (2021),24,4
+2026-11-08T07:08:23.727808+00:00,50405263,48,"Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",64,12
+2026-11-08T07:08:23.727808+00:00,50360810,49,Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE,199,26
+2026-11-08T07:08:23.727808+00:00,50380246,50,"Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming",53,30
