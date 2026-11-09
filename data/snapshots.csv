@@ -60863,3 +60863,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-08T23:35:48.130798+00:00,50416011,48,Reverse engineering a vintage diode-transistor logic chip,12,1
 2026-11-08T23:35:48.130798+00:00,50415817,49,Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It,84,101
 2026-11-08T23:35:48.130798+00:00,50404599,50,The $8 Linux Computer (2022),254,96
+2026-11-09T05:55:52.156997+00:00,50420035,1,"RIP, Harvest",228,66
+2026-11-09T05:55:52.156997+00:00,50420857,2,A Critique of GPUI,48,17
+2026-11-09T05:55:52.156997+00:00,50418176,3,KetchUp – Open-source SketchUp alternative built with Rust and WebGPU,353,93
+2026-11-09T05:55:52.156997+00:00,50419215,4,Unlocking any car from X brand in most of the world,191,67
+2026-11-09T05:55:52.156997+00:00,50418182,5,Chimera Vocal Synth,157,23
+2026-11-09T05:55:52.156997+00:00,50368481,6,Declarative Dragging,447,58
+2026-11-09T05:55:52.156997+00:00,50418975,7,I'm not convinced the AI bubble exists,130,180
+2026-11-09T05:55:52.156997+00:00,50416053,8,"Dux: Free, open-source Wayland desktop shell with file manager and theming",238,74
+2026-11-09T05:55:52.156997+00:00,50416158,9,Outlook.com is rejecting email from domains without DMARC,333,247
+2026-11-09T05:55:52.156997+00:00,50417407,10,Ask HN: What are you working on? (November 2026),180,597
+2026-11-09T05:55:52.156997+00:00,50418016,11,Nvidia CEO Jensen Huang's letter to staff about affair,480,514
+2026-11-09T05:55:52.156997+00:00,50420599,12,The Qlobe: Rotating Quine (2010),14,0
+2026-11-09T05:55:52.156997+00:00,50401844,13,Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB,18,4
+2026-11-09T05:55:52.156997+00:00,50390822,14,Branching Beyond Leonardo: The Evolution of Tree Architecture Theory,10,0
+2026-11-09T05:55:52.156997+00:00,50403153,15,Ask HN: How do you manage your AI agents' context across clients and projects?,33,26
+2026-11-09T05:55:52.156997+00:00,50418818,16,When a language's creator and its owners strongly disagree [pdf],101,88
+2026-11-09T05:55:52.156997+00:00,50416456,17,"The Web Is More Than Enough, by Paul Ford",108,61
+2026-11-09T05:55:52.156997+00:00,50415628,18,Goldman Sachs is pulling Claude Code from its bankers and traders,688,384
+2026-11-09T05:55:52.156997+00:00,50411961,19,"Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",402,180
+2026-11-09T05:55:52.156997+00:00,50404428,20,Ur-Nammu Founder of the Sumerian Renaissance,6,0
+2026-11-09T05:55:52.156997+00:00,50412067,21,Writing as a thinking tool,319,84
+2026-11-09T05:55:52.156997+00:00,50420383,22,A Bit about Email,16,2
+2026-11-09T05:55:52.156997+00:00,50405043,23,Air holes turn silicon wafers into flat UV focusing mirrors for compact optics,40,5
+2026-11-09T05:55:52.156997+00:00,50410107,24,"Goodbye Claude, hello Pi",725,447
+2026-11-09T05:55:52.156997+00:00,50416363,25,How I Fight AI Brain Fry,201,158
+2026-11-09T05:55:52.156997+00:00,50416014,26,Playing with the STM32MP2,52,32
+2026-11-09T05:55:52.156997+00:00,50412072,27,JIT bitmap text rendering for microcontrollers,95,20
+2026-11-09T05:55:52.156997+00:00,50413769,28,I'm not a fan of Deno's security model (2024),96,49
+2026-11-09T05:55:52.156997+00:00,50362963,29,Show HN: Vegetable Gardening for Engineers,185,39
+2026-11-09T05:55:52.156997+00:00,50407882,30,"Claude Code's ""Don't Ask Again"" exposes passwords in 1,122 public GitHub files",599,407
+2026-11-09T05:55:52.156997+00:00,50366821,31,Porting Android 16 to my blind mother's keypad phone,166,48
+2026-11-09T05:55:52.156997+00:00,50415135,32,A Little Snitch for Windows,109,53
+2026-11-09T05:55:52.156997+00:00,50415750,33,Playing Zork 1 on a CP/M emulator on Linux (2021),37,14
+2026-11-09T05:55:52.156997+00:00,50372838,34,"Edward Hopper's Iconic Painting, ""Nighthawks",87,28
+2026-11-09T05:55:52.156997+00:00,50389923,35,The Reconstruction of Torn Documents,99,54
+2026-11-09T05:55:52.156997+00:00,50384664,36,The Kekulé Problem – Cormac McCarthy,12,5
+2026-11-09T05:55:52.156997+00:00,50366902,37,Clj.rs – a Clojure dialect implemented in Rust,169,66
+2026-11-09T05:55:52.156997+00:00,50412830,38,"How to prove equations using diagrams, part 1",69,8
+2026-11-09T05:55:52.156997+00:00,50411467,39,Agent memory needs its OpenTelemetry moment,177,105
+2026-11-09T05:55:52.156997+00:00,50416471,40,Starship Flight 15 on 11/13 plans to catch both booster and ship,113,72
+2026-11-09T05:55:52.156997+00:00,50406222,41,"MaxxBench – ""Nice DeepSWE score. But is it true?""",392,105
+2026-11-09T05:55:52.156997+00:00,50416801,42,Nvidia Board of Directors Is Investigating Jensen Huang,453,339
+2026-11-09T05:55:52.156997+00:00,50377661,43,Uranium cubes reveal why the German nuclear project failed,208,162
+2026-11-09T05:55:52.156997+00:00,50408630,44,Are big problems more difficult to solve?,5,0
+2026-11-09T05:55:52.156997+00:00,50404747,45,The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf],86,57
+2026-11-09T05:55:52.156997+00:00,50408713,46,Making any integer with four 2s (2025),208,56
+2026-11-09T05:55:52.156997+00:00,50420532,47,"Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",13,11
+2026-11-09T05:55:52.156997+00:00,50406292,48,"Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",280,64
+2026-11-09T05:55:52.156997+00:00,50410249,49,ISponsorBlockTV: SponsorBlock client for all YouTube TV clients,131,57
+2026-11-09T05:55:52.156997+00:00,50408931,50,GitHub New pull request overview page in public preview,188,124
