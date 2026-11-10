@@ -60963,3 +60963,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-09T15:58:13.416053+00:00,50424604,48,Nvidia's China Problem [pdf],24,6
 2026-11-09T15:58:13.416053+00:00,50422254,49,PixelOS,60,53
 2026-11-09T15:58:13.416053+00:00,50413769,50,I'm not a fan of Deno's security model (2024),100,55
+2026-11-10T00:09:10.017875+00:00,50431058,1,USPS now offers official ZIP Code boundary polygons,394,195
+2026-11-10T00:09:10.017875+00:00,50432831,2,TPUs,154,21
+2026-11-10T00:09:10.017875+00:00,50429426,3,Google Gemini routes personal Drive files and emails to human annotators,317,72
+2026-11-10T00:09:10.017875+00:00,50431144,4,"Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",254,177
+2026-11-10T00:09:10.017875+00:00,50429734,5,E-means: 10x faster k-means at equal loss,244,15
+2026-11-10T00:09:10.017875+00:00,50427362,6,Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system,445,254
+2026-11-10T00:09:10.017875+00:00,50429024,7,"Our Smallest, Most Efficient Model: Muse Ember",225,96
+2026-11-10T00:09:10.017875+00:00,50424581,8,Fold Epic Paper Airplanes,814,134
+2026-11-10T00:09:10.017875+00:00,50430621,9,CUI – Native UI components for C,140,71
+2026-11-10T00:09:10.017875+00:00,50429430,10,Infineon marks innovation milestone with 300mm power silicon carbide wafer,93,55
+2026-11-10T00:09:10.017875+00:00,50426175,11,Magenta solar panels may be agrivoltaics' cleverest trick yet,261,162
+2026-11-10T00:09:10.017875+00:00,50430991,12,Parking-app convenience fees in 312 U.S. cities (median $0.35 per session),45,25
+2026-11-10T00:09:10.017875+00:00,50429906,13,Claude Fable 5.2 and Mythos 5.2,855,514
+2026-11-10T00:09:10.017875+00:00,50433978,14,Tracking the Harm of DOGE Cuts,68,4
+2026-11-10T00:09:10.017875+00:00,50386246,15,A primer on GPUs and kernel optimization,77,2
+2026-11-10T00:09:10.017875+00:00,50428907,16,"Show HN: Every satellite that passed over any place this week, and its photos",209,43
+2026-11-10T00:09:10.017875+00:00,50422069,17,Is Opus 5.5 nerfed? Thinking patterns changed on November 3,720,467
+2026-11-10T00:09:10.017875+00:00,50409444,18,"A renowned scientist, a deadly snakebite, and a diary that documented it all",5,1
+2026-11-10T00:09:10.017875+00:00,50433129,19,I did a meditation and it sort of changed my personality?,12,0
+2026-11-10T00:09:10.017875+00:00,50429636,21,"Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",70,25
+2026-11-10T00:09:10.017875+00:00,50433541,22,Exact – a new cross platform UI framework by the Expo team,11,5
+2026-11-10T00:09:10.017875+00:00,50405274,23,An ode to livelyness analysis; SSA to registers,26,0
+2026-11-10T00:09:10.017875+00:00,50401369,24,Magnets and Rare Earths,9,2
+2026-11-10T00:09:10.017875+00:00,50429545,25,DeepX claims inference up to 100B parameters at less than 5 W,136,22
+2026-11-10T00:09:10.017875+00:00,50411515,26,Deuterium's Impact on OLED Displays (2024),25,9
+2026-11-10T00:09:10.017875+00:00,50424157,27,"What is malloc doing, anyway?",210,59
+2026-11-10T00:09:10.017875+00:00,50394017,28,Possible 19th-century castaway camp found on Isla de los Estados,13,0
+2026-11-10T00:09:10.017875+00:00,50429812,29,Show HN: Someone Was Here – Find out who used your Mac while you were away,46,18
+2026-11-10T00:09:10.017875+00:00,50433659,30,Fable 5.2 one-shotted my nephew's dream game,13,3
+2026-11-10T00:09:10.017875+00:00,50432147,31,Supply chain attack on Qubole customers,15,6
+2026-11-10T00:09:10.017875+00:00,50427934,32,Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI,91,32
+2026-11-10T00:09:10.017875+00:00,50429144,33,Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100,47,12
+2026-11-10T00:09:10.017875+00:00,50433274,34,Testing Jev for IAM Access Decisions,3,0
+2026-11-10T00:09:10.017875+00:00,50426831,35,Pigshell: Unix the Web,63,18
+2026-11-10T00:09:10.017875+00:00,50413970,36,Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals,24,5
+2026-11-10T00:09:10.017875+00:00,50426899,37,"Cryptocurrency lawsuit: Ethereum Foundation required ""suicide pledge""",189,176
+2026-11-10T00:09:10.017875+00:00,50428801,38,When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385,275,242
+2026-11-10T00:09:10.017875+00:00,50416456,39,The Web Is More Than Enough,175,130
+2026-11-10T00:09:10.017875+00:00,50424366,40,Try Gleam,113,120
+2026-11-10T00:09:10.017875+00:00,50433912,41,French blood banks hacked in latest cyber-attack on Europe,6,1
+2026-11-10T00:09:10.017875+00:00,50430176,42,Claude Fable 5.2 launch offers,13,2
+2026-11-10T00:09:10.017875+00:00,50425303,43,Children of Men: The future is a mirror for the present,159,123
+2026-11-10T00:09:10.017875+00:00,50432606,44,Courses built from Hacker News posts,5,0
+2026-11-10T00:09:10.017875+00:00,50426207,45,Zebkit – Chromium as an embeddable library,109,42
+2026-11-10T00:09:10.017875+00:00,50432586,46,M4 Pro vs. M5 Pro (24GB): Qwen 3.8 Flash Next at 374 Tok/S Prefill with MoEShift,10,1
+2026-11-10T00:09:10.017875+00:00,50416471,47,Starship Flight 15 on 11/13 plans to catch both booster and ship,151,115
+2026-11-10T00:09:10.017875+00:00,50433040,48,"Which VPNs have published an independent audit, with sources",5,0
+2026-11-10T00:09:10.017875+00:00,50433969,49,Evaporative cooling cuts solar panel temperature by about 30 C in tests,6,2
+2026-11-10T00:09:10.017875+00:00,50413885,50,Drones built to look like birds evaded detection at Air Force tech exercise,85,57
