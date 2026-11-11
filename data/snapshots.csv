@@ -61210,3 +61210,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-11T02:40:30.760404+00:00,50443716,48,"Claude Whiteboards, Claude Sheets, and Claude Data",161,134
 2026-11-11T02:40:30.760404+00:00,50441338,49,The Hardest Tarball?,145,31
 2026-11-11T02:40:30.760404+00:00,50408336,50,Billion Watts in the Speaker [video],103,53
+2026-11-11T10:39:47.627281+00:00,50449748,1,Protecting SSH Keys with macOS Secure Enclave,208,79
+2026-11-11T10:39:47.627281+00:00,50441707,2,Smart home devices should work without the internet,965,346
+2026-11-11T10:39:47.627281+00:00,50442736,3,.name Grandfathered,850,184
+2026-11-11T10:39:47.627281+00:00,50445401,4,Scion is back and is going to sell a kei truck in America,479,315
+2026-11-11T10:39:47.627281+00:00,50450007,5,Greg Kurtzer's Ginux is now a userspace kernel,74,36
+2026-11-11T10:39:47.627281+00:00,50424188,6,Plane lifted into back garden as bunker takes shape,11,0
+2026-11-11T10:39:47.627281+00:00,50448921,7,A great old-timey game-programming hack (2013),171,34
+2026-11-11T10:39:47.627281+00:00,50446520,8,Apple has new Mac app coming to make running local AI models easy,265,223
+2026-11-11T10:39:47.627281+00:00,50449275,9,"To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",104,65
+2026-11-11T10:39:47.627281+00:00,50446246,10,Six Math Essentials,253,45
+2026-11-11T10:39:47.627281+00:00,50427107,11,Why I wrote the BEAM book (2025),99,16
+2026-11-11T10:39:47.627281+00:00,50443824,12,Synaptics patent claims stop work on DisplayLink drivers,407,229
+2026-11-11T10:39:47.627281+00:00,50444129,13,Starlink Mini 2,421,424
+2026-11-11T10:39:47.627281+00:00,50439193,14,AlphaProof Code,640,185
+2026-11-11T10:39:47.627281+00:00,50414657,15,A Compendium of Abandoned Greenhouses,47,2
+2026-11-11T10:39:47.627281+00:00,50393070,16,"Why Amstrad chose the 3"" drives",42,8
+2026-11-11T10:39:47.627281+00:00,50443427,17,Val Town is winding down,387,96
+2026-11-11T10:39:47.627281+00:00,50449891,18,Show HN: Black Ops II statically recompiled to native ARM64 macOS,26,2
+2026-11-11T10:39:47.627281+00:00,50429210,19,A ZIP-style Prolog VM for trilog,16,4
+2026-11-11T10:39:47.627281+00:00,50447074,20,Tracking Anthropic-discovered vulnerabilities,402,192
+2026-11-11T10:39:47.627281+00:00,50443812,21,"Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",371,112
+2026-11-11T10:39:47.627281+00:00,50406224,22,Hacking the Meta Ray-Ban smartglasses,120,41
+2026-11-11T10:39:47.627281+00:00,50443716,23,"Claude Whiteboards, Claude Sheets, and Claude Data",231,165
+2026-11-11T10:39:47.627281+00:00,50438318,24,AI usage generates a fragile codebase,561,530
+2026-11-11T10:39:47.627281+00:00,50414004,25,"""Jumping genes"" helped ants evolve after the extinction of the dinosaurs",13,0
+2026-11-11T10:39:47.627281+00:00,50448340,26,LLMs Play Zachtronics' TIS-100,71,12
+2026-11-11T10:39:47.627281+00:00,50447036,27,$30M Raised to Redo the CPU,105,108
+2026-11-11T10:39:47.627281+00:00,50443090,28,AMD's Zen 6 Family: Feeding the Beast,240,95
+2026-11-11T10:39:47.627281+00:00,50433216,29,Process Explorer for macOS,210,66
+2026-11-11T10:39:47.627281+00:00,50442225,30,Announcing .NET 11,194,247
+2026-11-11T10:39:47.627281+00:00,50439695,31,Ableton Live 13,313,336
+2026-11-11T10:39:47.627281+00:00,50449080,32,Hooked on Tuna,37,9
+2026-11-11T10:39:47.627281+00:00,50410329,33,Simon Winchester has died,98,33
+2026-11-11T10:39:47.627281+00:00,50441518,34,"Show HN: Valencia, Spain in Sim City/Isometric View",229,56
+2026-11-11T10:39:47.627281+00:00,50444684,35,A comprehensive study of how fingerprintable users are,116,56
+2026-11-11T10:39:47.627281+00:00,50445013,36,What objective is reasoning solving?,147,67
+2026-11-11T10:39:47.627281+00:00,50382401,37,I deleted all my SSH keys,253,137
+2026-11-11T10:39:47.627281+00:00,50450321,38,Monads in Lean,8,0
+2026-11-11T10:39:47.627281+00:00,50410587,39,Pinot Noir: inside the criminal gangs making fake wine,58,34
+2026-11-11T10:39:47.627281+00:00,50450268,40,Subagents Conwidered Harmful,8,0
+2026-11-11T10:39:47.627281+00:00,50424581,41,Foldable Flight: The Best Paper Airplanes,1221,167
+2026-11-11T10:39:47.627281+00:00,50438480,42,What constant surveillance is doing to children and parents,249,272
+2026-11-11T10:39:47.627281+00:00,50437242,43,M John Harrison becomes first science fiction author to win the Booker,158,113
+2026-11-11T10:39:47.627281+00:00,50437790,44,Queens Public Library under ransomware attack,200,111
+2026-11-11T10:39:47.627281+00:00,50442426,45,Blender 5.3 released with Gaussian Splat support,470,71
+2026-11-11T10:39:47.627281+00:00,50450955,46,Ukraine Pivots to Israeli-Italian Satellite Tech to Bypass Starlink Restrictions,19,3
+2026-11-11T10:39:47.627281+00:00,50445279,47,Research taste in history: the importance of learning Babylonian math,30,2
+2026-11-11T10:39:47.627281+00:00,50437752,48,Fossil CO2 emissions decrease in 2026,177,226
+2026-11-11T10:39:47.627281+00:00,50412554,49,NetBSD 11 desktop on a Raspberry Pi 4,138,82
+2026-11-11T10:39:47.627281+00:00,50446219,50,Sherman Anti-Trust Act (1890),82,50
