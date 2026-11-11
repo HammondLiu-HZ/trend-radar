@@ -61260,3 +61260,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-11T10:39:47.627281+00:00,50437752,48,Fossil CO2 emissions decrease in 2026,177,226
 2026-11-11T10:39:47.627281+00:00,50412554,49,NetBSD 11 desktop on a Raspberry Pi 4,138,82
 2026-11-11T10:39:47.627281+00:00,50446219,50,Sherman Anti-Trust Act (1890),82,50
+2026-11-11T18:33:08.916202+00:00,50455394,1,A false smoke alarm almost drowned Jane Street's only NYC datacenter,185,96
+2026-11-11T18:33:08.916202+00:00,50450488,2,Tim Peters has died,211,22
+2026-11-11T18:33:08.916202+00:00,50456631,3,AWS Finally Built Its Own AWS Emulator,19,4
+2026-11-11T18:33:08.916202+00:00,50455633,4,"Faster Retrieval for Better, More Efficient RAG",49,3
+2026-11-11T18:33:08.916202+00:00,50453288,5,Hyper-Realistic Sand with WebGL2,179,39
+2026-11-11T18:33:08.916202+00:00,50452455,6,"Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",786,292
+2026-11-11T18:33:08.916202+00:00,50453637,7,Atuin Threads: All your agent sessions on every machine,116,46
+2026-11-11T18:33:08.916202+00:00,50455811,8,Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents,17,8
+2026-11-11T18:33:08.916202+00:00,50452655,9,Can a Linear Program Do Weight-Space Programming?,179,29
+2026-11-11T18:33:08.916202+00:00,50454625,10,"Show HN: Yogurt – Free, private, open-source alternative to Granola",47,26
+2026-11-11T18:33:08.916202+00:00,50453763,11,Pharo in the Browser with WebAssembly,95,24
+2026-11-11T18:33:08.916202+00:00,50451903,12,Using voltage glitching to unleash the A100 in my mining card,194,71
+2026-11-11T18:33:08.916202+00:00,50454951,13,"Show HN: Klad, a paint app your coding agent can drive (source-available)",41,15
+2026-11-11T18:33:08.916202+00:00,50453229,14,"Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",67,14
+2026-11-11T18:33:08.916202+00:00,50454995,15,The hardest notes to find on the guitar fretboard,25,15
+2026-11-11T18:33:08.916202+00:00,50454823,16,The Computer Graphics Book of Knowledge,28,4
+2026-11-11T18:33:08.916202+00:00,50436788,17,A C++ Quicksort Faster Than std:sort,8,1
+2026-11-11T18:33:08.916202+00:00,50443264,18,TimeNet: Open-source data infrastructure for Temporal Foundation Models,15,3
+2026-11-11T18:33:08.916202+00:00,50453474,20,I asked every TV manufacturer 17 questions about how they spy on you,261,147
+2026-11-11T18:33:08.916202+00:00,50449748,21,Protecting SSH Keys with macOS Secure Enclave,360,129
+2026-11-11T18:33:08.916202+00:00,50453171,22,Attention to Mamba: A Recipe for Cross-Architecture Distillation,39,2
+2026-11-11T18:33:08.916202+00:00,50453555,23,Apple is killing its Support Community forum next week,207,115
+2026-11-11T18:33:08.916202+00:00,50449080,24,Hooked on Tuna,45,20
+2026-11-11T18:33:08.916202+00:00,50413266,25,Show HN: Micron – Oberon with the Power of C,11,8
+2026-11-11T18:33:08.916202+00:00,50427153,26,"Show HN: 3D to 2D, point clouds flattening (geometry images)",10,1
+2026-11-11T18:33:08.916202+00:00,50453080,27,EventSourcingDB 1.3.0 Is Available,34,5
+2026-11-11T18:33:08.916202+00:00,50452652,28,We need more goat sacrifices,119,78
+2026-11-11T18:33:08.916202+00:00,50416640,29,Peer-to-peer WebRTC connections with built-in signaling and discovery,54,16
+2026-11-11T18:33:08.916202+00:00,50455031,30,Multiple remote code execution vulnerabilities in danfoss sm-800A,8,1
+2026-11-11T18:33:08.916202+00:00,50446520,31,Apple has new Mac app coming to make running local AI models easy,473,485
+2026-11-11T18:33:08.916202+00:00,50455358,32,Reddit Migration's Impact on Lemmy (2023),16,18
+2026-11-11T18:33:08.916202+00:00,50452496,33,Next-Level Benchmarking Overfitting – Thomas Neumann,54,11
+2026-11-11T18:33:08.916202+00:00,50441181,34,A Brain Teaser of an Obituary,7,3
+2026-11-11T18:33:08.916202+00:00,50445556,35,Hayabusa2 Is Chasing the mysterious object 1998 KY26,6,2
+2026-11-11T18:33:08.916202+00:00,50452224,36,Physically Controllable Relighting of Photographs,55,11
+2026-11-11T18:33:08.916202+00:00,50452742,37,"Open research, stronger privacy: Making Firefox users harder to fingerprint",138,45
+2026-11-11T18:33:08.916202+00:00,50449891,38,Show HN: Black Ops II statically recompiled to native ARM64 macOS,123,55
+2026-11-11T18:33:08.916202+00:00,50454395,39,100x Developers,40,49
+2026-11-11T18:33:08.916202+00:00,50448921,40,A great old-timey game-programming hack (2013),240,54
+2026-11-11T18:33:08.916202+00:00,50450007,41,Greg Kurtzer's Ginux is now a userspace kernel,111,73
+2026-11-11T18:33:08.916202+00:00,50427107,42,Why I wrote the BEAM book (2025),175,39
+2026-11-11T18:33:08.916202+00:00,50453176,43,Show HN: I created a library for correctly using SQLite in Go programs,13,0
+2026-11-11T18:33:08.916202+00:00,50393070,44,"Why Amstrad chose the 3"" drives",82,32
+2026-11-11T18:33:08.916202+00:00,50435962,45,Make this forward pass as fast as possible,30,5
+2026-11-11T18:33:08.916202+00:00,50441707,46,Smart home devices should work without the internet,1119,411
+2026-11-11T18:33:08.916202+00:00,50454418,47,Brazil's Serra Verde starts shipping heavy rare earths to US under 15-year deal,5,2
+2026-11-11T18:33:08.916202+00:00,50443716,48,"Claude Whiteboards, Claude Sheets, and Claude Data",274,209
+2026-11-11T18:33:08.916202+00:00,50452394,49,"JSON vs. jsonb in Postgres: size and speed, measured",16,0
+2026-11-11T18:33:08.916202+00:00,50442736,50,.name Grandfathered,913,200
