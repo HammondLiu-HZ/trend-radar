@@ -61358,3 +61358,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-12T01:26:34.221179+00:00,50416640,48,Peer-to-peer WebRTC connections with built-in signaling and discovery,76,17
 2026-11-12T01:26:34.221179+00:00,50443264,49,TimeNet: Open-source data infrastructure for Temporal Foundation Models,46,6
 2026-11-12T01:26:34.221179+00:00,50458532,50,"GitHub Incident with Webhooks, Actions, etc.",77,58
+2026-11-12T09:39:58.545335+00:00,50438261,1,Jane Street: Socratic Tutor,150,38
+2026-11-12T09:39:58.545335+00:00,50450488,2,Tim Peters has died,1187,133
+2026-11-12T09:39:58.545335+00:00,50459745,3,93% of paint splatters are valid Perl programs (2019),416,55
+2026-11-12T09:39:58.545335+00:00,50462177,4,Critical RCE Vulnerability in Apache HTTP Server,190,83
+2026-11-12T09:39:58.545335+00:00,50456631,5,AWS emulator,842,235
+2026-11-12T09:39:58.545335+00:00,50425017,6,A live tree of systemd jobs on the boot console,31,3
+2026-11-12T09:39:58.545335+00:00,50459703,7,Nvidia is preparing to oust Jensen Huang,1001,1352
+2026-11-12T09:39:58.545335+00:00,50415162,8,I gave an agent a lakehouse and control of my garden,65,29
+2026-11-12T09:39:58.545335+00:00,50455394,9,A false smoke alarm almost drowned Jane Street's only NYC datacenter,489,236
+2026-11-12T09:39:58.545335+00:00,50456791,10,Gemini Decisions API,428,128
+2026-11-12T09:39:58.545335+00:00,50458900,11,United Airlines bans AI agents from booking flights on behalf of travelers,548,544
+2026-11-12T09:39:58.545335+00:00,50459485,12,Lock Your GitHub Actions,251,49
+2026-11-12T09:39:58.545335+00:00,50438958,13,"Legocam: My Lego webcam from 2000, working on a modern Mac",4,0
+2026-11-12T09:39:58.545335+00:00,50463540,14,I'm Working on a FOSS Linux Pinbal Simulation Engine,36,8
+2026-11-12T09:39:58.545335+00:00,50458208,15,Emacs in the Age of Magic,224,102
+2026-11-12T09:39:58.545335+00:00,50463103,16,Darling Development Update – Q4 2026,26,5
+2026-11-12T09:39:58.545335+00:00,50456279,17,The Lost World of Aquaterra,9,0
+2026-11-12T09:39:58.545335+00:00,50457618,18,The Utah Teapot,129,32
+2026-11-12T09:39:58.545335+00:00,50460154,19,A general purpose Apple Silicon layer for x86-64 PCs,105,43
+2026-11-12T09:39:58.545335+00:00,50420905,20,Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923),27,6
+2026-11-12T09:39:58.545335+00:00,50428619,21,Did Life Begin in an RNA World?,61,26
+2026-11-12T09:39:58.545335+00:00,50453288,22,Hyper-Realistic Sand with WebGL2,373,71
+2026-11-12T09:39:58.545335+00:00,50452455,23,My AI agents found an unmapped Maya site?,989,358
+2026-11-12T09:39:58.545335+00:00,50462375,24,Lean Grimoire,34,5
+2026-11-12T09:39:58.545335+00:00,50455633,25,"Faster Retrieval for Better, More Efficient RAG",207,38
+2026-11-12T09:39:58.545335+00:00,50454625,26,"Show HN: Yogurt – Free, private, open-source alternative to Granola",239,94
+2026-11-12T09:39:58.545335+00:00,50462613,27,Bad ideas that aren't bad anymore,60,43
+2026-11-12T09:39:58.545335+00:00,50458166,28,"Huawei releases MACaQ, its internal quantizer for local inference",103,25
+2026-11-12T09:39:58.545335+00:00,50451903,29,Using voltage glitching to unleash the A100 in my mining card,301,115
+2026-11-12T09:39:58.545335+00:00,50452655,30,Can a Linear Program Do Weight-Space Programming?,277,38
+2026-11-12T09:39:58.545335+00:00,50453637,31,Atuin Threads: All your agent sessions on every machine,216,79
+2026-11-12T09:39:58.545335+00:00,50435712,32,Stingray Fish Laser,28,26
+2026-11-12T09:39:58.545335+00:00,50457230,33,Show HN: I recreated Papers Please but you're deciding which YC startups to fund,223,85
+2026-11-12T09:39:58.545335+00:00,50412715,34,How to make a CNC plasma cutter with high-frequency start,37,8
+2026-11-12T09:39:58.545335+00:00,50435240,35,A Brief History of Sierra Online (2017),51,20
+2026-11-12T09:39:58.545335+00:00,50459321,36,Jensen Huang said to have had relationship with executive who reports to him,362,448
+2026-11-12T09:39:58.545335+00:00,50461786,37,I caught Microsoft Defender uploading my unreleased software without asking,34,14
+2026-11-12T09:39:58.545335+00:00,50455811,38,Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents,55,43
+2026-11-12T09:39:58.545335+00:00,50446520,39,Apple has new Mac app coming to make running local AI models easy,530,536
+2026-11-12T09:39:58.545335+00:00,50461919,40,A2UI 1.0,20,4
+2026-11-12T09:39:58.545335+00:00,50433042,41,Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding,54,27
+2026-11-12T09:39:58.545335+00:00,50452652,42,We need more goat sacrifices,199,117
+2026-11-12T09:39:58.545335+00:00,50413487,44,The Learjet Repo Man (2009),39,12
+2026-11-12T09:39:58.545335+00:00,50454995,45,The hardest notes to find on the guitar,62,70
+2026-11-12T09:39:58.545335+00:00,50449440,46,"The Apple Support Community will permanently close on November 20, 2026",154,225
+2026-11-12T09:39:58.545335+00:00,50453763,47,Pharo in the Browser with WebAssembly,129,35
+2026-11-12T09:39:58.545335+00:00,50416365,48,Optimizing Reference Deletions in Git,34,1
+2026-11-12T09:39:58.545335+00:00,50464055,49,Why Every AI Model Will Ship as a Torrent,20,5
+2026-11-12T09:39:58.545335+00:00,50458434,50,Tools for exploring the souls of large language models,48,12
