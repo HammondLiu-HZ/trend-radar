@@ -61407,3 +61407,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-12T09:39:58.545335+00:00,50416365,48,Optimizing Reference Deletions in Git,34,1
 2026-11-12T09:39:58.545335+00:00,50464055,49,Why Every AI Model Will Ship as a Torrent,20,5
 2026-11-12T09:39:58.545335+00:00,50458434,50,Tools for exploring the souls of large language models,48,12
+2026-11-12T18:05:44.081589+00:00,50467087,1,NVIDIA Announces CEO Transition,1605,1678
+2026-11-12T18:05:44.081589+00:00,50465829,2,Anthropic IPO,628,631
+2026-11-12T18:05:44.081589+00:00,50467618,3,Abandoned Quake 4 expansion finished by modders and now playable,142,46
+2026-11-12T18:05:44.081589+00:00,50468888,4,I'm making LLMs work on small and old devices,101,37
+2026-11-12T18:05:44.081589+00:00,50467460,5,Talking Zen 6 with Mike Clark at AMD In-Depth,112,1
+2026-11-12T18:05:44.081589+00:00,50470975,6,"AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",12,4
+2026-11-12T18:05:44.081589+00:00,50468944,7,ExcalidrawZ: Local Native Excalidraw on macOS/iOS,51,12
+2026-11-12T18:05:44.081589+00:00,50467439,8,Libreagi – Save OSS Models,73,17
+2026-11-12T18:05:44.081589+00:00,50465352,9,Why Writing Correct Software Is Hard,279,120
+2026-11-12T18:05:44.081589+00:00,50467869,10,Running web sites makes me not want to,56,31
+2026-11-12T18:05:44.081589+00:00,50471281,11,Show HN: Kapso – Iterative learning from enterprise data,4,0
+2026-11-12T18:05:44.081589+00:00,50470445,12,AWS Lambda Web Functions keep billing memory ~7 minutes after the last request,28,9
+2026-11-12T18:05:44.081589+00:00,50469994,13,Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep,88,49
+2026-11-12T18:05:44.081589+00:00,50468720,14,Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux,42,18
+2026-11-12T18:05:44.081589+00:00,50467305,15,"Electric Ship Batteries Promise Compact, Cooler Power",42,35
+2026-11-12T18:05:44.081589+00:00,50438261,16,Socratic Tutor,559,129
+2026-11-12T18:05:44.081589+00:00,50425017,17,A live tree of systemd jobs on the boot console,291,110
+2026-11-12T18:05:44.081589+00:00,50470762,18,Paths in Pieces,8,0
+2026-11-12T18:05:44.081589+00:00,50465453,19,Researchers discover rare star system that emits radio signals every 8 minutes,84,46
+2026-11-12T18:05:44.081589+00:00,50436363,20,Decoding REXPaint Files in Odin,11,1
+2026-11-12T18:05:44.081589+00:00,50459745,21,93% of paint splatters are valid Perl programs (2019),549,73
+2026-11-12T18:05:44.081589+00:00,50457344,22,Pulling the Lever in a Subway Problem,18,15
+2026-11-12T18:05:44.081589+00:00,50462177,23,Critical RCE Vulnerability in Apache HTTP Server,334,174
+2026-11-12T18:05:44.081589+00:00,50456631,24,AWS emulator,947,259
+2026-11-12T18:05:44.081589+00:00,50467880,25,Show HN: AI Red Lines – write down what would make you act on AI,20,10
+2026-11-12T18:05:44.081589+00:00,50431237,26,Creating Worlds: Runes and Spells Prototype,5,2
+2026-11-12T18:05:44.081589+00:00,50431971,27,Making a €40 USB-C hub work as a Nintendo Switch 2 dock,121,41
+2026-11-12T18:05:44.081589+00:00,50415379,28,Show HN: Build a PC in 3D in the Browser,39,12
+2026-11-12T18:05:44.081589+00:00,50455394,29,A false smoke alarm almost drowned Jane Street's only NYC datacenter,563,262
+2026-11-12T18:05:44.081589+00:00,50445279,30,Research taste in history: the importance of learning Babylonian math,50,7
+2026-11-12T18:05:44.081589+00:00,50456791,31,Gemini Decisions API,539,154
+2026-11-12T18:05:44.081589+00:00,50467763,32,"PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",71,8
+2026-11-12T18:05:44.081589+00:00,50469007,33,Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games,52,49
+2026-11-12T18:05:44.081589+00:00,50406043,34,The largest open-source DLE collection,10,2
+2026-11-12T18:05:44.081589+00:00,50463540,35,I'm Working on a FOSS Linux Pinbal Simulation Engine,108,36
+2026-11-12T18:05:44.081589+00:00,50458900,36,United Airlines bans AI agents from booking flights on behalf of travelers,641,667
+2026-11-12T18:05:44.081589+00:00,50450488,37,Tim Peters has died,1375,174
+2026-11-12T18:05:44.081589+00:00,50459485,38,Lock Your GitHub Actions,318,62
+2026-11-12T18:05:44.081589+00:00,50467539,39,20 Years of Pyrolog,11,0
+2026-11-12T18:05:44.081589+00:00,50467297,40,Our software engineering interviews are changing (a little),88,85
+2026-11-12T18:05:44.081589+00:00,50458208,42,Emacs in the Age of Magic,295,148
+2026-11-12T18:05:44.081589+00:00,50441350,43,Show HN: Aircad – Professional drafting and 3D modeling in the browser,81,38
+2026-11-12T18:05:44.081589+00:00,50468904,44,Jensen Huang Was the Face of the A.I. Boom Powering the U.S. Economy,19,12
+2026-11-12T18:05:44.081589+00:00,50457618,45,The Utah Teapot,180,44
+2026-11-12T18:05:44.081589+00:00,50468901,46,Show HN: I built a calendar app that gives each event its own to-do list,3,0
+2026-11-12T18:05:44.081589+00:00,50468687,47,"Roadside investigations of psyllids, ants and eucs",4,1
+2026-11-12T18:05:44.081589+00:00,50467383,48,"ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser",8,0
+2026-11-12T18:05:44.081589+00:00,50416606,49,"Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",21,3
+2026-11-12T18:05:44.081589+00:00,50460154,50,A general purpose Apple Silicon layer for x86-64 PCs,131,56
