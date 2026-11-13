@@ -61506,3 +61506,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-13T00:04:13.344779+00:00,50450488,48,Tim Peters has died,1393,185
 2026-11-13T00:04:13.344779+00:00,50431237,49,Creating Worlds: Runes and Spells Prototype,22,5
 2026-11-13T00:04:13.344779+00:00,50474643,50,PCMag demands $12000 to link to an article,23,4
+2026-11-13T07:45:54.374369+00:00,50467087,1,Jensen Huang resigns,3393,3056
+2026-11-13T07:45:54.374369+00:00,50478515,2,IceWM,102,52
+2026-11-13T07:45:54.374369+00:00,50472038,3,Rust 1.100,622,236
+2026-11-13T07:45:54.374369+00:00,50477649,4,Brave Search API now accepts agentic payments via the x402 protocol,71,30
+2026-11-13T07:45:54.374369+00:00,50477231,5,Nvidia employees petition to bring back Jensen Huang,471,341
+2026-11-13T07:45:54.374369+00:00,50472260,6,Gemini 4 Hydrogen and Orchestrator,400,107
+2026-11-13T07:45:54.374369+00:00,50470488,7,"Show HN: My $300 embroidery machine needed a subscription, so I built my own app",479,176
+2026-11-13T07:45:54.374369+00:00,50477714,8,Switcher (2004),86,22
+2026-11-13T07:45:54.374369+00:00,50475713,9,Edge0-145B: Frontier AI Capabilities on Your Own Computer,210,55
+2026-11-13T07:45:54.374369+00:00,50478635,10,Scientists claim the universe is twice as old as believed,54,43
+2026-11-13T07:45:54.374369+00:00,50472490,11,Dwarf planet candidate appears which takes roughly 280 years to orbit our sun,276,116
+2026-11-13T07:45:54.374369+00:00,50473190,12,"Former Nvidia CEO Huang had a relationship with a second employee, sources say",231,244
+2026-11-13T07:45:54.374369+00:00,50471731,13,Service degradation on Microsoft 365,787,699
+2026-11-13T07:45:54.374369+00:00,50474361,14,Foundation Models framework,197,26
+2026-11-13T07:45:54.374369+00:00,50468888,15,I'm making LLMs work on small and old devices,340,124
+2026-11-13T07:45:54.374369+00:00,50467618,16,Abandoned Quake 4 expansion finished by modders and now playable,265,95
+2026-11-13T07:45:54.374369+00:00,50471761,17,Turning a 22-year-old Postgres type-confusion primitive into RCE,174,34
+2026-11-13T07:45:54.374369+00:00,50478609,18,Microsoft Outlook/365 still down after 12 hours,50,15
+2026-11-13T07:45:54.374369+00:00,50458849,19,Relax: JIT compiler for Rust to reduce build times,148,68
+2026-11-13T07:45:54.374369+00:00,50460263,20,"Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",47,6
+2026-11-13T07:45:54.374369+00:00,50465829,21,Anthropic IPO,904,853
+2026-11-13T07:45:54.374369+00:00,50471650,22,"Show HN: AgentRun – open-source, Self-improving Managed Agents",96,27
+2026-11-13T07:45:54.374369+00:00,50478622,23,"The average cost for a new vehicle in the U.S. hits a record high: over $51,000",40,32
+2026-11-13T07:45:54.374369+00:00,50474586,24,Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech,19,2
+2026-11-13T07:45:54.374369+00:00,50474311,25,AI is turning Apple's app review process into a nightmare for synth developers,158,158
+2026-11-13T07:45:54.374369+00:00,50467460,26,Talking Zen 6 with Mike Clark at AMD In-Depth,212,4
+2026-11-13T07:45:54.374369+00:00,50479098,27,Global Microsoft Outage,26,0
+2026-11-13T07:45:54.374369+00:00,50471431,28,Gemini 4 Hydrogen,518,326
+2026-11-13T07:45:54.374369+00:00,50466410,29,Adapting CPython for Yk,68,3
+2026-11-13T07:45:54.374369+00:00,50471281,30,Show HN: Kapso – Iterative learning from enterprise data,45,10
+2026-11-13T07:45:54.374369+00:00,50474883,31,Chinese frontier AI models carry the fingerprint of export-controlled GPUs,277,80
+2026-11-13T07:45:54.374369+00:00,50467297,32,Our software engineering interviews are changing a little,216,207
+2026-11-13T07:45:54.374369+00:00,50473888,33,Announcement: Conductor Is Back,30,18
+2026-11-13T07:45:54.374369+00:00,50478724,34,Jensen Huang's Last Hours as Nvidia CEO,18,2
+2026-11-13T07:45:54.374369+00:00,50467439,35,Libreagi – Save OSS Models,142,27
+2026-11-13T07:45:54.374369+00:00,50479045,36,Microsoft says attempts to fix global outage not going 'as expected',17,7
+2026-11-13T07:45:54.374369+00:00,50478543,37,"Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",5,0
+2026-11-13T07:45:54.374369+00:00,50468944,38,ExcalidrawZ: Local Native Excalidraw on macOS/iOS,119,26
+2026-11-13T07:45:54.374369+00:00,50465453,39,Researchers discover rare star system that emits radio signals every 8 minutes,127,63
+2026-11-13T07:45:54.374369+00:00,50459508,40,Words of warning about radiocarbon dating medieval human bones,68,15
+2026-11-13T07:45:54.374369+00:00,50454700,41,Before Pixels: Speed-Minder,24,1
+2026-11-13T07:45:54.374369+00:00,50439283,42,Safety in Algae Home Experiments,34,5
+2026-11-13T07:45:54.374369+00:00,50472506,43,Vibes Don't Maintain,65,28
+2026-11-13T07:45:54.374369+00:00,50468720,44,Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux,85,35
+2026-11-13T07:45:54.374369+00:00,50467305,45,"Electric ship batteries promise compact, cooler power",67,79
+2026-11-13T07:45:54.374369+00:00,50477570,46,FBI says US has seized $1.2B worth of cryptocurrency stolen from Binance,28,11
+2026-11-13T07:45:54.374369+00:00,50477155,47,NYC Council passes ban on 'surveillance pricing',47,11
+2026-11-13T07:45:54.374369+00:00,50465352,48,Writing correct software is hard and math alone won’t help us (2016),361,175
+2026-11-13T07:45:54.374369+00:00,50470343,49,Show HN: Apron Chat Protocol,41,1
+2026-11-13T07:45:54.374369+00:00,50474926,50,Librem 5 v2: A phone that frees us all,24,6
