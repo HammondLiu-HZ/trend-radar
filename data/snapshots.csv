@@ -61556,3 +61556,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-13T07:45:54.374369+00:00,50465352,48,Writing correct software is hard and math alone won’t help us (2016),361,175
 2026-11-13T07:45:54.374369+00:00,50470343,49,Show HN: Apron Chat Protocol,41,1
 2026-11-13T07:45:54.374369+00:00,50474926,50,Librem 5 v2: A phone that frees us all,24,6
+2026-11-13T16:05:24.022495+00:00,50474959,1,Reverse Engineering My Coway Air Purifier to Ditch the Cloud,209,44
+2026-11-13T16:05:24.022495+00:00,50482379,2,"Doomsday: Friday, 13 November, A.D. 2026 (1960)",305,201
+2026-11-13T16:05:24.022495+00:00,50483611,3,Why Zig over C for Systems Programming,89,31
+2026-11-13T16:05:24.022495+00:00,50484235,4,A technical vision for the Haskell ecosystem,34,8
+2026-11-13T16:05:24.022495+00:00,50467087,5,Jensen Huang resigns,3835,3305
+2026-11-13T16:05:24.022495+00:00,50484421,6,"U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",59,24
+2026-11-13T16:05:24.022495+00:00,50481187,7,"Elevated errors on claude.ai, Claude Code, and platform.claude.com",403,336
+2026-11-13T16:05:24.022495+00:00,50478515,8,IceWM,303,155
+2026-11-13T16:05:24.022495+00:00,50484650,9,"Palmfrets, Minnesota guitarist's invention, strikes a new chord",12,4
+2026-11-13T16:05:24.022495+00:00,50484007,10,Lonewolf 0.3 – A standalone XMPP server written in Rust,17,5
+2026-11-13T16:05:24.022495+00:00,50485295,11,Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers,3,0
+2026-11-13T16:05:24.022495+00:00,50472038,12,Rust 1.100,802,293
+2026-11-13T16:05:24.022495+00:00,50477649,13,Brave Search API now accepts agentic payments via the x402 protocol,205,114
+2026-11-13T16:05:24.022495+00:00,50483759,14,US university students tell surveillance cameras to Flock off,38,4
+2026-11-13T16:05:24.022495+00:00,50484006,15,The 42-Year Journey to Bring 'Neuromancer' to the Screen,52,31
+2026-11-13T16:05:24.022495+00:00,50470488,16,"Show HN: My $300 embroidery machine needed a subscription, so I built my own app",662,218
+2026-11-13T16:05:24.022495+00:00,50484496,17,EU Digital Identity Wallet rollout: every EU state on one board,26,1
+2026-11-13T16:05:24.022495+00:00,50481870,18,AI Is Destroying the Trust Between Writers and Readers,131,34
+2026-11-13T16:05:24.022495+00:00,50472260,19,Gemini 4 Hydrogen and Orchestrator,467,144
+2026-11-13T16:05:24.022495+00:00,50473190,20,"Former Nvidia CEO Huang had a relationship with a second employee, sources say",382,415
+2026-11-13T16:05:24.022495+00:00,50472490,21,Dwarf planet candidate appears which takes roughly 280 years to orbit our sun,361,157
+2026-11-13T16:05:24.022495+00:00,50475713,22,Edge0-145B: Frontier AI Capabilities on Your Own Computer,308,91
+2026-11-13T16:05:24.022495+00:00,50480480,23,The Dawn of the Data Intelligence Engineer,102,68
+2026-11-13T16:05:24.022495+00:00,50468888,24,I'm making LLMs work on small and old devices,434,167
+2026-11-13T16:05:24.022495+00:00,50471731,25,Service degradation on Microsoft 365,1083,912
+2026-11-13T16:05:24.022495+00:00,50483533,26,US test reactor cleared for operations,27,8
+2026-11-13T16:05:24.022495+00:00,50474361,27,Foundation Models framework,247,33
+2026-11-13T16:05:24.022495+00:00,50484658,28,"Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",12,3
+2026-11-13T16:05:24.022495+00:00,50477714,29,Switcher (2004),124,39
+2026-11-13T16:05:24.022495+00:00,50467618,30,Abandoned Quake 4 expansion finished by modders and now playable,296,115
+2026-11-13T16:05:24.022495+00:00,50471761,31,Turning a 22-year-old Postgres type-confusion primitive into RCE,224,40
+2026-11-13T16:05:24.022495+00:00,50483480,32,Eli Lilly CEO pushes back on Dario Amodei's medical claims,233,289
+2026-11-13T16:05:24.022495+00:00,50465829,33,Anthropic IPO,983,888
+2026-11-13T16:05:24.022495+00:00,50471650,34,"Show HN: AgentRun – open-source, Self-improving Managed Agents",127,32
+2026-11-13T16:05:24.022495+00:00,50460263,35,"Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",78,10
+2026-11-13T16:05:24.022495+00:00,50479098,36,Global Microsoft Outage,260,160
+2026-11-13T16:05:24.022495+00:00,50467460,37,Talking Zen 6 with Mike Clark at AMD In-Depth,236,8
+2026-11-13T16:05:24.022495+00:00,50458849,38,Relax: JIT compiler for Rust to reduce build times,172,98
+2026-11-13T16:05:24.022495+00:00,50484960,39,Why is Google cutting off Search from AI-free schools? Here are some theories,4,0
+2026-11-13T16:05:24.022495+00:00,50478609,40,Microsoft Outlook/365 still down after 12 hours,423,288
+2026-11-13T16:05:24.022495+00:00,50482455,41,Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy,18,2
+2026-11-13T16:05:24.022495+00:00,50471431,42,Gemini 4 Hydrogen,553,343
+2026-11-13T16:05:24.022495+00:00,50477231,43,Nvidia employees petition to bring back Jensen Huang,737,594
+2026-11-13T16:05:24.022495+00:00,50481220,44,Claude Is Down,178,151
+2026-11-13T16:05:24.022495+00:00,50467297,45,Our software engineering interviews are changing a little,236,217
+2026-11-13T16:05:24.022495+00:00,50471281,46,Show HN: Kapso – Iterative learning from enterprise data,54,11
+2026-11-13T16:05:24.022495+00:00,50483391,47,The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video],24,3
+2026-11-13T16:05:24.022495+00:00,50482175,48,"Study Hard, Get a Career, Get Ahead? It's Not What It Used to Be",25,28
+2026-11-13T16:05:24.022495+00:00,50467439,49,Libreagi – Save OSS Models,151,31
+2026-11-13T16:05:24.022495+00:00,50465453,50,Researchers discover rare star system that emits radio signals every 8 minutes,134,65
