@@ -61456,3 +61456,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-12T18:05:44.081589+00:00,50467383,48,"ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser",8,0
 2026-11-12T18:05:44.081589+00:00,50416606,49,"Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",21,3
 2026-11-12T18:05:44.081589+00:00,50460154,50,A general purpose Apple Silicon layer for x86-64 PCs,131,56
+2026-11-13T00:04:13.344779+00:00,50467087,1,Jensen Huang resigns,2779,2640
+2026-11-13T00:04:13.344779+00:00,50472038,2,Rust 1.100,336,142
+2026-11-13T00:04:13.344779+00:00,50472260,3,Gemini 4 Hydrogen and Orchestrator,253,60
+2026-11-13T00:04:13.344779+00:00,50474361,4,Foundation Models framework,91,12
+2026-11-13T00:04:13.344779+00:00,50472490,5,Dwarf planet candidate appears which takes roughly 280 years to orbit our sun,175,83
+2026-11-13T00:04:13.344779+00:00,50470488,6,"Show HN: My $300 embroidery machine needed a subscription, so I built my own app",281,118
+2026-11-13T00:04:13.344779+00:00,50471731,7,Service degradation on Microsoft 365,426,410
+2026-11-13T00:04:13.344779+00:00,50471761,8,22-Year-Old PostgreSQL Bug Turned into Remote Code Execution,128,14
+2026-11-13T00:04:13.344779+00:00,50474311,9,AI is turning Apple's app review process into a nightmare for synth developers,59,58
+2026-11-13T00:04:13.344779+00:00,50468888,10,I'm making LLMs work on small and old devices,268,88
+2026-11-13T00:04:13.344779+00:00,50467618,11,Abandoned Quake 4 expansion finished by modders and now playable,232,80
+2026-11-13T00:04:13.344779+00:00,50471431,12,Gemini 4 Hydrogen,438,283
+2026-11-13T00:04:13.344779+00:00,50458849,13,Relax: JIT compiler for Rust to reduce build times,101,40
+2026-11-13T00:04:13.344779+00:00,50474883,14,Chinese frontier AI models carry the fingerprint of export-controlled GPUs,97,24
+2026-11-13T00:04:13.344779+00:00,50465352,15,Why writing correct software is hard and why math (alone) won’t help us (2016),348,166
+2026-11-13T00:04:13.344779+00:00,50467460,16,Talking Zen 6 with Mike Clark at AMD In-Depth,180,2
+2026-11-13T00:04:13.344779+00:00,50439283,17,Safety in Algae Home Experiments,23,3
+2026-11-13T00:04:13.344779+00:00,50454700,18,Before Pixels: Speed-Minder,7,0
+2026-11-13T00:04:13.344779+00:00,50471281,19,Show HN: Kapso – Iterative learning from enterprise data,37,9
+2026-11-13T00:04:13.344779+00:00,50465829,20,Anthropic IPO,793,785
+2026-11-13T00:04:13.344779+00:00,50472505,21,Distributed Ray Tracer,32,11
+2026-11-13T00:04:13.344779+00:00,50474106,22,Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay,5,0
+2026-11-13T00:04:13.344779+00:00,50471650,23,"Show HN: AgentRun – open-source, Self-improving Managed Agents",72,12
+2026-11-13T00:04:13.344779+00:00,50459508,24,Words of warning about radiocarbon dating medieval human bones,50,6
+2026-11-13T00:04:13.344779+00:00,50475829,25,Richard A. Posner has died,4,0
+2026-11-13T00:04:13.344779+00:00,50466410,26,Adapting CPython for Yk,37,1
+2026-11-13T00:04:13.344779+00:00,50467297,27,Our software engineering interviews are changing a little,163,156
+2026-11-13T00:04:13.344779+00:00,50468944,28,ExcalidrawZ: Local Native Excalidraw on macOS/iOS,102,24
+2026-11-13T00:04:13.344779+00:00,50425017,29,A live tree of systemd jobs on the boot console,355,140
+2026-11-13T00:04:13.344779+00:00,50437505,30,Beyond the compiler: Making IBM i run modified native code,8,1
+2026-11-13T00:04:13.344779+00:00,50467439,31,Libreagi – Save OSS Models,122,24
+2026-11-13T00:04:13.344779+00:00,50475505,32,"Outlook Down, Microsoft Teams and Office may be impacted",9,1
+2026-11-13T00:04:13.344779+00:00,50473231,33,"Data centers need power – lower income, rural residents pay the price",165,166
+2026-11-13T00:04:13.344779+00:00,50471621,34,Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company,145,53
+2026-11-13T00:04:13.344779+00:00,50470445,35,AWS Lambda Web Functions keep billing memory ~7 minutes after the last request,64,28
+2026-11-13T00:04:13.344779+00:00,50465453,36,Researchers discover rare star system that emits radio signals every 8 minutes,116,58
+2026-11-13T00:04:13.344779+00:00,50468720,37,Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux,76,24
+2026-11-13T00:04:13.344779+00:00,50469994,38,Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep,263,206
+2026-11-13T00:04:13.344779+00:00,50467305,39,"Electric ship batteries promise compact, cooler power",59,76
+2026-11-13T00:04:13.344779+00:00,50470343,40,Show HN: Apron Chat Protocol,24,0
+2026-11-13T00:04:13.344779+00:00,50473868,41,Jensen Huang Third Affair Allegations Revealed,47,19
+2026-11-13T00:04:13.344779+00:00,50474926,42,Librem 5 v2: A phone that frees us all,4,3
+2026-11-13T00:04:13.344779+00:00,50431971,43,Making a €40 USB-C hub work as a Nintendo Switch 2 dock,144,55
+2026-11-13T00:04:13.344779+00:00,50472506,44,Vibes Don't Maintain,35,18
+2026-11-13T00:04:13.344779+00:00,50470880,45,Hands-on fabrication of 2D material field-effect transistors for the classroom,10,0
+2026-11-13T00:04:13.344779+00:00,50438261,46,Socratic Tutor,649,153
+2026-11-13T00:04:13.344779+00:00,50436363,47,Decoding REXPaint Files in Odin,20,1
+2026-11-13T00:04:13.344779+00:00,50450488,48,Tim Peters has died,1393,185
+2026-11-13T00:04:13.344779+00:00,50431237,49,Creating Worlds: Runes and Spells Prototype,22,5
+2026-11-13T00:04:13.344779+00:00,50474643,50,PCMag demands $12000 to link to an article,23,4
