@@ -61802,3 +61802,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-14T17:53:37.570253+00:00,50484658,48,"Jonathan Blow – If AI solved coding, why is my software still the same? [video]",434,616
 2026-11-14T17:53:37.570253+00:00,50496051,49,Project Zero will disclose vulnerabilities 90 days after reporting,8,1
 2026-11-14T17:53:37.570253+00:00,50496870,50,Probabilistic Data Structures in Go,7,0
+2026-11-14T22:14:25.516189+00:00,50499017,1,Lovable apps expose passport details and more than 200K private messages,504,184
+2026-11-14T22:14:25.516189+00:00,50500963,2,SpaceX Catches the Starship to end Flight 15,256,135
+2026-11-14T22:14:25.516189+00:00,50499038,3,A Family Tree of Software Job Titles,135,62
+2026-11-14T22:14:25.516189+00:00,50496976,4,KDE: The documentary [video],324,70
+2026-11-14T22:14:25.516189+00:00,50497892,5,PyPI's redesigned project pages with clearer security signals are now live,174,79
+2026-11-14T22:14:25.516189+00:00,50453901,6,Seagate's new hybrid drive raises some old questions,52,23
+2026-11-14T22:14:25.516189+00:00,50471874,7,"'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",45,21
+2026-11-14T22:14:25.516189+00:00,50440709,8,Why get an expensive Pi when I have an old phone?,472,267
+2026-11-14T22:14:25.516189+00:00,50496811,9,Advancing science and engineering with Antigravity's /teamwork,138,33
+2026-11-14T22:14:25.516189+00:00,50497589,10,Show HN: DeepSeek V3 in ~200 lines of pure Jax,119,7
+2026-11-14T22:14:25.516189+00:00,50499723,11,"LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",130,59
+2026-11-14T22:14:25.516189+00:00,50416011,12,Reverse engineering a vintage diode-transistor logic chip,73,4
+2026-11-14T22:14:25.516189+00:00,50441444,13,Generative AI uses more energy on non-English text,159,89
+2026-11-14T22:14:25.516189+00:00,50464467,14,Possible Futures,14,7
+2026-11-14T22:14:25.516189+00:00,50498945,15,Will we put data centers in space?,41,116
+2026-11-14T22:14:25.516189+00:00,50497132,16,"Show HN: A terminal-native idle factory game, written in Rust with ratatui",120,24
+2026-11-14T22:14:25.516189+00:00,50493904,17,Monkey Island: all 13 versions side by side,442,141
+2026-11-14T22:14:25.516189+00:00,50499945,18,Dartmouth (Guarini) will not admit math PhD cohort this year,47,10
+2026-11-14T22:14:25.516189+00:00,50496051,19,Project Zero will disclose vulnerabilities 90 days after reporting,101,17
+2026-11-14T22:14:25.516189+00:00,50496602,20,Tech Companies Are Trying to Shift the Concept of Privacy (Again),399,151
+2026-11-14T22:14:25.516189+00:00,50498073,21,How to Create Your Own Decentralized Messenger Protocol,47,9
+2026-11-14T22:14:25.516189+00:00,50497416,22,Demystifying phone unlocking tools: A technical overview,51,1
+2026-11-14T22:14:25.516189+00:00,50497137,23,Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6),61,19
+2026-11-14T22:14:25.516189+00:00,50497009,24,Italy fines Meta $887M over Android users' data access,281,185
+2026-11-14T22:14:25.516189+00:00,50478632,25,Let's Write a PostScript Interpreter,93,16
+2026-11-14T22:14:25.516189+00:00,50496885,26,A visual explanation of reinforcement learning,94,6
+2026-11-14T22:14:25.516189+00:00,50499083,27,US IRS free online tax filing open source repo (2025),122,69
+2026-11-14T22:14:25.516189+00:00,50497147,28,Show HN: Agweb – a browser for agents that stays out of your way,79,21
+2026-11-14T22:14:25.516189+00:00,50498295,29,Creating a self booting ZIP archive,32,6
+2026-11-14T22:14:25.516189+00:00,50467987,30,"C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",37,1
+2026-11-14T22:14:25.516189+00:00,50497900,31,Formalizing US Tax Code (Using Lean),127,81
+2026-11-14T22:14:25.516189+00:00,50497155,32,Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM,124,64
+2026-11-14T22:14:25.516189+00:00,50467278,33,Testing a Trash Can Faraday Cage,58,44
+2026-11-14T22:14:25.516189+00:00,50493062,34,Ggml v1.0.0,393,67
+2026-11-14T22:14:25.516189+00:00,50499129,35,Copper wire upgrade caused nationwide flight suspension,29,4
+2026-11-14T22:14:25.516189+00:00,50444761,36,Show HN: I have trained 15 blood glucose forecasting models on my own data,95,50
+2026-11-14T22:14:25.516189+00:00,50465926,37,Bilingualism and Denaskuleco,19,20
+2026-11-14T22:14:25.516189+00:00,50499895,38,Silicon Valley claims to know the future. So why'd it get the midterms so wrong?,30,23
+2026-11-14T22:14:25.516189+00:00,50498051,39,Smuggling of 1.5M AI GPUs could be the cause of Huang's departure,38,21
+2026-11-14T22:14:25.516189+00:00,50466069,40,The curious case of the north-east arrow,36,13
+2026-11-14T22:14:25.516189+00:00,50497656,41,Too Many Stadiums with Roofs,5,0
+2026-11-14T22:14:25.516189+00:00,50496562,42,Agile Manifesto for Agents,22,4
+2026-11-14T22:14:25.516189+00:00,50491423,43,Terminal borders that don't cost a cell,400,180
+2026-11-14T22:14:25.516189+00:00,50454791,44,Service Crew Discovers Rare Yellow Burbot in Oswego Harbor,29,19
+2026-11-14T22:14:25.516189+00:00,50474959,45,Reverse engineering my Coway air purifier to ditch the cloud,781,219
+2026-11-14T22:14:25.516189+00:00,50498063,46,Italy fines Meta €805M over photo privacy,123,60
+2026-11-14T22:14:25.516189+00:00,50496159,47,Light Pollution Map,24,7
+2026-11-14T22:14:25.516189+00:00,50498718,49,"With Little Ado, Congress Put God in Pledge in 1954",19,1
+2026-11-14T22:14:25.516189+00:00,50493251,50,Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs,1008,608
