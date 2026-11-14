@@ -61753,3 +61753,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-14T11:20:43.585545+00:00,50486521,48,Concurrent Shell Command Queues,46,17
 2026-11-14T11:20:43.585545+00:00,50472038,49,Rust 1.100,883,315
 2026-11-14T11:20:43.585545+00:00,50493246,50,Beating the Frontier on NetHack,7,0
+2026-11-14T17:53:37.570253+00:00,50497892,1,PyPI's redesigned project pages with clearer security signals are now live,97,29
+2026-11-14T17:53:37.570253+00:00,50496976,2,KDE: The documentary [video],174,26
+2026-11-14T17:53:37.570253+00:00,50440709,3,Why get an expensive Pi when I have an old phone?,378,228
+2026-11-14T17:53:37.570253+00:00,50496811,4,Advancing science and engineering with Antigravity's /teamwork,71,19
+2026-11-14T17:53:37.570253+00:00,50497132,5,"Show HN: A terminal-native idle factory game, written in Rust with ratatui",82,14
+2026-11-14T17:53:37.570253+00:00,50441444,6,Generative AI uses more energy on non-English text,97,65
+2026-11-14T17:53:37.570253+00:00,50499017,7,Lovable apps expose passport details and more than 200K private messages,3,0
+2026-11-14T17:53:37.570253+00:00,50497589,8,Show HN: DeepSeek V3 in ~200 lines of pure Jax,19,0
+2026-11-14T17:53:37.570253+00:00,50497137,9,Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6),30,9
+2026-11-14T17:53:37.570253+00:00,50416011,10,Reverse engineering a vintage diode-transistor logic chip,22,1
+2026-11-14T17:53:37.570253+00:00,50493062,11,Ggml v1.0.0,378,64
+2026-11-14T17:53:37.570253+00:00,50467278,12,Testing a Trash Can Faraday Cage,39,22
+2026-11-14T17:53:37.570253+00:00,50496602,13,Tech Companies Are Trying to Shift the Concept of Privacy (Again),243,95
+2026-11-14T17:53:37.570253+00:00,50493904,14,Monkey Island: all 13 versions side by side,360,122
+2026-11-14T17:53:37.570253+00:00,50497900,15,Formalizing US Tax Code (Using Lean),58,22
+2026-11-14T17:53:37.570253+00:00,50497009,16,Italy fines Meta $887M over Android users' data access,152,76
+2026-11-14T17:53:37.570253+00:00,50497147,17,Show HN: Agweb – a browser for agents that stays out of your way,50,16
+2026-11-14T17:53:37.570253+00:00,50497155,18,Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM,82,39
+2026-11-14T17:53:37.570253+00:00,50478632,19,Let's Write a PostScript Interpreter,67,11
+2026-11-14T17:53:37.570253+00:00,50498063,20,Italy fines Meta €805M over photo privacy,97,50
+2026-11-14T17:53:37.570253+00:00,50467987,21,"C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",11,1
+2026-11-14T17:53:37.570253+00:00,50491423,22,Terminal borders that don't cost a cell,383,165
+2026-11-14T17:53:37.570253+00:00,50493251,23,Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs,948,575
+2026-11-14T17:53:37.570253+00:00,50496885,24,A visual explanation of reinforcement learning,41,2
+2026-11-14T17:53:37.570253+00:00,50465926,25,Bilingualism and Denaskuleco,15,9
+2026-11-14T17:53:37.570253+00:00,50491980,26,Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update,224,71
+2026-11-14T17:53:37.570253+00:00,50489641,27,FAA issues national ground stop – lifted 4.5 hours later,1621,1250
+2026-11-14T17:53:37.570253+00:00,50498073,28,How to Create Your Own Decentralized Messenger Protocol,5,0
+2026-11-14T17:53:37.570253+00:00,50491830,29,What happened to 3Com?,192,110
+2026-11-14T17:53:37.570253+00:00,50491545,30,Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop,196,24
+2026-11-14T17:53:37.570253+00:00,50488470,31,Found: A protein that drives ageing without unleashing inflammation,244,77
+2026-11-14T17:53:37.570253+00:00,50444761,32,Show HN: I have trained 15 blood glucose forecasting models on my own data,84,46
+2026-11-14T17:53:37.570253+00:00,50488325,33,FM-1 Workbench,262,172
+2026-11-14T17:53:37.570253+00:00,50491400,34,How Not to Build a Music Player,165,77
+2026-11-14T17:53:37.570253+00:00,50498051,35,Smuggling of 1.5M AI GPUs could be the cause of Huang's departure,11,9
+2026-11-14T17:53:37.570253+00:00,50490593,36,"Live airband on all frequencies from KORS. Victoria, CA also ground stopped",287,67
+2026-11-14T17:53:37.570253+00:00,50454791,38,Service Crew Discovers Rare Yellow Burbot in Oswego Harbor,27,18
+2026-11-14T17:53:37.570253+00:00,50497416,39,Demystifying phone unlocking tools: A technical overview,4,0
+2026-11-14T17:53:37.570253+00:00,50488464,40,"Perplexity Decider v1.3: Training, eval, and use cases",143,26
+2026-11-14T17:53:37.570253+00:00,50488835,41,Live-migration support in FreeBSD and bhyve coming,136,42
+2026-11-14T17:53:37.570253+00:00,50466069,42,The curious case of the north-east arrow,31,10
+2026-11-14T17:53:37.570253+00:00,50498718,43,"With Little Ado, Congress Put God in Pledge in 1954",6,0
+2026-11-14T17:53:37.570253+00:00,50497196,44,Vercel should fork and maintain Deno,13,8
+2026-11-14T17:53:37.570253+00:00,50474959,45,Reverse engineering my Coway air purifier to ditch the cloud,775,215
+2026-11-14T17:53:37.570253+00:00,50496562,46,Agile Manifesto for Agents,10,2
+2026-11-14T17:53:37.570253+00:00,50496525,47,Why platform teams fail (and AI makes it worse),8,1
+2026-11-14T17:53:37.570253+00:00,50484658,48,"Jonathan Blow – If AI solved coding, why is my software still the same? [video]",434,616
+2026-11-14T17:53:37.570253+00:00,50496051,49,Project Zero will disclose vulnerabilities 90 days after reporting,8,1
+2026-11-14T17:53:37.570253+00:00,50496870,50,Probabilistic Data Structures in Go,7,0
