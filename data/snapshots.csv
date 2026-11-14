@@ -61704,3 +61704,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-14T03:00:34.535562+00:00,50484960,48,Why is Google cutting off Search from AI-free schools? Here are some theories,167,166
 2026-11-14T03:00:34.535562+00:00,50481870,49,AI is destroying the trust between writers and readers,315,195
 2026-11-14T03:00:34.535562+00:00,50485295,50,Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers,163,72
+2026-11-14T11:20:43.585545+00:00,50440709,1,Why get an expensive Pi when I have an old phone?,90,52
+2026-11-14T11:20:43.585545+00:00,50493062,2,Ggml v1.0.0,280,46
+2026-11-14T11:20:43.585545+00:00,50493904,3,Monkey Island: all 13 versions side by side,154,43
+2026-11-14T11:20:43.585545+00:00,50493251,4,Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs,622,357
+2026-11-14T11:20:43.585545+00:00,50491980,5,Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update,154,47
+2026-11-14T11:20:43.585545+00:00,50489641,6,FAA issues national ground stop – lifted 4.5 hours later,1554,1177
+2026-11-14T11:20:43.585545+00:00,50491423,7,Terminal borders that don't cost a cell,272,120
+2026-11-14T11:20:43.585545+00:00,50491545,8,Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop,153,21
+2026-11-14T11:20:43.585545+00:00,50491830,9,What happened to 3Com?,151,78
+2026-11-14T11:20:43.585545+00:00,50484658,10,"Jonathan Blow – If AI solved coding, why is my software still the same? [video]",309,389
+2026-11-14T11:20:43.585545+00:00,50488470,11,Found: A protein that drives ageing without unleashing inflammation,206,40
+2026-11-14T11:20:43.585545+00:00,50488325,12,FM-1 Workbench,239,159
+2026-11-14T11:20:43.585545+00:00,50448432,13,Extending LLDB to Debug Applications That Span CPUs and GPUs,18,3
+2026-11-14T11:20:43.585545+00:00,50490593,14,"Live airband on all frequencies from KORS. Victoria, CA also ground stopped",268,61
+2026-11-14T11:20:43.585545+00:00,50487185,15,"After 600 experiments, here's what I discovered about JEPA world models",264,44
+2026-11-14T11:20:43.585545+00:00,50491400,16,How Not to Build a Music Player,120,48
+2026-11-14T11:20:43.585545+00:00,50488464,17,"Perplexity Decider v1.3: Training, eval, and use cases",131,23
+2026-11-14T11:20:43.585545+00:00,50487228,18,Show HN: Isometric SF – A pixel-art map of the SF Bay Area,216,70
+2026-11-14T11:20:43.585545+00:00,50444761,19,Show HN: I have trained 15 blood glucose forecasting models on my own data,36,14
+2026-11-14T11:20:43.585545+00:00,50488835,20,Live-migration support in FreeBSD and bhyve coming,109,26
+2026-11-14T11:20:43.585545+00:00,50492860,21,Elephants found to be increasingly isolated leading to fractured social networks,140,31
+2026-11-14T11:20:43.585545+00:00,50494696,22,"Ask HN: What are the most useful, concrete AI skills to independently learn?",38,36
+2026-11-14T11:20:43.585545+00:00,50454791,23,Service Crew Discovers Rare Yellow Burbot in Oswego Harbor,6,1
+2026-11-14T11:20:43.585545+00:00,50484650,24,"Minnesota guitarist's ""palmfrets"" invention strikes a new chord",176,101
+2026-11-14T11:20:43.585545+00:00,50474959,25,Reverse engineering my Coway air purifier to ditch the cloud,759,214
+2026-11-14T11:20:43.585545+00:00,50492315,26,Amtrak booking system experiencing major issues amid nationwide FAA ground stop,168,60
+2026-11-14T11:20:43.585545+00:00,50484235,27,A technical vision for the Haskell ecosystem,209,126
+2026-11-14T11:20:43.585545+00:00,50462975,28,The Other Nefertiti (2015),21,4
+2026-11-14T11:20:43.585545+00:00,50487605,29,"Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",88,43
+2026-11-14T11:20:43.585545+00:00,50492950,30,Security Agencies Worldwide Found to Use Ad-Based Surveillance System,112,11
+2026-11-14T11:20:43.585545+00:00,50484007,32,Lonewolf 0.3 – A standalone XMPP server written in Rust,142,45
+2026-11-14T11:20:43.585545+00:00,50487864,33,$11.4M in Nvidia hardware vanishes during shipment from CA to TX,355,194
+2026-11-14T11:20:43.585545+00:00,50482379,34,"Doomsday: Friday, 13 November, A.D. 2026 (1960)",474,328
+2026-11-14T11:20:43.585545+00:00,50486748,35,"AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",395,101
+2026-11-14T11:20:43.585545+00:00,50487762,36,Weight Space Misfolding,139,51
+2026-11-14T11:20:43.585545+00:00,50492098,37,Philip Roth and David Remnick getting personal (2001),16,1
+2026-11-14T11:20:43.585545+00:00,50487522,38,It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad,350,191
+2026-11-14T11:20:43.585545+00:00,50483959,39,CERN Built the Large Hadron Collider's Next-Gen Magnets,83,8
+2026-11-14T11:20:43.585545+00:00,50489652,40,All US airports are currently ground stopped,201,40
+2026-11-14T11:20:43.585545+00:00,50491295,41,Lying to Zed to get its remote server running on FreeBSD,28,5
+2026-11-14T11:20:43.585545+00:00,50481187,42,"Elevated errors on claude.ai, Claude Code, and platform.claude.com",488,384
+2026-11-14T11:20:43.585545+00:00,50491097,43,Claude Meetings,100,77
+2026-11-14T11:20:43.585545+00:00,50494109,44,Road Trip at the Borderland,9,0
+2026-11-14T11:20:43.585545+00:00,50486914,45,DeepSeek Ultrafast,55,10
+2026-11-14T11:20:43.585545+00:00,50480480,46,The Dawn of the Data Intelligence Engineer,150,77
+2026-11-14T11:20:43.585545+00:00,50487688,47,Microsoft outage gives customers a crash course in dependence on Redmond,166,56
+2026-11-14T11:20:43.585545+00:00,50486521,48,Concurrent Shell Command Queues,46,17
+2026-11-14T11:20:43.585545+00:00,50472038,49,Rust 1.100,883,315
+2026-11-14T11:20:43.585545+00:00,50493246,50,Beating the Frontier on NetHack,7,0
