@@ -61901,3 +61901,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-15T02:30:29.797530+00:00,50502990,48,US aviation shutdown blamed on L3 Harris installed router,4,1
 2026-11-15T02:30:29.797530+00:00,50474959,49,Reverse engineering my Coway air purifier to ditch the cloud,786,222
 2026-11-15T02:30:29.797530+00:00,50465926,50,Bilingualism and Denaskuleco,21,21
+2026-11-15T10:38:51.030331+00:00,50500963,1,SpaceX catches the Starship to end Flight 15,1237,839
+2026-11-15T10:38:51.030331+00:00,50505271,2,Why did some Apollo missions carry a grenade launcher?,23,13
+2026-11-15T10:38:51.030331+00:00,50499017,3,Lovable apps expose passport details and more than 200K private messages,832,318
+2026-11-15T10:38:51.030331+00:00,50443331,4,"A rare glimpse inside the high-risk, high-reward Hormuz trade",69,40
+2026-11-15T10:38:51.030331+00:00,50502988,5,Court denies motion to dismiss DRAM price fixing case,165,45
+2026-11-15T10:38:51.030331+00:00,50474529,6,Handwritten 200-year-old dismissal notice found on roof tile,16,4
+2026-11-15T10:38:51.030331+00:00,50501594,7,How did Woz write the Apple 1 BASIC before building the computer?,222,108
+2026-11-15T10:38:51.030331+00:00,50504277,8,Disk encryption on NetBSD – achieving secrecy,32,3
+2026-11-15T10:38:51.030331+00:00,50503465,9,My favourite modern NES games,90,9
+2026-11-15T10:38:51.030331+00:00,50484234,10,Semicircle Packing,23,3
+2026-11-15T10:38:51.030331+00:00,50504077,11,Kiri – The Modern Container Runtime,51,25
+2026-11-15T10:38:51.030331+00:00,50496976,12,KDE: The documentary [video],481,103
+2026-11-15T10:38:51.030331+00:00,50499038,13,A family tree of software job titles,316,156
+2026-11-15T10:38:51.030331+00:00,50478701,14,Memory Safety Bugs in Rust Standard Library,150,105
+2026-11-15T10:38:51.030331+00:00,50504072,15,Show HN: Gawain – Require type hints on all Python variables,54,29
+2026-11-15T10:38:51.030331+00:00,50482222,16,The Evolving Story of How Chemistry Became Biology,49,13
+2026-11-15T10:38:51.030331+00:00,50440709,17,Why get an expensive Pi when I have an old phone?,559,305
+2026-11-15T10:38:51.030331+00:00,50497892,18,PyPI's redesigned project pages with clearer security signals are now live,246,103
+2026-11-15T10:38:51.030331+00:00,50452037,19,Open-Source HF Communications for Remote Communities and Experimenters,17,2
+2026-11-15T10:38:51.030331+00:00,50483431,20,500 Lines or Less A 3D Modeller,57,9
+2026-11-15T10:38:51.030331+00:00,50503255,21,We're Asking an Appeals Court to Require a Warrant for ALPR Searches,231,65
+2026-11-15T10:38:51.030331+00:00,50503930,22,"Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",34,6
+2026-11-15T10:38:51.030331+00:00,50497589,23,Show HN: DeepSeek V3 in ~200 lines of pure Jax,234,22
+2026-11-15T10:38:51.030331+00:00,50486880,24,One Man's Quest to Create the Perfect Whiskey Glass,36,26
+2026-11-15T10:38:51.030331+00:00,50496051,25,Project Zero will disclose vulnerabilities 90 days after reporting,255,127
+2026-11-15T10:38:51.030331+00:00,50496811,26,Advancing science and engineering with Antigravity's /teamwork,201,45
+2026-11-15T10:38:51.030331+00:00,50441444,27,Generative AI uses more energy on non-English text,213,111
+2026-11-15T10:38:51.030331+00:00,50475692,28,Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt,39,6
+2026-11-15T10:38:51.030331+00:00,50455732,29,Oxford Molecular Motors,54,13
+2026-11-15T10:38:51.030331+00:00,50448895,30,The Sicilian Citrus Family Tree,84,25
+2026-11-15T10:38:51.030331+00:00,50504718,31,Book list for streetfighting computer scientists,6,0
+2026-11-15T10:38:51.030331+00:00,50502839,32,Show HN: A custom font based on the Jamaican flag alphabet,42,6
+2026-11-15T10:38:51.030331+00:00,50467278,33,Testing a trash can Faraday cage,81,59
+2026-11-15T10:38:51.030331+00:00,50453901,34,Seagate's new hybrid drive raises some old questions,97,48
+2026-11-15T10:38:51.030331+00:00,50497132,35,"Show HN: A terminal-native idle factory game, written in Rust with ratatui",156,39
+2026-11-15T10:38:51.030331+00:00,50416011,36,Reverse engineering a vintage diode-transistor logic chip,111,9
+2026-11-15T10:38:51.030331+00:00,50474883,37,Chinese frontier AI models carry the fingerprint of export-controlled GPUs,401,175
+2026-11-15T10:38:51.030331+00:00,50471874,38,"'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",145,87
+2026-11-15T10:38:51.030331+00:00,50497416,39,Demystifying phone unlocking tools: A technical overview,111,11
+2026-11-15T10:38:51.030331+00:00,50496602,40,Tech companies are trying to shift the concept of privacy again,550,188
+2026-11-15T10:38:51.030331+00:00,50478632,41,Let's Write a PostScript Interpreter,127,22
+2026-11-15T10:38:51.030331+00:00,50499723,42,"LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",252,146
+2026-11-15T10:38:51.030331+00:00,50496885,43,A visual explanation of reinforcement learning,140,8
+2026-11-15T10:38:51.030331+00:00,50503588,44,The Single Router in Southern Arkansas That Ground Air Travel to a Halt,58,38
+2026-11-15T10:38:51.030331+00:00,50505376,45,A comprehensive guide to the bank of Nvidia,6,0
+2026-11-15T10:38:51.030331+00:00,50503241,46,What a task costs on Opus 5.5,11,8
+2026-11-15T10:38:51.030331+00:00,50497137,47,Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6),79,26
+2026-11-15T10:38:51.030331+00:00,50497147,48,Show HN: Agweb – a browser for agents that stays out of your way,99,29
+2026-11-15T10:38:51.030331+00:00,50493062,49,Ggml v1.0.0,407,68
+2026-11-15T10:38:51.030331+00:00,50493904,50,Monkey Island: all 13 versions side by side,483,153
