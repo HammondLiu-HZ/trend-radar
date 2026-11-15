@@ -62001,3 +62001,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-15T17:38:31.476681+00:00,50504077,48,Kiri – The Modern Container Runtime,80,33
 2026-11-15T17:38:31.476681+00:00,50497416,49,Demystifying phone unlocking tools: A technical overview,131,15
 2026-11-15T17:38:31.476681+00:00,50496976,50,KDE: The documentary [video],544,122
+2026-11-15T22:42:19.820247+00:00,50510799,1,Your Agent Will Pick the Hackable One,47,26
+2026-11-15T22:42:19.820247+00:00,50511395,2,Old Bitly Links Are Being Hijacked,15,4
+2026-11-15T22:42:19.820247+00:00,50509308,3,A short explainer on how El Niño works [video],126,40
+2026-11-15T22:42:19.820247+00:00,50509837,4,Protomaps: Self-hosting map tiles has gotten cheap and easy,61,14
+2026-11-15T22:42:19.820247+00:00,50509023,5,'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can,113,86
+2026-11-15T22:42:19.820247+00:00,50506719,6,The MacBook Pro's OLED PWM problem,372,200
+2026-11-15T22:42:19.820247+00:00,50509416,7,Eclipse Mosquitto – An open source MQTT broker,51,19
+2026-11-15T22:42:19.820247+00:00,50510296,8,WebGL Flight Simulator with seed generated terrain,27,7
+2026-11-15T22:42:19.820247+00:00,50463399,9,Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video],274,142
+2026-11-15T22:42:19.820247+00:00,50509972,10,"Handwriting, as a Font",38,6
+2026-11-15T22:42:19.820247+00:00,50509411,11,Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests,260,134
+2026-11-15T22:42:19.820247+00:00,50506894,12,Things That Turbo Pascal Is Smaller Than (2011),173,86
+2026-11-15T22:42:19.820247+00:00,50507553,13,Emacs Is My Browser,157,80
+2026-11-15T22:42:19.820247+00:00,50506376,14,Understanding Positional Embeddings in Modern LLMs,183,23
+2026-11-15T22:42:19.820247+00:00,50510442,15,"Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",58,19
+2026-11-15T22:42:19.820247+00:00,50508715,16,Clice v1.0 Released: Welcome to Modern C++,65,40
+2026-11-15T22:42:19.820247+00:00,50452621,17,Notes on Mathematics for Engineers (1959) [pdf],58,15
+2026-11-15T22:42:19.820247+00:00,50465522,18,Aspidistra: A British wartime radio transmitter used for MitM attacks,9,0
+2026-11-15T22:42:19.820247+00:00,50465676,19,Eval Awareness vs. Eval Paranoia,38,17
+2026-11-15T22:42:19.820247+00:00,50507303,20,All AI-generated code should be Open Source,1006,555
+2026-11-15T22:42:19.820247+00:00,50488916,21,Your room can be as bright as the outdoors (2019),60,41
+2026-11-15T22:42:19.820247+00:00,50468445,22,Bullet Dodged,33,28
+2026-11-15T22:42:19.820247+00:00,50511072,23,"Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",18,7
+2026-11-15T22:42:19.820247+00:00,50505271,24,Why did some Apollo missions carry a grenade launcher? (2019),209,140
+2026-11-15T22:42:19.820247+00:00,50506588,25,A NES emulator written in Odin,95,34
+2026-11-15T22:42:19.820247+00:00,50510005,26,"Do House members' stock trades beat the market? A test of 8,900 trades",90,95
+2026-11-15T22:42:19.820247+00:00,50500963,27,SpaceX catches the Starship to end Flight 15,1615,1188
+2026-11-15T22:42:19.820247+00:00,50467539,28,20 Years of Pyrolog,66,4
+2026-11-15T22:42:19.820247+00:00,50481321,29,What thousands of conversations look like inside a language model,103,29
+2026-11-15T22:42:19.820247+00:00,50506180,30,Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business,435,188
+2026-11-15T22:42:19.820247+00:00,50510042,31,"Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",24,6
+2026-11-15T22:42:19.820247+00:00,50501594,32,How did Woz write the Apple 1 BASIC before building the computer? (2021),308,161
+2026-11-15T22:42:19.820247+00:00,50475759,33,Chasing an audio artifact on power loss,51,7
+2026-11-15T22:42:19.820247+00:00,50499017,34,Lovable apps expose passport details and more than 200K private messages,970,368
+2026-11-15T22:42:19.820247+00:00,50502988,35,Court denies motion to dismiss DRAM price fixing case,480,211
+2026-11-15T22:42:19.820247+00:00,50457979,36,How to read codes from (many) IR remote controls with as little code as possible,57,9
+2026-11-15T22:42:19.820247+00:00,50503465,37,My favourite modern NES games,196,39
+2026-11-15T22:42:19.820247+00:00,50474529,38,Handwritten 200-year-old dismissal notice found on roof tile,75,48
+2026-11-15T22:42:19.820247+00:00,50452037,39,Open-Source HF Communications for Remote Communities and Experimenters,77,12
+2026-11-15T22:42:19.820247+00:00,50506940,40,"Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",28,7
+2026-11-15T22:42:19.820247+00:00,50504277,41,Disk encryption on NetBSD – achieving secrecy,90,17
+2026-11-15T22:42:19.820247+00:00,50501887,42,How the Telephone Changed the World,46,31
+2026-11-15T22:42:19.820247+00:00,50484234,43,Semicircle Packing,98,10
+2026-11-15T22:42:19.820247+00:00,50482279,44,Show HN: Carton Clock – A working pendulum clock made from empty drink cartons,72,2
+2026-11-15T22:42:19.820247+00:00,50482222,45,The Evolving Story of How Chemistry Became Biology,101,25
+2026-11-15T22:42:19.820247+00:00,50504718,46,Book list for streetfighting computer scientists,122,41
+2026-11-15T22:42:19.820247+00:00,50483431,47,500 Lines or Less A 3D Modeller,97,19
+2026-11-15T22:42:19.820247+00:00,50510843,48,NoisyTCP,10,3
+2026-11-15T22:42:19.820247+00:00,50481056,49,Strictly monotonic timestamps and gapless sequences in Rust,37,15
+2026-11-15T22:42:19.820247+00:00,50474883,50,Chinese frontier AI models carry the fingerprint of export-controlled GPUs,428,181
