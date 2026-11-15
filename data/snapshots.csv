@@ -61951,3 +61951,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-15T10:38:51.030331+00:00,50497147,48,Show HN: Agweb – a browser for agents that stays out of your way,99,29
 2026-11-15T10:38:51.030331+00:00,50493062,49,Ggml v1.0.0,407,68
 2026-11-15T10:38:51.030331+00:00,50493904,50,Monkey Island: all 13 versions side by side,483,153
+2026-11-15T17:38:31.476681+00:00,50507303,1,All AI-generated code should be Open Source,470,286
+2026-11-15T17:38:31.476681+00:00,50506719,2,The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use,223,126
+2026-11-15T17:38:31.476681+00:00,50507553,3,Emacs Is My Browser,53,19
+2026-11-15T17:38:31.476681+00:00,50506894,4,Things That Turbo Pascal Is Smaller Than (2011),94,37
+2026-11-15T17:38:31.476681+00:00,50500963,5,SpaceX catches the Starship to end Flight 15,1497,1032
+2026-11-15T17:38:31.476681+00:00,50506376,6,Understanding Positional Embeddings in Modern LLMs,115,3
+2026-11-15T17:38:31.476681+00:00,50463399,7,Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video],78,33
+2026-11-15T17:38:31.476681+00:00,50508076,8,What Picasso taught me about building AI Agents,5,1
+2026-11-15T17:38:31.476681+00:00,50506588,9,A NES emulator written in Odin,61,11
+2026-11-15T17:38:31.476681+00:00,50502988,10,Court denies motion to dismiss DRAM price fixing case,391,170
+2026-11-15T17:38:31.476681+00:00,50505271,11,Why did some Apollo missions carry a grenade launcher?,153,110
+2026-11-15T17:38:31.476681+00:00,50467539,12,20 Years of Pyrolog,31,1
+2026-11-15T17:38:31.476681+00:00,50481321,13,What thousands of conversations look like inside a language model,67,21
+2026-11-15T17:38:31.476681+00:00,50507206,14,The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer),62,27
+2026-11-15T17:38:31.476681+00:00,50507989,15,The Atheist Bible,7,6
+2026-11-15T17:38:31.476681+00:00,50506180,16,Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business,235,97
+2026-11-15T17:38:31.476681+00:00,50507791,17,'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story,62,12
+2026-11-15T17:38:31.476681+00:00,50475759,18,Chasing an audio artifact on power loss,36,3
+2026-11-15T17:38:31.476681+00:00,50501887,19,The Telephone Changed the World,32,10
+2026-11-15T17:38:31.476681+00:00,50457979,20,How to read codes from (many) IR remote controls with as little code as possible,27,5
+2026-11-15T17:38:31.476681+00:00,50482279,21,Show HN: Carton Clock – A working pendulum clock made from empty drink cartons,44,2
+2026-11-15T17:38:31.476681+00:00,50501594,22,How did Woz write the Apple 1 BASIC before building the computer?,281,145
+2026-11-15T17:38:31.476681+00:00,50474529,23,Handwritten 200-year-old dismissal notice found on roof tile,54,37
+2026-11-15T17:38:31.476681+00:00,50503465,24,My favourite modern NES games,174,28
+2026-11-15T17:38:31.476681+00:00,50484234,25,Semicircle Packing,78,8
+2026-11-15T17:38:31.476681+00:00,50499038,26,A family tree of software job titles,396,194
+2026-11-15T17:38:31.476681+00:00,50499017,27,Lovable apps expose passport details and more than 200K private messages,945,361
+2026-11-15T17:38:31.476681+00:00,50504277,28,Disk encryption on NetBSD – achieving secrecy,83,16
+2026-11-15T17:38:31.476681+00:00,50452037,29,Open-Source HF Communications for Remote Communities and Experimenters,62,8
+2026-11-15T17:38:31.476681+00:00,50482222,30,The Evolving Story of How Chemistry Became Biology,90,20
+2026-11-15T17:38:31.476681+00:00,50497892,31,PyPI's redesigned project pages with clearer security signals are now live,265,123
+2026-11-15T17:38:31.476681+00:00,50504718,32,Book list for streetfighting computer scientists,104,40
+2026-11-15T17:38:31.476681+00:00,50508747,33,Dutch websites warn of malicious ad code that tried to hack old iPhones,3,0
+2026-11-15T17:38:31.476681+00:00,50483431,34,500 Lines or Less A 3D Modeller,89,14
+2026-11-15T17:38:31.476681+00:00,50481056,35,Strictly monotonic timestamps and gapless sequences in Rust,31,14
+2026-11-15T17:38:31.476681+00:00,50503255,36,We're Asking an Appeals Court to Require a Warrant for ALPR Searches,302,97
+2026-11-15T17:38:31.476681+00:00,50497589,37,Show HN: DeepSeek V3 in ~200 lines of pure Jax,262,24
+2026-11-15T17:38:31.476681+00:00,50506940,38,"Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",4,1
+2026-11-15T17:38:31.476681+00:00,50448895,39,The Sicilian Citrus Family Tree,102,34
+2026-11-15T17:38:31.476681+00:00,50507517,40,A Human Reads the Anthropic IPO Filing,12,8
+2026-11-15T17:38:31.476681+00:00,50474883,41,Chinese frontier AI models carry the fingerprint of export-controlled GPUs,411,178
+2026-11-15T17:38:31.476681+00:00,50471874,42,"'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",158,92
+2026-11-15T17:38:31.476681+00:00,50443331,43,"A rare glimpse inside the high-risk, high-reward Hormuz trade",97,84
+2026-11-15T17:38:31.476681+00:00,50475692,44,Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt,47,10
+2026-11-15T17:38:31.476681+00:00,50467278,45,Testing a trash can Faraday cage,86,64
+2026-11-15T17:38:31.476681+00:00,50503930,46,"Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",45,9
+2026-11-15T17:38:31.476681+00:00,50455732,47,Oxford Molecular Motors,69,17
+2026-11-15T17:38:31.476681+00:00,50504077,48,Kiri – The Modern Container Runtime,80,33
+2026-11-15T17:38:31.476681+00:00,50497416,49,Demystifying phone unlocking tools: A technical overview,131,15
+2026-11-15T17:38:31.476681+00:00,50496976,50,KDE: The documentary [video],544,122
