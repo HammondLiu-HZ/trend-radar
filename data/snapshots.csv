@@ -62051,3 +62051,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-15T22:42:19.820247+00:00,50510843,48,NoisyTCP,10,3
 2026-11-15T22:42:19.820247+00:00,50481056,49,Strictly monotonic timestamps and gapless sequences in Rust,37,15
 2026-11-15T22:42:19.820247+00:00,50474883,50,Chinese frontier AI models carry the fingerprint of export-controlled GPUs,428,181
+2026-11-16T02:40:02.496873+00:00,50511395,1,Old Bitly links are being hijacked,182,99
+2026-11-16T02:40:02.496873+00:00,50512824,2,Coles hit by a cybersecurity incident,41,17
+2026-11-16T02:40:02.496873+00:00,50513160,3,Universal XSS in uBlock Origin from website-driven element picker,21,1
+2026-11-16T02:40:02.496873+00:00,50511806,4,Preserving 30 years of Salon journalism,79,22
+2026-11-16T02:40:02.496873+00:00,50512441,5,Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack,36,6
+2026-11-16T02:40:02.496873+00:00,50509837,6,Protomaps: Self-hosting map tiles has gotten cheap and easy,185,44
+2026-11-16T02:40:02.496873+00:00,50509308,7,A short explainer on how El Niño works [video],180,82
+2026-11-16T02:40:02.496873+00:00,50509023,8,Crows make decisions faster than we can,177,128
+2026-11-16T02:40:02.496873+00:00,50506719,9,The MacBook Pro's OLED PWM problem,429,238
+2026-11-16T02:40:02.496873+00:00,50512231,10,Mini.nvim Is Now on Tangled,37,10
+2026-11-16T02:40:02.496873+00:00,50509972,11,"Handwriting, as a Font",140,36
+2026-11-16T02:40:02.496873+00:00,50510296,12,WebGL Flight Simulator with seed generated terrain,95,12
+2026-11-16T02:40:02.496873+00:00,50484998,13,Do we still have to denormalize? Have your schema and search it too,10,1
+2026-11-16T02:40:02.496873+00:00,50463399,14,Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video],351,176
+2026-11-16T02:40:02.496873+00:00,50512950,15,"""Who is Hiring?"" postings stuck near 12-year lows as AI reaches half of all jobs",48,18
+2026-11-16T02:40:02.496873+00:00,50512235,16,What's Next for Nvidia?,78,78
+2026-11-16T02:40:02.496873+00:00,50506894,17,Things That Turbo Pascal Is Smaller Than (2011),206,111
+2026-11-16T02:40:02.496873+00:00,50509411,18,Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests,412,187
+2026-11-16T02:40:02.496873+00:00,50490583,19,1900s How do you Wash a Kimono?,22,4
+2026-11-16T02:40:02.496873+00:00,50511718,20,"Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",50,6
+2026-11-16T02:40:02.496873+00:00,50509416,21,Eclipse Mosquitto – An open source MQTT broker,69,28
+2026-11-16T02:40:02.496873+00:00,50506376,22,Understanding Positional Embeddings in Modern LLMs,211,27
+2026-11-16T02:40:02.496873+00:00,50486880,23,A quest to create the perfect whiskey glass,51,50
+2026-11-16T02:40:02.496873+00:00,50507553,24,Emacs Is My Browser,183,101
+2026-11-16T02:40:02.496873+00:00,50465522,25,Aspidistra: A British wartime radio transmitter used for MitM attacks,30,4
+2026-11-16T02:40:02.496873+00:00,50508715,26,Clice v1.0 Released: Welcome to Modern C++,108,69
+2026-11-16T02:40:02.496873+00:00,50510442,27,"Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",122,68
+2026-11-16T02:40:02.496873+00:00,50452621,28,Notes on Mathematics for Engineers (1959) [pdf],75,20
+2026-11-16T02:40:02.496873+00:00,50512296,29,Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones,4,0
+2026-11-16T02:40:02.496873+00:00,50500963,30,SpaceX catches the Starship to end Flight 15,1649,1230
+2026-11-16T02:40:02.496873+00:00,50465676,31,Eval Awareness vs. Eval Paranoia,50,22
+2026-11-16T02:40:02.496873+00:00,50507303,32,All AI-generated code should be Open Source,1099,597
+2026-11-16T02:40:02.496873+00:00,50492012,33,Keylogger Detection and Containment [pdf],20,2
+2026-11-16T02:40:02.496873+00:00,50506588,34,A NES emulator written in Odin,109,42
+2026-11-16T02:40:02.496873+00:00,50511072,35,"Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",69,47
+2026-11-16T02:40:02.496873+00:00,50481321,36,What thousands of conversations look like inside a language model,116,29
+2026-11-16T02:40:02.496873+00:00,50512233,37,The efficient frontier of LLM inference,3,0
+2026-11-16T02:40:02.496873+00:00,50512218,38,"Parcel: A desktop mail client for Linux, built with Zig",4,0
+2026-11-16T02:40:02.496873+00:00,50467539,39,20 Years of Pyrolog,71,4
+2026-11-16T02:40:02.496873+00:00,50506180,40,Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business,466,211
+2026-11-16T02:40:02.496873+00:00,50482702,41,A DrRacket style editor for Clojure with some Lisp Machine inspired features,14,1
+2026-11-16T02:40:02.496873+00:00,50511763,42,"Huang Discusses Comeback as Nvidia Chief with Allies, FT Says",23,1
+2026-11-16T02:40:02.496873+00:00,50468445,43,Bullet Dodged,43,33
+2026-11-16T02:40:02.496873+00:00,50499017,44,Lovable apps expose passport details and more than 200K private messages,974,372
+2026-11-16T02:40:02.496873+00:00,50511871,45,How I Remember the Byrds,5,0
+2026-11-16T02:40:02.496873+00:00,50502988,46,Court denies motion to dismiss DRAM price fixing case,492,219
+2026-11-16T02:40:02.496873+00:00,50503465,47,My favourite modern NES games,201,40
+2026-11-16T02:40:02.496873+00:00,50511761,48,Show HN: Skillset: Easily curate and install agent skills collection,4,0
+2026-11-16T02:40:02.496873+00:00,50511982,49,Jensen Huang might return to Nvidia as CEO,144,136
+2026-11-16T02:40:02.496873+00:00,50475759,50,Chasing an audio artifact on power loss,54,7
