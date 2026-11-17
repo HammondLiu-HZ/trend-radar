@@ -62301,3 +62301,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-17T13:01:53.537145+00:00,50496787,48,"Show HN: Zigzag, a native Mac browser for people leaving Arc",84,52
 2026-11-17T13:01:53.537145+00:00,50486745,49,Researchers track whole body movement with just a smartwatch,214,76
 2026-11-17T13:01:53.537145+00:00,50521870,50,How to Intercept HTTP/3 Traffic: QUIC and Qpack,72,9
+2026-11-17T22:09:17.375834+00:00,50535230,1,GPT‑6.2 Astra and Sol,917,560
+2026-11-17T22:09:17.375834+00:00,50538240,2,Java4Shell: RCE in OpenJDK when processing Base64,117,18
+2026-11-17T22:09:17.375834+00:00,50537156,3,jQuery 4.1.0,172,75
+2026-11-17T22:09:17.375834+00:00,50535885,4,MAI Code 2 and Code 2 Flash,209,103
+2026-11-17T22:09:17.375834+00:00,50534631,5,Nvidia stopped disclosing Singapore sales as revenues hit $104B,244,128
+2026-11-17T22:09:17.375834+00:00,50536813,6,"350 years ago, Ole Rømer discovered that light has a finite speed",153,49
+2026-11-17T22:09:17.375834+00:00,50537290,7,Web Browser Engineering (2021),82,10
+2026-11-17T22:09:17.375834+00:00,50535992,8,Phrack 73 Released,182,14
+2026-11-17T22:09:17.375834+00:00,50532849,9,Highly classified US national security communications network goes down,360,479
+2026-11-17T22:09:17.375834+00:00,50536387,10,Solid 2.0,149,35
+2026-11-17T22:09:17.375834+00:00,50532118,11,Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938),88,28
+2026-11-17T22:09:17.375834+00:00,50535238,12,Apple Services Down,541,299
+2026-11-17T22:09:17.375834+00:00,50532191,13,What is the best harness for each model?,300,106
+2026-11-17T22:09:17.375834+00:00,50537120,14,Effects of a Nuclear Detonation in Low Earth Orbit,40,15
+2026-11-17T22:09:17.375834+00:00,50535208,15,Who Builds the Machines That Build the Machines?,61,18
+2026-11-17T22:09:17.375834+00:00,50536468,17,Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos,32,18
+2026-11-17T22:09:17.375834+00:00,50497872,18,Mouse Party,33,5
+2026-11-17T22:09:17.375834+00:00,50532385,19,"Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",160,27
+2026-11-17T22:09:17.375834+00:00,50530163,20,New Evidence Shows School Phone Bans Are Gradually Improving Test Scores,1090,538
+2026-11-17T22:09:17.375834+00:00,50535740,21,Not Everything Needs an LLM,36,4
+2026-11-17T22:09:17.375834+00:00,50533270,22,Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium,34,5
+2026-11-17T22:09:17.375834+00:00,50529612,23,How the Claude Code team thinks about verification,234,181
+2026-11-17T22:09:17.375834+00:00,50499520,24,Fixing a WebKit bug to see if promises are made of train tracks,21,1
+2026-11-17T22:09:17.375834+00:00,50535898,25,Advancing computer-use agents for healthcare teams,24,16
+2026-11-17T22:09:17.375834+00:00,50511657,26,Zoltraak and the Dynamics of Military Innovation,12,3
+2026-11-17T22:09:17.375834+00:00,50518328,27,First Photos of the Poles of a Rod-Shaped Bacterium,105,23
+2026-11-17T22:09:17.375834+00:00,50537962,28,Human.md,36,22
+2026-11-17T22:09:17.375834+00:00,50515291,29,Elephant-Goldfish Model,59,22
+2026-11-17T22:09:17.375834+00:00,50511874,30,VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012,203,79
+2026-11-17T22:09:17.375834+00:00,50536031,31,"Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",83,80
+2026-11-17T22:09:17.375834+00:00,50522980,32,Carnegie Mellon is putting computer science courses on YouTube for free,2258,307
+2026-11-17T22:09:17.375834+00:00,50470523,33,"Rows vs. Columns: How different are they, really?",151,51
+2026-11-17T22:09:17.375834+00:00,50517375,34,Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs,48,3
+2026-11-17T22:09:17.375834+00:00,50532773,35,Antfly learned to stop worrying and love Apache 2.0,47,11
+2026-11-17T22:09:17.375834+00:00,50509456,36,Turbo Pascal Compiler Written in Turbo Pascal,103,40
+2026-11-17T22:09:17.375834+00:00,50538449,37,Ask HN: Aren't the current cyber attacks suspicious?,10,11
+2026-11-17T22:09:17.375834+00:00,50526560,38,If an App Asks for Full Disk Access or System and App Protection Override,237,122
+2026-11-17T22:09:17.375834+00:00,50512779,39,Nimony: A New Compiler for Nim,175,93
+2026-11-17T22:09:17.375834+00:00,50538555,40,"Uncontacted Awá people approach government post in Brazil, ask for food",8,1
+2026-11-17T22:09:17.375834+00:00,50537580,41,Apple faces French trial over alleged planned obsolescence of iPhones,14,2
+2026-11-17T22:09:17.375834+00:00,50535268,42,"iCloud, App Store, and other Apple services hit by ongoing outage",68,24
+2026-11-17T22:09:17.375834+00:00,50536565,43,Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC,39,9
+2026-11-17T22:09:17.375834+00:00,50508845,44,Japan's Hometown Tax (2018),123,70
+2026-11-17T22:09:17.375834+00:00,50530114,45,My Empire of Dirt,113,150
+2026-11-17T22:09:17.375834+00:00,50537745,46,CA DMV bans Waymos from operating on state freeways after Bay Area incidents,14,2
+2026-11-17T22:09:17.375834+00:00,50532086,47,"We don't need more apps, we need better open source",334,228
+2026-11-17T22:09:17.375834+00:00,50509100,48,"Witches, vampires, ancient aliens–you'll find them all in Malta",21,3
+2026-11-17T22:09:17.375834+00:00,50497656,49,Too Many Stadiums with Roofs,47,51
+2026-11-17T22:09:17.375834+00:00,50496787,50,"Show HN: Zigzag, a native Mac browser for people leaving Arc",108,64
