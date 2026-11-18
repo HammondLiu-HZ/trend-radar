@@ -62350,3 +62350,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-17T22:09:17.375834+00:00,50509100,48,"Witches, vampires, ancient aliens–you'll find them all in Malta",21,3
 2026-11-17T22:09:17.375834+00:00,50497656,49,Too Many Stadiums with Roofs,47,51
 2026-11-17T22:09:17.375834+00:00,50496787,50,"Show HN: Zigzag, a native Mac browser for people leaving Arc",108,64
+2026-11-18T04:07:24.874609+00:00,50538240,1,Java4Shell: RCE in OpenJDK when processing Base64,630,164
+2026-11-18T04:07:24.874609+00:00,50540437,2,ID.me terms required for IRS sign-in,183,66
+2026-11-18T04:07:24.874609+00:00,50540178,3,Google's AI answers reducing search traffic by 40%,171,114
+2026-11-18T04:07:24.874609+00:00,50535230,4,GPT‑6.2 Astra and Sol,1149,727
+2026-11-18T04:07:24.874609+00:00,50538994,5,Quad9's withdrawal from France: A canary in the coal mine,358,114
+2026-11-18T04:07:24.874609+00:00,50539747,6,"Archive Team is archiving the Apple Support Community (closes November 20, 2026)",114,45
+2026-11-18T04:07:24.874609+00:00,50539610,8,Microsoft's ONNX Runtime has disappeared from GitHub,176,42
+2026-11-18T04:07:24.874609+00:00,50534631,9,Nvidia stopped disclosing Singapore sales as revenues hit $104B,429,211
+2026-11-18T04:07:24.874609+00:00,50537156,10,jQuery 4.1.0,270,149
+2026-11-18T04:07:24.874609+00:00,50532849,11,Highly classified US national security communications network goes down,512,586
+2026-11-18T04:07:24.874609+00:00,50535885,12,MAI Code 2 and Code 2 Flash,308,141
+2026-11-18T04:07:24.874609+00:00,50535992,13,Phrack 73 Released,308,46
+2026-11-18T04:07:24.874609+00:00,50536813,14,"350 years ago, Ole Rømer discovered that light has a finite speed",271,82
+2026-11-18T04:07:24.874609+00:00,50538303,15,Harvard researchers find AI coding agents shifted the bottleneck to code review,89,137
+2026-11-18T04:07:24.874609+00:00,50540472,16,Cerebras Disaggregated Inference,42,13
+2026-11-18T04:07:24.874609+00:00,50536387,17,Solid 2.0,252,71
+2026-11-18T04:07:24.874609+00:00,50503492,18,Fun with Constrained Programming,27,0
+2026-11-18T04:07:24.874609+00:00,50532191,19,What is the best harness for each model?,344,120
+2026-11-18T04:07:24.874609+00:00,50541542,20,Engineering Vitals in the Age of AI,3,0
+2026-11-18T04:07:24.874609+00:00,50538184,21,Tencent Hy4 Flash,78,11
+2026-11-18T04:07:24.874609+00:00,50536468,22,Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos,62,35
+2026-11-18T04:07:24.874609+00:00,50537290,23,Web Browser Engineering (2021),135,20
+2026-11-18T04:07:24.874609+00:00,50535238,24,Apple Services Down,649,360
+2026-11-18T04:07:24.874609+00:00,50535740,25,Not Everything Needs an LLM,114,45
+2026-11-18T04:07:24.874609+00:00,50539039,26,Latent Lattice Language Models,33,4
+2026-11-18T04:07:24.874609+00:00,50497903,27,"Adopting Python 3.15's lazy imports: a 4× faster CLI, and where they didn't help",5,2
+2026-11-18T04:07:24.874609+00:00,50535208,28,Who Builds the Machines That Build the Machines?,111,34
+2026-11-18T04:07:24.874609+00:00,50537120,29,Effects of a Nuclear Detonation in Low Earth Orbit,88,62
+2026-11-18T04:07:24.874609+00:00,50497872,30,Mouse Party,76,14
+2026-11-18T04:07:24.874609+00:00,50529612,31,How the Claude Code team thinks about verification,275,219
+2026-11-18T04:07:24.874609+00:00,50530163,32,New Evidence Shows School Phone Bans Are Gradually Improving Test Scores,1195,594
+2026-11-18T04:07:24.874609+00:00,50541613,33,Climate change is making some African deserts greener,5,0
+2026-11-18T04:07:24.874609+00:00,50532385,34,"Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",181,33
+2026-11-18T04:07:24.874609+00:00,50540836,35,"Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",30,12
+2026-11-18T04:07:24.874609+00:00,50522980,36,Carnegie Mellon is putting computer science courses on YouTube for free,2291,313
+2026-11-18T04:07:24.874609+00:00,50533270,37,Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium,46,7
+2026-11-18T04:07:24.874609+00:00,50535898,38,Advancing computer-use agents for healthcare teams,45,29
+2026-11-18T04:07:24.874609+00:00,50518328,39,First Photos of the Poles of a Rod-Shaped Bacterium,108,23
+2026-11-18T04:07:24.874609+00:00,50537962,40,Human.md,79,54
+2026-11-18T04:07:24.874609+00:00,50504105,41,Munich Laser Emits a Beam of Matter Waves (1999),11,5
+2026-11-18T04:07:24.874609+00:00,50515291,42,Elephant-Goldfish Model,81,30
+2026-11-18T04:07:24.874609+00:00,50511874,43,VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012,215,88
+2026-11-18T04:07:24.874609+00:00,50511657,44,Zoltraak and the Dynamics of Military Innovation,46,13
+2026-11-18T04:07:24.874609+00:00,50502957,45,Nozzle: A streaming library that emits when possible and buffers where necessary,10,1
+2026-11-18T04:07:24.874609+00:00,50470523,46,"Rows vs. Columns: How different are they, really?",162,54
+2026-11-18T04:07:24.874609+00:00,50499520,47,Fixing a WebKit bug to see if promises are made of train tracks,32,1
+2026-11-18T04:07:24.874609+00:00,50541023,48,Did IBM originally plan to use the 68000 in the PC? (2020),8,2
+2026-11-18T04:07:24.874609+00:00,50509456,49,Turbo Pascal Compiler Written in Turbo Pascal,108,42
+2026-11-18T04:07:24.874609+00:00,50512779,50,Nimony: A New Compiler for Nim,185,99
