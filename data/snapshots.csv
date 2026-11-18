@@ -62399,3 +62399,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-18T04:07:24.874609+00:00,50541023,48,Did IBM originally plan to use the 68000 in the PC? (2020),8,2
 2026-11-18T04:07:24.874609+00:00,50509456,49,Turbo Pascal Compiler Written in Turbo Pascal,108,42
 2026-11-18T04:07:24.874609+00:00,50512779,50,Nimony: A New Compiler for Nim,185,99
+2026-11-18T13:46:26.882603+00:00,50545958,1,Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy,36,0
+2026-11-18T13:46:26.882603+00:00,50543989,2,Energy-Based Reasoners: 385x more efficient inference,159,23
+2026-11-18T13:46:26.882603+00:00,50504373,3,A Perfect SimCity,88,17
+2026-11-18T13:46:26.882603+00:00,50538240,4,Java4Shell: RCE in OpenJDK when processing Base64,1037,275
+2026-11-18T13:46:26.882603+00:00,50540178,5,Google's AI answers reducing search traffic by 40%,541,400
+2026-11-18T13:46:26.882603+00:00,50538994,6,Quad9's withdrawal from France: A canary in the coal mine,753,322
+2026-11-18T13:46:26.882603+00:00,50540437,7,ID.me terms required for IRS sign-in,402,202
+2026-11-18T13:46:26.882603+00:00,50509141,8,"IPv6 delegation, an unusually subtle failure mode",22,6
+2026-11-18T13:46:26.882603+00:00,50541790,9,Why is Gemini 4 Carbon taking so long?,175,88
+2026-11-18T13:46:26.882603+00:00,50534631,11,Nvidia stopped disclosing Singapore sales as revenues hit $104B,612,270
+2026-11-18T13:46:26.882603+00:00,50517929,12,My Emacs 31 contributions,65,6
+2026-11-18T13:46:26.882603+00:00,50539610,13,Microsoft's ONNX Runtime has disappeared from GitHub,377,79
+2026-11-18T13:46:26.882603+00:00,50532849,14,Highly classified US national security communications network goes down,630,708
+2026-11-18T13:46:26.882603+00:00,50539747,15,Archive Team is archiving the Apple Support Community,227,87
+2026-11-18T13:46:26.882603+00:00,50544821,16,Show HN: Type Fighter 2,17,6
+2026-11-18T13:46:26.882603+00:00,50538303,17,Harvard researchers find AI coding agents shifted the bottleneck to code review,233,321
+2026-11-18T13:46:26.882603+00:00,50535885,18,MAI Code 2 and Code 2 Flash,383,155
+2026-11-18T13:46:26.882603+00:00,50536813,19,"350 years ago, Ole Rømer discovered that light has a finite speed",361,119
+2026-11-18T13:46:26.882603+00:00,50535992,20,Phrack 73,425,59
+2026-11-18T13:46:26.882603+00:00,50537156,21,jQuery 4.1.0,347,178
+2026-11-18T13:46:26.882603+00:00,50507918,22,When AI Knows More Than It Can Offer,3,0
+2026-11-18T13:46:26.882603+00:00,50542705,23,AI is killing All About Berlin,535,508
+2026-11-18T13:46:26.882603+00:00,50541619,24,Claude was trained on protein sequences at scale,103,43
+2026-11-18T13:46:26.882603+00:00,50535230,25,GPT‑6.2 Astra and Sol,1302,813
+2026-11-18T13:46:26.882603+00:00,50536387,26,Solid 2.0,337,106
+2026-11-18T13:46:26.882603+00:00,50544261,27,Codeberg.org Not Reachable,252,241
+2026-11-18T13:46:26.882603+00:00,50536468,28,Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos,84,40
+2026-11-18T13:46:26.882603+00:00,50532191,29,What is the best harness for each model?,399,129
+2026-11-18T13:46:26.882603+00:00,50542264,30,Why Fibonacci?,58,10
+2026-11-18T13:46:26.882603+00:00,50538184,31,Tencent Hy4 Flash,142,24
+2026-11-18T13:46:26.882603+00:00,50540472,32,Cerebras Disaggregated Inference,92,24
+2026-11-18T13:46:26.882603+00:00,50517410,33,Show HN: Unref – A Python dead code finder built on Ruff's parser,48,10
+2026-11-18T13:46:26.882603+00:00,50503492,34,Fun with Constrained Programming (2012),90,4
+2026-11-18T13:46:26.882603+00:00,50542863,35,Australia's full national topographic library at your fingertips,36,13
+2026-11-18T13:46:26.882603+00:00,50537290,36,Web Browser Engineering (2021),182,26
+2026-11-18T13:46:26.882603+00:00,50535740,37,Not Everything Needs an LLM,166,71
+2026-11-18T13:46:26.882603+00:00,50542137,38,Classical Energies Learn to Reason 1k× Faster Than Looped Models,15,0
+2026-11-18T13:46:26.882603+00:00,50535238,39,Apple Services Down,699,392
+2026-11-18T13:46:26.882603+00:00,50503899,40,Flattening Every Memory Peak in Long-Context Mixture-of-Experts Training,9,1
+2026-11-18T13:46:26.882603+00:00,50530163,41,New Evidence Shows School Phone Bans Are Gradually Improving Test Scores,1259,627
+2026-11-18T13:46:26.882603+00:00,50543432,42,Show HN: Math 2.0,8,1
+2026-11-18T13:46:26.882603+00:00,50522980,43,Carnegie Mellon is putting computer science courses on YouTube for free,2330,317
+2026-11-18T13:46:26.882603+00:00,50544541,44,Voyager 1 hits one light day from Earth,28,8
+2026-11-18T13:46:26.882603+00:00,50535208,45,Who Builds the Machines That Build the Machines?,132,40
+2026-11-18T13:46:26.882603+00:00,50543343,46,Talos Linux,89,47
+2026-11-18T13:46:26.882603+00:00,50532385,47,"Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",202,36
+2026-11-18T13:46:26.882603+00:00,50507474,48,Alkaline batteries are obsolete – but not for the reason you'd think [video],24,25
+2026-11-18T13:46:26.882603+00:00,50539039,49,Latent Lattice Language Models,54,5
+2026-11-18T13:46:26.882603+00:00,50497872,50,Mouse Party,92,16
