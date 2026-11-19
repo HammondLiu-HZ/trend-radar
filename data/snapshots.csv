@@ -62596,3 +62596,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-19T12:46:21.928123+00:00,50532515,48,"Show HN: An API for word timestamps from speech, 75% within 20ms",28,5
 2026-11-19T12:46:21.928123+00:00,50549493,49,Advancing chip design with OpenAI models,212,152
 2026-11-19T12:46:21.928123+00:00,50546922,50,A Primer on Fourier Series (2025),127,34
+2026-11-19T21:19:54.500674+00:00,50562754,1,Anthropic hits $2T in Nasdaq debut,612,1009
+2026-11-19T21:19:54.500674+00:00,50563066,2,Pancreatic cancer halted by virus injection in three patients,255,23
+2026-11-19T21:19:54.500674+00:00,50563148,3,Claude solves two open problems in the physics of black holes,275,107
+2026-11-19T21:19:54.500674+00:00,50519231,4,Garage Door Spam,644,268
+2026-11-19T21:19:54.500674+00:00,50564159,5,The 98% Slot Machine: How Paid Advertising Became an Extraction Tax,91,45
+2026-11-19T21:19:54.500674+00:00,50561515,6,Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest,146,64
+2026-11-19T21:19:54.500674+00:00,50562113,7,UK government forced to admit it issued Apple a secret encryption order,352,161
+2026-11-19T21:19:54.500674+00:00,50558906,8,Someone reported java4shell bug in September 2026,293,80
+2026-11-19T21:19:54.500674+00:00,50562320,9,Launch HN: Onlook (YC W25) – An open-source developer tool for designers,60,58
+2026-11-19T21:19:54.500674+00:00,50517657,10,Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches,13,0
+2026-11-19T21:19:54.500674+00:00,50564366,11,Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video],30,45
+2026-11-19T21:19:54.500674+00:00,50559719,12,Making 8-page foldable zines from a single A4 sheet in the browser,189,43
+2026-11-19T21:19:54.500674+00:00,50561508,13,"Pete warden on local AI, open models, voice interfaces, the future of hardware",181,166
+2026-11-19T21:19:54.500674+00:00,50547048,14,Nintendo takes Picofly firmware down from GitHub [video],227,85
+2026-11-19T21:19:54.500674+00:00,50558533,15,How the European Commission rolled out Matrix to more than 40k staff,617,297
+2026-11-19T21:19:54.500674+00:00,50556287,16,Ruby2ßhell: Pre-authentication RCE on stock Rails,355,148
+2026-11-19T21:19:54.500674+00:00,50557870,17,What's New in PHP 8.6,253,121
+2026-11-19T21:19:54.500674+00:00,50536950,18,An Oregon library ditched Dewey Decimal and got people excited about books again,156,112
+2026-11-19T21:19:54.500674+00:00,50557661,19,"Do not buy RAM, compress",198,170
+2026-11-19T21:19:54.500674+00:00,50561170,20,How to Make the Ink Used to Write Hamlet and the Declaration of Independence,55,24
+2026-11-19T21:19:54.500674+00:00,50559179,21,Unblockable communication with gravity,111,37
+2026-11-19T21:19:54.500674+00:00,50521083,22,Adding Fortran Support to LLDB (GSoC 2026),13,4
+2026-11-19T21:19:54.500674+00:00,50557537,23,"Distributed, high-performance blob storage on SQLite",229,64
+2026-11-19T21:19:54.500674+00:00,50560822,24,Everything you need to survive and rebuild society,296,160
+2026-11-19T21:19:54.500674+00:00,50560955,25,"Cooling buildings is overtaking heating them as an energy need, IEA says",132,88
+2026-11-19T21:19:54.500674+00:00,50562262,26,Fuck Your AI Safeguards,337,125
+2026-11-19T21:19:54.500674+00:00,50556533,27,"15M web servers on one VM – smoltcp, DPDK, AF_XDP",354,40
+2026-11-19T21:19:54.500674+00:00,50518596,28,I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020),28,3
+2026-11-19T21:19:54.500674+00:00,50562636,29,Chrome AI features wasting much bandwidth,99,38
+2026-11-19T21:19:54.500674+00:00,50517783,30,Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising,14,1
+2026-11-19T21:19:54.500674+00:00,50561436,31,Show HN: Watch weight-space programming in action with WebGPU,31,3
+2026-11-19T21:19:54.500674+00:00,50557716,32,SSD prices may begin to decline in the latter half of 2027,289,221
+2026-11-19T21:19:54.500674+00:00,50503743,33,It's all about the allocator,46,13
+2026-11-19T21:19:54.500674+00:00,50565631,34,"JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack",15,1
+2026-11-19T21:19:54.500674+00:00,50562500,35,AI isn't replacing your job. It's turning it into low-paid gig work,77,36
+2026-11-19T21:19:54.500674+00:00,50552424,36,Gemini 4 Neon,1000,752
+2026-11-19T21:19:54.500674+00:00,50548660,37,"Show HN: Mastra Factory, the open-source software factory we use to build Mastra",136,41
+2026-11-19T21:19:54.500674+00:00,50548808,38,Teaching robots to carve marble sculptures,111,87
+2026-11-19T21:19:54.500674+00:00,50563328,39,AI Came for the Coders. Understanding Why Tells Us Who's Next,10,5
+2026-11-19T21:19:54.500674+00:00,50547374,40,Unauthenticated remote code execution in Nginx,1478,630
+2026-11-19T21:19:54.500674+00:00,50560461,41,OpenAI still has a WebRTC Problem,89,25
+2026-11-19T21:19:54.500674+00:00,50562101,42,Google Chrome dev team declares bug report bankruptcy (2012),85,39
+2026-11-19T21:19:54.500674+00:00,50558559,43,"Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2",107,42
+2026-11-19T21:19:54.500674+00:00,50564282,44,"No Bailout for the AI Bubble, Anthropic IPO Protesters Say",23,5
+2026-11-19T21:19:54.500674+00:00,50562242,45,US Intelligence Hawks Plot to Sneak Through Warrantless Spying,36,4
+2026-11-19T21:19:54.500674+00:00,50519778,46,Logitech Harmony IR code online database archive,75,22
+2026-11-19T21:19:54.500674+00:00,50525260,47,Dumping an AES key from a MyQ garage opener to stop rebooting when offline,156,62
+2026-11-19T21:19:54.500674+00:00,50544168,48,C's designated initializers give us named arguments,60,45
+2026-11-19T21:19:54.500674+00:00,50517477,49,From data to silicon: play Connect-4 against a chip,11,7
+2026-11-19T21:19:54.500674+00:00,50565099,50,Show HN: IT Thinks – Build a GPU from a Single NAND Gate,10,0
