@@ -62746,3 +62746,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-20T11:19:42.792357+00:00,50559179,48,Unblockable communication with gravity,165,64
 2026-11-20T11:19:42.792357+00:00,50557537,49,"Distributed, high-performance blob storage on SQLite",281,72
 2026-11-20T11:19:42.792357+00:00,50569783,50,Mapping every neuron in Qwen3-8B,21,2
+2026-11-20T19:56:13.659747+00:00,50579568,1,Hurried Announcement: Alessandro Masullo GRH,533,185
+2026-11-20T19:56:13.659747+00:00,50574968,2,Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf],1933,1303
+2026-11-20T19:56:13.659747+00:00,50577265,3,Language Models Can Rewrite Their Own Weights,233,90
+2026-11-20T19:56:13.659747+00:00,50578358,4,Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis,131,24
+2026-11-20T19:56:13.659747+00:00,50579331,5,We promoted developers into architects without informing them,76,37
+2026-11-20T19:56:13.659747+00:00,50576232,6,Finite-time blow-up for the Navier–Stokes equations,179,55
+2026-11-20T19:56:13.659747+00:00,50579297,7,Vibecoding an Inference Chip,38,11
+2026-11-20T19:56:13.659747+00:00,50572355,8,"If you can't explain something in simple terms, you don't understand it (2017)",527,265
+2026-11-20T19:56:13.659747+00:00,50572503,9,"Frostbite: A new CPU architecture discovered, designed and verified by AI",541,290
+2026-11-20T19:56:13.659747+00:00,50572348,10,Signal Is Serious About Protecting Your Privacy,359,221
+2026-11-20T19:56:13.659747+00:00,50577613,11,"I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",62,88
+2026-11-20T19:56:13.659747+00:00,50578233,12,Running two PSP emulators on one Switch 2 and sharing one via GameShare,35,0
+2026-11-20T19:56:13.659747+00:00,50526023,13,Show HN: I made an audio-to-MIDI model 60x more efficient,182,34
+2026-11-20T19:56:13.659747+00:00,50578117,14,PostgreSQL 19: A hands-on tour with runnable browser examples,24,1
+2026-11-20T19:56:13.659747+00:00,50577901,15,Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI,119,62
+2026-11-20T19:56:13.659747+00:00,50546365,16,Why YC Series A rounds fell off a cliff,58,33
+2026-11-20T19:56:13.659747+00:00,50575644,17,Why there are still no non-WebKit browsers on iOS,256,130
+2026-11-20T19:56:13.659747+00:00,50527444,18,The G1 Garbage Collector,73,30
+2026-11-20T19:56:13.659747+00:00,50545262,19,Teskooano: A 3D N-body simulator in the browser,7,0
+2026-11-20T19:56:13.659747+00:00,50560595,20,Floppy3.5: A portable 3.5-inch floppy WiFi NAS,112,49
+2026-11-20T19:56:13.659747+00:00,50546676,21,LZ-RDO lands in ARM's astc-encoder,4,0
+2026-11-20T19:56:13.659747+00:00,50572822,22,The Making of Oxygene,173,63
+2026-11-20T19:56:13.659747+00:00,50580385,23,"GrapheneOS claims Google is now waging war against it, could lock Pixel bootload",22,6
+2026-11-20T19:56:13.659747+00:00,50576855,24,I'll never buy Framework hardware again,707,457
+2026-11-20T19:56:13.659747+00:00,50531009,25,Lovable: Now you can explore any idea in parallel without touching what's live,26,15
+2026-11-20T19:56:13.659747+00:00,50569226,26,"OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",356,313
+2026-11-20T19:56:13.659747+00:00,50561199,27,Show HN: Fast deterministic natural language search for OpenStreetMap data,112,32
+2026-11-20T19:56:13.659747+00:00,50572448,28,"What people are building, discovered through new domains",139,68
+2026-11-20T19:56:13.659747+00:00,50573886,29,"If you stop writing code, you also get worse at reviewing it",275,131
+2026-11-20T19:56:13.659747+00:00,50578794,30,Anthropic shares tank after IPO as the Nasdaq erases 2026 gains,126,101
+2026-11-20T19:56:13.659747+00:00,50572116,31,Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019),465,292
+2026-11-20T19:56:13.659747+00:00,50569998,32,FFmpeg 9.1 'Gauss',277,35
+2026-11-20T19:56:13.659747+00:00,50545818,33,µ-Wire – USB on an ATtiny 10,111,17
+2026-11-20T19:56:13.659747+00:00,50563148,34,Claude solves two open problems in the physics of black holes,546,265
+2026-11-20T19:56:13.659747+00:00,50569516,35,"Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",173,29
+2026-11-20T19:56:13.659747+00:00,50528119,36,How to CAD Almost Anything,372,137
+2026-11-20T19:56:13.659747+00:00,50580377,37,Judge: DHS's Seizure Of Immigration Lawyer's Phone Likely Violated 1st Amendment,12,1
+2026-11-20T19:56:13.659747+00:00,50572430,38,UK fridges secured from hackers,141,133
+2026-11-20T19:56:13.659747+00:00,50523241,39,The Strongest Sokoban Solver,132,28
+2026-11-20T19:56:13.659747+00:00,50569890,40,PostgreSQL 19,361,22
+2026-11-20T19:56:13.659747+00:00,50563066,41,Pancreatic cancer halted by virus injection in three patients,862,151
+2026-11-20T19:56:13.659747+00:00,50568861,42,Vint Cerf on why TCP/IP was never patented,151,87
+2026-11-20T19:56:13.659747+00:00,50569519,43,What Comes After AGI?,148,296
+2026-11-20T19:56:13.659747+00:00,50579237,44,European rights court bars Romanian lawyer for 2 years over AI citations,17,2
+2026-11-20T19:56:13.659747+00:00,50571189,45,"""I can tell you wrote this yourself""",387,380
+2026-11-20T19:56:13.659747+00:00,50576012,46,Slopstrap – Make your site look hastily vibecoded,18,2
+2026-11-20T19:56:13.659747+00:00,50567209,47,Synology Security Advisory,178,136
+2026-11-20T19:56:13.659747+00:00,50562320,48,Launch HN: Onlook (YC W25) – An open-source developer tool for designers,122,84
+2026-11-20T19:56:13.659747+00:00,50541568,49,Show HN: Tinnitus frequency finder and audio notch tool,134,96
+2026-11-20T19:56:13.659747+00:00,50580117,50,Google says it's going to shut off Google Assistant on smart speakers next year,6,3
