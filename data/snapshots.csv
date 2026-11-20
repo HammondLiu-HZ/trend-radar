@@ -62696,3 +62696,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-20T02:57:10.862688+00:00,50547374,48,Unauthenticated remote code execution in Nginx,1485,637
 2026-11-20T02:57:10.862688+00:00,50548808,49,Teaching robots to carve marble sculptures,119,88
 2026-11-20T02:57:10.862688+00:00,50568116,50,Prepaid gas bonds: A differentiated source of tax-exempt income,4,2
+2026-11-20T11:19:42.792357+00:00,50572503,1,"Frostbite: A new CPU architecture discovered, designed and verified by AI",86,61
+2026-11-20T11:19:42.792357+00:00,50572116,2,Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars,39,15
+2026-11-20T11:19:42.792357+00:00,50572355,3,"If you can't explain something in simple terms, you don't understand it (2017)",23,7
+2026-11-20T11:19:42.792357+00:00,50569226,4,"OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",272,215
+2026-11-20T11:19:42.792357+00:00,50523241,5,The Strongest Sokoban Solver,67,14
+2026-11-20T11:19:42.792357+00:00,50545818,6,µ-Wire – USB on an ATtiny 10,44,1
+2026-11-20T11:19:42.792357+00:00,50569998,7,FFmpeg 9.1 'Gauss',154,25
+2026-11-20T11:19:42.792357+00:00,50569516,8,"Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",113,11
+2026-11-20T11:19:42.792357+00:00,50572822,9,The Making of Oxygene,4,1
+2026-11-20T11:19:42.792357+00:00,50571189,10,"""I can tell you wrote this yourself""",200,203
+2026-11-20T11:19:42.792357+00:00,50541568,11,Show HN: Tinnitus frequency finder and audio notch tool,14,8
+2026-11-20T11:19:42.792357+00:00,50563148,12,Claude solves two open problems in the physics of black holes,509,237
+2026-11-20T11:19:42.792357+00:00,50519231,13,Garage Door Spam,879,373
+2026-11-20T11:19:42.792357+00:00,50569890,14,PostgreSQL 19,222,10
+2026-11-20T11:19:42.792357+00:00,50570628,15,Jujutsu Primer,128,86
+2026-11-20T11:19:42.792357+00:00,50528119,16,How to CAD Almost Anything,275,94
+2026-11-20T11:19:42.792357+00:00,50568861,17,Vint Cerf on why TCP/IP was never patented,114,54
+2026-11-20T11:19:42.792357+00:00,50500000,18,Show HN: Radiotherapy Delivery Demo,3,0
+2026-11-20T11:19:42.792357+00:00,50569519,19,What Comes After AGI?,72,134
+2026-11-20T11:19:42.792357+00:00,50521512,20,Bit Shifting in Basic,45,2
+2026-11-20T11:19:42.792357+00:00,50567209,21,Synology Security Advisory,156,117
+2026-11-20T11:19:42.792357+00:00,50572430,22,UK fridges secured from hackers in secret nationwide operation,41,23
+2026-11-20T11:19:42.792357+00:00,50563066,23,Pancreatic cancer halted by virus injection in three patients,788,136
+2026-11-20T11:19:42.792357+00:00,50564159,24,The 98% Slot Machine: How Paid Advertising Became an Extraction Tax,303,154
+2026-11-20T11:19:42.792357+00:00,50561508,25,"Pete Warden on local AI, open models, voice interfaces, the future of hardware",252,222
+2026-11-20T11:19:42.792357+00:00,50541018,26,Can I borrow a lunar rover? (2013),7,5
+2026-11-20T11:19:42.792357+00:00,50538977,27,Weight-Space Programming builds neural networks like a 1990s researcher,96,8
+2026-11-20T11:19:42.792357+00:00,50562754,28,Anthropic’s Nasdaq debut,1090,2160
+2026-11-20T11:19:42.792357+00:00,50558906,29,Someone reported java4shell bug in September 2026,430,120
+2026-11-20T11:19:42.792357+00:00,50537492,30,Automatic Checking of Compiler Correctness with E-Graphs,40,0
+2026-11-20T11:19:42.792357+00:00,50562320,31,Launch HN: Onlook (YC W25) – An open-source developer tool for designers,119,83
+2026-11-20T11:19:42.792357+00:00,50522471,32,"Frankenstein PBC – Animation, bestowed upon lifeless matter",32,11
+2026-11-20T11:19:42.792357+00:00,50568548,33,ChatGPT for SNES,96,27
+2026-11-20T11:19:42.792357+00:00,50559719,34,Making 8-page foldable zines from a single A4 sheet in the browser,311,61
+2026-11-20T11:19:42.792357+00:00,50561515,35,Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest,225,104
+2026-11-20T11:19:42.792357+00:00,50564366,36,Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video],107,219
+2026-11-20T11:19:42.792357+00:00,50547048,37,Nintendo takes Picofly firmware down from GitHub [video],295,116
+2026-11-20T11:19:42.792357+00:00,50536950,38,An Oregon library ditched Dewey Decimal and got people excited about books again,233,167
+2026-11-20T11:19:42.792357+00:00,50562113,39,UK government forced to admit it issued Apple a secret encryption order,656,308
+2026-11-20T11:19:42.792357+00:00,50557661,40,"Do not buy RAM, compress",303,243
+2026-11-20T11:19:42.792357+00:00,50572885,41,Vim Classic 8.3.1 Released,5,0
+2026-11-20T11:19:42.792357+00:00,50567374,42,RegExr: Temporarily Offline,81,39
+2026-11-20T11:19:42.792357+00:00,50558533,43,How the European Commission rolled out Matrix to more than 40k staff,703,356
+2026-11-20T11:19:42.792357+00:00,50566261,44,Rebuilding my local voice assistant pipeline,110,17
+2026-11-20T11:19:42.792357+00:00,50557870,45,What's New in PHP 8.6,289,136
+2026-11-20T11:19:42.792357+00:00,50572217,46,Infinite scroll and autoplay are fuelling a global problem,13,3
+2026-11-20T11:19:42.792357+00:00,50530132,47,Talking Venice with Mahesh Subramony at AMD In-Depth,32,0
+2026-11-20T11:19:42.792357+00:00,50559179,48,Unblockable communication with gravity,165,64
+2026-11-20T11:19:42.792357+00:00,50557537,49,"Distributed, high-performance blob storage on SQLite",281,72
+2026-11-20T11:19:42.792357+00:00,50569783,50,Mapping every neuron in Qwen3-8B,21,2
