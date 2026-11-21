@@ -62946,3 +62946,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-21T17:17:48.549709+00:00,50549753,48,Acoustic parameters of bird vocalizations&their perceived pleasantness by humans,7,0
 2026-11-21T17:17:48.549709+00:00,50577613,49,"I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",120,176
 2026-11-21T17:17:48.549709+00:00,50543887,50,Microsoft's SideWinder Strategic Commander was a failed attempt,24,9
+2026-11-21T22:59:56.293950+00:00,50582069,1,Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades',369,111
+2026-11-21T22:59:56.293950+00:00,50591853,2,Inkling-2-Mini in 5.4 GB Memory,299,75
+2026-11-21T22:59:56.293950+00:00,50589618,3,Lean verification of the Riemann Hypothesis,727,578
+2026-11-21T22:59:56.293950+00:00,50588982,4,Detonating a pile of lead azide,473,309
+2026-11-21T22:59:56.293950+00:00,50583028,5,Getting the mind to steer the body to steer you,93,36
+2026-11-21T22:59:56.293950+00:00,50532613,6,Brazil's tax authority open-sources its tax calculator on GitHub under MIT,674,217
+2026-11-21T22:59:56.293950+00:00,50594132,7,PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors,11,1
+2026-11-21T22:59:56.293950+00:00,50560203,8,"Windows has two settings that bring work back after restart, both off by default",13,6
+2026-11-21T22:59:56.293950+00:00,50579568,9,Hurried Announcement: Alessandro Masullo GRH,2376,1150
+2026-11-21T22:59:56.293950+00:00,50587875,11,My monitor was cutting my download speed by 75%,424,213
+2026-11-21T22:59:56.293950+00:00,50591260,12,PostgreSQL Extensions in Go,105,14
+2026-11-21T22:59:56.293950+00:00,50593637,13,The Emergence of Inequality in the Czech Corded Ware Culture,11,4
+2026-11-21T22:59:56.293950+00:00,50532417,14,Tropical Rainforests Species may be surprisingly young,33,13
+2026-11-21T22:59:56.293950+00:00,50592097,15,Upload2Shell (CVE-2026-125396),59,16
+2026-11-21T22:59:56.293950+00:00,50546495,16,Exponential Behavior in Magic: The Gathering,81,58
+2026-11-21T22:59:56.293950+00:00,50593737,17,Advice for the next 100 Rust GUIs,10,1
+2026-11-21T22:59:56.293950+00:00,50590441,18,Verification files for the Lean proof of the Riemann Hypothesis,78,27
+2026-11-21T22:59:56.293950+00:00,50590279,19,Show HN: Zero C# – C# without a runtime or GC,114,89
+2026-11-21T22:59:56.293950+00:00,50581260,20,Inkling 2 Mini,1350,276
+2026-11-21T22:59:56.293950+00:00,50533517,21,Bolt's Scooters Are Becoming Accessibility Sensors,15,16
+2026-11-21T22:59:56.293950+00:00,50577991,22,I'm quite pleased by the tech architecture of my art website,132,31
+2026-11-21T22:59:56.293950+00:00,50587208,23,RCE in Gnupg,218,86
+2026-11-21T22:59:56.293950+00:00,50575644,24,Why there are still no non-WebKit browsers on iOS,449,247
+2026-11-21T22:59:56.293950+00:00,50548136,25,Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust,11,0
+2026-11-21T22:59:56.293950+00:00,50583761,26,"Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",581,636
+2026-11-21T22:59:56.293950+00:00,50579331,27,We promoted developers into architects without informing them,572,306
+2026-11-21T22:59:56.293950+00:00,50546587,28,LLMs can read and write executables byte by byte from a hex dump,167,114
+2026-11-21T22:59:56.293950+00:00,50541047,29,Show HN: An ASCII cell aquarium for your terminal,44,16
+2026-11-21T22:59:56.293950+00:00,50550015,30,How I made a custom game engine for Satelital,28,3
+2026-11-21T22:59:56.293950+00:00,50578358,31,Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis,532,236
+2026-11-21T22:59:56.293950+00:00,50574264,32,Deterministic Simulation Testing Is for Everyone,68,8
+2026-11-21T22:59:56.293950+00:00,50574968,33,Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf],2855,2030
+2026-11-21T22:59:56.293950+00:00,50576012,34,Slopstrap – Make your site look hastily vibecoded,646,121
+2026-11-21T22:59:56.293950+00:00,50583274,35,NINLIVE: The Nine Inch Nails live archive,349,102
+2026-11-21T22:59:56.293950+00:00,50535228,36,The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU,48,15
+2026-11-21T22:59:56.293950+00:00,50585376,37,Clojure will affect the way you think about programming (2017),185,88
+2026-11-21T22:59:56.293950+00:00,50586292,38,ClawDOS – An AI coding agent for DOS,153,50
+2026-11-21T22:59:56.293950+00:00,50577265,39,Language Models Can Rewrite Their Own Weights,476,140
+2026-11-21T22:59:56.293950+00:00,50574383,40,Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day,491,850
+2026-11-21T22:59:56.293950+00:00,50588916,41,Astra 6.2 and Sol 6.2 flop at Simple Bench,156,154
+2026-11-21T22:59:56.293950+00:00,50586648,42,Surprisingly Adorable Insect Portraits,142,30
+2026-11-21T22:59:56.293950+00:00,50583768,43,Sir Brian May adds new dimension to Hera asteroid,160,39
+2026-11-21T22:59:56.293950+00:00,50581110,44,DreamCoder: Coding harness and IDE from the author of Mastering Emacs,270,112
+2026-11-21T22:59:56.293950+00:00,50576232,45,Finite-time blow-up for the Navier–Stokes equations,312,104
+2026-11-21T22:59:56.293950+00:00,50534387,46,"Valkey kills the skiplist, cuts sorted set overhead by up to 43%",193,69
+2026-11-21T22:59:56.293950+00:00,50541568,47,Show HN: Tinnitus frequency finder and audio notch tool,216,131
+2026-11-21T22:59:56.293950+00:00,50495392,48,Why the Airbus A321XLR often gets stuck climbing for first few hours of flight,137,107
+2026-11-21T22:59:56.293950+00:00,50579297,49,Vibecoding an inference chip,171,71
+2026-11-21T22:59:56.293950+00:00,50587859,50,FBI reportedly investigating apparent hack of its criminal database,165,81
