@@ -62796,3 +62796,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-20T19:56:13.659747+00:00,50562320,48,Launch HN: Onlook (YC W25) – An open-source developer tool for designers,122,84
 2026-11-20T19:56:13.659747+00:00,50541568,49,Show HN: Tinnitus frequency finder and audio notch tool,134,96
 2026-11-20T19:56:13.659747+00:00,50580117,50,Google says it's going to shut off Google Assistant on smart speakers next year,6,3
+2026-11-21T01:20:39.620620+00:00,50579568,1,Hurried Announcement: Alessandro Masullo GRH,1522,692
+2026-11-21T01:20:39.620620+00:00,50581260,2,Inkling 2 Mini,641,104
+2026-11-21T01:20:39.620620+00:00,50574968,3,Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf],2345,1583
+2026-11-21T01:20:39.620620+00:00,50583274,4,NINLIVE: The Nine Inch Nails live archive,102,21
+2026-11-21T01:20:39.620620+00:00,50579331,5,We promoted developers into architects without informing them,288,178
+2026-11-21T01:20:39.620620+00:00,50578358,6,Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis,334,138
+2026-11-21T01:20:39.620620+00:00,50583768,7,Sir Brian May adds new dimension to Hera asteroid,29,5
+2026-11-21T01:20:39.620620+00:00,50577265,8,Language Models Can Rewrite Their Own Weights,334,108
+2026-11-21T01:20:39.620620+00:00,50583445,9,AI may have solved the most important problem in mathematics,27,13
+2026-11-21T01:20:39.620620+00:00,50534387,10,"Valkey kills the skiplist, cuts sorted set overhead by up to 43%",16,1
+2026-11-21T01:20:39.620620+00:00,50581110,11,DreamCoder: Coding harness and IDE from the author of Mastering Emacs,99,15
+2026-11-21T01:20:39.620620+00:00,50576232,12,Finite-time blow-up for the Navier–Stokes equations,257,81
+2026-11-21T01:20:39.620620+00:00,50583982,13,Re: Riemann,96,74
+2026-11-21T01:20:39.620620+00:00,50572355,14,"If you can't explain something in simple terms, you don't understand it (2017)",621,290
+2026-11-21T01:20:39.620620+00:00,50581177,15,"And yet, it moves",80,40
+2026-11-21T01:20:39.620620+00:00,50579297,16,Vibecoding an inference chip,110,39
+2026-11-21T01:20:39.620620+00:00,50580536,17,Winedroid – run Android apps without Android (WASM demo),95,29
+2026-11-21T01:20:39.620620+00:00,50572503,18,"Frostbite: A new CPU architecture discovered, designed and verified by AI",621,326
+2026-11-21T01:20:39.620620+00:00,50572348,19,Restricting AI agents in mobile operating systems platforms from capturing data,503,298
+2026-11-21T01:20:39.620620+00:00,50581084,20,The stochastic parrots have apparently proved the Riemann Hypothesis,210,175
+2026-11-21T01:20:39.620620+00:00,50581403,21,Show HN: OpenComputer – an open source alternative to Devin,59,18
+2026-11-21T01:20:39.620620+00:00,50581438,22,US SEC's Nvidia probe is examining potential accounting issues – sources,218,109
+2026-11-21T01:20:39.620620+00:00,50583117,23,The Hungry Butler Effect: Concealed Commercial Incentives in LLMs,12,4
+2026-11-21T01:20:39.620620+00:00,50577613,24,"I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",94,131
+2026-11-21T01:20:39.620620+00:00,50526023,25,Show HN: I made an audio-to-MIDI model 60x more efficient,233,49
+2026-11-21T01:20:39.620620+00:00,50532515,26,"Show HN: An API for word timestamps from speech, 75% within 20ms",60,10
+2026-11-21T01:20:39.620620+00:00,50535504,27,Replacing implicit optionals with a None type in TypeDB,7,1
+2026-11-21T01:20:39.620620+00:00,50550430,28,Microsoft announces Windows Server 2028 with hardened security,70,81
+2026-11-21T01:20:39.620620+00:00,50583134,29,Merkle Tree Certificates,10,0
+2026-11-21T01:20:39.620620+00:00,50583877,30,Uncontacted Indigenous people emerge from Amazon forest to ask for food,23,4
+2026-11-21T01:20:39.620620+00:00,50578233,31,Running two PSP emulators on one Switch 2 and sharing one via GameShare,53,0
+2026-11-21T01:20:39.620620+00:00,50576012,32,Slopstrap – Make your site look hastily vibecoded,90,16
+2026-11-21T01:20:39.620620+00:00,50560595,33,Floppy3.5: A portable 3.5-inch floppy WiFi NAS,137,56
+2026-11-21T01:20:39.620620+00:00,50527444,34,The G1 Garbage Collector,100,55
+2026-11-21T01:20:39.620620+00:00,50583911,35,Help github just deleted me,49,31
+2026-11-21T01:20:39.620620+00:00,50572822,36,The Making of Oxygene,194,72
+2026-11-21T01:20:39.620620+00:00,50581165,37,Reverse Engineering my cat's litter box,22,9
+2026-11-21T01:20:39.620620+00:00,50578117,38,PostgreSQL 19: A hands-on tour with runnable browser examples,42,4
+2026-11-21T01:20:39.620620+00:00,50575644,39,Why there are still no non-WebKit browsers on iOS,330,190
+2026-11-21T01:20:39.620620+00:00,50572448,40,"What people are building, discovered through new domains",156,73
+2026-11-21T01:20:39.620620+00:00,50577872,41,AI is giving everyone the same advice,53,21
+2026-11-21T01:20:39.620620+00:00,50583761,42,"I have been unemployed for 2y.15YOE,US.What to do?",22,23
+2026-11-21T01:20:39.620620+00:00,50561199,43,Show HN: Fast deterministic natural language search for OpenStreetMap data,123,32
+2026-11-21T01:20:39.620620+00:00,50546676,44,LZ-RDO lands in ARM's astc-encoder,16,0
+2026-11-21T01:20:39.620620+00:00,50545262,45,Teskooano: A 3D N-body simulator in the browser,18,1
+2026-11-21T01:20:39.620620+00:00,50573886,46,"If you stop writing code, you also get worse at reviewing it",323,158
+2026-11-21T01:20:39.620620+00:00,50572116,47,Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019),507,311
+2026-11-21T01:20:39.620620+00:00,50563148,48,Claude solves two open problems in the physics of black holes,553,270
+2026-11-21T01:20:39.620620+00:00,50582280,49,Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street,34,3
+2026-11-21T01:20:39.620620+00:00,50569998,50,FFmpeg 9.1 'Gauss',289,35
