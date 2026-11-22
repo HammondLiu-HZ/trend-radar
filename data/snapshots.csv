@@ -63093,3 +63093,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-22T12:26:46.610219+00:00,50595168,48,Leonida – PC Recompilation of the Xbox Version of GTA 6,171,133
 2026-11-22T12:26:46.610219+00:00,50597156,49,A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence,6,1
 2026-11-22T12:26:46.610219+00:00,50586292,50,ClawDOS – An AI coding agent for DOS,166,52
+2026-11-22T20:16:03.092402+00:00,50602843,1,The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife,46,0
+2026-11-22T20:16:03.092402+00:00,50601525,2,Perplexity and Intelligence,290,191
+2026-11-22T20:16:03.092402+00:00,50596133,3,"Toyota, Nissan, and Honda to standardize parts to lower costs",1066,629
+2026-11-22T20:16:03.092402+00:00,50599762,4,Show HN: I built a game where you are an LLM's subagent,203,48
+2026-11-22T20:16:03.092402+00:00,50600622,5,"I joined the NTP Pool, but not with my Stratum 1 Pi",79,23
+2026-11-22T20:16:03.092402+00:00,50600511,6,Open Social Web Alliance,165,170
+2026-11-22T20:16:03.092402+00:00,50594182,7,A Better Vocabulary for Testing,78,21
+2026-11-22T20:16:03.092402+00:00,50559441,8,The Transvoxel Algorithm,33,1
+2026-11-22T20:16:03.092402+00:00,50602947,9,What Happened to Silicon Valley?,27,3
+2026-11-22T20:16:03.092402+00:00,50555002,10,Ask HN: Tips for transitioning from web development to embedded/firmware?,76,56
+2026-11-22T20:16:03.092402+00:00,50562207,11,Inside PyPy: First Contact with RPython,33,4
+2026-11-22T20:16:03.092402+00:00,50556249,12,Agentics: Mushy Software,10,0
+2026-11-22T20:16:03.092402+00:00,50603232,13,All Delta Flights Through Atlanta Delayed as Automated System Falters,12,1
+2026-11-22T20:16:03.092402+00:00,50602660,14,Dirac's Theorem at a Dinner Party,8,1
+2026-11-22T20:16:03.092402+00:00,50599309,15,Testing Terraform with AWS Emulator,42,4
+2026-11-22T20:16:03.092402+00:00,50600521,16,Fascism and Monopoly (2020),48,29
+2026-11-22T20:16:03.092402+00:00,50594911,17,Sandwich Simulator,513,179
+2026-11-22T20:16:03.092402+00:00,50597612,18,87% of the Anthropic power will come from gas and 11% from coal in 2028,696,745
+2026-11-22T20:16:03.092402+00:00,50602847,19,Canada recommits to federal funding for news,88,75
+2026-11-22T20:16:03.092402+00:00,50566495,20,Self-hosted library branch over public web OPDS,101,28
+2026-11-22T20:16:03.092402+00:00,50582069,21,Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades',1301,280
+2026-11-22T20:16:03.092402+00:00,50600677,22,Europe weakens chemical rules as science links them to 'lifestyle diseases',124,101
+2026-11-22T20:16:03.092402+00:00,50591853,23,Inkling-2-Mini in 5.4 GB Memory,553,135
+2026-11-22T20:16:03.092402+00:00,50600435,24,Backblaze customers worried of personal data sale/sharing after policy update,96,45
+2026-11-22T20:16:03.092402+00:00,50597959,25,Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator,59,10
+2026-11-22T20:16:03.092402+00:00,50566886,26,What Makes UltraSMR Different?,21,25
+2026-11-22T20:16:03.092402+00:00,50595554,27,Data Processing Incidents on Inference Providers,264,88
+2026-11-22T20:16:03.092402+00:00,50596960,28,Notes on the discrete Fourier transform (DFT),86,12
+2026-11-22T20:16:03.092402+00:00,50583028,29,Getting the mind to steer the body to steer you,387,151
+2026-11-22T20:16:03.092402+00:00,50600838,30,C++26 is done (again): November 2026 ISO C++ meeting trip report,7,0
+2026-11-22T20:16:03.092402+00:00,50596155,31,Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow,166,127
+2026-11-22T20:16:03.092402+00:00,50589618,32,Lean verification of the Riemann Hypothesis,1193,990
+2026-11-22T20:16:03.092402+00:00,50573870,33,Field Mice on Drugs,32,12
+2026-11-22T20:16:03.092402+00:00,50551397,34,The Where's Waldo of the 1500s,57,9
+2026-11-22T20:16:03.092402+00:00,50594132,35,PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors,158,20
+2026-11-22T20:16:03.092402+00:00,50595537,36,The Mythology of Conscious AI,145,422
+2026-11-22T20:16:03.092402+00:00,50593481,37,"Pandex – Official European Law for AI Agents, over MCP",136,32
+2026-11-22T20:16:03.092402+00:00,50593737,38,Advice for the next 100 Rust GUIs,246,142
+2026-11-22T20:16:03.092402+00:00,50560314,39,Split Radiance Cascades,64,3
+2026-11-22T20:16:03.092402+00:00,50592097,40,Upload2Shell (CVE-2026-125396),148,76
+2026-11-22T20:16:03.092402+00:00,50574968,41,Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf],2898,2079
+2026-11-22T20:16:03.092402+00:00,50588982,43,Detonating a pile of lead azide,690,421
+2026-11-22T20:16:03.092402+00:00,50576012,44,Slopstrap – Make your site look hastily vibecoded,760,140
+2026-11-22T20:16:03.092402+00:00,50559820,45,Is 'fork' missing operation in sandboxes?,25,16
+2026-11-22T20:16:03.092402+00:00,50598961,46,AI is becoming a disaster for the climate,78,29
+2026-11-22T20:16:03.092402+00:00,50554572,47,Reversing the Next-Page Prefetcher in Skylake-X,24,0
+2026-11-22T20:16:03.092402+00:00,50591260,48,PostgreSQL Extensions in Go,165,31
+2026-11-22T20:16:03.092402+00:00,50590441,49,Verification files for the Lean proof of the Riemann Hypothesis,124,46
+2026-11-22T20:16:03.092402+00:00,50567493,50,Celliad – a daily Excel game (French),21,1
