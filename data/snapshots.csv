@@ -62995,3 +62995,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-21T22:59:56.293950+00:00,50495392,48,Why the Airbus A321XLR often gets stuck climbing for first few hours of flight,137,107
 2026-11-21T22:59:56.293950+00:00,50579297,49,Vibecoding an inference chip,171,71
 2026-11-21T22:59:56.293950+00:00,50587859,50,FBI reportedly investigating apparent hack of its criminal database,165,81
+2026-11-22T03:01:11.596433+00:00,50582069,1,Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades',688,167
+2026-11-22T03:01:11.596433+00:00,50589618,2,Lean verification of the Riemann Hypothesis,865,724
+2026-11-22T03:01:11.596433+00:00,50591853,3,Inkling-2-Mini in 5.4 GB Memory,376,95
+2026-11-22T03:01:11.596433+00:00,50595554,4,Data Processing Incidents on Inference Providers,20,6
+2026-11-22T03:01:11.596433+00:00,50594132,5,PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors,77,9
+2026-11-22T03:01:11.596433+00:00,50595168,6,Leonida – PC Recompilation of the Xbox Version of GTA 6,26,7
+2026-11-22T03:01:11.596433+00:00,50588982,7,Detonating a pile of lead azide,542,359
+2026-11-22T03:01:11.596433+00:00,50594911,8,Sandwich Simulator,43,20
+2026-11-22T03:01:11.596433+00:00,50583028,9,Getting the mind to steer the body to steer you,171,59
+2026-11-22T03:01:11.596433+00:00,50587875,10,My monitor was cutting my download speed by 75%,508,242
+2026-11-22T03:01:11.596433+00:00,50592097,11,Upload2Shell (CVE-2026-125396),82,35
+2026-11-22T03:01:11.596433+00:00,50553223,12,"Shaping the Loops, Closing the Loops",9,3
+2026-11-22T03:01:11.596433+00:00,50591260,13,PostgreSQL Extensions in Go,123,22
+2026-11-22T03:01:11.596433+00:00,50593481,14,"Pandex – Official European Law for AI Agents, over MCP",41,7
+2026-11-22T03:01:11.596433+00:00,50593637,15,The Emergence of Inequality in the Czech Corded Ware Culture,33,12
+2026-11-22T03:01:11.596433+00:00,50590279,16,Show HN: Zero C# – C# without a runtime or GC,135,100
+2026-11-22T03:01:11.596433+00:00,50559295,18,Unit-testing in the Ü programming language,4,0
+2026-11-22T03:01:11.596433+00:00,50532417,19,Tropical Rainforests Species may be surprisingly young,45,20
+2026-11-22T03:01:11.596433+00:00,50546587,20,LLMs can read and write executables byte by byte from a hex dump,198,129
+2026-11-22T03:01:11.596433+00:00,50546495,21,Exponential Behavior in Magic: The Gathering,97,64
+2026-11-22T03:01:11.596433+00:00,50590441,22,Verification files for the Lean proof of the Riemann Hypothesis,104,37
+2026-11-22T03:01:11.596433+00:00,50575644,23,Why there are still no non-WebKit browsers on iOS,501,274
+2026-11-22T03:01:11.596433+00:00,50587208,24,RCE in Gnupg,236,96
+2026-11-22T03:01:11.596433+00:00,50593737,25,Advice for the next 100 Rust GUIs,105,19
+2026-11-22T03:01:11.596433+00:00,50583761,26,"Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",626,708
+2026-11-22T03:01:11.596433+00:00,50579568,27,Hurried Announcement: Alessandro Masullo GRH,2395,1162
+2026-11-22T03:01:11.596433+00:00,50579331,28,We promoted developers into architects without informing them,584,316
+2026-11-22T03:01:11.596433+00:00,50578358,29,Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis,539,240
+2026-11-22T03:01:11.596433+00:00,50577991,30,I'm quite pleased by the tech architecture of my art website,155,33
+2026-11-22T03:01:11.596433+00:00,50574968,31,Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf],2862,2041
+2026-11-22T03:01:11.596433+00:00,50548136,32,Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust,22,0
+2026-11-22T03:01:11.596433+00:00,50576012,33,Slopstrap – Make your site look hastily vibecoded,675,125
+2026-11-22T03:01:11.596433+00:00,50583274,34,NINLIVE: The Nine Inch Nails live archive,362,104
+2026-11-22T03:01:11.596433+00:00,50574264,35,Deterministic Simulation Testing Is for Everyone,76,12
+2026-11-22T03:01:11.596433+00:00,50581260,36,Inkling 2 Mini,1392,281
+2026-11-22T03:01:11.596433+00:00,50541047,37,Show HN: An ASCII cell aquarium for your terminal,53,21
+2026-11-22T03:01:11.596433+00:00,50574383,38,Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day,502,878
+2026-11-22T03:01:11.596433+00:00,50577265,39,Language Models Can Rewrite Their Own Weights,481,142
+2026-11-22T03:01:11.596433+00:00,50594564,40,International UN talks on controlling use of autonomous weapons collapse,39,20
+2026-11-22T03:01:11.596433+00:00,50585376,41,Clojure will affect the way you think about programming (2017),190,90
+2026-11-22T03:01:11.596433+00:00,50586292,42,ClawDOS – An AI coding agent for DOS,159,51
+2026-11-22T03:01:11.596433+00:00,50550015,43,How I made a custom game engine for Satelital,33,4
+2026-11-22T03:01:11.596433+00:00,50560203,44,"Windows has two settings that bring work back after restart, both off by default",42,38
+2026-11-22T03:01:11.596433+00:00,50533517,45,Bolt's Scooters Are Becoming Accessibility Sensors,33,42
+2026-11-22T03:01:11.596433+00:00,50586648,46,Surprisingly Adorable Insect Portraits,150,34
+2026-11-22T03:01:11.596433+00:00,50535228,47,The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU,50,17
+2026-11-22T03:01:11.596433+00:00,50583768,48,Sir Brian May adds new dimension to Hera asteroid,161,39
+2026-11-22T03:01:11.596433+00:00,50556975,49,"Right Code, Wrong Comment: The Pointer Chase Inside Zlib",5,2
+2026-11-22T03:01:11.596433+00:00,50576232,50,Finite-time blow-up for the Navier–Stokes equations,315,107
