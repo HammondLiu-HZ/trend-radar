@@ -63191,3 +63191,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-23T01:30:15.733804+00:00,50566886,48,What Makes UltraSMR Different?,26,37
 2026-11-23T01:30:15.733804+00:00,50594911,49,Sandwich Simulator,570,198
 2026-11-23T01:30:15.733804+00:00,50596155,50,Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow,179,148
+2026-11-23T10:36:34.950165+00:00,50607261,1,XNU Linux: Full OS X GUI Userspace on Linux,335,155
+2026-11-23T10:36:34.950165+00:00,50606192,2,Free alternative TV network built from the Internet Archive's forgotten videos,534,85
+2026-11-23T10:36:34.950165+00:00,50603845,3,"A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",520,221
+2026-11-23T10:36:34.950165+00:00,50607668,4,"Yes, 17M lines of Lean is a lot",82,88
+2026-11-23T10:36:34.950165+00:00,50598441,5,Masullo on the Riemann Hypothesis,230,196
+2026-11-23T10:36:34.950165+00:00,50607627,6,A Partial Evaluator for C,66,14
+2026-11-23T10:36:34.950165+00:00,50602843,7,The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife,507,258
+2026-11-23T10:36:34.950165+00:00,50601525,8,Perplexity and Intelligence,591,400
+2026-11-23T10:36:34.950165+00:00,50581961,9,Brake Check: Hijacking Trailer Brakes over Bluetooth,23,16
+2026-11-23T10:36:34.950165+00:00,50547698,10,"Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",240,61
+2026-11-23T10:36:34.950165+00:00,50603143,11,Assume People Are Not Interested in Your Blog Post,205,103
+2026-11-23T10:36:34.950165+00:00,50604988,13,GL.iNet Security Notice 2026-11-20,207,97
+2026-11-23T10:36:34.950165+00:00,50603589,14,"A miniature San Francisco with live buses, planes and boats",279,93
+2026-11-23T10:36:34.950165+00:00,50606499,15,Treemap of the Riemann Hypothesis Lean Proof,85,33
+2026-11-23T10:36:34.950165+00:00,50604123,16,The struggle for freedom: How BSD escaped AT&T licensing,120,40
+2026-11-23T10:36:34.950165+00:00,50607194,17,The New Docker: Built to Run on Trust,41,87
+2026-11-23T10:36:34.950165+00:00,50604472,18,The Usefulness of Useless Knowledge [pdf] (1939),127,24
+2026-11-23T10:36:34.950165+00:00,50584526,19,Elixir HLS makes FPGA circuits from functions written in Elixir,3,0
+2026-11-23T10:36:34.950165+00:00,50574412,20,Show HN: Drive around my village in 3D,26,21
+2026-11-23T10:36:34.950165+00:00,50603465,21,"Nyx, the Oldest Internet Service Provider",138,25
+2026-11-23T10:36:34.950165+00:00,50560563,22,The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy,50,32
+2026-11-23T10:36:34.950165+00:00,50569505,23,LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025),46,7
+2026-11-23T10:36:34.950165+00:00,50602947,24,What Happened to Silicon Valley?,663,350
+2026-11-23T10:36:34.950165+00:00,50599762,25,Show HN: I built a game where you are an LLM's subagent,318,78
+2026-11-23T10:36:34.950165+00:00,50560120,26,De-fanging dangerous triggers in GitHub Actions across an organization,14,7
+2026-11-23T10:36:34.950165+00:00,50577353,27,Verifying formal models of Raft implementations,45,1
+2026-11-23T10:36:34.950165+00:00,50596133,28,"Toyota, Nissan, and Honda to standardize parts to lower costs",1305,705
+2026-11-23T10:36:34.950165+00:00,50605045,29,Progress map for the Lean formalization of Alessandro Masullo's manuscript,234,173
+2026-11-23T10:36:34.950165+00:00,50605445,30,"0rwx – A simple model of AI usage, inspired by Unix permissions",56,13
+2026-11-23T10:36:34.950165+00:00,50606072,31,What we learned operating auth for 1k APIs,43,9
+2026-11-23T10:36:34.950165+00:00,50604540,32,"Localcode, open source agentic coding on your Mac with one command",61,14
+2026-11-23T10:36:34.950165+00:00,50600622,33,"I joined the NTP Pool, but not with my Stratum 1 Pi",158,61
+2026-11-23T10:36:34.950165+00:00,50546124,34,Advice for Young Researchers,86,34
+2026-11-23T10:36:34.950165+00:00,50609252,35,Enjoy this guy getting bricked over the detail of towers in GTA6,10,2
+2026-11-23T10:36:34.950165+00:00,50582069,36,Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades',1360,306
+2026-11-23T10:36:34.950165+00:00,50594182,37,A Better Vocabulary for Testing,130,31
+2026-11-23T10:36:34.950165+00:00,50597612,38,87% of the Anthropic power will come from gas and 11% from coal in 2028,973,953
+2026-11-23T10:36:34.950165+00:00,50555002,39,Ask HN: Tips for transitioning from web development to embedded/firmware?,141,86
+2026-11-23T10:36:34.950165+00:00,50602153,40,Harvard CS 2881R AI Safety,69,8
+2026-11-23T10:36:34.950165+00:00,50605426,41,What should AAA game devs do,30,55
+2026-11-23T10:36:34.950165+00:00,50575007,42,How the World Draws the World,21,3
+2026-11-23T10:36:34.950165+00:00,50606704,43,Advanced Character Physics (2001) [pdf],15,0
+2026-11-23T10:36:34.950165+00:00,50603962,44,Will the first approved psychedelic become a blockbuster?,38,49
+2026-11-23T10:36:34.950165+00:00,50607498,45,DeFlock Amerca Facebook Group Suspended as a Dangerous Organization,137,49
+2026-11-23T10:36:34.950165+00:00,50601823,46,Was software just always too complex for humans?,58,78
+2026-11-23T10:36:34.950165+00:00,50608662,47,GLM 5.4,22,10
+2026-11-23T10:36:34.950165+00:00,50562207,48,Inside PyPy: First Contact with RPython,65,9
+2026-11-23T10:36:34.950165+00:00,50599309,49,Testing Terraform with AWS Emulator,77,14
+2026-11-23T10:36:34.950165+00:00,50559441,50,The Transvoxel Algorithm,71,6
