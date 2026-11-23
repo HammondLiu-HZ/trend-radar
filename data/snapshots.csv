@@ -63142,3 +63142,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-22T20:16:03.092402+00:00,50591260,48,PostgreSQL Extensions in Go,165,31
 2026-11-22T20:16:03.092402+00:00,50590441,49,Verification files for the Lean proof of the Riemann Hypothesis,124,46
 2026-11-22T20:16:03.092402+00:00,50567493,50,Celliad – a daily Excel game (French),21,1
+2026-11-23T01:30:15.733804+00:00,50603845,1,"A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",196,74
+2026-11-23T01:30:15.733804+00:00,50605045,2,Progress map for the Lean formalization of Alessandro Masullo's manuscript,139,103
+2026-11-23T01:30:15.733804+00:00,50602843,3,The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife,342,153
+2026-11-23T01:30:15.733804+00:00,50604988,4,GL.iNet Security Notice 2026-11-20,70,32
+2026-11-23T01:30:15.733804+00:00,50547698,5,"Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",89,3
+2026-11-23T01:30:15.733804+00:00,50603589,6,"A miniature San Francisco with live buses, planes and boats",136,55
+2026-11-23T01:30:15.733804+00:00,50604472,7,The Usefulness of Useless Knowledge [pdf] (1939),55,10
+2026-11-23T01:30:15.733804+00:00,50603465,8,"Nyx, the Oldest Internet Service Provider",92,8
+2026-11-23T01:30:15.733804+00:00,50604123,9,The struggle for freedom: How BSD escaped AT&T licensing,43,10
+2026-11-23T01:30:15.733804+00:00,50605426,10,What should AAA game devs do,17,19
+2026-11-23T01:30:15.733804+00:00,50601525,11,Perplexity and Intelligence,476,333
+2026-11-23T01:30:15.733804+00:00,50605445,12,"0rwx – A simple model of AI usage, inspired by Unix permissions",15,5
+2026-11-23T01:30:15.733804+00:00,50602947,13,What Happened to Silicon Valley?,411,234
+2026-11-23T01:30:15.733804+00:00,50603143,14,Assume People Are Not Interested in Your Blog Post,53,28
+2026-11-23T01:30:15.733804+00:00,50599762,15,Show HN: I built a game where you are an LLM's subagent,269,62
+2026-11-23T01:30:15.733804+00:00,50605479,16,Nespresso's project to reduce grams of coffee per capsule,76,70
+2026-11-23T01:30:15.733804+00:00,50546124,17,Advice for Young Researchers,48,17
+2026-11-23T01:30:15.733804+00:00,50604540,18,"Localcode, open source agentic coding on your Mac with one command",19,3
+2026-11-23T01:30:15.733804+00:00,50575007,19,How the World Draws the World,4,0
+2026-11-23T01:30:15.733804+00:00,50603962,20,Will the first approved psychedelic become a blockbuster?,25,21
+2026-11-23T01:30:15.733804+00:00,50600622,21,"I joined the NTP Pool, but not with my Stratum 1 Pi",125,36
+2026-11-23T01:30:15.733804+00:00,50600511,22,Open Social Web Alliance,219,214
+2026-11-23T01:30:15.733804+00:00,50604314,23,Agent swarm trying to solve P vs. NP,102,94
+2026-11-23T01:30:15.733804+00:00,50596133,24,"Toyota, Nissan, and Honda to standardize parts to lower costs",1189,679
+2026-11-23T01:30:15.733804+00:00,50594182,25,A Better Vocabulary for Testing,112,29
+2026-11-23T01:30:15.733804+00:00,50602153,26,Harvard CS 2881R AI Safety,36,4
+2026-11-23T01:30:15.733804+00:00,50555002,27,Ask HN: Tips for transitioning from web development to embedded/firmware?,117,71
+2026-11-23T01:30:15.733804+00:00,50562207,28,Inside PyPy: First Contact with RPython,61,9
+2026-11-23T01:30:15.733804+00:00,50556249,29,Agentics: Mushy Software,39,6
+2026-11-23T01:30:15.733804+00:00,50603232,30,All Delta Flights Through Atlanta Delayed as Automated System Falters,97,43
+2026-11-23T01:30:15.733804+00:00,50597612,31,87% of the Anthropic power will come from gas and 11% from coal in 2028,883,894
+2026-11-23T01:30:15.733804+00:00,50559441,32,The Transvoxel Algorithm,56,6
+2026-11-23T01:30:15.733804+00:00,50582069,33,Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades',1342,300
+2026-11-23T01:30:15.733804+00:00,50599309,34,Testing Terraform with AWS Emulator,66,10
+2026-11-23T01:30:15.733804+00:00,50574768,35,The Gateless Gate 3D,9,0
+2026-11-23T01:30:15.733804+00:00,50600838,36,C++26 is done (again): November 2026 ISO C++ meeting trip report,69,48
+2026-11-23T01:30:15.733804+00:00,50566495,37,Self-hosted library branch over public web OPDS,114,31
+2026-11-23T01:30:15.733804+00:00,50603730,38,AWS got hit by an outage too. You didn't hear about it,48,3
+2026-11-23T01:30:15.733804+00:00,50603219,39,What Happened in Fall 2026: AI and P vs. NP,14,1
+2026-11-23T01:30:15.733804+00:00,50597959,40,Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator,70,11
+2026-11-23T01:30:15.733804+00:00,50596960,41,Notes on the discrete Fourier transform (DFT),94,13
+2026-11-23T01:30:15.733804+00:00,50589618,42,Lean verification of the Riemann Hypothesis,1211,1016
+2026-11-23T01:30:15.733804+00:00,50600435,44,Backblaze customers worried of personal data sale/sharing after policy update,148,59
+2026-11-23T01:30:15.733804+00:00,50605699,45,'It's greed': Zohran Mamdani blasts Amazon over new $5 fee hike in NYC,24,9
+2026-11-23T01:30:15.733804+00:00,50605352,46,Arizona grandfather hailed as a hero after finding missing toddler in desert,8,0
+2026-11-23T01:30:15.733804+00:00,50595537,47,The Mythology of Conscious AI,166,480
+2026-11-23T01:30:15.733804+00:00,50566886,48,What Makes UltraSMR Different?,26,37
+2026-11-23T01:30:15.733804+00:00,50594911,49,Sandwich Simulator,570,198
+2026-11-23T01:30:15.733804+00:00,50596155,50,Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow,179,148
