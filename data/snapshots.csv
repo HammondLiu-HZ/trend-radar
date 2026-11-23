@@ -63240,3 +63240,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-23T10:36:34.950165+00:00,50562207,48,Inside PyPy: First Contact with RPython,65,9
 2026-11-23T10:36:34.950165+00:00,50599309,49,Testing Terraform with AWS Emulator,77,14
 2026-11-23T10:36:34.950165+00:00,50559441,50,The Transvoxel Algorithm,71,6
+2026-11-23T22:31:15.611649+00:00,50611576,1,Nvidia Reinstates Jensen Huang as CEO,1778,2883
+2026-11-23T22:31:15.611649+00:00,50614249,2,Ladybird is now in alpha,1151,287
+2026-11-23T22:31:15.611649+00:00,50617499,3,"Per Arm's request, this site will be discontinued on 4 December 2026 :(",674,133
+2026-11-23T22:31:15.611649+00:00,50619186,4,The horse made the state,37,31
+2026-11-23T22:31:15.611649+00:00,50619207,5,"Bored.com: Fun, interesting and cool websites to explore when bored",30,7
+2026-11-23T22:31:15.611649+00:00,50609685,6,GLM-5.4: Toward generalized coding with our first loop transformer,991,326
+2026-11-23T22:31:15.611649+00:00,50615308,7,Dario is hyping the dangers so OSS models are illegal and he stays in control,807,470
+2026-11-23T22:31:15.611649+00:00,50619103,8,GPUI is getting its own repository,19,1
+2026-11-23T22:31:15.611649+00:00,50620102,9,VP ≠ VNP over Every Field,11,0
+2026-11-23T22:31:15.611649+00:00,50611402,10,NariQ: BF16-level Qwen3.8-27B in a 10 GB file,96,13
+2026-11-23T22:31:15.611649+00:00,50594935,11,Derivative Flipping,52,1
+2026-11-23T22:31:15.611649+00:00,50587439,12,Spacecraft reaches Mercury on second-ever mission to enter its orbit,262,83
+2026-11-23T22:31:15.611649+00:00,50615481,13,Kagi Mail (public beta),292,222
+2026-11-23T22:31:15.611649+00:00,50620252,14,VP != VNP over Every Field [pdf],4,2
+2026-11-23T22:31:15.611649+00:00,50616933,15,Apple removed my open-source app from EU App Stores after 9 years,407,81
+2026-11-23T22:31:15.611649+00:00,50610743,16,Win4wine – Run Windows Shell as the Linux Desktop on Wine,199,103
+2026-11-23T22:31:15.611649+00:00,50602561,18,"Show HN: Type-C – variants, options, generics and pattern matching for C",5,0
+2026-11-23T22:31:15.611649+00:00,50606192,19,Free alternative TV network built from the Internet Archive's forgotten videos,902,158
+2026-11-23T22:31:15.611649+00:00,50615520,20,How should an LLM see a computer?,35,19
+2026-11-23T22:31:15.611649+00:00,50607261,21,XNU Linux: Full OS X GUI Userspace on Linux,587,241
+2026-11-23T22:31:15.611649+00:00,50610318,22,Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor,250,151
+2026-11-23T22:31:15.611649+00:00,50573996,23,Crafting Targeted MP4 Fuzzers,18,1
+2026-11-23T22:31:15.611649+00:00,50574412,24,Show HN: Drive around my village in 3D,95,67
+2026-11-23T22:31:15.611649+00:00,50611861,25,Building a wireless network adapter for the Super Nintendo,72,17
+2026-11-23T22:31:15.611649+00:00,50610334,26,The next circle of security hell,223,131
+2026-11-23T22:31:15.611649+00:00,50577534,27,Let's Meet in the Middle,85,11
+2026-11-23T22:31:15.611649+00:00,50587286,28,What's the difference between an integer and a pointer? (2018),101,96
+2026-11-23T22:31:15.611649+00:00,50609708,29,Show HN: Hermit CRM – Free open-source CRM for solopreneurs,15,2
+2026-11-23T22:31:15.611649+00:00,50584327,30,"Anatomia Di Tor – The Tor Protocol, Byte by Byte",28,0
+2026-11-23T22:31:15.611649+00:00,50603845,31,"A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",734,294
+2026-11-23T22:31:15.611649+00:00,50605479,32,Nespresso's project to reduce grams of coffee per capsule,246,268
+2026-11-23T22:31:15.611649+00:00,50609579,33,Don't keep your SSH keys on disk,141,90
+2026-11-23T22:31:15.611649+00:00,50612686,34,Cyberleek posted the GTA 6 Xbox build executable,233,245
+2026-11-23T22:31:15.611649+00:00,50607668,35,"Yes, 17M lines of Lean is a lot",251,329
+2026-11-23T22:31:15.611649+00:00,50602660,36,Dirac's Theorem at a Dinner Party,17,8
+2026-11-23T22:31:15.611649+00:00,50584526,37,Elixir HLS makes FPGA circuits from functions written in Elixir,139,15
+2026-11-23T22:31:15.611649+00:00,50601525,38,Perplexity and Intelligence,693,440
+2026-11-23T22:31:15.611649+00:00,50587750,39,MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash,91,38
+2026-11-23T22:31:15.611649+00:00,50547698,40,"Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",352,133
+2026-11-23T22:31:15.611649+00:00,50602843,41,The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife,628,361
+2026-11-23T22:31:15.611649+00:00,50581961,42,Brake Check: Hijacking Trailer Brakes over Bluetooth,91,65
+2026-11-23T22:31:15.611649+00:00,50601823,43,Was software just always too complex for humans?,92,111
+2026-11-23T22:31:15.611649+00:00,50603143,44,Assume People Are Not Interested in Your Blog Post,311,152
+2026-11-23T22:31:15.611649+00:00,50618834,45,Jensen Huang's Apology May Be the Only Correct Use of AI,13,0
+2026-11-23T22:31:15.611649+00:00,50598441,46,Masullo on the Riemann Hypothesis,303,280
+2026-11-23T22:31:15.611649+00:00,50583535,47,Reviving the Donkey Car with Erlang,37,1
+2026-11-23T22:31:15.611649+00:00,50619973,48,16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill',4,0
+2026-11-23T22:31:15.611649+00:00,50606499,49,Treemap of the Riemann Hypothesis Lean Proof,183,71
+2026-11-23T22:31:15.611649+00:00,50617302,50,Earth's ozone hole has grown to a size not seen in a decade,21,3
