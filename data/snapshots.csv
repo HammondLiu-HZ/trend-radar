@@ -63338,3 +63338,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-24T06:53:28.304512+00:00,50574412,48,Show HN: Drive around my village in 3D,112,79
 2026-11-24T06:53:28.304512+00:00,50607668,49,"Yes, 17M lines of Lean is a lot",263,339
 2026-11-24T06:53:28.304512+00:00,50611861,50,Building a wireless network adapter for the Super Nintendo,80,17
+2026-11-24T18:47:49.074128+00:00,50630594,1,Cyberattack campaign compromising Check Point servers across 22 organizations,161,54
+2026-11-24T18:47:49.074128+00:00,50630462,2,Jetty Pro,134,49
+2026-11-24T18:47:49.074128+00:00,50598555,3,Mechanical Pencil: Spray Bottle,143,32
+2026-11-24T18:47:49.074128+00:00,50630423,4,How to Make a Lovable City,69,33
+2026-11-24T18:47:49.074128+00:00,50624497,5,2035 came early,829,307
+2026-11-24T18:47:49.074128+00:00,50629231,6,"A training engine for your local model, using your idle compute",84,16
+2026-11-24T18:47:49.074128+00:00,50629962,7,"The KL Divergence Is Never Negative, Except in PyTorch",48,12
+2026-11-24T18:47:49.074128+00:00,50631210,8,Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World',124,62
+2026-11-24T18:47:49.074128+00:00,50632214,9,"“Pervert glasses"" named word of the year by Macquarie Dictionary",44,20
+2026-11-24T18:47:49.074128+00:00,50630294,11,"Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",26,2
+2026-11-24T18:47:49.074128+00:00,50627340,12,"LLM agents work for their parent companies, not for you",705,304
+2026-11-24T18:47:49.074128+00:00,50626413,13,Worshipping at the altar of Brendan Gregg,187,29
+2026-11-24T18:47:49.074128+00:00,50625384,14,Quad9 pulled their DNS service from France,226,125
+2026-11-24T18:47:49.074128+00:00,50630122,15,Millions of bitcoin are probably lost for good. Almost none can be proved gone,20,1
+2026-11-24T18:47:49.074128+00:00,50631900,16,AstridVPN: A VPN that doesn't know who you are,6,9
+2026-11-24T18:47:49.074128+00:00,50629106,17,Splitting USB-C: USB 3 and USB 2 on One Port,63,43
+2026-11-24T18:47:49.074128+00:00,50599458,18,How a Mechanical Watch Keeps Time (Interactive 3D),152,41
+2026-11-24T18:47:49.074128+00:00,50608343,19,SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance,47,0
+2026-11-24T18:47:49.074128+00:00,50611613,20,Gnomon: Git for Postgres Data,26,3
+2026-11-24T18:47:49.074128+00:00,50620349,21,Stalwart is now a drop-in replacement for Microsoft Exchange,662,328
+2026-11-24T18:47:49.074128+00:00,50610977,22,Claude Code Mode Internals,5,0
+2026-11-24T18:47:49.074128+00:00,50630245,23,Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban,76,44
+2026-11-24T18:47:49.074128+00:00,50631157,24,"Microsoft declares 'Code Red' after historic outage, internal memos show",48,34
+2026-11-24T18:47:49.074128+00:00,50598094,25,An anti-slavery sugar bowl (2024),102,68
+2026-11-24T18:47:49.074128+00:00,50622638,26,GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school,285,476
+2026-11-24T18:47:49.074128+00:00,50625953,27,Just a Few Bugs,116,40
+2026-11-24T18:47:49.074128+00:00,50611576,28,Nvidia Reinstates Jensen Huang as CEO,2761,3629
+2026-11-24T18:47:49.074128+00:00,50624061,29,AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years,207,107
+2026-11-24T18:47:49.074128+00:00,50630309,30,Tidal bans AI-generated music,273,230
+2026-11-24T18:47:49.074128+00:00,50614249,31,Ladybird is now in alpha,2344,578
+2026-11-24T18:47:49.074128+00:00,50598679,32,Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88,62,19
+2026-11-24T18:47:49.074128+00:00,50623515,33,Drone Maps of Salvage Yards,160,63
+2026-11-24T18:47:49.074128+00:00,50619103,34,GPUI is getting its own repository,367,135
+2026-11-24T18:47:49.074128+00:00,50622774,35,New York Bans Subscription and Post-Purchase Fees on Cars,729,369
+2026-11-24T18:47:49.074128+00:00,50592307,36,Arctic: A Practical Lock-Free Adaptive Radix Tree,91,11
+2026-11-24T18:47:49.074128+00:00,50619207,37,"Bored.com: Fun, interesting and cool websites to explore when bored",323,65
+2026-11-24T18:47:49.074128+00:00,50622854,38,Declare is a UI language for you and your AI,97,79
+2026-11-24T18:47:49.074128+00:00,50615308,39,"""Dario is hyping the dangers so OSS models are illegal and he stays in control""",1955,1140
+2026-11-24T18:47:49.074128+00:00,50606192,40,Free alternative TV network built from the Internet Archive's forgotten videos,1060,179
+2026-11-24T18:47:49.074128+00:00,50604710,41,Modernizing iperf/iperf3 and introducing fireperf,146,11
+2026-11-24T18:47:49.074128+00:00,50622934,42,Making a dumb TV just smart enough,158,46
+2026-11-24T18:47:49.074128+00:00,50631691,43,Unreleased AI models are too powerful to release fear many employees,9,9
+2026-11-24T18:47:49.074128+00:00,50626861,44,Who in Washington owns and trades Nvidia stock,271,148
+2026-11-24T18:47:49.074128+00:00,50617499,45,"Per Arm's request, this site will be discontinued on 4 December 2026 :(",1145,277
+2026-11-24T18:47:49.074128+00:00,50629620,46,"Nvidia board's Huang reversal raises doubts about independence, critics say",27,7
+2026-11-24T18:47:49.074128+00:00,50607512,47,Lowering Perplexity Without Scaling,92,24
+2026-11-24T18:47:49.074128+00:00,50631614,48,"Alan Kay: Steve Jobs, Xerox PARC, Marijuana [video]",6,0
+2026-11-24T18:47:49.074128+00:00,50605361,49,The new set of problems for engineers to solve,83,67
+2026-11-24T18:47:49.074128+00:00,50630362,50,Amazon faces FAA probe after delivery drone strikes fiber cable and garage,20,10
