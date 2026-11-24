@@ -63289,3 +63289,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-23T22:31:15.611649+00:00,50619973,48,16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill',4,0
 2026-11-23T22:31:15.611649+00:00,50606499,49,Treemap of the Riemann Hypothesis Lean Proof,183,71
 2026-11-23T22:31:15.611649+00:00,50617302,50,Earth's ozone hole has grown to a size not seen in a decade,21,3
+2026-11-24T06:53:28.304512+00:00,50611576,1,Nvidia Reinstates Jensen Huang as CEO,2436,3375
+2026-11-24T06:53:28.304512+00:00,50620349,2,Stalwart is now a drop-in replacement for Microsoft Exchange,370,180
+2026-11-24T06:53:28.304512+00:00,50614249,3,Ladybird is now in alpha,1698,392
+2026-11-24T06:53:28.304512+00:00,50624487,4,India's opposition storms Meta's offices to get its Instagram accounts back,17,0
+2026-11-24T06:53:28.304512+00:00,50623515,5,Drone Maps of Salvage Yards,41,13
+2026-11-24T06:53:28.304512+00:00,50604710,6,Modernizing iperf/iperf3 and introducing fireperf,60,3
+2026-11-24T06:53:28.304512+00:00,50607512,7,Lowering Perplexity Without Scaling,17,3
+2026-11-24T06:53:28.304512+00:00,50622934,8,Making a dumb TV just smart enough,45,14
+2026-11-24T06:53:28.304512+00:00,50619103,9,GPUI is getting its own repository,219,81
+2026-11-24T06:53:28.304512+00:00,50622774,10,New York Bans Subscription and Post-Purchase Fees on Cars,204,61
+2026-11-24T06:53:28.304512+00:00,50619207,11,"Bored.com: Fun, interesting and cool websites to explore when bored",197,44
+2026-11-24T06:53:28.304512+00:00,50610170,12,New material gets stronger the more it bends,19,4
+2026-11-24T06:53:28.304512+00:00,50615308,13,"""Dario is hyping the dangers so OSS models are illegal and he stays in control""",1503,845
+2026-11-24T06:53:28.304512+00:00,50617499,14,"Per Arm's request, this site will be discontinued on 4 December 2026 :(",970,224
+2026-11-24T06:53:28.304512+00:00,50620831,15,The search for a top dark matter candidate,37,16
+2026-11-24T06:53:28.304512+00:00,50620721,16,Freeing the iPod Nano 5G,88,9
+2026-11-24T06:53:28.304512+00:00,50587439,17,Spacecraft reaches Mercury on second-ever mission to enter its orbit,333,108
+2026-11-24T06:53:28.304512+00:00,50622854,18,Declare is a UI language for you and your AI,36,19
+2026-11-24T06:53:28.304512+00:00,50620328,19,Latent Introspection: LLMs Can Detect Prior Concept Injections,52,4
+2026-11-24T06:53:28.304512+00:00,50606192,20,Free alternative TV network built from the Internet Archive's forgotten videos,982,170
+2026-11-24T06:53:28.304512+00:00,50621466,21,"The Power of GraphQL, Without GraphQL",39,18
+2026-11-24T06:53:28.304512+00:00,50582698,22,How photos were transmitted by wire in the 1930s (2024),39,3
+2026-11-24T06:53:28.304512+00:00,50622804,23,Rune: Rust VM for Emacs,23,1
+2026-11-24T06:53:28.304512+00:00,50611402,24,NariQ: BF16-level Qwen3.8-27B in a 10 GB file,154,31
+2026-11-24T06:53:28.304512+00:00,50592307,25,Arctic: A Practical Lock-Free Adaptive Radix Tree,3,0
+2026-11-24T06:53:28.304512+00:00,50609685,26,GLM-5.4: Toward generalized coding with our first loop transformer,1099,360
+2026-11-24T06:53:28.304512+00:00,50624061,27,AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years,6,0
+2026-11-24T06:53:28.304512+00:00,50615481,28,Kagi Mail (public beta),395,306
+2026-11-24T06:53:28.304512+00:00,50600838,29,C++26 is done (again): ISO C++ meeting trip report,112,137
+2026-11-24T06:53:28.304512+00:00,50623965,30,Show HN: Genesis Map – Visualize your agent's changes. See where they can break,5,0
+2026-11-24T06:53:28.304512+00:00,50619630,31,Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux,63,18
+2026-11-24T06:53:28.304512+00:00,50594935,32,Derivative Flipping,88,14
+2026-11-24T06:53:28.304512+00:00,50610743,34,Win4wine – Run Windows Shell as the Linux Desktop on Wine,228,120
+2026-11-24T06:53:28.304512+00:00,50623020,35,Hacking radiators,16,7
+2026-11-24T06:53:28.304512+00:00,50605479,36,Nespresso's project to reduce grams of coffee per capsule,298,315
+2026-11-24T06:53:28.304512+00:00,50620102,37,VP ≠ VNP over Every Field,309,280
+2026-11-24T06:53:28.304512+00:00,50595365,38,What does it mean to understand what we built?,59,20
+2026-11-24T06:53:28.304512+00:00,50622638,39,GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school,23,9
+2026-11-24T06:53:28.304512+00:00,50602561,40,"Show HN: Type-C – variants, options, generics and pattern matching for C",40,10
+2026-11-24T06:53:28.304512+00:00,50593540,41,Developing the perception to separate the form of a place from what it contains,18,12
+2026-11-24T06:53:28.304512+00:00,50622612,42,Aristotle Formally Verifies Celeste Speedrun Optimality,13,0
+2026-11-24T06:53:28.304512+00:00,50610334,43,The next circle of security hell,242,150
+2026-11-24T06:53:28.304512+00:00,50609579,44,Don't keep your SSH keys on disk,164,107
+2026-11-24T06:53:28.304512+00:00,50619186,45,The horse made the state,66,58
+2026-11-24T06:53:28.304512+00:00,50618513,46,Claude Ship,47,13
+2026-11-24T06:53:28.304512+00:00,50621977,47,Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity,80,61
+2026-11-24T06:53:28.304512+00:00,50574412,48,Show HN: Drive around my village in 3D,112,79
+2026-11-24T06:53:28.304512+00:00,50607668,49,"Yes, 17M lines of Lean is a lot",263,339
+2026-11-24T06:53:28.304512+00:00,50611861,50,Building a wireless network adapter for the Super Nintendo,80,17
