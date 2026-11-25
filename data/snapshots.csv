@@ -63485,3 +63485,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-25T12:39:10.959796+00:00,50606655,48,Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility,41,5
 2026-11-25T12:39:10.959796+00:00,50624497,49,2035 came early,1004,374
 2026-11-25T12:39:10.959796+00:00,50641373,50,Wall Street Expects Anthropic's Committed $900B Debt to Be Junk,6,0
+2026-11-25T22:20:59.642820+00:00,50644817,1,1Password Security Incident,884,378
+2026-11-25T22:20:59.642820+00:00,50646108,2,Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening,659,480
+2026-11-25T22:20:59.642820+00:00,50601280,3,GPT-6.2 Astra is the first model to beat Googlers' code golf records,110,22
+2026-11-25T22:20:59.642820+00:00,50648050,4,Much shorter version of GRH Lean verification from Anthropic,33,8
+2026-11-25T22:20:59.642820+00:00,50643129,5,A few questions for the guy who went snorkeling in a Home Depot retention pond,396,97
+2026-11-25T22:20:59.642820+00:00,50589784,6,SSH is a GUI framework,92,49
+2026-11-25T22:20:59.642820+00:00,50648035,7,Defang Security Incident,19,2
+2026-11-25T22:20:59.642820+00:00,50647161,8,Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server,27,6
+2026-11-25T22:20:59.642820+00:00,50644980,9,The polynomial Hirsch conjecture is false [pdf],90,17
+2026-11-25T22:20:59.642820+00:00,50647181,10,Slow Ubuntu security response times,27,8
+2026-11-25T22:20:59.642820+00:00,50647673,11,The New York Times tells photographers not to use the latest Photoshop,18,7
+2026-11-25T22:20:59.642820+00:00,50642939,12,I checked Clojure's core with Lean and found unreported bugs,156,53
+2026-11-25T22:20:59.642820+00:00,50645074,13,Britain's ghost stations,69,16
+2026-11-25T22:20:59.642820+00:00,50647158,14,"72-Hour Fasting Can Reset Your Immune System, USC Study Shows",12,2
+2026-11-25T22:20:59.642820+00:00,50641171,15,"Windows Loudness Equalization, reverse-engineered and ported to PipeWire",298,167
+2026-11-25T22:20:59.642820+00:00,50642086,16,"Google releases Cogentic papers on integer factorization, discrete logs and more",411,315
+2026-11-25T22:20:59.642820+00:00,50619073,17,The undocumented 249-file limit for Googlebot rendering,16,3
+2026-11-25T22:20:59.642820+00:00,50624446,18,Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs,186,75
+2026-11-25T22:20:59.642820+00:00,50637220,19,The matrix multiplication exponent is nine fourths [pdf],999,553
+2026-11-25T22:20:59.642820+00:00,50638032,20,Button Sounds – collection of professionally-recorded button clicks and presses,815,127
+2026-11-25T22:20:59.642820+00:00,50611593,21,Show HN: An agent skill that optimizes code with falsifiable hypotheses,48,7
+2026-11-25T22:20:59.642820+00:00,50635783,22,Predicting LoRA size for any dataset,99,11
+2026-11-25T22:20:59.642820+00:00,50624684,23,"Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",15,10
+2026-11-25T22:20:59.642820+00:00,50643199,24,"In C++, = default and {} are not the same constructor",91,151
+2026-11-25T22:20:59.642820+00:00,50639698,25,Smart people who give a shit use tools,231,180
+2026-11-25T22:20:59.642820+00:00,50637686,26,Models Can Communicate via Inference Servers Despite Being Sandboxed,436,187
+2026-11-25T22:20:59.642820+00:00,50643065,28,Rumors swirling that labs might have cracked Factoring in P,432,300
+2026-11-25T22:20:59.642820+00:00,50639929,29,The industrialization of noise: Automated proof-solving is the same old dead end [pdf],63,88
+2026-11-25T22:20:59.642820+00:00,50610682,30,A Beer Brewer's Noise Estimation,8,0
+2026-11-25T22:20:59.642820+00:00,50625654,31,"Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",66,11
+2026-11-25T22:20:59.642820+00:00,50643720,32,Investigating degraded experiences across GitHub products,174,93
+2026-11-25T22:20:59.642820+00:00,50638503,33,"Show HN: Old Nvidia and ATI tech demos, running again in the browser",325,70
+2026-11-25T22:20:59.642820+00:00,50637448,34,How did pinwheel calculators work?,24,2
+2026-11-25T22:20:59.642820+00:00,50648008,35,Prof. Sam Lawler: FUCK FUCK FUCK FUCK FUCK FUCK FUCK,38,9
+2026-11-25T22:20:59.642820+00:00,50637890,36,Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native,430,142
+2026-11-25T22:20:59.642820+00:00,50633922,37,Ternary Bonsai 2.5 27B,528,176
+2026-11-25T22:20:59.642820+00:00,50634426,38,Launch HN: Versine (YC F26) – MCP to send and receive money,103,102
+2026-11-25T22:20:59.642820+00:00,50637891,39,Macrohistory in Six Facts,162,84
+2026-11-25T22:20:59.642820+00:00,50607849,40,The short age of dragon riders,264,173
+2026-11-25T22:20:59.642820+00:00,50637056,41,PenGPT: A Generative Transformer for Handwriting and Sketches,384,76
+2026-11-25T22:20:59.642820+00:00,50638478,42,Taking over US Treasury subdomains for $3 each,222,48
+2026-11-25T22:20:59.642820+00:00,50627726,43,Getting old Java phones online again,154,68
+2026-11-25T22:20:59.642820+00:00,50628517,44,Is your DNS ready for a bigger namespace?,57,72
+2026-11-25T22:20:59.642820+00:00,50644814,45,Deriving Black-Scholes,48,42
+2026-11-25T22:20:59.642820+00:00,50646073,46,"When the Air Force Needed a Supercomputer, They Built It Out of PS3 Consoles",6,0
+2026-11-25T22:20:59.642820+00:00,50634658,47,GPT-6 models demonstrate intrinsic protein-design capabilities,349,94
+2026-11-25T22:20:59.642820+00:00,50638220,48,"Marginalia Search, Money, C++, Rust, AI, Stuff",214,81
+2026-11-25T22:20:59.642820+00:00,50646482,49,Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon,8,0
+2026-11-25T22:20:59.642820+00:00,50627079,50,The Shapes of Rivers,136,33
