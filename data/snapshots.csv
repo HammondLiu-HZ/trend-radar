@@ -63387,3 +63387,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-24T18:47:49.074128+00:00,50631614,48,"Alan Kay: Steve Jobs, Xerox PARC, Marijuana [video]",6,0
 2026-11-24T18:47:49.074128+00:00,50605361,49,The new set of problems for engineers to solve,83,67
 2026-11-24T18:47:49.074128+00:00,50630362,50,Amazon faces FAA probe after delivery drone strikes fiber cable and garage,20,10
+2026-11-25T02:59:16.124429+00:00,50637220,1,Matrix Multiplication is Θ(n^2.25) [pdf],148,42
+2026-11-25T02:59:16.124429+00:00,50637056,2,PenGPT: A Generative Transformer for Handwriting and Sketches,71,10
+2026-11-25T02:59:16.124429+00:00,50633922,3,Ternary Bonsai 2.5 27B,358,121
+2026-11-25T02:59:16.124429+00:00,50634658,4,GPT-6 models demonstrate intrinsic protein-design capabilities,182,54
+2026-11-25T02:59:16.124429+00:00,50634426,5,Launch HN: Versine (YC F26) – MCP to send and receive money,72,57
+2026-11-25T02:59:16.124429+00:00,50636925,6,"Here in the World: Letters of Albert Camus, 1944–1959",27,2
+2026-11-25T02:59:16.124429+00:00,50630594,7,Active intrusion campaign against Check Point security management servers,269,135
+2026-11-25T02:59:16.124429+00:00,50598555,8,The Spray Bottle,375,97
+2026-11-25T02:59:16.124429+00:00,50625265,9,Gödel Enigma,97,33
+2026-11-25T02:59:16.124429+00:00,50609483,10,Calculate how many mesh radio nodes your city needs,85,13
+2026-11-25T02:59:16.124429+00:00,50610820,11,An Italian folding bicycle design that fits into a suitcase,136,91
+2026-11-25T02:59:16.124429+00:00,50633424,12,From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver,72,1
+2026-11-25T02:59:16.124429+00:00,50606655,13,Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility,23,0
+2026-11-25T02:59:16.124429+00:00,50630462,14,Jetty Pro,280,123
+2026-11-25T02:59:16.124429+00:00,50635271,15,Heart attack and stroke risk detectable decades in advance,165,71
+2026-11-25T02:59:16.124429+00:00,50627783,16,GTA 6 Running on Windows,306,388
+2026-11-25T02:59:16.124429+00:00,50629231,17,"A training engine for your local model, using your idle compute",187,63
+2026-11-25T02:59:16.124429+00:00,50625384,18,Quad9 pulled their DNS service from France,361,200
+2026-11-25T02:59:16.124429+00:00,50591024,19,"Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",36,14
+2026-11-25T02:59:16.124429+00:00,50604355,20,Cento fine foods has been sued for “tomato fraud”,138,171
+2026-11-25T02:59:16.124429+00:00,50629106,21,Splitting USB-C: USB 3 and USB 2 on one port,139,90
+2026-11-25T02:59:16.124429+00:00,50620530,22,The Beauty of Artists' Studios,13,0
+2026-11-25T02:59:16.124429+00:00,50626620,23,The Artificial Monkey Mind,7,1
+2026-11-25T02:59:16.124429+00:00,50626413,25,Worshipping at the altar of Brendan Gregg,228,44
+2026-11-25T02:59:16.124429+00:00,50627340,26,"LLM agents work for their parent companies, not for you",925,391
+2026-11-25T02:59:16.124429+00:00,50599458,27,How a Mechanical Watch Keeps Time,227,59
+2026-11-25T02:59:16.124429+00:00,50633159,28,"Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",141,23
+2026-11-25T02:59:16.124429+00:00,50634933,29,An unclassified CIA system was breached in a cyberattack,111,40
+2026-11-25T02:59:16.124429+00:00,50622638,30,GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school,348,619
+2026-11-25T02:59:16.124429+00:00,50611576,31,Nvidia Reinstates Jensen Huang as CEO,2798,3735
+2026-11-25T02:59:16.124429+00:00,50624497,32,2035 came early,975,368
+2026-11-25T02:59:16.124429+00:00,50627836,33,Anthropic breaks below $83 IPO price,357,702
+2026-11-25T02:59:16.124429+00:00,50605361,34,The new set of problems for engineers to solve,133,115
+2026-11-25T02:59:16.124429+00:00,50620831,35,The search for a top dark matter candidate,68,61
+2026-11-25T02:59:16.124429+00:00,50629962,36,"The KL Divergence Is Never Negative, Except in PyTorch",86,36
+2026-11-25T02:59:16.124429+00:00,50630294,37,"Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",88,16
+2026-11-25T02:59:16.124429+00:00,50631157,38,"Microsoft declares 'Code Red' after historic outage, internal memos show",228,200
+2026-11-25T02:59:16.124429+00:00,50635698,39,Fable 5.2 tries less on some hard tasks when a shortcut is available,48,43
+2026-11-25T02:59:16.124429+00:00,50624061,40,AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years,221,127
+2026-11-25T02:59:16.124429+00:00,50625953,41,Just a Few Bugs,141,52
+2026-11-25T02:59:16.124429+00:00,50614249,42,Ladybird is now in alpha,2386,597
+2026-11-25T02:59:16.124429+00:00,50598094,43,An anti-slavery sugar bowl (2024),116,75
+2026-11-25T02:59:16.124429+00:00,50608343,44,SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance,67,5
+2026-11-25T02:59:16.124429+00:00,50598297,45,Overpass QL EBNF Grammar,7,0
+2026-11-25T02:59:16.124429+00:00,50632883,46,Cloudflare hides shortcomings of the underlying infrastructure,144,98
+2026-11-25T02:59:16.124429+00:00,50629936,47,Show HN: Brickie – Deploy sandboxes in your own AWS account,28,5
+2026-11-25T02:59:16.124429+00:00,50606192,48,Free alternative TV network built from the Internet Archive's forgotten videos,1071,181
+2026-11-25T02:59:16.124429+00:00,50630809,49,Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?,228,166
+2026-11-25T02:59:16.124429+00:00,50623515,50,Drone Maps of Salvage Yards,170,72
