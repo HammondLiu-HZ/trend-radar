@@ -63534,3 +63534,52 @@ captured_at,story_id,rank,title,score,comments
 2026-11-25T22:20:59.642820+00:00,50638220,48,"Marginalia Search, Money, C++, Rust, AI, Stuff",214,81
 2026-11-25T22:20:59.642820+00:00,50646482,49,Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon,8,0
 2026-11-25T22:20:59.642820+00:00,50627079,50,The Shapes of Rivers,136,33
+2026-11-26T04:52:31.453627+00:00,50646108,1,Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening,1137,968
+2026-11-26T04:52:31.453627+00:00,50644817,2,1Password Security Incident,1276,537
+2026-11-26T04:52:31.453627+00:00,50648050,3,Much shorter version of GRH Lean verification from Anthropic,353,179
+2026-11-26T04:52:31.453627+00:00,50598636,4,"The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",23,1
+2026-11-26T04:52:31.453627+00:00,50649864,5,Tell HN: Lots of Ask HNs again,165,71
+2026-11-26T04:52:31.453627+00:00,50626466,6,What VP ≠ VNP Means (In 3 Minutes),40,1
+2026-11-26T04:52:31.453627+00:00,50601280,7,GPT-6.2 Astra is the first model to beat Googlers' code golf records,303,84
+2026-11-26T04:52:31.453627+00:00,50649834,8,Collection of preserved UI style guides,52,3
+2026-11-26T04:52:31.453627+00:00,50647181,9,Slow Ubuntu security response times,194,96
+2026-11-26T04:52:31.453627+00:00,50643129,10,A few questions for the guy who went snorkeling in a Home Depot retention pond,457,112
+2026-11-26T04:52:31.453627+00:00,50637448,11,How did pinwheel calculators work?,46,4
+2026-11-26T04:52:31.453627+00:00,50648323,12,Deploying a payphone on a tiny Pacific Island for fun and zero profit,72,9
+2026-11-26T04:52:31.453627+00:00,50650892,13,Minipg: PostgreSQL as a Single Executable,16,1
+2026-11-26T04:52:31.453627+00:00,50651117,14,"OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",42,16
+2026-11-26T04:52:31.453627+00:00,50648365,15,Bare Metal Qwen,91,20
+2026-11-26T04:52:31.453627+00:00,50647673,16,The New York Times warns photographers not to update Photoshop over AI features,265,233
+2026-11-26T04:52:31.453627+00:00,50647161,17,Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server,110,39
+2026-11-26T04:52:31.453627+00:00,50589784,18,SSH is a GUI framework,158,78
+2026-11-26T04:52:31.453627+00:00,50651158,19,Qualcomm's Oryon 3 Reaches the Top,9,0
+2026-11-26T04:52:31.453627+00:00,50634381,20,Marginal Grains,4,0
+2026-11-26T04:52:31.453627+00:00,50642086,21,"Google releases Cogentic papers on integer factorization, discrete logs and more",466,342
+2026-11-26T04:52:31.453627+00:00,50620991,22,Hkust 3D Prints a Titanium Alloy That Keeps Hardening,18,0
+2026-11-26T04:52:31.453627+00:00,50644980,23,The polynomial Hirsch conjecture is false [pdf],138,37
+2026-11-26T04:52:31.453627+00:00,50644814,24,Deriving Black-Scholes,56,44
+2026-11-26T04:52:31.453627+00:00,50608175,25,Can a TV be too large? An investigation,37,55
+2026-11-26T04:52:31.453627+00:00,50616473,26,The trouble with serendipity: Scientific discoveries don't happen how you think,30,10
+2026-11-26T04:52:31.453627+00:00,50611889,27,Linear scan register allocation in Datalog,10,0
+2026-11-26T04:52:31.453627+00:00,50641171,28,"Windows Loudness Equalization, reverse-engineered and ported to PipeWire",326,184
+2026-11-26T04:52:31.453627+00:00,50610682,29,A beer brewer's noise estimation,21,2
+2026-11-26T04:52:31.453627+00:00,50648823,30,Jev is probably Qwen3.5-35B-A3B,271,75
+2026-11-26T04:52:31.453627+00:00,50623020,31,Hacking radiators,43,16
+2026-11-26T04:52:31.453627+00:00,50624446,32,Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs,242,96
+2026-11-26T04:52:31.453627+00:00,50642939,33,I checked Clojure's core with Lean and found unreported bugs,201,70
+2026-11-26T04:52:31.453627+00:00,50651099,34,"Show HN: Olumino, a Markdown notes and spaced repetition app",5,5
+2026-11-26T04:52:31.453627+00:00,50645074,35,Britain's ghost stations,113,21
+2026-11-26T04:52:31.453627+00:00,50639698,36,Smart people who give a shit use tools,301,236
+2026-11-26T04:52:31.453627+00:00,50635783,37,Predicting LoRA size for any dataset,119,12
+2026-11-26T04:52:31.453627+00:00,50611593,38,Show HN: An agent skill that optimizes code with falsifiable hypotheses,92,10
+2026-11-26T04:52:31.453627+00:00,50648035,39,Defang Security Incident,69,20
+2026-11-26T04:52:31.453627+00:00,50619073,41,The undocumented 249-file limit for Googlebot rendering,41,17
+2026-11-26T04:52:31.453627+00:00,50638503,42,"Show HN: Old Nvidia and ATI tech demos, running again in the browser",341,79
+2026-11-26T04:52:31.453627+00:00,50647158,43,"72-hour fasting can reset your immune system, USC study shows",200,155
+2026-11-26T04:52:31.453627+00:00,50650842,44,Proving a Fixed Upper Bound on Jensen's Affairs,16,3
+2026-11-26T04:52:31.453627+00:00,50637890,45,Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native,445,145
+2026-11-26T04:52:31.453627+00:00,50643199,46,"In C++, = default and {} are not the same constructor",111,171
+2026-11-26T04:52:31.453627+00:00,50634426,47,Launch HN: Versine (YC F26) – MCP to send and receive money,104,103
+2026-11-26T04:52:31.453627+00:00,50637220,48,The matrix multiplication exponent is nine fourths [pdf],1032,582
+2026-11-26T04:52:31.453627+00:00,50624684,49,"Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",41,25
+2026-11-26T04:52:31.453627+00:00,50638032,50,Button Sounds – collection of professionally-recorded button clicks and presses,855,132
