@@ -63829,3 +63829,53 @@ captured_at,story_id,rank,title,score,comments
 2026-11-28T01:51:24.736811+00:00,50670694,48,"Michael Giles, co-founder and drummer of King Crimson, dies aged 84",48,3
 2026-11-28T01:51:24.736811+00:00,50671559,49,Banks look to dump AI debt,24,4
 2026-11-28T01:51:24.736811+00:00,50663261,50,Buy Nothing Day – Friday November 27th 2026,337,106
+2026-11-28T10:07:47.940643+00:00,50674218,1,"Unkernel: Real Linux kernel, compiled to WebAssembly",308,74
+2026-11-28T10:07:47.940643+00:00,50632052,2,"Loom seamlessly combines weaving, knitting and braiding",117,10
+2026-11-28T10:07:47.940643+00:00,50672565,3,Google's DeepCrossAttention achieves comparable model quality up to 3x faster,396,151
+2026-11-28T10:07:47.940643+00:00,50657346,4,The Balatro Timeline,368,87
+2026-11-28T10:07:47.940643+00:00,50674452,5,Knuth: Moratorium on Error Reports,87,52
+2026-11-28T10:07:47.940643+00:00,50643158,6,GPT 6.2 Astra Solves a Historical Mystery,446,282
+2026-11-28T10:07:47.940643+00:00,50666724,7,Paolo Soleri built a utopian eco-city in the Arizona desert,66,13
+2026-11-28T10:07:47.940643+00:00,50668145,8,Credit card skimming scripts using WebRTC found on popular shopping sites,526,271
+2026-11-28T10:07:47.940643+00:00,50650253,9,Sydney Fire Ant Infestation,59,36
+2026-11-28T10:07:47.940643+00:00,50669765,10,Convex skills send the user's app idea to a remote server without telling them,304,97
+2026-11-28T10:07:47.940643+00:00,50644341,11,What Is the Metabolism-First Theory for the Origin of Life?,22,7
+2026-11-28T10:07:47.940643+00:00,50642758,12,The Quantum Omelette Problem,5,0
+2026-11-28T10:07:47.940643+00:00,50662313,13,Citroën Hydraulic System,202,60
+2026-11-28T10:07:47.940643+00:00,50672521,14,Tabernetes: A Kubernetes cluster whose nodes are browser tabs,130,42
+2026-11-28T10:07:47.940643+00:00,50667726,15,Show HN: bouncemarket – a live prediction market game for a bouncing ball,374,126
+2026-11-28T10:07:47.940643+00:00,50672008,16,9/UX: a Macintosh-inspired desktop for 9front,129,32
+2026-11-28T10:07:47.940643+00:00,50670757,17,Michael Nielsen took down his book on neural nets,537,333
+2026-11-28T10:07:47.940643+00:00,50631823,18,Build your own amp modeler: $78 DIY pedal kit from TONE3000,91,20
+2026-11-28T10:07:47.940643+00:00,50657392,19,First images of the impact of DART asteroid deflection experiment,213,67
+2026-11-28T10:07:47.940643+00:00,50667371,20,Rayshader 1.0: Exit the Matrix,131,17
+2026-11-28T10:07:47.940643+00:00,50675195,21,FastLanes: Next-gen File Format [pdf],10,1
+2026-11-28T10:07:47.940643+00:00,50654773,22,How WinHelp Files Work,40,24
+2026-11-28T10:07:47.940643+00:00,50671275,23,"Prospero: Bloat-free, native AI coding harness with ImGui",75,25
+2026-11-28T10:07:47.940643+00:00,50670855,24,"States sue SpaceX to stop Grok from generating child sex images, revenge porn",387,237
+2026-11-28T10:07:47.940643+00:00,50633531,25,Show HN: Analysis of Hacker News predictions since 2008,94,73
+2026-11-28T10:07:47.940643+00:00,50669673,26,Show HN: DragDropMath – Learn math by feel,138,39
+2026-11-28T10:07:47.940643+00:00,50644213,27,Cyberpunk Television Shows,108,95
+2026-11-28T10:07:47.940643+00:00,50667989,28,False computer-checked proofs,229,88
+2026-11-28T10:07:47.940643+00:00,50671651,29,SessionGraph: Visualize all your coding agent sessions in one interactive graph,59,25
+2026-11-28T10:07:47.940643+00:00,50673688,30,Atari Homebrew Awards Cancelled,205,197
+2026-11-28T10:07:47.940643+00:00,50647120,31,"Same Streets, Different Empires: The Hidden Narrative of Map Copyright",5,0
+2026-11-28T10:07:47.940643+00:00,50657300,32,fplotlib – Fortran Plotting Library,17,3
+2026-11-28T10:07:47.940643+00:00,50670841,33,The AT&T Unix PC (3B1) VM,82,14
+2026-11-28T10:07:47.940643+00:00,50664325,34,Claude sabotaging ML research tasks?,705,312
+2026-11-28T10:07:47.940643+00:00,50667062,35,Making a 3D fantasy map like a 16th-Century atlas,120,18
+2026-11-28T10:07:47.940643+00:00,50662933,36,"""What's Claude's fursona?"" and other questions",202,192
+2026-11-28T10:07:47.940643+00:00,50671619,37,Quad9 Blocks Nginx2root.com,27,16
+2026-11-28T10:07:47.940643+00:00,50673521,38,Woman evicted after landlord's AI assistant told her she could delay rent,171,124
+2026-11-28T10:07:47.940643+00:00,50638593,39,Lydian Chromatic Concept of Tonal Organization,60,13
+2026-11-28T10:07:47.940643+00:00,50675294,40,"Goodbye, World: The End of Programmers",19,16
+2026-11-28T10:07:47.940643+00:00,50673018,41,Show HN: A 52 KB WebAssembly engine that runs Qwen3.5-2B in a browser tab,18,4
+2026-11-28T10:07:47.940643+00:00,50672142,42,Source Control from Hell,90,68
+2026-11-28T10:07:47.940643+00:00,50660180,43,AI made self-hosting fun again,1119,522
+2026-11-28T10:07:47.940643+00:00,50663595,44,Group chat where your AI talks behind your back,707,290
+2026-11-28T10:07:47.940643+00:00,50667452,45,"Show HN: I restored Palm's last device, and brought its OS to other platforms",80,27
+2026-11-28T10:07:47.940643+00:00,50666375,46,US Air Force's cloud computing platform hacked,345,211
+2026-11-28T10:07:47.940643+00:00,50665968,47,A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf],212,93
+2026-11-28T10:07:47.940643+00:00,50675878,48,Has AI just cracked Internet encryption? Rumoured 'bombshell' stuns scientists,7,0
+2026-11-28T10:07:47.940643+00:00,50675205,49,It's never been more exhausting to buy stuff,15,1
+2026-11-28T10:07:47.940643+00:00,50647400,50,Atlantic 1866: information and shipping in the age of the telegraph,45,8
